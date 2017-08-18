@@ -18,7 +18,7 @@ from datetime import datetime, timedelta
 import re
 
 
-search_term = "Donald Trump"
+search_term = "Trump"
 days_ago = 10
 # Take out any punctuation marks from name and convert to lowercase
 search_term = search_term.translate(None, string.punctuation)
@@ -41,9 +41,10 @@ soup = BeautifulSoup(page.content, 'html.parser')
 articles = soup.find_all(class_="post-detail")
 timestamp = []
 article_link = []
-stories = []
-headlines = []
-subheads = []
+fetched_stories = []
+fetched_headlines = []
+fetched_subheads = []
+
 
 
 # For every article on the page, get the link and the time it was posted at.
@@ -59,13 +60,13 @@ for i in range(0,len(articles)):
         timestamp_stripped = re.findall('Posted (.*?) @', timestamp_tmp)
         timestamp_stripped = timestamp_stripped[0]
 
-        timestamp_stripped = timestamp_stripped.encode('ascii', errors='ignore')
+        timestamp_stripped = timestamp_stripped.encode('utf-8', errors='ignore')
         timestamp_stripped = timestamp_stripped.translate(None, string.punctuation)
         timestamp.append(datetime.strptime(timestamp_stripped, "%b %d %Y"))
     
     article_link_children = article_tags.find_all('a')
     article_link_tmp = article_link_children[0]
-    article_link.append(article_link_tmp['href'].encode('ascii',errors='ignore'))
+    article_link.append(article_link_tmp['href'].encode('utf-8',errors='ignore'))
 
 # Which results are recent?
 is_recent = [datetime.today() - timedelta(days=days_ago) < x for x in timestamp]
@@ -82,18 +83,20 @@ for i in range(0,len(link_indices)):
         story_tmp = story_tag[1].get_text()
         story = re.findall('caption":"(.*?)","url"', story_tmp)
         story = ' '.join(story)
-        stories.append(story.encode('ascii',errors='ignore'))
-    else:
-        stories.append('NA')
-    
-    title_tag = res_soup.find_all("title")
-    title = title_tag[0].get_text()
-    subtitle_tag = res_soup.find_all(class_="entry-subtitle")
-    subtitle = subtitle_tag[0].get_text()
-    headlines.append(title.encode('ascii', errors = 'ignore'))
-    subheads.append(subtitle.encode('ascii', errors = 'ignore'))
+        story = story.decode('unicode_escape')
+        fetched_stories.append(story.encode('utf-8',errors='ignore'))
+        title_tag = res_soup.find_all("title")
+        title = title_tag[0].get_text()
+        subtitle_tag = res_soup.find_all(class_="entry-subtitle")
+        subtitle = subtitle_tag[0].get_text()
+        fetched_headlines.append(title.encode('utf-8', errors = 'ignore'))
+        fetched_subheads.append(subtitle.encode('utf-8', errors = 'ignore'))
     
     
-print(headlines[1])
-print(subheads[1])
-print(stories[1])
+# Write results to a txt file
+out_file = open("Natl_Enquirer_Scraper_Output.txt","w")
+for j in range(0,len(fetched_stories)):
+    out_file.write("%s\n" % fetched_headlines[j])
+    out_file.write("%s\n" % fetched_subheads[j])
+    out_file.write("%s\n" % fetched_stories[j])
+out_file.close()
