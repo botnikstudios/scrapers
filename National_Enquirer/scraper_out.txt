@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if IE 9]>
+<html class="ie ie9" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#">
+<!--<![endif]-->
+<head><link href="http://cdn-neq0.heartyhosting.com/wp-content/cache/minify/000000/hU9JDoMwDPwQwbQfqkKwgqmzNE6K-H1ZGgmkSr3NjGaxO3hTBO1U5GLJywpJWc2MabmDkYugJC-M0nQ15PEFu3aVJoEwszI6hSLIG2kr-e_MIzpsbjBhjto8wYWhrKsw02AxC5DTFtXBLuv1BdHEeUxlP__wtVJ6MYn6c_GDvAGLHhOZsOZ-wpN_q_viDw.css?20170808" media="all" rel="stylesheet" type="text/css"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, user-scalable=0" name="viewport"/>
+<!-- favicon -->
+<link href="/images/favicon/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/images/favicon/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="/images/favicon/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/images/favicon/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="/images/favicon/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/images/favicon/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="/images/favicon/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="/images/favicon/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/images/favicon/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/images/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/images/favicon/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="/images/favicon/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="/images/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="http://cdn-neq1.heartyhosting.com/wp-content/themes/vip/am-neq/images/favicon/manifest.json" rel="manifest"/>
+<link color="#5bbad5" href="http://cdn-neq0.heartyhosting.com/wp-content/themes/vip/am-neq/images/favicon/safari-pinned-tab.svg" rel="mask-icon"/>
+<link href="http://cdn-neq1.heartyhosting.com/wp-content/themes/vip/am-neq/images/favicon/favicon.ico" rel="shortcut icon"/>
+<meta content="#da532c" name="msapplication-TileColor"/>
+<meta content="/images/favicon/mstile-144x144.png" name="msapplication-TileImage"/>
+<meta content="http://cdn-neq1.heartyhosting.com/wp-content/themes/vip/am-neq/images/favicon/browserconfig.xml" name="msapplication-config"/>
+<meta content="#ffffff" name="theme-color"/>
+<!-- -->
+<title>Trump Advisor Sex Scandal — Paul Manafort's Sick Affair</title>
+<link href="http://gmpg.org/xfn/11" rel="profile">
+<link href="http://www.nationalenquirer.com/xmlrpc.php" rel="pingback">
+<script>
+    var _0x316a=["\x44\x46\x50","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x70\x61\x72\x65\x6E\x74","\x72\x65\x66\x65\x72\x72\x65\x72","\x68\x72\x65\x66","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x34","\x35","\x61\x64\x73","\x44\x46\x50\x20\x53\x74\x61\x72\x74","\x6C\x65\x6E\x67\x74\x68","\x64\x69\x6D\x65\x6E\x73\x69\x6F\x6E","\x2C","\x6A\x6F\x69\x6E","\x48\x42\x20\x73\x65\x6E\x64\x69\x6E\x67\x20\x74\x6F\x20\x47\x41\x3A","\x6C\x6F\x67","\x68\x62\x2E\x73\x65\x6E\x64","\x74\x69\x6D\x69\x6E\x67","\x74\x72\x61\x63\x6B\x69\x6E\x67\x49\x64","\x67\x65\x74","\x67\x65\x74\x41\x6C\x6C","\x63\x72\x65\x61\x74\x65","\x61\x75\x74\x6F","\x68\x62","\x65\x6E\x64","\x67\x65\x74\x54\x69\x6D\x65","\x72\x65\x73\x70\x6F\x6E\x73\x65\x45\x6E\x64","\x70\x65\x72\x66\x6F\x72\x6D\x61\x6E\x63\x65","\x6D\x69\x6E","\x73\x74\x61\x72\x74","\x70\x75\x73\x68","\x73\x6F\x72\x74","","\x73\x65\x6C\x66","\x74\x6F\x70","\x7C","\x20\x65\x72\x72\x6F\x72\x3A\x20","\x6D\x65\x73\x73\x61\x67\x65","\x4F\x50\x45\x4E\x58","\x59\x4C\x44\x42\x54","\x50\x42\x4D\x54\x43","\x52\x55\x42\x49","\x41\x4F\x4C","\x53\x56\x52\x4E","\x49\x4E\x44\x58","\x46\x42","\x53\x48\x54\x48","\x33\x4C\x49\x46\x54","\x59\x49\x45\x4C\x44","\x53\x4F\x56\x52","\x69\x6E\x64\x65\x78\x4F\x66","\x2E\x2A","\x74\x65\x73\x74","\x6F\x70\x65\x6E","\x70\x72\x6F\x74\x6F\x74\x79\x70\x65","\x73\x65\x6E\x64","\x61\x70\x70\x6C\x79","\x45\x72\x72\x6F\x72\x20\x72\x75\x6E\x6E\x69\x6E\x67\x20\x48\x42\x20\x6F\x70\x65\x6E","\x6F\x6E\x72\x65\x61\x64\x79\x73\x74\x61\x74\x65\x63\x68\x61\x6E\x67\x65","\x72\x65\x61\x64\x79\x53\x74\x61\x74\x65","\x73\x74\x61\x74\x75\x73","\x72\x65\x73\x70\x6F\x6E\x73\x65\x55\x52\x4C","\x48\x42\x20\x44\x46\x50\x20\x73\x65\x6E\x64\x69\x6E\x67\x20\x74\x69\x6D\x69\x6E\x67\x73\x20\x66\x72\x6F\x6D\x20\x6D\x75\x74\x61\x69\x6F\x6E\x20\x6F\x62\x6A\x65\x63\x74","\x48\x42\x20\x53\x54\x41\x54\x45\x3A\x20","\x20\x63\x6F\x64\x65\x3A","\x20","\x20\x62\x69\x64\x64\x65\x72\x3A","\x45\x72\x72\x6F\x72\x20\x72\x75\x6E\x6E\x69\x6E\x67\x20\x48\x42\x20\x73\x65\x6E\x64","\x61\x64\x64\x65\x64\x4E\x6F\x64\x65\x73","\x73\x72\x63","\x6F\x6E\x6C\x6F\x61\x64","\x48\x42\x20","\x20\x73\x63\x72\x69\x70\x74\x20\x6C\x6F\x61\x64\x65\x64\x20","\x66\x6F\x72\x45\x61\x63\x68","\x68\x65\x61\x64","\x6F\x62\x73\x65\x72\x76\x65","\x66\x75\x6E\x63\x74\x69\x6F\x6E","\x45\x72\x72\x6F\x72\x20\x67\x61\x74\x68\x65\x72\x69\x6E\x67\x20\x68\x65\x61\x64\x65\x72\x20\x62\x69\x64\x64\x65\x72\x20\x73\x74\x61\x74\x73"];try{var DEBUG=false;var DFP_ID=_0x316a[0];var bidders={};var hb_timings_sent=false;var hb_onload_run=false;var MAX_MILLIS=9000;var getIFrameURL=function(){return (window[_0x316a[1]]!= window[_0x316a[2]][_0x316a[1]])?document[_0x316a[3]]:document[_0x316a[1]][_0x316a[4]]};var hb_track_hb=function(_0x381ax9,_0x381axa,_0x381axb,_0x381axc){var _0x381axd=bidders[_0x381ax9][_0x381axa];if(_0x381axd&& _0x381axd> 0&& _0x381axd<= MAX_MILLIS){if( typeof hbDFPdim=== _0x316a[5]){hbDFPdim= _0x316a[6]};if( typeof hbFRAMEdim=== _0x316a[5]){hbFRAMEdim= _0x316a[7]};var _0x381axe={timingCategory:_0x316a[8],timingVar:_0x316a[0],timingValue:_0x381axd,timingLabel:_0x316a[9]};if(_0x381axb[_0x316a[10]]> 0){_0x381axe[_0x316a[11]+ hbDFPdim]= _0x381axb[_0x316a[13]](_0x316a[12])};if(_0x381axc){_0x381axe[_0x316a[11]+ hbFRAMEdim]= _0x381axc};if(DEBUG){console[_0x316a[15]](_0x316a[14]);console[_0x316a[15]](_0x381axe)}else {ga(_0x316a[16],_0x316a[17],_0x381axe)};return true};return false};var hb_log_timings=function(){if(hb_timings_sent){return};hb_timings_sent= true;var _0x381ax10=ga[_0x316a[20]]()[0][_0x316a[19]](_0x316a[18]);ga(_0x316a[21],{trackingId:_0x381ax10,cookieDomain:_0x316a[22],name:_0x316a[23],siteSpeedSampleRate:1});var _0x381axb=[];for(bidder in bidders){if(bidder== DFP_ID){continue};if(!bidders[bidder][_0x316a[24]]){bidders[bidder][_0x316a[24]]= Math[_0x316a[28]](( new Date())[_0x316a[25]]()- window[_0x316a[27]][_0x316a[17]][_0x316a[26]],MAX_MILLIS)};if(bidders[bidder][_0x316a[24]]- bidders[DFP_ID][_0x316a[29]]> 0){_0x381axb[_0x316a[30]](bidder)}};_0x381axb[_0x316a[31]]();var _0x381axc=_0x316a[32];try{if(window[_0x316a[33]]!== window[_0x316a[34]]){var _0x381ax11=null;if(window[_0x316a[33]]&& window[_0x316a[33]][_0x316a[1]]){_0x381ax11= window[_0x316a[33]][_0x316a[1]][_0x316a[4]]};var _0x381ax12=null;if(window[_0x316a[34]]&& window[_0x316a[34]][_0x316a[1]]){_0x381ax12= window[_0x316a[34]][_0x316a[1]][_0x316a[4]]};if(_0x381ax11!= _0x381ax12){_0x381axc= getIFrameURL();_0x381axc= _0x381axc+ _0x316a[35]+ _0x381ax11+ _0x316a[35]+ _0x381ax12}}}catch(err){_0x381axc= getIFrameURL()+ _0x316a[36]+ err[_0x316a[37]]};hb_track_hb(DFP_ID,_0x316a[29],_0x381axb,_0x381axc)};var jsRegexp={"\x2E\x64\x6F\x75\x62\x6C\x65\x63\x6C\x69\x63\x6B\x2E\x6E\x65\x74\x2F\x67\x61\x6D\x70\x61\x64\x2F\x61\x64\x73":_0x316a[0],"\x2E\x6F\x70\x65\x6E\x78\x2E\x6E\x65\x74\x2F\x77\x2F\x31\x2E\x30\x2F\x61\x63\x6A":_0x316a[38],"\x2E\x79\x6C\x64\x62\x74\x2E\x63\x6F\x6D\x2F\x6D\x2F\x2E\x2A\x69\x6E\x69\x74":_0x316a[39]};var xhrRegexp={"\x2E\x70\x75\x62\x6D\x61\x74\x69\x63\x2E\x63\x6F\x6D\x2F\x41\x64\x53\x65\x72\x76\x65\x72\x2F\x41\x64\x43\x61\x6C\x6C\x41\x67\x67\x72\x65\x67\x61\x74\x6F\x72":_0x316a[40],"\x2E\x70\x75\x62\x6D\x61\x74\x69\x63\x2E\x63\x6F\x6D\x2F\x41\x64\x53\x65\x72\x76\x65\x72\x2F\x41\x64\x53\x65\x72\x76\x65\x72\x53\x65\x72\x76\x6C\x65\x74":_0x316a[40],"\x2E\x72\x75\x62\x69\x63\x6F\x6E\x70\x72\x6F\x6A\x65\x63\x74\x2E\x63\x6F\x6D\x2F\x61\x2F\x61\x70\x69\x2F\x66\x61\x73\x74\x6C\x61\x6E\x65\x2E\x6A\x73\x6F\x6E":_0x316a[41],"\x2E\x61\x64\x74\x65\x63\x68\x2E\x2A\x2E\x61\x64\x76\x65\x72\x74\x69\x73\x69\x6E\x67\x2E\x63\x6F\x6D\x2F\x70\x75\x62\x61\x70\x69\x2E\x2A\x63\x6D\x64\x3D\x62\x69\x64":_0x316a[42],"\x2E\x6C\x69\x6A\x69\x74\x2E\x63\x6F\x6D\x2F\x72\x74\x62\x2F\x62\x69\x64":_0x316a[43],"\x2E\x63\x61\x73\x61\x6C\x65\x6D\x65\x64\x69\x61\x2E\x63\x6F\x6D\x2F\x63\x79\x67\x6E\x75\x73":_0x316a[44],"\x66\x61\x63\x65\x62\x6F\x6F\x6B\x2E\x63\x6F\x6D\x2E\x2A\x70\x6C\x61\x63\x65\x6D\x65\x6E\x74\x62\x69\x64\x2E\x6A\x73\x6F\x6E":_0x316a[45],"\x62\x74\x6C\x72\x2E\x73\x68\x61\x72\x65\x74\x68\x72\x6F\x75\x67\x68\x2E\x2A\x68\x65\x61\x64\x65\x72\x2D\x62\x69\x64\x2F":_0x316a[46],"\x74\x6C\x78\x2E\x33\x6C\x69\x66\x74\x2E\x63\x6F\x6D\x2E\x2A\x61\x75\x63\x74\x69\x6F\x6E":_0x316a[47],"\x61\x64\x73\x2E\x2A\x79\x6C\x64\x62\x74\x2E\x63\x6F\x6D\x2F\x6D\x2F":_0x316a[48],"\x2E\x6C\x69\x6A\x69\x74\x2E\x63\x6F\x6D\x2F\x72\x74\x62\x2E\x2A\x2F\x62\x69\x64":_0x316a[49]};function url2bidder(_0x381ax16,_0x381ax17){if(!_0x381ax16){return};for(var _0x381ax18 in _0x381ax17?xhrRegexp:jsRegexp){if(_0x381ax16[_0x316a[50]](_0x381ax18)!=  -1){return _0x381ax17?xhrRegexp[_0x381ax18]:jsRegexp[_0x381ax18]};if(_0x381ax18[_0x316a[50]](_0x316a[51])!=  -1){var _0x381ax19= new RegExp(_0x381ax18);if(_0x381ax19[_0x316a[52]](_0x381ax16)){return _0x381ax17?xhrRegexp[_0x381ax18]:jsRegexp[_0x381ax18]}}}}var open_original=XMLHttpRequest[_0x316a[54]][_0x316a[53]];var send_original=XMLHttpRequest[_0x316a[54]][_0x316a[55]];XMLHttpRequest[_0x316a[54]][_0x316a[53]]= function(_0x381ax1c,_0x381ax16,_0x381ax1d,_0x381ax1e,_0x381ax1f){try{var _0x381ax9=url2bidder(_0x381ax16,true);if(!_0x381ax9|| bidders[_0x381ax9]){return open_original[_0x316a[56]](this,arguments)};bidders[_0x381ax9]= {start:( new Date())[_0x316a[25]]()- window[_0x316a[27]][_0x316a[17]][_0x316a[26]]}}catch(e_open){console[_0x316a[15]](_0x316a[57]);console[_0x316a[15]](e_open)}finally{return open_original[_0x316a[56]](this,arguments)}};XMLHttpRequest[_0x316a[54]][_0x316a[55]]= function(_0x381ax20){try{var _0x381ax21=this[_0x316a[58]];this[_0x316a[58]]= function(){if(this[_0x316a[59]]!= 4|| this[_0x316a[60]]!= 200){if(_0x381ax21){return _0x381ax21[_0x316a[56]](this,arguments)}else {return}};var _0x381ax16=this[_0x316a[61]];var _0x381ax9=url2bidder(_0x381ax16,true);if(!_0x381ax9||  !bidders[_0x381ax9][_0x316a[29]] || bidders[_0x381ax9][_0x316a[24]]){if(_0x381ax21){return _0x381ax21[_0x316a[56]](this,arguments)}else {return}};bidders[_0x381ax9][_0x316a[24]]= ( new Date())[_0x316a[25]]()- window[_0x316a[27]][_0x316a[17]][_0x316a[26]];if(_0x381ax9== DFP_ID){if(hb_onload_run&&  !hb_timings_sent){if(DEBUG){console[_0x316a[15]](_0x316a[62])};hb_log_timings()}};if(DEBUG){console[_0x316a[15]](_0x316a[63]+ this[_0x316a[59]]+ _0x316a[64]+ this[_0x316a[60]]+ _0x316a[65]+ _0x381ax16+ _0x316a[66]+ _0x381ax9+ _0x316a[65]+ bidders[_0x381ax9][_0x316a[29]]+ _0x316a[65]+ bidders[_0x381ax9][_0x316a[24]])};if(_0x381ax21){return _0x381ax21[_0x316a[56]](this,arguments)}else {return}}}catch(e_send){console[_0x316a[15]](_0x316a[67]);console[_0x316a[15]](e_send)}finally{return send_original[_0x316a[56]](this,arguments)}};var observer= new MutationObserver(function(_0x381ax23){_0x381ax23[_0x316a[73]](function(_0x381ax24){for(var _0x381ax25=0;_0x381ax25< _0x381ax24[_0x316a[68]][_0x316a[10]];_0x381ax25++){if(_0x381ax24[_0x316a[68]][_0x381ax25] instanceof  HTMLScriptElement){var _0x381ax16=_0x381ax24[_0x316a[68]][_0x381ax25][_0x316a[69]];var _0x381ax9=url2bidder(_0x381ax16,false);if(!_0x381ax9&& _0x381ax9!= DFP_ID){continue};if(bidders[_0x381ax9]&& bidders[_0x381ax9][_0x316a[29]]){continue};bidders[_0x381ax9]= {start:( new Date())[_0x316a[25]]()- window[_0x316a[27]][_0x316a[17]][_0x316a[26]]};_0x381ax24[_0x316a[68]][_0x381ax25][_0x316a[70]]= function(){bidders[_0x381ax9][_0x316a[24]]= ( new Date())[_0x316a[25]]()- window[_0x316a[27]][_0x316a[17]][_0x316a[26]];if(_0x381ax9== DFP_ID){if(hb_onload_run&&  !hb_timings_sent){if(DEBUG){console[_0x316a[15]](_0x316a[62])};hb_log_timings()}};if(DEBUG){console[_0x316a[15]](_0x316a[71]+ _0x381ax9+ _0x316a[72]+ _0x381ax16+ _0x316a[65]+ bidders[_0x381ax9][_0x316a[29]]+ _0x316a[65]+ bidders[_0x381ax9][_0x316a[24]])}}}}})});observer[_0x316a[75]](document[_0x316a[74]],{childList:true});var oldonload=window[_0x316a[70]];window[_0x316a[70]]= function(){hb_onload_run= true;if( typeof oldonload== _0x316a[76]){oldonload()};if(!bidders[DFP_ID]||  !bidders[DFP_ID][_0x316a[24]]){return};hb_log_timings()}}catch(e){console[_0x316a[15]](_0x316a[77]);console[_0x316a[15]](e)}    </script>
+<!-- Jetpack Site Verification Tags -->
+<meta content="kONM_PqGX8Za53dFcExSTIIPZxxN_S4QtvDlONzzdA0" name="google-site-verification">
+<script>eval(atob("IWZ1bmN0aW9uIHQoZSxuLG8pe2Z1bmN0aW9uIHIoYSxzKXtpZighblthXSl7aWYoIWVbYV0pe3ZhciB1PSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFzJiZ1KXJldHVybiB1KGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIGQ9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IGQuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsZH12YXIgYz1uW2FdPXtleHBvcnRzOnt9fTtlW2FdWzBdLmNhbGwoYy5leHBvcnRzLGZ1bmN0aW9uKHQpe3ZhciBuPWVbYV1bMV1bdF07cmV0dXJuIHIobnx8dCl9LGMsYy5leHBvcnRzLHQsZSxuLG8pfXJldHVybiBuW2FdLmV4cG9ydHN9Zm9yKHZhciBpPSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlLGE9MDthPG8ubGVuZ3RoO2ErKylyKG9bYV0pO3JldHVybiByfSh7MTpbZnVuY3Rpb24odCxlLG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiBvKHQpe3ZhciBlPWFyZ3VtZW50cy5sZW5ndGg+MSYmdm9pZCAwIT09YXJndW1lbnRzWzFdP2FyZ3VtZW50c1sxXToiTkVXX1NDUklQVF9FVkVOVCIsbj1hcmd1bWVudHMubGVuZ3RoPjImJnZvaWQgMCE9PWFyZ3VtZW50c1syXT9hcmd1bWVudHNbMl06e30sbz1uZXcgcihlLHtkZXRhaWw6bn0pO3QuZGlzcGF0Y2hFdmVudChvKX12YXIgcj10KDMpO2UuZXhwb3J0cz1vfSx7MzozfV0sMjpbZnVuY3Rpb24odCxlLG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiBvKHQpe3QuYWRvbmlzPXQuYWRvbmlzfHx7fSx0LmFkb25pcy5zY3JpcHRTdGF0dXNlcz17fSx0LmFkb25pcy5yZXF1ZXN0U3RhdHVzZXM9e307dmFyIGU9dC5YTUxIdHRwUmVxdWVzdC5wcm90b3R5cGUub3Blbjt0LlhNTEh0dHBSZXF1ZXN0LnByb3RvdHlwZS5vcGVuPWZ1bmN0aW9uKG4sbyl7dGhpcy5hZGRFdmVudExpc3RlbmVyKCJlcnJvciIsZnVuY3Rpb24oZSl7MD09PXRoaXMuc3RhdHVzP3QuYWRvbmlzLnNjcmlwdFN0YXR1c2VzW29dPSJlcnJvciI6dC5hZG9uaXMuc2NyaXB0U3RhdHVzZXNbb109ImxvYWQifSksdGhpcy5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbihlKXt0LmFkb25pcy5zY3JpcHRTdGF0dXNlc1tvXT0ibG9hZCJ9KSx0aGlzLmFkZEV2ZW50TGlzdGVuZXIoImxvYWRlbmQiLGZ1bmN0aW9uKGUpe3QuYWRvbmlzLnJlcXVlc3RTdGF0dXNlc1tvXT10aGlzLnN0YXR1cyxyKHQpfSk7dmFyIGk9W10uc2xpY2UuY2FsbChhcmd1bWVudHMsMCk7cmV0dXJuIGUuYXBwbHkodGhpcyxpKX19dmFyIHI9dCgxKTtlLmV4cG9ydHM9e3dyYXBYTUxIdHRwUmVxdWVzdDpvfX0sezE6MX1dLDM6W2Z1bmN0aW9uKHQsZSxuKXsoZnVuY3Rpb24odCl7dmFyIG49dC5DdXN0b21FdmVudDtlLmV4cG9ydHM9ZnVuY3Rpb24oKXt0cnl7dmFyIHQ9bmV3IG4oImNhdCIse2RldGFpbDp7Zm9vOiJiYXIifX0pO3JldHVybiJjYXQiPT09dC50eXBlJiYiYmFyIj09PXQuZGV0YWlsLmZvb31jYXRjaCh0KXt9cmV0dXJuITF9KCk/bjoidW5kZWZpbmVkIiE9dHlwZW9mIGRvY3VtZW50JiYiZnVuY3Rpb24iPT10eXBlb2YgZG9jdW1lbnQuY3JlYXRlRXZlbnQ/ZnVuY3Rpb24odCxlKXt2YXIgbj1kb2N1bWVudC5jcmVhdGVFdmVudCgiQ3VzdG9tRXZlbnQiKTtyZXR1cm4gZT9uLmluaXRDdXN0b21FdmVudCh0LGUuYnViYmxlcyxlLmNhbmNlbGFibGUsZS5kZXRhaWwpOm4uaW5pdEN1c3RvbUV2ZW50KHQsITEsITEsdm9pZCAwKSxufTpmdW5jdGlvbih0LGUpe3ZhciBuPWRvY3VtZW50LmNyZWF0ZUV2ZW50T2JqZWN0KCk7cmV0dXJuIG4udHlwZT10LGU/KG4uYnViYmxlcz1Cb29sZWFuKGUuYnViYmxlcyksbi5jYW5jZWxhYmxlPUJvb2xlYW4oZS5jYW5jZWxhYmxlKSxuLmRldGFpbD1lLmRldGFpbCk6KG4uYnViYmxlcz0hMSxuLmNhbmNlbGFibGU9ITEsbi5kZXRhaWw9dm9pZCAwKSxufX0pLmNhbGwodGhpcywidW5kZWZpbmVkIiE9dHlwZW9mIGdsb2JhbD9nbG9iYWw6InVuZGVmaW5lZCIhPXR5cGVvZiBzZWxmP3NlbGY6InVuZGVmaW5lZCIhPXR5cGVvZiB3aW5kb3c/d2luZG93Ont9KX0se31dLDQ6W2Z1bmN0aW9uKHQsZSxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gbyh0LGUsbixvKXsiYWRkRXZlbnRMaXN0ZW5lciJpbiB0P3QuYWRkRXZlbnRMaXN0ZW5lcihlLG4sbyk6ImF0dGFjaEV2ZW50ImluIHQmJnQuYXR0YWNoRXZlbnQoIm9uIitlLG4pfXZhciByPXQoMiksaT10KDEpOyFmdW5jdGlvbigpe3dpbmRvdy5hZG9uaXM9d2luZG93LmFkb25pc3x8e30sd2luZG93LmFkb25pcy5zY3JpcHRTdGF0dXNlcz17fSxyLndyYXBYTUxIdHRwUmVxdWVzdCh3aW5kb3cpLG8oZG9jdW1lbnQsImxvYWQiLGZ1bmN0aW9uKHQpe3QudGFyZ2V0JiYiU0NSSVBUIj09PXQudGFyZ2V0Lm5vZGVOYW1lJiYod2luZG93LmFkb25pcy5zY3JpcHRTdGF0dXNlc1t0LnRhcmdldC5zcmNdPSJsb2FkIixpKHdpbmRvdykpfSwhMCksbyhkb2N1bWVudCwiZXJyb3IiLGZ1bmN0aW9uKHQpe3QudGFyZ2V0JiYiU0NSSVBUIj09PXQudGFyZ2V0Lm5vZGVOYW1lJiYod2luZG93LmFkb25pcy5zY3JpcHRTdGF0dXNlc1t0LnRhcmdldC5zcmNdPSJlcnJvciIsaSh3aW5kb3cpKX0sITApfSgpfSx7MToxLDI6Mn1dfSx7fSxbNF0pOw=="));</script><script>var utag_data = {"canonical_url":"\/photos\/paul-manafort-sex-scandal-mistress\/","page_category":"post","sponsored":"off","instant_article":"off","vupulse":"off","wibbitz":"off","taboola":"on","swoop":"on","zergnet_timeline":"on","vuble":"on","node_id":"208442","content_type":"gallery","node_category":["Politics"],"node_tags":["Donald Trump"],"content_updated_date":"2017\/08\/10","content_publish_date":"2017\/08\/09","page_title":"Trump Advisor Sex Scandal \u2014 Paul Manafort&#8217;s Sick Affair","sponsorship_name":"none","gallery_slides":"9","comments":"on"};
+function parseUrlParams(val) {
+				    var result = "none",
+				        tmp = [];
+				    var items = location.search.substr(1).split("&");
+				    for (var index = 0; index < items.length; index++) {
+				        tmp = items[index].split("=");
+				        if (tmp[0] === val) result = decodeURIComponent(tmp[1]);
+				    }
+				    return result;
+				}
+		if(window.innerWidth < 768) {
+			utag_data.site_display_format = 'mobile';
+		} else if(window.innerWidth >= 768 && window.innerWidth <= 1024) {
+			utag_data.site_display_format = 'tablet';
+		} else {
+			utag_data.site_display_format = 'desktop';
+		}
+		
+		utag_data.referrer = document.referrer;
+		utag_data.utm_source = parseUrlParams('utm_source');
+		utag_data.utm_medium = parseUrlParams('utm_medium');
+		utag_data.utm_campaign = parseUrlParams('utm_campaign');
+		
+			if(parseUrlParams("test") !== "none") {
+				console.log(utag_data);
+			}function tealiumOnLoad() { 
+			utag_data.event_name = 'onLoad';
+			utag.view(utag_data);
+			if(parseUrlParams("test") !== "none") {
+				console.log("tealium onload");
+			}
+			}window.addEventListener("load", tealiumOnLoad);</script> <script>
+					function amiGetCookieSupport() {
+						var persist = true;
+						do {
+							var c = 'gCStest=' + Math.floor(Math.random() * 100000000);
+							document.cookie = persist ? c + ';expires=Tue, 01-Jan-2030 00:00:00 GMT' : c;
+							if (document.cookie.indexOf(c) !== -1) {
+								document.cookie = c + ';expires=Sat, 01-Jan-2000 00:00:00 GMT';
+								return persist;
+							}
+						} while (!(persist = !persist));
+						return null;
+					}
+
+					var amiLoadAdJS = function (url, implementationCode, location) {
+
+						var scriptTag = document.createElement('script');
+						scriptTag.src = url;
+
+						scriptTag.async = true;
+
+						if (amiGetCookieSupport() == null) {
+							scriptTag.async = false;
+							scriptTag.defer = true;
+						}
+
+						scriptTag.onload = implementationCode;
+						scriptTag.onreadystatechange = implementationCode;
+
+						location.appendChild(scriptTag);
+
+						return "";
+					};
+		</script>
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="Former Trump campaign head Paul Manafort has been exposed in a sex scandal -- caught cheating on his wife with a hottie younger than his own daughters!" name="description">
+<meta content="noodp" name="robots">
+<meta content="paul manafort, sex scandal, fbi probe, mistress, affair, younger woman, russian election meddling, trump advisor, donald trump" name="keywords">
+<link href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/" rel="canonical">
+<!-- / Yoast SEO plugin. -->
+<link href="//s0.wp.com" rel="dns-prefetch">
+<link href="//s.w.org" rel="dns-prefetch">
+<meta content="gallery-post" property="qc:keyword"><link href="//acdn.adnxs.com" rel="preconnect"/>
+<script async="true" src="//acdn.adnxs.com/prebid/c/1287/pb.js.2017_08_07_16_35_11"></script>
+<script type="text/javascript">
+		(function () {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		var useSSL = "https:" == document.location.protocol;
+		gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+					function gptAdsWindowWidth(){
+				var w = window,
+					d = document,
+					e = d.documentElement,
+					x = Math.max(e.scrollWidth,e.offsetWidth,e.clientWidth);
+				return x;
+			}
+
+			function adsParseUrlParams(val) {
+				var result = false,
+				tmp = [];
+				var items = location.search.substr(1).split("&");
+				for (var index = 0; index < items.length; index++) {
+					tmp = items[index].split("=");
+					if (tmp[0] === val) result = decodeURIComponent(tmp[1]);
+				}
+				return result;
+			}
+
+			var googletag = googletag || {};
+			var sizeMapping = {};
+			googletag.cmd = googletag.cmd || [];
+			pbjs = window.pbjs || { que: [] }; // if prebid is not already defined, define it
+			googletag.cmd.push(function () {
+				googletag.pubads().disableInitialLoad();
+			});
+			googletag.slots = googletag.slots || {};
+			googletag.slots_oop = googletag.slots_oop || {};
+			var lazyLoadSlots = lazyLoadSlots || [];
+			var gallerySlots = gallerySlots || [];
+			var initialLoadSlots = initialLoadSlots || [];
+
+
+			window.refreshInterval = 30;
+			var mobileBreakPoint = 768;
+			var inMobileViewPort = gptAdsWindowWidth() < mobileBreakPoint;
+			var siteToken = inMobileViewPort ? '4216/mob.neq' : '4216/ami.neq';
+			var pageID = '208442';
+			var keyword = 'gallery-post';
+			var cType = 'GalleryPost';
+			var adUnitPath = '/' + siteToken;
+			var adUnitZone = 'photos';
+			if (adUnitZone != '') {
+				adUnitPath += '/' + adUnitZone;
+			}
+
+			//Depends on tealium dataLayer
+			if (typeof utag_data !== 'undefined' && typeof utag_data.sponsored !== 'undefined') {
+				var spons = utag_data.sponsored;
+			} else {
+				var spons = 'no';
+			}
+
+			window.adsRefresh = {};
+			window.adsRefresh.time = 30000;
+			window.adsRefresh.impr = [];
+			window.adsRefresh.ads = [];
+		googletag.cmd.push(function () {
+				googletag.pubads().setTargeting("s1", adUnitZone);
+				googletag.pubads().setTargeting("pid", pageID);
+				googletag.pubads().setTargeting("kw", keyword);
+				googletag.pubads().setTargeting("ctype", cType);
+				googletag.pubads().setTargeting("pageID", pageID);
+													googletag.pubads().setTargeting("spons", spons);
+					googletag.pubads().setTargeting("hulu", "off");								
+		if(document.referrer) {
+			var parser = document.createElement('a');
+			parser.href = document.referrer;
+			googletag.pubads().setTargeting("referrer", parser.hostname.replace(/\./g, '_'));
+		}
+		if(window.utm_source = adsParseUrlParams('utm_source')) {
+			googletag.pubads().setTargeting("utm_source", window.utm_source);
+		}
+		if(window.utm_medium = adsParseUrlParams('utm_medium')) {
+			googletag.pubads().setTargeting("utm_medium", window.utm_medium);
+		}
+		if(window.utm_campaign = adsParseUrlParams('utm_campaign')) {
+			googletag.pubads().setTargeting("utm_campaign", window.utm_campaign);
+		}
+		
+		if(!inMobileViewPort) {
+sizeMapping["dfp-tag-horizontal-position-1"] = googletag.sizeMapping()
+	                .addSize([0, 0], [])
+	                .addSize([768, 300], [[728, 90], [ 728, 91]])
+	                .addSize([1024, 200], [[970, 90], [ 970, 66], [ 970, 250], [ 728, 90], [ 728, 91]])
+	                .build();
+					googletag.slots['dfp-tag-horizontal-position-1'] = googletag.defineSlot(adUnitPath, [[970, 90], [ 970, 66], [ 970, 250], [ 728, 90], [ 728, 91]], 'dfp-tag-horizontal-position-1').defineSizeMapping(sizeMapping['dfp-tag-horizontal-position-1']).setTargeting('pos', 'horizontal-position-1').addService(googletag.pubads());
+				googletag.display('dfp-tag-horizontal-position-1');initialLoadSlots.push('dfp-tag-horizontal-position-1');}
+if(!inMobileViewPort) {
+sizeMapping["dfp-tag-horizontal-position-2"] = googletag.sizeMapping()
+	                .addSize([0, 0], [])
+	                .addSize([768, 300], [[728, 90], [ 728, 91]])
+	                .addSize([1024, 200], [[970, 90], [ 970, 66], [ 970, 250], [ 728, 90], [ 728, 91]])
+	                .build();
+					lazyLoadSlots["dfp-tag-horizontal-position-2"] = {"tag_id":"horizontal-position-2", "sizes": [[970, 90], [ 970, 66], [ 970, 250], [ 728, 90], [ 728, 91]], "correlator" : false}}
+if(!inMobileViewPort) {
+sizeMapping["dfp-tag-rightrail-position-2"] = googletag.sizeMapping()
+	                .addSize([0, 0], [])
+	                .addSize([768, 300], [[728, 90], [ 728, 91]])
+	                .addSize([1024, 200], [[300, 251], [ 300, 600], [ 300, 1050], [ 300, 250], [ 160, 600]])
+	                .build();
+					googletag.slots['dfp-tag-rightrail-position-2'] = googletag.defineSlot(adUnitPath, [[300, 251], [ 300, 600], [ 300, 1050], [ 300, 250], [ 160, 600]], 'dfp-tag-rightrail-position-2').defineSizeMapping(sizeMapping['dfp-tag-rightrail-position-2']).setTargeting('pos', 'rightrail-position-2').addService(googletag.pubads());
+				googletag.display('dfp-tag-rightrail-position-2');initialLoadSlots.push('dfp-tag-rightrail-position-2');}
+if(!inMobileViewPort) {
+sizeMapping["dfp-tag-rightrail-position-3"] = googletag.sizeMapping()
+	                .addSize([0, 0], [])
+	                .addSize([768, 300], [[300, 250], [ 300, 252]])
+	                .addSize([1024, 200], [[300, 250], [ 300, 252]])
+	                .build();
+					lazyLoadSlots["dfp-tag-rightrail-position-3"] = {"tag_id":"rightrail-position-3", "sizes": [[300, 250], [ 300, 252]], "correlator" : false}}
+if(!inMobileViewPort) {
+sizeMapping["dfp-tag-rightrail-position-4"] = googletag.sizeMapping()
+	                .addSize([0, 0], [])
+	                .addSize([768, 300], [[300, 250], [ 300, 253]])
+	                .addSize([1024, 200], [[300, 250], [ 300, 253]])
+	                .build();
+					lazyLoadSlots["dfp-tag-rightrail-position-4"] = {"tag_id":"rightrail-position-4", "sizes": [[300, 250], [ 300, 253]], "correlator" : false}}
+if(!inMobileViewPort) {
+googletag.slots_oop['dfp-tag-wallpaper'] = googletag.defineOutOfPageSlot(adUnitPath, 'dfp-tag-wallpaper').setTargeting('pos', 'wallpaper').addService(googletag.pubads());
+				googletag.display('dfp-tag-wallpaper');initialLoadSlots.push('dfp-tag-wallpaper');}
+if(!inMobileViewPort) {
+googletag.slots_oop['dfp-tag-interstitial'] = googletag.defineOutOfPageSlot(adUnitPath, 'dfp-tag-interstitial').setTargeting('pos', 'interstitial').addService(googletag.pubads());
+				googletag.display('dfp-tag-interstitial');initialLoadSlots.push('dfp-tag-interstitial');}
+if(inMobileViewPort) {
+googletag.slots['dfp-tag-mobile_top'] = googletag.defineSlot(adUnitPath, [[300, 50], [ 320, 50], [ 300, 100]], 'dfp-tag-mobile_top').setTargeting('pos', 'mobile_top').addService(googletag.pubads());
+				googletag.display('dfp-tag-mobile_top');initialLoadSlots.push('dfp-tag-mobile_top');}
+if(inMobileViewPort) {
+googletag.slots['dfp-tag-mobile_bottom'] = googletag.defineSlot(adUnitPath, [[320, 50], [ 300, 50], [ 300, 100]], 'dfp-tag-mobile_bottom').setTargeting('pos', 'mobile_bottom').addService(googletag.pubads());
+				googletag.display('dfp-tag-mobile_bottom');initialLoadSlots.push('dfp-tag-mobile_bottom');}
+if(inMobileViewPort) {
+googletag.slots_oop['dfp-tag-mobile_interstitial'] = googletag.defineOutOfPageSlot(adUnitPath, 'dfp-tag-mobile_interstitial').setTargeting('pos', 'mobile_interstitial').addService(googletag.pubads());
+				googletag.display('dfp-tag-mobile_interstitial');initialLoadSlots.push('dfp-tag-mobile_interstitial');}
+if(inMobileViewPort) {
+lazyLoadSlots["dfp-tag-mobile_box"] = {"tag_id":"mobile_box", "sizes": [300, 250], "correlator" : false}}
+		
+				googletag.pubads().enableAsyncRendering();
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().collapseEmptyDivs();
+		googletag.enableServices();
+				googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			if (typeof pbjs.initAdserverSet !== 'undefined' && typeof window.initAdserverSetCustom === 'undefined') {
+				try{
+					ami_gpt.processElements;
+				} catch(err){
+					console.log(err.message);
+				}
+				window.initAdserverSetCustom = true;
+			}
+		});
+				pbjs.que.push(function () {
+			pbjs.refreshAds(initialLoadSlots);
+		});
+		
+		});
+</script><!-- {OpenX} -->
+<!-- headerbidder disabled -->
+<link href="//i0.heartyhosting.com" rel="dns-prefetch"/><meta content="paul manafort" name="news_keywords"/> <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.nationalenquirer.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
+<script src="http://cdn-neq1.heartyhosting.com/wp-content/cache/minify/000000/BcGLDYAgDAXAhZSaOBFoUx8Bgv1o3N67neodrN_aIZqdU8dYNnowabYQDCPLaH5pUDV6cQp7sih2KAr_.js?20170808" type="text/javascript"></script>
+<link href="http://www.nationalenquirer.com/wp-json/" rel="https://api.w.org/">
+<link href="http://www.nationalenquirer.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml">
+<link href="http://www.nationalenquirer.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml">
+<meta content="WordPress 4.8.1" name="generator"/>
+<link href="http://wp.me/p1-SdY" rel="shortlink">
+<link href="http://www.nationalenquirer.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nationalenquirer.com%2Fphotos%2Fpaul-manafort-sex-scandal-mistress%2F" rel="alternate" type="application/json+oembed">
+<link href="http://www.nationalenquirer.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.nationalenquirer.com%2Fphotos%2Fpaul-manafort-sex-scandal-mistress%2F&amp;format=xml" rel="alternate" type="text/xml+oembed">
+<!-- BEGIN Sailthru Horizon Meta Information -->
+<meta content="2017-08-09 10:53:38" name="sailthru.date"/>
+<meta content="Trump Advisor Sex Scandal — Paul Manafort’s Sick Affair" name="sailthru.title"/>
+<meta content="Donald Trump" name="sailthru.tags"/>
+<meta content="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-f.jpg?resize=1280%2C840" name="sailthru.image.full"/>
+<meta content="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-f.jpg?fit=50%2C50" name="sailthru.image.thumb"/>
+<!-- END Sailthru Horizon Meta Information -->
+<script type="text/javascript">
+			    (function() {
+			        function async_load(script_url){
+			            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+			            var s = document.createElement('script'); s.src = protocol + script_url;
+			            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+			        }
+			        bm_website_code = "2FB3ACD224AD4FD8";
+			        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+			        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+			    })();
+			</script>
+<!-- ami Open Graph Tags -->
+<meta content="article" property="og:type"/>
+<meta content="Trump Advisor Sex Scandal — Paul Manafort's Sick Affair" property="og:title"/>
+<meta content="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/" property="og:url"/>
+<meta content="Visit the post for more." property="og:description"/>
+<meta content="2017-08-09T14:53:38+00:00" property="article:published_time"/>
+<meta content="2017-08-10T16:12:02+00:00" property="article:modified_time"/>
+<meta content="http://www.nationalenquirer.com/author/nestaff/" property="article:author"/>
+<meta content="National Enquirer" property="og:site_name"/>
+<meta content="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-f.jpg?fit=1200%2C1200" property="og:image"/>
+<meta content="953902771314199" property="fb:app_id"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Trump Advisor Sex Scandal — Paul Manafort's Sick Affair" name="twitter:title"/>
+<meta content="Visit the post for more." name="twitter:description"/>
+<meta content="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-f.jpg?fit=1200%2C1200" name="twitter:image"/>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/www.nationalenquirer.com\/photos\/paul-manafort-sex-scandal-mistress\/"},"headline":"Trump Advisor Sex Scandal \u2014 Paul Manafort&#8217;s Sick Affair","datePublished":"2017-08-09T10:53:38+00:00","dateModified":"2017-08-10T12:12:02+00:00","author":{"@type":"Person","name":"National ENQUIRER Staff"},"publisher":{"@type":"Organization","name":"National Enquirer","url":"http:\/\/www.nationalenquirer.com\/","logo":{"@type":"ImageObject","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/themes\/vip\/am-plugins\/ami-schemas\/logos\/neq-logo.png","width":"500","height":"84"},"address":{"@type":"PostalAddress","streetAddress":"4 New York Plaza","addresslocality":"New York, NY","postalCode":"10004"},"telephone":"212-545-4800","sameAs":["https:\/\/www.facebook.com\/TheNationalEnquirer\/","https:\/\/twitter.com\/NatEnquirer","http:\/\/www.americanmediainc.com\/brands\/national-enquirer"]},"image":{"@type":"ImageObject","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-f.jpg?resize=500%2C281","width":"500","height":"281"},"description":" "}</script>
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><script type="text/javascript">var ajaxurl = "http://www.nationalenquirer.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var ajaxurl = "http://www.nationalenquirer.com/wp-admin/admin-ajax.php"</script><script type="text/javascript">var leaderboardTimeout = 5000;</script>
+<style id="custom-css-css">.fs-gallery_main .ami-gallery-item.ami-video-type-instagram iframe{width:calc(65vh - 240px) !important}strong,b{font-weight:700}</style>
+<script type="text/javascript">
+		var onloadCallback = function() {
+			grecaptcha.render('captcha_div', {
+				'sitekey' : '6Le3wfsSAAAAACvmSPuxMZp6mKxCn62rYP2EcJeP',
+				'size' : 'normal',
+				'theme' : 'light'
+			});
+		};
+	</script>
+</link></link></link></link></link></link></meta></link></link></link></meta></meta></meta></meta></link></link></head>
+<body class="post-template-default single single-post postid-208442 single-format-gallery no-js desktop">
+<script type="text/javascript">
+	document.body.className = document.body.className.replace('no-js','js');
+</script>
+<div id="darkness"></div>
+<div id="lightness"></div>
+<script>eval(atob("IWZ1bmN0aW9uIHQoZSxuLHIpe2Z1bmN0aW9uIG8oYSxjKXtpZighblthXSl7aWYoIWVbYV0pe3ZhciBkPSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFjJiZkKXJldHVybiBkKGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIHU9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IHUuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsdX12YXIgcz1uW2FdPXtleHBvcnRzOnt9fTtlW2FdWzBdLmNhbGwocy5leHBvcnRzLGZ1bmN0aW9uKHQpe3ZhciBuPWVbYV1bMV1bdF07cmV0dXJuIG8obnx8dCl9LHMscy5leHBvcnRzLHQsZSxuLHIpfXJldHVybiBuW2FdLmV4cG9ydHN9Zm9yKHZhciBpPSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlLGE9MDthPHIubGVuZ3RoO2ErKylvKHJbYV0pO3JldHVybiBvfSh7MTpbZnVuY3Rpb24odCxlLG4peyJ1c2Ugc3RyaWN0IjshZnVuY3Rpb24oKXtmdW5jdGlvbiB0KCl7biYmY29uc29sZS5sb2cuYXBwbHkoY29uc29sZSxhcmd1bWVudHMpfWZ1bmN0aW9uIGUodCxuLHIsbyxpLGEsYyxkLHUscyxmKXt2YXIgbD1mdW5jdGlvbigpeyEwPT09dCYmY29uc29sZS5sb2cuYXBwbHkoY29uc29sZSxhcmd1bWVudHMpfSxnPVsnPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPignLGUudG9TdHJpbmcoKSwiKSgiLFt0LnRvU3RyaW5nKCksbi50b1N0cmluZygpLHIudG9TdHJpbmcoKSxvLnRvU3RyaW5nKCksaS50b1N0cmluZygpLGEudG9TdHJpbmcoKSxjLnRvU3RyaW5nKCksZC50b1N0cmluZygpLHUudG9TdHJpbmcoKSxzLnRvU3RyaW5nKCksIiciK3dpbmRvdy5sb2NhdGlvbi5vcmlnaW4rIiciXS5qb2luKCIsIikudG9TdHJpbmcoKSwiKTwiLCIvc2NyaXB0PiJdLmpvaW4oIiIpO24oKShIVE1MSUZyYW1lRWxlbWVudCwibmFtZSIscigpLG8oZykpLG4oKShIVE1MSUZyYW1lRWxlbWVudCwiY29udGVudERvY3VtZW50IixjKGEoZyksaSgpKSxkKCkpLG4oKShIVE1MSUZyYW1lRWxlbWVudCwiY29udGVudFdpbmRvdyIsdShhKGcpLGkoKSkscygpKSx3aW5kb3cuZmFpbGVkX3VybHM9d2luZG93LmZhaWxlZF91cmxzfHxbXTt2YXIgcD1bInNjcmlwdCIsImltZyJdO2RvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoImxvYWQiLGZ1bmN0aW9uKHQpe2woIndpdGhpbklmcmFtZSBsb2FkIGV2ZW50Iix0LnRhcmdldCksIXQudGFyZ2V0fHwiU0NSSVBUIiE9PXQudGFyZ2V0Lm5vZGVOYW1lJiYiSU1HIiE9PXQudGFyZ2V0Lm5vZGVOYW1lfHwodC50YXJnZXQuX2xvYWRTdGF0ZT0ibG9hZCIpfSwhMCksZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigiZXJyb3IiLGZ1bmN0aW9uKHQpe2woIndpdGhpbklmcmFtZSBlcnJvciBldmVudCIsdC50YXJnZXQpLCF0LnRhcmdldHx8IlNDUklQVCIhPT10LnRhcmdldC5ub2RlTmFtZSYmIklNRyIhPT10LnRhcmdldC5ub2RlTmFtZXx8KHQudGFyZ2V0Ll9sb2FkU3RhdGU9ImVycm9yIix3aW5kb3cuZmFpbGVkX3VybHM9d2luZG93LmZhaWxlZF91cmxzfHxbXSx3aW5kb3cuZmFpbGVkX3VybHMucHVzaCh0LnRhcmdldC5zcmMpKX0sITApLHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJtZXNzYWdlIixmdW5jdGlvbih0KXtpZih0Lm9yaWdpbj09PWYpe3ZhciBlPXQuZGF0YS5ldmVudE5hbWU7aWYodm9pZCAwIT09ZSlzd2l0Y2goZSl7Y2FzZSJmcmFtZUxvYWRlZCI6Y2FzZSJidWJibGV1cCI6d2luZG93LnBhcmVudC5wb3N0TWVzc2FnZSh0LmRhdGEsZil9aWYodm9pZCAwIT09dC5kYXRhLmlmcmFtZUlkKXtsKCJtZXNzYWdlIHJlY2VpdmVkICIrdC5kYXRhLmlmcmFtZUlkKTt2YXIgbj10LmRhdGEscj1mdW5jdGlvbiB0KGUpe3ZhciBuPXtvcmlnaW5JZnJhbWVJZDplLmlmcmFtZUlkLHJlYWR5U3RhdGU6ZG9jdW1lbnQucmVhZHlTdGF0ZSxyZXF1ZXN0RGF0YTpbXSxjc3NEYXRhOltdfSxyPWUuc3JjU3Vic3RyaW5ncztpZih2b2lkIDAhPT1yKWZvcih2YXIgbz1kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKHAuam9pbigiLCIpKSxpPTA7aTxvLmxlbmd0aDtpKyspe3ZhciBhPW9baV07aWYoYS5zcmMpe3ZhciBjPXIuc29tZShmdW5jdGlvbih0KXtyZXR1cm4tMSE9PWEuc3JjLmluZGV4T2YodCl9KTtpZihjKXtpZih2b2lkIDA9PT1hLl9sb2FkU3RhdGUpcmV0dXJuIGwoIldhaXQgZm9yIGV2ZW50IGZyb20gIithLnNyYyksYS5hZGRFdmVudExpc3RlbmVyKCJsb2FkIixmdW5jdGlvbigpe3QoZSl9KSx2b2lkIGEuYWRkRXZlbnRMaXN0ZW5lcigiZXJyb3IiLGZ1bmN0aW9uKCl7dChlKX0pO24ucmVxdWVzdERhdGEucHVzaCh7dHlwZTphLm5vZGVOYW1lLHNyYzphLnNyYyxzdGF0ZTphLl9sb2FkU3RhdGV9KX19fXZhciBkPWUuZGlzcGxheVR5cGVzLHU9ZS5jc3NBdHRyaWJ1dGVzO3ZvaWQgMCE9PWQmJnZvaWQgMCE9PXUmJihvPWRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoZC5qb2luKCIsIikpLEFycmF5LnByb3RvdHlwZS5mb3JFYWNoLmNhbGwobyxmdW5jdGlvbih0KXt2YXIgZT13aW5kb3cuZ2V0Q29tcHV0ZWRTdHlsZSh0KSxyPXt9O3UuZm9yRWFjaChmdW5jdGlvbih0KXtyW3RdPWUuZ2V0UHJvcGVydHlWYWx1ZSh0KX0pLG4uY3NzRGF0YS5wdXNoKHt0eXBlOnQubm9kZU5hbWUsaWQ6dC5pZCxjbGFzczp0LmdldEF0dHJpYnV0ZSgiY2xhc3MiKSxjc3NBdHRyaWJ1dGVzOnJ9KX0pKSxsKCJzZW5kIHJlc3BvbnNlICIrZS5pZnJhbWVJZCksbi5mYWlsZWRfdXJscz13aW5kb3cuZmFpbGVkX3VybHMscGFyZW50LnBvc3RNZXNzYWdlKG4sZil9OyFmdW5jdGlvbih0KXsibG9hZGluZyIhPT1kb2N1bWVudC5yZWFkeVN0YXRlP3QoKTpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIix0KX0oZnVuY3Rpb24oKXtyKG4pfSl9fX0pfXdpbmRvdy5hZG9uaXNIYXNoPXdpbmRvdy5hZG9uaXNIYXNofHx3aW5kb3cubG9jYXRpb24uaGFzaHx8IiI7dmFyIG49LTEhPT13aW5kb3cuYWRvbmlzSGFzaC5pbmRleE9mKCJhZG9uaXMtbG9nZ2luZyIpLHI9ZnVuY3Rpb24oKXtyZXR1cm4gZnVuY3Rpb24odCxlLG4scil7dmFyIG89T2JqZWN0LmdldE93blByb3BlcnR5RGVzY3JpcHRvcih0LnByb3RvdHlwZSxlKTtPYmplY3QuZGVmaW5lUHJvcGVydHkodC5wcm90b3R5cGUsZSx7Z2V0OmZ1bmN0aW9uKCl7cmV0dXJuIG4oby5nZXQsdGhpcyxhcmd1bWVudHMpfSxzZXQ6ZnVuY3Rpb24oKXtyZXR1cm4gcihvLnNldCx0aGlzLGFyZ3VtZW50cyl9LGVudW1lcmFibGU6ITB9KX19LG89ZnVuY3Rpb24oKXtyZXR1cm4gZnVuY3Rpb24odCxlLG4pe3JldHVybiB0LmFwcGx5KGUsbil9fSxpPWZ1bmN0aW9uKGUpe3JldHVybiBmdW5jdGlvbihuLHIsbyl7dHJ5e3ZhciBpPW9bMF07aWYoLTEhPT1pLmluZGV4T2YoImh0bWwiKSl7dmFyIGE9aS5zcGxpdCgiOyIpLGM9YVsxXSxkPXBhcnNlSW50KGMpK2UubGVuZ3RoO2FbMV09ZC50b1N0cmluZygpLGk9YS5qb2luKCI7IiksaT1pLnJlcGxhY2UoIjxoZWFkPiIsIjxoZWFkPiIrZSksb1swXT1pfX1jYXRjaChlKXt0KGUpfXJldHVybiBuLmFwcGx5KHIsbyl9fSxhPWZ1bmN0aW9uKCl7cmV0dXJuIGZ1bmN0aW9uKHQpe3ZhciBlPSExO2lmKHQuc3JjJiYwIT09dC5zcmMuaW5kZXhPZigiamF2YXNjcmlwdDoiKSYmMCE9PXQuc3JjLmluZGV4T2YoImFib3V0OmJsYW5rIikpe3ZhciBuPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImEiKTtuLmhyZWY9dC5zcmM7bi5ob3N0PT09d2luZG93LmxvY2F0aW9uLmhvc3QmJihlPSEwKX1lbHNlIGU9ITA7cmV0dXJuIGV9fSxjPWZ1bmN0aW9uKGUpe3JldHVybiBmdW5jdGlvbihuLHIpe3ZhciBvPXIud3JpdGU7ci53cml0ZT1mdW5jdGlvbihuKXt0cnl7aWYoIXRoaXMuX2luamVjdGVkKXt2YXIgcj0vPCg/IShib2R5fGhlYWR8aHRtbHxkb2N0eXBlKSkoW14+IVwvXHNdKykvaTtyLnRlc3QobikmJihuPW4ucmVwbGFjZShyLGZ1bmN0aW9uKHQpe3JldHVybiBlK3R9KSksdGhpcy5faW5qZWN0ZWQ9ITB9fWNhdGNoKGUpe3QoZSl9cmV0dXJuIG8uY2FsbCh0aGlzLG4pfX19LGQ9ZnVuY3Rpb24oZSxuKXtyZXR1cm4gZnVuY3Rpb24ocixvLGkpe3ZhciBhPXIuYXBwbHkobyxpKTt0cnl7aWYoby5jb250ZW50RG9jdW1lbnREZWNvcmF0ZWQpcmV0dXJuIGE7by5jb250ZW50RG9jdW1lbnREZWNvcmF0ZWQ9ITAsbihvKSYmZShvLGEpfWNhdGNoKGUpe3QoZSl9cmV0dXJuIGF9fSx1PWZ1bmN0aW9uKCl7cmV0dXJuIGZ1bmN0aW9uKHQsZSxuKXtyZXR1cm4gdC5hcHBseShlLG4pfX0scz1mdW5jdGlvbihlLG4pe3JldHVybiBmdW5jdGlvbihyLG8saSl7dmFyIGE9ci5hcHBseShvLGkpO3RyeXtpZihvLmNvbnRlbnRXaW5kb3dEZWNvcmF0ZWQpcmV0dXJuIGE7aWYoby5jb250ZW50V2luZG93RGVjb3JhdGVkPSEwLG4obykpdHJ5e2UobyxhLmRvY3VtZW50KX1jYXRjaChlKXt0KCJUaGUgZm9sbG93aW5nIGZyYW1lIHdhcyBzdXBwb3NlZCB0byBiZSBmcmllbmRseSBidXQgd2UgZ290IGEgc2VjdXJpdHkgdmlvbGF0aW9uIHdoaWxlIGF0dGVtcHRpbmcgdG8gZGVjb3JhdGU6IixvKX19Y2F0Y2goZSl7dChlKX1yZXR1cm4gYX19LGY9ZnVuY3Rpb24oKXtyZXR1cm4gZnVuY3Rpb24odCxlLG4pe3JldHVybiB0LmFwcGx5KGUsbil9fSxsPVsnPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPignLGUudG9TdHJpbmcoKSwiKSgiLFtuLnRvU3RyaW5nKCksci50b1N0cmluZygpLG8udG9TdHJpbmcoKSxpLnRvU3RyaW5nKCksYS50b1N0cmluZygpLGMudG9TdHJpbmcoKSxkLnRvU3RyaW5nKCksdS50b1N0cmluZygpLHMudG9TdHJpbmcoKSxmLnRvU3RyaW5nKCksIiciK3dpbmRvdy5sb2NhdGlvbi5vcmlnaW4rIiciXS5qb2luKCIsIikudG9TdHJpbmcoKSwiKTwiLCIvc2NyaXB0PiJdLmpvaW4oIiIpO3IoKShIVE1MSUZyYW1lRWxlbWVudCwibmFtZSIsbygpLGkobCkpLHIoKShIVE1MSUZyYW1lRWxlbWVudCwiY29udGVudERvY3VtZW50IixkKGMobCksYSgpKSx1KCkpLHIoKShIVE1MSUZyYW1lRWxlbWVudCwiY29udGVudFdpbmRvdyIscyhjKGwpLGEoKSksZigpKX0oKX0se31dfSx7fSxbMV0pOw=="));</script> <div class="dfp-slot dfp-container dfp-oop dfp-tag-wallpaper " data-position="wallpaper" id="dfp-tag-wallpaper"></div>
+<div class="dfp-slot dfp-container dfp-oop dfp-tag-interstitial " data-position="interstitial" id="dfp-tag-interstitial"></div>
+<div class="dfp-slot dfp-container dfp-oop dfp-tag-mobile_interstitial mobile" data-position="mobile_interstitial" id="dfp-tag-mobile_interstitial"></div>
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+ (function(a,b,c,d){
+ a='http://tags.tiqcdn.com/utag/ami/nationalenquirer/prod/utag.js';
+ b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+ a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+ })();
+</script>
+<!-- END: T-WP -->
+<header id="main-header">
+<nav class="menu-header" id="side-menu"><ul class="menu" id="menu-mobile-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-102602" id="menu-item-102602"><a href="http://www.nationalenquirer.com/" title="National Enquirer | Hottest Celebrity Gossip &amp; Entertainment News">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102603" id="menu-item-102603"><a href="http://www.nationalenquirer.com/category/celebrity/" title="Celebrity News, Gossip, Photos &amp; Videos | National Enquirer">Celebrity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102604" id="menu-item-102604"><a href="http://www.nationalenquirer.com/category/mike-walker/" title="Mike Walker, Celebrity Gossip Guru | National Enquirer">Mike Walker</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102605" id="menu-item-102605"><a href="http://www.nationalenquirer.com/category/gossip/" title="Celebrity Gossip &amp; Rumors | National Enquirer">Gossip</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102606" id="menu-item-102606"><a href="http://www.nationalenquirer.com/category/true-crime/" title="Celebrity True Crime News, Gossip, Photos &amp; Videos | National Enquirer">True Crime</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102607" id="menu-item-102607"><a href="http://www.nationalenquirer.com/category/eyewitness/" title="Celebrity Eyewitness News, Gossip, Photos &amp; Videos | National Enquirer">Eyewitness</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102608" id="menu-item-102608"><a href="http://www.nationalenquirer.com/category/crime-investigation/" title="Celebrity Crime Investigation News, Gossip, Photos &amp; Videos | National Enquirer">Crime Investigation</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102609" id="menu-item-102609"><a href="http://www.nationalenquirer.com/category/photo-gallery/" title="Celebrity Photos: Fashion, Leaked &amp; Hot | National Enquirer">Photo Gallery</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106718" id="menu-item-106718"><a href="http://www.nationalenquirerclassifieds.com/">Classifieds</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155439" id="menu-item-155439"><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=DNE&amp;cds_page_id=202106">Subscribe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166915" id="menu-item-166915"><a href="https://w1.buysub.com/servlet/ECareGateway?cds_mag_code=STA">Subscriber Services</a></li>
+</ul></nav> <div id="mobile-phantom">
+<div id="brand">
+<div class="menu-trigger" id="menu-trigger">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<div id="logo" title="National Enquirer">
+<h4> <a href="http://www.nationalenquirer.com"><img alt="National Enquirer" height="35" src="http://cdn-neq1.heartyhosting.com/wp-content/themes/vip/am-neq/images/nationalenquirer-logo.svg" width="210"/></a>
+</h4> </div>
+<nav class="menu-header" id="nav-pane"><ul class="menu" id="menu-main-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107126 has-tags" id="menu-item-107126"><a data-postitems="" data-tagitem="999" href="http://www.nationalenquirer.com/tag/megyn-kelly/">Megyn Kelly</a><div class="triangle"></div><div class="tag-rollover"><ul><li><a href="http://www.nationalenquirer.com/mike-walker/megyn-kelly-today-staff-hate/"><div class="radar-thumb radar-standard-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/07/megyn-kelly-today-staff-hate-f.jpg?resize=160%2C90" width="160"/></div>Bill O'Reilly Blasts Megyn Kelly</a><span class="posted-date">1 month ago</span></li><li><a href="http://www.nationalenquirer.com/photos/kathie-lee-gifford-hoda-kotb/"><div class="radar-thumb radar-gallery-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/06/kathie-lee-gifford-hoda-kotb-f.jpg?resize=160%2C90" width="160"/><span class="gallery-icon"><span class="image-count">8</span></span></div>Kathie Lee Gifford &amp; Hoda Kotbe: Daytime Divas At War</a><span class="posted-date">2 months ago - 8 photos </span></li><li><a href="http://www.nationalenquirer.com/photos/megyn-kelly-alex-jones-interview-2/"><div class="radar-thumb radar-gallery-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/06/megyn-kelly-alex-jones-ratings-F.jpg?resize=160%2C90" width="160"/><span class="gallery-icon"><span class="image-count">5</span></span></div>Megyn Kelly Ratings Disaster After Alex Jones Interview</a><span class="posted-date">2 months ago - 5 photos </span></li><li><a href="http://www.nationalenquirer.com/celebrity/megyn-kelly-alex-jones-tapes/"><div class="radar-thumb radar-standard-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/06/megyn-kelly-alex-jones-tapes-F.jpg?resize=160%2C90" width="160"/></div>Megyn Kelly Humiliated By Conspiracy Theorist</a><span class="posted-date">2 months ago</span></li><li><a href="http://www.nationalenquirer.com/photos/megyn-kelly-alex-jones-interview/"><div class="radar-thumb radar-gallery-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/06/megyn-kelly-alex-jones-interview-F.jpg?resize=160%2C90" width="160"/><span class="gallery-icon"><span class="image-count">5</span></span></div>Megyn Kelly Taunted Over Secret Tapes</a><span class="posted-date">2 months ago - 5 photos </span></li></ul></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107127 has-tags" id="menu-item-107127"><a data-postitems="" data-tagitem="547" href="http://www.nationalenquirer.com/tag/o-j-simpson/">O.J.</a><div class="triangle"></div><div class="tag-rollover"><ul><li><a href="http://www.nationalenquirer.com/celebrity/oj-simpson-white-bronco-pawn-stars/"><div class="radar-thumb radar-standard-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/oj-simpson-white-bronco-pawn-stars-F.jpg?resize=160%2C90" width="160"/></div>'Pawn Stars' To Feature 'O.J. Simpson' White Bronco</a><span class="posted-date">2 days ago</span></li><li><a href="http://www.nationalenquirer.com/photos/oj-simpson-khloe-kardashian-daughter-claims/"><div class="radar-thumb radar-gallery-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/oj-simpson-khloe-kardashian-daughter-claims-F.jpg?resize=160%2C90" width="160"/><span class="gallery-icon"><span class="image-count">6</span></span></div>Khloé Kardashian: Her Surgery To Look Less Like O.J. Simpson</a><span class="posted-date">2 weeks ago - 6 photos </span></li><li><a href="http://www.nationalenquirer.com/celebrity/bill-cosby-lawyer-mcmonagle-quits/"><div class="radar-thumb radar-standard-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/bill-cosby-lawyer-mcmonagle-quits-f.jpg?resize=160%2C90" width="160"/></div>Bill Cosby’s Attorney Says Defense Team In 'Chaos' — Quits Case</a><span class="posted-date">2 weeks ago</span></li><li><a href="http://www.nationalenquirer.com/photos/oj-simpson-crime-scene-photos-charlie-sheen/"><div class="radar-thumb radar-gallery-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/oj-simpson-crime-scene-photos-charlie-sheen-F.jpg?resize=160%2C90" width="160"/><span class="gallery-icon"><span class="image-count">8</span></span></div>Charlie Sheen's Obsession With Bloody O.J. Crime Photos</a><span class="posted-date">2 weeks ago - 8 photos </span></li><li><a href="http://www.nationalenquirer.com/photos/oj-simpson-murder-bronco-chase/"><div class="radar-thumb radar-gallery-thumb"><img alt="thumbnail" height="90" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/07/oj-simpson-murder-bronco-chase-F.jpg?resize=160%2C90" width="160"/><span class="gallery-icon"><span class="image-count">7</span></span></div>O.J. Simpson: Lost Phone Message Reveals Secret Escape Plan</a><span class="posted-date">2 weeks ago - 7 photos </span></li></ul></div></li>
+</ul></nav> <div id="tools">
+<a class="tips mobile-tips show-mobile asprite asp-env" href="#"><span class="screen-reader-only">GOT A TIP?</span></a>
+<a class="search-modal asprite asp-srch" href="#"><span class="screen-reader-only">Search</span></a>
+<a class="soc-link icon-fb asprite asp-fb" href="https://www.facebook.com/TheNationalEnquirer/" rel="me" title="Facebook"><span class="screen-reader-only">Facebook</span></a><a class="soc-link icon-twitter asprite asp-twit" href="https://twitter.com/NatEnquirer" rel="me" title="Twitter"><span class="screen-reader-only">Twitter</span></a> <a class="tips desktop-tips hide-mobile" href="#">GOT A TIP?</a>
+<div class="search-popup">
+<a class="close-search asprite asp-srch"></a>
+<form action="http://www.nationalenquirer.com/search/" class="searchform" method="get" role="search">
+<div id="search_form">
+<input autofocus="" class="search-term" name="search" placeholder="Start Typing To Search..." type="text" value=""/>
+<input id="searchsubmit" rel="nofollow" type="submit" value="GO"/>
+</div>
+</form> </div>
+</div>
+<!-- Subscribe Desktop link -->
+<a class="subscribe-desktop" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=DNE&amp;cds_page_id=202106" rel="nofollow" target="_blank">Subscribe</a>
+<!-- /End Subscribe Desktop link -->
+</div>
+<div id="hidden-elements">
+<div class="hidden" id="email_tips">
+<div class="centered-elements">
+<div class="close png-radar_x"></div>
+<div class="arrow"></div>
+<form id="email_us_tip">
+<input name="action" type="hidden" value="radar_tip_form"/>
+<div class="sender-info">
+<div class="field-container"><label>Name</label><input name="name" required="required" type="text" value=""/></div>
+<div class="field-container"><label>Email</label><input name="email" required="required" type="email" value=""/></div>
+<div class="field-container"><label>Phone</label><input name="phone" required="required" type="text" value=""/></div>
+<div class="sender-msg">
+<label>Your Tip</label>
+<textarea name="tip" required="required"></textarea>
+<div id="captcha_div"></div>
+<button class="hide-mobile" type="submit">send</button>
+</div>
+<div class="check-container">
+<input checked="" id="subscribe_daily_juice" name="option3" type="checkbox" value="signup"/> Yes, please sign me up to receive daily breaking news <a class="header-privacy block-link" href="http://www.americanmediainc.com/privacy-policy" target="_blank">Privacy Policy</a>
+<button class="show-mobile" type="submit">send</button>
+</div>
+</div>
+</form>
+<form action="#" class="sailthru-add-subscriber-form daily-juice-form" id="sailthru-add-subscriber-form-checkbox" method="post" style="display: none !important;">
+<div class="sailthru-add-subscriber-errors" id="sailthru-add-subscriber-errors"></div>
+<input name="sailthru_nonce" type="hidden" value="35fe10095b">
+<input name="sailthru_email_list" type="hidden" value="NEQ_Confirmed_2016">
+<input name="action" type="hidden" value="add_subscriber">
+<input name="vars[source]" type="hidden" value="header">
+<input class="form-control" id="sailthru_promos_name" name="custom_promos" required="required" type="hidden" value="1"/>
+<input class="form-control" id="sailthru_breaking_name" name="custom_breaking" required="required" type="hidden" value="1"/>
+<input class="form-control" id="sailthru_daily_name" name="custom_daily" required="required" type="hidden" value="1"/>
+<div class="bg-input">
+<input id="sailthru_email" name="email" placeholder="enter your email address" type="text" value="">
+<input type="submit" value="Submit"/>
+</input></div>
+</input></input></input></input></form>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="content-wrapper">
+<div id="leaderboard_wrap">
+<div class="height-auto sticky_banner" id="leaderboard-holder">
+<div id="leaderboard"><div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-2"> <div class="dfp-slot dfp-container dfp-tag-mobile_top mobile" data-position="mobile_top" id="dfp-tag-mobile_top"></div>
+</div><div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-3"> <div adonis-marker="" class="dfp-slot dfp-container dfp-tag-horizontal-position-1 " data-position="horizontal-position-1" id="dfp-tag-horizontal-position-1"></div>
+</div></div>
+</div>
+</div>
+<div class="post-container">
+<div class="mobile-only-hero-image"><div class="radar-thumb radar-gallery-thumb"><div class="centring-box"><div><img alt="paulmanafort sex scandal mistress" class="attachment-408x229 size-408x229 wp-post-image" height="229" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-f.jpg?resize=408%2C229" width="408"/></div></div></div></div> <article class="post post-208442 type-post status-publish format-gallery has-post-thumbnail category-politics tag-donald-trump post_format-post-format-gallery" id="post-208442">
+<section id="article-top-part">
+<header class="entry-header">
+<h2 class="post-flag">First To Know!</h2> <h1 class="entry-title">Trump Advisor Sex Scandal — Paul Manafort’s Sick Affair</h1>
+<h3 class="entry-subtitle">Target in FBI-Russia probe also cheated with woman half his age!</h3> <div class="entry-meta">
+<div class="author-date"><span class="avatar"><img alt="" class="avatar avatar-64 photo" height="64" src="http://2.gravatar.com/avatar/5bc762410b303e0c56adb653fbf3ef26?s=64&amp;d=identicon&amp;r=g" srcset="http://2.gravatar.com/avatar/5bc762410b303e0c56adb653fbf3ef26?s=128&amp;d=identicon&amp;r=g 2x" width="64"/></span><div class="author-details">
+<span class="by no-border">By <a href="http://www.nationalenquirer.com/author/nestaff/" rel="author" title="Posts by National ENQUIRER Staff">National ENQUIRER Staff</a></span>
+</div>
+<div class="posted-date"><time content="2017-08-09T10:53:38+00:00">Aug 9, 2017 @ 10:53AM</time></div> <div class="modified-date"><time content="2017-08-09T10:53:38+00:00">Aug 9, 2017 @ 10:53AM</time></div>
+</div> </div>
+</header>
+<div class="radar-media-box">
+<figure><span class="gallery-button-wrapper"><div class="slide_share-bar mobile-only"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-208442" href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-208442" href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/?share=facebook" rel="nofollow" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div></div><div class="radar-thumb radar-gallery-thumb"><div class="centring-box"><div><img alt="paulmanafort sex scandal mistress" class="attachment-540x400 size-540x400 wp-post-image" height="400" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-f.jpg?resize=540%2C400" width="540"/></div></div></div><a class="gallery-link" href="#">View gallery <span class="gallery-total-count">9</span></a></span><div class="absolute-credit"><div class="photo_credit">Getty Images</div></div></figure> </div>
+<div class="entry" id="ami-post-content">
+<div class="dfp-slot dfp-container dfp-tag-sharethrough " data-position="sharethrough" id="dfp-tag-sharethrough"></div> <script type="text/javascript">
+					var next_post_url = "http://www.nationalenquirer.com/photos/glen-campbell-death-family-feud/";
+					var prev_post_url = "http://www.nationalenquirer.com/photos/glen-campbell-tanya-tucker-affair/";
+					</script> <div class="fs-gallery_wrapper">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-09T10:47:43+00:00","caption":"Just as President Donald Trump's former campaign chairman Paul Manafort had his offices raided by FBI agents probing Russian intervention in the 2016 presidential race, the career lobbyist has been rocked by a sleazy sex scandal in which he was caught cheating on his wife \u2014 with a hottie younger than his own daughters!","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:44+00:00","caption":"That\u2019s the shocking revelation of The National ENQUIRER investigation that exposed Manafort, 68, as a tawdry adulterer \u2014 who wore his wedding ring while romping with his 33-year-old mistress in the bedroom he shares with his wife!","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:45+00:00","caption":"Desperate to save his 39-year marriage to Kathleen (right), 64, the cheating cad splashed out $18,000 on therapy to avoid airing his dirty laundry in a public divorce, sources said. \u201cPresident Trump has been focused on draining the swamp in Washington, D.C.,\u201d a White House insider said. \u201cMeanwhile, one of his trusted advisers was bedding another woman behind his wife\u2019s back, betraying her and his country!\u201d","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:46+00:00","caption":"The seedy affair began in early 2014, and smutty details surfaced when text messages from Paul\u2019s daughter were hacked and leaked on the \u201cdark web\u201d \u2014 an untraceable part of the internet. In text messages seen by The ENQUIRER, Andrea Manafort ranted: \u201cHe\u2019s been taking THIS W--RE on trips instead of my mom\"","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:47+00:00","caption":"Andrea, 32, also sent angry texts to sister Jessica, a 35-year-old filmmaker, and other messages detailed how Paul brazenly took his squeeze to the same spots he frequented with Kathleen!","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:48+00:00","caption":"\u201cHe has taken her on his playlist of places,\u201d Andrea raged. \u201cAs in like the restaurant he celebrates my mom\u2019s bday every year w(sic) her. The place they went on their honeymoon too. All their restaurants they go to when they go to Paris for decades.\u201d","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:49+00:00","caption":"According to another source: \u201cThe worst part was Paul would sleep with her in the master bedroom of the family home! He would leave his wedding ring on, too!\u201d During the affair, the dirty dog splashed out a fortune on his honey \u2014 whose identity is being withheld for privacy reasons \u2014 organizing private jets, multiple trips overseas and paying for a Manhattan love nest.","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-7.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:50+00:00","caption":"The couple also snuck off to Europe twice in 2014, and he rented his sweetie a summer house less than a mile from his family home in the Hamptons. Paul \u2014 a key man in the government\u2019s probe of Russian interference in the presidential election \u2014 even pulled strings to get her a job.","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-8.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:47:51+00:00","caption":"\u201cThere are clearly skeletons in his closet, but Paul is happily married now,\u201d a source said. \u201cBut when he was warned about the messages being leaked on the dark web, he went into damage control mode \u2014 yet foolishly reached out to his mistress again!\u201d","url":"http:\/\/i0.heartyhosting.com\/www.nationalenquirer.com\/wp-content\/uploads\/2017\/08\/paul-manafort-sex-scandal-mistress-9.jpg?resize=700%2C700","width":"700","height":"700"}]}</script>
+<!-- Gallery HEADER -->
+<div class="fs-gallery_header">
+<div class="left-col">
+<div class="site-logo">
+<a class="logo_link" href="http://www.nationalenquirer.com/" rel="home" title="National Enquirer">
+<img alt="National Enquirer" height="64" src="http://cdn-neq1.heartyhosting.com/wp-content/themes/vip/am-neq/images/nationalenquirer-logo.svg" width="126"/>
+</a>
+</div>
+<div class="gallery-title">
+<span>Trump Advisor Sex Scandal — Paul Manafort’s Sick Affair</span>
+</div>
+</div>
+<div class="right-col">
+<div class="gallery-index_button">
+<a class="show-all_btn" href="#"></a>
+<a class="close-all_btn" href="#"></a>
+</div>
+<div class="gallery-counter">
+<span class="current"> 1 </span>
+							of
+							<span class="total"> 9 </span>
+</div>
+<div class="gallery-close_button">
+<a class="gallery-close_btn" href="#"></a>
+</div>
+</div>
+</div>
+<!-- END Gallery header -->
+<!-- Gallery BODY -->
+<div class="fs-gallery_body">
+<!-- Gallery main block -->
+<div class="fs-gallery_main">
+<div class="fs-gallery_slick">
+<div class="ami-image-type ami-gallery-item ami-gallery-item-0 ami-gallery-item-id-208484 ami-gallery-item-image" data-item-id="208484" data-item-number="1" id="208484"><p class="gallery-counter mobile-only"><span>1</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-1.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-1.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-1.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-1.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">Just as <a href="http://www.nationalenquirer.com/tag/donald-trump/"><strong>President Donald Trump</strong></a>'s former campaign chairman <strong>Paul Manafort</strong> had his offices raided by FBI agents probing Russian intervention in the 2016 presidential race, the career lobbyist has been rocked by a sleazy sex scandal in which he was caught cheating on his wife — with a hottie younger than his own daughters!</div><p class="gallery-photo-credit">Photo credit: Getty Images</p></div></div><div class="ami-image-type ami-gallery-item ami-gallery-item-1 ami-gallery-item-id-208485 ami-gallery-item-image" data-item-id="208485" data-item-number="2" id="208485"><p class="gallery-counter mobile-only"><span>2</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-2.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-2.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-2.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-2.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">That’s the shocking revelation of <a href="https://w1.buysub.com/pubs/SR/NEQ/NEQ_printsub.jsp?cds_page_id=21735&amp;cds_mag_code=NEQ&amp;id=1469634154491&amp;lsid=62091042344039134&amp;vid=1"><strong>The National ENQUIRER</strong></a> investigation that exposed <strong>Manafort</strong>, 68, as a tawdry adulterer — who wore his wedding ring while romping with his 33-year-old mistress in the bedroom he shares with his wife!</div><p class="gallery-photo-credit">Photo credit: Getty Images</p></div><div class="mobile-only dfp-slot dfp-container dfp-tag-mobile_box mobile" data-position="mobile_box" id="dfp-tag-mobile_box" style="width: 300px; height: 250px; margin:0 auto;"></div></div><div class="ami-image-type ami-gallery-item ami-gallery-item-2 ami-gallery-item-id-208486 ami-gallery-item-image" data-item-id="208486" data-item-number="3" id="208486"><p class="gallery-counter mobile-only"><span>3</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-3.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-3.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-3.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-3.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">Desperate to save his 39-year marriage to <strong>Kathleen </strong>(right), 64, the cheating cad splashed out $18,000 on therapy to avoid airing his dirty laundry in a public divorce, sources said. “President Trump has been focused on <a href="http://www.nationalenquirer.com/videos/muslim-brotherhood-state-department-donald-trump-dick-morris-video/">draining the swamp</a> in <a href="http://www.nationalenquirer.com/photos/donald-trump-white-house-staff/">Washington, D.C.</a>,” a White House insider said. “Meanwhile, one of his trusted advisers was bedding another woman behind his wife’s back, betraying her <em>and</em> his country!”</div></div></div><div class="ami-image-type ami-gallery-item ami-gallery-item-3 ami-gallery-item-id-208487 ami-gallery-item-image" data-item-id="208487" data-item-number="4" id="208487"><p class="gallery-counter mobile-only"><span>4</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-4.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-4.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-4.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-4.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">The seedy affair began in early 2014, and smutty details surfaced when text messages from Paul’s daughter were hacked and leaked on the “dark web” — an untraceable part of the internet. In text messages seen by The ENQUIRER, <strong>Andrea Manafort</strong> ranted: “He’s been taking THIS W--RE on trips instead of my mom"</div></div><div class="mobile-only dfp-slot dfp-container dfp-tag-mobile_box mobile" data-position="mobile_box" id="dfp-tag-mobile_box-1" style="width: 300px; height: 250px; margin:0 auto;"></div> <script>
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										</script>
+</div><div class="ami-image-type ami-gallery-item ami-gallery-item-4 ami-gallery-item-id-208488 ami-gallery-item-image" data-item-id="208488" data-item-number="5" id="208488"><p class="gallery-counter mobile-only"><span>5</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-5.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-5.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-5.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-5.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">Andrea, 32, also sent angry texts to sister <strong>Jessica</strong>, a 35-year-old filmmaker, and other messages detailed how Paul brazenly took his squeeze to the same spots he frequented with Kathleen!</div></div></div><div class="ami-image-type ami-gallery-item ami-gallery-item-5 ami-gallery-item-id-208489 ami-gallery-item-image" data-item-id="208489" data-item-number="6" id="208489"><p class="gallery-counter mobile-only"><span>6</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-6.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-6.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-6.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-6.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">“He has taken her on his playlist of places,” Andrea raged. “As in like the restaurant he celebrates my mom’s bday every year w(sic) her. The place they went on their honeymoon too. All their restaurants they go to when they go to Paris for decades.”</div></div><div class="mobile-only dfp-slot dfp-container dfp-tag-mobile_box mobile" data-position="mobile_box" id="dfp-tag-mobile_box-2" style="width: 300px; height: 250px; margin:0 auto;"></div> <script>
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										</script>
+</div><div class="ami-image-type ami-gallery-item ami-gallery-item-6 ami-gallery-item-id-208490 ami-gallery-item-image" data-item-id="208490" data-item-number="7" id="208490"><p class="gallery-counter mobile-only"><span>7</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-7.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-7.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-7.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-7.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">According to another source: “The worst part was Paul would sleep with her in the master bedroom of the family home! He would leave his wedding ring on, too!” During the affair, the dirty dog splashed out a fortune on his honey — whose identity is being withheld for privacy reasons — organizing private jets, multiple trips overseas and paying for a Manhattan love nest.</div></div></div><div class="ami-image-type ami-gallery-item ami-gallery-item-7 ami-gallery-item-id-208491 ami-gallery-item-image" data-item-id="208491" data-item-number="8" id="208491"><p class="gallery-counter mobile-only"><span>8</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-8.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-8.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-8.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-8.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">The couple also snuck off to Europe twice in 2014, and he rented his sweetie a summer house less than a mile from his family home in the Hamptons. Paul — a key man in <a href="http://www.nationalenquirer.com/photos/hillary-clinton-trump-russia-mastermind/">the government’s probe of Russian interference in the presidential election</a> — even pulled strings to get her a job.</div></div><div class="mobile-only dfp-slot dfp-container dfp-tag-mobile_box mobile" data-position="mobile_box" id="dfp-tag-mobile_box-3" style="width: 300px; height: 250px; margin:0 auto;"></div> <script>
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										</script>
+</div><div class="ami-image-type ami-gallery-item ami-gallery-item-8 ami-gallery-item-id-208492 ami-gallery-item-image" data-item-id="208492" data-item-number="9" id="208492"><p class="gallery-counter mobile-only"><span>9</span> of <span>9</span></p><noscript><img alt="" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-9.jpg?fit=1380%2C880"/></noscript><img alt="" data-lazy="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-9.jpg?w=750" data-sizes="(min-width: 768px) 1000px, 100vw" data-srcset="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-9.jpg?fit=1380%2C880 1000w, http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/paul-manafort-sex-scandal-mistress-9.jpg?w=750 500w" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs="/><div class="caption-slide mobile-only"><div class="gallery-item-caption">“There are clearly skeletons in his closet, but Paul is happily married now,” a source said. “But when he was warned about the messages being leaked on the dark web, he went into damage control mode — yet foolishly reached out to his mistress again!”</div></div></div> <div class="ami-gallery-item ami-gallery-item-id-taboola-endcard" data-item-id="taboola-endcard" data-item-title="Taboola" data-item-url="taboola-endcard" id="taboola-endcard-slide">
+<div class="ami-endcard-wrapper">
+<div id="taboola-endslate-thumbnails"></div>
+</div>
+</div>
+</div>
+<div class="bottom-ads">
+<div adonis-marker="" class="inner-wrap" id="dfp-tag-slideshow-leaderboard"></div>
+</div>
+</div>
+<!-- Gallery main block -->
+<!-- Gallery right sidebar -->
+<div class="fs-gallery_right-col">
+<div class="slide_share-bar">
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-208442" href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-208442" href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/?share=facebook" rel="nofollow" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div> </div>
+<div class="slide_caption">
+<div class="slick-gallery-caption-slider">
+<div class="caption-slide"><div class="gallery-item-caption">Just as <a href="http://www.nationalenquirer.com/tag/donald-trump/"><strong>President Donald Trump</strong></a>'s former campaign chairman <strong>Paul Manafort</strong> had his offices raided by FBI agents probing Russian intervention in the 2016 presidential race, the career lobbyist has been rocked by a sleazy sex scandal in which he was caught cheating on his wife — with a hottie younger than his own daughters!</div><div><p class="gallery-photo-credit">Photo credit: Getty Images</p></div></div><div class="caption-slide"><div class="gallery-item-caption">That’s the shocking revelation of <a href="https://w1.buysub.com/pubs/SR/NEQ/NEQ_printsub.jsp?cds_page_id=21735&amp;cds_mag_code=NEQ&amp;id=1469634154491&amp;lsid=62091042344039134&amp;vid=1"><strong>The National ENQUIRER</strong></a> investigation that exposed <strong>Manafort</strong>, 68, as a tawdry adulterer — who wore his wedding ring while romping with his 33-year-old mistress in the bedroom he shares with his wife!</div><div><p class="gallery-photo-credit">Photo credit: Getty Images</p></div></div><div class="caption-slide"><div class="gallery-item-caption">Desperate to save his 39-year marriage to <strong>Kathleen </strong>(right), 64, the cheating cad splashed out $18,000 on therapy to avoid airing his dirty laundry in a public divorce, sources said. “President Trump has been focused on <a href="http://www.nationalenquirer.com/videos/muslim-brotherhood-state-department-donald-trump-dick-morris-video/">draining the swamp</a> in <a href="http://www.nationalenquirer.com/photos/donald-trump-white-house-staff/">Washington, D.C.</a>,” a White House insider said. “Meanwhile, one of his trusted advisers was bedding another woman behind his wife’s back, betraying her <em>and</em> his country!”</div></div><div class="caption-slide"><div class="gallery-item-caption">The seedy affair began in early 2014, and smutty details surfaced when text messages from Paul’s daughter were hacked and leaked on the “dark web” — an untraceable part of the internet. In text messages seen by The ENQUIRER, <strong>Andrea Manafort</strong> ranted: “He’s been taking THIS W--RE on trips instead of my mom"</div></div><div class="caption-slide"><div class="gallery-item-caption">Andrea, 32, also sent angry texts to sister <strong>Jessica</strong>, a 35-year-old filmmaker, and other messages detailed how Paul brazenly took his squeeze to the same spots he frequented with Kathleen!</div></div><div class="caption-slide"><div class="gallery-item-caption">“He has taken her on his playlist of places,” Andrea raged. “As in like the restaurant he celebrates my mom’s bday every year w(sic) her. The place they went on their honeymoon too. All their restaurants they go to when they go to Paris for decades.”</div></div><div class="caption-slide"><div class="gallery-item-caption">According to another source: “The worst part was Paul would sleep with her in the master bedroom of the family home! He would leave his wedding ring on, too!” During the affair, the dirty dog splashed out a fortune on his honey — whose identity is being withheld for privacy reasons — organizing private jets, multiple trips overseas and paying for a Manhattan love nest.</div></div><div class="caption-slide"><div class="gallery-item-caption">The couple also snuck off to Europe twice in 2014, and he rented his sweetie a summer house less than a mile from his family home in the Hamptons. Paul — a key man in <a href="http://www.nationalenquirer.com/photos/hillary-clinton-trump-russia-mastermind/">the government’s probe of Russian interference in the presidential election</a> — even pulled strings to get her a job.</div></div><div class="caption-slide"><div class="gallery-item-caption">“There are clearly skeletons in his closet, but Paul is happily married now,” a source said. “But when he was warned about the messages being leaked on the dark web, he went into damage control mode — yet foolishly reached out to his mistress again!”</div></div> </div>
+</div>
+<div class="right-ads">
+<div adonis-marker="" class="inner-wrap" id="dfp-tag-slideshow-box"></div>
+</div>
+</div>
+<!-- END Gallery right sidebar -->
+</div>
+<!-- END Gallery body -->
+</div>
+</div>
+<div id="gigya-wrap">
+<div id="gigya-wrap-int">
+<div id="ami-gigya-sharebar">
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a class="share-twitter sd-button share-icon no-text" data-shared="sharing-twitter-208442" href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/?share=twitter" rel="nofollow" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a class="share-facebook sd-button share-icon no-text" data-shared="sharing-facebook-208442" href="http://www.nationalenquirer.com/photos/paul-manafort-sex-scandal-mistress/?share=facebook" rel="nofollow" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div> </div>
+<section>Share</section>
+</div>
+</div>
+<script type="text/javascript">
+		jQuery.get('https://www.spot.im/api/open-api/v1/messages-count?spot_id=sp_O5ALegvs&posts_ids=208442', function( data ) {
+			var comCount = data.messages_count['208442'];
+			jQuery('#ami-gigya-sharebar .share-end').before('<li class="share-email-count">'+comCount+'</li>');
+		});
+		jQuery('.share-email-count, .to-comments').live('click', function(){
+			jQuery('body,html').animate({scrollTop: jQuery('#commentSection').offset().top - 150 }, 1500);
+			return false;
+		});
+	</script>
+</section>
+<div class="below-article" id="article-bottom-part">
+<div class="widget_am_taboola_main_widget" style="clear:both;">
+<div id="taboola-below-article-thumbnails"></div>
+<div id="taboola-below-article-text-links"></div>
+</div>
+<div class="clear">
+</div>
+<div class="tags"> <a href="http://www.nationalenquirer.com/tag/donald-trump/" rel="tag">Donald Trump</a></div> <h4 class="comments-title">Comments</h4>
+<a id="commentSection" name="comments"></a>
+<div class="spot-im-frame-inpage" data-post-id="208442" id="commentsDiv"></div>
+</div>
+</article>
+<div id="sidebar-right"><div id="sidebar_interior_for_banners"><div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-7"> <div adonis-marker="" class="dfp-slot dfp-container dfp-tag-rightrail-position-2 " data-position="rightrail-position-2" id="dfp-tag-rightrail-position-2"></div>
+</div>
+<div class="widget widget-zone-posts" id="radar_zoninator_zoneposts_widget-19"> <div class="zone_layout_widget featured-photos">
+<div class="first_photo ggnoads">
+<a href="http://www.nationalenquirer.com/photos/check-out-the-hottest-celebrities-this-week-aug17/">
+<div class="radar-thumb radar-gallery-thumb"><div class="centring-box"><div><img alt="" class="attachment-300x194 size-300x194 wp-post-image" height="194" src="http://i0.heartyhosting.com/www.nationalenquirer.com/wp-content/uploads/2017/08/debra-messing-party-food.jpg?crop=0px%2C15px%2C1214px%2C785px&amp;resize=300%2C194" width="300"><span class="gallery-icon"><span class="image-count">23</span></span></img></div></div></div> <h4>Hot Photos</h4>
+<h3>Check Out The Hottest Celebrities This Week</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-22"> <div adonis-marker="" class="dfp-slot dfp-container dfp-tag-rightrail-position-3 " data-position="rightrail-position-3" id="dfp-tag-rightrail-position-3"></div>
+</div><div class="widget widget_image" id="image-15"><div class="jetpack-image-container"><a href="http://www.nationalenquirer.com/tag/michael-jackson"><img class="alignnone" height="1355" src="http://www.nationalenquirer.com/wp-content/uploads/2016/02/michael_jackson.jpg" width="625"/></a></div>
+</div><div class="widget Sailthru_Subscribe" id="sailthru-subscribe-id-5"> <div class="daily-juice">
+<h2>Free breaking news updates</h2>
+<h3>National Enquirer Daily</h3>
+<div class="success hidden">Thank you for subscribing!</div>
+<form action="#" class="sailthru-add-subscriber-form daily-juice-form" id="sailthru-add-subscriber-form" method="post">
+<div class="sailthru-add-subscriber-errors" id="sailthru-add-subscriber-errors"></div>
+<input name="sailthru_nonce" type="hidden" value="35fe10095b">
+<input name="sailthru_email_list" type="hidden" value="NEQ_Confirmed_2016">
+<input name="action" type="hidden" value="add_subscriber">
+<input name="vars[source]" type="hidden" value="right rail">
+<input class="form-control" id="sailthru_promos_name" name="custom_promos" required="required" type="hidden" value="1"/>
+<input class="form-control" id="sailthru_breaking_name" name="custom_breaking" required="required" type="hidden" value="1"/>
+<input class="form-control" id="sailthru_daily_name" name="custom_daily" required="required" type="hidden" value="1"/>
+<div class="bg-input">
+<input id="sailthru_email" name="email" placeholder="enter your email address" type="text" value="">
+<input type="submit" value="Submit"/>
+</input></div>
+</input></input></input></input></form>
+</div>
+</div><div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-8"> <div adonis-marker="" class="dfp-slot dfp-container dfp-tag-rightrail-position-4 " data-position="rightrail-position-4" id="dfp-tag-rightrail-position-4"></div>
+</div></div></div> <input id="lastpos" name="lastpos" type="hidden" value="1">
+</input></div>
+</div><!-- End of #content-wrapper -->
+<div class="centered-elements" id="above_footer_section">
+<div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-9"> <div class="dfp-slot dfp-container dfp-tag-mobile_bottom mobile" data-position="mobile_bottom" id="dfp-tag-mobile_bottom"></div>
+</div><div class="widget widget-gpt2-ami-ads" id="gpt2_ads_widget-14"> <div adonis-marker="" class="dfp-slot dfp-container dfp-tag-horizontal-position-2 " data-position="horizontal-position-2" id="dfp-tag-horizontal-position-2"></div>
+</div></div>
+<footer id="super-footer">
+<div id="footer_bottom">
+<div class="centered-elements">
+<div class="site-info">
+<span>© 2017 National Enquirer, LLC</span>
+<span id="powered-by">Powered by <a class="powered-by-wpcom" href="http://boylesoftware.com/" rel="generator nofollow" target="_blank">BS</a></span>
+<span class="footer-promo-links">
+<a href="http://www.americanmediainc.com/brands/national-enquirer">Advertisers</a><a href="http://www.americanmediainc.com/privacy-policy">Privacy Policy</a><a href="http://www.americanmediainc.com/terms-and-conditions">Terms of Use</a>
+</span>
+</div>
+</div>
+</div>
+</footer>
+<!-- wpsolr - ajax auto completion nonce -->
+<input id="wpsolr_autocomplete_nonce" type="hidden" value="1c86967cb1"/>
+<script>
+		jQuery(document).ready(function ($) {
+			$('a[href^="http"]')
+				.not('[href^="' + location.protocol + '//' + location.hostname + '"]')
+				.attr('target', '_blank');
+		});
+	</script> <style media="screen" type="text/css">
+		@media screen and ( max-width: 782px ) {
+			html { margin-top: 0px !important; }
+			* html body { margin-top: 0px !important; }
+			#wpadminbar { display:none; }
+		}
+	</style>
+<!-- Sailthru Horizon  Async-->
+<script type="text/javascript">
+(function() {
+     function loadHorizon() {
+           var s = document.createElement('script');
+           s.type = 'text/javascript';
+          s.async = true;
+          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+         var x = document.getElementsByTagName('script')[0];
+         x.parentNode.insertBefore(s, x);
+      }
+     loadHorizon();
+      var oldOnLoad = window.onload;
+      window.onload = function() {
+          if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+         }
+           Sailthru.setup({
+              domain: 'horizon.nationalenquirer.com'
+         });
+     };
+  })();
+ </script>
+<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/www.nationalenquirer.com\/photos\/paul-manafort-sex-scandal-mistress\/":208442};
+		window.WPCOM_jetpack = true;
+			</script>
+<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+<script src="http://cdn-neq1.heartyhosting.com/wp-content/cache/minify/000000/dYtBDoMwDAQ_1NTiRZUJFgESr2UbIX5fDr32MJrLzES7pHE9aGA5uwRZQ0J_ek10WaB7CWGvrYiumwrtQTOQkc5W8jbhJrz8q2dc4p-KYVDRjGc_vdPDe2z6BQ.js?20170808" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wp_localize_script_autocomplete = {"ajax_url":"http:\/\/www.nationalenquirer.com\/wp-admin\/admin-ajax.php","is_show_url_parameters":"","is_url_redirect":"1","SEARCH_PARAMETER_SEARCH":"search","SEARCH_PARAMETER_Q":"wpsolr_q","SEARCH_PARAMETER_FQ":"wpsolr_fq","SEARCH_PARAMETER_SORT":"wpsolr_sort","SEARCH_PARAMETER_PAGE":"wpsolr_page","SORT_CODE_BY_RELEVANCY_DESC":"sort_by_relevancy_desc","wpsolr_autocomplete_selector":".search-field","wpsolr_autocomplete_action":"wdm_return_solr_rows","wpsolr_autocomplete_nonce_selector":"#wpsolr_autocomplete_nonce"};
+/* ]]> */
+</script>
+<script src="http://cdn-neq1.heartyhosting.com/wp-content/cache/minify/000000/M9QvLyjOzynSLU5NLErO0E3NS8_MS9XPKtZPLC3JT87PLchJLUmNBykBAA.js?20170808" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wp_localize_script_infinitescroll = {"ajax_url":"\/wp-admin\/admin-ajax.php","loadimage":"http:\/\/www.nationalenquirer.com\/wp-content\/plugins\/wpsolr-search-engine\/images\/infinitescroll.gif","loadingtext":"Loading ...","SEARCH_PARAMETER_Q":"wpsolr_q"};
+/* ]]> */
+</script>
+<script src="http://cdn-neq1.heartyhosting.com/wp-content/cache/minify/000000/M9QvLyjOzynSLU5NLErO0E3NS8_MS9XPKtbPKixNLarUy8xLy8zLLEktTi7Kz8kBAA.js?20170808" type="text/javascript"></script>
+<script src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201733" type="text/javascript"></script>
+<script src="http://cdn-neq1.heartyhosting.com/wp-content/cache/minify/000000/jY_RCoMwDEV_yLQy9j-j1Uzj0lpNtfj3tjAZso3tLfdwLtzUeqWgjYPAS0de8knQGWact4seRAtT81BMVjnyVf1LH6YlnyqZLYzko_zX8pjgLgf64ocIYUZLbWlkcsvkpXqcCh8TQ2PmcRHkEtQR3szn0r4BifnF7bz0LK0kZBk_KrFHh9VVpwDoLLZF2gE.js?20170808" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script src="http://cdn-neq1.heartyhosting.com/wp-content/cache/minify/000000/M9TPSi0pSEzO1s_NTynNSS3WL85ILEpNSUxJqQQzM_PSAQ.js?20170808" type="text/javascript"></script>
+<script>
+		  var adonis = adonis || {};
+		  adonis.scriptResources = ["acdn.adnxs.com/prebid/"];
+		  adonis.transport = 'https://www.aduoso.com/http';
+		  adonis.conditionalAdRendering = true;
+		</script><script>eval(atob("IWZ1bmN0aW9uIGUodCxuLHIpe2Z1bmN0aW9uIG8oYSxjKXtpZighblthXSl7aWYoIXRbYV0pe3ZhciB1PSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlO2lmKCFjJiZ1KXJldHVybiB1KGEsITApO2lmKGkpcmV0dXJuIGkoYSwhMCk7dmFyIHM9bmV3IEVycm9yKCJDYW5ub3QgZmluZCBtb2R1bGUgJyIrYSsiJyIpO3Rocm93IHMuY29kZT0iTU9EVUxFX05PVF9GT1VORCIsc312YXIgbD1uW2FdPXtleHBvcnRzOnt9fTt0W2FdWzBdLmNhbGwobC5leHBvcnRzLGZ1bmN0aW9uKGUpe3ZhciBuPXRbYV1bMV1bZV07cmV0dXJuIG8obnx8ZSl9LGwsbC5leHBvcnRzLGUsdCxuLHIpfXJldHVybiBuW2FdLmV4cG9ydHN9Zm9yKHZhciBpPSJmdW5jdGlvbiI9PXR5cGVvZiByZXF1aXJlJiZyZXF1aXJlLGE9MDthPHIubGVuZ3RoO2ErKylvKHJbYV0pO3JldHVybiBvfSh7MTpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtlKDIzKTt2YXIgcj1lKDEyKSxvPWUoNyk7d2luZG93LmFkb25pc0Nvbm5UeXBlPSJodHRwIixyLmxvZ2dlci5pbmZvKCJbaHR0cExvYWRlcl06IFN0YXJ0aW5nIGJvb3RzdHJhcCIpLCgwLG8ucnVuKSgpfSx7MTI6MTIsMjM6MjMsNzo3fV0sMjpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKCl7cmV0dXJuIGkod2luZG93KSYmYyh3aW5kb3cpJiZ1KHdpbmRvdykmJmEod2luZG93KSYmcyh3aW5kb3cpfWZ1bmN0aW9uIG8oKXtyZXR1cm4gaSh3aW5kb3cpJiZ1KHdpbmRvdykmJmEod2luZG93KSYmcyh3aW5kb3cpfWZ1bmN0aW9uIGkoZSl7dHJ5e3JldHVybiBlLmxvY2FsU3RvcmFnZS5zZXRJdGVtKCJfX3h5el9fIiwiX194eXpfXyIpLGUubG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oIl9feHl6X18iKSwhMH1jYXRjaChlKXtyZXR1cm4hMX19ZnVuY3Rpb24gYShlKXt0cnl7cmV0dXJuISFuZXcgZS5CbG9ifWNhdGNoKGUpe3JldHVybiExfX1mdW5jdGlvbiBjKGUpe3ZhciB0PWZ1bmN0aW9uKHQpe3JldHVybiB0LnNvbWUoZnVuY3Rpb24odCl7cmV0dXJuIHQgaW4gZX0pfSxuPVsiUlRDUGVlckNvbm5lY3Rpb24iLCJtb3pSVENQZWVyQ29ubmVjdGlvbiIsIndlYmtpdFJUQ1BlZXJDb25uZWN0aW9uIl0scj1bIlJUQ1Nlc3Npb25EZXNjcmlwdGlvbiIsIm1velJUQ1Nlc3Npb25EZXNjcmlwdGlvbiIsIndlYmtpdFJUQ1Nlc3Npb25EZXNjcmlwdGlvbiJdLG89WyJSVENJY2VDYW5kaWRhdGUiLCJtb3pSVENJY2VDYW5kaWRhdGUiLCJ3ZWJraXRSVENJY2VDYW5kaWRhdGUiXTtyZXR1cm4gdChuKSYmdChyKSYmdChvKX1mdW5jdGlvbiB1KGUpe3JldHVybiJQcm9taXNlImluIGUmJiJyZXNvbHZlImluIGUuUHJvbWlzZSYmInJlamVjdCJpbiBlLlByb21pc2UmJiJhbGwiaW4gZS5Qcm9taXNlJiYicmFjZSJpbiBlLlByb21pc2V9ZnVuY3Rpb24gcyhlKXtyZXR1cm4iZnVuY3Rpb24iPT10eXBlb2YgZS5PYmplY3QuYXNzaWdufXQuZXhwb3J0cz17aXNTdXBwb3J0ZWRCcm93c2VyUnRjOnIsaXNTdXBwb3J0ZWRCcm93c2VyOm8saXNMb2NhbFN0b3JhZ2VTdXBwb3J0ZWQ6aSxpc1J0Y1N1cHBvcnRlZDpjLGlzQmxvYlN1cHBvcnRlZDphLGlzT2JqZWN0QXNzaWduU3VwcG9ydGVkOnMsaXNQcm9taXNlU3VwcG9ydGVkOnV9fSx7fV0sMzpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUsdCl7dmFyIG49dFsiYWRvbmlzLWNsaWVudC12ZXJzaW9uIl0scj10WyJjYWNoZS1jb250cm9sIl0sYT1yJiZyLnN0YXJ0c1dpdGgoIm1heC1hZ2UiKSxjPXQuZXhwaXJ5TWlsbGlzfHwwO2lmKGEpe2kubG9nZ2VyLmRlYnVnKHIpO3ZhciB1PXBhcnNlSW50KHIuc3BsaXQoIj0iKVsxXSwxMCk7aXNOYU4odSl8fChjPShuZXcgRGF0ZSkuZ2V0VGltZSgpKzFlMyp1KX1uJiYoaS5sb2dnZXIuaW5mbygiW2NhY2hlL3N0b3JlQWRvbmlzQ2xpZW50UmVzcG9uc2VdOiBuZXcgZXhwaXJ5ICIrYysiID0gIituZXcgRGF0ZShjKSksbyhlLG4sYykpfWZ1bmN0aW9uIG8oZSx0LG4pe3dpbmRvdy5sb2NhbFN0b3JhZ2UuYWRvbmlzQ2FjaGVTcmM9ZSx3aW5kb3cubG9jYWxTdG9yYWdlLmFkb25pc0NhY2hlRXhwaXJ5TWlsbGlzPW4sd2luZG93LmxvY2FsU3RvcmFnZS5hZG9uaXNDbGllbnRWZXJzaW9uPXR9T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLG4uc3RvcmVBZG9uaXNDbGllbnRSZXNwb25zZT1yLG4uY2FjaGVBZG9uaXNDbGllbnQ9bzt2YXIgaT1lKDEyKX0sezEyOjEyfV0sNDpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0Ijt2YXIgcj1lKDUpO3dpbmRvdy5hZG9uaXNIYXNoPXdpbmRvdy5hZG9uaXNIYXNofHx3aW5kb3cubG9jYXRpb24uaGFzaHx8IiI7dmFyIG89d2luZG93LmFkb25pc0hhc2guaW5kZXhPZigiYWRvbmlzLWxvZ2dpbmciKT49MDtyLkxPR19MRVZFTD1vPyJkZWJ1ZyI6ci5MT0dfTEVWRUw7dmFyIGk9d2luZG93LmFkb25pc3x8e307aS53c0hvc3QmJnIuV1MmJihyLldTLmhvc3Q9aS53c0hvc3QpLGkudHJhbnNwb3J0JiYoci5TVUVaX0hUVFBfRU5EUE9JTlQ9aS50cmFuc3BvcnQpLHQuZXhwb3J0cz1yfSx7NTo1fV0sNTpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0Ijt0LmV4cG9ydHM9e1JFQUxfU1RVTl9IT1NUOiJzdHVuLnhwYW5hbWEubmV0OjM0NzgiLFRVUk5TSUdOQUxfSE9TVDoidHMucC54cGFuYW1hLm5ldDo3MDAwIixTVFVOR1VOX0hPU1Q6InNnLnAueHBhbmFtYS5uZXQ6MzQ4MCIsU0VSVkVSX0NBTkRJREFURToiY2FuZGlkYXRlOjgyNzY0ODAyNiAxIHVkcCAyMTIyMTk0Njg3IFNFUlZFUl9JUCBTRVJWRVJfUE9SVCB0eXAgaG9zdCBnZW5lcmF0aW9uIDAiLFJFUE9SVElOR19VUkw6Imh0dHBzOi8vbGIuc3RhdHNldmVudC5jb20vc3RhdHMiLFJFUE9SVElOR19SQVRFOi4wMSxMT0dfTEVWRUw6ImVycm9yIixSRVBPUlRfRVJST1JTOiEwLE1BTklGRVNUX1VSTDoiaHR0cHM6Ly9zcmkuanNpbnRlZ3JpdHkuY29tL21hbmlmZXN0Lmpzb24iLE1BTklGRVNUX0VYUElSQVRJT05fVElNRTo4NjQwMCxBRF9NQVJLRVI6ImFkb25pcy1tYXJrZXIiLEFET05JU19DTElFTlRfRkVUQ0hfVVJMOiJodHRwczovL2Fkc2VydmVyLnhwYW5hbWEubmV0L2NsaWVudC03LWxhdGVzdC5qcyIsV1M6e2hvc3Q6InN1ZXotc2VydmVyLnhwYW5hbWEubmV0IixwYXRoOiIvd3MiLHBvcnQ6NDQzLHNlY3VyZTohMCxwcm9taXNlVGltZW91dDozZTN9LFNFUlZJQ0VfU1RBVFVTX1VSTDpmdW5jdGlvbihlKXtyZXR1cm4iaHR0cHM6Ly9jbGllbnQucmVhY3RyanMuY29tLyIrZSsiLXN0YXR1cy5qc29uIn0sU1VFWl9IVFRQX1JFVFJZOjMsU1VFWl9IVFRQX0RFTEFZOjEwMH19LHt9XSw2OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOntkZWZhdWx0OmV9fWZ1bmN0aW9uIG8oKXt2YXIgZT0iY29udHJvbC1zZXJ2ZXIvY2hlY2siO2YubG9nZ2VyLmluZm8oIlsiK2UrIl06IENoZWNraW5nIHNlcnZpY2Ugc3RhdHVzIik7dmFyIHQ9aSh3aW5kb3cpO3JldHVybigwLHUucmVxdWVzdCkodCkudGhlbihmdW5jdGlvbih0KXtyZXR1cm4gZi5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN0YXR1cyBjaGVjayBmZXRjaGVkIHdpdGggc3RhdHVzLWNvZGUgPCIrdC5zdGF0dXMrIj4iKSxKU09OLnBhcnNlKHQucmVzcG9uc2VUZXh0KX0pLmNhdGNoKGZ1bmN0aW9uKHQpe2YubG9nZ2VyLmluZm8oIlsiK2UrIl06IEZhaWxlZCB0byBjaGVjayBjb250cm9sIHNlcnZlciBzdGF0dXMgPCIrdCsiPiIpO3ZhciBuPXZvaWQgMCE9PXQucmVxP3QucmVxLnN0YXR1czpudWxsO3Rocm93IDA9PT1uP25ldyBzLlhockJsb2NrRXJyb3I6bmV3IEVycm9yKCJVbmV4cGVjdGVkIHN0YXR1cyBjb2RlIHdoaWxlIHBlcmZvcm1pbmcgY29udHJvbCBzZXJ2ZXIgY2hlY2ssIHN0YXR1cy1jb2RlID0gPCIrbisiPiIpfSl9ZnVuY3Rpb24gaShlKXtyZXR1cm4gZC5kZWZhdWx0LlNFUlZJQ0VfU1RBVFVTX1VSTChjLmRlZmF1bHQuZ2V0KGUubG9jYXRpb24uaG9zdCkpfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmNoZWNrPW8sbi5nZXRTZXJ2aWNlU3RhdHVzVXJsPWk7dmFyIGE9ZSgyNSksYz1yKGEpLHU9ZSgxOSkscz1lKDkpLGw9ZSg0KSxkPXIobCksZj1lKDEyKX0sezEyOjEyLDE5OjE5LDI1OjI1LDQ6NCw5Ojl9XSw3OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSl7aWYoZSYmZS5fX2VzTW9kdWxlKXJldHVybiBlO3ZhciB0PXt9O2lmKG51bGwhPWUpZm9yKHZhciBuIGluIGUpT2JqZWN0LnByb3RvdHlwZS5oYXNPd25Qcm9wZXJ0eS5jYWxsKGUsbikmJih0W25dPWVbbl0pO3JldHVybiB0LmRlZmF1bHQ9ZSx0fWZ1bmN0aW9uIG8oZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOntkZWZhdWx0OmV9fWZ1bmN0aW9uIGkoKXt2YXIgZT0iaHR0cC1hZG9uaXMtY2xpZW50LWxvYWRlci9ydW4iO3JldHVybiBwLmRlZmF1bHQucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLnBhZ2V2aWV3IiksZy5kZWZhdWx0LmlzU3VwcG9ydGVkQnJvd3NlcigpPyh5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBCcm93c2VyIGlzIGNvbXBhdGlibGUiKSxwLmRlZmF1bHQucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLnN1cHBvcnRlZCIpLGEoKS50aGVuKGZ1bmN0aW9uKHQpe3JldHVybiB5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBSdW5uaW5nIGFuZCBjYWNoaW5nIGFkb25pc0NsaWVudCBzb3VyY2UiKSxwLmRlZmF1bHQucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLnJ1bmNsaWVudHNjcmlwdCIpLHAuZGVmYXVsdC5zYXZlVGltaW5nKCksZC5kZWZhdWx0LmRlZmluZVJlYWRPbmx5UHJvcGVydHkoImFkb25pc0NvbmZpZyIscy5kZWZhdWx0KSwoMCxtLnN0b3JlQWRvbmlzQ2xpZW50UmVzcG9uc2UpKHQuc291cmNlLHQubWV0YSksdy5kZWZhdWx0Lmluc2VydElubGluZVNjcmlwdCh0LnNvdXJjZSksbnVsbH0pLmNhdGNoKGZ1bmN0aW9uKHQpe3JldHVybiB0IGluc3RhbmNlb2YgSS5YaHJCbG9ja0Vycm9yPyh5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBGYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCB1c2luZyBTdWV6IikseS5sb2dnZXIuaW5mbygiWyIrZSsiXTogQWxsIGxvYWRlcnMgZmFpbGVkIHRvIGZldGNoIGFkb25pcy1jbGllbnQsIGNoZWNraW5nIGNvbnRyb2wgc2VydmVyIiksXy5jaGVjaygpKTooeS5sb2dnZXIud2FybigiWyIrZSsiXTogVW5leHBlY3RlZCBlcnJvciB3aGVuIHRyeWluZyB0byBmZXRjaCBhZG9uaXMtY2xpZW50IG92ZXIgU3VlejogPCIrdCsiPiIpLHAuZGVmYXVsdC5yZXBvcnRFcnJvcih0KSxudWxsKX0pLmNhdGNoKGZ1bmN0aW9uKHQpe3JldHVybiB0IGluc3RhbmNlb2YgSS5YaHJCbG9ja0Vycm9yPyhwLmRlZmF1bHQucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLnN0YXR1c19ibG9ja2VkIikseS5sb2dnZXIuaW5mbygiWyIrZSsiXTogQ29udHJvbCBzZXJ2ZXIgY2hlY2sgZmFpbGVkLCBwcm9iYWJseSBhbiBhZGJsb2NrZXIiKSx7c3RhdHVzOiEwfSk6KHkubG9nZ2VyLndhcm4oIlsiK2UrIl06IFVuZXhwZWN0ZWQgZXJyb3IgZnJvbSBjb250cm9sIHNlcnZlciBjaGVjazogPCIrdCsiPiIpLHAuZGVmYXVsdC5yZXBvcnRFcnJvcih0KSxudWxsKX0pLnRoZW4oZnVuY3Rpb24odCl7KDAsUy5kZWZhdWx0KSh3aW5kb3cubmF2aWdhdG9yLnVzZXJBZ2VudCkmJnQmJiJzdGF0dXMiaW4gdCYmdC5zdGF0dXM/KHAuZGVmYXVsdC5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAudHJpZ2dlZCIpLHkubG9nZ2VyLmluZm8oIlsiK2UrIl06IENvbnRyb2wgc2VydmVyIHJlcG9ydGVkIHN0YXR1cyBpcyBoZWFsdGh5IG9yIHdhcyBibG9ja2VkLCB0cmlnZ2VyaW5nIG9wcGVuaGVpbWVyIiksKDAsYy5yZXBsYWNlQ29udGVudCkod2luZG93LmRvY3VtZW50KSwoMCxULmRlZmF1bHQpKHdpbmRvdywiYWRvbmlzLWRldGVycmVudCIpKTp0JiYic3RhdHVzImluIHQmJiExPT09dC5zdGF0dXMmJihwLmRlZmF1bHQucmVwb3J0RXZlbnQoImJvb3RzdHJhcC5odHRwLm5vdF90cmlnZ2VkIikseS5sb2dnZXIud2FybigiWyIrZSsiXTogQ29udHJvbCBzZXJ2ZXIgcmVwb3J0ZWQgc3RhdHVzIGlzIHVuaGVhbHRoeSwgbm90IHRyaWdnZXJpbmcgb3BwZW5oZWltZXIiKSl9KSk6dm9pZCB5LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBJbmNvbXBhdGlibGUgYnJvd3Nlciwgbm90IGNvbnRpbnVpbmciKX1mdW5jdGlvbiBhKCl7dmFyIGU9Imh0dHAtYWRvbmlzLWNsaWVudC1sb2FkZXIvbG9hZEFkb25pc0NsaWVudCI7cmV0dXJuIHkubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBUcnlpbmcgdG8gbG9hZCBhZG9uaXMtY2xpZW50IHdpdGggWEhSIGxvYWRlciAoZnJvbSBDRE4pIiksQy5sb2FkKCkuY2F0Y2goZnVuY3Rpb24odCl7cmV0dXJuIHQgaW5zdGFuY2VvZiBJLlhockJsb2NrRXJyb3I/eS5sb2dnZXIuaW5mbygiWyIrZSsiXTogRmFpbGVkIHRvIGZldGNoIGFkb25pcy1jbGllbnQgb3ZlciBYSFIsIHRyeWluZyB0byBsb2FkIGZyb20gY2FjaGUiKTooeS5sb2dnZXIud2FybigiWyIrZSsiXTogVW5leHBlY3RlZCBlcnJvciB3aGVuIHRyeWluZyBmZXRjaCBhZG9uaXMtY2xpZW50IG92ZXIgWEhSLCB0cnlpbmcgdG8gbG9hZCBmcm9tIGNhY2hlOiA8Iit0KyI+IikscC5kZWZhdWx0LnJlcG9ydEVycm9yKHQpKSx4LmxvYWQoKX0pLmNhdGNoKGZ1bmN0aW9uKHQpe3JldHVybiB0IGluc3RhbmNlb2YgSS5DYWNoZUxvYWRFcnJvcj95LmxvZ2dlci5pbmZvKCJbIitlKyJdOiBGYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCBmcm9tIGNhY2hlLCB0cnlpbmcgdG8gbG9hZCBmcm9tIFN1ZXoiKTooeS5sb2dnZXIud2FybigiWyIrZSsiXTogVW5leHBlY3RlZCBlcnJvciB3aGVuIHRyeWluZyBmZXRjaCBhZG9uaXMtY2xpZW50IGZyb20gY2FjaGUsIHRyeWluZyB0byBsb2FkIGZyb20gU3VlejogPCIrdCsiPiIpLHAuZGVmYXVsdC5yZXBvcnRFcnJvcih0KSksTC5sb2FkKCl9KX1PYmplY3QuZGVmaW5lUHJvcGVydHkobiwiX19lc01vZHVsZSIse3ZhbHVlOiEwfSksbi5ydW49aSxuLmxvYWRBZG9uaXNDbGllbnQ9YTt2YXIgYz1lKDIyKSx1PWUoNCkscz1vKHUpLGw9ZSgxOCksZD1vKGwpLGY9ZSgxNikscD1vKGYpLGg9ZSgyKSxnPW8oaCksdj1lKDE1KSx3PW8odiksYj1lKDYpLF89cihiKSxtPWUoMykseT1lKDEyKSxFPWUoMTcpLFM9byhFKSxPPWUoMTMpLFQ9byhPKSxSPWUoMTEpLEM9cihSKSxBPWUoMTApLEw9cihBKSxQPWUoOCkseD1yKFApLEk9ZSg5KX0sezEwOjEwLDExOjExLDEyOjEyLDEzOjEzLDE1OjE1LDE2OjE2LDE3OjE3LDE4OjE4LDI6MiwyMjoyMiwzOjMsNDo0LDY6Niw4OjgsOTo5fV0sODpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKCl7dmFyIGU9ImxvYWRlcnMvY2FjaGUvbG9hZCI7YS5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN0YXJ0aW5nIGNhY2hlIGxvYWRlciIpLHdpbmRvdy5sb2NhbFN0b3JhZ2UuYWRvbmlzQ2FjaGVFeHBpcnkmJndpbmRvdy5sb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgiYWRvbmlzQ2FjaGVFeHBpcnkiKTt2YXIgdD1wYXJzZUludCh3aW5kb3cubG9jYWxTdG9yYWdlLmFkb25pc0NhY2hlRXhwaXJ5TWlsbGlzLDEwKTtpc05hTih0KSYmKHQ9MCk7dmFyIG49d2luZG93LmxvY2FsU3RvcmFnZS5hZG9uaXNDbGllbnRWZXJzaW9uLHI9d2luZG93LmxvY2FsU3RvcmFnZS5hZG9uaXNDYWNoZVNyYyxvPShuZXcgRGF0ZSkuZ2V0VGltZSgpPj10LGM9eyJhZG9uaXMtY2xpZW50LXZlcnNpb24iOm4sZXhwaXJ5TWlsbGlzOnQsY2FjaGVkU291cmNlOnJ9O3JldHVybiByP28/KGEubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBDYWNoZWQgdmVyc2lvbiBvZiBhZG9uaXMtY2xpZW50IGlzIGV4cGlyZWQiKSxQcm9taXNlLnJlamVjdChuZXcgaS5DYWNoZUxvYWRFcnJvcihudWxsLGMpKSk6KGEubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBGb3VuZCBhIHZhbGlkIGNhY2hlZCB2ZXJzaW9uIG9mIGFkb25pcy1jbGllbnQiKSxQcm9taXNlLnJlc29sdmUoe3NvdXJjZTpyLG1ldGE6Y30pKTooYS5sb2dnZXIuZGVidWcoIlsiK2UrIl06IE5vIGNhY2hlZCB2ZXJzaW9uIG9mIGFkb25pcy1jbGllbnQgZm91bmQgaW4gdGhlIGxvY2FsU3RvcmFnZSIpLFByb21pc2UucmVqZWN0KG5ldyBpLkNhY2hlTG9hZEVycm9yKG51bGwsYykpKX1mdW5jdGlvbiBvKCl7cmV0dXJuIHIoKS5jYXRjaChmdW5jdGlvbihlKXtpZihlIGluc3RhbmNlb2YgaS5DYWNoZUxvYWRFcnJvcilyZXR1cm57c291cmNlOmUuc291cmNlLG1ldGE6ZS5tZXRhfX0pfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmxvYWQ9cixuLmxvYWRJZ25vcmluZ0Vycm9ycz1vO3ZhciBpPWUoOSksYT1lKDEyKX0sezEyOjEyLDk6OX1dLDk6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlLHQpe2lmKCEoZSBpbnN0YW5jZW9mIHQpKXRocm93IG5ldyBUeXBlRXJyb3IoIkNhbm5vdCBjYWxsIGEgY2xhc3MgYXMgYSBmdW5jdGlvbiIpfWZ1bmN0aW9uIG8oZSx0KXtpZighZSl0aHJvdyBuZXcgUmVmZXJlbmNlRXJyb3IoInRoaXMgaGFzbid0IGJlZW4gaW5pdGlhbGlzZWQgLSBzdXBlcigpIGhhc24ndCBiZWVuIGNhbGxlZCIpO3JldHVybiF0fHwib2JqZWN0IiE9dHlwZW9mIHQmJiJmdW5jdGlvbiIhPXR5cGVvZiB0P2U6dH1mdW5jdGlvbiBpKGUsdCl7aWYoImZ1bmN0aW9uIiE9dHlwZW9mIHQmJm51bGwhPT10KXRocm93IG5ldyBUeXBlRXJyb3IoIlN1cGVyIGV4cHJlc3Npb24gbXVzdCBlaXRoZXIgYmUgbnVsbCBvciBhIGZ1bmN0aW9uLCBub3QgIit0eXBlb2YgdCk7ZS5wcm90b3R5cGU9T2JqZWN0LmNyZWF0ZSh0JiZ0LnByb3RvdHlwZSx7Y29uc3RydWN0b3I6e3ZhbHVlOmUsZW51bWVyYWJsZTohMSx3cml0YWJsZTohMCxjb25maWd1cmFibGU6ITB9fSksdCYmKE9iamVjdC5zZXRQcm90b3R5cGVPZj9PYmplY3Quc2V0UHJvdG90eXBlT2YoZSx0KTplLl9fcHJvdG9fXz10KX1PYmplY3QuZGVmaW5lUHJvcGVydHkobiwiX19lc01vZHVsZSIse3ZhbHVlOiEwfSksbi5DYWNoZUxvYWRFcnJvcj1uLldzQmxvY2tFcnJvcj1uLlhockJsb2NrRXJyb3I9dm9pZCAwO3ZhciBhPWUoMjEpLGM9ZnVuY3Rpb24oZSl7cmV0dXJuIGUmJmUuX19lc01vZHVsZT9lOntkZWZhdWx0OmV9fShhKTtuLlhockJsb2NrRXJyb3I9ZnVuY3Rpb24oZSl7ZnVuY3Rpb24gdCgpe3JldHVybiByKHRoaXMsdCksbyh0aGlzLCh0Ll9fcHJvdG9fX3x8T2JqZWN0LmdldFByb3RvdHlwZU9mKHQpKS5hcHBseSh0aGlzLGFyZ3VtZW50cykpfXJldHVybiBpKHQsZSksdH0oYy5kZWZhdWx0KSxuLldzQmxvY2tFcnJvcj1mdW5jdGlvbihlKXtmdW5jdGlvbiB0KCl7cmV0dXJuIHIodGhpcyx0KSxvKHRoaXMsKHQuX19wcm90b19ffHxPYmplY3QuZ2V0UHJvdG90eXBlT2YodCkpLmFwcGx5KHRoaXMsYXJndW1lbnRzKSl9cmV0dXJuIGkodCxlKSx0fShjLmRlZmF1bHQpLG4uQ2FjaGVMb2FkRXJyb3I9ZnVuY3Rpb24oZSl7ZnVuY3Rpb24gdChlLG4pe3IodGhpcyx0KTt2YXIgaT1vKHRoaXMsKHQuX19wcm90b19ffHxPYmplY3QuZ2V0UHJvdG90eXBlT2YodCkpLmNhbGwodGhpcykpO3JldHVybiBpLnNvdXJjZT1lLGkubWV0YT1uLGl9cmV0dXJuIGkodCxlKSx0fShjLmRlZmF1bHQpfSx7MjE6MjF9XSwxMDpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUpe3JldHVybiBlJiZlLl9fZXNNb2R1bGU/ZTp7ZGVmYXVsdDplfX1mdW5jdGlvbiBvKCl7dmFyIGU9ImxvYWRlcnMvc3Vlei1odHRwIjtkLmxvZ2dlci5kZWJ1ZygiWyIrZSsiXTogU3RhcnRpbmcgU3VleiBIVFRQIGxvYWRlciIpO3ZhciB0PUpTT04uc3RyaW5naWZ5KHtob3N0OiJhc3NldHMiLHBhdGg6ImNsaWVudCIscGFyYW1zOnt9LGhlYWRlcnM6e2Fkb25pc19jbGllbnRfYXBpOiI3LjAuMCJ9fSksbj17IkFkb25pcy1WZXJzaW9uIjoiNy4wLjAiLCJDYWNoZS1BZG9uaXMiOiJ0cnVlIn07cmV0dXJuIHZvaWQgMD09PWMuZGVmYXVsdC5TVUVaX0hUVFBfRU5EUE9JTlQ/UHJvbWlzZS5yZWplY3QobmV3IEVycm9yKCJObyBhZG9uaXMgdHJhbnNwb3J0IGZvdW5kIikpOigwLGwucmVxdWVzdCkoYy5kZWZhdWx0LlNVRVpfSFRUUF9FTkRQT0lOVCwiUE9TVCIsdCxuKS50aGVuKGZ1bmN0aW9uKHQpe2QubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBTdWNjZXNzZnVsbHkgZmV0Y2hlZCBhZG9uaXMtY2xpZW50IG92ZXIgWEhSIik7dmFyIG49e307dHJ5e25bImFkb25pcy1jbGllbnQtdmVyc2lvbiJdPXQuZ2V0UmVzcG9uc2VIZWFkZXIoImFkb25pcy1jbGllbnQtdmVyc2lvbiIpfWNhdGNoKGUpe310cnl7blsiY2FjaGUtY29udHJvbCJdPXQuZ2V0UmVzcG9uc2VIZWFkZXIoImNhY2hlLWNvbnRyb2wiKX1jYXRjaChlKXt9cmV0dXJue3NvdXJjZTp0LnJlc3BvbnNlVGV4dCxtZXRhOm59fSkuY2F0Y2goZnVuY3Rpb24odCl7dGhyb3cgZC5sb2dnZXIuZGVidWcoIlsiK2UrIl06IEZhaWxlZCB0byBmZXRjaCBhZG9uaXMtY2xpZW50IGZyb20gU3VleiBvdmVyIFhIUiA8Iit0KyI+IiksMD09PXQucmVxLnN0YXR1cz9uZXcgZi5YaHJCbG9ja0Vycm9yOm5ldyBFcnJvcigiVW5leHBlY3RlZCBlcnJvciBmZXRjaGluIGFkb25pcy1jbGllbnQsIHN0YXR1cy1jb2RlID0gPCIrdC5yZXEuc3RhdHVzKyI+Iil9KX1mdW5jdGlvbiBpKCl7dmFyIGU9Yy5kZWZhdWx0LlNVRVpfSFRUUF9SRVRSWXx8MSx0PWMuZGVmYXVsdC5TVUVaX0hUVFBfREVMQVl8fDAsbj1BcnJheS5hcHBseSgwLEFycmF5KGUpKS5tYXAoZnVuY3Rpb24oZSl7cmV0dXJuIG99KTtyZXR1cm4gcy5kZWZhdWx0LnJlcG9ydEV2ZW50KCJib290c3RyYXAuaHR0cC5zdWV6X29wZW5pbmciKSwoMCxwLmNoYWluKShuLHQpLnRoZW4oZnVuY3Rpb24oZSl7cmV0dXJuIHMuZGVmYXVsdC5yZXBvcnRFdmVudCgiYm9vdHN0cmFwLmh0dHAuc3Vlel9vcGVuZWQiKSxlfSkuY2F0Y2goZnVuY3Rpb24oZSl7dGhyb3cgZSBpbnN0YW5jZW9mIGYuWGhyQmxvY2tFcnJvciYmcy5kZWZhdWx0LnJlcG9ydEV2ZW50KCJib290c3RyYXAuaHR0cC5zdWV6X2Jsb2NrZWQiKSxlfSl9T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLG4ubG9hZE9uY2U9byxuLmxvYWQ9aTt2YXIgYT1lKDQpLGM9cihhKSx1PWUoMTYpLHM9cih1KSxsPWUoMTkpLGQ9ZSgxMiksZj1lKDkpLHA9ZSgxNCl9LHsxMjoxMiwxNDoxNCwxNjoxNiwxOToxOSw0OjQsOTo5fV0sMTE6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlKXtyZXR1cm4gZSYmZS5fX2VzTW9kdWxlP2U6e2RlZmF1bHQ6ZX19ZnVuY3Rpb24gbygpe3ZhciBlPSJsb2FkZXJzL2NhY2hlL3hociI7cmV0dXJuIGQubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBTdGFydGluZyBYSFIgbG9hZGVyIiksKDAsbC5yZXF1ZXN0KShjLmRlZmF1bHQuQURPTklTX0NMSUVOVF9GRVRDSF9VUkwpLnRoZW4oZnVuY3Rpb24odCl7ZC5sb2dnZXIuZGVidWcoIlsiK2UrIl06IFN1Y2Nlc3NmdWxseSBmZXRjaGVkIGFkb25pcy1jbGllbnQgb3ZlciBYSFIiKTt2YXIgbj17ImFkb25pcy1jbGllbnQtdmVyc2lvbiI6bnVsbH07dHJ5e25bImNhY2hlLWNvbnRyb2wiXT10LmdldFJlc3BvbnNlSGVhZGVyKCJjYWNoZS1jb250cm9sIil9Y2F0Y2goZSl7fXJldHVybntzb3VyY2U6dC5yZXNwb25zZVRleHQsbWV0YTpufX0pLmNhdGNoKGZ1bmN0aW9uKHQpe3Rocm93IGQubG9nZ2VyLmRlYnVnKCJbIitlKyJdOiBGYWlsZWQgdG8gZmV0Y2ggYWRvbmlzLWNsaWVudCBvdmVyIFhIUiA8Iit0KyI+IiksMD09PXQucmVxLnN0YXR1cz9uZXcgZi5YaHJCbG9ja0Vycm9yOm5ldyBFcnJvcigiVW5leHBlY3RlZCBlcnJvciBwZXJmb3JtaW5nIHN0YXR1cyBjaGVjayByZXF1ZXN0LCBzdGF0dXMtY29kZSA9IDwiK3QucmVxLnN0YXR1cysiPiIpfSl9ZnVuY3Rpb24gaSgpe3JldHVybiBvKCkuY2F0Y2goZnVuY3Rpb24oZSl7cmV0dXJuIGQubG9nZ2VyLmRlYnVnKCJmYWlsZWQgdG8gbG9hZCBhZG9uaXMtY2xpZW50IG92ZXIgaHR0cCIsZSkscy5kZWZhdWx0LnJlcG9ydEV2ZW50KCJib290c3RyYXAuY2xpZW50X2h0dHBfZmV0Y2hfZXJyb3IiKSx7c291cmNlOm51bGwsbWV0YTp7fX19KX1PYmplY3QuZGVmaW5lUHJvcGVydHkobiwiX19lc01vZHVsZSIse3ZhbHVlOiEwfSksbi5sb2FkPW8sbi5sb2FkSWdub3JpbmdFcnJvcnM9aTt2YXIgYT1lKDQpLGM9cihhKSx1PWUoMTYpLHM9cih1KSxsPWUoMTkpLGQ9ZSgxMiksZj1lKDkpfSx7MTI6MTIsMTY6MTYsMTk6MTksNDo0LDk6OX1dLDEyOltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO3ZhciByPWUoNCksbz1mdW5jdGlvbihlKXtyZXR1cm4gZSYmZS5fX2VzTW9kdWxlP2U6e2RlZmF1bHQ6ZX19KHIpLGk9ZSgyNyksYT0oMCxpLmNyZWF0ZSkoe2xldmVsOm8uZGVmYXVsdC5MT0dfTEVWRUx9KTt0LmV4cG9ydHM9e2xvZ2dlcjphLHN1ZXpMb2dnZXI6YX19LHsyNzoyNyw0OjR9XSwxMzpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUpe3ZhciB0PWFyZ3VtZW50cy5sZW5ndGg+MSYmdm9pZCAwIT09YXJndW1lbnRzWzFdP2FyZ3VtZW50c1sxXToiTkVXX1NDUklQVF9FVkVOVCIsbj1hcmd1bWVudHMubGVuZ3RoPjImJnZvaWQgMCE9PWFyZ3VtZW50c1syXT9hcmd1bWVudHNbMl06e30scj1uZXcgbyh0LHtkZXRhaWw6bn0pO2UuZGlzcGF0Y2hFdmVudChyKX12YXIgbz1lKDIwKTt0LmV4cG9ydHM9cn0sezIwOjIwfV0sMTQ6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlLHQsbil7aWYoQXJyYXkuaXNBcnJheShlKSYmMD09PWUubGVuZ3RoKXJldHVybiBQcm9taXNlLnJlamVjdChuKTt0PXR8fDA7dmFyIGk9ZVswXTtyZXR1cm4gZT1lLnNsaWNlKDEpLGkoKS5jYXRjaChmdW5jdGlvbihuKXtyZXR1cm4gbyh0KS50aGVuKGZ1bmN0aW9uKG8pe3JldHVybiByKGUsdCxuKX0pfSl9ZnVuY3Rpb24gbyhlKXtyZXR1cm4gbmV3IFByb21pc2UoZnVuY3Rpb24odCxuKXtzZXRUaW1lb3V0KGZ1bmN0aW9uKGUpe3JldHVybiB0KCl9LGUpfSl9T2JqZWN0LmRlZmluZVByb3BlcnR5KG4sIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pLG4uY2hhaW49cn0se31dLDE1OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSx0KXthLmRlYnVnKCJpbnNlcmluZyBibG9iIik7dmFyIG49ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7bi5zcmM9ZSx0JiYobi5pbnRlZ3JpdHk9dCksZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChuKX1mdW5jdGlvbiBvKGUsdCl7dmFyIG49bmV3IHdpbmRvdy5YTUxIdHRwUmVxdWVzdDt0cnl7bi5vcGVuKCJHRVQiLGUsITApLG4uYWRkRXZlbnRMaXN0ZW5lcigicmVhZHlzdGF0ZWNoYW5nZSIsZnVuY3Rpb24oZSl7ND09PW4ucmVhZHlTdGF0ZSYmMD09PW4uc3RhdHVzJiZpKHQpfSksbi5zZW5kKCl9Y2F0Y2goZSl7YS53YXJuKCJGYWxsaW5nIGJhY2sgdG8gaW5zZXJ0aW5nIGlubGluZSBzY3JpcHQiKSxpKHQpfX1mdW5jdGlvbiBpKGUpe3ZhciB0PWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpO3QuaW5uZXJIVE1MPWUsZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZCh0KX12YXIgYT1lKDEyKS5sb2dnZXI7dC5leHBvcnRzPXtpbnNlcnRCbG9iU2NyaXB0OnIsdGVzdEJsb2JBbmRJbnNlcnRGYWxsYmFjazpvLGluc2VydElubGluZVNjcmlwdDppfX0sezEyOjEyfV0sMTY6W2Z1bmN0aW9uKGUsdCxuKXsidXNlIHN0cmljdCI7ZnVuY3Rpb24gcihlKXt2YXIgdD1uZXcgWE1MSHR0cFJlcXVlc3Qsbj1bcy5SRVBPUlRJTkdfVVJMLGVdLmpvaW4oIiIpO3Qub3BlbigiR0VUIixuLCEwKSx0LnNlbmQoKX1mdW5jdGlvbiBvKGUpe3MuUkVQT1JUX0VSUk9SUyYmcigiL2Fkb25pc19lcnJvcj9lPSIrZS50b1N0cmluZygpKyImd2Vic2l0ZT0iK3dpbmRvdy5sb2NhdGlvbi5ob3N0bmFtZSl9ZnVuY3Rpb24gaSgpe3JldHVybiBudWxsIT13aW5kb3cuQURPTklTX0JPT1RTVFJBUF9TVEFUUz8hMD09PXdpbmRvdy5BRE9OSVNfQk9PVFNUUkFQX1NUQVRTOk1hdGgucmFuZG9tKCk8cy5SRVBPUlRJTkdfUkFURX1mdW5jdGlvbiBhKGUsdCl7aWYoYyhlKSxpKCkpe3ZhciBuPXt3ZWJzaXRlOndpbmRvdy5sb2NhdGlvbi5ob3N0bmFtZSxrZXk6ZX07bnVsbCE9dCYmKG4ucXVhbnRpdHk9dCkscihbIi9hZG9uaXNfZXZlbnQvP2V2ZW50PSIsSlNPTi5zdHJpbmdpZnkobildLmpvaW4oIiIpKX19ZnVuY3Rpb24gYyhlKXt2YXIgdD17a2V5OmUsdGltZV9tczpNYXRoLnJvdW5kKHdpbmRvdy5wZXJmb3JtYW5jZS5ub3coKSksd2Vic2l0ZTp3aW5kb3cubG9jYXRpb24uaG9zdG5hbWV9O2QucHVzaCh0KX1mdW5jdGlvbiB1KCl7bC5kZWZpbmVSZWFkT25seVByb3BlcnR5KCJhZG9uaXNCb290c3RyYXBUaW1pbmciLGQpfXZhciBzPWUoNCksbD1lKDE4KSxkPVtdO3QuZXhwb3J0cz17cmVwb3J0RXJyb3I6byxyZXBvcnRFdmVudDphLHNhdmVUaW1pbmc6dSxzaG91bGRSZXBvcnQ6aX19LHsxODoxOCw0OjR9XSwxNzpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUpe3ZhciB0PS9hbmRyb2lkfGlwaG9uZS9naSxuPS9DaHJvbWVcLyhcUykrIFNhZmFyaVwvKFxTKSskL2dpLHI9L1wpIEdlY2tvXC8oXFMpKyBGaXJlZm94XC8oXFMpKyQvZ2ksbz0vbGlrZSBHZWNrby4/XCkgVmVyc2lvblwvKFxTKSsgU2FmYXJpXC8oXFMpKyQvZ2k7cmV0dXJuLTE9PT1lLnNlYXJjaCh0KSYmKGUuc2VhcmNoKG4pPi0xfHxlLnNlYXJjaChyKT4tMXx8ZS5zZWFyY2gobyk+LTEpfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLmRlZmF1bHQ9cn0se31dLDE4OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSx0KXt0cnl7T2JqZWN0LmRlZmluZVByb3BlcnR5KHdpbmRvdyxlLHt2YWx1ZTp0LHdyaXRhYmxlOiExfSl9Y2F0Y2goZSl7by53YXJuKCJDYW5ub3QgZGVmaW5lIHJlYWQtb25seSBwcm9wZXJ0eSBvZiB3aW5kb3cgb2JqZWN0OiAiK2UpfX12YXIgbz1lKDEyKS5sb2dnZXIsaT1mdW5jdGlvbihlKXsibG9hZGluZyIhPT1kb2N1bWVudC5yZWFkeVN0YXRlP2UoKTpkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIixlKX07dC5leHBvcnRzPXtkZWZpbmVSZWFkT25seVByb3BlcnR5OnIscmVhZHk6aX19LHsxMjoxMn1dLDE5OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHIoZSx0KXtpZighKGUgaW5zdGFuY2VvZiB0KSl0aHJvdyBuZXcgVHlwZUVycm9yKCJDYW5ub3QgY2FsbCBhIGNsYXNzIGFzIGEgZnVuY3Rpb24iKX1mdW5jdGlvbiBvKGUsdCl7aWYoIWUpdGhyb3cgbmV3IFJlZmVyZW5jZUVycm9yKCJ0aGlzIGhhc24ndCBiZWVuIGluaXRpYWxpc2VkIC0gc3VwZXIoKSBoYXNuJ3QgYmVlbiBjYWxsZWQiKTtyZXR1cm4hdHx8Im9iamVjdCIhPXR5cGVvZiB0JiYiZnVuY3Rpb24iIT10eXBlb2YgdD9lOnR9ZnVuY3Rpb24gaShlLHQpe2lmKCJmdW5jdGlvbiIhPXR5cGVvZiB0JiZudWxsIT09dCl0aHJvdyBuZXcgVHlwZUVycm9yKCJTdXBlciBleHByZXNzaW9uIG11c3QgZWl0aGVyIGJlIG51bGwgb3IgYSBmdW5jdGlvbiwgbm90ICIrdHlwZW9mIHQpO2UucHJvdG90eXBlPU9iamVjdC5jcmVhdGUodCYmdC5wcm90b3R5cGUse2NvbnN0cnVjdG9yOnt2YWx1ZTplLGVudW1lcmFibGU6ITEsd3JpdGFibGU6ITAsY29uZmlndXJhYmxlOiEwfX0pLHQmJihPYmplY3Quc2V0UHJvdG90eXBlT2Y/T2JqZWN0LnNldFByb3RvdHlwZU9mKGUsdCk6ZS5fX3Byb3RvX189dCl9ZnVuY3Rpb24gYShlKXt2YXIgdD1hcmd1bWVudHMubGVuZ3RoPjEmJnZvaWQgMCE9PWFyZ3VtZW50c1sxXT9hcmd1bWVudHNbMV06IkdFVCIsbj1hcmd1bWVudHMubGVuZ3RoPjImJnZvaWQgMCE9PWFyZ3VtZW50c1syXT9hcmd1bWVudHNbMl06bnVsbCxyPWFyZ3VtZW50cy5sZW5ndGg+MyYmdm9pZCAwIT09YXJndW1lbnRzWzNdP2FyZ3VtZW50c1szXTp7fTtyZXR1cm4gbmV3IHdpbmRvdy5Qcm9taXNlKGZ1bmN0aW9uKG8saSl7dmFyIGE9bmV3IHdpbmRvdy5YTUxIdHRwUmVxdWVzdDthLm9wZW4odCxlLCEwKTtmb3IodmFyIGMgaW4gcil7dmFyIHU9cltjXTthLnNldFJlcXVlc3RIZWFkZXIoYyx1KX1hLm9ubG9hZD1mdW5jdGlvbigpe2Euc3RhdHVzPj00MDA/aShuZXcgcyhhLCJVbmV4cGVjdGVkIHN0YXR1cyBjb2RlIikpOm8oYSl9LGEub25lcnJvcj1mdW5jdGlvbigpe2kobmV3IHMoYSwiRXJyb3IgZXN0YWJsaXNoaW5nIGNvbm5lY3Rpb24iKSl9LGEuc2VuZChuKX0pfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KSxuLlhoclJlcXVlc3RFcnJvcj12b2lkIDAsbi5yZXF1ZXN0PWE7dmFyIGM9ZSgyMSksdT1mdW5jdGlvbihlKXtyZXR1cm4gZSYmZS5fX2VzTW9kdWxlP2U6e2RlZmF1bHQ6ZX19KGMpLHM9bi5YaHJSZXF1ZXN0RXJyb3I9ZnVuY3Rpb24oZSl7ZnVuY3Rpb24gdChlLG4pe3IodGhpcyx0KTt2YXIgaT1vKHRoaXMsKHQuX19wcm90b19ffHxPYmplY3QuZ2V0UHJvdG90eXBlT2YodCkpLmNhbGwodGhpcyxuKSk7cmV0dXJuIGkucmVxPWUsaX1yZXR1cm4gaSh0LGUpLHR9KHUuZGVmYXVsdCl9LHsyMToyMX1dLDIwOltmdW5jdGlvbihlLHQsbil7KGZ1bmN0aW9uKGUpe3ZhciBuPWUuQ3VzdG9tRXZlbnQ7dC5leHBvcnRzPWZ1bmN0aW9uKCl7dHJ5e3ZhciBlPW5ldyBuKCJjYXQiLHtkZXRhaWw6e2ZvbzoiYmFyIn19KTtyZXR1cm4iY2F0Ij09PWUudHlwZSYmImJhciI9PT1lLmRldGFpbC5mb299Y2F0Y2goZSl7fXJldHVybiExfSgpP246InVuZGVmaW5lZCIhPXR5cGVvZiBkb2N1bWVudCYmImZ1bmN0aW9uIj09dHlwZW9mIGRvY3VtZW50LmNyZWF0ZUV2ZW50P2Z1bmN0aW9uKGUsdCl7dmFyIG49ZG9jdW1lbnQuY3JlYXRlRXZlbnQoIkN1c3RvbUV2ZW50Iik7cmV0dXJuIHQ/bi5pbml0Q3VzdG9tRXZlbnQoZSx0LmJ1YmJsZXMsdC5jYW5jZWxhYmxlLHQuZGV0YWlsKTpuLmluaXRDdXN0b21FdmVudChlLCExLCExLHZvaWQgMCksbn06ZnVuY3Rpb24oZSx0KXt2YXIgbj1kb2N1bWVudC5jcmVhdGVFdmVudE9iamVjdCgpO3JldHVybiBuLnR5cGU9ZSx0PyhuLmJ1YmJsZXM9Qm9vbGVhbih0LmJ1YmJsZXMpLG4uY2FuY2VsYWJsZT1Cb29sZWFuKHQuY2FuY2VsYWJsZSksbi5kZXRhaWw9dC5kZXRhaWwpOihuLmJ1YmJsZXM9ITEsbi5jYW5jZWxhYmxlPSExLG4uZGV0YWlsPXZvaWQgMCksbn19KS5jYWxsKHRoaXMsInVuZGVmaW5lZCIhPXR5cGVvZiBnbG9iYWw/Z2xvYmFsOiJ1bmRlZmluZWQiIT10eXBlb2Ygc2VsZj9zZWxmOiJ1bmRlZmluZWQiIT10eXBlb2Ygd2luZG93P3dpbmRvdzp7fSl9LHt9XSwyMTpbZnVuY3Rpb24oZSx0LG4peyJ1c2Ugc3RyaWN0IjtmdW5jdGlvbiByKGUsdCl7aWYoIShlIGluc3RhbmNlb2YgdCkpdGhyb3cgbmV3IFR5cGVFcnJvcigiQ2Fubm90IGNhbGwgYSBjbGFzcyBhcyBhIGZ1bmN0aW9uIil9ZnVuY3Rpb24gbyhlLHQpe2lmKCFlKXRocm93IG5ldyBSZWZlcmVuY2VFcnJvcigidGhpcyBoYXNuJ3QgYmVlbiBpbml0aWFsaXNlZCAtIHN1cGVyKCkgaGFzbid0IGJlZW4gY2FsbGVkIik7cmV0dXJuIXR8fCJvYmplY3QiIT10eXBlb2YgdCYmImZ1bmN0aW9uIiE9dHlwZW9mIHQ/ZTp0fWZ1bmN0aW9uIGkoZSx0KXtpZigiZnVuY3Rpb24iIT10eXBlb2YgdCYmbnVsbCE9PXQpdGhyb3cgbmV3IFR5cGVFcnJvcigiU3VwZXIgZXhwcmVzc2lvbiBtdXN0IGVpdGhlciBiZSBudWxsIG9yIGEgZnVuY3Rpb24sIG5vdCAiK3R5cGVvZiB0KTtlLnByb3RvdHlwZT1PYmplY3QuY3JlYXRlKHQmJnQucHJvdG90eXBlLHtjb25zdHJ1Y3Rvcjp7dmFsdWU6ZSxlbnVtZXJhYmxlOiExLHdyaXRhYmxlOiEwLGNvbmZpZ3VyYWJsZTohMH19KSx0JiYoT2JqZWN0LnNldFByb3RvdHlwZU9mP09iamVjdC5zZXRQcm90b3R5cGVPZihlLHQpOmUuX19wcm90b19fPXQpfU9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KTt2YXIgYT1mdW5jdGlvbihlKXtmdW5jdGlvbiB0KCl7dmFyIGU9YXJndW1lbnRzLmxlbmd0aD4wJiZ2b2lkIDAhPT1hcmd1bWVudHNbMF0/YXJndW1lbnRzWzBdOiIiO3IodGhpcyx0KTt2YXIgbj1vKHRoaXMsKHQuX19wcm90b19ffHxPYmplY3QuZ2V0UHJvdG90eXBlT2YodCkpLmNhbGwodGhpcyxlKSk7cmV0dXJuIE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJtZXNzYWdlIix7Y29uZmlndXJhYmxlOiEwLGVudW1lcmFibGU6ITEsdmFsdWU6ZSx3cml0YWJsZTohMH0pLE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJuYW1lIix7Y29uZmlndXJhYmxlOiEwLGVudW1lcmFibGU6ITEsdmFsdWU6bi5jb25zdHJ1Y3Rvci5uYW1lLHdyaXRhYmxlOiEwfSksRXJyb3IuaGFzT3duUHJvcGVydHkoImNhcHR1cmVTdGFja1RyYWNlIik/KEVycm9yLmNhcHR1cmVTdGFja1RyYWNlKG4sbi5jb25zdHJ1Y3RvciksbyhuKSk6KE9iamVjdC5kZWZpbmVQcm9wZXJ0eShuLCJzdGFjayIse2NvbmZpZ3VyYWJsZTohMCxlbnVtZXJhYmxlOiExLHZhbHVlOm5ldyBFcnJvcihlKS5zdGFjayx3cml0YWJsZTohMH0pLG4pfXJldHVybiBpKHQsZSksdH0oZnVuY3Rpb24oZSl7ZnVuY3Rpb24gdCgpe2UuYXBwbHkodGhpcyxhcmd1bWVudHMpfXJldHVybiB0LnByb3RvdHlwZT1PYmplY3QuY3JlYXRlKGUucHJvdG90eXBlLHtjb25zdHJ1Y3Rvcjp7dmFsdWU6ZSxlbnVtZXJhYmxlOiExLHdyaXRhYmxlOiEwLGNvbmZpZ3VyYWJsZTohMH19KSxPYmplY3Quc2V0UHJvdG90eXBlT2Y/T2JqZWN0LnNldFByb3RvdHlwZU9mKHQsZSk6dC5fX3Byb3RvX189ZSx0fShFcnJvcikpO24uZGVmYXVsdD1hLHQuZXhwb3J0cz1uLmRlZmF1bHR9LHt9XSwyMjpbZnVuY3Rpb24oZSx0LG4peyFmdW5jdGlvbihlLHIpeyJvYmplY3QiPT10eXBlb2YgbiYmdm9pZCAwIT09dD9yKG4pOiJmdW5jdGlvbiI9PXR5cGVvZiBkZWZpbmUmJmRlZmluZS5hbWQ/ZGVmaW5lKFsiZXhwb3J0cyJdLHIpOnIoZS5vcHBlbmhlaW1lcj1lLm9wcGVuaGVpbWVyfHx7fSl9KHRoaXMsZnVuY3Rpb24oZSl7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHQoZSl7cmV0dXJuIHIucmVwbGFjZSgie3tUSVRMRX19IixlLnRpdGxlKX1mdW5jdGlvbiBuKGUpe2UuZG9jdW1lbnRFbGVtZW50LmlubmVySFRNTD10KGUpfXZhciByPSc8aGVhZD48bWV0YSBjaGFyc2V0PXV0Zi04PjxtZXRhIG5hbWU9dmlld3BvcnQgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLGluaXRpYWwtc2NhbGU9MSxtYXhpbXVtLXNjYWxlPTEsdXNlci1zY2FsYWJsZT1ubyI+PHRpdGxlPnt7VElUTEV9fTwvdGl0bGU+PHN0eWxlPmJvZHksaHRtbHtiYWNrZ3JvdW5kOiNlZmVmZWY7Zm9udC1mYW1pbHk6IkhlbHZldGljYSBOZXVlIixIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjtoZWlnaHQ6MTAwJX0jbWFpbi1jb250ZW50e2hlaWdodDoxMDAlfSNtYWluLWNvbnRlbnQ+ZGl2e21heC13aWR0aDo4MDBweDttaW4td2lkdGg6MjAwcHg7bWFyZ2luOjAgYXV0bztwb3NpdGlvbjpyZWxhdGl2ZTt0b3A6NTAlO3RyYW5zZm9ybTp0cmFuc2xhdGVZKC01MCUpfTwvc3R5bGU+PC9oZWFkPjxib2R5PjxkaXYgaWQ9bWFpbi1jb250ZW50PjxkaXY+PGgxPlNvbWV0aGluZyBpbnRlcmZlcmVkIHdpdGggdGhpcyB3ZWJzaXRlIGxvYWRpbmc8L2gxPjxwPlRoaXMgY291bGQgYmUgYSB0ZW1wb3JhcnkgcHJvYmxlbSB3aXRoIHlvdXIgbmV0d29yaywgb3IgZHVlIHRvIHlvdXIgYWRibG9ja2VyPC9wPjxwPlRyeTo8L3A+PHVsPjxsaT5DaGVjayB5b3VyIGludGVybmV0IGNvbm5lY3Rpb24gYW5kIHJlbG9hZCB0aGUgcGFnZTwvbGk+PGxpPklmIHlvdSBhcmUgdXNpbmcgYW4gYWRibG9ja2VyIGRpc2FibGUgaXQgYnkgY2xpY2tpbmcgb24gdGhlIGFkYmxvY2sgaWNvbiBpbiB5b3VyIGJyb3dzZXIgdG9vbGJhcjwvbGk+PGxpPklmIHRoZSBwcm9ibGVtIHBlcnNpc3RzLCBjb25zaWRlciBsZWF2aW5nIGEgbWVzc2FnZSBvbiB0aGUgPGEgaHJlZj1odHRwczovL2ZvcnVtcy5sYW5pay51cy8gdGFyZ2V0PV9CTEFOSz5hZGJsb2NrIHVzZXIgZm9ydW1zPC9hPjwvbGk+PC91bD48L2Rpdj48L2Rpdj48L2JvZHk+JztlLmRpc3BsYXlNZXNzYWdlPXQsZS5yZXBsYWNlQ29udGVudD1uLE9iamVjdC5kZWZpbmVQcm9wZXJ0eShlLCJfX2VzTW9kdWxlIix7dmFsdWU6ITB9KX0pfSx7fV0sMjM6W2Z1bmN0aW9uKGUsdCxuKXshZnVuY3Rpb24oZSl7InBlcmZvcm1hbmNlImluIGV8fChlLnBlcmZvcm1hbmNlPXt9KTt2YXIgdD1lLnBlcmZvcm1hbmNlO2UucGVyZm9ybWFuY2Uubm93PXQubm93fHx0Lm1vek5vd3x8dC5tc05vd3x8dC5vTm93fHx0LndlYmtpdE5vd3x8RGF0ZS5ub3d8fGZ1bmN0aW9uKCl7cmV0dXJuKG5ldyBEYXRlKS5nZXRUaW1lKCl9fShzZWxmKX0se31dLDI0OltmdW5jdGlvbihlLHQsbil7dC5leHBvcnRzPVsiY29tIiwibmV0IiwiZnIiLCJjby51ayIsImRlIiwidHYiLCJ0b2RheSIsIm9yZyIsImluZm8iLCJpZSIsImJhIiwiZ2ciXX0se31dLDI1OltmdW5jdGlvbihlLHQsbil7InVzZSBzdHJpY3QiO3ZhciByPWUoMjYpLG89e307by5ydWxlcz1lKDI0KS5tYXAoZnVuY3Rpb24oZSl7cmV0dXJue3J1bGU6ZSxzdWZmaXg6ZS5yZXBsYWNlKC9eKFwqXC58XCEpLywiIiksd2lsZGNhcmQ6IioiPT09ZS5jaGFyQXQoMCksZXhjZXB0aW9uOiIhIj09PWUuY2hhckF0KDApfX0pLG8uZW5kc1dpdGg9ZnVuY3Rpb24oZSx0KXtyZXR1cm4tMSE9PWUuaW5kZXhPZih0LGUubGVuZ3RoLXQubGVuZ3RoKX0sby5maW5kUnVsZT1mdW5jdGlvbihlKXt2YXIgdD1yLnRvQVNDSUkoZSk7cmV0dXJuIG8ucnVsZXMucmVkdWNlKGZ1bmN0aW9uKGUsbil7dmFyIGk9ci50b0FTQ0lJKG4uc3VmZml4KTtyZXR1cm4gby5lbmRzV2l0aCh0LCIuIitpKXx8dD09PWk/bjplfSxudWxsKX0sbi5lcnJvckNvZGVzPXtET01BSU5fVE9PX1NIT1JUOiJEb21haW4gbmFtZSB0b28gc2hvcnQuIixET01BSU5fVE9PX0xPTkc6IkRvbWFpbiBuYW1lIHRvbyBsb25nLiBJdCBzaG91bGQgYmUgbm8gbW9yZSB0aGFuIDI1NSBjaGFycy4iLExBQkVMX1NUQVJUU19XSVRIX0RBU0g6IkRvbWFpbiBuYW1lIGxhYmVsIGNhbiBub3Qgc3RhcnQgd2l0aCBhIGRhc2guIixMQUJFTF9FTkRTX1dJVEhfREFTSDoiRG9tYWluIG5hbWUgbGFiZWwgY2FuIG5vdCBlbmQgd2l0aCBhIGRhc2guIixMQUJFTF9UT09fTE9ORzoiRG9tYWluIG5hbWUgbGFiZWwgc2hvdWxkIGJlIGF0IG1vc3QgNjMgY2hhcnMgbG9uZy4iLExBQkVMX1RPT19TSE9SVDoiRG9tYWluIG5hbWUgbGFiZWwgc2hvdWxkIGJlIGF0IGxlYXN0IDEgY2hhcmFjdGVyIGxvbmcuIixMQUJFTF9JTlZBTElEX0NIQVJTOiJEb21haW4gbmFtZSBsYWJlbCBjYW4gb25seSBjb250YWluIGFscGhhbnVtZXJpYyBjaGFyYWN0ZXJzIG9yIGRhc2hlcy4ifSxvLnZhbGlkYXRlPWZ1bmN0aW9uKGUpe3ZhciB0PXIudG9BU0NJSShlKTtpZih0Lmxlbmd0aDwxKXJldHVybiJET01BSU5fVE9PX1NIT1JUIjtpZih0Lmxlbmd0aD4yNTUpcmV0dXJuIkRPTUFJTl9UT09fTE9ORyI7Zm9yKHZhciBuLG89dC5zcGxpdCgiLiIpLGk9MDtpPG8ubGVuZ3RoOysraSl7aWYobj1vW2ldLCFuLmxlbmd0aClyZXR1cm4iTEFCRUxfVE9PX1NIT1JUIjtpZihuLmxlbmd0aD42MylyZXR1cm4iTEFCRUxfVE9PX0xPTkciO2lmKCItIj09PW4uY2hhckF0KDApKXJldHVybiJMQUJFTF9TVEFSVFNfV0lUSF9EQVNIIjtpZigiLSI9PT1uLmNoYXJBdChuLmxlbmd0aC0xKSlyZXR1cm4iTEFCRUxfRU5EU19XSVRIX0RBU0giO2lmKCEvXlthLXowLTlcLV0rJC8udGVzdChuKSlyZXR1cm4iTEFCRUxfSU5WQUxJRF9DSEFSUyJ9fSxuLnBhcnNlPWZ1bmN0aW9uKGUpe2lmKCJzdHJpbmciIT10eXBlb2YgZSl0aHJvdyBuZXcgVHlwZUVycm9yKCJEb21haW4gbmFtZSBtdXN0IGJlIGEgc3RyaW5nLiIpO3ZhciB0PWUuc2xpY2UoMCkudG9Mb3dlckNhc2UoKTsiLiI9PT10LmNoYXJBdCh0Lmxlbmd0aC0xKSYmKHQ9dC5zbGljZSgwLHQubGVuZ3RoLTEpKTt2YXIgaT1vLnZhbGlkYXRlKHQpO2lmKGkpcmV0dXJue2lucHV0OmUsZXJyb3I6e21lc3NhZ2U6bi5lcnJvckNvZGVzW2ldLGNvZGU6aX19O3ZhciBhPXtpbnB1dDplLHRsZDpudWxsLHNsZDpudWxsLGRvbWFpbjpudWxsLHN1YmRvbWFpbjpudWxsLGxpc3RlZDohMX0sYz10LnNwbGl0KCIuIik7aWYoImxvY2FsIj09PWNbYy5sZW5ndGgtMV0pcmV0dXJuIGE7dmFyIHU9ZnVuY3Rpb24oKXtyZXR1cm4veG4tLS8udGVzdCh0KT8oYS5kb21haW4mJihhLmRvbWFpbj1yLnRvQVNDSUkoYS5kb21haW4pKSxhLnN1YmRvbWFpbiYmKGEuc3ViZG9tYWluPXIudG9BU0NJSShhLnN1YmRvbWFpbikpLGEpOmF9LHM9by5maW5kUnVsZSh0KTtpZighcylyZXR1cm4gYy5sZW5ndGg8Mj9hOihhLnRsZD1jLnBvcCgpLGEuc2xkPWMucG9wKCksYS5kb21haW49W2Euc2xkLGEudGxkXS5qb2luKCIuIiksYy5sZW5ndGgmJihhLnN1YmRvbWFpbj1jLnBvcCgpKSx1KCkpO2EubGlzdGVkPSEwO3ZhciBsPXMuc3VmZml4LnNwbGl0KCIuIiksZD1jLnNsaWNlKDAsYy5sZW5ndGgtbC5sZW5ndGgpO3JldHVybiBzLmV4Y2VwdGlvbiYmZC5wdXNoKGwuc2hpZnQoKSksZC5sZW5ndGg/KHMud2lsZGNhcmQmJmwudW5zaGlmdChkLnBvcCgpKSxkLmxlbmd0aD8oYS50bGQ9bC5qb2luKCIuIiksYS5zbGQ9ZC5wb3AoKSxhLmRvbWFpbj1bYS5zbGQsYS50bGRdLmpvaW4oIi4iKSxkLmxlbmd0aCYmKGEuc3ViZG9tYWluPWQuam9pbigiLiIpKSx1KCkpOnUoKSk6dSgpfSxuLmdldD1mdW5jdGlvbihlKXtyZXR1cm4gZT9uLnBhcnNlKGUpLmRvbWFpbnx8bnVsbDpudWxsfSxuLmlzVmFsaWQ9ZnVuY3Rpb24oZSl7dmFyIHQ9bi5wYXJzZShlKTtyZXR1cm4gQm9vbGVhbih0LmRvbWFpbiYmdC5saXN0ZWQpfX0sezI0OjI0LDI2OjI2fV0sMjY6W2Z1bmN0aW9uKGUsdCxuKXsoZnVuY3Rpb24oZSl7IWZ1bmN0aW9uKHIpe2Z1bmN0aW9uIG8oZSl7dGhyb3cgbmV3IFJhbmdlRXJyb3IoaltlXSl9ZnVuY3Rpb24gaShlLHQpe2Zvcih2YXIgbj1lLmxlbmd0aCxyPVtdO24tLTspcltuXT10KGVbbl0pO3JldHVybiByfWZ1bmN0aW9uIGEoZSx0KXt2YXIgbj1lLnNwbGl0KCJAIikscj0iIjtyZXR1cm4gbi5sZW5ndGg+MSYmKHI9blswXSsiQCIsZT1uWzFdKSxlPWUucmVwbGFjZShJLCIuIikscitpKGUuc3BsaXQoIi4iKSx0KS5qb2luKCIuIil9ZnVuY3Rpb24gYyhlKXtmb3IodmFyIHQsbixyPVtdLG89MCxpPWUubGVuZ3RoO288aTspdD1lLmNoYXJDb2RlQXQobysrKSx0Pj01NTI5NiYmdDw9NTYzMTkmJm88aT8obj1lLmNoYXJDb2RlQXQobysrKSw1NjMyMD09KDY0NTEyJm4pP3IucHVzaCgoKDEwMjMmdCk8PDEwKSsoMTAyMyZuKSs2NTUzNik6KHIucHVzaCh0KSxvLS0pKTpyLnB1c2godCk7cmV0dXJuIHJ9ZnVuY3Rpb24gdShlKXtyZXR1cm4gaShlLGZ1bmN0aW9uKGUpe3ZhciB0PSIiO3JldHVybiBlPjY1NTM1JiYoZS09NjU1MzYsdCs9SChlPj4+MTAmMTAyM3w1NTI5NiksZT01NjMyMHwxMDIzJmUpLHQrPUgoZSl9KS5qb2luKCIiKX1mdW5jdGlvbiBzKGUpe3JldHVybiBlLTQ4PDEwP2UtMjI6ZS02NTwyNj9lLTY1OmUtOTc8MjY/ZS05NzpFfWZ1bmN0aW9uIGwoZSx0KXtyZXR1cm4gZSsyMis3NSooZTwyNiktKCgwIT10KTw8NSl9ZnVuY3Rpb24gZChlLHQsbil7dmFyIHI9MDtmb3IoZT1uP2soZS9SKTplPj4xLGUrPWsoZS90KTtlPk4qTz4+MTtyKz1FKWU9ayhlL04pO3JldHVybiBrKHIrKE4rMSkqZS8oZStUKSl9ZnVuY3Rpb24gZihlKXt2YXIgdCxuLHIsaSxhLGMsbCxmLHAsaCxnPVtdLHY9ZS5sZW5ndGgsdz0wLGI9QSxfPUM7Zm9yKG49ZS5sYXN0SW5kZXhPZihMKSxuPDAmJihuPTApLHI9MDtyPG47KytyKWUuY2hhckNvZGVBdChyKT49MTI4JiZvKCJub3QtYmFzaWMiKSxnLnB1c2goZS5jaGFyQ29kZUF0KHIpKTtmb3IoaT1uPjA/bisxOjA7aTx2Oyl7Zm9yKGE9dyxjPTEsbD1FO2k+PXYmJm8oImludmFsaWQtaW5wdXQiKSxmPXMoZS5jaGFyQ29kZUF0KGkrKykpLChmPj1FfHxmPmsoKHktdykvYykpJiZvKCJvdmVyZmxvdyIpLHcrPWYqYyxwPWw8PV8/UzpsPj1fK08/TzpsLV8sIShmPHApO2wrPUUpaD1FLXAsYz5rKHkvaCkmJm8oIm92ZXJmbG93IiksYyo9aDt0PWcubGVuZ3RoKzEsXz1kKHctYSx0LDA9PWEpLGsody90KT55LWImJm8oIm92ZXJmbG93IiksYis9ayh3L3QpLHclPXQsZy5zcGxpY2UodysrLDAsYil9cmV0dXJuIHUoZyl9ZnVuY3Rpb24gcChlKXt2YXIgdCxuLHIsaSxhLHUscyxmLHAsaCxnLHYsdyxiLF8sbT1bXTtmb3IoZT1jKGUpLHY9ZS5sZW5ndGgsdD1BLG49MCxhPUMsdT0wO3U8djsrK3UpKGc9ZVt1XSk8MTI4JiZtLnB1c2goSChnKSk7Zm9yKHI9aT1tLmxlbmd0aCxpJiZtLnB1c2goTCk7cjx2Oyl7Zm9yKHM9eSx1PTA7dTx2OysrdSkoZz1lW3VdKT49dCYmZzxzJiYocz1nKTtmb3Iodz1yKzEscy10PmsoKHktbikvdykmJm8oIm92ZXJmbG93Iiksbis9KHMtdCkqdyx0PXMsdT0wO3U8djsrK3UpaWYoZz1lW3VdLGc8dCYmKytuPnkmJm8oIm92ZXJmbG93IiksZz09dCl7Zm9yKGY9bixwPUU7aD1wPD1hP1M6cD49YStPP086cC1hLCEoZjxoKTtwKz1FKV89Zi1oLGI9RS1oLG0ucHVzaChIKGwoaCtfJWIsMCkpKSxmPWsoXy9iKTttLnB1c2goSChsKGYsMCkpKSxhPWQobix3LHI9PWkpLG49MCwrK3J9KytuLCsrdH1yZXR1cm4gbS5qb2luKCIiKX1mdW5jdGlvbiBoKGUpe3JldHVybiBhKGUsZnVuY3Rpb24oZSl7cmV0dXJuIFAudGVzdChlKT9mKGUuc2xpY2UoNCkudG9Mb3dlckNhc2UoKSk6ZX0pfWZ1bmN0aW9uIGcoZSl7cmV0dXJuIGEoZSxmdW5jdGlvbihlKXtyZXR1cm4geC50ZXN0KGUpPyJ4bi0tIitwKGUpOmV9KX12YXIgdj0ib2JqZWN0Ij09dHlwZW9mIG4mJm4mJiFuLm5vZGVUeXBlJiZuLHc9Im9iamVjdCI9PXR5cGVvZiB0JiZ0JiYhdC5ub2RlVHlwZSYmdCxiPSJvYmplY3QiPT10eXBlb2YgZSYmZTtiLmdsb2JhbCE9PWImJmIud2luZG93IT09YiYmYi5zZWxmIT09Ynx8KHI9Yik7dmFyIF8sbSx5PTIxNDc0ODM2NDcsRT0zNixTPTEsTz0yNixUPTM4LFI9NzAwLEM9NzIsQT0xMjgsTD0iLSIsUD0vXnhuLS0vLHg9L1teXHgyMC1ceDdFXS8sST0vW1x4MkVcdTMwMDJcdUZGMEVcdUZGNjFdL2csaj17b3ZlcmZsb3c6Ik92ZXJmbG93OiBpbnB1dCBuZWVkcyB3aWRlciBpbnRlZ2VycyB0byBwcm9jZXNzIiwibm90LWJhc2ljIjoiSWxsZWdhbCBpbnB1dCA+PSAweDgwIChub3QgYSBiYXNpYyBjb2RlIHBvaW50KSIsImludmFsaWQtaW5wdXQiOiJJbnZhbGlkIGlucHV0In0sTj1FLVMsaz1NYXRoLmZsb29yLEg9U3RyaW5nLmZyb21DaGFyQ29kZTtpZihfPXt2ZXJzaW9uOiIxLjQuMSIsdWNzMjp7ZGVjb2RlOmMsZW5jb2RlOnV9LGRlY29kZTpmLGVuY29kZTpwLHRvQVNDSUk6Zyx0b1VuaWNvZGU6aH0sdiYmdylpZih0LmV4cG9ydHM9PXYpdy5leHBvcnRzPV87ZWxzZSBmb3IobSBpbiBfKV8uaGFzT3duUHJvcGVydHkobSkmJih2W21dPV9bbV0pO2Vsc2Ugci5wdW55Y29kZT1ffSh0aGlzKX0pLmNhbGwodGhpcywidW5kZWZpbmVkIiE9dHlwZW9mIGdsb2JhbD9nbG9iYWw6InVuZGVmaW5lZCIhPXR5cGVvZiBzZWxmP3NlbGY6InVuZGVmaW5lZCIhPXR5cGVvZiB3aW5kb3c/d2luZG93Ont9KX0se31dLDI3OltmdW5jdGlvbihlLHQsbil7IWZ1bmN0aW9uKGUscil7Im9iamVjdCI9PXR5cGVvZiBuJiZ2b2lkIDAhPT10P3Iobik6ImZ1bmN0aW9uIj09dHlwZW9mIGRlZmluZSYmZGVmaW5lLmFtZD9kZWZpbmUoWyJleHBvcnRzIl0scik6cihlLnVsb2c9ZS51bG9nfHx7fSl9KHRoaXMsZnVuY3Rpb24oZSl7InVzZSBzdHJpY3QiO2Z1bmN0aW9uIHQoZSl7dmFyIHQ9T2JqZWN0LmNyZWF0ZShjb25zb2xlKTtbImFzc2VydCIsInRyYWNlIiwiZGVidWciLCJsb2ciLCJpbmZvIiwid2FybiIsImVycm9yIl0uZm9yRWFjaChmdW5jdGlvbihuKXtlW25dPXRbbl19KX1mdW5jdGlvbiBuKGUsbil7dmFyIHI9aVtuXTt2b2lkIDAhPT1yJiYodChlKSxyPjAmJihlLmFzc2VydD1mdW5jdGlvbigpe30pLHI+NSYmKGUudHJhY2U9ZnVuY3Rpb24oKXt9KSxyPjEwJiYoZS5kZWJ1Zz1mdW5jdGlvbigpe30pLHI+MjAmJihlLmxvZz1mdW5jdGlvbigpe30pLHI+MzAmJihlLmluZm89ZnVuY3Rpb24oKXt9KSxyPjQwJiYoZS53YXJuPWZ1bmN0aW9uKCl7fSkscj41MCYmKGUuZXJyb3I9ZnVuY3Rpb24oKXt9KSl9ZnVuY3Rpb24gcihlLHQpe3Q9dHx8e30sbihlLHQubGV2ZWx8fCJkZWJ1ZyIpfWZ1bmN0aW9uIG8oZSl7dmFyIHQ9T2JqZWN0LmNyZWF0ZShjb25zb2xlKTtyZXR1cm4gcih0LGUpLHR9dmFyIGk9e2FsbDowLHRyYWNlOjUsZGVidWc6MTAsbG9nOjIwLGluZm86MzAsd2Fybjo0MCxlcnJvcjo1MCxub25lOjFlM30sYT1vKCk7ZS5MRVZFTFM9aSxlLnNldExldmVsPW4sZS5jb25maWd1cmU9cixlLmNyZWF0ZT1vLGUubG9nZ2VyPWEsT2JqZWN0LmRlZmluZVByb3BlcnR5KGUsIl9fZXNNb2R1bGUiLHt2YWx1ZTohMH0pfSl9LHt9XX0se30sWzFdKTs="));</script><script async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit">
+</script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Database Caching 108/153 queries in 0.114 seconds using memcached
+Object Caching 5934/6592 objects using memcached
+Content Delivery Network via cdn-neq0.heartyhosting.com
+
+ Served from: www.nationalenquirer.com @ 2017-08-14 11:48:13 by W3 Total Cache -->
