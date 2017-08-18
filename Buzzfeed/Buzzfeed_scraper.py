@@ -17,7 +17,7 @@ import string
 import re
 from selenium import webdriver
 
-search_term = "Ryan Reynolds"
+search_term = "Taylor Swift"
 days_ago = 30
 # Take out any punctuation marks from name and convert to lowercase
 search_term = search_term.translate(None, string.punctuation)
@@ -110,17 +110,20 @@ for i in range(0, len(link_indices)):
     page_result = requests.get(page_result_link)
     res_soup = BeautifulSoup(page_result.content, 'html.parser')   
   
-    story_tag = res_soup.find_all(class_="subbuzz__description subbuzz__description--standard ")
+    story_tag1 = res_soup.find_all(class_="subbuzz__description subbuzz__description--standard ")
+    story_tag2 = res_soup.find_all(class_="subbuzz subbuzz-text xs-mb4 xs-relative ")
     photo_caption_tag = res_soup.find_all(class_="js-subbuzz__title-text")
-    story_list = [pt.get_text() for pt in story_tag]
+    story_list2 = [pt.get_text() for pt in story_tag2]
+    story_list1 = [pt.get_text() for pt in story_tag1]
     caption_list = [pt.get_text() for pt in photo_caption_tag]
-    story = ' '.join(story_list)
+    story1 = ' '.join(story_list1)
+    story2 = ' '.join(story_list2)
     captions = ' '.join(caption_list)
     this_headline = headlines_list[link_indices[i]]
     
+    whole_story= story1 + story2 + captions
 
-    fetched_stories.append(story.encode('ascii',errors='ignore'))
-    fetched_stories.append(captions.encode('ascii',errors='ignore'))
+    fetched_stories.append(whole_story.encode('ascii',errors='ignore'))
     fetched_headlines.append(this_headline.encode('ascii', errors = 'ignore'))
 
 
