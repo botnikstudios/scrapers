@@ -9,19 +9,16 @@ Created on Thu Aug 17 15:32:34 2017
 """
 Spyder Editor
 
-This is a temporary script file. It scrapes people.com
+This is a temporary script file. It scrapes buzzfeed.com
 """
 from bs4 import BeautifulSoup
 import requests
 import string
-from datetime import datetime, timedelta
 import re
-import urllib2
-import time
 from selenium import webdriver
 
-search_term = "Justin Bieber"
-days_ago = 4
+search_term = "Ryan Reynolds"
+days_ago = 30
 # Take out any punctuation marks from name and convert to lowercase
 search_term = search_term.translate(None, string.punctuation)
 search_term = search_term.lower()
@@ -55,6 +52,8 @@ days_ago_list = []
 article_link_list = []
 stories = []
 headlines_list = []
+fetched_stories = []
+fetched_headlines=[]
 
 
 # For every article on the page, get the link and the time it was posted at.
@@ -64,37 +63,42 @@ for i in range(0,len(articles)):
     header = child[0].find_all('a')
     
     # URL
-    url = domain + header[1]['href']
-    url = url.encode('UTF8')
-    article_link_list.append(url)
-    
-    headline = header[1].get_text()
-    headline = headline.strip()
-    headline = headline.encode('UTF8')
-    headlines_list.append(headline)
-    
-    date_tag = article_tags.find_all(class_="small-meta__item__time-ago")
-    date = date_tag[0].get_text()
-    date = date.encode('UTF8')
-    # Convert buzzfeed date notation to days
-    is_min = re.findall('minutes', date)
-    is_hours = re.findall('hours', date)
-    is_days = re.findall('days', date)
-    is_weeks = re.findall('weeks', date)
-    is_months = re.findall('months',date)
-    is_years = re.findall('years',date)
-    num = [int(s) for s in date.split() if s.isdigit()]
-    if is_min or is_hours:
-        days_ago = 0
-    elif is_days:
-        days_ago = num[0]
-    elif is_weeks:
-        days_ago = num[0] * 7
-    elif is_months:
-        days_ago = num[0] * 30
-    elif is_years:
-        days_ago = num[0] * 365
-    days_ago_list.append(days_ago)
+    if len(header) > 1:
+        url = domain + header[1]['href']
+        url = url.encode('UTF8')
+        article_link_list.append(url)
+        
+        headline = header[1].get_text()
+        headline = headline.strip()
+        headline = headline.encode('UTF8')
+        headlines_list.append(headline)
+        
+        date_tag = article_tags.find_all(class_="small-meta__item__time-ago")
+        date = date_tag[0].get_text()
+        date = date.encode('UTF8')
+        # Convert buzzfeed date notation to days
+        is_min = re.findall('minutes', date)
+        is_hours = re.findall('hours', date)
+        is_days = re.findall('days', date)
+        is_weeks = re.findall('weeks', date)
+        is_months = re.findall('months',date)
+        is_years = re.findall('years',date)
+        num = [int(s) for s in date.split() if s.isdigit()]
+        if is_min or is_hours:
+            days_ago = 0
+        elif is_days:
+            days_ago = num[0]
+        elif is_weeks:
+            days_ago = num[0] * 7
+        elif is_months:
+            days_ago = num[0] * 30
+        elif is_years:
+            days_ago = num[0] * 365
+        days_ago_list.append(days_ago)
+    else:
+        article_link_list.append('NA')
+        headlines_list.append('NA')
+        days_ago_list.append('100000')
     
     
 # Get the articles that are within the given time frame    
@@ -107,11 +111,16 @@ for i in range(0, len(link_indices)):
     res_soup = BeautifulSoup(page_result.content, 'html.parser')   
   
     story_tag = res_soup.find_all(class_="subbuzz__description subbuzz__description--standard ")
-    if len(story_tag) > 1:
-        story_tmp = story_tag[1].get_text()
-        story = re.findall('caption":"(.*?)","url"', story_tmp)
-        story = ' '.join(story)
-        stories.append(story.encode('ascii',errors='ignore'))
-    else:
-        stories.append('NA')
+    photo_caption_tag = res_soup.find_all(class_="js-subbuzz__title-text")
+    story_list = [pt.get_text() for pt in story_tag]
+    caption_list = [pt.get_text() for pt in photo_caption_tag]
+    story = ' '.join(story_list)
+    captions = ' '.join(caption_list)
+    this_headline = headlines_list[link_indices[i]]
+    
+
+    fetched_stories.append(story.encode('ascii',errors='ignore'))
+    fetched_stories.append(captions.encode('ascii',errors='ignore'))
+    fetched_headlines.append(this_headline.encode('ascii', errors = 'ignore'))
+
 
