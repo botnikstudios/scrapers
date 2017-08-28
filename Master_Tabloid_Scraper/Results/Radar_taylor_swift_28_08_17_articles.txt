@@ -1,0 +1,188 @@
+
+
+					var next_post_url = "http://radaronline.com/photos/teen-mom-amber-portwood-boyfriend-vmas/";
+					var prev_post_url = "";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-28T12:07:51+00:00","caption":"Taylor Swift dropped the new music video for her latest smash hit \"Look What You Made Me Do\" at last night's MTV VMA Awards and she didn't hold back any punches when it came to nemesis, Kim Kardashian\u00a0! Click through a dozen of Swift's Kardashian-bashin' jabs, as RadarOnline.com exclusively reveals why the 36-year-old KUWTK star is not at all amused!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:18+00:00","caption":"In one of the opening scenes to her music video, which already has over 20 million hits on Vevo, Swift is stuck in a bathtub \u2013 unable to get out because she is covered in diamonds. ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-4tub.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T10:16:26+00:00","caption":"On Oct. 3, 2016, Kardashian was robbed at gunpoint in Paris , gagged and thrown in a bathtub after flaunting the huge diamond engagement ring from hubby Kanye West on Instagram. Swift didn't hesitate to mock the 36-year-old reality star with references to the bathtub and ring. But perhaps the most shocking was the next reference!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-345.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:16+00:00","caption":"Swift uses a diamond choker as a gag in her video. When reliving the robbery on last season's KUWTK, Kardashian was in tears when describing how the robbers had gagged her! What's more, a similar shot of Kim biting a ring was reported to have potentially sparked the robbers to raid Kardashian.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-2Gagged.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:21+00:00","caption":"In this scene, the two mysterious figures in the background look almost identical to Kim and her sister, Khloe Kardashian, 33! Also, as fans of West know, he and Kim were mocked heavily after Kim rode on the back of his motorcycle in his video, \"Bound 2.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-6hloeBike.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:20+00:00","caption":"In the following scene, Swift is seen walking with four other ladies who look strikingly similar to Kardashian's sister, Khloe and Kourtney Kardashian, 38, as well as Kendall, 22, and Kylie Jenner, 20!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-8tersWalk.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:19+00:00","caption":"Swift may have been mocking the Kardashian kween AGAIN when she pulls up to a boutique surrounded by paparazzi. The scene would be all too familiar to the Kardashian sisters, who are constantly hounded by photographers when they visit their DASH boutique in Beverly Hills, Calif.!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-5TSDash.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:17+00:00","caption":"As Radar reported, the bad blood between Swift and Kim started when hubby, West, wrote lyrics into his song \"Famous\" that blasted Swift. \"I feel like me and Taylor might still have sex. Why? I made that b***h famous,\" West wrote.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-3e.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:14+00:00","caption":"In one of Swift's more subtle maybe disses to Kim, she is seen taking selfies while wearing a leopard outfit. Prior to Kim's wardrobe makeover, she was constantly wearing leopard print and it is no secret she loves to take selfies. She even published a whole book of them!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-10ard.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:15+00:00","caption":"The 26-year-old blonde \"Trouble\" singer tried to end her feud with Kardashian and West last year when she wrote on social media, \"I would very much like to be excluded from this narrative, one that I have never asked to be a part of, since 2009.\" Swift ends the \"Look What You Made Me Do\" video by saying, \"I would very much like to be excluded from this narrative.\" Clearly she isn't keeping up her fa\u00e7ade anymore!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-9e-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T10:08:29+00:00","caption":"After Kim posted video PROOF that Swift gave West permission to use her in his \"Famous\" video, Kimye fans swamped Swift's social media with snake emojis. Then, she slammed Swift on social media and said, \"Wait it's legit National Snake Day? They have holidays for everybody, I mean everything, these days!\" Kardashian has even blocked the use of snake emojis on all of her social media sites.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-45.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-28T09:57:13+00:00","caption":"Did you find any more references to Kim Kardashian after seeing the shocking \"Look What You Made Me Do\" video? If so, let us know in the comments below.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Taylor-Swift-New-Music-Video-Kim-Kardashian-Feud-1ative.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Swift Revenge! The 10 Worst Kimye Disses From Taylor’s New Music Video
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 13 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 13Taylor Swift dropped the new music video for her latest smash hit "Look What You Made Me Do" at last night's MTV VMA Awards and she didn't hold back any punches when it came to nemesis, Kim Kardashian ! Click through a dozen of Swift's Kardashian-bashin' jabs, as RadarOnline.com exclusively reveals why the 36-year-old KUWTK star is not at all amused!Photo credit: Getty/TaylorSwiftVEVO 2 of 13In one of the opening scenes to her music video, which already has over 20 million hits on Vevo, Swift is stuck in a bathtub – unable to get out because she is covered in diamonds. Photo credit: TaylorSwiftVEVO 3 of 13On Oct. 3, 2016, Kardashian was robbed at gunpoint in Paris , gagged and thrown in a bathtub after flaunting the huge diamond engagement ring from hubby Kanye West on Instagram. Swift didn't hesitate to mock the 36-year-old reality star with references to the bathtub and ring. But perhaps the most shocking was the next reference!4 of 13Swift uses a diamond choker as a gag in her video. When reliving the robbery on last season's KUWTK, Kardashian was in tears when describing how the robbers had gagged her! What's more, a similar shot of Kim biting a ring was reported to have potentially sparked the robbers to raid Kardashian.Photo credit: TaylorSwiftVEVO  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 13In this scene, the two mysterious figures in the background look almost identical to Kim and her sister, Khloe Kardashian, 33! Also, as fans of West know, he and Kim were mocked heavily after Kim rode on the back of his motorcycle in his video, "Bound 2."Photo credit: TaylorSwiftVEVO 6 of 13In the following scene, Swift is seen walking with four other ladies who look strikingly similar to Kardashian's sister, Khloe and Kourtney Kardashian, 38, as well as Kendall, 22, and Kylie Jenner, 20!Photo credit: TaylorSwiftVEVO  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 13Swift may have been mocking the Kardashian kween AGAIN when she pulls up to a boutique surrounded by paparazzi. The scene would be all too familiar to the Kardashian sisters, who are constantly hounded by photographers when they visit their DASH boutique in Beverly Hills, Calif.!Photo credit: TaylorSwiftVEVO 8 of 13As Radar reported, the bad blood between Swift and Kim started when hubby, West, wrote lyrics into his song "Famous" that blasted Swift. "I feel like me and Taylor might still have sex. Why? I made that b***h famous," West wrote.Photo credit: TaylorSwiftVEVO  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 13In one of Swift's more subtle maybe disses to Kim, she is seen taking selfies while wearing a leopard outfit. Prior to Kim's wardrobe makeover, she was constantly wearing leopard print and it is no secret she loves to take selfies. She even published a whole book of them!Photo credit: TaylorSwiftVEVO 10 of 13The 26-year-old blonde "Trouble" singer tried to end her feud with Kardashian and West last year when she wrote on social media, "I would very much like to be excluded from this narrative, one that I have never asked to be a part of, since 2009." Swift ends the "Look What You Made Me Do" video by saying, "I would very much like to be excluded from this narrative." Clearly she isn't keeping up her façade anymore!Photo credit: TaylorSwiftVEVO  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 13After Kim posted video PROOF that Swift gave West permission to use her in his "Famous" video, Kimye fans swamped Swift's social media with snake emojis. Then, she slammed Swift on social media and said, "Wait it's legit National Snake Day? They have holidays for everybody, I mean everything, these days!" Kardashian has even blocked the use of snake emojis on all of her social media sites.Photo credit: Getty 12 of 13 So how does Kim feel about the video? "Kim and Kanye were not laughing at all after they saw this and there will be hell to pay," a Kardashian insider told Radar exclusively. Click here to watch the entire video!Photo credit: TaylorSwiftVEVO  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 13Did you find any more references to Kim Kardashian after seeing the shocking "Look What You Made Me Do" video? If so, let us know in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: TaylorSwiftVEVO  
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Taylor Swift dropped the new music video for her latest smash hit "Look What You Made Me Do" at last night's MTV VMA Awards and she didn't hold back any punches when it came to nemesis, Kim Kardashian ! Click through a dozen of Swift's Kardashian-bashin' jabs, as RadarOnline.com exclusively reveals why the 36-year-old KUWTK star is not at all amused!Photo credit: Getty/TaylorSwiftVEVO In one of the opening scenes to her music video, which already has over 20 million hits on Vevo, Swift is stuck in a bathtub – unable to get out because she is covered in diamonds. Photo credit: TaylorSwiftVEVO On Oct. 3, 2016, Kardashian was robbed at gunpoint in Paris , gagged and thrown in a bathtub after flaunting the huge diamond engagement ring from hubby Kanye West on Instagram. Swift didn't hesitate to mock the 36-year-old reality star with references to the bathtub and ring. But perhaps the most shocking was the next reference!Swift uses a diamond choker as a gag in her video. When reliving the robbery on last season's KUWTK, Kardashian was in tears when describing how the robbers had gagged her! What's more, a similar shot of Kim biting a ring was reported to have potentially sparked the robbers to raid Kardashian.Photo credit: TaylorSwiftVEVO In this scene, the two mysterious figures in the background look almost identical to Kim and her sister, Khloe Kardashian, 33! Also, as fans of West know, he and Kim were mocked heavily after Kim rode on the back of his motorcycle in his video, "Bound 2."Photo credit: TaylorSwiftVEVO In the following scene, Swift is seen walking with four other ladies who look strikingly similar to Kardashian's sister, Khloe and Kourtney Kardashian, 38, as well as Kendall, 22, and Kylie Jenner, 20!Photo credit: TaylorSwiftVEVO Swift may have been mocking the Kardashian kween AGAIN when she pulls up to a boutique surrounded by paparazzi. The scene would be all too familiar to the Kardashian sisters, who are constantly hounded by photographers when they visit their DASH boutique in Beverly Hills, Calif.!Photo credit: TaylorSwiftVEVO As Radar reported, the bad blood between Swift and Kim started when hubby, West, wrote lyrics into his song "Famous" that blasted Swift. "I feel like me and Taylor might still have sex. Why? I made that b***h famous," West wrote.Photo credit: TaylorSwiftVEVO In one of Swift's more subtle maybe disses to Kim, she is seen taking selfies while wearing a leopard outfit. Prior to Kim's wardrobe makeover, she was constantly wearing leopard print and it is no secret she loves to take selfies. She even published a whole book of them!Photo credit: TaylorSwiftVEVO The 26-year-old blonde "Trouble" singer tried to end her feud with Kardashian and West last year when she wrote on social media, "I would very much like to be excluded from this narrative, one that I have never asked to be a part of, since 2009." Swift ends the "Look What You Made Me Do" video by saying, "I would very much like to be excluded from this narrative." Clearly she isn't keeping up her façade anymore!Photo credit: TaylorSwiftVEVO After Kim posted video PROOF that Swift gave West permission to use her in his "Famous" video, Kimye fans swamped Swift's social media with snake emojis. Then, she slammed Swift on social media and said, "Wait it's legit National Snake Day? They have holidays for everybody, I mean everything, these days!" Kardashian has even blocked the use of snake emojis on all of her social media sites.Photo credit: Getty So how does Kim feel about the video? "Kim and Kanye were not laughing at all after they saw this and there will be hell to pay," a Kardashian insider told Radar exclusively. Click here to watch the entire video!Photo credit: TaylorSwiftVEVO Did you find any more references to Kim Kardashian after seeing the shocking "Look What You Made Me Do" video? If so, let us know in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: TaylorSwiftVEVO  
+
+
+
+
+
+
+
+
+
+
+
+Taylor Swift unleashed a ‘creepy smirk’ in her new UPS commercial.
+Entitled #TaylorSwiftDelivery the 30 seconds advert was released before her ‘Look What You Made Me Do’ premiere.
+Fans see Swift, 27, looking mysterious wearing blue jeans and a shoulder-less top writing a letter before wrapping a package.
+PHOTOS: Kim K. Busts Taylor Swift With Secret Recording Of Kanye’s ‘Famous’ Phone Call
+The 10-time Grammy winner could be seen folding up a large cardboard box, apparently containing a copy of her sixth studio album, Reputation, due for release on November 10.
+Swift is seen suddenly glaring at the camera showing-off her new harder edge persona.
+The United Postal Service is the official delivery partner of Reputation and her name and image is on the side of their delivery trucks.
+Her fans can enter a sweepstakes where the grand prize winner and three friends will be flown to one of her concerts, put up in a hotel, and receive memorabilia and a ‘glam squad.’
+PHOTOS: Taylor Swift Insures Her Legs For $40 Million
+The controversial blonde will premiere the music video for her first single, ‘Look What You Made Me Do’, during this Sunday’s MTV Video Music Awards.
+And many insiders are predicting that she will turn-up in person at The Forum in Inglewood to introduce the clip following her six-month hiatus from public life.
+The ‘Blank Space’ singer was buoyed recently with her court victory in her ‘groping case’ with David Mueller.
+Her new song is reportedly about Kanye West who has since vowed to get revenge on his female nemesis.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+Revenge is a dish best served cold by Kim Kardashian’s husband.
+After Taylor Swift dropped her latest diss track, “Look What You Made Me Do,” RadarOnline.com has exclusively learned that Kardashian wants Kanye West to retaliate.
+Kardashian was less than thrilled with Swift’s new single, asking her friends “What are her lyrics even about? Is the whole song about Kanye?” a well-connected source told Radar.
+PHOTOS: You’re Fired! Kim Kardashian & Her Sister Want Momager Kris Jenner Out — 7 Reasons Why
+She thinks the whole thing is “pathetic,” and wants West to retaliate against Swift.
+“I don’t like your little games/ Don’t like your tilted stage/ The role you made me play/ Of the fool, no, I don’t like you/ I don’t like your perfect crime,” Swift sings in her controversial new tune from her not-yet-released album Reputation.
+“Kim wants Kanye to be the one to respond if they do anything. She plans to be above it all and let him be the one to do or say anything,” the source spilled to Radar, noting that the lyrics were a dig at West, who had a tilted stage during his Saint Pablo tour.
+PHOTOS: Kim Kardashian’s Style Secrets Revealed
+West and Swift’s bad blood boiled over in 2016 over his “Famous” lyrics “I feel like me and Taylor might still have sex/ Why? I made that b**ch famous.”
+“Kim was so glad that she recorded that phone call between Kanye and Taylor because she thinks Taylor is a total liar and a fake,” the source told Radar. “She knew she had to have to truth to get out there. And now she’s going to let Kanye do the dirty work.”
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
+
+Taylor Swift not only seemed to diss Kim Kardashian and Kanye West on her new comeback single, “Look What You Made Me Do,” but snagged a member of the reality queen’s inner circle!
+The pop star, 27, called on celebrity photographer Mert Alas to shoot the cover of her album. But Alas not only regularly works with Kardashian, the two are good friends, RadarOnline.com can report.
+
+
+
+
+
+ Reunited 🖤
+A post shared by Mert Alas (@mertalas) on Jun 7, 2017 at 8:04pm PDT
+
+
+
+Alas has known Kardashian, 36, for years, and back in April she presented him with the “Creative Of The Year Award” at the 2017 Fashion Los Angeles Award for his photography work.
+They’ve also worked together on several projects.
+
+
+
+
+
+ GUESS WHO 😈 #secretproject 😈 coming soon ' #mertandmarcus
+A post shared by Mert Alas (@mertalas) on Jun 2, 2016 at 6:42am PDT
+
+
+
+As Radar reported, Kardashian was livid when she learned she could possibly become Swift’s latest target on the singer’s new album.
+“It’s about to get ugly, and Kim is ready to shut Taylor down!” a source told Radar.
+Swift released her first single from her upcoming album Reputation on Thursday night. Her sixth album will be released on November 10.
+PHOTOS: Taylor Swift Shows Off Her Bangin’ Bikini Body In 15 Sizzling Photos
+What do you think about Taylor Swift working with Kim Kardashian’s best friend? Sound off in the comments below!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
+
+Taylor Swift just bashed all the haters in her life with her newest single, “Look What You Made Me Do” and fans are freaking out!
+After teasing her much-anticipated album, Reputation, the singer exposed some brutal lyrics in her new song.
+While Swift has been involved in various feuds with A-listers such as Katy Perry, 32, and ex boyfriend Calvin Harris, it is Kanye West and Kim Kardashian fans believe she’s really after.
+“I don’t like your little games/ Don’t like your tilted stage/ The role you made me play/ Of the fool, no, I don’t like you/ I don’t like your perfect crime,” she sings in the controversial new tune.
+PHOTOS: Awkward! Taylor Swift To Run Into Katy Perry & Ex Calvin Harris At The MTV VMAs
+West, 40, infamously uses a tilted stage in his concert performances.
+As RadarOnline.com exclusively reported, Kardashian and West vowed to bash Swift if she decided to insult them in her secret album.
+“Kanye is going to let Taylor have it if she goes after Kim on this new album,” a source close to star told Radar. “Kim is just tired of playing this game with Taylor. She has clearly had it out for the both of them, and Kim is so ready to fight fire with fire if this album includes any shade.”
+Swift has bad blood for West ever since he interrupted her MTV acceptance speak in 2009, but her feud with Kardashian, 36, began in 2016 when the pop star claimed she didn’t give West permission to say “I feel like me and Taylor might still have sex, because I made that b***h famous” in his song “Famous.”
+PHOTOS: Kim K. Busts Taylor Swift With Secret Recording Of Kanye’s ‘Famous’ Phone Call
+After Kardashian leaked footage of Swift appearing to approve the lyrics, things especially turned sour.
+“Wait it’s legit National Snake Day?!?!?!? They have holidays for everybody, I mean everything these days!” Kardashian tweeted after the incident.
+As Radar readers know, Swift, 27, recently deleted all of the content from her social media accounts and teased her album by posting Instagram videos of a dark snake creeping between in the darkness.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+Taylor Swift’s first single off her highly-anticipated album Reputation is about to drop, and RadarOnline.com has exclusively learned that Kim Kardashian and hubby Kanye West are ready to wage war against the mudslinging singer.
+“Kanye is going to let Taylor have it if she goes after Kim on this new album,” a source close to the KUWTK beauty, 36, said.
+“Kim is just tired of playing this game with Taylor. She has clearly had it out for the both of them, and Kim is so ready to fight fire with fire if this album includes any shade.”
+PHOTOS: Kim K. Busts Taylor Swift With Secret Recording Of Kanye’s ‘Famous’ Phone Call
+“It’s about to get ugly, and Kim is ready to shut Taylor down!”
+The feud between Kardashian, West, 40, and Swift, 27, began last year, when the pop star claimed she didn’t give the rapper permission to say “I feel like me and Taylor might still have sex, because I made that b***h famous” in his song “Famous.”
+But then Kardashian posted footage of Swift approving of the lyrics — and later seemed to shade her by referring to National Snake Day.
+
+Wait it's legit National Snake Day?!?!?They have holidays for everybody, I mean everything these days! 🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍🐍
+— Kim Kardashian West (@KimKardashian) July 17, 2016
+
+Following the incident, Swift — who, up to that point had been incredibly active on social media — disappeared from the spotlight.
+Until now!
+After deleting all of the content from her social media accounts, which currently have over 100 million followers, Swift posted several GIFs to promote her new album. And it appeared to be aimed at Kardashian!
+
+
+
+
+
+A post shared by Taylor Swift (@taylorswift) on Aug 23, 2017 at 7:01am PDT
+
+
+
+“Kim thinks she snake reference is about her,” the Kardashian insider told Radar.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
