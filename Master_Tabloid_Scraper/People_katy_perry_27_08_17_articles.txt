@@ -1,0 +1,210 @@
+
+Kevin Mazur/WireImage
+Katy Perry‘s worn some pretty standout outfits to the MTV VMAs since making her debut in 2008, from a head-to-toe denim dress to a diamond grill. But this year, was her first time hosting the music awards show, and Perry mixed things up with a few toned-down, glamorous looks that marked a departure form her wilder past outfits. But one thing remained consistent — each outfit was covered in plenty of sparkle, shimmer and metallic accents.
+The “Swish Swish” singer, who also performed with Nicki Minaj on stage at the L.A. show, started the night off looking quite tame compared to her usual style choices. She hit the carpet in a sculptural white Stéphane Rolland couture gown. The sophisticated one-shoulder dress featured a low-cutout showing off her sternum, a long train and a cape. Perry accessorized the look with oversize dangling hoop earrings and styled her platinum pixie with a some low-key texture.
+
+It didn’t take long for the host to make a quick first outfit change to start off the evening right. This time, after flying onto the stage, Perry got a little more playful in a holographic Moonwoman space suit in honor of the VMAs iconic Moon Person trophy awarded to winners throughout the night.
+Check out PEOPLE’s full 2017 MTV VMAs coverage.
+Kevin Winter/Getty
+Only a few moments after landing on the stage and opening the show by addressing current events and joking about how “screwed up” the world has been, the star couldn’t help but pull down her spacewoman suit halfway to reveal a long sleeved nude bodysuit conveniently worn underneath.
+“My pee bag is kind of full,” she joked of the elaborate costume.
+Rob Latour/REX/Shutterstock
+Looking for more style content? Click here to subscribe to the PeopleStyle Newsletter for amazing shopping discounts, can’t-live-without beauty products and more.
+After wearing her baggy Moon Person spacesuit, Perry went back to glam in head-to-toe silver sequins. The star opted for a showstopping long-sleeve sparkling silver jumpsuit-gown hybrid with matching Hueb diamond earrings and jewel-encrusted pointed toe pumps that has us going “ooh-la-la.”
+Kevin Winter/Getty
+She swapped out her gorgeous silver ensemble for yet another sparkly look. This time Perry opted for a black long-sleeve Naeem Khan gown with gold zebra stripe sequins and dangling diamond earrings.
+Christopher Polk/MTV1617/Getty Images for MTV
+FROM COINAGE: VMAs By the Numbers!
+
+RELATED PHOTOS: Every Over-the-Top Outfit Katy Perry Has Worn to Promote Her New Album Witness
+To introduce Fifth Harmony‘s performance, Perry accessorized her next look — a sparkly Rasario gown with matching  jeweled earrings, a black enamel and diamond David Webb bracelet and Nicholas Kirkwood booties — with a fake baby doll that ended up (fake) spitting up on her in the middle of her bit alongside DJ Khaled and his (real) son, 10-month-old Asahd Tuck Khaled.
+Kevin Winter/Getty
+Next Perry went for some critter couture to introduce Miley Cyrus‘ performance of “Younger Now.” The host introduced her good friend’s return to the MTV VMAs stage while wearing a fitted black strapless confection embroidered with a sequin parrot across the front of her stomach. Perry pulled together the entire animal-inspired ensemble with matching parrot earrings.
+MTV
+To introduce rapper Kyle’s performance of “iSpy,” Perry covered up her pixie with a long, pin-straight blonde wig (which she ultimately ripped off her head) and red, gold and hot pink sequined dress that screamed  “I’m a Barbie Girl in a Barbie world!”
+John Shearer/Getty
+Next, Perry poked fun at all the music fans who skipped watching the VMAs to catch Game Of Thrones’ highly anticipated season finale and recapped everything that happened so far during the show for their viewing convenience.
+The singer paid homage to the popular HBO series by wearing a costume of the Mother of Dragons on Game of Thrones, Daenerys Targaryen, and carried a small dog dressed up as one of Daenerys’ dragons.
+John Shearer/Getty Images for MTV
+At the end of the night, Perry closed down the show with an amazing performance of “Swish Swish” alongside Minaj.
+Kevin Winter/Getty
+While starting her performance on top of a giant basketball, Perry hit the stage in a white basketball mini dress with a sparkly basketball around the center and yellow fringe on the ends. And Minaj, who joined after the giant basketball turned halfway around to reveal the rapper inside, added to the basketball theme dressing in a sexy latex referee outfit with a plunging neckline and thigh-high black and white striped boots.
+What was your favorite outfit Katy wore tonight at the VMAs? Tell us your pick in the comments below!
+
+
+Katy Perry and Nicki Minaj closed Sunday’s MTV Video Music Awards with a slam-dunk performance of “Swish Swish” that included Perry singing from the top of a huge basketball while wearing a basketball corset and earrings.
+Perry, who hosted the show, swung above the stage from a rope before joining a troupe of dancers wearing basketball net masks and matching netted tights before being joined on stage by Minaj in a referee costume.
+As basketball balloons bounded from the roof, Perry flew above the audience on a wire before dancing atop a basketball hoop and ending the performance by dunking the ball — and then thanking the crowd.
+FROM COINAGE: VMAs By the Numbers
+
+“Of course I’m going to do it and go 100 percent,” Perry said earlier in the evening in a red carpet interview. “So, I’m going to do ‘Swish Swish’ tonight and of course I’m bringing out my special guest, Nicki Minaj. She came all the way from Miami.”
+Check out PEOPLE’s full 2017 MTV VMAs coverage.
+The show-stopping number capped a night of star-studded performances from the likes Ed Sheeran, Lorde, and P!nk, who performed a career-spanning medley before being honored with The Michael Jackson Video Vanguard award.
+On Thursday, Perry dropped the video for “Swish Swish” which revolves around a basketball game and features a Rolodex of high-profile celebrities including Terry Crews, Molly Shannon, Stranger Things’ Gaten Matarazzo, and Hafþór Júlíus Björnsson a.k.a. The Mountain from Game of Thrones.
+Perry’s album Witness is out now.
+This article originally appeared on Ew.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-45fabaea200d1e657493d58aac7cfca5-59a3947cd15a0');
+				var iframe = document.getElementById('wpcom-iframe-45fabaea200d1e657493d58aac7cfca5-59a3947cd15a0');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-45fabaea200d1e657493d58aac7cfca5-59a3947cd15a0'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+via GIPHY
+There’s nothing quite like live television.
+Jack Antonoff — Bleachers frontman, frequent Taylor Swift collaborator, and Lena Dunham’s boyfriend — was caught eating a mid-show snack in the form of a banana during host Katy Perry’s opening at the VMAs on Sunday night.
+FROM COINAGE: VMAs By the Numbers
+
+And, well, he couldn’t look more bored. Naturally, the possible shade didn’t go unnoticed by the Twitterverse. Dunham herself joined the conversation, tweeting, “My boyfriend just casually eating a banana at the VMAs is a good reminder of why we’ve been at it half a decade.”
+
+
+My boyfriend just casually eating a banana at the VMAs is a good reminder of why we've been at it half a decade
+— Lena Dunham (@lenadunham) August 28, 2017
+
+
+
+.@jackantonoff eating a banana in the middle of the #VMAs is kind of iconic pic.twitter.com/AlMdOLegFD
+— Access Hollywood (@accesshollywood) August 28, 2017
+
+
+
+jack antonoff eating a banana and looking bored @ katy perry's bad host jokes #same #vmas
+— jennifer 🥀 (@jenche_) August 28, 2017
+
+
+
+The shade of @taylorswift13's friend/cowriter/producer @jackantonoff eating a banana during @katyperry's opening! #VMAS
+— Perez (@ThePerezHilton) August 28, 2017
+
+
+
+They just filmed a dude eating a banana #VMAs
+— Afrojack (@afrojack) August 28, 2017
+
+
+
+Jack Antonoff eating a banana in the audience during #VMAs intro is all of us, waiting for #LWYMMDmusicvideo pic.twitter.com/bRQ4Si50n0
+— Taylor Swift News (@TSwiftDailyNews) August 28, 2017
+
+
+
+Jack Antonoff bored and eating a banana during Katy Perry's intro is all of us watching this intro. #VMAs pic.twitter.com/QXgE3H3VIM
+— Hunter Ingram (@hunter_wesley) August 28, 2017
+
+Check out PEOPLE’s full 2017 MTV VMAs coverage.
+It’s worth nothing that Antonoff co-wrote and produced Swift’s new, record-breaking hit “Look What You Made Me Do,” which is speculated to be partially about Perry and the years-long feud between the pop stars.
+In case you missed it, the “LWYMMD” video also dropped tonight at the show and there was plenty of Perry-centric imagery. Antonoff also co-wrote Swift hits like 1989‘s “Out of the Woods” and “I Don’t Want to Live Forever” for the Fifty Shades Darker soundtrack.
+Whether or not Antonoff intended shade, everyone needs a mid-show snack. These shows are long!
+This article originally appeared on Ew.com
+
+
+Katy Perry kicked off the 2017 MTV Video Music Awards on Sunday by landing on stage in a moon person suit.
+“My pee bag is kind of full,” she joked of the elaborate costume.
+Serving as the ceremony’s host at The Forum in Inglewood, California, Perry tried to address current events by joking about how “screwed up” the world has been while the night’s nominees and other famous guests watched from the audience.
+“2016 was terrible, but it feels like things are getting a little bit better in fashion,” she said before reaching for the signature red ensemble from The Handmaid’s Tale.
+“How the f— are you coping right now?” Perry asked the audience. She answered the question by holding up a fidget spinner.
+Frederick M. Brown/Getty
+Earlier on the red carpet, Perry donned a svelte white dress. Tonight, she is nominated in five categories, including Best Pop Video.
+It’s been a big year for Perry, who released her latest album Witness in June and has been preparing for her subsequent world tour. Perry also embarked on a public emotional journey with a live-streamed therapy session back in June.
+Check out PEOPLE’s full 2017 MTV VMAs coverage.
+Earlier this week, Perry released the star-studded video to “Swish Swish.” her summer diss-track featuring Nicki Minaj. Though Perry has claimed that the song and video are not specifically about her ongoing feud with Taylor Swift, the video and Swift’s fiery new single “Look What You Made Me Do” both debuted on Thursday.
+RELATED VIDEO: Classic VMAs Fashion
+
+Perry announced on Twitter back in July that she would be hosting the VMAs following a host-less 2016 awards show. “Introducing your MOONWOMAN” wrote Perry alongside the promo video of her donning the iconic VMA Moonman outfit.
+
+
+Introducing your MOONWOMAN. Brace for impact! August 27th on @MTV @VMAs pic.twitter.com/WJsIYq7WiM
+— KATY PERRY (@katyperry) July 27, 2017
+
+Following the lead of the 2017 MTV Movie & TV Awards, this year’s ceremony is the first in VMAs history without gender-specific categories. Kendrick Lamar leads the night with eight nominations, including Artist of the Year and Video of the Year. You can check out the full list of tonight’s nominees here.
+This article originally appeared on Ew.com
+
+
+Kevin Mazur/WireImage
+If Katy Perry’s past MTV Video Music Awards red carpet looks taught us anything, it’s that she’s never been afraid to make a statement (or wear a wacky headpiece). But this year’s outfit may go down as her most understated yet.
+The host of this year’s award show arrived wearing a white sculptural Stéphane Rolland couture gown featuring one accent shoulder, a sternum cutout, long train and dramatic cape, plus she accessorized with dangling hoop earrings. And to think this is just the first look of the night!
+You can catch her second look (when she inevitably changes) during her performance with Nicki Minaj at 8 p.m.
+
+
+💫 @katyperry just announced that she'll be performing with @NICKIMINAJ at tonight's #VMAs! Don't miss them take the stage at 8/7c! pic.twitter.com/L5NuA1sz0x
+— MTV (@MTV) August 27, 2017
+
+Earlier this week the singer released the video for her single, “Swish Swish,” which is rumored to be about her feud with Taylor Swift, who coincidentally also dropped new music this week.
+RELATED PHOTOS: Every Standout Outfit Katy Perry Has Worn to the VMAs
+Perry has never addressed the rumors that her song may be about Swift, but explained to Jimmy Fallon, “I think it’s a great anthem for people to use whenever someone’s trying to hold you down or bully you.”
+Looking for more style content? Click here to subscribe to the PeopleStyle Newsletter for amazing shopping discounts, can’t-live-without beauty products and more.
+The singer announced the news that she would host the show back in July tweeting her promotional photoshoot dressed as the show’s iconic Moonman statue writing, “Brace for impact.”
+Check out PEOPLE’s full 2017 MTV VMAs coverage.
+Swish Swish, Bish! Katy Perry Set to Host the 2017 MTV VMAs
+
+In addition to hosting the star-studded show, the singer is nominated for five awards including Best Pop and Best Collaboration with Zayn Malik.
+Check out the show to see how many outfit changes the host pulls off throughout the show.
+What do you think of her red carpet arrivals outfit?
+

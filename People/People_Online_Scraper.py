@@ -9,9 +9,10 @@ import requests
 import string
 from datetime import datetime, timedelta
 import re
+import time
 
-search_term = "Chester Bennington"
-days_ago = 30
+search_term = "Taylor Swift"
+days_ago = 2
 # Take out any punctuation marks from name and convert to lowercase
 search_term = search_term.translate(None, string.punctuation)
 search_term = search_term.lower()
@@ -77,8 +78,14 @@ for i in range(0,len(link_indices)):
         fetched_headlines.append(title_tag.encode('utf-8', errors = 'ignore'))
 
 # Write results to a CSV.
-out_file = open("People_Scraper_Output.txt","w")
-for j in range(0,len(stories)):
-    out_file.write("%s\n" % fetched_headlines[j])
-    out_file.write("%s\n" % fetched_stories[j])
-out_file.close()
+
+file_base = "People_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+f = open(file_base + "_headlines.txt","w")
+for item in fetched_headlines:
+  f.write("%s\n" % item)  
+f.close()
+
+f = open(file_base + "_articles.txt","w")
+for item in fetched_stories:
+  f.write("%s\n" % item)  
+f.close()

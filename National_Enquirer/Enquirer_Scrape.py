@@ -18,8 +18,8 @@ from datetime import datetime, timedelta
 import re
 
 
-search_term = "Trump"
-days_ago = 10
+search_term = "Taylor Swift"
+days_ago = 4
 # Take out any punctuation marks from name and convert to lowercase
 search_term = search_term.translate(None, string.punctuation)
 search_term = search_term.lower()
