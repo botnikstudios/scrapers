@@ -1,0 +1,52 @@
+10 Things We Learned From Daisy Ridley's Facebook Live Q&A Daisy Ridley is just as awesome as you'd expect her to be.  The breakout star of Star Wars: The Force Awakens got candid for a recent Facebook Live Q&A, revealing j.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/753795/10-things-we-learned-from-daisy-ridley-s-facebook-q-a');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151114/rs_634x1024-151214171316-634.Daisy-Ridley-Star-Wars-Premiere.ms.121415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Daisy Ridley, Star Wars Premiere");
+	var imageCaption = encodeURIComponent("Daisy Ridley, Star Wars Premiere");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Daisy Ridley is just as awesome as you'd expect her to be. The breakout star of Star Wars: The Force Awakens got candid for a recent Facebook Live Q&A, revealing just how much her life has changed since Episode VII hit theaters last December, how she's preparing for the film's next installment and a surprising dream job she'd have liked to pursue if that whole acting thing didn't quite pan out. Additionally, Ridley sounded off what it feels like to wield a lightsaber, revealed the biggest troublemaker from the Star Wars set. and if you're wondering if the British beauty prefers coffee or tea in the morning, look no further! All of that—plus more—are included in what we learned:
+
+4. She's Not Nearly as Handy as Her Character Rey: Daisy shared a hilarious anecdote about a time she was sent a Star Wars Playstation and "had no idea" how to set it up. Turns out, she had it plugged in to the wrong socket the entire time. "It proves I'm in no way mechanical, technological. I can scrub well," she said, before adding, "So I can scrub the thing that I found and then someone else can put it in the thing and make the thing work."5. Daisy Is in Awe at How Much Her Life Has Changed Since Star Wars: "I obviously haven't wielded a lightsaber before before or been able to be in a film with people I genuinely love and adore and look up to," the actress gushed. "It's just pretty amazing. I've literally seen parts of the world I never thought I'd see at this point in my life."
+
+
+
+Anthony Harvey/Getty Images
+
+ 6. Japan Will Always Have a Special Place in Her Heart: When asked which overseas location was her favorite to travel to, Daisy said, "Japan was really amazing... It was the first place I went to for the press tour. I love the culture. I love the food. Actually, I think that was my first red carpet and I was just so terrified. It was unbelievable."7. Daisy Counts her Lucky Stars for Her Success: "Luck is like a genuine thing. I know people are like, 'No, no. It's not.' I think luck will make things potentially happen sooner like it did for me, but perseverance will make things happen ultimately."
+
+8. Coffee or Tea? "Tea, but funny enough, my favorite tea is green. I do love green tea with honey...I love coffee, but it makes me very jittery and I'm already a quite jittery person," Ridley said.9. Daisy Would've Liked to Channel Her Entrepreneurial Side: If she wasn't a movie star, Daisy says she "would like to go to another country and start a business somewhere warm. Perhaps water sports or something that protects conservation."10. She's in a Completely Different Mindset While Shooting Episode VIII: "Episode VII was like the beginning of the whole thing, and it was terrifying and incredibly rewarding, and I felt like I pushed myself beyond boundaries I thought I had. And now [on Episode VIII], I feel more together and I feel more present," Daisy said. "Now I look at things and think how are people going to react to them because of the way people have responded to Rey. Carrie calls herself the custodian of Leia, and now I feel like the custodian of Rey. I understand what people loved in VII. I'm carrying that responsibility with me."
+/n

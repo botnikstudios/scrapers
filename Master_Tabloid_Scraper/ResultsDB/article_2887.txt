@@ -1,0 +1,82 @@
+Daisy Ridley Goes To A Swimsuit Galaxy Far, Far Away — See Her Amazing Beach Bod/n
+
+					var next_post_url = "http://radaronline.com/photos/joey-fleek-indiana-fleek-photos-cancer-mother-down-syndrome-daughter/";
+					var prev_post_url = "http://radaronline.com/photos/scott-disick-bachelor-pad-buys-5-95-million-hidden-hills-home-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-01-06T11:39:32+00:00","caption":"Daisy Ridley \"awakened the force\" in Miami this week, taking a well-deserved break after her latest Star Wars success. See the actress' sexy bikini body!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-pp-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:06+00:00","caption":"Daisy Ridley caused quite the stir after her stunning performance in J.J. Abrams' Star Wars: The Force Awakens.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-004.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:07+00:00","caption":"This week, the 23-year-old caused jaws to drop in Miami, where the young starlet took a breather on the beach.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-002.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:09+00:00","caption":"Donning a sleek, black one-piece, Ridley was clearly in tip-top shape. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-006.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:10+00:00","caption":"The actress, born in Westminster, U.K., enjoyed the tail end of her New Year's holiday, accompanied by her mother. ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-007.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:11+00:00","caption":"Staying active! Ridley was spotted walking about on the sand. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-008.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:18+00:00","caption":"The young twenty-something sported a small tattoo on her hip \u2013 rebel! ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-009.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:23+00:00","caption":"But don't worry folks, she played it safe and made sure to lather up on plenty of sunscreen.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-001.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:20+00:00","caption":"After earning $446,000 for her role as Rey in this year's Star Wars flick, it's no wonder she's taking a little R&amp;R trip.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-005.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:22+00:00","caption":"Of course, her paycheck doesn't hold a candle to costar Harrison Ford, who raked in an estimated $34 million for the film. ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-003-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-06T10:25:24+00:00","caption":"What do you think of Daisy's beach body? Let us know in the comments below!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/daisy-ridley-bathing-suit-bikini-body-beach-010.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Daisy Ridley Goes To A Swimsuit Galaxy Far, Far Away — See Her Amazing Beach Bod
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11daisy-ridley-bathing-suit-bikini-body-beach-pp-2Daisy Ridley "awakened the force" in Miami this week, taking a well-deserved break after her latest Star Wars success. See the actress' sexy bikini body!Photo credit: FameFlynet2 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Daisy Ridley caused quite the stir after her stunning performance in J.J. Abrams' Star Wars: The Force Awakens.Photo credit: FameFlynet3 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***This week, the 23-year-old caused jaws to drop in Miami, where the young starlet took a breather on the beach.Photo credit: FameFlynet4 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Donning a sleek, black one-piece, Ridley was clearly in tip-top shape. Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***The actress, born in Westminster, U.K., enjoyed the tail end of her New Year's holiday, accompanied by her mother. Photo credit: FameFlynet6 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Staying active! Ridley was spotted walking about on the sand. Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***The young twenty-something sported a small tattoo on her hip – rebel! Photo credit: FameFlynet8 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***But don't worry folks, she played it safe and made sure to lather up on plenty of sunscreen.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***After earning $446,000 for her role as Rey in this year's Star Wars flick, it's no wonder she's taking a little R&R trip.Photo credit: FameFlynet10 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Of course, her paycheck doesn't hold a candle to costar Harrison Ford, who raked in an estimated $34 million for the film. Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11Exclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***What do you think of Daisy's beach body? Let us know in the comments below!Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+daisy-ridley-bathing-suit-bikini-body-beach-pp-2Daisy Ridley "awakened the force" in Miami this week, taking a well-deserved break after her latest Star Wars success. See the actress' sexy bikini body!Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Daisy Ridley caused quite the stir after her stunning performance in J.J. Abrams' Star Wars: The Force Awakens.Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***This week, the 23-year-old caused jaws to drop in Miami, where the young starlet took a breather on the beach.Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Donning a sleek, black one-piece, Ridley was clearly in tip-top shape. Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***The actress, born in Westminster, U.K., enjoyed the tail end of her New Year's holiday, accompanied by her mother. Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Staying active! Ridley was spotted walking about on the sand. Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***The young twenty-something sported a small tattoo on her hip – rebel! Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***But don't worry folks, she played it safe and made sure to lather up on plenty of sunscreen.Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***After earning $446,000 for her role as Rey in this year's Star Wars flick, it's no wonder she's taking a little R&R trip.Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***Of course, her paycheck doesn't hold a candle to costar Harrison Ford, who raked in an estimated $34 million for the film. Photo credit: FameFlynetExclusive… Daisy Ridley Hits The Beach With Her Mom In Miami – **No Usage – Call For Pricing***What do you think of Daisy's beach body? Let us know in the comments below!Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+
+/n

@@ -1,0 +1,52 @@
+Martha Stewart Might Be One of the Sassiest People on Twitter Martha Stewart had a big day on Twitter Wednesday. The lifestyle guru had a field day while attending Daily Mail's MailOnline yacht in Cannes, where Jason Derulo put on what .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/775277/martha-stewart-might-be-one-of-the-sassiest-people-on-twitter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015119/rs_634x1024-150219104807-634.Martha-Stewart-NYFW.jl.021915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Martha Stewart, NYFW");
+	var imageCaption = encodeURIComponent("Martha Stewart, NYFW");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Stewart/WireImage
+
+Martha Stewart had a big day on Twitter Wednesday.The lifestyle guru had a field day while attending Daily Mail's MailOnline yacht in Cannes, where Jason Derulo put on what appears to be an epic performance. Stewart took to Twitter to live tweet the whole ordeal, and it was debatably some of the best content to hit the platform."Now Jason Derulo is singing for us. Quite a show," she wrote on social media, adding pictures for solid visuals. "It's hot and he is shedding his clothes."But Derulo wasn't the only person getting some attention from Stewart! The chef also called out Kim Kardashian's BFF Jonathan Cheban, although she didn't know exactly who he was. Posting a picture of Cheban, Stewart tweeted, "#seriouslypopular @DailyMail @MailOnline do you know this guy?? He says he is well known."
+
+Zing! She might not have meant to throw shade, but shade she threw. About an hour later, she learned of his identity, and tweeted another picture with the caption, "Better photo of jonathan who is very famous bff of the kardashians who knew!"While we're happy that Stewart was able to learn who Cheban was, it made us wonder whom else she may or may not have thrown some shade at on social media. Here we round up her best Twitter zingers, which may or may not have been on purpose.This was most definitely some serious insulting.
+
+Is Michael Cera supposed to look differently in real life?
+
+Don't mess with Martha Stewart, Apple. You just don't know to whom she's connected.
+
+Go home, Kevin. Martha has no time for your basic sandwiches.
+
+Hopefully Jean Georges didn't get too many calls after this.
+/n

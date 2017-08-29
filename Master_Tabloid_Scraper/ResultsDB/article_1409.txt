@@ -1,0 +1,64 @@
+Revisit Julia Roberts' People's "Most Beautiful" Covers That first cover captured Roberts, then 23, with her signature crop from the '90s as she smized for the camera. Instead of showing her signature pearly whites, .../n
+And the covers keep coming for Julia Roberts. The actress just landed her fifth(!) People's "Most Beautiful" cover, outranking Michelle Pfeiffer and Jennifer Aniston, who both have had double in their career thus far. The 49-year-old also set a new record for the most covers earned by any female star in the magazine's history. She's even outpaced her friend and former co-star, George Clooney, who has been on the cover of People's Sexiest Man Alive twice. "I'm going to mention that in my Christmas card to the Clooneys this year," she told the magazine. While the covers are certainly an honor in the industry, they also can work as a faux scrapbook for the star, who has had a cover nearly every five years since 2000.As for that first cover in 1991—the era of Pretty Woman—she told the magazine she felt "adorable and naïve and so happy to be invited to the party."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844502/revisit-julia-roberts-people-s-most-beautiful-covers');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017319/rs_634x820-170419063304-Julia-Roberts-4.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Julia Roberts, People Magazine Covers");
+	var imageCaption = encodeURIComponent("Julia Roberts, People Magazine Covers");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+People
+
+That first cover captured Roberts, then 23, with her signature crop from the '90s as she smized for the camera. Instead of showing her signature pearly whites, Roberts smirked in a denim t-shirt and hoop earrings. 
+
+
+
+People
+
+Fast forward nine years later, there she was again, the smiling face of the new millennium at 32 years old. It was the same year her Oscar-winning performance in Erin Brockovich debuted. 
+
+
+
+People
+
+Then, in 2005, she popped up again, this time sporting long and voluminous honey locks and groomed brows. She was hot off the success of Ocean's Twelve and Closer and had just became a mom for the first time with twins Hazel and Finn. 
+
+By 2010, she had settled into her signature hairstyle of long, wavy tresses. At the time, she was inspiring women everywhere to Eat, Pray, Love.
+
+
+
+People
+
+Now, seven years later, she's back again and has never looked better. Congrats Julia!
+/n

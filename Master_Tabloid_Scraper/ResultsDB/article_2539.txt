@@ -1,0 +1,46 @@
+Lena Dunham Rushed to the Hospital From 2017 Met Gala Clad in a one-shoulder Elizabeth Kennedy gown, Dunham looked picture perfect on the beige and blue carpet. She stopped to take a combination of serious red carpet photos and hilarious one.../n
+Lena Dunham's night at the 2017 Met Gala didn't end with a typical after-party.The Girls star was rushed to the hospital from the soiree, E! News confirms. Fortunately, she was released after completing a series of tests. "She's at home resting and doing well," a source tells E! News. "As you know she's very public about her battles with endometriosis."Prior to the big event, however, all seemed well for Dunham. The 30 year old documented the process of getting ready, sharing photos of herself primping for the big night. She even shared a makeup-free, naked selfie and captioned it, "Met ready."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848055/lena-dunham-rushed-to-the-hospital-from-2017-met-gala');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_634x1024-170501165643-634-met-gala-2017-arrivals-lena-dunham.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lena Dunham, 2017 Met Gala Arrivals");
+	var imageCaption = encodeURIComponent("Lena Dunham, 2017 Met Gala Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Neilson Barnard/Getty Images
+
+Clad in a one-shoulder Elizabeth Kennedy gown, Dunham looked picture perfect on the beige and blue carpet. She stopped to take a combination of serious red carpet photos and hilarious ones, in which she photobombed Joe Jonas.Dunham has publicly documented her endometriosis issues and has become an advocate for awareness for the disorder. In a 2015 edition of her Lenny Letter, Dunham wrote an impassioned essay about what it's like to live with the chronic ailment. Just last month, however, she revealed she was "disease-free."
+
+"My [final] surgery went off without a hitch. When I emerged, cotton-mouthed, [Dr. Randy Harris] told me something I hadn't expected to hear, maybe ever: there was no endometriosis left. Between my surgeries and hormonal intervention, I was disease-free," she wrote. "That doesn't mean it can never return, but for now, once my sutures have been removed and my bruises have changed from blue to yellow to green to gone, I will be healthy. All that will remain is my long-term relationship with pain, and it's time to get real about that."She continued, "Now, because of the unbelievable privilege of having thoughtful doctors, my body has been granted a reprieve. And I'm embarrassed to say that the excitement is mixed with loss. Pain and illness defined a time in my life."We hope she's feeling better. Get well soon, Lena!Page Six was the first to report the news.
+/n

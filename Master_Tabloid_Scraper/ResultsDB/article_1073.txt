@@ -1,0 +1,46 @@
+Carrie Underwood and Mike Fisher Celebrate Their 7-Year Wedding Anniversary Her ice hockey pro beau had equally sweet words for his one and only. "Glad I took a chance on this babe 7 years ago. Turns out she's the best wife, and mo.../n
+2017 brought Carrie Underwood and Mike Fisher lucky number seven. The lovebirds officially celebrated their seventh year of marriage on Monday. While the typically private pair didn't divulge exactly how they honored their anniversary this year, the Grammy winner took to social media to gush about her hunky husband and the life they've made together."Celebrating 7 years with this amazing man. How am I so blessed to share this life with you, @mfisher1212 ? Here's to so many more years and memories together..." she captioned a shot of the duo grinning together.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866139/carrie-underwood-and-mike-fisher-celebrate-their-7-year-wedding-anniversary');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016221/rs_634x790-160321194326-634.Mike-Fisher-Carrie-Underwood-Isaiah-Fisher.ms.032116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mike Fisher, Carrie Underwood, Isaiah Fisher");
+	var imageCaption = encodeURIComponent("Mike Fisher, Carrie Underwood, Isaiah Fisher");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ AP Photo/Mark Humphrey
+
+Her ice hockey pro beau had equally sweet words for his one and only. "Glad I took a chance on this babe 7 years ago. Turns out she's the best wife, and mom to Izzy, I could ever dream of!!#happyanniversary," he wrote on Instagram with a photo of his smiling wife. It was July 10, 2010 when they tied the knot in Greensboro, Ga. Since saying "I do," the husband and wife became mom and dad in February 2015 when Underwood gave birth to their one and only son, Isaiah Michael Fisher. While their romance is the stuff of fairytales, some fans may be comforted to know that the songstress first met her husband like most would ever come face to face with her.
+
+"I met him at a meet and greet," she once dished to Tyler Oakley. "You made out like a bandit on that one," the host quipped. "Yeah, I did—made out!" she joked. Cheers to many more years filled with making out for these two!
+/n

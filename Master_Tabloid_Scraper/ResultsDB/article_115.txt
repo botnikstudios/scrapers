@@ -1,0 +1,46 @@
+EXCLUSIVE! Julianne Hough’s Lavish Idaho Wedding Featured a $20K Marchesa Gown, $15K Fireworks and more Plane Tickets: $2,600 One round-trip first class ticket from LAX to Spokane is $1300 pp. For only the bride and groom, that would be $2,600. Firew.../n
+Julianne Hough's wedding to NHL star Brooks Laich was definitely a perfect 10.The Dancing With the Stars pro and her longtime beau officially tied the knot on Saturday during an outdoor ceremony at the Coeur d'Alene Resort in Coeur d'Alene, Idaho, near Hough's family home. The twosome said "I do" in front of friends and family, including brother Derek Hough, and friends such as fellow DWTS pro Mark Ballas, Nina Dobrev and Aaron Paul.E! News previously reported that for the fairy-tale event, Julianne wore a strapless custom Marchesa gown and double-tiered cathedral-length veil. Brooks wore a black and white Brooks Brothers tuxedo. The two arrived by boat to the ceremony space in the field around 6 p.m. Guests were seated on wooden chairs in a field and given parasols to shield themselves from the sun.The bridal party took part in a long processional alongside a wood plank aisle aligned with flower boxes, with the groomsmen walking first in dark colored tuxedos and the bridesmaids following in different blush colored gowns. A reception was held at the same location, with cocktails, dinner and dancing."At the end of the night, they shot off fireworks over the lake," a source tells E! News "It looked like a very fun wedding for a great couple." It looks and sounds like a great wedding, but how much did the whole shebang cost? Let us breakdown the approximate cost of everything that went into the couple's romantic wedding weekend...
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866032/breaking-down-the-cost-of-julianne-hough-s-idaho-wedding');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015812/rs_634x1024-150912193958-634.JulianneBrooks-091215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Brooks Laich, Julianne Hough, 2015 Creative Arts Emmy Awards");
+	var imageCaption = encodeURIComponent("Brooks Laich, Julianne Hough, 2015 Creative Arts Emmy Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+JB Lacroix/WireImage
+
+Plane Tickets: $2,600One round-trip first class ticket from LAX to Spokane is $1300 pp. For only the bride and groom, that would be $2,600.Fireworks: Between $10,000-$15,000 per the local fire departmentCustom Dress: $20,000The estimate on custom Marchesa wedding dress is a whopping $20,000.Tuxedo: $2,133Brooks appears to be wearing the Brooks Brothers One-Button Fitzgerald Tuxedo, which runs for $1198.00. Along with the brand's $225 tuxedo shirt, $60 bow tie and their $650 Harrys Of London patent leather shoes, the whole outfit costs $2,133.
+
+Boat Ride: $2,700A private charter boat ride on the lake from The Coeur D'Alene to the wedding venue on the day of the nuptials runs $1,350 per hour with a 2 hour minimum for 200 guests. That means the pair shelled out $2,700 to shuttle their guests to their wedding location.Hotel Costs: $200,000A room at the The Coeur D'Alene Resort runs $500 per night. If the couple paid for their 200 guests to stay for two nights (Friday and Saturday), that's $200K.Sounds like a pretty penny but what's money when you are rich, famous and in love?—Reporting by Alessandra Mortellaro
+/n

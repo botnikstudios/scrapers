@@ -1,0 +1,46 @@
+Frances McDormand Wins SAG Award, Remains Hilarious and Proclaims People Need to See Olive Kitteridge Well, something finally got Frances McDormand excited at an awards show: Winning the Best Actress in a TV Movie or Miniseries for her work .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/618223/frances-mcdormand-wins-sag-award-remains-hilarious-and-proclaims-people-need-to-see-olive-kitteridge');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015025/rs_634x894-150125181446-634.Frances-McDormand-SAG-Awards-Winner.ms.012515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frances McDormand, SAG Awards, Winner");
+	var imageCaption = encodeURIComponent("Frances McDormand, SAG Awards, Winner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevork Djansezian/Getty Images
+
+Well, something finally got Frances McDormand excited at an awards show: Winning the Best Actress in a TV Movie or Miniseries for her work in HBO's Olive Kitteridge.McDormand, who previously won a SAG Award for Fargo, looked deadpan right into the camera after a clip of her work was shown, clearly ready to become another meme. When her name was announced, she appeared to still be in her Olive Kitteridge character, slapping her costar Richard Jenkins on the shoulder and rushing to the stage.
+
+"OK. OK, now," she said on stage. "I love what I do. Thank you for inviting myself and Mr. Richard Jenkins…we love what we do, and we're proud of it."We love Olive Kitteridge," she said. Then she told the audience of peers that she wanted to get everybody some slippers and See's Nuts and Chews, "hang out and watch more of our work.""I just want to see more and more," she said, referencing the snippets of performances that are shown when nominees are read."This is a celebration, right? …It's also a proclamation and I'm proclaiming if you haven't seen Olive Kitteridge, you need to. "You can stream it, I don't know how," she said."The DVDs are out on February 9, give it to someone as a Valentine's Day present," she said before plugging the play she's doing in New York.
+
+McDormand beat out Ellen Burstyn for Flowers in the Attic, The Honourable Woman's Maggie Gyllenhaal, Julia Roberts for The Normal Heart and Cicely Tyson for her work in The Trip to Bountiful.Mark Ruffalo took home the award for Best Actor in a TV Movie or Miniseries for his work in The Normal Heart. He wasn't in attendance and Jared Leto and Lupita Nyong'o accepted the award on his behalf."It's a no show," Leto said. "Mark Ruffalo couldn't be here this evening, so Lupita and I are quite happy to take the award on his behalf, saw it in half and keep it forever. Thank you."
+/n

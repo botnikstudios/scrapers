@@ -1,0 +1,164 @@
+All About SJ Harris, Stuntwoman and Motorcycle Racer Killed On Deadpool 2 Set: 'She Was a Real-Life Superhero'
+/n
+
+It took Joi “SJ” Harris just four years to go from riding along overcrowded streets in Brooklyn, New York, to racing professionally as “the first African American Woman in U.S. history to achieve licensing as a motorcycle road-racer,” according to profiles of the late stuntwoman.
+Yet, her quick success in the sport was no surprise to her friends and peers, like Porsche Taylor, the editor of Black Girls Ride magazine, who wrote on Facebook after Harris’ shocking death in a stunt accident on the set of Deadpool 2 on Monday, “SJ was a real life superhero, and not just playing one on film.”
+Harris was killed while performing a motorcycle stunt on the Vancouver, Canada, film set. According to Deadline, the movie was Harris’ first as a stunt performer. The outlet also reported that she was not wearing a helmet during the scene because her character does not wear a helmet.
+Though Harris may have been new to movie stunt work, she was an experienced racer – a passion and career that she told Black Girls Ride magazine in the Jan. 2015 issue that she “never dreamt” of.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-5cbc11e42c477ebf8622093ba3e4285f-59a4ea1cc67a4');
+				var iframe = document.getElementById('wpcom-iframe-5cbc11e42c477ebf8622093ba3e4285f-59a4ea1cc67a4');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-5cbc11e42c477ebf8622093ba3e4285f-59a4ea1cc67a4'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+In her personal blog F.A.Q. section – which was last updated in July – Harris wrote that after attending bike week in Myrtle Beach, South Carolina, with some girlfriends, she was first inspired to ride. By 2009, Harris wrote, “I was Class M licensed and ready to fly.”
+With help from a teacher and track days at a New Jersey motorsports park, Harris said in her blog that she was a fully licensed racer by May 2013. The next year, she started competing with the American Motorcycle Association-sanctioned American Sportbike Racing Association/Championship Cup Series.
+Billing herself as the first female African American road-racer, Harris told Black Girls Ride back in 2015, “I am everything people never saw in this sport.”
+In her Monday Facebook post, Taylor wrote that Harris “was destined for greatness.”
+
+“She was brilliant and tenacious. Once she set her sights on a goal, she went after it with every fiber of her being,” said Taylor. “To know her was to love her… her laugh was infectious. She knew there was nothing she couldn’t do. We wanted to do all we could to uplift and support her, so the world would know her name.”
+Taylor – who also works with Harris’ Threader Racing organization – called her friend’s stunt role in Deadpool 2 “the opportunity of a lifetime.”
+“We were soooo excited about what was yet to come, when her life was cut short,” said Taylor, adding that “[SJ] raced alongside the men, often leading the pack and giving them a run for their money. Every time she crashed, my heart skipped a beat. But deep down, I knew this was who she was. Racing was where she found her joy.”
+“She died while living her dream out loud, and doing what she loved till the end,” Taylor wrote.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-77d20b20f9374747dfcd6fc5069151e7-59a4ea1cc6a70');
+				var iframe = document.getElementById('wpcom-iframe-77d20b20f9374747dfcd6fc5069151e7-59a4ea1cc6a70');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-77d20b20f9374747dfcd6fc5069151e7-59a4ea1cc6a70'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Harris was candid about crashing during races on her blog, writing that she wasn’t “quite scared” of accidents but noted “it crosses my mind at times.”
+“A racer can’t let it stop us,” she said, adding, “In short when it comes to crashing, I’ve learned to accept that I am not the greatest rider that exists and that there is always something to learn when on track and pushing limits. Sometimes I’m going to eat it if I’m impatient. Everything takes time. Face your fears you never know what you can missing out on.”
+The Vancouver Sun reported that Harris’ accident occurred just after 8 a.m. on Monday. Witnesses told the outlet that the stuntwoman lost control of her bike during a stunt, jumped a curb and crashed through a plate-glass window at Shaw Tower. She was reportedly treated by ambulance personnel but police said she died at the scene.
+/n

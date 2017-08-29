@@ -1,0 +1,43 @@
+Evangeline Lilly Says "Men Stopped Talking to Me" Once She Became Famous (Say What?!) Evangeline Lilly is a beautiful, smart and talented woman, so she must be used to having guys come at her left and right...right? Apparently, no. (Yeah, we're shock.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/500839/evangeline-lilly-says-men-stopped-talking-to-me-once-she-became-famous-say-what');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131112/rs_293x473-131212101803-634.Evangeline-Lily-Hobbit-Premiere.jl.121213_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evangeline Lilly");
+	var imageCaption = encodeURIComponent("Evangeline Lilly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Evangeline Lilly is a beautiful, smart and talented woman, so she must be used to having guys come at her left and right...right? Apparently, no. (Yeah, we're shocked, too!).The Lost star surprisingly revealed that once her fame skyrocketed, the number of men that would approach her plummeted.Lilly, who is featured in DuJour magazine‘s January 2014 issue (on newsstands now), told the magazine, "Once I became a public figure, that ended. Men stopped talking to me. Because they think, ‘Why would she want to date me?' But the irony of it is, that's exactly why you'd want to date them—everyone needs something to ground them in their life, and often for public figures, that's their partner."Luckily, there is one guy who didn't let her star status intimidate him, and that's Norman Kali, Lilly's longtime boyfriend and father to her young son Kahekili.
+
+Before landing her job on Lost, the actress candidly shared that her life was, well, not nearly as luxurious as it is now."When I got the job on Lost, I was a broke university student living in the crappiest part of town, with a duct-taped back window on a broken-down car. I existed on peanut butter and tea," she told the mag. "When somebody said, ‘I will pay you a lot of money to come and do this,' it was worth it to make the sacrifice for a certain amount of time in order to have the flexibility that comes from having more financial freedom."The celeb's career continued to move upward, and recently starred in The Hobbit: The Desolation of Smaug, playing the Silvan Elf, Tauriel, in director Peter Jackson's second installment in his big-screen trilogy adaptation of J.R.R. Tolkien's famed novel."It feels surprising and overwhelming and exciting," Lilly told E! News from the red carpet about getting the call to join the production. "I was a massive Tolkien fan. The Hobbit was…my favorite book as a little girl and the Silvan Elves were my favorite characters in the book. I had fantasized about being a Silvan Elf when I was a little girl so this is a dream come true."
+/n

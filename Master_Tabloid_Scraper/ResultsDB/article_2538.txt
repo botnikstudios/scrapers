@@ -1,0 +1,46 @@
+Lena Dunham Cancels Lenny IRL Tour Due to Worsening of Endometriosis "My body, which I've worked through all kinds of pain for many years, just doesn't have what it takes to do this tour," Dunham wrote. "To be perfec.../n
+Lena Dunham has canceled her Lenny IRL tour to focus on her health.The Girls star and creator was supposed to headline discussions with fans at several cities starting at the end of the month. Dunham wrote on her Lenny Letter website Friday that while her "traveling variety show" has been a "ray of sunshine" for her amid "these dark political days," her endometriosis has worsened and her body cannot bear the stress of touring.The actress had said in April she had undergone her fifth procedure to treat the disorder, a female reproductive disease in which abnormal tissue grows outside the uterus, which can cause infertility. Earlier this month, she left the 2017 Met Ball early and was hospitalized for complications from her most recent surgery. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/854674/lena-dunham-cancels-lenny-irl-tour-due-to-worsening-of-endometriosis');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_634x1024-170501165643-634-met-gala-2017-arrivals-lena-dunham.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lena Dunham, 2017 Met Gala Arrivals");
+	var imageCaption = encodeURIComponent("Lena Dunham, 2017 Met Gala Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Neilson Barnard/Getty Images
+
+"My body, which I've worked through all kinds of pain for many years, just doesn't have what it takes to do this tour," Dunham wrote. "To be perfectly honest, I'm in the greatest amount of physical pain that I have ever experienced. After being told I was endometriosis-free after my last procedure, more disease was found in deeper spots that required immediate surgery and now physical therapy.""This disease is wily and unrelenting, and I'm really blessed to have a community, both online and IRL, who let me express how hard that is," she continued. "Inspired by you, I'm gonna say 'Eff you' to embarrassment and walk the walk of a woman who really takes care of herself. My goals have to be simplified for this moment: to write and to heal.Dunham said people who purchased tickets will be refunded."We hope to be back when my uterus has taken a chill pill. (But not my spiritual uterus. She'll never chill. She's incapable of chill.)," she added.
+
+Dunham had last year canceled press appearances to promote Girls after suffering a "rough patch" of endometriosis. She later underwent surgery for a ruptured ovarian cyst. The formation of such cysts is a common complication of the disease.
+/n

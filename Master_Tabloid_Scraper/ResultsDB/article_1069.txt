@@ -1,0 +1,58 @@
+Billie Lourd Recalls the Last Time She Saw Carrie Fisher—and Explains Why She's Keeping Her Mom's House "I was bummed that I didn't have any—even just to be a witness. Sometimes when crazy things were happening, I wanted .../n
+Now that some time has passed, Billie Lourd has given her first interview since the deaths of Carrie Fisher and Debbie Reynolds. Speaking to co-star and longtime friend Sarah Paulson for Town & Country's September issue, the 25-year-old American Horror Story: Cult actress looks back fondly at her somewhat unusual upbringing as part of a famously quirky Hollywood family.As a child, Billie says, "I had hilarious balance."When she lived with her father, CAA managing director Bryan Lourd, Billie was given routine and structure: "He gets home at the same time every day, and we eat dinner together, we do homework together, we watch Extreme Makeover: Home Edition and cry, and then go to sleep." But Carrie Did things differently. "At Mom's it was like, 'Let's put Christmas lights in the palm trees at 2 a.m.' Do you remember when Sharper Image was 24 hours? We went there all the time, 1 a.m. or 3 a.m., just picking up little trinkets," she says, "as if that was what you do!"The only thing Billie wanted as a little girl was to have a sibling or two.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870545/billie-lourd-recalls-the-last-time-she-saw-carrie-fisher-and-explains-why-she-s-keeping-her-mom-s-house');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201771/rs_634x777-170801073259-634.billie-lourd-2.8117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Billie Lourd, Town and Country");
+	var imageCaption = encodeURIComponent("Billie Lourd, Town and Country");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Victor Demarchelier/Town & Country
+
+"I was bummed that I didn't have any—even just to be a witness. Sometimes when crazy things were happening, I wanted to ask, 'Is this just me?' My mom tried to adopt a kid. You know when you ask for a puppy? I asked for a sister. One year I was like, 'Hey, Mom, I want a sister.' We tried to adopt—like, we did a whole thing, and, no, the home study was not strong," the Scream Queens star says. "But now I have a little sister. My dad got married a year ago and I have a 9-year-old little sister who's absolutely awesome. She's kind of like my daughter, too."Neither Carrie nor Debbie wanted Billie to become an actress. "I think in a normal family they would have looked at me and been like, 'Hey, this kid's a performer.' But I was so scared. I was embarrassed, honestly. Because they were like, 'This is going to be a really s--tty lifestyle, and everyone's going to be scrutinizing you deeply and constantly.' My mom wrote five books and a one-woman show; they didn't want more things for people to be able to Google about me," she says. It wasn't always easy being part of her mother's act, either. "I had a hard time with it in the beginning. I was very protective of my dad and would stop her and be like, 'Can you take out that thing where you say, 'I turned him gay.' Can we not have that on Broadway?'" Carrie would always take Billie's feelings into account, as she had been part of Debbie's act for years."She went through it with Debbie and knew how hard it was. Now, looking back and watching her interviews, I try to model what I do after her. She was so good at it. She would get so annoyed with me if I ever did a fake interview," Billie explains. "She'd say, 'Tell the real story.'"
+
+
+
+Victor Demarchelier/Town & Country
+
+Billie got her first movie credit in 2015 with Star Wars: The Force Awakens. "My mom actually pointed me toward [acting]...J.J. Abrams called and said they couldn't find anybody for this one part and would I come in and read for it. I didn't get the part, but I got another extra part with three lines. The thing is, I was bizarrely comfortable on set. My mother would pull me aside and be like, 'It's weird that you're so comfortable here," Billie tells Town & Country. "This is the most uncomfortable environment in the world. If you're comfortable here, you should do this.'"With a single credit to her name, Billie's family rallied behind her as she tried out for new roles. And she loved that her family shared show business secrets. "Debbie was still encouraging me to put an act together. Literally three days before she died, she was like, 'What numbers are you going to put in your act? Who are you going to impersonate?' I said, 'I don't think people do acts as much anymore,'" the actress says. "And she came back, 'That's why if you do one you'll be more successful than anyone else. The act is a dying art, and someone needs to revive it.'"Though Debbie was one of the most beloved actresses of her generation, to Billie, she was just like any other grandma—one she affectionately called Abadaba. "We watched Turner Classic Movies. We all would sit together in bed; their place was the bed. And my grandma was really into E! and Access Hollywood. It was so bizarre. She knew all the gossip about everything," she recalls. "And she loved bowling, so we would do that—until it got scary being in the car with her. She would say, 'I've been driving for 60 years,' and I was like, 'I think that's the problem.'"
+
+
+
+Victor Demarchelier/Town & Country
+
+The dual deaths in her family hit Billie hard—but humor got her through it. "If life's not funny, then it's just true—and that would be unacceptable," she says, quoting her mom. "Even when she died, that was what got me through that whole thing. When Debbie died the next day, I could just picture her saying, 'Well, she's upstaging me once again, of course—she had to.'"With her mother and grandmother gone, Billie hopes to establish her own identity in Hollywood—all while honoring their legacies. "I've always kind of lived in their shadows, and now is the first time in my life when I get to own my life and stand on my own," she says." I love being my mother's daughter, and it's something I always will be, but now I get to be just Billie."Billie—who inherited much of her family's estate—has decided to keep her mother's famous compound. "I went back and forth on it, but it's so magical. It's such a special place," she tells the magazine. "And I'm having a couple of friends move in with me, like an old-style commune."There is "a lot of pressure" to keep Carrie's legacy alive. "Now I have to uphold that and make it evolve in my own way. And a lot of people have had experiences like mine, too. Tons of people grow up with mentally ill parents who have drug problems. I read this incredible book, Adult Children of Alcoholics—it's not a great narrative, but it's a fun psych book...It's such a common thing, and people really don't talk about it. She talked about being mentally ill and having issues with drugs, " she says. "A lot of people don't talk about what it was like growing up with that."
+
+"The last time I saw her in person, this episode of Scream Queens was on, and it was a big episode for me. I had tons of scenes, and I was so hard on myself about it—I hated how I looked, hated my performance. I was really frustrated. She told me, 'Come over right now. I want to watch this with you.' And she made me sit down and watch it, and she forced me to see the good parts. She was incredible like that," the actress remembers. "But she was really hard on me, saying, 'Shut up. You're great in this. Have faith in yourself. Be more confident.'"Carrie taught Billie a lot, through her failures and her success. Unlike her mom, she's not sure being so public is for her. "It's good to a certain extent. It's good to be authentic, to help other people, but if it's not helping other people, then don't do it. There were a couple incidents I wish she could have kept to herself," Billie says. "But, you know, that was the beauty of her."Town & Country's September issue is on newsstands Aug. 8.
+/n

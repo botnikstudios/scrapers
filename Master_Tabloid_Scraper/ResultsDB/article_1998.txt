@@ -1,0 +1,88 @@
+Billboard Celebrates Women In Music With Luncheon!/n
+Billboard celebrated women in music with luncheon!
+
+					var next_post_url = "http://radaronline.com/photos/nicky-hilton-at-henri-bendel-for-her-book-signing-in-new-york-2/";
+					var prev_post_url = "http://radaronline.com/photos/jeremy-piven-and-paula-patton-attend-the-moet-chandon-toast-at-the-72nd-annual-golden-globe-awards-nominations/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2014-12-12T11:48:58+00:00","caption":"Taylor Swift attends&nbsp;Billboard Women in Music Luncheon-NY","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/taylor-swift-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:48:59+00:00","caption":"Meghan Trainor&nbsp;attends&nbsp;Billboard Women in Music Luncheon-NY","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/meghan-trainor-billboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:48:59+00:00","caption":"Beyonce attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/beyonce-bilboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:00+00:00","caption":"Jessie J attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/jessie-j-billboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:01+00:00","caption":"Idina Menzel attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/idina-menzel-bilboard-women-lucn.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:01+00:00","caption":"Haley Williams attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/haley-willaims-billboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:02+00:00","caption":"Matt Lauer and Savannah Guthrie attend Billboard Women in Music Luncheon-NY","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/gma-bilboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:03+00:00","caption":"Colbie Caillat attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/colbie-callat-billboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:04+00:00","caption":"Chrissy Teigen attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/chrissy-tiegen-billboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:04+00:00","caption":"Charlie XCX attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/charlie-xcx-bilboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:05+00:00","caption":"Ariana Grande attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/ariana-grande-bilboard-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-12T11:49:06+00:00","caption":"Aretha Franklin attends Billboard Women in Music Luncheon-NY","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/aretha-franklin-women-lunch.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Billboard Celebrates Women In Music With Luncheon!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 12 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 12taylor-swift-women-lunchTaylor Swift attends Billboard Women in Music Luncheon-NYPhoto credit: S2 of 12meghan-trainor-billboard-women-lunchMeghan Trainor attends Billboard Women in Music Luncheon-NYPhoto credit: S3 of 12beyonce-bilboard-women-lunchBeyonce attends Billboard Women in Music Luncheon-NYPhoto credit: S4 of 12jessie-j-billboard-women-lunchJessie J attends Billboard Women in Music Luncheon-NYPhoto credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 12idina-menzel-bilboard-women-lucnIdina Menzel attends Billboard Women in Music Luncheon-NYPhoto credit: S6 of 12haley-willaims-billboard-women-lunchHaley Williams attends Billboard Women in Music Luncheon-NYPhoto credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 12gma-bilboard-women-lunchMatt Lauer and Savannah Guthrie attend Billboard Women in Music Luncheon-NYPhoto credit: S8 of 12colbie-callat-billboard-women-lunchColbie Caillat attends Billboard Women in Music Luncheon-NYPhoto credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 12chrissy-tiegen-billboard-women-lunchChrissy Teigen attends Billboard Women in Music Luncheon-NYPhoto credit: S10 of 12charlie-xcx-bilboard-women-lunchCharlie XCX attends Billboard Women in Music Luncheon-NYPhoto credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 12ariana-grande-bilboard-women-lunchAriana Grande attends Billboard Women in Music Luncheon-NYPhoto credit: S12 of 12aretha-franklin-women-lunchAretha Franklin attends Billboard Women in Music Luncheon-NYPhoto credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+taylor-swift-women-lunchTaylor Swift attends Billboard Women in Music Luncheon-NYPhoto credit: Smeghan-trainor-billboard-women-lunchMeghan Trainor attends Billboard Women in Music Luncheon-NYPhoto credit: Sbeyonce-bilboard-women-lunchBeyonce attends Billboard Women in Music Luncheon-NYPhoto credit: Sjessie-j-billboard-women-lunchJessie J attends Billboard Women in Music Luncheon-NYPhoto credit: Sidina-menzel-bilboard-women-lucnIdina Menzel attends Billboard Women in Music Luncheon-NYPhoto credit: Shaley-willaims-billboard-women-lunchHaley Williams attends Billboard Women in Music Luncheon-NYPhoto credit: Sgma-bilboard-women-lunchMatt Lauer and Savannah Guthrie attend Billboard Women in Music Luncheon-NYPhoto credit: Scolbie-callat-billboard-women-lunchColbie Caillat attends Billboard Women in Music Luncheon-NYPhoto credit: Schrissy-tiegen-billboard-women-lunchChrissy Teigen attends Billboard Women in Music Luncheon-NYPhoto credit: Scharlie-xcx-bilboard-women-lunchCharlie XCX attends Billboard Women in Music Luncheon-NYPhoto credit: Sariana-grande-bilboard-women-lunchAriana Grande attends Billboard Women in Music Luncheon-NYPhoto credit: Saretha-franklin-women-lunchAretha Franklin attends Billboard Women in Music Luncheon-NYPhoto credit: S 
+
+
+
+
+
+
+
+
+
+/n

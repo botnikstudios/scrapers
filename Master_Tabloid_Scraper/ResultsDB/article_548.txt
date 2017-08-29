@@ -1,0 +1,46 @@
+Inside George and Amal Clooney's First Days With Newborn Twins Ella and Alexander Another family member jumping for joy over George and Amal becoming parents? Grandma Baria Alamuddin, of course! Amal's mother was photographed in Lo.../n
+Parenthood looks great on George Clooneyand Amal Clooney. As the A-list movie star and British barrister adjust to life with twins Ella and Alexander, a source tells E! News the family of four couldn't be more excited about their long-awaited reunion. "Everyone is healthy and very happy," the insider shares just one day after Amal gave birth to her first son and daughter with her husband of almost three years."George is on cloud nine and hasn't left Amal's side."And with their always supportive inner circle on hand to celebrate the babies' arrival, it's no wonder mom and dad have been showered with presents. Our source reveals, "They have received gifts from friends around the world and have a lot to bring home with them."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859694/inside-george-and-amal-clooney-s-first-days-with-newborn-twins-ella-and-alexander');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201757/rs_634x1024-170607101439-634.baria.cm.6717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Baria Alamuddin");
+	var imageCaption = encodeURIComponent("Baria Alamuddin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+W8 Media / Splash News
+
+Another family member jumping for joy over George and Amal becoming parents? Grandma Baria Alamuddin, of course! Amal's mother was photographed in London shopping for her grandkids just hours after arriving on Tuesday.Alamuddin—who was present for the twins' births—stopped into E-Side, a family store in London that caters to modern organic living. We're told she purchased two sleeper onesies, a gray one with a bear print on it and another mint-colored one with rabbit print, which are both made of organic cotton.She told French news agency AFP, "It was a beautiful delivery. Everything went well. The babies are beautiful and doing well."The Oscar winner's pops, Nick Clooney, also spoke to a local Cincinnati news outlet about Ella and Alexander, who he revealed share "dark hair" and "are gorgeous."
+
+"[George's mom] Nina swears they have George's nose," Nick, 83, shared in a phone interview. "Not both of them—one of them. The little boy looked like he had [George's] nose, his little profile.""This morning Amal and George welcomed Ella and Alexander Clooney into their lives," a rep told E! News in a statement announcing their birth. "Ella, Alexander and Amal are all healthy, happy and doing fine. George is sedated and should recover in a few days."Congratulations again! We can't wait to meet their bundle of joys.
+/n

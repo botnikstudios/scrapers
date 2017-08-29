@@ -1,0 +1,48 @@
+Julia Roberts Makes History as People's "Most Beautiful" Woman for a Fifth Time "People say, 'Oh, when Pretty Woman came out it must have really changed your life,' and it's kind of become this joke, but th.../n
+Julia Roberts is a timeless beauty.The 49-year-old actress has been named the Most Beautiful Woman in the World in People's May 1 issue, the magazine announced Wednesday. It marks Roberts' fifth time receiving the title. "I am very flattered," the Lancôme brand ambassador says of the honor. "It will become embarrassing. Right now, let's just keep it with flattering."Roberts was just 23 years old when she first appeared on the cover of the World's Most Beautiful issue in 1991. "Was I old enough to be voted into this level of popularity?" she jokes. At the time, she felt "adorable and naïve and so happy to be invited to the party."The actress also covered the issue in 2000, 2005 and 2010.Back in the day, Roberts admits she struggled with her self-confidence.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844463/julia-roberts-makes-history-as-people-s-most-beautiful-woman-for-a-fifth-time');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017319/rs_634x845-170419045658-634.julia-roberts-people-most-beautiful.41917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Julia Roberts, People");
+	var imageCaption = encodeURIComponent("Julia Roberts, People");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+People
+
+"People say, 'Oh, when Pretty Woman came out it must have really changed your life,' and it's kind of become this joke, but the truth is I was out of town when Pretty Woman came out," Roberts says. "I was in another movie in this tiny little town that was showing Star Wars in its first run. I remember reading...'Pretty Woman came out this weekend and made this much money' and I thought, 'Is that a lot of money? Is that good? Is that great?' I didn't really know."In the issue, Roberts opens up about her 14-year marriage to cinematographer Danny Moder, as well as her life with twins Hazel Moder and Phinnaeus Moder, 12, and son Henry Moder, 9.As she tells People, "I think I'm currently peaking."
+
+It's been 26 years since her first cover—so where does Roberts see herself in another 26 years? "Seventy-five," she laughs. "If I can just grow gracefully-ish old and watch my kids grow up and realize their dreams, and find their person in life, and hopefully have a family and little creatures for Danny and I to spoil, that's what the winter of life is supposed to be about."But is she ready to become a grandmother one day? "I guess! I mean, God!" she laughs. "That sounds really premature right now."How does Roberts feel about Botox, fillers and plastic surgery? "Do it if you need it...I think that we should all do what we want," she says. The Academy Award winner isn't afraid of aging, but admits, "We have to put up a little bit of a fight. But then too much of a fight causes a wrinkle."
+
+With her latest World's Most Beautiful cover, Roberts is now far ahead of her longtime friend and co-star George Clooney, who's been People's Sexiest Man Alive twice. The Smurfs: The Lost Village star teases, "I'm going to mention that in my Christmas card to the Clooneys this year."Other women featured in this year's issue (on newsstands Friday) include Viola Davis, Taraji P. Henson, Chrissy Metz, Mandy Moore, Emma Watson, Oprah Winfrey and Carrie Underwood.Previous cover girls include Michelle Pfeiffer (1990, 1999), Jodie Foster (1992), Cindy Crawford (1993), Meg Ryan (1994), Courteney Cox (1995), Catherine Zeta-Jones (2001), Nicole Kidman (2002), Halle Berry (2003), Jennifer Aniston (2004, 2016), Angelina Jolie (2006), Drew Barrymore (2007), Kate Hudson (2008), Christina Applegate (2009), Jennifer Lopez (2011), Beyoncé (2012), Gwyneth Paltrow (2013), Lupita Nyong'o (2014) and Sandra Bullock (2015).
+/n

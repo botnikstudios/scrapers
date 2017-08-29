@@ -1,0 +1,46 @@
+Eric & Jessie Is Back! Get the Scoop on Season 3 of Eric Decker and Jessie James Decker's Hit E! Show According to a press release, season 3 will follow Jessie "juggling her music career, her hosting duties and expanding her bu.../n
+Eric & Jessie is back!E! announced Tuesday morning that Eric Decker and Jessie James Decker's hit series is returning for a third season. The brand new season of Eric & Jessie, which premieres Wednesday, Sept. 6 at 10 p.m., will show how the famous family's lives have changed over the past few years since welcoming daughter Vivianne, 3, and son Eric Jr., 1."Eric and I are very excited to be back for a third season of our show," Jessie said in a statement today. "We are all about family, fun and sharing the love. I know our fans are going to enjoy watching this new chapter of our lives."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/eric_and_jessie/news/863380/eric-jessie-is-back-get-the-scoop-on-season-3-of-eric-decker-and-jessie-james-decker-s-hit-e-show');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201732/rs_634x1024-170402143507-634.Eric-Decker-Jessie-James-Decker-ACM-Awards-Las-Vegas.kg.040217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eric Decker, Jessie James Decker, 2017 ACM Awards, Arrivals");
+	var imageCaption = encodeURIComponent("Eric Decker, Jessie James Decker, 2017 ACM Awards, Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+According to a press release, season 3 will follow Jessie "juggling her music career, her hosting duties and expanding her businesses when Eric unexpectedly changes football teams and signs with the Tennessee Titans.""The Deckers discuss what the future holds as they embark on this new journey and focus on laying their roots in Nashville," reads the news. "On the heels of her recent wedding, Jessie's sister Sydney has even more exciting times ahead as she and her new husband prepare to welcome their first child together."Eric & Jessie: Game On first premiered in September of 2013 on E! and across its first two seasons covered two major milestones for Eric and Jessie, as audiences tuned in to watch the couple get married and welcome their first child together. While things are constantly changing for the Deckers their commitment to family, fun and one another always prevails."
+
+Watch Eric and Jessie adorable Instagram announcement above! Plus, tune in to E!'s Daily Pop tomorrow at noon to see Jessie talk more about the show's return!
+/n

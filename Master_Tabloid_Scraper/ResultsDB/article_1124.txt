@@ -1,0 +1,53 @@
+played Tweedledum, A Winnie-the-Pooh Christmas Tail, in which she played Eeyore and Rabbit, The Princess and the Pea, in which she played Old Queen Maude, and Cinderella, in which she played a wicked stepsister. See more pics of Emma Stone a.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/821825/emma-stone-was-adorable-as-a-teen-actress-in-youth-theater-shows');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017012/rs_634x1024-170112104753-634.7emma-stone-young-photos.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emma Stone, Young");
+	var imageCaption = encodeURIComponent("Emma Stone, Young");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Coleman-Rayner
+
+Before she was singing and dancing with Ryan Gosling and accepting major awards, Emma Stone was winning people's hearts as a teen actress in her native Arizona.She acted in Phoenix's Valley Youth Theatre between 2000 and 2003, going by her real name, Emily Stone.The actress, now 28 years old, starred in more than a dozen musicals and other shows, including The Wind in the Willows, in which she played Otter, Titanic, Joseph and the Amazing Technicolor Dreamcoat, The Wiz, Alice in Wonderland, in which she played Tweedledum, A Winnie-the-Pooh Christmas Tail, in which she played Eeyore and Rabbit, The Princess and the Pea, in which she played Old Queen Maude, and Cinderella, in which she played a wicked stepsister.See more pics of Emma Stone as a teen theater actress.
+
+Other famous Valley Youth Theatre alumni who acted with her include former American Idol winner Jordin Sparks and Disney Channel actress Chelsea Kane.Like her character in La La Land, which won her her first Golden Globe last Sunday, Stone's road to Hollywood was a rocky one.She wanted to pursue an acting career there when she was a teenager but her parents wanted her to get an agent first. An acting coach in Arizona used some old Hollywood connections to get her auditions with some. She landed an agent after performing a couple of monologues, including Alicia Silverstone's "Oh, my God, I love Josh" soliloquy from Clueless, according to Vanity Fair. 
+
+At age 15, Stone dropped out of high school and she and her mother moved to Los Angeles and signed a six-month apartment lease. The actress enrolled in online courses and worked part-time at a dog bakery."I did Superbad in what would've been my senior year," Stone told Vanity Fair. "I was playing a senior, and had I graduated I would've missed that opportunity, and had I missed that opportunity I wouldn't be here right now."The raunchy comedy film marked Stone's big break. She had made her onscreen acting debut two years earlier in a pilot for a VH1 reality show called The New Partridge Family. It was never picked up to series. Stone went on to star in episodes of The Suite Life of Zack and Cody and Malcolm in the Middle and the short-lived Fox series Drive before Superbad was released. 
+
+She also auditioned for the NBC series Heroes and did not nab a part, which she told Vanity Fair in 2011 marked her hardest Hollywood moment."I could hear that, in the other room, a girl had just gone in and they were saying, 'You are our pick On a scale of 1 to 10 you're an 11,'" Stone recalls, talking about Hayden Panettiere, who ended up with the role of Claire Bennet. "I went home and just had this meltdown."Over the next few years, she landed roles in The House Bunny, Zombieland and Easy A, which earned her her first Golden Globe nomination. She lost to Annette Bening for The Kids Are Alright.She starred with Gosling for the first time in the 2011 film Crazy, Stupid, Love. and appeared with him again in Gangster Squad in 2013.
+
+But one of her most famous roles, came in between—she played Gwen Stacy in The Amazing Spider-Man, alongside Andrew Garfield, who would later become her real-life boyfriend. The two dated for four years and reprised their roles in The Amazing Spider-Man 2 before breaking up in 2015. That year, Stone received her first Oscar nomination, for her role in Birdman (or The Unexpected Virtue of Ignorance).They recently ran into each other at the 2017 AFI Awards and he was seen giving her a standing ovation at the 2017 Golden Globes after she won her award for La La Land.
+
+Garfield, who was nominated for his role in Hacksaw Ridge, told Vanity Fair's Little Gold Men podcast recently the two "care about each other so much, and that's a given, that's kind of this unconditional thing.""There's so much love between us and so much respect," he said. "I'm her biggest fan as an artist. So for me, it's been bliss to be able to watch her success and watch her bloom into the actress that she is. And it's also been wonderful to have that kind of support for each other. It's nothing but a beautiful thing."
+/n

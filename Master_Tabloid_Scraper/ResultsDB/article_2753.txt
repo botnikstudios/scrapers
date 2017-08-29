@@ -1,0 +1,97 @@
+Maggie Rose’s Steamy, Sexy Single Is About Her Love Life – and Her Husband Is ‘Very Flattered’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-0c17b9d03dcaa7c2333471e381fca468-59a4ec7f82b2e');
+				var iframe = document.getElementById('wpcom-iframe-0c17b9d03dcaa7c2333471e381fca468-59a4ec7f82b2e');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-0c17b9d03dcaa7c2333471e381fca468-59a4ec7f82b2e'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Maggie Rose‘s new single, “Body on Fire” – and companion video debuting exclusively on PEOPLE – leaves no room for misinterpretation. It’s about sex. Steamy, smoking-hot sex.
+But is it autobiographical?
+The 29-year-old artist chuckles. “Absolutely.”
+Rose and her husband, Austin Marshall, who works in Nashville music management, were newlyweds when she and co-writer Chad Carlson set out to “write a song about completely giving yourself to another person,” she says.
+While the lyrics could be sung by a man, it’s hard not to think they’re written from a feminine perspective – a rarity these days in country music.
+Women “are the muse for a lot of these songs,” Rose says, but too often the lyrics stop at “we look great in short shorts.”
+Tonya Wise/AdMedia
+Her song, she says, is “about sex, but it’s about making love in a way that doesn’t objectify the two people that the song is about.”
+So what did her husband of a year think of it the first time he heard it?
+Rose laughs again.
+“I think he was sort of stunned,” she says, and “very flattered,” and “maybe a little embarrassed – in a good way.”
+She says she waited until she had a polished demo version to privately share it with Marshall in a room at their Nashville-area home that’s reserved for music listening.
+“It was almost like I was giving a presentation,” she says, setting the scene, but “maybe not a presentation that would be ‘safe for work.’”
+And yes, she confirms, “it was a romantic moment.”
+FROM PEN: Grammy News and Notes: Album of the Year Nominees
+
+The sensual video was shot in a broadcast space at Starstruck Entertainment, where Rose already had recorded several vocal tracks for her new independently released EP, Dreams > Dollars (aka “More Dreams Than Dollars”).
+She and her set designer assembled a blowup mattress, furniture from their homes and props from Goodwill to convert the room into what Rose describes as “kind of this nymph-like Bridge to Terabithia jungle room.”
+Courtesy Maggie Rose
+After a few cocktails, she and two actors, playing sexual partners, “just went to town” visually interpreting the song.
+Yes, there was discussion about whether she would act out the lyrics herself, “but something about the suggestion was more powerful to me than actually putting me in that literal position,” Rose says. Instead, she says, “I felt like a crazy person … just dancing around, but at a certain point, I was, like, let’s ‘Uma Thurman–Pulp Fiction’ this and go for it.”
+With the new EP now out, Rose is looking forward to another milestone: being among the 26 lucky acts who were handpicked by Faith Hill and Tim McGraw to open their Soul 2 Soul tour. She appears in Cleveland on Aug. 17 and in Philadelphia on Aug. 18.
+Learning she’d be on the tour, she says, was really beyond her wildest dreams. She says she’d set her sights a little lower: “I just wanted to go to their show in Nashville.”
+/n

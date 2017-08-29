@@ -1,0 +1,52 @@
+See Jennie Garth's Engagement Ring From Fiancé Dave Abrams! We're getting our first look at Jennie Garth's engagement ring! Days after getting engaged to her hunky fiancé Dave Abrams, the 43-year-old actress stepped out in L.A.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/644619/see-jennie-garth-s-engagement-ring-from-fiance-dave-abrams');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201539/rs_634x1024-150409084923-634-2jennie-garth-ring.ls.4915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennie Garth, Ring");
+	var imageCaption = encodeURIComponent("Jennie Garth, Ring");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Sam Sharma, PacificCoastNews
+
+We're getting our first look at Jennie Garth's engagement ring!Days after getting engaged to her hunky fiancé Dave Abrams, the 43-year-old actress stepped out in L.A. on Tuesday sporting some new bling on her ring finger. While it's a little fuzzy, Garth's engagement ring appears to be made of yellow gold with a thin band and big gemstone. Well done, Dave!In addition to her new jeweled bling, Garth went casual for her shopping trip in a gray tank and black sweater. The blond beauty also looked fresh-faced without any makeup on as she carried her phone and purse sans her hubby-to-be.
+
+
+
+
+Sam Sharma, PacificCoastNews
+
+Garth and Abrams' reps confirmed to E! News earlier today that they are engaged to be married. The exciting news comes a few days after Garth celebrated her 43rd birthday with Abrams and her three daughter Luca, 17, Lola, 12 and Fiona, 8, in Tulum, Mexico last week."Dave had been working on this for months, and really wanted to plan something special for her around her birthday and make it perfect," a source said of the proposal.
+
+Garth and Abrams started dating last fall but didn't go public until January.Meanwhile, Garth's former husband Peter Facinelli also recently got engaged. The Twilight star popped the question to fiancé Jaime Alexander last month in NYC.Facinelli and Garth split back in 2013.
+/n

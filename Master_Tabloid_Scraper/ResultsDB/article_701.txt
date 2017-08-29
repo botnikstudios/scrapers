@@ -1,0 +1,60 @@
+this book consistently shocked me." Due to the intensity of the first episode, fans wondered how the star prepared emotionally for her leading role as Cora Tannetti. 5. What life in her family is like. Though her marriage and motherhood.../n
+Redditors were in 7th Heaven when Jessica Biel answered their questions today.The actress took to Reddit for an AMA (ask me anything) to field questions about everything ranging from her new show The Sinner to her stance on aliens and everything in between. No matter what the prompt, Jessica had a thoughtful or funny response to everything she was asked.Whether it was about her career or her personal life, the A-Team star dished all the deets on her past and current projects and her famous relationship with husband Justin Timberlake—here are five of our favorite highlights from the tell-all AMA.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872554/5-things-we-learned-from-jessica-biel-s-candid-and-hilarious-reddit-ama');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201779/rs_815x1024-170809142144-634.Jessica-Biel-Reddit-AMA.kg.080917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jessica Biel");
+	var imageCaption = encodeURIComponent("Jessica Biel");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+1. She's not at all jealous of her husband's bromance with Jimmy Fallon.It's been known that Justin Timberlake and the Tonight Show host spend a lot of time together, so one can only wonder if their relationship infringes upon the actual romance between Jessica and the "Suit & Tie" singer. However when one fan asked, the actress assured that there was no bitterness at all."Oh no, I'm not jealous that every waking moment they can spend together they do," she wrote. "Oh no and I'm not jealous that every time Justin can go on the show he does. Oh no, I'm not jealous that they ride tandem bikes together. Oh no, I'm not jealous that they sing and rap together. Oh I'm not jealous they they go to camp together. OH NO, I'M NOT JEALOUS AT ALL!!!" Glad that's settled!
+
+2. How her new series The Sinner came to air.Jessica is currently starring in and executive producing the new USA Network drama, which premiered on Aug. 2. The series deals with themes of mental illness and follows a young mother who killed someone, but the reason is unbeknownst to her. It is based on Petra Hammesfahr's novel of the same name, which Jessica revealed she was a fan of. "Universal Cable Productions brought us the book and I loved the material and became a huge fan of it," she wrote. "I felt the story was surprising and compelling… which was very interesting because I feel like I've seen it all, read it all and this book consistently shocked me."Due to the intensity of the first episode, fans wondered how the star prepared emotionally for her leading role as Cora Tannetti.
+
+"Every character I play I try to find the connection point," she said. "Even if it's a villain or someone like Cora, there's a cornerstone of something I grab onto. So in this experience I connected with this very humanistic idea that we are all capable of violence and I can relate to that feeling of wanting to be aggressive in some way at different points of my life. I also connected to the part of Cora as a mother and a wife and how the two things are very contrasting, so I empathized and related to her at the same time as I was horrified and terrified of her."
+
+3. Who she would cast as her and Justin in a movie.One fan had an amazing question about the possibility of a Walk the Line-esque film about Justin's music career (we already wish this was real) and who Jessica would want to play her and her husband if such a movie was ever greenlit. The actress of course had the perfect answer immediately on hand, writing "Oh, that's a no-brainer!" and linking to Seth Rogen's tweet calling Jessica and Justin a "better looking version" of him and his wife. Well played, Biel.
+
+4. The funniest actors she's worked with.After starring in comedies like The A-Team, Valentine's Day and New Year's Eve, Jessica has worked her fair share of hilarious actors. But who's the funniest of the funny?"Adam [Sandler] and Kevin James and their whole crew are hilarious to work with," she said, referencing her work on I Now Pronounce You Chuck and Larry.  "Working with them is almost impossible because they're so clever and on their feet at all times and you're laughing and cracking up during every take. It's so much fun. They make comedy look easy, but it's not. It's way harder than anyone thinks."
+
+
+
+Frazer Harrison/Getty Images
+
+5. What life in her family is like.Though her marriage and motherhood is the subject of constant media attention, the Sinner star had a subdued answer to what a typical Saturday looks like for her and Justin and their son—unsurprisingly, it sounds pretty perfect."Up early, breakfast at home..." she said. "Maybe head to a park and play. Everybody naps at nap time. Maybe a play date in the afternoon. Then mommy and daddy go out on a hot date."
+
+However, the domestic life isn't always what she envisioned for herself. "I didn't grow up dreaming about having kids and having a family," Jessica revealed. "I was so focused on my career and so focused on my selfish existence, haha, but I think meeting my husband inspired me. One day I just woke up and knew it's what I wanted to do and it's been the hardest, greatest thing ever and I wouldn't give it up for the world." Aww!Most importantly, she had some extremely useful mom advice for a fan asking how she gets her child to eat vegetables."Hide 'em!" she wrote. "I hide vegetables in eggs, quiche, stews, soups, smoothies.... I hide vegetables everywhere I possibly can."The Sinner airs Wednesdays at 10 p.m. on USA Network.
+/n

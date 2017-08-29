@@ -1,0 +1,85 @@
+American Artist Ashley Olsen Found Dead In Florence/n
+
+					var next_post_url = "http://radaronline.com/photos/2015-golden-globe-awards-shocking-moments-pics/";
+					var prev_post_url = "http://radaronline.com/photos/rosie-huntington-whiteley-jason-statham-engaged-ring-golden-globes-red-carpet-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-01-11T09:06:47+00:00","caption":"An autopsy has been scheduled for Florida-born artist Ashley Olsen, who was strangled inside her Italian city apartment on Saturday. The mysterious crime has been dubbed the next potential \"Amanda Knox\" story.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:30+00:00","caption":"American artist Ashley Olsen was found dead in her Florence, Italy apartment on Saturday, officials confirm.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-007.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:32+00:00","caption":"The 35-year-old, who had been living there for two years, showed signs of strangulation.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-006.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:33+00:00","caption":"Olsen was discovered on her couch with bruises and scratches around her neck, Maddalena Carosi, a spokeswoman for the prosecutor's office in Florence, told NBC News.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-005.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:35+00:00","caption":"No signs of sexual assault were detected after a preliminary investigation, but further information will be revealed following the autopsy, scheduled for Monday.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-004.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:36+00:00","caption":"According to reports, Olsen moved from Florida after going through a difficult divorce. She also left the United States to be closer to her father, a teacher living in Italy. ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-003.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:38+00:00","caption":"The artist was known around the Florence neighborhood for regularly walking her dog, a beagle, Scout.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-002.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-01-11T07:46:39+00:00","caption":"Olsen's boyfriend first reported her missing and later discovered her body along with her landlord, after obtaining keys to the apartment.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/01\/ashley-olsen-american-artist-dead-florence-001.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+American Artist Ashley Olsen Found Dead In Florence
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11ashley-olsen-american-artist-dead-florence-ppAn autopsy has been scheduled for Florida-born artist Ashley Olsen, who was strangled inside her Italian city apartment on Saturday. The mysterious crime has been dubbed the next potential "Amanda Knox" story.Photo credit: Splash/Instagram/@ashleyannolsen2 of 11American woman Ashley Olsen has been found dead at her apartment in FlorenceAmerican artist Ashley Olsen was found dead in her Florence, Italy apartment on Saturday, officials confirm.Photo credit: Splash News3 of 11American woman Ashley Olsen has been found dead at her apartment in FlorenceThe 35-year-old, who had been living there for two years, showed signs of strangulation.Photo credit: Splash News4 of 11American woman Ashley Olsen has been found dead at her apartment in FlorenceOlsen was discovered on her couch with bruises and scratches around her neck, Maddalena Carosi, a spokeswoman for the prosecutor's office in Florence, told NBC News.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11Ashley Olsen, American woman long resident in Florence, was found dead, strangledNo signs of sexual assault were detected after a preliminary investigation, but further information will be revealed following the autopsy, scheduled for Monday.Photo credit: Splash News6 of 11Ashley Olsen, American woman long resident in Florence, was found dead, strangledAccording to reports, Olsen moved from Florida after going through a difficult divorce. She also left the United States to be closer to her father, a teacher living in Italy. Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Ashley Olsen, American woman long resident in Florence, was found dead, strangledThe artist was known around the Florence neighborhood for regularly walking her dog, a beagle, Scout.Photo credit: Splash News8 of 11Ashley Olsen, American woman long resident in Florence, was found dead, strangledOlsen's boyfriend first reported her missing and later discovered her body along with her landlord, after obtaining keys to the apartment.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11    #justmeandmydog #scoutthebeagle #piazzasantospirito #firenze #toscana #italia #oltrarno A post shared by Ashley Olsen (@ashleyannolsen) on Aug 21, 2014 at 11:52am PDT
+Though he was brought in for questioning, Olsen's boyfriend has not been named a suspect at this time.10 of 11    #chillin in #isoladelba #elba #bbq #scoutthebeagle #scallawag #islandlife #toscana #italia #tuscany #italy A post shared by Ashley Olsen (@ashleyannolsen) on Aug 9, 2015 at 6:04am PDT
+Those close to the art enthusiast say she was "wonderful" and "very dear" to all she know.  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11    #dogwalk in #firenze #scoutthebeagle #dogdays #beaglelover #ilovethisdamndog #oltrarno #toscana #italia A post shared by Ashley Olsen (@ashleyannolsen) on Dec 17, 2015 at 10:54am PST
+Story developing. 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+ashley-olsen-american-artist-dead-florence-ppAn autopsy has been scheduled for Florida-born artist Ashley Olsen, who was strangled inside her Italian city apartment on Saturday. The mysterious crime has been dubbed the next potential "Amanda Knox" story.American woman Ashley Olsen has been found dead at her apartment in FlorenceAmerican artist Ashley Olsen was found dead in her Florence, Italy apartment on Saturday, officials confirm.American woman Ashley Olsen has been found dead at her apartment in FlorenceThe 35-year-old, who had been living there for two years, showed signs of strangulation.American woman Ashley Olsen has been found dead at her apartment in FlorenceOlsen was discovered on her couch with bruises and scratches around her neck, Maddalena Carosi, a spokeswoman for the prosecutor's office in Florence, told NBC News.Ashley Olsen, American woman long resident in Florence, was found dead, strangledNo signs of sexual assault were detected after a preliminary investigation, but further information will be revealed following the autopsy, scheduled for Monday.Ashley Olsen, American woman long resident in Florence, was found dead, strangledAccording to reports, Olsen moved from Florida after going through a difficult divorce. She also left the United States to be closer to her father, a teacher living in Italy. Ashley Olsen, American woman long resident in Florence, was found dead, strangledThe artist was known around the Florence neighborhood for regularly walking her dog, a beagle, Scout.Ashley Olsen, American woman long resident in Florence, was found dead, strangledOlsen's boyfriend first reported her missing and later discovered her body along with her landlord, after obtaining keys to the apartment.Though he was brought in for questioning, Olsen's boyfriend has not been named a suspect at this time.Those close to the art enthusiast say she was "wonderful" and "very dear" to all she know. Story developing. 
+
+
+
+
+
+
+
+
+
+/n

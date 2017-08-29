@@ -1,0 +1,42 @@
+wearing a string bikini top, Julianne and Nina opted to go sans pants as they gazed out into the distance while on a boat ride.  "Four Full moons in Ida-hoe," the Vampire Diaries starlet captioned her version of the snapshot while .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/788739/julianne-hough-goes-pants-free-to-show-off-her-full-moon-with-nina-dobrev');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016719/rs_634x693-160819074153-634-Julianne-Hough-Instagram-Full-Moon-JR-081916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Julianne Hough, Instagram");
+	var imageCaption = encodeURIComponent("Julianne Hough, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Summer's not over until Julianne Hough and Nina Dobrev say so! The close friends are currently soaking up the sun in Idaho, and yesterday couldn't help but celebrate the evening's full moon with a cheeky moment of their own. Only wearing a string bikini top, Julianne and Nina opted to go sans pants as they gazed out into the distance while on a boat ride. "Four Full moons in Ida-hoe," the Vampire Diaries starlet captioned her version of the snapshot while the Dancing With the Stars pro wrote, "Full moons!"These two sure know how to throw caution to the wind and have a little fun! 
+/n

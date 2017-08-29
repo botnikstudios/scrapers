@@ -1,0 +1,44 @@
+Maggie Gyllenhaal Says She Was ''Too Old'' to Play a 55-Year-Old's Lover Maggie Gyllenhaal is only 37, yet somehow, she was recently turned down for a role in a film where she would need to play the lover of a 55-yea.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/658954/maggie-gyllenhaal-says-she-was-too-old-to-play-a-55-year-old-s-lover');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015124/rs_634x1024-150224104218-634.maggie-gyllenhaal-lfw-022415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maggie Gyllenhaal");
+	var imageCaption = encodeURIComponent("Maggie Gyllenhaal");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gareth Cattermole/Getty Images for Burberry
+
+Maggie Gyllenhaal is only 37, yet somehow, she was recently turned down for a role in a film where she would need to play the lover of a 55-year-old because Hollywood execs felt she was too old.During an interview with The Wrap, the recent Emmy-winning actress admitted that she was completely taken aback by the casting drama."There are things that are really disappointing about being an actress in Hollywood that surprise me all the time," she shared."I'm 37 and I was told recently I was too old to play the lover of a man who was 55.  It was astonishing to me. It made me feel bad, and then it made me feel angry, and then it made me laugh."
+
+The Honourable Woman star continued, "A lot of actresses are doing incredible work right now, playing real women, complicated women. I don't feel despairing at all. And I'm more looking with hope for something fascinating."Gyllenhaal also spoke about wanting more varied female roles in Hollywood in a chat with The Cut, saying, "I can't tell you some of the weird parts I've been offered to play, that I can't recognize as any human being I've ever come into contact with. People really like to see f--cked-up crazy women, and really perfect powerful women.She referenced Charlize Theron's starring role in Mad Max: Fury Road and praised the Oscar winner for taking on the gritty, action-packed film."It was astonishing," Gyllenhaal said of the Oscar winner's gritty performance.
+/n

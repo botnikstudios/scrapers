@@ -1,0 +1,64 @@
+followed with her appearance in the movie musical Hairspray, Life Support (for which she won her first Golden Globe Award), and most recently, HBO's Bessie.  Will Smithbroke out onto the scene first as half of DJ Jazzy Jeff & the Fr.../n
+Lady Gaga is coming to a movie theater near you. After years of collecting musical accolades, the 30-year-old songstress celebrated her first foray onto the small screen last year in American Horror Story: Hotel—a role that sent her home with a Golden Globe.Less than a year since her awestruck acceptance speech, Gaga has officially landed her first silver screen lead role in an upcoming reboot of the 1954 classic, A Star Is Born, directed by and also starring Oscar nominee Bradley Cooper. "Im elated to be directed by & starring w/ Bradley in this project. He's a brilliant visionary artist," she tweeted Tuesday upon announcement of the news. While Gaga has proven her acting chops on television, her expected success in film will solidify her as a true triple threat in Hollywood. Fortunately, she's in the most esteemed of company. While venturing into a new genre of work may be daunting, a handful of the industry's most prominent and celebrated stars began their careers not in front of a camera, but behind a microphone. 
+
+In arguably one of the most unexpected career turns in Hollywood history, former American Idol contestant Jennifer Hudson was an aspiring singer who landed the role of a lifetime when she was cast in Dreamgirls alongside Beyoncé and Jamie Foxx. The Hollywood unknown quickly made her mark on the industry when she won the Academy Award for Best Supporting Actress at the 2006 ceremony. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/788257/lady-gaga-lands-her-first-silver-screen-lead-a-history-of-hollywood-s-most-prominent-singers-turned-movie-stars');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016717/rs_634x1024-160817110649-634.dreamgirls-beyonce.cm.81716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dreamgirls, Beyonce Knowles");
+	var imageCaption = encodeURIComponent("Dreamgirls, Beyonce Knowles");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paramount Pictures
+
+Hudson's co-star Beyoncé had already made a name for herself in music years before as a member of Destiny's Child before going solo and celebrating even further meteoric success. In between hit records and countless Grammy Awards, the now 34-year-old star has appeared in films alongside Cuba Gooding Jr., Idris Elba, Adrien Brody and Mike Meyers. 
+
+Madonna was music's "Material Girl" long before she made a name for herself in the movies, including Who's That Girl and A League of Their Own.However, it was her highly praised portrayal of Eva Perón in the movie musical, Evita, that captivated audiences and landed her the first and only acting Golden Globe of her career—next to her seven Grammy statue 
+
+Cher has been entertaining audiences with her signature smoldering deep voice since the 1960s. After two decades, she made her initial silver screen breakthrough (and earned her first Osar nod) alongside Meryl Streep in Silkwood. Since the mid-1980s, she's amassed quite the film resumé, including roles in Mermaids, The Witches of Eastwick and most memorably, Moonstruck, which won her the 1988 Academy Award for Best Actress. Cher also has collected six Golden Globe Award nominations and three wins. 
+
+First he was n'sync with the music, then Justin Timberlake set his sights on the silver screen. After first appearing in the Disney TV movie, Model Behavior (a.k.a every teenage girl's dream come true) the "Can't Stop the Feeling" singer steadily began carving his way into movies with appearances in Black Snake Moan and The Social Network. He won audience's hearts with Friends With Benefits and continued to secure lead roles in Runner Runner and In Time. In time, we may be seeing this Grammy winner's name among the acting nominees. 
+
+
+
+Miramax Films
+
+Queen Latifah was known primarily as a rapper and hip hop artist before making her first attempts at movie stardom. She was ultimately a success, garnering an Oscar nomination for her turn as Matron "Mama" Morton in Chicago as well as stretching her comedic muscles in Bringing Down the House alongside legend Steve Martin.Standout performances followed with her appearance in the movie musical Hairspray, Life Support (for which she won her first Golden Globe Award), and most recently, HBO's Bessie. 
+
+Will Smithbroke out onto the scene first as half of DJ Jazzy Jeff & the Fresh Prince, but it wasn't long before he temporarily put down the mic to grow into one of the biggest blockbuster stars of his time. Between Bad Boys, the Men in Black franchise and Independence Day, Smith had secured his positioning as an action star. However, with emotionally charged performances in The Pursuit of Happyness and Concussion, the actor and rapper proved there is practically nothing he can't handle. 
+
+Jamie Foxx has famously lead the charts with his hit tracks, but he simultaneously become an in-demand actor with a growing list of film roles, lead by his Oscar-winning portrayal as Ray Charles in Ray. 
+
+As one of the most iconic singer-actors in Hollywood history, Barbra Streisand's career proves there really is no limit to success.Whether she was breaking hearts in Funny Girl or The Way We Were, embarrassing Gaylord Focker in Meet the Fockers, captivating live audiences from a Broadway stage or winning a Golden Globe for Best Director, this EGOT winner has redefined what it means to do it all—and do it all well.
+/n

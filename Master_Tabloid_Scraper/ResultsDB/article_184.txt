@@ -1,0 +1,52 @@
+Johnny Depp Reportedly in Talks for Alice in Wonderland Sequel Johnny Depp seems mighty mad about the Mad Hatter. The actor is reportedly looking to reprise his scene-stealing role as the bug-eyed, finger-in-a-socket-haired screwball in a se.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/439385/johnny-depp-in-talks-for-alice-in-wonderland-sequel-report');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090622/293.depp.aliceinwonderland.062209.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Johnny Depp, Alice in Wonderland");
+	var imageCaption = encodeURIComponent("Johnny Depp, Alice in Wonderland");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney
+
+Johnny Depp seems mighty mad about the Mad Hatter.The actor is reportedly looking to reprise his scene-stealing role as the bug-eyed, finger-in-a-socket-haired screwball in a sequel to the 2010 blockbuster Alice in Wonderland.Per Deadline, the 50-year-old Depp is in "final discussions" to revisit author Lewis Carroll's fantastical world. But in an interesting development, the first film's director, frequent Depp collaborator Tim Burton, is reportedly not returning to helm this follow-up.Instead, The Muppets filmmaker James Bobin is supposedly circling the job.
+
+Alice in Wonderland was an astounding box-office hit, raking in $116 million on opening weekend on its way to an eventual $1 billion worldwide haul. It currently ranks No. 14 among the top-grossing films of all time.In the past, Depp hasn't been averse to sequels: He's reprised his role as Jack Sparrow in the lucrative Pirates of the Caribbean franchise three times, following the first film's $650 million global gross.News surrounding Depp's possible return to Wonderland comes at an interesting time: The actor is currently smarting from an uncharacteristic big-screen bomb after The Lone Ranger failed to ignite the box office and was savaged by critics.
+
+That film opened to a disappointing $29 million—a paltry sum considering that the movie needed to do bigger business in order to recoup its reported $215 million budget.
+
+Revisiting a tried-and-true commodity like Alice in Wonderland could be seen as a canny move by Depp to remind audiences of his box-office appeal in a film that's both familiar and well-liked.
+
+But before he can even don the Mad Hatter's crimson wig for a second go-round—should he officially board the sequel—Depp will uncork yet another gonzo character: He's set to play the big bad Wolf in the upcoming big-screen version of Stephen Sondheim's Tony-winning musical Into the Woods.
+
+The film—which also stars Meryl Streep, Jake Gyllenhaal and Chris Pine—will reunite the actor with his Pirates of the Caribbean: On Stranger Tides director Rob Marshall.It will also allow Depp to once again bust out his impressive vocal chops—a handy talent that served him in good stead in 2007's Sweeney Todd, which scored Depp an Oscar nomination for Best Actor."I'm so excited to play the big bad Wolf," Depp told E! News recently. "That kind of thing is sort of a dream come true."Expect Depp to howl into theaters when Into the Woods hits screens in Christmas 2014.
+/n

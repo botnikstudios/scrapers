@@ -1,0 +1,56 @@
+Brady Bunch Star Florence Henderson Dead at 82 Florence Henderson may have felt like a mother at some point to everyone with a television over the past 40 years. The Brady Bunch star who became the epitome of the sitcom mom playing Carol Bra.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/811828/brady-bunch-star-florence-henderson-dead-at-82');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161024/rs_634x1024-161124221149-634.Florence-Henderson-Obit.kg.112416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Florence Henderson");
+	var imageCaption = encodeURIComponent("Florence Henderson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alison Buck/Getty Images
+
+Florence Henderson may have felt like a mother at some point to everyone with a television over the past 40 years.The Brady Bunch star who became the epitome of the sitcom mom playing Carol Brady from 1969 until 1974, and in multiple specials after that, died Thursday at a Los Angeles hospital of heart failure. She was 82.Henderson was surrounded by family and friends when she passed, her manager, Kayla Pressman, told the Los Angeles Times. Pressman also told reporters that the actress had not been ill, so her death came as a shock.
+
+Her icon status cemented forever by The Brady Bunch, Henderson was a frequent fixture on TV long after the classic series ended, at one point hosting her own talk show and, most recently in 2013, Who's Cooking With Florence Henderson.She competed on the 11th season of Dancing With the Stars in 2010 and appeared on the show several times this season—as well as on part one of this season's finale just on Monday—to support contestant Maureen McCormick, who played the quintessential TV daughter Marcia Brady."Florence Henderson was a dear friend for so very many years & in my #RIPFlorence," McCormick tweeted Thursday night.Though in hindsight the role of the perennially perky and patient Mrs. Brady turned out to be the role of a lifetime, Henderson reminisced last year in an interview with NPR about not initially wanting to take the job.
+
+"Well, it was 1969, and I thought, wow. You know, I really didn't want to do a TV series. You know, I had my own act, and I was performing in Vegas and doing all of these exciting things," she recalled. "And my manager said, well, just go down and meet them. I thought it was great, and it was fun. But I thought, well, I guess it didn't sell. And then, I get the lead in the movie Song Of Norway. And I'm over in Norway filming, and I get a message that The Brady Bunch sold. And so they started the show without me. They did six episodes without me. And then I filled in when I got back to the states."
+
+Indeed, Joyce Bulifant, later of the The Mary Tyler Moore Show, was the first Mrs. Brady.And while Song of Norway came and went, The Brady Bunch and its many Carolisms are forever. 
+
+"I remember the first day of rehearsal, we did a script read through at the Lucy rehearsal hall at Paramount Studios. Of course it was like, 'Here's your new family.' I remember so clearly meeting Florence," Susan Olsen, who played youngest Brady kid Cindy, recalled during a cast reunion in 2014 on The Talk in honor of Henderson's 80th birthday."I thought she was so beautiful and that she had eyes like a doe."
+
+And Olsen wasn't the only one who found Henderson rather fetching. The age-old rumor of a "mother-son" date between Henderson and Barry Williams, who played Greg, the oldest of the six Brady kids, was absolutely true."It was the most innocent, sweetest date," she said on NPR about her one night out with the teenage Williams when she was about 35. "And he couldn't even drive without a licensed driver.""OK, so here's the lowdown on this," Williams dished on Oprah: Where Are They Now in 2013. "I had a crush on Florence Henderson. Like, who didn't? And she was twice my age."He continued, "So I took her out to dinner and we talked music and how I might be able to integrate it into my career...I picked her up in my own car and I took her home, and when we said goodnight, I gave her a little kiss. Maybe a little peck—well, I kissed her lips. Which was, like, big stuff for me." 
+
+The musically minded actress, whose first major stage role was in a traveling production of Oklahoma! before she made her Broadway debut in Wish You Were Here, would show up as Carol Brady, or a congenially self-aware spoof of the character, even on other shows such as The Love Boat and Day by Day.She also reprised her role after the original sitcom had run its course in The Brady Bunch Variety Hour, The Brady Girls Get Married, The Brady Brides, A Very Brady Christmas and the short-lived The Bradys, which saw her reunite with TV husband Robert Reed one last time before his death in 1992. Henderson also had a cameo as "Grandma" in the 1995 big-screen homage The Brady Bunch.
+
+The star of stage and screen appeared on dozens of TV shows over the course of her career, including Murder, She Wrote, The Love Boat (as characters other than "Carol Brady"), Fantasy Island, Out of This World, Roseanne, Ally McBeal and 30 Rock.Henderson had four children with her first husband, Ira Bernstein. She was then married to Dr. John George Kappas from 1987 until his death in 2002.
+/n

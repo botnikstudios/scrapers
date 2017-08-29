@@ -1,0 +1,48 @@
+Victoria's Secret Model Josephine Skriver Talks About Being an "IVF Kid," Growing Up With Gay Dad and Mom Josephine Skriver's life has always been unconventional and not just because she's a Victoria's Secret su.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/658985/victoria-s-secret-model-josephine-skriver-talks-about-being-an-ivf-kid-growing-up-with-gay-dad-and-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015421/rs_634x1024-150521111741-634-Josephine-Skriver-victoria-secret.ls.52115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Josephine Skriver");
+	var imageCaption = encodeURIComponent("Josephine Skriver");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tristan Fewings/Getty Images for Swarovski
+
+Josephine Skriver's life has always been unconventional and not just because she's a Victoria's Secret supermodel.The 22-year-old native of Denmark, who has also walked runways for top fashion brands such as Dolce & Gabbana, Prada and Gucci, was conceived via in vitro fertilization (IVF) and both of her parents are gay. And of the opposite sex. Who were strangers."When people look at me and know that I'm an IVF kid, I hope to see a person, I hope they see a human being just like anyone else," Josephine told i-D magazine in an interview published this week. "You get so many, like, 'She's not made the natural way, she shouldn't even be here.' But I'm not a science experiment. I'm not synthetic. I am a real human being. I am just as real as you are."IVF and artificial insemination are often the only ways for a woman to get pregnant. Infertility afftects about 12 percent of women of childbearing age and more than seven percent of men, according to the CDC. In March, Dolce & Gabbana founders Domenico Dolce and Stefano Gabbana drew controversy when they criticized such methods of conception, with the latter calling babies born as a result of them "synthetic," as well as same-sex parenting.
+
+"I had a mom, who back in the day was gay," she said. "From the moment she was a kid, from the moment she knew about kids, she wanted to be a mom. So in Denmark, in '92, there was this newsletter for the whole LGBTQ community and my mom just put an ad in there and was like, 'I want to bring a kid into this world. Does anyone want to be part of that?' She got a few replies and the first one actually turned out to be my dad!"Josephine said that at the time, the man who would become her father was about to marry his now-husband.
+
+"I didn't like the term 'Stepmom' or 'Stepdad' because it always felt like something bad from the Disney movies," she told i-D. "So we came up with our own word and called it 'Bonus Mom'...I grew up with a mom and a dad and a bonus set of parents."Josephine also has a younger brother, Oliver Skriver. She told the magazine that the whole family gets together for birthdays and big holidays. 
+
+Josephine said that when she was a kid, she didn't consider her upbringing to be "that different" and that her parents were "super open about it." It wasn't until she began working overseas as a model that she really became to experience intolerance. She also said she has received mean comments on social media."You get so many, like, 'That's disgusting,' 'That's gross,' 'I feel bad for you,' 'Oh my God, I can't even believe it," Josephine said. "It comes from a place I don't understand."The model was recently made a celebrity ambassador for the Family Equality Council and it's Outspoken Generation Program, which aims to raise awareness about LGBTQ families."I just hope that one day the concept of 'family' will mean a lot more than the traditional straight couple, with two kids and a house with a white picket fence," she told i-D. "For me, family is a group of people bound by love! Love is what makes a family!"
+/n

@@ -1,0 +1,46 @@
+Frances Bean Cobain Secretly Marries Boyfriend Isaiah Silva Without Telling Mom Courtney Love Frances Bean Cobain just pulled a fast one on us. On all of us. Courtney Love and Kurt Cobain's daughter went under the radar and married her .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/700292/frances-bean-cobain-secretly-marries-boyfriend-isaiah-silva-without-telling-mom-courtney-love');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015825/rs_634x1024-150925163859-634.Frances-Bean-Cobain-Isaiah-Silva-Coachella.ms.092515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frances Bean Cobain, Isaiah Silva");
+	var imageCaption = encodeURIComponent("Frances Bean Cobain, Isaiah Silva");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PacificCoastNews
+
+Frances Bean Cobain just pulled a fast one on us. On all of us.Courtney Love and Kurt Cobain's daughter went under the radar and married her boyfriend of five years Isaiah Silva in a small and intimate ceremony recently, E! News confirms, and even her famous rocker mom had no idea it was happening."Courtney loves Isaiah, but was devastated to learn that Frances had gotten married without her knowing," a source tells us, adding that, "Courtney really likes Isaiah and is very happy for Frances. Courtney is sad she wasn't at the wedding."The insider continues, "Frances called her after but understands why she did it. Frances needs a man in her life and has always craved stability. She's found it in Isaiah," and reassures that, "This has not caused a rift between mom and daughter. Courtney was sad, but she's cool and Isaiah is a great son-in-law."A source tells E! News Frances had been planning her wedding for over a year. The ceremony included 13-15 guests, and the insider explains that the young star's inspiration for the theme of the wedding was daisies in mason jars.
+
+Although Frances Bean and her mother have had a tumultuous relationship in the past, the Hole frontwoman and her daughter exchanged kind words on social media recently.In honor of Frances' 23rd birthday, the 51-year-old rocker posted two family photos of the late Cobain on Instagram, alongside tear-jerking captions. "My greatest love and our precious Bean #missyou #memories," she wrote of the throwback pic in which she and Kurt are lying in bed with their baby girl."Makes me feel so sad. Our baby is all grown up now. Jesus Kurt look at her face, what on earth were you thinking..?!?!" she wrote of another similar shot, adding, "God I miss you, we all miss you."The birthday wishes also went to Twitter with Love writing, "Happy birthday my sweetest baby girl, I'm so proud of you @alka_seltzer666," to which her daughter replied, "Thanks for letting me utilize your human form to act as my alien incubation pod for 9 months. Love you mum XX." 
+
+Take a look at other stars who were gone too soon.
+/n

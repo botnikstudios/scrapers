@@ -1,0 +1,44 @@
+for you, but anyway—are bona fide narcissists. How might that fit in with these allegations about where Tiger Woods has been—ahem—caddying his Big Bertha? Well.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/156016/why-do-famous-guys-even-bother-getting-married');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20091130/293.woods.tiger.lr.113009.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tiger Woods");
+	var imageCaption = encodeURIComponent("Tiger Woods");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Allen Eyestone/Palm Beach Post/ZUMA Press
+
+Why do successful men like Tiger Woods even bother getting married—if they're just going to continue tomcatting around anyway? Why not just stay bachelors and avoid the angry-wife penalty? —Sweet Fabulous Girl, via the Answer B!tch inboxRight about now would be the perfect time to remind my loyal B!tchlettes that stars really, really aren't like us.They have more toadies than us. They very often have larger, squarer, whiter teeth than us. And many of them—and this is science, now, not just me talking, which should be enough for you, but anyway—are bona fide narcissists.How might that fit in with these allegations about where Tiger Woods has been—ahem—caddying his Big Bertha? Well...
+
+I'm not saying that Tiger Woods is necessarily a narcissist. Nor am I making that specific allegation about other supposed famous cheaters, such as Kobe Bryant or Jon Gosselin or Denzel Washington (who told Barbara Walters in a 1993 interview that he had been unfaithful to wife Pauletta).But these people are not exactly known for their monastic and shrinking personalities, and according to psychologists, it's much more likely for a star to display narcissistic tendencies than a civilian, either before reaching fame or after.Narcissists tend to do what feels good to them moment by moment. Their needs come before all others at all times. They think more highly of themselves than the average person, and with that comes the idea that rules—moral guidelines, legal statutes—do not apply to them.According to a survey released by Dr. Drew Pinsky, there are many more narcissists in the celebrity world than in our own—especially when it comes to reality stars and actors. And narcissists expect that people will throw themselves at them and that they deserve to enjoy all that."Narcissists really don't care that much what the other person in a relationship feels," says Cooper Lawrence, a psychologist who counsels celebrities. "Everything they do is in service to their own needs."How does marriage fit into a narcissist's plans, then?Getting married is fun, fool!You get to dress up, and people look at you—all day long! For a narcissist, it may feel good to marry someone, and then it can also feel pretty good several moments later to have sex with someone outside the marriage, and we've already determined that narcissists tend to live moment to moment. Also, Lawrence says, "They may marry because they're in a profession where it makes them look better. Or maybe they want kids and don't believe in having kids out of wedlock. At least there's always someone there who can service your needs. Put it this way, why not get married?"To be fair, some celebrity cheaters may stray not because they think too highly of themselves, but rather the opposite, Lawrence says. They may have low self-esteem. In those cases, she says, the star is "more likely to cheat with a fan than someone at their level, while narcissists will cheat with someone at their level—someone hot."I'll let you determine which celebrities may have cheated and for which reason.
+/n

@@ -1,0 +1,46 @@
+Hollywood Remembers All In the Family Star Jean Stapleton Actress Jean Stapleton, who was best known for playing Edith Bunker on All In the Family passed away Friday in New York City at the age of 90, and celebs are pouring out their love fo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/425283/hollywood-remembers-all-in-the-family-star-jean-stapleton');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201351/rs_293x473-130601170915-634.jean.ls.6113_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jean Stapleton");
+	var imageCaption = encodeURIComponent("Jean Stapleton");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeff Kravitz/Getty Images
+
+Actress Jean Stapleton, who was best known for playing Edith Bunker on All In the Family passed away Friday in New York City at the age of 90, and celebs are pouring out their love for the late star via Twitter. In a statement, Norman Lear, the producer of the iconic CBS sitcom expressed his love for Stapleton:"This will be short and sweet. Never as sweet as I'd wish it to be if I took a month to write it. I only just learned that Jean Stapleton, our beloved Edith—or Edith, our beloved Jean Stapleton—has passed."
+
+"Back in 1971," Lear continued, "possibly the first time I was asked by a journalist "What is Jean Stapleton like, my reflexive response was: 'She's always where she is.'  I was surprised by my answer, never had the thought before and never knew it resided within me. Can I reach deeply enough inside me now to express how much that, the idea and Jean Stapleton herself has meant to me?  "I was at my computer when her glorious children, John and Pam, phoned me, and I told them I was working on my memoir, and reflecting on the time I was father to my personal family on Mooncrest Drive while also fathering Archie and Edith and three other families on CBS. And I added—so, at 90, here still is Jean Stapleton, "always where she is," helping me to see my own frailties and humanity yet again. No one gave more profound "How to be a Human Being" lessons than Jean Stapleton. Goodbye Edith, darling."Costar Rob Reiner, who played son-in-law Michael "Meathead" Stivic also remembered Stapleton warmly: "Jean was a brilliant comedienne with exquisite timing.  Working with her was one of the greatest experiences of my life. My thoughts go out to her family."
+
+Others sharing their tributes include Bette Midler who offered: "Jean Stapleton, beloved as Edith in ALL IN THE FAMILY dies at 90. She was unforgettable in that role...rest in peace..."Larry King shared: "Jean Stapleton was a great actress and a wonderful lady. She WAS Edith Bunker."Whereas Jane Lynch dedicated: "Tonight I dedicate @ANNIEonBroadway to the great JEAN STAPLETON and her gorgeous memory. #jeanstapleton"Funnyman Seth MacFarlane also tweeted and offered his thanks: "RIP Jean Stapleton—one of the greatest actresses of all time. Thank you for everything, Edith."Dick Van Dyke shared: "R.I.P. Jean Stapleton, such a sweet lady!!" along with a video of him singing the show's theme song.Jean is survived by her two children, producer Pamela Putch and director John Putch and will surely be missed in Hollywood.
+/n

@@ -1,0 +1,46 @@
+Billie Lourd Pens Touching Acceptance Speech for Carrie Fisher’s Disney Legends Award The speech continued, "We went to Disneyland so much that I now realize she might have even loved it more than I did. Becoming part of the Disney fami.../n
+A piece of Carrie Fisher's legacy lives on with the help of a little Disney magic. The late actress, whose sudden death last December stunned the entertainment world, was honored posthumously at the D23 Expo in Anaheim, Calif. on Friday. She received the Disney Legends Award, the highest honor The Walt Disney Company can bestow on an individual. Fisher's daughter, 24-year-old actress Billie Lourd, penned an emotional acceptance letter on her behalf, which was read aloud by Disney chairman Bob Iger. The Parks and Cons blog shared a video from the convention online and can be seen below. "As far back as I can remember, my mom and I have been Disney fanatics," Lourd wrote. "I was so obsessed with Ariel that I wanted to change my name. We went to Disneyland so much that I now realize she might have even loved it more than I did."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867053/billie-lourd-pens-touching-acceptance-speech-for-carrie-fisher-s-disney-legends-award');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151115/rs_634x1024-151215080957-634.Carrie-Fisher-Billie-Lourd.jl.121515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carrie Fisher, Billie Lourd, Star Wars Premiere");
+	var imageCaption = encodeURIComponent("Carrie Fisher, Billie Lourd, Star Wars Premiere");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+The speech continued, "We went to Disneyland so much that I now realize she might have even loved it more than I did. Becoming part of the Disney family was truly an amazing moment for her. She secretly always wanted to be a Disney princess, so getting to be a Disney princess and a Disney legend would have been her ultimate dream.""I wish I could be there to accept this award on her behalf, but unfortunately, I am currently working on American Horror Story. I am beyond grateful to Mr. Iger and everyone at Disney for this incredible honor. Thank you again, and may the force be with you always."A video tribute featuring scenes from Carrie's many roles was also shown.Other recipients of the annual Disney Legends Award included animators Clyde "Gerry" Geronimi and Manuel Gonzales, Mark Hamill, Walt Disney Imagineer Wayne Jackson, comic book artist Jack Kirby, Stan Lee, Garry Marshall, filmmaker Julie Taymor and Oprah Winfrey. 
+
+Both Winfrey and Lee were present to accept their awards.
+/n

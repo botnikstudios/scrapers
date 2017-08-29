@@ -1,0 +1,44 @@
+Iron Chef's Cat Cora Files for Divorce From Wife After 17 Years Together   Iron Chef star Cat Cora has filed for divorce from her wife, Jennifer Cora, who she was with for 17 years. E! News can confirm Cat filed for divorce on Oct. 29 i.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/714157/iron-chef-s-cat-cora-files-for-divorce-from-wife-after-17-years-together');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015109/rs_634x1024-151109103408-634-cat-cora-jennifer-cora-110915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cat Cora, Jennifer Cora");
+	var imageCaption = encodeURIComponent("Cat Cora, Jennifer Cora");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Todd Williamson/WireImage
+
+ Iron Chef star Cat Cora has filed for divorce from her wife, Jennifer Cora, who she was with for 17 years.E! News can confirm Cat filed for divorce on Oct. 29 in Santa Barbara, Calif., and Jennifer filed the previous day, both listing the other one as the petitioner.It looks like it's going to be a bit of a battle for custody over their children. Cat has asked for joint physical custody, while Jennifer is requesting full physical custody.Jennifer is also seeking spousal support from Cat, who owns four restaurants and is one of the original American Iron Chef stars on the Food Network. She most recently made an appearance on Cutthroat Kitchen.
+
+The two were originally married in June 2013 and have four sons together—three of which were carried by Jen and one by Cat."It is with great sadness, that after 17 years, a tremendous amount work, careful consideration and heavy hearts, my wife and I have mutually decided to no longer remain married," Cat, 48, tells E! News. "In love, there is a season, a reason and a lifetime."She continues, "Although this is not what we ever imagined, we will always have four incredible reasons to celebrate our years together: our sons. We are forever parents to our boys and are jointly committed to raising them in a peaceful, nurturing and healthy environment."TMZ was the first to report Cat's divorce news.
+/n

@@ -1,0 +1,44 @@
+Evangeline Lilly's Blue Suit: Repurposed Blueberry Costume or Smurf Shout-Out? It's not a great sign when your look is compared to a costume, but it's probably worse if it's compared to a cartoon... Evangeline Lilly looks sexy as always in this blue,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/440664/evangeline-lilly-s-blue-suit-repurposed-blueberry-costume-or-smurf-shout-out');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013619/rs_634x1024-130719101742-634.lilly.ls.71913_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evangeline Lilly");
+	var imageCaption = encodeURIComponent("Evangeline Lilly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Daniel Robertson/startraksphoto.com
+
+It's not a great sign when your look is compared to a costume, but it's probably worse if it's compared to a cartoon...Evangeline Lilly looks sexy as always in this blue, strapless jumpsuit, but we can't quite figure out the outfit inspiration. Is she re-wearing part of last year's Halloween costume? This would make a pretty impressive blueberry. Or is this color in honor of her friends in Smurfs 2—a little subliminal advertising, fashion style?
+
+We doubt the Real Steel star will reveal her secret (or appreciate our suggestions...), so we'll just judge the look for design alone.The shape: fun and summery. The fabric: light and breezy. The accessories: a bit too simple, but that's the new author's typical style.And so we're left with the color: Sorry, but it's way too Smurf covered in blueberries for our style. 
+/n

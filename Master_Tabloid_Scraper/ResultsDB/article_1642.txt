@@ -1,0 +1,50 @@
+Amber Rose Is Unrecognizable While Making Her Red Carpet Debut With 21 Savage at the 2017 MTV VMAs We all need to find someone who looks at us the way Amber Rose looks at 21 Savage. Yes, this duo made their red carpet debut as a couple at th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876188/amber-rose-is-unrecognizable-while-making-her-red-carpet-debut-with-21-savage-at-the-2017-mtv-vmas');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017727/rs_720x1024-170827164802-634-amber-rose-savage-mtv-vma.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Savage, Amber Rose, MTV Video Music Awards 2017");
+	var imageCaption = encodeURIComponent("Savage, Amber Rose, MTV Video Music Awards 2017");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+We all need to find someone who looks at us the way Amber Rose looks at 21 Savage.Yes, this duo made their red carpet debut as a couple at the 2017 MTV Video Music Awards, unable to keep their hands off one another as they posed on the red carpet.However, you probably didn't even realize that it was Rose posing with the rapper as she looks totally unrecognizable!Wearing a custom black, sparkling gown by Yousef Aljasmi—which perfectly displayed her famous curves—she stepped away from her go-to platinum shaved hairstyle and donned a brunette wig.
+
+E! News caught up with the model ahead of the show during which she dished about her new look, but more importantly, noted she may end up releasing a rap song one of these days—which, of course, she'd do with the help of her man.Rose—who was previously married to Wiz Khalifa and also dated Kanye West back in the day—has completely fallen for her new man, taking to Instagram to gush over him time and time again.
+
+
+
+Alberto E. Rodriguez/Getty Images
+
+"It's pretty amazing waking up every morning feeling love like this," Rose told her 15.9 million fans in July. "I've cried endlessly and been hurt a lot in my life, I've been abused, talked to like I wasn't s--t, been gaslighted and slut shamed by men that I once loved and cared about."She continued, "I'm so thankful that God brought this amazing person in my life who genuinely has my back and is ready to 'pull up' to defend my honor by any means. Maybe he's just as broken as me and that's why we're perfect for each other but either way he's not going anywhere and neither am I."OK, now that is some serious #CoupleGoals.
+/n

@@ -1,0 +1,66 @@
+5 Days, 5 Ways: Celebs Make a Strong Case for Stylish Fanny Packs Before you throw us the side-eye, let us remind you of the practical benefits of the fanny pack. 1. It relieves stress on the body, specifically the shoulders. 2. There's less chance t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/737387/5-days-5-ways-celebs-make-a-strong-case-for-stylish-fanny-packs');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201614/rs_600x1000-160204074017-600.Kate-Bosworth-Fanny-Pack.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Bosworth, ESC: Fanny Packs");
+	var imageCaption = encodeURIComponent("Kate Bosworth, ESC: Fanny Packs");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Kamau/GC Image
+
+Before you throw us the side-eye, let us remind you of the practical benefits of the fanny pack.1. It relieves stress on the body, specifically the shoulders.2. There's less chance that you'll lose your stuff or get pickpocketed. 3. You will be noticed.Now, let us now show your five reasons why this modern take on the ‘90s throwback deserves your investment.If you're going out on the town, like Kate Bosworth, a tiny pack worn sagged to the side is quite convenient (you can hold two drinks now!). It'll almost look like a belt. Not to mention, it adds an interesting dimension to a simple, classic look. You could go all monochrome and opt for a bag with some texture on it, or bring a pop of color into the mix with a bold or printed bag.
+
+
+
+Rindoff Petroff/Getty Images
+
+Honestly, the puffy, oblong bags are not our favorite, but when worn in the same color and material as the rest of your outfit, it just seems like a natural extension of the ensemble…kind of like peplum. Instead of a super-bold color, do as Rihanna and opt for a neutral or pastel hue. Let's not overdo it, k?
+
+
+
+LISVETT SERRANT/startraksphoto.com
+
+As Anne Hathaway proves, a quick hit of something printed will automatically add interest to an otherwise so-so outfit. We recommend mixing and matching two prints to not overwhelm. Three max, if they are just accessories.
+
+
+
+NorthWoodsPix / Splash News
+
+What's great about the fanny packs circa 2016 is that they come in rich hues and structured silhouettes. Gone are the days of puffy polyester material connected by a plastic buckle. You can wear a boxy iteration with your most slouchy, casual duds (like Camila Alves) and it'll instantly elevate the entire ensemble.
+
+
+
+Bauer-Griffin/GC Images
+
+Then there's always the question of how to wear this clunky creation. While front row and center may scream tourist, wearing a bag on the hips and to the side gives it a little bit of edge. Plus a fanny equipped with metal hardware is pretty badass.
+/n

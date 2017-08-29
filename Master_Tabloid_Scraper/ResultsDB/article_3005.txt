@@ -1,0 +1,44 @@
+Jared Leto Makes a Fanny Pack Look Sexy While Flaunting His Neon Green Hair and Bulging Biceps—See The Pic! Well the verdict is in—Jared Leto is the only man who can make a fanny pack sexy. Everyone else, you can just go home. Leto was spotted stroll.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/658341/jared-leto-makes-a-fanny-pack-look-sexy-while-flaunting-his-neon-green-hair-and-bulging-biceps-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015419/rs_634x1024-150519162856-634.Jared-Leto-Green-Hair-NYC.ms.051915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jared Leto");
+	var imageCaption = encodeURIComponent("Jared Leto");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+Well the verdict is in—Jared Leto is the only man who can make a fanny pack sexy. Everyone else, you can just go home.Leto was spotted strolling the streets of New York City earlier today and didn't disappoint while showing off his buff biceps and all their glory in a white cut-off Enfants Riches Déprimés tank paired with matching white pants with color-blocking detail below the knee. The 43-year old actor, who seems to have discovered the fountain of youth, accessorized with a black fanny pack while running errands.The celeb is also rocking his now-famous neon green hair for his upcoming role as The Joker in the highly anticipated film Suicide Squad, directed by David Ayer.Prior to having some down time in the Big Apple, the sexy star was busy filming for the comic flick. Leto was recently snapped shooting an intense scene with co-star Margot Robbie who plays Harley Quinn.
+
+"The opportunity to take on this nearly Shakespearean character—that's what graphic novels and comic books are becoming, right?" he recently shared with Billboard. "[He's] this beautiful disaster of a character. What a big challenge."Suicide Squad, which also stars Will Smith and Cara Delevingne, is set to hit theatres Aug. 5, 2016. 
+/n

@@ -1,0 +1,44 @@
+Frances Bean Cobain: I'm Taking a Twitter Hiatus Frances Bean Cobain has had enough of Twitter, for now. Courtney Love and Kurt Cobain's daughter posted a message to fans saying that she's taking some time off from the social .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/428802/frances-bean-cobain-i-m-taking-a-twitter-hiatus');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011716/293.bean6.lc.081611.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frances Bean Cobain, Portraits");
+	var imageCaption = encodeURIComponent("Frances Bean Cobain, Portraits");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+RockySchenck.com
+
+Frances Bean Cobain has had enough of Twitter, for now.Courtney Love and Kurt Cobain's daughter posted a message to fans saying that she's taking some time off from the social media platform."On an official twitter hiatus. Having every single tweet scrutinized, analyzed & dissected is a bit too ridiculous for my taste. Bye twatter," she said.The news comes on the heels of the rock royalty getting into a heated Twitter feud with Kendall Jenner last month.
+
+The two exchanged a war of words after Cobain called the 17-year-old "a self-absorbed idiot."Jenner later lashed out and asked, "Who are you to judge me?"Maybe some time off is best for Cobain after all!
+/n

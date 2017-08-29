@@ -1,0 +1,86 @@
+WATCH: Texas Men Rush Into Flood Waters to Save Baby from Overturned Truck After Deadly Storms/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-31ab336a084a4fd93ddd9b8080747370-59a4e917185c3');
+				var iframe = document.getElementById('wpcom-iframe-31ab336a084a4fd93ddd9b8080747370-59a4e917185c3');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-31ab336a084a4fd93ddd9b8080747370-59a4e917185c3'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+(Video contains graphic content and strong language)
+A Texas man captured the dramatic rescue of a father and his two young children who were stuck in their overturned truck and surrounded by fast-moving water.
+Eager to help people after at least four tornadoes ripped through the state on Saturday, Tom Mitchell came across a flipped truck near Myrtle Springs, Texas, and realized that a father, toddler and infant were trapped inside, according to WFAA.
+While he was unable to physically help, Mitchell took out his cell phone and captured the moment when a few other good samaritans went into the water and tried to free the family.
+“The infant is white, going blue-ish grey,” Tom told the news outlet about the frightening moment. “No color at all and the eyes were not focused when I looked down at her. This baby is gonna die if we don’t start CPR fast. Having a negative feeling coming over me. This baby may not make it, this baby may not make it. No reaction, nothing is happening.”
+He quickly put his phone in his pocket, sprung into action and performed CPR as a woman could be heard on the video saying, “Dear Jesus, please let this baby breathe.”
+Over nine million people have watched the heroic moment which Mitchell said he felt compelled to share.
+“I think it shows how the community and strangers all come together,” he told WFAA.
+According to the news outlet, the father of the children posted an update on social media Sunday from a local hospital saying that he and his infant son are doing much better.
+As for his baby, she is stable and continuing to improve.
+“Still under sedation but pulling the breathing tube in the morning to see if she can do it on her own,” he wrote.
+According to CNN, at least 14 people were killed and dozens more injured as storms tore through Texas, Missouri, Arkansas and Mississippi.
+/n

@@ -1,0 +1,44 @@
+Mug Shot of the Day: Cat Cora Sizzles Post-DUI Bust Here's a photo you probably won't see Cat Cora putting on her refrigerator anytime soon. (Though, for a mug shot, it's not too shabby.) The celebrity chef and Around the Worl.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/329463/mug-shot-of-the-day-cat-cora-sizzles-post-dui-bust');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012611/reg_634.ab.cora.071112.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Catherine Cora, Cat Cora");
+	var imageCaption = encodeURIComponent("Catherine Cora, Cat Cora");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Santa Barbara County 
+
+Here's a photo you probably won't see Cat Cora putting on her refrigerator anytime soon. (Though, for a mug shot, it's not too shabby.)The celebrity chef and Around the World in 80 Plates host was busted three weeks ago in Santa Barbara, Calif., for driving under the influence.The incident occurred on June 17 at about 6 p.m. when, according to Santa Barbara police, the 45-year-old Cora rear-ended a car ahead of her. 
+
+Officers arriving on the scene subsequently suspected she had been drinking and administered two Breathalyzer tests, which the Bravo star subsequently failed—her blood-alcohol level was found to be twice the legal limit. Cora was issued a citation before being admitted into a sobering center."I deeply regret my decision to drive that evening after my designated driver became unavailable," Cora said in a statement to E! News. "I learned a very important lesson from this experience and take full accountability for my actions. This will never happen again."Cora's due back in court July 26.
+/n

@@ -1,0 +1,84 @@
+WATCH: Neglected Dog Loses 6 Lbs. of Matted Fur During 3-Hour Shave/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-66357b64c8d0422f2c569019895872cb-59a4e6a4cbe24');
+				var iframe = document.getElementById('wpcom-iframe-66357b64c8d0422f2c569019895872cb-59a4e6a4cbe24');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-66357b64c8d0422f2c569019895872cb-59a4e6a4cbe24'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Three and a half hours — that’s how long it took to release Mattie, as he’s now being called, from the pain and discomfort of more than six pounds of filthy, matted fur.
+Animal authorities in Columbus County, North Carolina, received a call about the severely neglected pup on Easter Sunday and worked quickly to try to save him, according to WECT news, who reported the story. 
+Columbus County Animal Control
+
+
+“It was the worst case of matting I’ve ever seen,” said shelter director Joey Prince. Mattie was shaved at a local dog salon, a process that would take more than three hours and yield pounds and pounds of matted fur, the story said — giving the pooch a new outlook on life.
+“He didn’t really talk before he was shaved, but now he’s talking. He wags his tail and we’re working on his back leg,” said Prince, who predicted rehab would help the dog heal up just fine.
+Columbus County Animal Control
+WECT reports that Mattie’s first vet check-up on Tuesday went well and that Prince said he should be available for adoption by the end of the week. He encouraged anyone with information about this case to call the Whiteville shelter at 910-641-3945.
+“He’s a great dog,” Prince told the station, “and I’m so glad we found him in time.”
+/n

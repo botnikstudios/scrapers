@@ -1,0 +1,46 @@
+Adam Lambert Sounds Off on American Idol Reboot: ''I Would Judge in a Heartbeat'' Last week, Katy Perry officially signed on as the show's first judge and many more famous names have been thrown into the hat to judge. But who will host is still a mys.../n
+Adam Lambert is tellin' it like it is!E! News' Marc Malkin caught up with the singer yesterday at the red carpet premiere of the animated film Captain Underpants: The First Epic Movie and the glam rocker dished on what he thinks about ABC's American Idol reboot of the hit FOX show.Lambert, who was the season eight runner-up, sounded off on what he thinks of the somewhat controversial revamp. "I am excited to see the show. I obviously owe the show a huge debt of gratitude. It's put me where I am today. I think it’s exciting," said the 35-year-old
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/856106/adam-lambert-sounds-off-on-american-idol-reboot-i-would-judge-in-a-heartbeat');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017422/rs_634x1024-170522150426-634.Adam-Lambert-Premiere.ms.052217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Adam Lambert ");
+	var imageCaption = encodeURIComponent("Adam Lambert ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Barry King/Getty Images
+
+Last week, Katy Perry officially signed on as the show's first judge and many more famous names have been thrown into the hat to judge. But who will host is still a mystery...Malkin also asked Lambert what he thought about the possibility that Ryan Seacrest, who hosted the high-octane reality competition show for all 15 seasons, would not be coming back."He's amazing. What’s American Idol without Ryan Seacrest?" said the singer. "If he doesn’t do it then they better get someone great."
+
+Lambert also admitted that he would likely pass on the hosting gig if it was up for grabs, but he did say he'd love to sign on as a judge."I would judge in a heartbeat. If it fit with my schedule," confessed Lambert.As for his schedule, Lambert's been keeping busy by making music for the Captain Underpants soundtrack. He recorded a version of Aretha Franklin's classic song "Think."The animated film, starring the voices of Kevin Hart, Ed Helms, Nick Kroll, Jordan Peele and Kristen Schaal hits theaters on June 2.
+/n

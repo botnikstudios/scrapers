@@ -1,0 +1,46 @@
+Lena Headey Recalls Battling Postpartum Depression While Filming Game of Thrones Lena Headey showcases power, strong will and determination as the ruthless ruler Cersei on Game of Thrones. But in the early days of the show, the actress was h.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/865218/lena-headey-recalls-battling-postpartum-depression-while-filming-game-of-thrones');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201766/rs_634x787-170706080701-634-lena-headey-the-edit-cover-070617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lena Headey, The EDIT");
+	var imageCaption = encodeURIComponent("Lena Headey, The EDIT");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Photographed by Stefano Galuzzi, courtesy of The EDIT, NET-A-PORTER.com
+
+Lena Headey showcases power, strong will and determination as the ruthless ruler Cersei on Game of Thrones. But in the early days of the show, the actress was hurting inside and initially didn't know why.In an interview with Net-A-Porter's digital magazine The EDIT, the 43-year-old actress recalled battling postpartum depression while filming season one in 2010. Headey had just given birth to her first child, son Wylie."I was postnatally depressed but I didn't know it," she said. "I saw a doctor for the medical check, and I just burst into tears. She said I was postnatally depressed and I went, 'Am I? Why is that?' I saw a great guy and he sorted me out, but I did the first year [on Game of Thrones] in that space, figuring out motherhood and going through a weird time personally. It was tricky." 
+
+Headey had also talked about her postpartum depression battle in an interview with The Telegraph in 2014.The newspaper said that she suffered from bouts of clinical depression since age 15 and managed it without medication until she had her son."Then I had postnatal depression, which I didn't realize for a long time," she said. "I went a bit nuts and eventually went to a guy who mixes Western and Eastern philosophy in terms of medicine and he put me on a course of something that changed everything. But I would never want to be dependent [on medication]."Headey is also a mother to daughter Teddy, who will turn 2 next week.The actress is one of several stars who have gone public about their struggles with postpartum depression, also called postnatal depression, which has been reported to affect 1 out of 9 women, according to the Centers for Disease Control and Prevention. Other celebrity moms who have spoken out about their own battles include Gwyneth Paltrow, Chrissy Teigen, Bryce Dallas Howard, Drew Barrymore, Brooke Shields and Céline Dion.
+
+Headey made her comments ahead of the season seven premiere of Game of Thrones, which airs on HBO on July 16.To read the full interview with Lena Headey, read The EDIT at www.net-a-porter.com/magazine/409/10 and/or download The EDIT's free app for iPhone, iPad and Android.
+/n

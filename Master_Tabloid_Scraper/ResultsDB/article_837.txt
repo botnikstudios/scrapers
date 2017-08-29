@@ -1,0 +1,155 @@
+WATCH: Rescue Dogs Become Service Dogs in Heartwarming New Animal Planet Show
+/n
+ 
+
+If you love pooches — or have a beating heart — then we recommend you grab a box of Kleenex before watching Rescue Dog to Super Dog.
+Millions of dogs live in shelters in the U.S. waiting for their forever homes, and in this new Animal Planet show, shelter dogs are given a second chance to become a companion to someone in need.
+In each episode, dog trainers Nate Schoemer and Laura London meet a potential owner in need of a companion dog to help them in their daily lives. The pair then head to a shelter in search of dogs with the right attitude and aptitude to provide whatever specific service they’re looking for. The trainers work with each canine to ready them for their new role and give them time to bond with their new owners at home. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-30d634867db03059440dba97a72e54d2-59a4e2f3cd954');
+				var iframe = document.getElementById('wpcom-iframe-30d634867db03059440dba97a72e54d2-59a4e2f3cd954');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-30d634867db03059440dba97a72e54d2-59a4e2f3cd954'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The basic training for the dog begins with techniques specifically geared to each person’s disability while the potential owner must master obedience commands. Then, after two weeks of further schooling, the dog is placed back into its new home and Nate and Laura work to fine-tune the relationship.
+To be honest, this writer started to find something in his eye way back when he typed “forever home.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-974150dee5e0e38fb790624dfc301e80-59a4e2f3cdb05');
+				var iframe = document.getElementById('wpcom-iframe-974150dee5e0e38fb790624dfc301e80-59a4e2f3cdb05');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-974150dee5e0e38fb790624dfc301e80-59a4e2f3cdb05'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Watch an exclusive clip from the show above. Rescue Dog to Super Dog premieres on Animal Planet Aug. 12 at 10 p.m. ET.
+/n

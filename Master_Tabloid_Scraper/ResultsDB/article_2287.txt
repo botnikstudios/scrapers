@@ -1,0 +1,92 @@
+Texas Couple Thanks Heroes Who Saved Their Children After Truck Flipped in Floodwaters: ‘Thank You for Risking Your Lives to Save Ours’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e053638abe4ca591ffab99274c3db590-59a4ea1daee12');
+				var iframe = document.getElementById('wpcom-iframe-e053638abe4ca591ffab99274c3db590-59a4ea1daee12');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e053638abe4ca591ffab99274c3db590-59a4ea1daee12'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A Texas couple and their children are grateful to be alive after their truck flipped over in rising floodwaters on Saturday, prompting a group of good Samaritans to come to their rescue.
+“When it’s pitch black in the car and you can’t see anything and you can’t find your kids you panic,” Emily Ocheltree said during an interview with the Today show on Tuesday.
+Emily and Phillip Ocheltree were attempting to drive to a safer location with their two kids on Saturday as storms and tornadoes swept across Texas when “the truck went sideways and spun and then flipped three times,” Emily, 21, told NBC News.
+Phillip and Emily Ocheltree
+“Water was coming into the cab of the truck,” Phillip, 25, told Today, noting that he felt “helpless” in the situation. “Not being able to fight my way underneath the seats.”
+Video of the incident, which has been viewed more than 16 million people, showed the couple’s car upside down in the fast-moving waters near Myrtle Springs as a group of rescuers rushed to help. The couple’s young children, Addy, 18 months old, and 4-month-old Marshall were pulled from the vehicle and the family survived.
+Emily told Today that her main priority during the accident was her children.
+
+“Give them life before you try to help me,” she said. “I’m fine. I am an adult. I can manage … I will figure out a way to get out of this vehicle, they cannot.”
+The couple is thankful to the heroes who helped them survive the nightmare. They shared a tearful embrace when they me Jaime Martinez, a former firefighter who came to their rescue.
+“I am really so happy that you are okay, and the babies too,” he told the couple as they shared a tearful embrace.
+“You did such a good job in saving my babies,” Emily said. “We are very thankful. God bless you. Thank you so much for being there and stopping and risking your lives to save ours.”
+Marshall has been discharged from a Dallas hospital while Addy remained in intensive care on Tuesday, according to Today.
+Teenagers Rescued After Falling Through the Ice in Central Park
+
+Phillip provided an update on Addy’s health in a Facebook post, writing that the toddler is “on the road to recovery.”
+“Addy bug right now is fighter for lack of better words,” he wrote in another post. “She is stable and breathing.”
+According to CNN, at least 14 people were killed and dozens more injured as storms tore through Texas, Missouri, Arkansas and Mississippi.
+/n

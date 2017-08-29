@@ -1,0 +1,50 @@
+Maggie Grace Is Married! Lost Star Weds Brent Bushnell Maggie Graceis officially taken this time! The actress, known for her starring role in the Taken trilogy, Lost, and Californication, married Brent Bushnell on Sunday, Us Weekly confirms..../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/856683/maggie-grace-is-married-lost-star-weds-brent-bushnell');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201717/rs_634x750-170207192314-634-maggie-grace-mv-1717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maggie Grace, Brent Bushnell");
+	var imageCaption = encodeURIComponent("Maggie Grace, Brent Bushnell");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Maggie Graceis officially taken this time!The actress, known for her starring role in the Taken trilogy, Lost, and Californication, married Brent Bushnell on Sunday, Us Weekly confirms. Maggie and Brent were surrounded by their closest family and friends in La Jolla, California, as they became husband and wife after a three-month engagement period. Maggie, 33, has kept most of the details surrounding her relationship under wraps, but the adorable duo made their Instagram debut with a lovey-dovey snapshot on the water—presumably to celebrate Bushnell popping the question. While the blushing bride rose to fame on screen in film and television, her leading man prefers a life behind the scenes. Brent is the CEO of Two-Bit Circus, an engineering entertainment firm. 
+
+
+
+Courtesy of Mike Coppola/Getty Images for the 2014 Tribeca Film Festival
+
+As for what led Grace and Bushnell to each other, the newlyweds reportedly met sometime last year after she and Matthew Cooke called it quits on their 2015 engagement.The celeb opened up about why she preferred to date outside of Hollywood in a 2015 interview with New You: "I haven't dated too many actors. I did when I was really young, for a couple of years... but it's nothing against actors... You can certainly reconcile schedules with actors but it takes some doing, and I just don't have that energy.""I think of relationships as having a really safe place with someone where you are, and making an effort to show up every day—to see them and feel seen, especially as an actor when you're already pretending to be other people all the time," Maggie added. "It's an incredible gift to feel seen by one person; a culture of two."Looks like she found her special guy!
+
+Congratulations to the happy couple. 
+/n

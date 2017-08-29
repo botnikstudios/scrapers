@@ -1,0 +1,44 @@
+"Iron Lady" Margaret Thatcher Dead at 87 Margaret Thatcher died Monday morning at the age of 87. The former U.K. prime minister passed away peacefully after suffering a stroke, per the BBC. Thatcher, who held the office of prime mi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/405657/iron-lady-margaret-thatcher-dead-at-87');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201338/rs_293x473-130408055104-634.MargaretThatcher.jlc.2013.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("British Prime Minister, Margaret Thatcher");
+	var imageCaption = encodeURIComponent("British Prime Minister, Margaret Thatcher");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dan Kitwood/Getty Images
+
+Margaret Thatcher died Monday morning at the age of 87.The former U.K. prime minister passed away peacefully after suffering a stroke, per the BBC.Thatcher, who held the office of prime minister from 1979 to 1990, was nicknamed the "Iron Lady" because of her unwavering stances on politics.
+
+In 2011, Meryl Streep portrayed Thatcher in The Iron Lady, winning an Academy Award for her performance.In a 2012 interview with the BBC, Streep said that while Thatcher's conservative politics didn't line up with her own views, she was "secretly thrilled [when she was elected in 1979] that there was a female head of Britain."Thatcher remains the only woman to have served as U.K.'s prime minister.
+/n

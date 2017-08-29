@@ -1,0 +1,46 @@
+EXCLUSIVE! Laura Dern's 2017 Met Gala Dress Has a Removable Train So She Can Dominate the Dance Floor Let the record show Laura Dern is a dancing machine. The Big Little Lies star was already thinking about the after-party when she chat.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/847501/laura-dern-s-2017-met-gala-dress-has-a-removable-train-so-she-can-dominate-the-dance-floor');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_634x1024-170501155838-634-met-gala-2017-arrivals-laura-dern.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Laura Dern, 2017 Met Gala Arrivals");
+	var imageCaption = encodeURIComponent("Laura Dern, 2017 Met Gala Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Neilson Barnard/Getty Images
+
+Let the record show Laura Dern is a dancing machine.The Big Little Lies star was already thinking about the after-party when she chatted with E! News' Brad Goreski on the red carpet at the 2017 Met Gala on Monday night at the Metropolitan Museum of Art, Costume Institute.Wearing a gorgeous column gown with cut-outs by designer Gabriela Hearst, Laura revealed her favorite thing about her dress was the part she could take off later."Only a woman designer would make sure that I have buttons to make sure that I can remove my train so that I can have a dance dress for later," she said. (How very Renata of her!)
+
+Aside from dance talk, Laura also talked about the smashing success of her latest series, HBO's Big Little Lies, which also starred Reese Witherspoon, Nicole Kidman, Shailene Woodley and Zoe Kravitz. While the limited series' success didn't totally surprise her, Laura admitted, "It surprised me to get to work on something where I am with a tribe of amazing women…it's very rare."She continued, "The fact that people connected to it made us really proud and it was really magical." Now how about that second season? 
+
+On Monday, May 1, our Met Gala conversation starts on the E! News Facebook page at 7 p.m. ET / 4 p.m. PT. Immediately following E! News on Monday, May 1, we'll be live from New York with red carpet coverage of the Met Gala at 7:30 p.m. ET / 4:30 p.m. PT. For complete coverage of fashion's biggest night, tune in to E! News at 7 p.m. and Fashion Police at 8 p.m. on Tuesday, May 2.
+/n

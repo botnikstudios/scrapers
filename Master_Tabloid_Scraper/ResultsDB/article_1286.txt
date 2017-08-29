@@ -1,0 +1,50 @@
+Jennie Garth Reveals Her Family's Big Summer Plans Jennie Garth is ready to hit the road this summer. The actress, known for her roles in Beverly Hills, 90210 and What I Like About You, caught up with E! News at Vitafusion's Fruit .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859954/jennie-garth-reveals-her-family-s-big-summer-plans');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201758/rs_634x1024-170608140848-634.Jennie-Garth-New-York.kg.060817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennie Garth");
+	var imageCaption = encodeURIComponent("Jennie Garth");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Lamparski/Getty Images
+
+Jennie Garth is ready to hit the road this summer.The actress, known for her roles in Beverly Hills, 90210 and What I Like About You, caught up with E! News at Vitafusion's Fruit Tree Project, and spilled what's on the agenda for her family this summer."There is some RV-ing going to be happening in our future," she told us. "I love a good RV trip."Garth said the upcoming road trip will lead the family south. "I have a nephew who's going to be graduating from the air force basic training program so we might RV to him in Texas," she said. "I'm really excited about that."
+
+
+
+Paul Redmond/WireImage
+
+The 90210 star went on to gush about friend and costar Tori Spelling's newborn son, Beau."Oh he's so cute," the 45-year-old mother of three said. "(Tori's) doing great. She's like Wonder Woman. I do not know how she does it."As for Vitafusion's Fruit Tree Project, Garth is excited to join the cause, which is a joint effort between Vitafusion and the Fruit Tree Planting Foundation to plant 10,000 trees in 2017 for communities in need."This is a great opportunity and I'm so happy to be a part of it," she said. "This is just a great way to not only give back to the communities, but give them access to approximately a million pieces of fresh fruit and have a positive impact on the environment."
+
+Garth's upbringing motivates her to encourage her own children to eat healthy."I grew up with a farm and a garden and fresh produce all the time," she said. "I didn't realize how fortunate I was to have that. Now, my kids think that fruits and vegetables just come from the grocery store. But, with farmer's markets and things like that, these city kids are learning what it takes to grow foods and how important they are to our diet."
+/n

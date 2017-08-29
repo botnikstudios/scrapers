@@ -1,0 +1,58 @@
+Game Night Outstanding Structured Reality Program: Shark Tank Outstanding Unstructured Reality Program: Deadliest Catch Outstanding Television Movie: Bessie Outstanding Supporting Actress In A Comedy Series: Allison Janney, Mom Outstanding W.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/697686/2015-emmy-awards-the-complete-list-of-primetime-winners');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015820/rs_634x1024-150920194118-634.Uzo-Aduba-Emmys-Show.ms.092015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Uzo Aduba,Emmy Awards 2015, Show");
+	var imageCaption = encodeURIComponent("Uzo Aduba,Emmy Awards 2015, Show");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+It's time to celebrate the best in TV!The 67th Annual Primetime Emmy Awards are finally being handed out this evening at the Microsoft Theater in Los Angeles.Game of Thrones, American Horror Story: Freak Show and House of Cards are just some of the shows favored to win big tonight!We're updating all the winners right here as they're announced. Stay tuned for more results!Outstanding Guest Actor In A Comedy Series: Bradley Whitford, TransparentOutstanding Guest Actor In A Drama Series: Reg E. Cathey, House of CardsOutstanding Guest Actress In A Drama Series: Margo Martindale, The AmericansOutstanding Host For A Reality Or Reality-Competition Program: Jane Lynch, Hollywood Game Night
+
+Outstanding Structured Reality Program: Shark TankOutstanding Unstructured Reality Program: Deadliest CatchOutstanding Television Movie: BessieOutstanding Supporting Actress In A Comedy Series: Allison Janney, MomOutstanding Writing For A Comedy Series: VeepOutstanding Supporting Actor In A Comedy Series: Tony Hale, VeepOutstanding Directing For A Comedy Series: Jill Soloway, Transparent
+
+
+
+Kevin Winter/Getty Images
+
+Outstanding Actor For A Comedy Series: Jeffrey Tambor, Transparent Outstanding Actress In A Comedy Series: Julia Louis-Dreyfus, VeepOutstanding Reality Competition: The Voice Outstanding Writing For A Limited Series/Movie: Jane Anderson, Olive KitteridgeOutstanding Supporting Actress In A Limited Series/Movie: Regina King, American CrimeOutstanding Supporting Actor In A Limited Series/Movie: Bill Murray, Olive KitteridgeOutstanding Lead Actress In A Limited Series/Movie: Frances McDormand, Olive KitteridgeOutstanding Lead Actor In A Limited Series/Movie: Richard Jenkins, Olive KitteridgeOutstanding Limited Series: Olive KitteridgeOutstanding Variety Sketch Series: Inside Amy Schumer
+
+
+
+Kevin Winter/Getty Images
+
+Outstanding Variety Talk Series: The Daily Show With Jon Stewart Outstanding Writing For A Drama Series: Game of ThronesOutstanding Supporting Actress In A Drama Series: Uzo Aduba, Orange Is the New BlackOutstanding Directing In A Drama Series: David Nutter, Game of ThronesOutstanding Supporting Actor In A Drama Series: Peter Dinklage, Game of Thrones 
+
+Outstanding Actor In A Drama Series: Jon Hamm, Mad MenOutstanding Actress In A Drama Series: Viola Davis, How to Get Away With MurderOutstanding Comedy Series: VeepOutstanding Drama Series: Game of Thrones
+/n

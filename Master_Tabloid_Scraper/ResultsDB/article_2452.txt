@@ -1,0 +1,44 @@
+Frances McDormand Was on an Emotional Roller Coaster While Celebrating Olive Kitteridge's Multiple Emmys So Frances McDormand, what do you really think of the 2015 Emmy Awards? As soon as Kerry Washington said her name for Outstanding A.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/697883/frances-mcdormand-was-on-an-emotional-roller-coaster-while-celebrating-olive-kitteridge-s-multiple-emmys');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015820/rs_634x1024-150920185711-634.Frances-McDormand-Emmys-Show.ms.092015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frances McDormand, Emmy Awards 2015, Show");
+	var imageCaption = encodeURIComponent("Frances McDormand, Emmy Awards 2015, Show");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Phil McCarten/Invision for the Television Academy/AP Images
+
+So Frances McDormand, what do you really think of the 2015 Emmy Awards?As soon as Kerry Washington said her name for Outstanding Actress in a Limited Series/Movie, the Olive Kitteridge star didn't seem that impressed.With little to no makeup on, the actress hurried on stage with few smiles as she thanked a few (and we mean few) people."My colleagues have already given thank you's that need to be said," she explained to the audience. "We're all here because of the power of a story well told. Sometimes, that's enough. Thank you."Perhaps she's being mindful of the mental health plot in the story. Maybe she wants to give us flashbacks to the 2015 Golden Globes. Or maybe, she simply wants all of the attention to be on her co-stars instead of her.
+
+It certainly appeared to be the latter when Richard Jenkins claimed his award for Outstanding Actor in a Limited Series/Movie."I would like to thank the incredible women who made Olive Kitteridge happen," he joked as Frances started to LOL. "And there's about 100,000 of them."She then appeared to get emotional when Richard turned the focus to his co-star. "I want to say thank you Frances McDormand for this opportunity and calling me and saying I want you to come on this journey with me. Thank you Fran for letting me surf your enthusiasm and your artistry for four months, it was a ball."And just when we thought she couldn't handle anymore, Frances appeared onstage with the cast and crew to accept the award for Outstanding Limited Series."Yay, HBO, yay! Thank you to everyone who birthed this baby," she said with much enthusiasm. "And it was started as a book! Thank you."
+/n

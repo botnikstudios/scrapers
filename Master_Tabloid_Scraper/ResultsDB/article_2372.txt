@@ -1,0 +1,46 @@
+EXCLUSIVE! Prepare to Meet Eva Longoria's Empire Character: "She Kind of Feels Like a Sarah Palin" Get ready to meet the one woman who stands in the way of Lucious Lyon's plans to expand out west. Eva Longoria joins the f.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/846258/prepare-to-meet-eva-longoria-s-empire-character-she-kind-of-feels-like-a-sarah-palin');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017326/rs_634x1024-170426101302-634-eva-longoria-empire-fox.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eva Longoria, Empire");
+	var imageCaption = encodeURIComponent("Eva Longoria, Empire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Fox
+
+Get ready to meet the one woman who stands in the way of Lucious Lyon's plans to expand out west.Eva Longoria joins the frothy fun on an all-new Empire tonight as Las Vegas Gaming Commission director Charlotte Frost, a woman with the power to make or break Lucious (Terrence Howard) and Giuliana's (Nia Long) EMPIRE Las Vegas dream. And according to the actress—who knows a thing or two about melodrama thanks to her eight seasons on Desperate Housewives—taking the role was a no-brainer."When they asked me to do Empire, I immediately said yes," she admits in this first-look featurette, exclusive to E! News. "I didn't even know the character. I'm just such a big fan of the show."
+
+If the promise of a Palin-esque figure mixing it up with queen Cookie (Taraji P. Henson) isn't enough for you, how about this little tease from Longoria? "I do have a scene where I slap somebody, so get ready for that. I won't tell you who, but it is a Lyon." (If we were betting people, we'd put money on her slap having a little something to do with the glimpse of Andre (Trai Beyers) getting up close and personal with Charlotte in this tease of the rest of the season!)While it may seem like Lucious has enough on his plate with Charlotte joining the fray, this week he's getting it from all sides. Unexpected news from Cookie will make him uneasy about the future, while Giuliana will begin to move in on him and persuade him to comply with her new plans. Elsewhere in the episode, Anika (Grace Byers) and Tariq (Morocco Omari) will devise a new plan. That Boo Boo Kitty, always scheming!
+
+For more from Longoria, including a good look at her in action as Charlotte, be sure to check out the video above.Empire airs Wednesdays at 9 p.m. on Fox.
+/n

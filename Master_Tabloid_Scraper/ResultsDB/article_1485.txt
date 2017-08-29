@@ -1,0 +1,44 @@
+purple hair! She attended a screening of Despicable Me 3 with four of her five children, Liam McDermott, 10, 9-year-old Stella McDermott, 5-year-old Hattie McDermott and Finn McDermott, 4, but those ombre purple locks really stole the show. .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/861650/tori-spelling-s-electric-new-hair-color-is-giving-us-major-mermaid-vibes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017516/rs_634x1024-170616150744-634.Tori-Spelling-Purple-Hair.ms.061617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tori Spelling");
+	var imageCaption = encodeURIComponent("Tori Spelling");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Joey Andrew/startraksphoto.com 
+
+Tori Spellingis feeling cool for the summer. The Beverly Hills, 90210 star stepped out Friday afternoon to debut a major style makeover: Bright purple hair!She attended a screening of Despicable Me 3 with four of her five children, Liam McDermott, 10, 9-year-old Stella McDermott, 5-year-old Hattie McDermott and Finn McDermott, 4, but those ombre purple locks really stole the show. Spelling, 44, captioned a sweet photo of the family outing: "Fun start to our #familyfriday Breakfast & screening of #despicableme3 with some other fabulous mamas and their kiddos! @despicableme Best soundtrack of the summer #purplehairdontcare"A drastic change from her usual platinum blond, Spelling was all smiles at the event in a purple maxi skirt, denim vest and preppy white tennis shoes. 
+
+Now with this new purple 'do, Tori isn't just a regular mom. She's a cool mom!
+/n

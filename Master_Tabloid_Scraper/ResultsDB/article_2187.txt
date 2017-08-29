@@ -1,0 +1,48 @@
+marrying into the Kennedys. It may not be so far-fetched considering she already has the blessing of her new boyfriend Conor Kennedy's grandmother, Ethel. "We should be so lucky," the family matriarch said today—at the TCA Pre.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/334846/taylor-swift-kennedys-should-be-so-lucky-to-have-her-in-the-family-says-boyfriend-conor-s-grandmother');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201271/reg_634.taylor.conor.ls.8112.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Connor Kennedy, Taylor Swift");
+	var imageCaption = encodeURIComponent("Connor Kennedy, Taylor Swift");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Button/ WENN.com
+
+Imagine Taylor Swift  marrying into the Kennedys.It may not be so far-fetched considering she already has the blessing of her new boyfriend Conor Kennedy's grandmother, Ethel."We should be so lucky," the family matriarch said today—at the TCA Press Tour while promoting her new HBO bio-documentary, Ethel—about Swift one day becoming a member of the iconic political dynasty .
+
+Robert Kennedy's widow did shoot down rumors that she played matchmaker for Conor, 18, and the country songbird, 22.She explained that they met through her daughter Rory, Conor's aunt."Rory went to a concert of hers with her two little girls, and that's how that started," Ethel said.
+
+Rory, who directed the documentary, added, "That's how we first met Taylor Swift, and she's a great friend of all of ours. We love her. She's awesome."Swift obviously feels the same about them.Rory revealed in January that Swift actually wrote a song about the Kennedys. "[S]he had read a ton of books about our family," Rory told ABC News Now at the premiere of Ethel at the Sundance Film Festival. "She was inspired and wrote a song."
+
+Swift was even on hand at Sundance to support the film. "She really just loves my mother, which is so sweet," Rory said at the time.Tay and Conor were most recently spotted this weekend at the Kennedy compound in Hyannis Port, Massachusetts enjoying nights out with friends, walks on the beach, sailing and attending church on Sunday. Reps for Swift and the Kennedys have declined to comment about the relationship.Here's hoping the new romance lasts—at least for Conor's sake. We all know what kind of songs Swift has been inspired to write after her breakups.—Reporting by Jenna Mullins
+/n

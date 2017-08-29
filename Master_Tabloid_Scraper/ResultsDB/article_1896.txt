@@ -1,0 +1,86 @@
+Evangeline Lilly's Back in a Bikini, Plus 7 More Famous Moms Flaunting Impressive Bods After Baby Ah, genetics. The thing that makes some people look perfect 24/7 and others... Well, some just have to try a little harder. Evangeline Lilly looking fit.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/709773/evangeline-lilly-s-back-in-a-bikini-plus-7-more-famous-moms-flaunting-impressive-bods-after-baby');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015922/rs_634x1024-151022171725-634-evangeline-lilly-baby-pregnant-birth.ls.102215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evangeline Lilly");
+	var imageCaption = encodeURIComponent("Evangeline Lilly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Splash News
+
+Ah, genetics. The thing that makes some people look perfect 24/7 and others...Well, some just have to try a little harder.Evangeline Lilly looking fit in a bikini seemingly just weeks after giving birth (she still had a ways to go when she debuted her baby bump at the Ant-Man premiere in June) reminded us that Hollywood is still the center of the universe when it comes to new moms looking particularly impressive in a seemingly inordinate amount of time.Some stars are blessed with that "oh, breastfeeding was all the exercise I needed" metabolism while others get themselves to the gym as soon as they can spare a minute. But either way, the end result tends to be envy-inducing.Whether the baby weight melted off gradually or Mom fast-tracked her fitness schedule, here are seven more celeb moms who have babies at home and abs for days...
+
+
+
+Photographer Group/Splash News
+
+1. Kourtney Kardashian: Son Reign is 10 months old and the mother of three has never looked better!
+
+
+
+Richie Buxo / Splash News
+
+2. Jessica Biel: Six months after welcoming her first child, son Silas, with hubby Justin Timberlake, this is what's happening in the bod department. Bam!
+
+
+
+Frazer Harrison/Getty Images
+
+3. Mila Kunis: This waist is what was happening in February, barely four months after daughter Wyatt was born.
+
+
+
+Michael Buckner/WireImage
+
+4. Scarlett Johansson: At the Oscars in February, you'd be hard-pressed to guess you were looking at the mother of a 5-month-old daughter.
+
+
+
+OpaOpa / Splash News
+
+5. Blake Lively: Nine months in, James' mom was as hot as ever.
+
+
+
+Xposure/AKM-GSI
+
+6. Stacy Keibler: We know a baby came out, daughter Ava Grace, in August 2014, but this pic taken in March was a mind-blower—and inspiration to get our butts in gear regardless!
+
+
+
+Andrew Matthews - WPA Pool/Getty Images
+
+7. Kate Middleton: Presumably the duchess places zero import on such things, being far too high-brow for common concerns, but... dang, Kate. Here the mother of two attends to one of her many engagements in September, less than five months after daughter Princess Charlotte was born.
+
+Leave it to hot-mommy-to-be Chrissy Teigen to share all sorts of info about her pregnancy
+/n

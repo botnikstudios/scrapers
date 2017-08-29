@@ -1,0 +1,48 @@
+Memorial Quilt founder and LGBT activist Cleve Jones (Guy Pearce), women's rights leader and founder of the San Francisco Women's Building Roma Guy (Mary-Louise Parker), her HIV/AIDs nurse and social justice activist wife Dian.../n
+"We are all in that we in When We Rise."While the ABC mini-series debuting tonight will chronicle the real-life personal and political struggles among a diverse family of LGBT men and women who helped pioneer one of the last legs of the U.S. Civil Rights movement, writer and creator Dustin Lance Black wants you to know that this is no mere "us and them" story. In fact, he views the four-part, eight-hour event as something that the world as a whole could benefit from right about now."I could never have predicted the timing for the series. As a student of history, I'm not surprised. I know that history doesn't just move forward in terms of progress and in terms of equality. It's a pendulum," he told E! News' Kristin Dos Santos. "But I certainly know—and one of the lessons of the show is—the way to keep the pendulum moving forward is to hold hands with, and more forward with, other people, other minorities, and other social justice movements. And we haven't been doing that enough. I criticize my gay brothers and sisters, saying, 'Man, you can't be that self-interested. You've got to understand your connection to the black civil rights movement, to the women's movement, and you've got to move forward together.' Because then you won't be defeated."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832577/why-when-we-rise-is-exactly-what-the-world-needs-right-now-according-to-dustin-lance-black');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017127/rs_634x1024-170227152315-634-rachel-griffiths-mary-louise-parker-when-we-rise-abc.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("When We Rise, Mary-Louise Parker, Rachel Griffiths");
+	var imageCaption = encodeURIComponent("When We Rise, Mary-Louise Parker, Rachel Griffiths");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC
+
+"This is what the world needs right now, which is a conversation. We need to have an open conversation about who we are and figure out how to dispel the myths and the lies and the fear by telling our truth," he continued. "This is not a war because the truth of the matter is every single person in this world today is a minority in one way or another depending on how you slice that pie."The decades-spanning mini-series focuses on the stories of Names Project AIDS Memorial Quilt founder and LGBT activist Cleve Jones (Guy Pearce), women's rights leader and founder of the San Francisco Women's Building Roma Guy (Mary-Louise Parker), her HIV/AIDs nurse and social justice activist wife Diane (Rachel Griffiths) and African-American community organizer Ken Jones (Michael K. Williams). Austin McKenzie, Emily Skeggs, Fiona Dourif and Jonathan Majors appear as the younger version of each role, respectively.
+
+As far as Griffiths is concerned, there is no better person to have crafted When We Rise than Black.  "He knows his material. His love and ancestor-worship is very unique," she gushed. "There is no one else who is really is about elevating these lost heroes."Though, tackling the tricky feat of honestly and respectfully representing the life of someone still among the living was not lost on the Brothers & Sisters alum. "It's a huge sense of responsibility that we're playing living women who have very courageously opened their lives and their hearts and their families to exemplify, somehow, part of the American story," she admitted.
+
+For Parker, she's just thrilled the project saw the light of day. "I was so excited it was being done at all. And that it was being done on a network was kind of, for me, mind-blowing," she said. "That now it's being told on ABC is a pretty triumphant moment. Lance also was able to tell the women's part of the story and women's rights and the lesbian movement, which is a story you haven't really seen on on TV...That this was told with a bit more urgency and reality was really exciting to me."For more from the trio, be sure to check out the video above.When We Rise premieres Monday, Feb. 27, while parts two through four air Wednesday through Friday, March 1-3, at 9 p.m. on ABC.
+/n

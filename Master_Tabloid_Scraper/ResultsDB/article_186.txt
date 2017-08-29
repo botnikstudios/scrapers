@@ -1,0 +1,45 @@
+Alice Eve Marries Her High School Sweetheart, Alex Cowper-Smith, in London: Reports By midnight on New Year's Eve, Alice Eve was a married woman! The Star Trek Into Darkness actress tied the knot with her high school sweetheart, U.K. fi.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/610542/alice-eve-marries-her-high-school-sweetheart-alex-cowper-smith-in-london-reports');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201502/rs_634x1024-150102180525-634.Alice-Eve-London.ms.010215.JPG');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alice Eve");
+	var imageCaption = encodeURIComponent("Alice Eve");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ian Gavan/Getty Images
+
+By midnight on New Year's Eve, Alice Eve was a married woman!The Star Trek Into Darkness actress tied the knot with her high school sweetheart, U.K. financier Alex Cowper-Smith, on New Year's Eve in London, according to London's Daily Mail and Daily Express, which obtained photos of what appeared to be a well-attended wedding party.The couple were photographed being driven up to the reception at the Brompton Oratory after saying their I-dos, the blushing bride/snow queen wearing a white dress topped with a luxurious fur-trimmed cape. Her tuxedoed groom sat alongside her and waved to fans and family as they were escorted to the party.The mother of the bride, actress Sharon Maughan, was spotted wearing a long snake-print overcoat and waving to people lined up outside the church before stepping foot inside.
+
+Several other close loved ones and pals of the newlyweds, including model Twiggy and Charles Saatchi, were seen making their way into the holiday event as well.It was revealed back in August of this year that Eve was engaged to Cowper-Smith, after dating one another for several years and attending the Westminster School in London together.During the now-married couple's brief split, Eve reportedly dated poet and Oxford classmate Adam O'Riordan, but they broke up in 2012.The stunning blonde, whose father is actor Trevor Eve, hade a small bit in 2004's Stage Beauty with Claire Danes and Billy Crudup, but her first big moment (or two) on big screens in the U.S. came as Charlotte's bra-eschewing nanny in Sex and the City 2 and Jay Baruchel's picture-perfect love interest in She's Out of My League, both in 2010.Since the successful sequel, she has appeared on Entourage and starred in hits like Men in Black 3 and Star Trek Into Darkness.Congratulations to the newlyweds!
+/n

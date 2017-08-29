@@ -1,0 +1,44 @@
+Ni Chloe Grace Moretz ni Sofia Richie: Ella es la más cercana a Brooklyn Beckham Su corazón le pertenece a otra persona./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/831322/ni-chloe-grace-moretz-ni-sofia-richie-ella-es-la-mas-cercana-a-brooklyn-beckham');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017114/rs_634x1024-170214113119-634.Brooklyn-Beckham-Alexander-Wang.jl.021417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Alexander Wang, Brooklyn Beckham");
+	var imageCaption = encodeURIComponent("ESC: Alexander Wang, Brooklyn Beckham");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Sean Zanni/Patrick McMullan via Getty Images
+
+Su corazón le pertenece a otra persona.
+
+¿Chloe Grace Moretz? ¿Sofia Richie? No, la joven que en este momento tiene un lugar de prefrencia en la vida de Brooklyn tiene otro nombre.A sus 17 años, Anais Gallagher parece estar ya condenada a ocupar tantos titulares como, en su momento, los acaparaba su famoso padre, el roquero Noel Gallagher, ya que desde hace años a la hija del vocalista de Oasis le han atribuido llamativos romances con otros rostros conocidos como los de Brooklyn Beckham, primogénito del matrimonio Beckham, e incluso con Rocco Ritchie, hijo de la expareja formada por Madonna y Guy Ritchie quien también reside en Londres.Sin embargo, la joven ha querido aprovechar una de sus escasas intervenciones públicas para ahondar en la clase de vínculo que mantiene con los retoños de otras celebridades que viven en la capital británica y, sobre todo, para insistir en que la conexión tan especial que mantiene con Brooklyn se circunscribe únicamente al ámbito de las relaciones fraternales.E! NEWS > Oops! David Beckham otra vez avergüenza públicamente a su hijo Brooklyn (+ Foto)"No estoy saliendo con ninguno de los dos [en referencia a Brooklyn y a Rocco]. Entiendo por qué se ha hablado tanto de Brooklyn y de mí, porque se nos ha visto juntos con mucha frecuencia. Somos tan buenos amigos, que es normal que nos hayan sacado fotos abrazándonos o sonriendo mucho. Pero no, somos como hermanos en realidad. Tenemos una relación muy buena y, además, a mí me gusta ayudarle con las chicas", explicó Anais a la revista ES Magazine.Además de asistir a su buen amigo en sus acercamientos al sexo opuesto, con el paso de los años la hija de Noel Gallagher y Meg Matthews también ha desarrollado un gran afecto por la supermodelo Kate Moss, amiga de sus padres desde hace más de dos décadas y la persona  a la que Anais considera no solo una de las personas más "divertidas" que ha conocido, sino también una segunda madre a la que confiarle cualquier secreto.E! NEWS > OMG! ¿Esto confirma a Brooklyn Beckham y Sofia Richie como la nueva pareja hot del año?"Es sin duda una de las personas más divertidas que he conocido en mi vida, me parto de risa con ella. Puede parecer lo contrario, pero es una figura muy maternal, muy protectora y cariñosa. Me escribe al menos una vez por semana y nos llevamos tan bien quizá porque no es exactamente mi madre, aunque casi. A veces nos escapamos de casa las dos para salir por ahí, y cuando volvemos siempre me hace unas tostadas con mantequilla de cacahuete", reveló sobre el lado más desconocido de la estrella de las pasarelas.Aunque reconoce haber disfrutado siempre de una vida apacible y llena de satisfacciones, Anais Gallagher también reconoce que en ocasiones el peso de su apellido marca sus relaciones diarias y la convierte, muy a su pesar, en el centro de atención de cualquier clase de encuentros.E! NEWS > ¡Brooklyn Beckham heredará la corona de España de su padre! (+ Video)"Es complicado encontrar tu propia identidad en ese sentido, ya que por lo general cuando lidias con ciertas personas, lo haces por ser hija de quien eres y no por ti misma. He visto cómo se escribían cosas sobre mí desde que era pequeña, y sé que nunca me he merecido tanta notoriedad. Ni soy cantante ni tengo ningún talento reconocible, pero soy famosa por el padre que tengo. Pero lo respeto y lo comprendo", indicó al tiempo que hacía gala de una inusitada madurez.
+/n

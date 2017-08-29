@@ -1,0 +1,86 @@
+Desperate For A Diet? Eva Longoria Packs On More Than 40 Pounds!/n
+
+					var next_post_url = "http://radaronline.com/photos/jan-michael-vincent-frail-condition-shocks-fans/";
+					var prev_post_url = "http://radaronline.com/photos/pamela-anderson-plastic-surgery-before-after-face-eyes-fillers-botox-doctor-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-05-30T14:59:15+00:00","caption":"Former Desperate Housewife Eva Longoria has blossomed into a happy married lady, but experts say she appears to have gained more than 40 pounds in the process! Click through our gallery to see how she looks today, and why doctors are worried.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-PP.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T14:59:16+00:00","caption":"Friends told RadarOnline.com the Latin lovely, 42, admits to letting herself go\u00a0since tying the knot with her third hubby, Mexican media mogul Jos\u00e9 \u201cPepe\u201d Bast\u00f3n.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T14:59:17+00:00","caption":"The couple celebrated their first anniversary on May 21 with a vacation in France during the Cannes Film Festival. One recent photo seemed to show a little extra girth, indicating Eva might be set to become a mom, but she was quick to shoot down that rumor.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T14:59:18+00:00","caption":"\u201cEverybody is saying I\u2019m pregnant, and I\u2019m not,\u201d Eva insisted. \u201cI was just lactose intolerant, apparently.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T14:59:19+00:00","caption":"The petite 5-foot-2 beauty also blamed her aversion to exercise\u00a0for her fuller figure.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T14:59:20+00:00","caption":"\u201cI don\u2019t enjoy working out,\u201d Eva admitted. \u201cI always wish my trainer doesn\u2019t show up!\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T14:59:22+00:00","caption":"But one medical expert believes the Devious Maids stunner may have gone too far\u00a0with her lazy new lifestyle.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T18:20:07+00:00","caption":"\u201cShe looks like she\u2019s gained more than 40 pounds!\u201d said nutrition expert Dr. Stuart Fischer, who has not treated Longoria. \"That kind of weight gain is clearly unhealthy, and even potentially deadly for a woman of her age!\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T18:23:23+00:00","caption":"According to Dr. Fischer, excessive weight gain puts women at greatly increased risk of 65 different illnesses \u2014 including breast and cervical cancer. \u201cShe may be happy, but she\u2019s certainly not healthy \u2014 and that could be life-threatening!\u201d he warned.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-30T18:23:24+00:00","caption":"Are you worried about Eva\u2019s weight? Let us know in the comments section.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/eva-longoria-doctors-worry-packs-pounds-08.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Desperate For A Diet? Eva Longoria Packs On More Than 40 Pounds!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 10 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10Former Desperate Housewife Eva Longoria has blossomed into a happy married lady, but experts say she appears to have gained more than 40 pounds in the process! Click through our gallery to see how she looks today, and why doctors are worried.Photo credit: BACKGRID2 of 10Friends told RadarOnline.com the Latin lovely, 42, admits to letting herself go since tying the knot with her third hubby, Mexican media mogul José “Pepe” Bastón.Photo credit: BACKGRID3 of 10The couple celebrated their first anniversary on May 21 with a vacation in France during the Cannes Film Festival. One recent photo seemed to show a little extra girth, indicating Eva might be set to become a mom, but she was quick to shoot down that rumor.Photo credit: BACKGRID4 of 10“Everybody is saying I’m pregnant, and I’m not,” Eva insisted. “I was just lactose intolerant, apparently.”Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 10The petite 5-foot-2 beauty also blamed her aversion to exercise for her fuller figure.Photo credit: BACKGRID6 of 10“I don’t enjoy working out,” Eva admitted. “I always wish my trainer doesn’t show up!”Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 10But one medical expert believes the Devious Maids stunner may have gone too far with her lazy new lifestyle.Photo credit: BACKGRID8 of 10“She looks like she’s gained more than 40 pounds!” said nutrition expert Dr. Stuart Fischer, who has not treated Longoria. "That kind of weight gain is clearly unhealthy, and even potentially deadly for a woman of her age!”Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 10According to Dr. Fischer, excessive weight gain puts women at greatly increased risk of 65 different illnesses — including breast and cervical cancer. “She may be happy, but she’s certainly not healthy — and that could be life-threatening!” he warned.Photo credit: BACKGRID10 of 10Are you worried about Eva’s weight? Let us know in the comments section.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: INSTAR Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Former Desperate Housewife Eva Longoria has blossomed into a happy married lady, but experts say she appears to have gained more than 40 pounds in the process! Click through our gallery to see how she looks today, and why doctors are worried.Photo credit: BACKGRIDFriends told RadarOnline.com the Latin lovely, 42, admits to letting herself go since tying the knot with her third hubby, Mexican media mogul José “Pepe” Bastón.Photo credit: BACKGRIDThe couple celebrated their first anniversary on May 21 with a vacation in France during the Cannes Film Festival. One recent photo seemed to show a little extra girth, indicating Eva might be set to become a mom, but she was quick to shoot down that rumor.Photo credit: BACKGRID“Everybody is saying I’m pregnant, and I’m not,” Eva insisted. “I was just lactose intolerant, apparently.”Photo credit: BACKGRIDThe petite 5-foot-2 beauty also blamed her aversion to exercise for her fuller figure.Photo credit: BACKGRID“I don’t enjoy working out,” Eva admitted. “I always wish my trainer doesn’t show up!”Photo credit: BACKGRIDBut one medical expert believes the Devious Maids stunner may have gone too far with her lazy new lifestyle.Photo credit: BACKGRID“She looks like she’s gained more than 40 pounds!” said nutrition expert Dr. Stuart Fischer, who has not treated Longoria. "That kind of weight gain is clearly unhealthy, and even potentially deadly for a woman of her age!”Photo credit: BACKGRIDAccording to Dr. Fischer, excessive weight gain puts women at greatly increased risk of 65 different illnesses — including breast and cervical cancer. “She may be happy, but she’s certainly not healthy — and that could be life-threatening!” he warned.Photo credit: BACKGRIDAre you worried about Eva’s weight? Let us know in the comments section.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: INSTAR Images 
+
+
+
+
+
+
+
+
+
+/n

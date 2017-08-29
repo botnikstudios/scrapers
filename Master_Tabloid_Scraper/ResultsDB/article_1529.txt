@@ -1,0 +1,46 @@
+Cate Blanchett Breaks Her Silence After Adopting Edith Cate Blanchett makes a convincing evil stepmother, but in real life, she's anything but evil. The actress opened up about daughter Edith Vivian Patricia Upton for the first time whe.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/635958/cate-blanchett-breaks-her-silence-after-adopting-edith');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015216/rs_634x1024-150316062721-634.Cate-Blanchett-JR-31615.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cate Blanchett");
+	var imageCaption = encodeURIComponent("Cate Blanchett");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Lisa Maree Williams/Getty Images
+
+Cate Blanchett makes a convincing evil stepmother, but in real life, she's anything but evil.The actress opened up about daughter Edith Vivian Patricia Upton for the first time when she attended the premiere of Cinderella at the State Theatre in Sydney, Australia, Sunday. "Fourth time around," the actress, also mom to sons Dashiell, 13, Roman, 10, and Ignatius, 6, told Sky News. "It's extraordinary."Blanchett, who has been married to playwright Andrew Upton for 17 years, explained why they decided to adopt a baby girl. "There's a lot of children out there who don't have the good fortunate that our biological children, so it's wonderful," she revealed. "It's wonderful to welcome a little girl into our fold."The Academy Award winner, who wore a Roksanda Ilincic dress, added, "We're besotted."The couple's adoption news was made public March 6.
+
+Blanchett didn't say anything else about her newborn, but she had plenty to say about the movie. "It's always great to play someone evil. We're taught—particularly as little girls—to be kind and good and sweet, so it's great to play someone who's the polar opposite of all those adjectives," she admitted.Director Kenneth Branagh's Cinderella debuted with $132.5 million worldwide this weekend, including an estimated $70.1 million domestically from 3,845 theaters, and a record-breaking $25 million in China. It also starred Helena Bonham Carter as The Fairy Godmother and Richard Madden as Prince Charming.
+
+Blanchett jumped at the chance to star in a fairy tale film that both honors its tradition and updates its titular character's motivations. "I think it's modern in a very subtle way, in a sense that when I grew up—I don't know about you—I found Cinderella somewhat of a doormat. I didn't know why she put up with all the cruelty. What Lily James has managed to infuse the character with is a sense of quiet dignity and optimism and openheartedness and the resilience," she said. "Ken kept talking about kindness as a superpower. So with all those sort of superhero films out there, maybe this is a gentle superhero film."Walt Disney Pictures' Cinderella marks the No. 6 March opening of all time, not accounting for inflation.
+/n

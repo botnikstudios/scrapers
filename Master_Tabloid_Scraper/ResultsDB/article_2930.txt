@@ -1,0 +1,48 @@
+Daisy Ridley "Devastated" Over Carrie Fisher's Death The actresses' bond was apparent when Carrie interviewed Daisy for Interview magazine in 2015. "People have been asking me about crushes out of the original film, .../n
+Star Wars lost one of its biggest stars Tuesday.Carrie Fisher, daughter of singer Eddie Fisher and actress Debbie Reynolds, died days after suffering a heart attack in Los Angeles. As news of the 60-year-old actress' death spread through Hollywood, tributes came pouring in from many of her Star Wars colleagues and co-stars, including Gwendoline Christie, Anthony Daniels, Harrison Ford, Mark Hamill, Kathleen Kennedy, George Lucas, Peter Mayhew, Lupita Nyong'o and Andy Serkis.Daisy Ridley shared her sentiments in a statement to E! News.
+
+"Devastated at this monumental loss," Ridley said. "How lucky we all are to have known her, and how awful that we have to say goodbye."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/818258/daisy-ridley-devastated-over-carrie-fisher-s-death');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161127/rs_634x777-161227104048-634-Carrie-Fisher-Daisey-Ridley-JR-122716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carrie Fisher, Daisy Ridley");
+	var imageCaption = encodeURIComponent("Carrie Fisher, Daisy Ridley");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Randy Holmes/ABC via Getty Images
+
+The actresses' bond was apparent when Carrie interviewed Daisy for Interview magazine in 2015. "People have been asking me about crushes out of the original film, and I say you every time," Daisy, who played Rey in Star Wars: The Force Awakens, told the screen legend. "They were like, 'Is there anyone you particularly look up to?' And I'm like, "Well, Carrie, obviously." While Ridley also fancied Harrison Ford and Mark Hamill, she said, "You're a kick-ass woman.""I'm your predecessor, I think," Carrie told Daisy, then a relative newcomer."Exactly," the 24-year-old actress replied. "You paved the way for all the girls.""It was my gravel!" Carrie said. "Girl gravel! Girl-vel."
+
+Carrie and Daisy reprise their roles in Star Wars: Episode VIII, set for release on Dec. 15, 2017. Both women have been credited for bringing strong female characters to life on the big screen.Kathleen Kennedy, President of Lucasfilm, paid tribute to Fisher Tuesday afternoon. "Carrie holds such special place in the hearts of everyone at Lucasfilm it is difficult to think of a world without her. She was Princess Leia to the world but a very special friend to all of us. She had an indomitable spirit, incredible wit, and a loving heart. Carrie also defined the female hero of our age over a generation ago," she told E! News. "Her groundbreaking role as Princess Leia served as an inspiration of power and confidence for young girls everywhere. We will miss her dearly."
+/n

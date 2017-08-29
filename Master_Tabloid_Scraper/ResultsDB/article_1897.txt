@@ -1,0 +1,52 @@
+Evangeline Lilly Doesn't Think Marriage Is ''Realistic": "I Don't Believe in Forever Promises" Is doesn't sound like Evangeline Lilly and her longtime partner Norman Kali will be getting married any time soon. Although the 35-year-old Hobbit actress .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/610083/evangeline-lilly-doesn-t-think-marriage-is-realistic-i-don-t-believe-in-forever-promises');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141130/rs_634x761-141230102319-634.evangeline-lilly-ocean-drive-magazine-122914.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evangeline Lilly, Ocean Drive");
+	var imageCaption = encodeURIComponent("Evangeline Lilly, Ocean Drive");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Warick Saint/Ocean Drive
+
+Is doesn't sound like Evangeline Lilly and her longtime partner Norman Kali will be getting married any time soon.Although the 35-year-old Hobbit actress and Kali have a 3-year-old son together, Lilly says she doesn't necessarily believe in the institution of marriage."Every other 16-year-old girl wanted to look at bridal magazines; I could not have been more bored with the notion," the brunette beauty tells the new issue of Ocean Drive. "I have an American son and an American partner, so marriage might logistically make sense at one point. My partner is a stay-at-home father, so if he wants to be on my health plan, or taxwise, or maybe on paper we want to have our I's dotted and our T's crossed, but emotionally neither of us really feels the need for it. We love each other today, and we hope we'll love each other tomorrow. In my world, I don't believe in forever promises. I don't think it's realistic."
+
+While marriage sounds out of the question, Lilly and Kali really want more kids."What I wanted originally was six kids," she tells the mag. "I frickin' love being pregnant. I'm one of the lucky women who just had a blissful pregnancy, but I wanted to adopt four. My partner and I have really been through the ringer in the adoption world and it's hard, so we'll see what happens. Life is magically beautiful, and it brings you what is perfect."
+
+
+
+
+Warick Saint/Ocean Drive
+
+Lilly also admits she doesn't really feel at home in Hollywood (the actual city and the industry)."I love it for a time. I love the entertaining and to see the lights and the shows and enjoy the restaurants and see my friends who I never see, but there's an emptiness that settles in very quickly," she said. "There's no nature. There's no trees. I fly into L.A. and my heart sinks, because I look at this vast landscape of concrete and I get sick to my stomach."
+/n

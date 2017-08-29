@@ -1,0 +1,86 @@
+Brooke Burke And David Charvet Flaunt Their Hot Bodies During Vacay Beach 'PDA'/n
+
+					var next_post_url = "http://radaronline.com/photos/georgia-fugitives-caught-tennessee-man/";
+					var prev_post_url = "http://radaronline.com/photos/abby-lee-miller-partying-mystery-man-prison-sentence/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-18T18:50:19+00:00","caption":"Brooke Burke has an amazing beach body and RadarOnline.com has all the details!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-pp-1-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-18T14:32:42+00:00","caption":"Brooke, 45, topped-up on her tan with her girlfriends on board a luxury yacht in the South Of France.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-300.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-18T14:32:44+00:00","caption":"The former Dancing With The Stars host still has a pert derriere that she has been displaying on vacation.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-302.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-18T14:32:45+00:00","caption":"She has been soaking up the sun with her family in Europe and she looked sensational in this white swimsuit.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-301.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T17:09:55+00:00","caption":"The model has been on holiday with her husband David Charvet and their two kids Heaven, 10, and Shaya, 9.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-7.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T17:09:56+00:00","caption":"Amazingly she has two older kids Neriah, 17, and Sierra, 15, from previous marriage to Garth Fisher.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T17:09:57+00:00","caption":"During the vacation both Brooke and David swam together and indulged in some summer PDA too!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T17:09:59+00:00","caption":"The keep fit fanatic has been working out a lot recently and the results are plain to see.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T17:10:00+00:00","caption":"Brooke and her family are making sure that they have a great time and an active vacation also.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T17:10:05+00:00","caption":"Since arriving in St. Tropez the celebrity has been sporting several daring swimming costumes showing off her amazing physique.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/brooke-burke-bikini-david-charvet-beach-pda-8.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Brooke Burke And David Charvet Flaunt Their Hot Bodies During Vacay Beach ‘PDA’
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 10 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10Brooke Burke has an amazing beach body and RadarOnline.com has all the details!Photo credit: BACKGRID2 of 10Brooke, 45, topped-up on her tan with her girlfriends on board a luxury yacht in the South Of France.Photo credit: BACKGRID3 of 10The former Dancing With The Stars host still has a pert derriere that she has been displaying on vacation.Photo credit: BACKGRID4 of 10She has been soaking up the sun with her family in Europe and she looked sensational in this white swimsuit.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 10The model has been on holiday with her husband David Charvet and their two kids Heaven, 10, and Shaya, 9.Photo credit: BACKGRID6 of 10Amazingly she has two older kids Neriah, 17, and Sierra, 15, from previous marriage to Garth Fisher.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 10During the vacation both Brooke and David swam together and indulged in some summer PDA too!Photo credit: BACKGRID8 of 10The keep fit fanatic has been working out a lot recently and the results are plain to see.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 10Brooke and her family are making sure that they have a great time and an active vacation also.Photo credit: BACKGRID10 of 10Since arriving in St. Tropez the celebrity has been sporting several daring swimming costumes showing off her amazing physique.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Brooke Burke has an amazing beach body and RadarOnline.com has all the details!Photo credit: BACKGRIDBrooke, 45, topped-up on her tan with her girlfriends on board a luxury yacht in the South Of France.Photo credit: BACKGRIDThe former Dancing With The Stars host still has a pert derriere that she has been displaying on vacation.Photo credit: BACKGRIDShe has been soaking up the sun with her family in Europe and she looked sensational in this white swimsuit.Photo credit: BACKGRIDThe model has been on holiday with her husband David Charvet and their two kids Heaven, 10, and Shaya, 9.Photo credit: BACKGRIDAmazingly she has two older kids Neriah, 17, and Sierra, 15, from previous marriage to Garth Fisher.Photo credit: BACKGRIDDuring the vacation both Brooke and David swam together and indulged in some summer PDA too!Photo credit: BACKGRIDThe keep fit fanatic has been working out a lot recently and the results are plain to see.Photo credit: BACKGRIDBrooke and her family are making sure that they have a great time and an active vacation also.Photo credit: BACKGRIDSince arriving in St. Tropez the celebrity has been sporting several daring swimming costumes showing off her amazing physique.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

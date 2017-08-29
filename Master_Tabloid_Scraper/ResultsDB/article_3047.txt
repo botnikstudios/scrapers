@@ -1,0 +1,50 @@
+Josephine Skriver Is Named a Victoria's Secret Angel: 5 Facts About the Sexy Model Meet Victoria's Secret's newest Angel, Josephine Skriver! The 22-year-old sexy Danish model has worked for the lingerie company before, walking.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/741823/josephine-skriver-is-named-a-victoria-s-secret-angel-5-facts-about-the-sexy-model');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016119/rs_634x916-160219141041-634-josephine-skriver-victorias-secret-fashion-show-2015-111015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Josephine Skriver, Victoria's Secret Fashion Show 2015");
+	var imageCaption = encodeURIComponent("Josephine Skriver, Victoria's Secret Fashion Show 2015");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dimitrios Kambouris/Getty Images for Victoria's Secret
+
+Meet Victoria's Secret's newest Angel, Josephine Skriver!The 22-year-old sexy Danish model has worked for the lingerie company before, walking in its annual fashion show every year since 2015, and graces the cover of Victoria's Secret's 2016 Swim catalogue. She is now considered an official spokesmodel, joining the likes of veteran Victoria's Secret Angels Candice Swanepoel, 27, and Adriana Lima and Alessandra Ambrosio, both 34."It's has happened!!" Skriver said on Instagram Friday. "I'm literally living my dream right now! Can't believe I get to share with you today that I'm #NewestAngel for @victoriassecret thanks to everyone that has helped to get me here! So humble and proud to be a part of such an amazing legacy!! THAAAAANK YOU from the bottom of my heart to everyone who believed in me!!""So overwhelmed with every happy emotion right now!" she continued. "I don't even know how to be in my own body! It still feels so insane the day is finally here! #NewestAngel...Flying on happiness right now!!!!!"
+
+Check out five facts about Skriver.1. She's an "IVF kid:" "When people look at me and know that I'm an IVF kid, I hope they see a person, I hope to see a human being just like anyone else," Skriver told i-D magazine last year. "You get so many, like, 'She's not made the natural way, she shouldn't even be here.' But I'm not a science experiment."2. Her mother and father are both gay: She told i-D magazine her mother put in an ad in an LGBTQ newsletter looking for a gay male partner to help her start a family, adding that the man who answered the ad and became her father was at the time engaged to his now-husband.
+
+
+
+Victoria's Secret
+
+3. She's an LGBTQ activist: Skriver is an ambassador for the Family Equality Council and it's Outspoken Generation Program, which encourages children with LGBTQ parents to share their positive personal family stories.""I have always been super proud of my parents," she said in a statement. "They raised me with unconditional love and helped me become the person I am today," Josephine said. "Now it's important for me to use my voice to help the world understand and become more open minded about LGBTQ families."4. She's got a younger brother, Oliver, who's super adorable: The two share the same parents and Skriver calls him "the most important man in my life."
+/n

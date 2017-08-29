@@ -1,0 +1,44 @@
+Lena Dunham Sheds All Her Clothes to Send a Strong Message About Her Body: "Love It All" If there's anyone to turn to for some comforting words about body image, look no further than Lena Dunham.  The Girls creator sent everyo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/861465/lena-dunham-sheds-all-her-clothes-to-send-a-strong-message-about-her-body-love-it-all');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201656/rs_634x1024-160606165740-634-lena-dunham-cfda-2016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lena Dunham, 2016 CFDA Fashion Awards");
+	var imageCaption = encodeURIComponent("Lena Dunham, 2016 CFDA Fashion Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX/Shutterstock
+
+If there's anyone to turn to for some comforting words about body image, look no further than Lena Dunham. The Girls creator sent everyone into the weekend with yet another empowering message about loving the skin you're in—and believing everyone else does, too. While she often stripped down in character as Hannah Horvath on her hit HBO series, she touched on her private defense mechanisms for baring it all and why she's ready to let those go. "I spent so many years loving my body but thinking it wasn't lovable by others- its sole purpose was to be fodder for jokes. I performed the insult so no one else could," she began in a candid message on Instagram along with a photo of her bare torso censored with emojis of pears and a honey pot. "I don't regret any of it- that's my art and that was my truth."
+
+"I have no tips I give no tips I don't want to be on this cover cuz it's diametrically opposed to everything I've fought my whole career for and it's not a compliment to me because it's not an achievement thanx," she concluded. Keep sharing your message, Lena, because we're all listening. 
+/n

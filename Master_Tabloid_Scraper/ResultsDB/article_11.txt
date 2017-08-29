@@ -1,0 +1,82 @@
+Nicole Kidman & Keith Urban Put On United Front Amid Divorce Rumors/n
+
+					var next_post_url = "http://radaronline.com/photos/kim-kardashian-post-baby-body-kris-jenner-christmas-eve-party-pics/";
+					var prev_post_url = "http://radaronline.com/photos/bobbi-kristina-brown-dead-bathtub-atlanta-townhome-listing-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2015-12-29T11:50:19+00:00","caption":"Nicole Kidman and Keith Urban dispelled split rumors during a family day out at Universal Studios in Los Angeles on Christmas Eve with their two daughters Sunday Rose and Faith Margaret.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:48+00:00","caption":"After Keith Urban lost his father to cancer in early December, rumors swirled that his marriage to Nicole Kidman was falling apart.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:49+00:00","caption":"But the family put on a united front while spending Christmas Eve together at a mall in Sherman Oaks, California.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:55+00:00","caption":"Nicole and Keith, both 48, got in ample shopping with Sunday, 7, and Faith, 5. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:51+00:00","caption":"The country crooner and Aussie actress walked arm-in-arm for their last minute shopping excursion, hoping to squash any talk of marital strife.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:52+00:00","caption":"Married in 2006, the couple has proved to be one of Hollywood's longer-lasting relationships \u2014 for now. ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:46+00:00","caption":"For the outing, Nicole kept it casual in a black turtleneck, blazer and jeans.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:53+00:00","caption":"Keith was equally casual in a jacket and a pair of jeans, though both attempted to go \"incognito\" in hats. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:59+00:00","caption":"The pair stayed perky for the outing with a cup of Starbucks coffee.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:58+00:00","caption":"Divorce rumors began when Nicole did not attend the funeral for Keith's father, but the Daily Telegraph reports that the couple's daughters were \"too grief-stricken\" to attend, and Nicole may have stayed behind to be with them.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-28T17:12:56+00:00","caption":"Do you think Nicole and Keith are headed for divorce? Let us know in the comments below!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mall-09.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Nicole Kidman & Keith Urban Put On United Front Amid Divorce Rumors
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mallNicole Kidman and Keith Urban dispelled split rumors during a family day out at Universal Studios in Los Angeles on Christmas Eve with their two daughters Sunday Rose and Faith Margaret.Photo credit: Splash News2 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman holds her stomach during a family day out at Universal Studios in Los AngelesAfter Keith Urban lost his father to cancer in early December, rumors swirled that his marriage to Nicole Kidman was falling apart.Photo credit: Splash News3 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman holds her stomach during a family day out at Universal Studios in Los AngelesBut the family put on a united front while spending Christmas Eve together at a mall in Sherman Oaks, California.Photo credit: Splash News4 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaNicole and Keith, both 48, got in ample shopping with Sunday, 7, and Faith, 5. Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaThe country crooner and Aussie actress walked arm-in-arm for their last minute shopping excursion, hoping to squash any talk of marital strife.Photo credit: Splash News6 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaMarried in 2006, the couple has proved to be one of Hollywood's longer-lasting relationships — for now. Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman holds her stomach during a family day out at Universal Studios in Los AngelesFor the outing, Nicole kept it casual in a black turtleneck, blazer and jeans.Photo credit: Splash News8 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaKeith was equally casual in a jacket and a pair of jeans, though both attempted to go "incognito" in hats. Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaThe pair stayed perky for the outing with a cup of Starbucks coffee.Photo credit: Splash News10 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaDivorce rumors began when Nicole did not attend the funeral for Keith's father, but the Daily Telegraph reports that the couple's daughters were "too grief-stricken" to attend, and Nicole may have stayed behind to be with them.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11EXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaDo you think Nicole and Keith are headed for divorce? Let us know in the comments below!Photo credit: Splash News 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+nicole-kidman-keith-urban-divorce-rumors-sherman-oaks-mallNicole Kidman and Keith Urban dispelled split rumors during a family day out at Universal Studios in Los Angeles on Christmas Eve with their two daughters Sunday Rose and Faith Margaret.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman holds her stomach during a family day out at Universal Studios in Los AngelesAfter Keith Urban lost his father to cancer in early December, rumors swirled that his marriage to Nicole Kidman was falling apart.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman holds her stomach during a family day out at Universal Studios in Los AngelesBut the family put on a united front while spending Christmas Eve together at a mall in Sherman Oaks, California.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaNicole and Keith, both 48, got in ample shopping with Sunday, 7, and Faith, 5. Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaThe country crooner and Aussie actress walked arm-in-arm for their last minute shopping excursion, hoping to squash any talk of marital strife.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaMarried in 2006, the couple has proved to be one of Hollywood's longer-lasting relationships — for now. Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman holds her stomach during a family day out at Universal Studios in Los AngelesFor the outing, Nicole kept it casual in a black turtleneck, blazer and jeans.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaKeith was equally casual in a jacket and a pair of jeans, though both attempted to go "incognito" in hats. Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaThe pair stayed perky for the outing with a cup of Starbucks coffee.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaDivorce rumors began when Nicole did not attend the funeral for Keith's father, but the Daily Telegraph reports that the couple's daughters were "too grief-stricken" to attend, and Nicole may have stayed behind to be with them.Photo credit: Splash NewsEXCLUSIVE: ** PREMIUM EXCLUSIVE RATES APPLY** Nicole Kidman and Keith Urban spend Christmas Eve at the mall with their daughters in Sherman Oaks, CaliforniaDo you think Nicole and Keith are headed for divorce? Let us know in the comments below!Photo credit: Splash News 
+
+
+
+
+
+
+
+
+
+/n

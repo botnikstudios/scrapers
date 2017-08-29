@@ -1,0 +1,49 @@
+EXCLUSIVE! Jessie James Decker Recalls the Moment She Decided to Get Her ''Body Back'' With a Major Lifestyle Change "There was one day I saw pictures of myself on the beach, at our beach house in Florida, and I was .../n
+Don't get it twisted: Jessie James Decker has had to work for her body!E! News caught up with singer and mama-of-two who dished details about what she does to stay healthy and toned, including following the South Beach Diet. Though she admitted genetics allowed her to get away with eating whatever she wanted throughout her teens, once she got pregnant "everything changed.""I am not 19 anymore and can just eat whatever I want and just stay thin," she told us (in fact, today marks her 29th birthday!). "I was genetically lucky with [my body] because my family looks great, and it was just what I was used to. And being young, it's a lot easier."
+
+However, she explained, "As soon as I got pregnant, everything changed. My body completely changed. I gained 55 lbs. with [my first pregnancy with] Vivianne."She recalled the moment that made her realize she wanted to feel healthy again.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/eric_and_jessie/news/843209/jessie-james-decker-recalls-the-moment-she-decided-to-get-her-body-back-with-a-major-lifestyle-change');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201721/rs_634x1024-170301121947-634.Jessie-James-Decker-Miami-JR-030117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jessie James Decker");
+	var imageCaption = encodeURIComponent("Jessie James Decker");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+OHPIX/FAMEFLYNET PICTURES
+
+
+"There was one day I saw pictures of myself on the beach, at our beach house in Florida, and I was like, 'Oh my God! I have got to make a change! I cannot do this anymore, and I'm sure Eric [Decker] is tired of looking at this.'"She continued, "These genetics, that whole, 'young girl genetics' thing, it's gone! I knew if I wanted to get my body back to where it was, I was going to have to make a lifestyle change, and I certainly did."Jessie has been following the South Beach Diet as well as working out, and as you can see, she looks and feels better than ever.However, there's one cheat food the hot mama just won't give up: chocolate chip cookies!
+
+ "I totally wish that I didn't gain weight from that," she laughed. "That would be the dream, but it's all good and nothing's going to stop me from eating them."Preach, girl, preach!
+/n

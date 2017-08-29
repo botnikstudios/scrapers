@@ -1,0 +1,55 @@
+This Is Exactly What Julia Roberts Does to Stay Beautiful, Inside and Out—All Her Diet, Fitness and Beauty Tips Roberts' Relaxation Method(s): Mahjongg Beauty Secrets: Mascara: "It makes you look like you've had a good nap,&qu.../n
+So, how does People's Most Beautiful Woman remain so beautiful? Well, let's go straight to the source!Over the years Julia Roberts has revealed her beauty, fitness and diet secrets, none of which have seemed that unattainable. Like any other celebrity, Roberts credits her fit physique with a classic combination of healthy diet and exercise, but there's also more to it than that. In honor of her historic fifth People title, E! News has rounded up Roberts' tips to be—and stay—beautiful inside and out.When it comes to what she eats in a day, the rom-com star breaks down what her meals typically look like:Breakfast: Eggs over easy with some avocado, sourdough toast (carbs!), coffee, coconut water and blueberries. 
+
+Lunch:Salad with grilled chickenDinner: Wild salmon, brown rice, more avocadoDessert:CookieAt one point Roberts and her family dabbled with a gluten-free diet. As for how she exercises, this is what Roberts has to say.Fitness Routine: Yoga, which she studies "more conscious level."Plyometrics: "After 90 minutes I'm lying in savasana like, 'Phew! I'm so glad that's behind me!'"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844600/this-is-exactly-what-julia-roberts-does-to-stay-beautiful-inside-and-out-all-her-diet-fitness-and-beauty-tips');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017319/rs_634x1024-170419094516-634.julia-roberts-beauty-2.cm.41917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Julia Roberts, Oscars 1990, Beauty");
+	var imageCaption = encodeURIComponent("Julia Roberts, Oscars 1990, Beauty");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ron Galella, Ltd./WireImage
+
+Roberts' Relaxation Method(s):MahjonggBeauty Secrets:Mascara: "It makes you look like you've had a good nap," she told a 2012 issue of InStyle.Happiness: "People who seem truly happy," she tells People. "That's what makes everybody the most gorgeous." But everyone experiences trials and tribulations, which is why Roberts isn't opposed to some artificial help. While she doesn't participate, the Mother's Day actress isn't against Botox and fillers.Facials (over massages if she had to choose)
+
+
+
+Kypros/Getty Images
+
+
+Baking soda for white teeth: "I learned it from my grandfather," she revealed to InStyle. "He'd put a big heaping mound of it on his toothbrush. He had only one cavity his entire life.Roberts also told Allure "standing up straight" is the "best" beauty advice she's ever gotten. But how does an A-list star become such an expert on beauty and fitness? Well, you'd have to ask her husband, Daniel Moder.
+
+"My husband," she answered when asked who taught her the most about beauty. "I don't know that you can put it into words, but that's what your person does for you, in ways clear and unclear."
+/n

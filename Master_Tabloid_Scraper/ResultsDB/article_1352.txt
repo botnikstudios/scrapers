@@ -1,0 +1,45 @@
+and he's currently filming the Werner Herzog-directed biography Queen of the Desert, which also stars Nicole Kidman and James Franco and centers on Gertrude Bell's life. "This year, I'm trying to see what my niche is,&quo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/501833/robert-pattinson-now-moisturizes-calls-it-a-profound-change-in-his-life');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131015/rs_634x1024-131115092934-634-Go-Go-Gala-Rob-Adam-and-Scott1.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Robert Pattinson ");
+	var imageCaption = encodeURIComponent("Robert Pattinson ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Forget Twilight! There's something else in Robert Pattinson's life that's been completely life-changing: moisturizing.While speaking with The Wall Street Journal in a new feature, the 27-year-old stud opened up about his grooming habits, namely his skincare regimen, and shared that he recently switched up his morning routine which has worked wonders on his flawless face."I was a brush-your-teeth-and-have-a-shower kind of guy. I can't tell if it's because of my association with Dior or because I'm older, but I've started moisturizing," the Twilight heartthrob revealed, citing Dermo System Repairing Moisturizing Emulsion as his favorite skin salve. "It's been a quite a profound change in my life," he added with a tinge of sarcasm.Happy to hear it, R.Pattz.
+
+The down-to-Earth actor also opened up about his new Dior Homme campaign after he was named the face of the men's fragrance in October 2012. The most recent video clip for Dior Homme was released in September, and, from beachside convertible rides to lusty makeout session in an elevator shaft, it's safe to say the one-minute video, dubbed The Film, is steamy as ever."I like trying to do ambitious things," Kristen Stewart's former flame shared. "That's what got me really enthusiastic about the campaign, that [Dior] wasn't shying away from anything."As for his fashion musts?Nudie jeans and "old Hanes T-shirts," although, with the exception of his fancy skin care regime, he admits to finding some trends totally over the top.
+
+"There are stores that sell these sweat-stained T-shirts for like $80," he said. "It's a weird cult!"Pattinson will next be seen on the big screen alongside Carrie Fisher and Julianne Moore in the David Cronenberg-directed drama Map to the Stars, which R.Pattz describes as a "darkly comedic Hollywood satire ghost story."He's also signed on to Jesper Ganslandt's thriller Mission: Blacklist, and he's currently filming the Werner Herzog-directed biography Queen of the Desert, which also stars Nicole Kidman and James Franco and centers on Gertrude Bell's life. "This year, I'm trying to see what my niche is," the actor, best known for his role as vampire Edward Cullen in the mega-franchise Twilight said.
+/n

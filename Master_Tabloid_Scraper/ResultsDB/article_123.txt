@@ -1,0 +1,44 @@
+them you love them and thank them and listen to them for as long as they want to talk to you. Thank you, thank you mom and dad!" Not to be outdone, Ida director fought off the building wrap-it-up music to shoutout his late family. ".../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/628636/move-over-a-list-celebs-parents-were-the-real-winners-of-last-night-s-oscars');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015122/rs_634x1024-150222154825-634.Dakota-Johnson-Melanie-Griffith-Academy-Awards.ms.022215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dakota Johnson, Melanie Griffith, 2015 Academy Awards");
+	var imageCaption = encodeURIComponent("Dakota Johnson, Melanie Griffith, 2015 Academy Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Last night was big for a lot of people. Eddie Redmayne. Alejandro G. Iñárritu. Patricia Arquette. But if we're calling a spade a spade, last night was really the parents' night. And by that we mean all parents everywhere. The Oscars was their time to shine. It all started with Reese Witherspoon. Or rather her mom, Betty. Clearly, Reese gets her adorable charm from her mother, because Mrs. Witherspoon sent some of the cutest text messages ever pre-ceremony. And, naturally, she instantly became Instagram-famous. 
+
+The night really started to heat up for the collective parents once the awards were doled out. J.K. Simmons won the first Oscar of the evening and decided to take a moment to give a shoutout to all Moms and Dads everywhere. "Call your mom, everybody…call your dad," he said. "If you're lucky to have a parent or two alive on this planet, call them. Don't text. Don't email. Call them on the phone, tell them you love them and thank them and listen to them for as long as they want to talk to you. Thank you, thank you mom and dad!"Not to be outdone, Ida director fought off the building wrap-it-up music to shoutout his late family. "I dedicate this to my late wife and my parents," he said. "Who are not among the living but are totally inside this film and have a lot to do with this film."And with that, we finally figured out how to beat the Oscars producers.
+/n

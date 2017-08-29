@@ -1,0 +1,48 @@
+Jennie Garth Steps Out With David Abrams and Kids for Family Fun Day—See the Pics Looks like Jennie Garth has landed her lucky strike! The Beverly Hills, 90210 alumna recently stepped out with hubby David Abramsand two of her three daughters.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/683478/jennie-garth-steps-out-with-david-abrams-and-kids-for-family-fun-day-see-the-pics');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201575/rs_640x960-150805095102-2tiQcTUBlON02lx7EKrj8YJnbMwa7oscSeO7mRQNnlw.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennie Garth");
+	var imageCaption = encodeURIComponent("Jennie Garth");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bowlmor AMF
+
+Looks like Jennie Garth has landed her lucky strike!The Beverly Hills, 90210 alumna recently stepped out with hubby David Abramsand two of her three daughters for a bowling date in Los Angeles. The family bowled at Bowlero Mar Vista ahead of National Bowling Day on Aug. 8. This fun outing is the first we've seen since Garth married the hunky actor on July 11during an intimate ceremony on her Southern California ranch. Abrams looks right at home next to Lola, 12 and Fiona, 8, who Garth said would be a part of the couple's special day alongside 17-year-old Luca.
+
+
+
+Bowlmor AMF
+
+"Yes, they are my wedding party. Period," the 43-year-old told E! News of her kids with ex-husband Peter Facinelli.Apart from those dorky bowling shoes, Jennie and her Mini-Me Fiona looked absolutely adorable with similar blond bobs and denim jeans. Lola looked stylish in a white tee and patterned bottoms while Abrams opted for a light blue button up. As they say, the family that bowls looks good together, stays together!(These photos were taken with parental consent in accordance with E!'s No Kids Policy.)
+/n

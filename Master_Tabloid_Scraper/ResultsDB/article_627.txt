@@ -1,0 +1,52 @@
+UPDATE! Florence Henderson Dies: Brady Bunch Kids Maureen McCormick, Barry Williams & Susan Olsen, More Stars Pay Tribute to TV Icon Tributes are pouring in from Florence Henderson's fellow stars, all of whom have heard the story of.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/811832/florence-henderson-dies-brady-bunch-daughter-maureen-mccormick-more-stars-pay-tribute-to-late-tv-icon');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161024/rs_764x1024-161124221839-634.Florence-Henderson-Brady-Bunch.kg.112416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Florence Henderson, Brady Bunch");
+	var imageCaption = encodeURIComponent("Florence Henderson, Brady Bunch");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC Photo Archives/ABC via Getty Images
+
+Tributes are pouring in from Florence Henderson's fellow stars, all of whom have heard the story of the lovely lady who became a pop culture icon thanks to one memorable role.Henderson died Thursday night, surrounded by family and friends at a Los Angeles hospital, at the age of 82. She had not been ill, according to her manager, and in fact had just been in the audience of Dancing With the Stars Monday night to support season 23 contestant Maureen McCormick, who famously played Marcia Brady."Florence Henderson was a dear friend for so very many years & in my #RIPFlorence," McCormick tweeted Thursday evening. "You are in my heart forever Florence," she added, along with a photo of the two of them from DWTS, TV mother and daughter, still vibrant and both with hair of gold, 42 years later.
+
+Of course many of Henderson's Hollywood peers took the time to pay tribute to the star of stage and screen, some of whom knew her in life (including a number of members of the DWTS family), while chances are every single one of them had watched and loved her as Carol Brady."I don't wanna believe it's true but I just saw that#florencehenderson has past away," Alfonso Ribeiro, who won DWTS two years ago, wrote on Instagram. "I saw her on Monday night at the dwts finale and she looked amazing. I'm so sad tonight to know that one of our tv icons is gone. She was one of the few people that always made me smile just seeing her. I will miss seeing her at dwts. She loved the show the same way I love it. #ripflorencehenderson."
+
+Susan Olsen, who played Cindy Brady, wrote on Facebook Friday morning, "Of course we are all devastated by the loss of our TV Mom, but four magnificent human beings are proof that Florence was a wonderful mother in real life. It is for them that my heart is aching."Added Barry Williams, who played Greg, via Twitter, "Deeply saddened. Florence was one of the most gracious people I have ever known, Proud to call her Mom and life long friend. #RIPFlorence.""I grieve for the passing of my dear friend, Florence," wrote Christopher Knight, who played Peter. "Privileged to have known her and the kindness of her heart. She will be missed. RIP."
+
+Here are more of the touching remembrances that have shown up so far:
+
+Henderson appeared in the Michelle Pfeifferrole in Weird Al's video for his smash-hit "Gangsta's Paradise" parody "Amish Paradise."
+
+(Originally published Nov. 25, at 12:27 a.m. PT)
+/n

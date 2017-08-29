@@ -1,0 +1,48 @@
+Celebrity Chef Cat Cora Cooks Up a DUI Arrest Cat Cora is under some intense heat—and it ain't coming from the kitchen. The celebrity chef and Around the World in 80 Plates host was popped for DUI in June after rear-ending another vehic.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/328997/celebrity-chef-cat-cora-cooks-up-a-dui-arrest');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012610/reg_634.cat.mh.071012.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cat Cora");
+	var imageCaption = encodeURIComponent("Cat Cora");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Virginia Sherwood/Bravo
+
+Cat Cora is under some intense heat—and it ain't coming from the kitchen.The celebrity chef and Around the World in 80 Plates host was popped for DUI in June after rear-ending another vehicle in Santa Barbara and subsequently failing a sobriety test, E! News has confirmed.
+
+According to local law-enforcement officials, the 45-year-old got into the fender-bender shortly after 6 p.m. on June 17, during which the driver of the other vehicle alerted an officer that he believed Cora might have been drinking.The officer reportedly noticed that the chef "displayed symptoms of alcohol intoxication" and determined that she was too intoxicated to drive. Cora purportedly admitted consuming three bottles of beer before hitting the road.She subsequently failed two Breathalyzer tests after registering blood-alcohol levels of 0.20 and 0.19—more than double the 0.08 limit. She also submitted a blood sample, whose blood-alcohol reading clocked in at 0.19.
+
+MORE: Lindsay Lohan Settles Up With Passengers From 2007 DUI Ride
+
+Cora, who shot to fame on the popular Food Network program Iron Chef America, was issued a citation before being admitted into a sobering center."I deeply regret my decision to drive that evening after my designated driver became unavailable," Cora said in a statement to E! News. "I learned a very important lesson from this experience and take full accountability for my actions. This will never happen again."
+/n

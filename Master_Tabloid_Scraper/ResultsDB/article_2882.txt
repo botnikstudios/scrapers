@@ -1,0 +1,109 @@
+TV Curse! Most Shocking Reality Star Deaths Of 2016/n
+
+					var next_post_url = "http://radaronline.com/photos/kim-kardashian-sex-tape-showdown-photos-ray-j-jonathan-cheban-battle-cbb/";
+					var prev_post_url = "http://radaronline.com/photos/fergie-bikini-abs-boobs-butt-milf-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-01-04T13:30:41+00:00","caption":"America's Favorite Mom, a young singer, the Mob Wife with the biggest heart. The curse of reality television hit hard in 2016. Click through Radar's gallery to remember these reality stars whose lives were all cut short.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:17+00:00","caption":"Christina Grimmie \u2014 The Voice\nOn June 10, 2016, the former singing contestant was murdered by a crazy man at an autograph signing session after a performance. Kevin James Loibl, the psychotic gunman, was tackled by Grimmie's brother, but broke free and turned the gun on himself, ending his own life. Grimmie was rushed to the hospital in critical condition, but passed away later that night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:19+00:00","caption":"Johnny 'The Greek' Karagiorgis \u2014 The Real Housewives of New Jersey\nA fan-favorite, Johnny passed away on June 4, 2016 after suffering a heart attack. \"I'm trying to come to terms that your (sic) gone that this is not a dream or one of your jokes and waiting to hear you come through the door but you're not,\" his wife Penny Drossos Karagiorgis wrote on her Facebook page after his sudden death.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:20+00:00","caption":"Chyna Laurer \u2014 The Surreal Life\nJoanie, aka Chyna, the former WWE Superstar struggled with drugs, bad match-ups with men and depression before she overdosed and died on April 20, 2016. Cops found her body days after her death at 46.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:22+00:00","caption":"Daisy Lewellyn \u2014 Blood Sweat &amp; Heels\nThe popular Bravo star lost her battle with a rare form of liver cancer at age 36 on the morning of April 8, 2016. The network released a statement describing the sad details: \"Daisy passed on in peace and filled with joy, surrounded by her family and friends. We are all saddened to lose this wonderful woman. Our thoughts and deepest sympathy is expressed.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:23+00:00","caption":"John Schnabel \u2014 Gold Rush\nThe suddenly famous gold miner lived a full life gaining a loyal following before his death. He lost a three-year battle with prostate cancer on March 18, 2016 at the end of Season 6, dying at the ripe-old age of 96. He was later memorialized on the show in a special episode.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:24+00:00","caption":"Big Ang \u2014 Mob Wives\nThe sassy Staten Island bar owner was a breakout star on the show and was known for her massive personality \u2014 and assets. Big Ang tragically passed away on February 18, 2016 at the age of 55 after succumbing to a fierce bout with throat cancer.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:25+00:00","caption":"Lex McAllister \u2014 The Bachelor\nAlexa \"Lex\" McAllister overdosed on prescription pills\u00a0and was rushed to the hospital. After a bleak three days of watching her health slowly deteriorate, her family decided to pull the life support plug on February 15, 2016. This marked the third casualty for the show.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:27+00:00","caption":"Monty Brinson \u2014 The Real Housewives of Beverly Hills\nKim Richards' first ex-husband, Monty Brinson, passed away at the age of 58 on January 24th of this year, after a long-running battle with lung cancer. Brinson was married to Richards from 1985-88 and they had one daughter, Brooke Wiederhorn.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:28+00:00","caption":"Florence Henderson \u2013 Dancing With the Stars\nThe beloved mother from the Brady Bunch passed away at age 82 on November 24, 2016. Audiences fell in love with her as Carol Brady \u00a0and she appeared on Dancing with the Stars in 2010. The real life mother of four even had her own talk show, The Florence Henderson Show.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:30+00:00","caption":"Alan Thicke \u2013 Unusually Thicke\nBest known as the dad on Growing Pains, Robin Thicke's father also starred on the mockumentary Unusually Thicke. He suffered a heart attack at a skating rink on December 13, 2016. Always an entertainer, in March 2013 he and Gilbert Gottfried switched spouses on ABC's Celebrity Wife Swap.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-04T07:29:31+00:00","caption":"Joey Feek \u2013 Can You Duet\nThe beautiful country music singer passed away on March 4, 2016 after a lengthy battle with ovarian cancer. Her husband, Rory Feek, chronicled her last months as well as time they spent with their daughter, Indiana, who was born with Down Syndrome. She told her husband she was \"ready to stop fighting,\" shortly before her death. She was buried in the family cemetery on their farm in Tennessee.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/reality-tv-star-deaths-2016-11.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+TV Curse! Most Shocking Reality Star Deaths Of 2016
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 12 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 12reality-tv-star-deaths-2016-ppAmerica's Favorite Mom, a young singer, the Mob Wife with the biggest heart. The curse of reality television hit hard in 2016. Click through Radar's gallery to remember these reality stars whose lives were all cut short.Photo credit: Getty Images2 of 12What’s Trending’s Fourth Annual Tubeathon Benefitting American Red CrossChristina Grimmie — The Voice
+On June 10, 2016, the former singing contestant was murdered by a crazy man at an autograph signing session after a performance. Kevin James Loibl, the psychotic gunman, was tackled by Grimmie's brother, but broke free and turned the gun on himself, ending his own life. Grimmie was rushed to the hospital in critical condition, but passed away later that night.Photo credit: Getty Images3 of 12reality-tv-star-deaths-2016-02Johnny 'The Greek' Karagiorgis — The Real Housewives of New Jersey
+A fan-favorite, Johnny passed away on June 4, 2016 after suffering a heart attack. "I'm trying to come to terms that your (sic) gone that this is not a dream or one of your jokes and waiting to hear you come through the door but you're not," his wife Penny Drossos Karagiorgis wrote on her Facebook page after his sudden death.Photo credit: Bravo4 of 12reality-tv-star-deaths-2016-03Chyna Laurer — The Surreal Life
+Joanie, aka Chyna, the former WWE Superstar struggled with drugs, bad match-ups with men and depression before she overdosed and died on April 20, 2016. Cops found her body days after her death at 46.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 12Fashion’s Night Out at Macy’s Queen CenterDaisy Lewellyn — Blood Sweat & Heels
+The popular Bravo star lost her battle with a rare form of liver cancer at age 36 on the morning of April 8, 2016. The network released a statement describing the sad details: "Daisy passed on in peace and filled with joy, surrounded by her family and friends. We are all saddened to lose this wonderful woman. Our thoughts and deepest sympathy is expressed."Photo credit: Getty Images6 of 12reality-tv-star-deaths-2016-05John Schnabel — Gold Rush
+The suddenly famous gold miner lived a full life gaining a loyal following before his death. He lost a three-year battle with prostate cancer on March 18, 2016 at the end of Season 6, dying at the ripe-old age of 96. He was later memorialized on the show in a special episode. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 12OK! Magazine’s So Sexy EventBig Ang — Mob Wives
+The sassy Staten Island bar owner was a breakout star on the show and was known for her massive personality — and assets. Big Ang tragically passed away on February 18, 2016 at the age of 55 after succumbing to a fierce bout with throat cancer.Photo credit: Getty Images8 of 12reality-tv-star-deaths-2016-07Lex McAllister — The Bachelor
+Alexa "Lex" McAllister overdosed on prescription pills and was rushed to the hospital. After a bleak three days of watching her health slowly deteriorate, her family decided to pull the life support plug on February 15, 2016. This marked the third casualty for the show. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 12Ron Galella Archive – File Photos 2009Monty Brinson — The Real Housewives of Beverly Hills
+Kim Richards' first ex-husband, Monty Brinson, passed away at the age of 58 on January 24th of this year, after a long-running battle with lung cancer. Brinson was married to Richards from 1985-88 and they had one daughter, Brooke Wiederhorn.Photo credit: Getty Images10 of 12The American Heart Association’s Go Red For Women Red Dress Collection 2016 Presented By Macy’s – RunwayFlorence Henderson – Dancing With the Stars
+The beloved mother from the Brady Bunch passed away at age 82 on November 24, 2016. Audiences fell in love with her as Carol Brady  and she appeared on Dancing with the Stars in 2010. The real life mother of four even had her own talk show, The Florence Henderson Show.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 12The 18th Annual Night Of 100 Stars Gala – InsideAlan Thicke – Unusually Thicke
+Best known as the dad on Growing Pains, Robin Thicke's father also starred on the mockumentary Unusually Thicke. He suffered a heart attack at a skating rink on December 13, 2016. Always an entertainer, in March 2013 he and Gilbert Gottfried switched spouses on ABC's Celebrity Wife Swap.Photo credit: Getty Images12 of 1245th Annual Academy of Country Music Awards – ShowJoey Feek – Can You Duet
+The beautiful country music singer passed away on March 4, 2016 after a lengthy battle with ovarian cancer. Her husband, Rory Feek, chronicled her last months as well as time they spent with their daughter, Indiana, who was born with Down Syndrome. She told her husband she was "ready to stop fighting," shortly before her death. She was buried in the family cemetery on their farm in Tennessee.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+reality-tv-star-deaths-2016-ppAmerica's Favorite Mom, a young singer, the Mob Wife with the biggest heart. The curse of reality television hit hard in 2016. Click through Radar's gallery to remember these reality stars whose lives were all cut short.Photo credit: Getty ImagesWhat’s Trending’s Fourth Annual Tubeathon Benefitting American Red CrossChristina Grimmie — The Voice
+On June 10, 2016, the former singing contestant was murdered by a crazy man at an autograph signing session after a performance. Kevin James Loibl, the psychotic gunman, was tackled by Grimmie's brother, but broke free and turned the gun on himself, ending his own life. Grimmie was rushed to the hospital in critical condition, but passed away later that night.Photo credit: Getty Imagesreality-tv-star-deaths-2016-02Johnny 'The Greek' Karagiorgis — The Real Housewives of New Jersey
+A fan-favorite, Johnny passed away on June 4, 2016 after suffering a heart attack. "I'm trying to come to terms that your (sic) gone that this is not a dream or one of your jokes and waiting to hear you come through the door but you're not," his wife Penny Drossos Karagiorgis wrote on her Facebook page after his sudden death.Photo credit: Bravoreality-tv-star-deaths-2016-03Chyna Laurer — The Surreal Life
+Joanie, aka Chyna, the former WWE Superstar struggled with drugs, bad match-ups with men and depression before she overdosed and died on April 20, 2016. Cops found her body days after her death at 46.Photo credit: Getty ImagesFashion’s Night Out at Macy’s Queen CenterDaisy Lewellyn — Blood Sweat & Heels
+The popular Bravo star lost her battle with a rare form of liver cancer at age 36 on the morning of April 8, 2016. The network released a statement describing the sad details: "Daisy passed on in peace and filled with joy, surrounded by her family and friends. We are all saddened to lose this wonderful woman. Our thoughts and deepest sympathy is expressed."Photo credit: Getty Imagesreality-tv-star-deaths-2016-05John Schnabel — Gold Rush
+The suddenly famous gold miner lived a full life gaining a loyal following before his death. He lost a three-year battle with prostate cancer on March 18, 2016 at the end of Season 6, dying at the ripe-old age of 96. He was later memorialized on the show in a special episode.OK! Magazine’s So Sexy EventBig Ang — Mob Wives
+The sassy Staten Island bar owner was a breakout star on the show and was known for her massive personality — and assets. Big Ang tragically passed away on February 18, 2016 at the age of 55 after succumbing to a fierce bout with throat cancer.Photo credit: Getty Imagesreality-tv-star-deaths-2016-07Lex McAllister — The Bachelor
+Alexa "Lex" McAllister overdosed on prescription pills and was rushed to the hospital. After a bleak three days of watching her health slowly deteriorate, her family decided to pull the life support plug on February 15, 2016. This marked the third casualty for the show.Ron Galella Archive – File Photos 2009Monty Brinson — The Real Housewives of Beverly Hills
+Kim Richards' first ex-husband, Monty Brinson, passed away at the age of 58 on January 24th of this year, after a long-running battle with lung cancer. Brinson was married to Richards from 1985-88 and they had one daughter, Brooke Wiederhorn.Photo credit: Getty ImagesThe American Heart Association’s Go Red For Women Red Dress Collection 2016 Presented By Macy’s – RunwayFlorence Henderson – Dancing With the Stars
+The beloved mother from the Brady Bunch passed away at age 82 on November 24, 2016. Audiences fell in love with her as Carol Brady  and she appeared on Dancing with the Stars in 2010. The real life mother of four even had her own talk show, The Florence Henderson Show.Photo credit: Getty ImagesThe 18th Annual Night Of 100 Stars Gala – InsideAlan Thicke – Unusually Thicke
+Best known as the dad on Growing Pains, Robin Thicke's father also starred on the mockumentary Unusually Thicke. He suffered a heart attack at a skating rink on December 13, 2016. Always an entertainer, in March 2013 he and Gilbert Gottfried switched spouses on ABC's Celebrity Wife Swap.Photo credit: Getty Images45th Annual Academy of Country Music Awards – ShowJoey Feek – Can You Duet
+The beautiful country music singer passed away on March 4, 2016 after a lengthy battle with ovarian cancer. Her husband, Rory Feek, chronicled her last months as well as time they spent with their daughter, Indiana, who was born with Down Syndrome. She told her husband she was "ready to stop fighting," shortly before her death. She was buried in the family cemetery on their farm in Tennessee.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

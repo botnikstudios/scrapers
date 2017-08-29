@@ -1,0 +1,44 @@
+four finale, "Election Night." The award for Outstanding Directorial Achievement in Movies for Television and Miniseries went to Dee Rees for HBO's Bessie, while The Tonight Show Starring Jimmy Fallon's Dave Diomedi won O.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/737697/rachel-mcadams-sparkles-at-dga-awards-2016-the-revenant-s-alejandro-g-inarritu-wins-top-honor');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201617/rs_634x1024-160207082559-634.rachel-mcadams.cm.2716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rachel McAdams, DGA");
+	var imageCaption = encodeURIComponent("Rachel McAdams, DGA");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images for DGA
+
+As the countdown to the Oscars continues, stars showcased the glam at the 2016 Directors Guild of America Awards Saturday.Presenter Rachel McAdams, who stars in Spotlight, turned heads in a stunning, strapless, sparkling, black, semi-sheer, sequined Michael Kors Collection gown that showed off her trim figure. Other attendees who showcased gorgeous looks at the DGA Awards included Mena Suvari and Castle star Stana Katic.Mexican director Alejandro G. Iñárritu won the top honor, Outstanding Directorial Achievement in Feature Film, for The Revenant. He beat Tom McCarthy for Spotlight, Adam McKay for The Big Shot, George Miller for Mad Max: Fury Road and Ridley Scott for The Martian.
+
+Other winners included Alex Garland, who won Outstanding Directorial Achievement of a First-Time Feature Film Director for Ex Machina, Matthew Heineman, who was honored for his documentary Cartel Land, and Game of Thrones director David Nutter, who won Outstanding Directorial Achievement in a Dramatic Series for the show's season five finale, "Mother's Mercy." The award for Outstanding Directorial Achievement in a Comedy Series went to Chris Addison for the Veep season four finale, "Election Night."The award for Outstanding Directorial Achievement in Movies for Television and Miniseries went to Dee Rees for HBO's Bessie, while The Tonight Show Starring Jimmy Fallon's Dave Diomedi won Outstanding Directorial Achievement in Variety/Talk/News/Sports - Regularly Scheduled Programming and Don Roy King won Outstanding Directorial Achievement in Variety/Talk/News/Sports - Specials for the Saturday Night Live 40th Anniversary Special.OUTSTANDING DIRECTORIAL ACHIEVEMENT IN MOVIES FOR TELEVISION AND MINI-SERIESThe Revenant stars Leonardo DiCaprio, who recently won a SAG Award, his first, for his role as a 19th century frontiersman who fights for survival after being mauled by a bear. The actor was a DGA Awards presenter and later posed with his winning director in the press room.DiCaprio is also nominated for his fifth Oscar for acting for his performance. Iñárritu, who last year won three Oscars for Birdman, is also nominated for Academy Awards for Best Achievement in Directing and Best Motion Picture of the Year for The Revenant.The 2016 Oscars will take place on Feb. 28.
+/n

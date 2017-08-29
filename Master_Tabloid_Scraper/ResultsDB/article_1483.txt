@@ -1,0 +1,44 @@
+Tori Spelling Uses New Baby Hattie as Thanksgiving Stuffing Tori Spelling took dressing baby Hattie to a whole new level Thanksgiving Day! Check out the Thanksgiving goof Tori posted on her official website, dubbed the "roast turkey cos.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/276976/tori-spelling-uses-new-baby-hattie-as-thanksgiving-stuffing');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20111026/293.ab.hattie.112611.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hattie McDermott");
+	var imageCaption = encodeURIComponent("Hattie McDermott");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+torispelling.com
+
+Tori Spelling took dressing baby Hattie to a whole new level Thanksgiving Day!Check out the Thanksgiving goof Tori posted on her official website, dubbed the "roast turkey costume." It's a poultry ensemble complete with fake veggies and the newest addition to the Spelling-McDermott family, Hattie, as the stuffing!
+
+Tori explains her creation: "OK, this one isn't edible, but if you have a baby at home, here's a fun Thanksgiving craft project you can make for what will be very memorable holiday photos. Your older kids will love helping to make this for their baby bro or sis—Stella loved gluing the faux veggies on the faux platter."Tori sure pulled a mom move with this one, yet kept in mind baby Hattie and offered a disclaimer for her daughter when she grows up: "Sorry to future 18 year-old Hattie. It was too cute an idea to pass up. If it's any solace, you wore turkey well!"We have to admit, Hattie sure does rock the bird. 
+/n

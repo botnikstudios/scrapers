@@ -1,0 +1,50 @@
+EXCLUSIVE! Tony Awards 2015: Bruce Willis and Mary-Louise Parker to Announce Nominations Bruce Willis won't be making his Broadway debut until the fall when he stars in a stage adaptation of Misery, but New York's theater world is .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/646265/exclusive-tony-awards-2015-bruce-willis-and-mary-louise-parker-to-announce-nominations');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013922/rs_634x1024-131022152032-634.willis.cm.102213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Bruce Willis, Hollywood Film Awards");
+	var imageCaption = encodeURIComponent("Bruce Willis, Hollywood Film Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/HFA2013/Getty Images
+
+Bruce Willis won't be making his Broadway debut until the fall when he stars in a stage adaptation of Misery, but New York's theater world is already embracing the superstar.I can exclusively reveal that Willis and Mary-Louise Parker will announce the nominations for the 69th annual Tony Awards.The announcement will air live on CBS This Morning on April 28 at 8:30 a.m. ET. They can also be viewed on TonyAwards.com.Parker, best known for her Emmy and Golden Globe winning work as Nancy Botwin on Weeds, picked up a Tony for best actress in 1991 for Proof. She stars in the upcoming Manhattan Theatre Club production of Heisenberg.
+
+
+
+
+Ilya S. Savenok/Getty Images
+
+Some of our favorite celebs are in the running this year for a Tony nom, including Bradley Cooper (The Elephant Man), Jake Gyllenhaal and Ruth Wilson (Constellations), Hugh Jackman (The River), Helen Mirren (The Audience) Larry David (Fish in the Dark), Carey Mulligan (Skylight), Ewan McGregor (The Real Thing), Kristin Chenoweth (On the Twentieth Century), Matthew Morrison (Finding Neverland) and Vanessa Hudgens (Gigi).The Tony Awards will air live on CBS on June 7 from Radio City Music Hall.The host has yet to be announced. Jackman hosted last year after Neil Patrick Harris had the gig for three consecutive years.Now, we want to hear from you. Who would you like to see hosting this year's Tony Awards? Leave your suggestions below!  
+/n

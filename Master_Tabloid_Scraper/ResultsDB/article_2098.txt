@@ -1,0 +1,44 @@
+Claire Danes Says Dating Billy Crudup After He Left Pregnant Mary Louise Parker Was ''Scary'' and ''Really Hard'' More than a decade ago, Billy Crudup left his seven-month pregnant girlfriend Mary Loui.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/703277/claire-danes-says-dating-billy-crudup-after-he-left-pregnant-mary-louise-parker-was-scary-and-really-hard');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201595/rs_634x858-151005154228-634.danes-crudup.cm.10515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Billy Crudup, Claire Danes");
+	var imageCaption = encodeURIComponent("Billy Crudup, Claire Danes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Peter Kramer/Getty Images
+
+More than a decade ago, Billy Crudup left his seven-month pregnant girlfriend Mary Louise Parker, to date his Stage Beauty co-star Claire Danes.The romance made headlines (to say the least) but no one was more overwhelmed by the media's coverage than the Homeland actress herself."That was a scary thing…That was really hard," she explained during an SiriusXM interview with Howard Stern when asked how she handled the criticism from the public over the 2003 revelation."But it's okay, I went through it."She continued, "I was just in love with him and needed to explore that and I was 24…I didn't quite know what those consequences would be."
+
+Danes, who is now married to Hugh Dancy, admitted that it's all water under the bridge."We're friendly, we're friends."Danes and Dancy welcomed a son named Cyrus back in December 2012 and the actress recently got candid about experiencing motherhood for the very first time."Being a mum is incredibly challenging, but we still feel a pressure to talk about it in very romantic terms. And it's not just that," Danes told Harper's Bazaar U.K."We all have that resentment at times and anxiety about being trapped by the role, that responsibility. And then chemically it can run riot...And there's no 'off' button. [For me] that was the hardest adjustment. You always feel beholden to somebody...And for so long they're like koala bears, you just feel a physical responsibility to be there for them to cling to. It's pretty primal."
+/n

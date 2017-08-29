@@ -1,0 +1,98 @@
+Texas Woman Convicted of Murder After Prosecutors Say She Killed Husband Then Staged a Home Invasion/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-5dc5c83f5f0eeffe6b065881b16f1f20-59a4e6e291892');
+				var iframe = document.getElementById('wpcom-iframe-5dc5c83f5f0eeffe6b065881b16f1f20-59a4e6e291892');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-5dc5c83f5f0eeffe6b065881b16f1f20-59a4e6e291892'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A Texas woman was found guilty on Wednesday of first-degree murder in the 2012 stabbing and beating death of her husband, whom authorities believe she killed before tying herself up to make it look like a home invasion robbery, PEOPLE confirms.
+Prosecutors said that on Thursday, Sandra Melgar, 57, was sentenced to 27 years in prison for murdering her husband, Jaime Melgar, in their Houston-area home on Dec. 22, 2012 — one day before the couple’s 32nd wedding anniversary.
+Sandra was found guilty of first-degree murder in Jaime’s death, following a three-week trial in which prosecutors argued that she killed her husband and staged a break-in so she could benefit from a $500,000 life insurance policy.
+A jury took about eight hours to convict.
+“Sandra Melgar hacked the life out of her husband … and for that she will spend the balance of her life on a cell block,” Harris County, Texas, Assistant District Attorney Colleen Barnett said in a statement after the sentencing.
+Describing Sandra as remorseless, Barnett said, “The sentence is just.”
+Sandra’s friends and family erupted in disbelief after Judge Kelli Johnson read the verdict. Sandra herself shook her head, slumped forward in her seat, “let out a howl” and placed her hands over her face, the Houston Chronicle reports.
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+Prosecutors said that they believed divorce wasn’t an option for Sandra because she was a Jehovah’s Witness and a marriage breakup would have led to her being shunned by the community.
+“If I kill him, then I’m not ostracized — I get to hang out with my friends — and I get the money,” Barnett said in describing her thinking, the Chronicle reports.
+Jurors also watched a crime scene reenactment video of how Sandra was able, prosecutors said, to tie up her hands and ankles behind her back and then lock herself in a closet.
+Jaime MelgarFamily Handout
+Prosecutors contended that Sandra cleaned up the crime scene after she murdered Jaime, and as proof they pointed to a cloudy fingernail on her right hand, which they believed was caused by cleaners and bleach.
+“This proves she’s the one. That she did it,” Barnett said.
+Friends arriving for the couple’s wedding anniversary party on Dec. 23, 2012, found Jaime’s body and Sandra tied up in the couple’s bedroom closet.
+Jaime had been beaten and stabbed 31 times, according to authorities.
+The Defense Speaks
+Sandra’s defense team, who did not immediately return PEOPLE’s request for comment, has insisted that she had nothing to do with her husband’s death — nor did she see the intruder or intruders who attacker her and her husband.
+“Sandy Melgar got sucked into this by a couple of cowboys [in the sheriff’s office] who came up with some theories and game over,” her defense attorney Mac Secrest said in his closing argument, according to the Chronicle. “Where are the real killers? Are we going to see them in the courtroom anytime soon? I wouldn’t bet on it.”
+The defense pointed to incompetence on the part of investigators, insisting they had tunnel vision and failed to look for other possible killers. The lead investigator was later forced to resign after backdating a search warrant in an unrelated murder case.
+“There’s no physical evidence that points to her at all,” Secrest said in his closing, the Chronicle reports. “No broken nails, no problems with her hands, no bruising of the hands.”
+Secrest also argued that evidence, including a bloody fingerprint on a closet safe, was never processed for prints or DNA evidence.
+Prosecutor Barnett took a different view, saying in a statement after Sandra was convicted:
+“I would like to thank the jurors for their patience and attention throughout this long, difficult case. Jaime Melgar was by all accounts a wonderful man.”
+/n

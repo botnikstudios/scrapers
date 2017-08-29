@@ -1,0 +1,107 @@
+WATCH: Rats Are Employed as Loving Nannies for Orphan Kittens at New York Cat Cafe
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-ed7ce6d7a1431934083327e1dee1fe28-59a4e0887e2cc');
+				var iframe = document.getElementById('wpcom-iframe-ed7ce6d7a1431934083327e1dee1fe28-59a4e0887e2cc');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-ed7ce6d7a1431934083327e1dee1fe28-59a4e0887e2cc'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“Rats and cats living together, mass hysteria!”
+OK, that Ghostbusters quote is actually about dogs and cats, but it totally applies to the incredible co-habitation situation going on at one very special cat rescue in New York City. Instead of mass hysteria, however, the result is immensely precious.
+The Brooklyn Cat Cafe, located in the Brooklyn Heights/Cobble Hill neighborhood, is run and operated by volunteers of the Brooklyn Bridge Animal Welfare Coalition. The non-profit opened more than one year ago,  but recently captured the hearts of animal lovers everywhere when staff posted a sweet video of a unique interspecies relationship to Instagram on July 7.
+
+
+
+
+
+ Emile helps bathe the bottle babies. . . #catcafebk #adoptdontshop #ratsandcats #bottlebabies #kittens #spayandneuter #petrat #emiletherat #BBAWC
+A post shared by Brooklyn Cat Cafe 🐱☕️ (@catcafebk) on Jul 7, 2017 at 6:19am PDT
+
+
+Amazingly, the cafe currently “employees” two rats, Emile and Remy, as kitten caretakers. Although the species are usually enemies in the wild, the rats’ natural instincts turn decidedly maternal in this safe and protective environment.
+As you can see from the videos above, Emile lends a helping paw (and tongue) by sweetly bathing and giving companionship to orphan kittens, 8 weeks old and younger. Emile’s rat pal, Remy, also acts as a nanny to the cafe’s needy kittens. (The rats are raised by a rescue called HALT, Helping All Little Things.)
+According to a story that first appeared on the Huffington Post, BBAWC executive director Anne Levin says the rats spend time with and help out new arrival kittens who are usually orphaned (called the “bottle babies”) and too young for vaccinations, thus necessitating their separation from other cats.
+Saryn Chorney/People
+“I know the rats we have often groom themselves and each other and it seems to be both a self-comfort and a friendship connection,” Levin told Huff Post, and the cafe’s website further explains their behavior.
+“Remy (grey/white) & Emile (brown) are two new, young rats who are joining the kittens in the terrarium. These boys are so active and playful and they love to share snacks with the kittens. They love vegetables and head scratches. Although rats and cats have adversarial relationships outside the terrarium – inside the kittens are the perfect size to have supervised romp and play sessions with the rats. Because the rats are not scared of the kittens, they don’t run away and the cats don’t hunt them. However, the kittens are convinced that the rat tails are there primarily for them to play with. Remy and Emile are ok with that so long as the kittens play gently with their tails.”
+Saryn Chorney/People
+Staff at the Brooklyn Cat Cafe first established this sort of symbiotic relationship through Remy and Emile’s predecessor, a rat named Ivory. Levin compared Ivory to the beloved ’80s sitcom nanny/butler, Mr. Belvedere. See a photo taken by Cory Rice, below:
+
+ 
+Ivory the white rat was brought in to care for a 4-week-old kitten named Ebony, who was diagnosed with Feline Leukemia. Because of her fatal illness, Ebony had to live separately from the rest of cats at the cafe. Luckily, the rescue staff had the brilliant, compassionate idea to introduce Ebony and Ivory. And much like their namesake song, the two animals lived together in perfect harmony, with Ebony spending her short time on earth cuddling and romping around with her tender rat nanny.
+Ebony’s life was “so enriched for having a rat friend in Ivory,” Levin said. Sadly, Ivory also passed away recently. In February, the cafe posted a tribute to the rat (see above). In his time at the rescue facility, Ivory befriended a number of kittens.
+
+ 
+The Brooklyn Cat Cafe notes that when a mother cat is present, the rats are only allowed to play with and care for the kittens under close observation. So far, this kitten-sitting setup has been nothing but good PR for rats, who generally get bad raps — especially in New York City.
+Saryn Chorney/People
+Of Ebony the rat (and inclusive of Emile and Remy), the cafe’s website says it best:
+“He had always shown such kindness to all creatures – kittens (however obnoxious) and humans. He’s been a role model for all of us – practicing tolerance and love of all creatures.”
+Levin also notes that viewers should practice a lot of caution before introducing cats and rats in their own home. Remy and Emile are special rats who’ve been working with kittens from a young age. The cat cafe’s environment is also very specific; all the animals here are well-fed and supervised, so as to prevent accidents or aggression. She also says other animals, like dogs and some farm animals, are capable of nannying kittens but the Brooklyn Cat Cafe only has proper space for small animals like rats.
+The kittens in the videos and photos will be up for adoption soon, but the rats live at the Brooklyn Cat Cafe. To enquire about adopting the kittens, click here. For more information about fostering rats, click here.
+/n

@@ -1,0 +1,44 @@
+Alec Mazo Congratulations are in order!  Dancing With the Stars professional dancers Edyta Sliwinska and Alec Mazo welcomed a baby girl named Leia Josephine on June 18, 2017, People reports. Their newborn daughter weighed 7 lbs. and measured.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/862813/dancing-with-the-stars-edyta-sliwinska-gives-birth-to-baby-no-2-with-alec-mazo');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013910/rs_634x1024-131010171135-634.Edyta-Sliwinska-Alec-Mazo.ms.101013.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Edyta Sliwinska, Alec Mazo ");
+	var imageCaption = encodeURIComponent("Edyta Sliwinska, Alec Mazo ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Angela Weiss/Getty Images
+
+Congratulations are in order! Dancing With the Stars professional dancers Edyta Sliwinska and Alec Mazo welcomed a baby girl named Leia Josephine on June 18, 2017, People reports. Their newborn daughter weighed 7 lbs. and measured in at 20 inches long. A rep for Edyta told the magazine, "The new family of four are over the moon and absolutely in love with their little princess."This marks the married couple's second bundle of joy. Edyta and Alec's first son, 3-year-old Michael Alexander, can now officially consider himself a big brother! Michael's proud 'rents even let him decide upon the baby's name, with the rep adding, "He picked the name and insisted for months that it would be baby Leia."Too cute!
+
+Happy parenting, you two!
+/n

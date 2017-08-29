@@ -1,0 +1,47 @@
+Martha Stewart Doesn't Mind Twitter Wars: It's a Form of Expression! If you love social media, then you know Martha Stewart is the queen of Twitter (of course, she may also be the weirdest user, but regardless, she's ridiculou.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/627126/martha-stewart-doesn-t-mind-twitter-wars-it-s-a-form-of-expression');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015119/rs_634x1024-150219104807-634.Martha-Stewart-NYFW.jl.021915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Martha Stewart, NYFW");
+	var imageCaption = encodeURIComponent("Martha Stewart, NYFW");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Stewart/WireImage
+
+If you love social media, then you know Martha Stewart is the queen of Twitter (of course, she may also be the weirdest user, but regardless, she's ridiculously entertaining). And if you're familiar with the domestic diva's persona, then you're well aware the 73-year-old beauty isn't afraid of a little confrontation (just ask Gwyneth Paltrow), so it should come as no surprise that she's a fan of Twitter wars. "I don't mind Twitter wars. It's a form of expression!" the businesswoman told The Post on Wednesday night while seated front row at the Erin Fetherston show during New York Fashion Week. Citing her previous work in the fashion industry (yes, Martha was a model before venturing into the lifestyle business), the television personality continued, noting it would take far more than a little Twitter shade to upset the cooking queen. 
+
+"I worked as a model in the fashion industry since I was 16 years old and people were nice to me," she said. "I guess you just have to have a tough skin. I've got one, and it brought me this far."While Martha herself has never engaged in an explosive Twitter war, the author has previously taken aim at fellow lifestyle guru Gwyneth Paltrow, who launched her own venture Goop in 2008. "She just needs to be quiet—she's a movie star," Stewart said in the Fall 2014 issue of Porter magazine. "If she were confident in her acting, she wouldn't be trying to be Martha Stewart." She also later poked fun at Paltrow and ex Chris Martin's famous "Conscious Uncoupling" statement in the November issue of Martha Stewart Living with an article spotlighting Thanksgiving pies which boast the "perfect marriage of crust and filling." 
+
+PHOTOS: How can we forget about these celebrity feuds?
+/n

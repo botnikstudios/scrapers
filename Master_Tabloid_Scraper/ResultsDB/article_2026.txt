@@ -1,0 +1,172 @@
+WATCH: Jessie James Decker Reveals How Carrie Underwood Inspired Her to Record New Song 'Gold'
+/n
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-3e3229cfa922002fa6de634d1eae6ab9-59a4e8e29ade3');
+				var iframe = document.getElementById('wpcom-iframe-3e3229cfa922002fa6de634d1eae6ab9-59a4e8e29ade3');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-3e3229cfa922002fa6de634d1eae6ab9-59a4e8e29ade3'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Life truly inspires art for singer-songwriter Jessie James Decker — and with her newly released EP Gold, which hit No. 1 on the iTunes Country Chart, and a happy family of four it’s no surprise she’s feeling golden in all aspects of her life.
+In clips shared exclusively with PEOPLE, the country star performs an acoustic version of the EP’s title track at Blackbird Studios in Nashville and gives a behind the scenes look at the story behind the song.
+“‘Gold’ is the theme of this whole record,” Decker, 29, tells PEOPLE. “It is about being grateful for all the love and happiness in my life.”
+Decker explains that her best friend, songwriter Alyssa Bonagura, first sent her the tune when she started compiling songs for the five-song project, which was released in February.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-77709049a9d3e8b04d0b75f16a989aca-59a4e8e29afd5');
+				var iframe = document.getElementById('wpcom-iframe-77709049a9d3e8b04d0b75f16a989aca-59a4e8e29afd5');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-77709049a9d3e8b04d0b75f16a989aca-59a4e8e29afd5'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“So she sent [‘Gold’] to me and within the email she says, ‘Carrie Underwood had this on hold,'” Decker says in the behind the scenes video. “At that moment I was like, ‘Well, she has excellent taste.'”
+She continues: “I fell madly in love with this song, and I held onto it for over a year.”
+After listening to the lyrics of “Gold,” Decker decided to make it the title of the entire project because of how closely it related to her life.
+“Everywhere that I’m at in my life is gold,” she says. “That’s why it’s called gold.”
+Harper Smith
+Now, Decker will be planting even deeper roots in Nashville as her NFL wide receiver husband Eric Decker signed a one-year deal with the Tennessee Titans.
+FROM PEN: Lea Michele Dream-Casts Her Own Real-Life Girl Squad—from Country Darling Maren Morris to Beyoncé
+
+“Happy Father’s Day and CONGRATS!!” Decker shared of the news on Sunday in an Instagram post of her husband and two kids — daughter Vivianne, 3, and son Eric, 1. “We love you daddy and so excited for the new chapter!! #homesweethome.”
+
+
+
+
+
+ Happy Father's Day and CONGRATS to the newest TENNESSEE @titans  @edeck87 !! We love you daddy and so excited for the new chapter!! #homesweethome
+A post shared by Jessie James Decker (@jessiejamesdecker) on Jun 18, 2017 at 5:09pm PDT
+
+
+Since Eric was released from the New York Jets earlier this month, the family will be returning to their Nashville home base full-time after living in New Jersey for football season.
+“Eric is a total badass as you know and the future looks bright!!!” Decker tweeted when her husband and the Jets parted ways.
+/n

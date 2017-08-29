@@ -1,0 +1,46 @@
+Downton Abbey Recap: Did Edith Get Her Happy Ending? It's wedding time again! If you did not get enough champagne and wedding cake last week on Downton Abbey, we get to relive the magic of holy matrimony all over again. The perpetual mi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/378121/downton-abbey-recap-did-edith-get-her-happy-ending');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201285/reg_634.downtonabbey4.mh.090512.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Laura Carmichael, Downton Abbey");
+	var imageCaption = encodeURIComponent("Laura Carmichael, Downton Abbey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PBS
+
+It's wedding time again! If you did not get enough champagne and wedding cake last week on Downton Abbey, we get to relive the magic of holy matrimony all over again. The perpetual middle child, Lady Edith (Laura Carmichael), finally gets to have her big day...or does she?WHAT WE LEARNEDJoyous Then Jilted: Sure Edith hasn't been the best sister—remember she wrote the letter exposing Lady Mary's (Michelle Dockery) bedroom exploits—but we still don't think she deserved to be jilted at the alter in the most dramatic of ways. We should have seen the signs. Sir Anthony (Robert Bathurst) looked positively green by the time the wedding started. And then he bolted. But not before he gave her an "I'm doing this to be noble" speech. Well, it seems like the search for love is back on and Granny (Maggie Smith) couldn't have planned it better herself.Deus Ex Machina: Some guys have all the luck. While we are still waiting for our first inheritance, Matthew (Dan Stevens) is busy rejecting his second. Riddled with guilt—always the martyr—he refuses to accept the money because Reggie didn't know the truth about his breaking Lavinia's heart. But lo and behold, Lavinia wrote to her papa on her deathbed. And all is right with the world. Praise Jeebus, Downton is saved and no one has to go live in that wretchedly tiny mansion up North. At least they got a nice picnic out of it.
+
+Health Scare: Mrs. Hughes (Phyllis Logan) spends much of this episode preoccupied waiting for her test results. But no one is more worried than Carson who makes it his business to find out what's going on. When he learns that her results are clean he is adorably thrilled. But did anyone else catch that little sad look by Mrs. Hughes? Could she be lying about her clean bill of health? And can one ever really trust Dr. Clarkson (David Robb)?Declaring War: A fierce battle rages downstairs between former besties, Thomas (Rob James-Collier) and O'Brien (Siobhan Finneran). The days of missing shirts and burning stains are gone, now they are getting serious when Thomas tells Moseley that O'Brien is leaving Downton. Dun. Dun. Dun. Brace yourselves for disappointed Cora faces. No one likes to lose a ladies' maid.Anna Bates Investigates: There definitely is potential for a spinoff detective series here. Anna (Joanne Froggatt) is running around the country looking for reasons the first Mrs. Bates might've committed suicide. Because she was a vindictive witch perhaps?
+
+ONE-LINERS"At my age one must ration one's excitement." —Dowager Countess"Tom is our tame revolutionary. Every family should have one." —Robert (Hugh Bonneville)"Edith is beginning her life as an old man's drudge. I should have not thought a large drawing room much compensation." —Dowager Countess"He looks as if he's waiting for a beating from the headmaster." —Dowager Countess"I'm happy Edith is happy. I'm happy you mean to keep her happy. That is quite enough happiness to be going on with." —Robert"I never thought I'd feel sorry for an Earl's daughter." —Daisy (Sophie McShera)
+/n

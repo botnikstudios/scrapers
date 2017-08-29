@@ -1,0 +1,47 @@
+First Look: Evangeline Lilly in The Hobbit: An Unexpected Journey From stills to posters to actual trailers, we've already been given quite a bit when it comes to An Unexpected Journey, the highly anticipated first installment of Peter Jackson's Hobb.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/349095/first-look-evangeline-lilly-in-the-hobbit-an-unexpected-journey');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201291/reg_634.Hobbit.TheBridge.Tauriel.jlc.10112.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evangeline Lillys, Tauriel");
+	var imageCaption = encodeURIComponent("Evangeline Lillys, Tauriel");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+From stills to posters to actual trailers, we've already been given quite a bit when it comes to An Unexpected Journey, the highly anticipated first installment of Peter Jackson's Hobbit trilogy.However, one particular character has remained a mystery. Until now, that is.Yep. Here's your first look at Evangeline Lilly as the woodland elf Tauriel.
+
+And while it may just be an action figure from The Bridge Direct (which comes paired in a two-pack with—spoiler alert?—Orlando Bloom's Lord of the Rings alum Legolas), this should puts Middle-earth fans' minds at ease.After all, this is a character that is not in the book, but was created specifically for celluloid.
+
+Everything we know about The Hobbit
+
+"I am very concerned to this day that people will watch the film and I'll be the black mark on the film," Lilly told SFX. "I know how adamant the purists are, and I'm one of them!"Guess Lilly will know for sure when The Hobbit: An Unexpected Journey hits theaters on Dec. 14. Although we think she has very little to worry about.
+/n

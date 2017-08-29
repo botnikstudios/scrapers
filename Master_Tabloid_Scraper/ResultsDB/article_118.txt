@@ -1,0 +1,54 @@
+recently appeared in the magazine for the first time as the December 2015 Playmate of the Month. Along with Renee Tenison, 1990 Playmate of the Year, and Ida Ljungqvist, 2009 Playmate of the Year, Eugena is also the magazine's third Afr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/764123/america-s-next-top-model-contestant-eugena-washington-named-playboy-s-2016-playmate-of-the-year');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016411/rs_634x793-160511122056-Eugena-1-Playboy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eugena Washington, ANTM, Playboy Playmate of the Year");
+	var imageCaption = encodeURIComponent("Eugena Washington, ANTM, Playboy Playmate of the Year");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Lee Parry
+
+She may no longer be in the running to become America's Next Top Model, but Eugena Washington is officially a Playboy Playmate of the Year. Playboy announced the model as their 2016 pick for the highly coveted position Wednesday after Washington recently appeared in the magazine for the first time as the December 2015 Playmate of the Month.Along with Renee Tenison, 1990 Playmate of the Year, and Ida Ljungqvist, 2009 Playmate of the Year, Eugena is also the magazine's third African American woman to ever hold the title and the 57th woman ever."It's a great time for this. The world is changing. I hope this brings different eyes to the magazine and new audiences," Washington said in a press release regarding the news.
+
+
+
+Jason Lee Parry
+
+"This is a story and a chapter in my life to build around. I'm enjoying the ride, and right now I'm doing whatever I want to do, day by day. That's how I live. That's what my life is about. As long as I'm doing what I want to do, I'm happy. Right now, being a part of Playboy is what I want to do."In addition to the honor, Washington also receives $100,000 in prize money and a two-year lease on a 2017 Fiat Spider.While legions of new fans will come to recognize her for her sultry poolside photoshoot for the June 2016 issue, the 31-year-old originally came to fame a decade ago as one of Tyra Bank's aspiring models on the hit CW reality show. 
+
+
+
+Jason Lee Parry
+
+The South Carolina native quickly rose up in the ranks of the competition, ultimately reaching the final three before being eliminated in the final episode.Though she was often criticized by the judges for having "dead eyes" in photographs, from the looks of this new shoot, Eugena has figured out how to connect with the camera. Check out that smize!
+/n

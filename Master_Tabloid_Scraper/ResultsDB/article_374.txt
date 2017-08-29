@@ -1,0 +1,52 @@
+Annie Lennox Questions Madonna's "Attention Seeking" Topless Photo Shoot Consider Madonna called out. The Queen of Pop shocked the masses the other day when her nude photographs taken for Interview magazine hit the internet. W.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/602993/annie-lennox-questions-madonna-s-attention-seeking-topless-photo-shoot');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014113/rs_634x1024-141203051747-634-Annie-Lennox-JR-120314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Annie Lennox");
+	var imageCaption = encodeURIComponent("Annie Lennox");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX USA/Ken McKay/ITV/Rex
+
+Consider Madonna called out.The Queen of Pop shocked the masses the other day when her nude photographs taken for Interview magazine hit the internet. While the 56-year-old "Express Yourself" singer looks damn good, some are questioning Madonna's motives.Annie Lennox appeared on Loose Women to promote her new album, Nostalgia, and while the 59-year-old singer isn't opposed to women taking it all off, she admitted she's a little confused as to why the "Vogue" singer dressed provocatively—if dressed at all—for the magazine."I did get things off occasionally, but not to that extent. I don't think it's down to me [to judge Madonna]..." Lennox said.She and the panel continued to debate the reasons behind Madonna's decision, but ultimately Lennox and panelist Janet Street-Porter agreed that the '80s pop queen was out to make a splash."I think already the verdict is probably out. Would you not agree on that one?" Lennox asked. "I think the question is, 'What is Madonna telling us? Anybody know?'"
+
+Street-Porter interjected during Lennox's question, saying, "I think it's attention seeking." But instead of letting the conversation drop, the "Walking on Broken Glass" hit maker agreed."I think it is," Lennox said.This isn't the first, or probably the last, time that Lennox has criticized female performers who have used their sexuality to sell music. In September the singer went after Beyoncé, criticizing her stance on feminism."I would call that 'feminist lite.' L-I-T-E. I'm sorry. It's tokenistic to me," said Lennox in an interview with LGBT website PrideSource, referring to Beyoncé's "XO" performance at the MTV Video Music Awards. "I mean, I think she's a phenomenal artist—I just love her performances—but I'd like to sit down [with her]. I think I'd like to sit down with quite a few artists and talk to them. I'd like to listen to them. I'd like to hear what they truly think."
+
+
+
+
+Mert Alas and Marcus Piggott
+
+But the Eurythmics member isn't only worried about Madonna and Queen Bey. Without referring to anyone specifically, Lennox also criticized how women don't truly understand the ideals behind feminism."I see a lot of it as them taking the word hostage and using it to promote themselves, but I don't think they necessarily represent wholeheartedly the depths of feminism—no, I don't."Lennox later defended her controversial comments in an interview with NPR.
+/n

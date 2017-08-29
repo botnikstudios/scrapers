@@ -1,0 +1,53 @@
+who were forced to evacuate their homes and businesses, which were left underwater, as a result of the four major storms, Desmond, Eva, Frank and Gertrude. Corporal Joseph Greenwood told Harry it was a "humbling experience" to help.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/737301/prince-harry-meets-with-soldiers-helping-out-with-flooding-crisis-that-left-residents-homeless');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201615/rs_634x1024-160205053406-634.Prince-Harry-England-JR-020516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Prince Harry");
+	var imageCaption = encodeURIComponent("Prince Harry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Owen Humphreys - WPA Pool/Getty Images
+
+
+
+
+
+
+Prince Harry has a sense of humor.The redheaded royal met with soldiers who have been tirelessly helping out residents who have been displaced as a result of the flooding crisis in Lancashire, Yorkshire and Cumbria, thanking them for their tremendous efforts. But given the amount of rain England sees every year, he and the soldiers know what to expect."If it's not raining, it's not training, as they say," Harry joked with the soldiers. Apparently this has become a well-known expression in the army. At least they can have a laugh during a very serious time!Prince William's younger brother visited Weeton Barracks and told the soldiers that being able to meet them was a "great opportunity" because they had given up their holidays to help those in need. "It's been an emotional month for you," he added, according to reports.About 500 soldiers have been sent to help the residents who were forced to evacuate their homes and businesses, which were left underwater, as a result of the four major storms, Desmond, Eva, Frank and Gertrude. Corporal Joseph Greenwood told Harry it was a "humbling experience" to help those in need and that it didn't matter that they couldn't enjoy their Christmases.
+
+
+
+Owen Humphreys - WPA Pool/Getty Images
+
+"We might have lost our Christmas but we haven't lost our homes, our possessions and our photographs. We can move our Christmas," he added.While he was inside meeting with the soldiers, hundreds of children waited outside to get a moment with the prince. About 200 kids are staying on the barracks as a result of the floods and are attending the on-site nursery and primary schools. Prince Harry eventually chatted with some of the kids, who asked him cute questions like where is crown was."It's a nice way of repaying the children because on Christmas Day many woke up without their parents, who were helping out," Weeton Primary School head teacher Anthony Goff told reporters. "Year 5 have been writing to the Queen to see if she will come and officially open the school. I have told the children to be on their best behavior so he would put in a good word with his grandmother."They do have quite an in with the royal family now, so hopefully it works out!
+/n

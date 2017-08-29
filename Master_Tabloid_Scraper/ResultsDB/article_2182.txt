@@ -1,0 +1,48 @@
+Taylor Swift Boyfriend Conor Kennedy Goes Solo to Movie Premiere, Ethel Calls Singer "Sensational" Where, oh where, wasTaylor Swift ? While the twosome have become a couple to watch ever since they started dating earlier this year,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/354508/taylor-swift-boyfriend-conor-kennedy-goes-solo-to-movie-premiere-ethel-calls-singer-sensational');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012916/reg_634.ConorKennedy.jlc.101512.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Conor Kennedy");
+	var imageCaption = encodeURIComponent("Conor Kennedy");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stephen Lovekin/WireImage
+
+Where, oh where, wasTaylor Swift ?While the twosome have become a couple to watch ever since they started dating earlier this year, Conor Kennedy stepped out Monday night for the premiere of HBO's documentary, Ethel, at the Time Warner Center in New York City without the songbird by his side.But there's nothing to worry about. The 22-year-old Swift is currently in the middle of doing the promotional rounds for her new single, "State of Grace," including taping a VH1 Storytellers concert for about 3,000 students at Harvey Mudd College in Claremont, Calif.
+
+The 18-year-old Kennedy scion came out to support his aunt, Emmy-winning filmmaker Rory Kennedy's documentary on his grandmother, Ethel Kennedy, the late Robert F. Kennedy's wife.But all is well with the cute couple as Ethel can attest. The family matriarch opened up about her grandson's gal pal last week to the Cape Cod Times' Capecast, telling the paper Taylor "is just spectacular."
+
+T.Swift says she did not kidnap Conor
+
+"She's just sensational inside and out," said Ethel from the links of the RFK golf tournament at the Hyannisport Golf Club.She went on: "You know what she really is? She's game. She had never sailed before; she sailed…She played anything that everyone else was doing. And she was good at it and no fuss. And I'm happy that we'll be neighbors. I'm thrilled."
+/n

@@ -1,0 +1,46 @@
+Jennie Garth Is Married! Beverly Hills, 90210 Star Says "I Do" to Boyfriend David Abrams Congratulations are in order for Jennie Garth! The Beverly Hills, 90210 alumna got married to David Abrams Saturday night outside of Los Angel.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/675296/jennie-garth-is-married-beverly-hills-90210-star-says-i-do-to-boyfriend-david-abrams');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201545/rs_634x1024-150505125149-634.Jennie-Garth-David-Abrams-Orange-Dress-NYC-50515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennie Garth, David Abrams");
+	var imageCaption = encodeURIComponent("Jennie Garth, David Abrams");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+Congratulations are in order for Jennie Garth!The Beverly Hills, 90210 alumna got married to David Abrams Saturday night outside of Los Angeles, Garth's rep confirmed to E! News. "It was the perfect night," the pair shared with People. "We are so happy to have our family and friends surrounding us on this special occasion!"Just two months ago, E! News sat down with the mother-of-three where we dished about all things related to weddings. When asked if her three children with ex-husband Peter Facinelli would be a part of the special day, Garth's answer was an absolute yes!
+
+"Yes, they are my wedding party. Period," she said before sharing some scoop on her dress. "And then I'm working with a really amazing designer, I'm so excited."Back in April, E! News confirmed the actress was indeed engaged to Abrams. The proposal came after Garth celebrated her 43rd birthday in Tulum, Mexico at the Dreams Tulum Resort & Spa."Dave had been working on this for months, and really wanted to plan something special for her around her birthday and make it perfect," a source told People. Let's just say the plan worked as Garth had no problems saying yes.
+
+As Garth gets used to her new relationship status, the Mystery Girls star will look forward to spending time with the most important people in her life: Her new husband and their beautiful girls."I love every second [when they're home], even when they are driving me nuts," she shared with Meredith Vieira. "I don't take one second for granted with them. But they do try to kill each other." Oh how we love the pre-teen years!Congrats once again to the happy couple! 
+/n

@@ -1,0 +1,46 @@
+Russell Brand Marries Laura Gallacher, Mother of Their Child Russell Brand is a married man once more. The 42-year-old British actor and comedian married fiancée Laura Gallacher, the 30-year-old mother of their baby, in England Saturday. The.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876118/russell-brand-marries-laura-gallacher-months-after-their-baby-s-birth');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016530/rs_634x1024-160630103901-634-russell-brand-laura-gallacher-rome-063016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Russell Brand, Laura Gallacher");
+	var imageCaption = encodeURIComponent("Russell Brand, Laura Gallacher");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+Russell Brand is a married man once more.The 42-year-old British actor and comedian married fiancée Laura Gallacher, the 30-year-old mother of their baby, in England Saturday. The two had dated on and off for a few years before getting engaged in 2016.Brand announced the news on his Radio X podcast, saying "I'm living a married life now...I'm domestic," BBC News reported, adding that he also told listeners he got his nose hairs waxed for the first time for the wedding.Brand and Gallacher tied the knot in front of about 100 family members and friends, including his Forgetting Sarah Marshall co-star Jason Segel and Noel Gallagher, at a church near their home in Henley-on-Thames, Oxon, The Sun and The Henley Standard reported.The Sun posted photos of the bride and groom on a paddle steamer riverboat. Gallacher wore a long sleeve, white lace dress with a knee-high slit and cathedral-length veil. Brand sported formal black pants and a vest, a white shirt opened to reveal the top part of his chest and gray suede boots. 
+
+The wedding took place about nine months after Gallacher gave birth to her and Brand's first child, daughter Mabel.Brand and their daughter arrived to the ceremony in a silver Mercedes van, while Gallacher traveled to the church in a white Rolls Royce, accompanied by her father Bernard, The Henley Standard reported."They wanted a very small, personal affair with their daughter Mabel, family and close friends rather than a circus," a source told The Sun. "It was a lovely occasion. Mabel was guest of honor."After exchanging vows, Brand and Gallacher, as well as their daughter, emerged to music from the Brass Funkeys. Guests showered them in confetti, after which everyone made their way to the boat, The Henley Standard said. 
+
+The couple hosted an Indian-themed reception, where staff members wore saris, the newspaper said.Brand practices Hinduism. He had proposed to Katy Perry in India on New Year's Eve 2009 and married her there in a traditional Indian ceremony the following year. They split in 2011 and divorced in 2012.
+/n

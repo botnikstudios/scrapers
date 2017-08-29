@@ -1,0 +1,46 @@
+EXCLUSIVE! Angelica Celaya Talks About Playing Jenni Rivera on Telemundo's Mariposa de Barrio Celaya, who even brought her mother to the premiere, explains that it was such an emotional day that she needed her there to serve as her anch.../n
+Already half way into the series, Angelica Ceyala talks to E! News about what it's been like to portray the late Jenni Riverain Telemundo's Mariposa de Barrio and the reaction of the public. "I have received so much emotional feedback from the fans. I think the fans knew Jenni had a troubled adolescence and early adulthood, but I don't believe they were ready to see it on screen. We've kept the good, the bad and the ugly of Jenni's life because we need to understand the entire story to appreciate the legend she later became," the actress explains. "Her fans have cried with the episodes, and a lot do find themselves relating to her past."Many scenes showing the domestic violence and abuse that Jenni and her family suffered, were just as difficult to create as they are to watch. The family, directors, and writers wanted to stick to all of the things that framed Jenni's life.
+
+The night of the big premiere, the actress got to share the special moment with those closest to Jenni's heart. "I got to see the first episode along with her family and friends and some of her fans in the Grammy museum. It was so emotional to sit next to her children and brothers and sister and mother," she recalls. "I was a little nervous of course. Because now my work has been done and now everyone gets to see it. The first episode started off very emotional and included actual footage of the news coverage they couldn't find her jet. Then it cuts to Jenni's childhood, and we get to see all three Jennis in one episode." 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873722/angelica-celaya-talks-about-playing-jenni-rivera-on-telemundo-s-mariposa-de-barrio');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017528/rs_634x1024-170628134929-634.angelica.cm.42817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Angelica Celaya ");
+	var imageCaption = encodeURIComponent("Angelica Celaya ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Telemundo
+
+Celaya, who even brought her mother to the premiere, explains that it was such an emotional day that she needed her there to serve as her anchor. "I dedicate my work of Mariposa de Barrio to my mother, she had always been a Jenni Rivera fan," she says. "So it's a major blessing to undertake this role, and giving my mom my interpretation of her icon." The 35-year-old star is currently expecting her first child and just several weeks ago wrapped up the final scenes of the series. "I just got done with the filming. It was definitely bittersweet. There is a moment when an actor falls in love with the character and it's so hard to let go. I was saying goodbye to this emotional journey of Jenni Rivera and saying hello to enjoying motherhood. I finishing filming on my 30th week of pregnancy." 
+/n

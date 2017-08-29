@@ -1,0 +1,44 @@
+Frances Bean Cobain Files for Divorce From Isaiah Silva After Nearly 2 Years of Marriage Frances Bean Cobain is calling it quits. E! News confirms that Courtney Love and Kurt Cobain's daughter has filed for divorce from her husband Isai.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/751176/frances-bean-cobain-files-for-divorce-from-isaiah-silva-after-nearly-2-years-of-marriage');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015825/rs_634x1024-150925163859-634.Frances-Bean-Cobain-Isaiah-Silva-Coachella.ms.092515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frances Bean Cobain, Isaiah Silva");
+	var imageCaption = encodeURIComponent("Frances Bean Cobain, Isaiah Silva");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PacificCoastNews
+
+Frances Bean Cobain is calling it quits.E! News confirms that Courtney Love and Kurt Cobain's daughter has filed for divorce from her husband Isaiah Silva, whom she'd secretly wed back in June 2014, in a Los Angeles Superior Court on March 14 citing irreconcilable differences.The 23-year-old stated in the court documents obtained by E! News that Silva, a 31-year-old rocker with the band The Eeries, is not to have any monetary gain from her late father's estate, which is reportedly valued at $450 million."Petitioner requests that all gifts, inheritance, bequests and all other pre-marital assets, and all of her post-separation earnings, and acquisitions, as well as her clothing, jewelry and personal effects, be confirmed and/or awarded to her as her separate property plus all credits, offsets and reimbursements to which she is entitled," the documents state.Cobain is, however, open to paying and receiving spousal support.The former couple, who have been separated since February 24, according to the filing, have no kids together. E! News has reached out to Cobain's camp for comment.
+
+Frances Bean went under the radar and married her boyfriend of five years in a small and intimate ceremony on June 29, 2014, E! News reported back in September, and even her famous mom had no idea it was happening."Courtney loves Isaiah, but was devastated to learn that Frances had gotten married without her knowing," a source told us at the time, adding that, "Courtney really likes Isaiah and is very happy for Frances. Courtney is sad she wasn't at the wedding."The insider continued, "Frances called her after but understands why she did it. Frances needs a man in her life and has always craved stability. She's found it in Isaiah," and reassured that, "This has not caused a rift between mom and daughter. Courtney was sad, but she's cool and Isaiah is a great son-in-law."A source told E! News Frances had been planning her wedding for over a year. The ceremony included 13-15 guests, and the insider explained that the young star's inspiration for the theme of the wedding was daisies in mason jars.TMZ was first to report the story.—Reporting by Baker Machado
+/n

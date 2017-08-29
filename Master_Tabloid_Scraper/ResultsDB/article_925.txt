@@ -1,0 +1,48 @@
+Rapper Nelly's Tour Bus Raided—Texas Border Cops Find Drugs, Gun Note to Nelly: Don't mess with Texas The "Hot in Herre" rapper received a not-so-warm welcome in the Lone Star State after his tour bus was stopped at a border patrol checkpoint in Sier.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/353341/rapper-nelly-s-tour-bus-raided-texas-border-cops-find-drugs-gun');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012911/reg_634.nelly.mh.101112.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nelly");
+	var imageCaption = encodeURIComponent("Nelly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Becker/Getty Images
+
+Note to Nelly: Don't mess with TexasThe "Hot in Herre" rapper received a not-so-warm welcome in the Lone Star State after his tour bus was stopped at a border patrol checkpoint in Sierra Blanca, Texas. After searching the bus, police found heroin, marijuana and a gun. A spokesman for the Hudspeth County Sheriff's Office confirms to E! News that Nelly was on board his 2007 Black Prevost tour bus with six other members of his entourage when a border patrol canine unit detected the presence of drugs at about 8 p.m. Wednesday.
+
+The agent subsequently directed the vehicle into a secondary lane for further inspection and the canine unit pointed cops to a cardboard box that contained a small plastic bag of pot, 36 Ziploc bags of heroin and a loaded .45 caliber pistol.According to police, a member of the hip-hop star's posse, Brian Keith Jones, admitted the drugs and guns were his and he was taken into custody. Nelly and the others were subsequently released and allowed to continue on their way without incident.
+
+Jones is currently in Hudspeth County Jail awaiting a bond hearing, which is expected to take place later today or tomorrow. However, no other information was disclosed.
+
+A rep for Nelly did not return an email seeking comment.But Nelly's posse aren't the only musicians who've had run-ins with the law in the border town.Fiona Apple and Willie Nelson were also collared on marijuana charges at the very same Sierra Blanca checkpoint after their tour buses were inspected.
+/n

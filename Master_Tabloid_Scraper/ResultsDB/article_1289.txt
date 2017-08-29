@@ -1,0 +1,46 @@
+Here's Exactly What It's Like to Date Jenny Slate—According to Jenny Slate 1. She Keeps it Quiet: Is she dating the former Mad Men star? She hasn't said. The funny lady's said nothing about rumors. Not in her Marie Claire interview, nor anywhere else.../n
+Pretty much everyone in the world knows that indie darling Jenny Slate dated Captain America (aka her Gifted co-star Chris Evans) when she was fresh off her divorce from Dean Fleisher-Camp in 2016. Fans may have been rooting for the unlikely pair, but unfortunately, their love was fleeting and the two split in February after nine months of dating. However, the actress has dusted herself off and is doing a-okay professionally and personally.Her new film Landline hit theaters on July 21, and the SNL alum has also recently been linked to Jon Hamm (the two were spotted at a movie together in June).In her new interview with Marie Claire, Slate opened up on a bevy of personal topics include her past romance with Evans, her divorce and her penchant for being too honest. From the interview, it's pretty clear how she's charmed her way into becoming the queen of indies and hearts.Is she as down to Earth as she seems? Here's what Jenny Slate's really like to date—according to Jenny Slate...
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870744/here-s-exactly-what-it-s-like-to-date-jenny-slate-according-to-jenny-slate');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017521/rs_634x843-170621111118-634.Jon-Hamm-Jenny-Slate-JR-062117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jon Hamm, Jenny Slate");
+	var imageCaption = encodeURIComponent("Jon Hamm, Jenny Slate");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Cousart/JFXimages/WENN.com
+
+1. She Keeps it Quiet: Is she dating the former Mad Men star? She hasn't said. The funny lady's said nothing about rumors. Not in her Marie Claire interview, nor anywhere else has she said a peep about her and Hamm. She hasn't posted anything vaguely mysterious on social media either. She's keeping things discreet like a Hollywood A-lister.The open book did say in the interview, "I enjoy putting myself out there much more than I fear the consequences. I do have to learn to make sure that I'm taking that risk alone, and not dragging anyone else into it."2. She Is Who She Is: In a world of article and plastic surgery, the uniquely individual Slate also spoke to the writer about her unwavering honesty about who she is (sometimes to her own detriment).The 35-year-old said: "I feel so compelled to give a detailed answer to everything. People tell me over and over, 'Jenny, you don't have to say everything.' But I forget. I straight-up forget, and I'm not sure how to change without completely silencing myself."
+
+3. She Knows How to Make Tough Decisions: She spoke about her painful decision to split from her husband and said that the break up was necessary to keep the relationship."A divorce moves at the speed of complete deadening silence, or that's how it feels. When we got divorced, I felt like I was in outer space," she said. "But I think we at least had the foresight, even amidst all that pain, to say, 'If we don't do this now, we will never be able to be together at all in any way. We will never be able to work together or be friends.'"4. She Speaks Highly of Her Exes: Slate was right. In the sit down it's clear that she and her ex husband are still on very good terms and are even developing a Marcel the Shell With Shoes movie together."Just because something didn't work out in its original form doesn't mean you have to denigrate it and say it was worth nothing," revealed Slate.Additionally she briefly mentioned her short time with Evans as, "an experience that was so precious to me." 5. She Knows When To Say Bye: While she may be the greatest ex-girlfriend-turned-friend, she also knows when to say adios for good. "Believe me, I have those ex-boyfriends too, where I'm like, 'Goodbye.' With a period between 'good' and 'bye.'"
+/n

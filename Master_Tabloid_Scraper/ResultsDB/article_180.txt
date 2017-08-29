@@ -1,0 +1,50 @@
+Alice Through the Looking Glass Review Roundup: Is the Magic Gone in Disney Sequel? Welcome back to Underland, Alice. In Disney's new film Alice Through the Looking Glass, the sequel to the studio's 2010 hit live-action adaptation .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/768434/alice-through-the-looking-glass-review-roundup-did-critics-like-disney-s-sequel');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015106/rs_634x928-151106131525-634-johnny-depp-alice-looking-glass.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alice Through the Looking Glass");
+	var imageCaption = encodeURIComponent("Alice Through the Looking Glass");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney
+
+Welcome back to Underland, Alice.In Disney's new film Alice Through the Looking Glass, the sequel to the studio's 2010 hit live-action adaptation of Alice in Wonderland, Mia Wasikowska reprises her part as the British heroine, while Johnny Depp returns as the Mad Hatter, whose mental health is even more unstable in the wake of an attack on his family.Alice aims to go back in time to save them. During that time, she also learns about the pasts of the White Queen and Red Queen, played again by Anne Hathaway and Helena Bonham Carter.Alan Rickman provides the voice of Absolem the Caterpillar again, marking the final role for the actor, who died at age 69 this past January. Other stars include franchise newcomers Sacha Baron Cohen, who plays a half-clock, half-human character named Time, and Rhys Ifans, who plays the Mad Hatter's dad, as well as returning actors Stephen Fry, who provides the voice of the Cheshire Cat again, Michael Sheen, the White Rabbit, and Timothy Spall, the Bloodhound.Alice Through the Looking Glass was released Friday and has received mostly lackluster reviews.
+
+Check out what five critics said about the movie.1. ComingSoon.net's Joshua Starnes gives Alice Through the Looking Glass a score of 4.5 out of 10."Filled with cliché after cliché and lacking what little whimsy the first had, Alice Through The Looking Glass reeks of perfunctory professionalism," he writes. "Everyone involved knows their job and is certainly capable—there's nothing inept in Alice, just a dreary lack of heart or joy or anything like life." 
+
+2. The Cleveland Plain Dealer's Laura DeMarco gives the movie a B- score."When it comes to the new Alice Through the Looking Glass, [author Lewis] Carroll's line falls flat," she writes. "The sequel to the 2010 blockbuster is just not curious enough. With most of the same cast but with new director James Bobin (Da Ali G Show, the new Muppets movies) replacing Tim Burton, this follow-up lacks the whimsy and wonder of the original."3. indieWIRE's David Ehrlich gives the movie a D- score."Oh, what a deliciously horrific idea this movie was!" he writes. "As Alice runs from one hollow set piece to another, hitting every standard mark that a colossal movie like this must in order to pay for itself, her adventure grows less and less interesting with every turn. By the end, all that lessness is too much for the muchness to match it. Less is usually more, but when it comes to this franchise, none would be ideal."
+
+4. The New York Post's Kyle Smith gives Alice Through the Looking Glass 3.5 out of four stars."You certainly get your 20 bucks worth of spectacle out of Alice Through the Looking Glass," he writes. "So breathtaking are the landscapes, so whimsical are the creatures, so marvelous are the marvels that I wanted to give a standing ovation to whoever signed the check to pay for all this. Expensiver and expensiver!""So the screenplay (by Linda Woolverton) isn't exactly heaving with brilliant ideas, but it works well enough as a blank canvas against which the special-effects team goes bonkers," he adds. "As an adventure, everything comes a bit too easily to Alice, and the film's message—girls can do anything!—is bland. Rarely (as when the script rhymes "dafter" and "laughter") does it even hint at Carroll's pleasing whimsy. If it's dry wit you're after, you probably shouldn't be at the multiplex in the first place."
+
+5. Collider's Matt Goldberg gives Alice Through the Looking Glass a D score.for a film about the urgency of time, Looking Glass drags at a remarkable rate," he writes. "There are some interesting ideas and concepts sprinkled throughout, but they never coalesce into something that's worth your time."
+/n

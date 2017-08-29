@@ -1,0 +1,46 @@
+Evangeline Lilly Is Pregnant; Ant-Man Star Reveals Due Date, Debuts Baby Bump—Watch Now! Evangeline clearly loves motherhood, and it's likely that she'll keep expanding her family after her second child is born. "What I wanted originally was six kids.../n
+Surprise! Evangeline Lilly is pregnant with baby No. 2!The 35-year-old actress debuted her baby bump at the premiere of Ant-Man Monday, where she revealed to E! News she's 7 months along and due in September.The Lost alum, who has a 4-year-old son named Kahekili with partner Norman Kali, is having an easy pregnancy so far. "This is my second time around, and I find I've been pretty lucky," she said. "It's pretty straightforward, and I just love it. I feel good, I feel blissful."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/671773/evangeline-lilly-is-pregnant-ant-man-star-reveals-due-date-debuts-baby-bump-watch-now');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015529/rs_634x954-150629200055-634-evangeline-lilly-pregnant-ant-man-premiere-2-062915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evangeline Lilly, Pregnant");
+	var imageCaption = encodeURIComponent("Evangeline Lilly, Pregnant");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images
+
+Evangeline clearly loves motherhood, and it's likely that she'll keep expanding her family after her second child is born. "What I wanted originally was six kids," she told Ocean Drive in a 2014 interview. "I frickin' love being pregnant. I'm one of the lucky women who just had a blissful pregnancy, but I wanted to adopt four. My partner and I have really been through the ringer in the adoption world and it's hard, so we'll see what happens. Life is magically beautiful, and it brings you what is perfect.""Becoming a mother has really helped me put my feet on the ground and given me a very powerful sense of self and a powerful sense of priority in life," she said. "All I have to do is see my son to do that mental check that says, 'Is this really important? Do you really need to be doing this? Do you really care?' It helps put everything in perspective when things get stressful or when there's a demand or pressure on me. At the end of the day, it's our family, it's being a mother and a partner and seeing love all around."
+
+Somebody's got her priorities in order! Congratulations, Evangeline, on baby No. 2!Ant-Man hits theaters July 17.
+/n

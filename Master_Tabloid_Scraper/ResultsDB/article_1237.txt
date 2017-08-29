@@ -1,0 +1,45 @@
+Although her talk show is no more, Latifah's acting career continues to soar. She's already getting much buzz for her work as legendary blues singer Bessie Smith in HBO's upcoming Bessie./n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/607990/queen-latifah-to-pay-laid-off-talk-show-staff-with-her-own-money');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141021/rs_634x1024-141121145756-634.Queen-Latifah.2.MS.112114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Queen Latifah");
+	var imageCaption = encodeURIComponent("Queen Latifah");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Facebook
+
+Just call her Santa Claus.Queen Latifah is making sure that the laid-off staff of her cancelled talk show is being taken care of for Christmas.I just got word that Latifah is using her own money to pay the show's crew through the holidays even though production has officially shut down. (While original episodes of the show will run through March, the production crew is no longer necessary.)It was announced about a month ago that The Queen Latifah Show had been cancelled after two seasons. Produced by Will Smith and Jada Pinkett Smith, the show included a roster of high-profile guests, including Bill Clinton and Nicole Kidman.
+
+"Your dedication and sacrifice was crucial to the entire team, and in the face of intense challenges, you displayed 'True Grit'!" Latifah wrote in a message posted on her Facebook page. "Thank you for your strong work ethic and great effort in getting The Queen Latifah Show off the ground and running."Your Family, Partners, Staff and Crew showed up with you every step of the way. Be very proud of that! Not everyone can say the same," the message continued. "You can also say you have been a blessing to and been blessed by amazing guests and incredible audiences for this show. We truly changed people's lives for the better. So…stay positive, stay strong, and most important, stay open...There is so much more God has in store!"Latifah ended the post with words of inspiration. "This letter is for me, my staff, my crew, and everyone who was by my side for this incredible journey," she wrote. "The most important thing in life is that you wake up every single day and take chances. No matter what the outcome…believe in yourself and continue to fly."Although her talk show is no more, Latifah's acting career continues to soar. She's already getting much buzz for her work as legendary blues singer Bessie Smith in HBO's upcoming Bessie.
+/n

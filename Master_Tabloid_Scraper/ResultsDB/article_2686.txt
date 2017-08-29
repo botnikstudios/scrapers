@@ -1,0 +1,48 @@
+UPDATE! Marcia Wallace, Voice of The Simpsons Character Edna Krabappel, Dies at 70 Update: Marcia Wallace's son, Michael Hawley, confirms to E! News that his mother died from complications from pneumonia. ____________________________ Ma.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/474620/marcia-wallace-voice-of-the-simpsons-character-edna-krabappel-dies-at-70');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013927/rs_293x473-131027071848-634.Marcia-Wallace-Edna.jl.102713_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Marcia Wallace");
+	var imageCaption = encodeURIComponent("Marcia Wallace");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Angela Weiss/Getty Images
+
+Update: Marcia Wallace's son, Michael Hawley, confirms to E! News that his mother died from complications from pneumonia.____________________________Marcia Wallace, the voice of Edna Krabappel on The Simpsons, died on Friday, Oct. 25, her rep confirms to E! News. She was 70.Her friend, actress and writer Cathryn Michon, who co-wrote and directed Wallace's last film Muffin Top: A Love Story, tells E! News that she died of complications from other illnesses, not breast cancer, which was widely reported."She was an outspoken advocate for Breast Cancer awareness, and as a game show queen, this was one game she was determined to win, and so she did," Michon said.The comedic actress was best known for her role as of Bart's fourth-grade schoolteacher on The Simpsons, for which she won an Emmy in 1992. And although there was discussion that a character on the hit comedy would pass away, this was unrelated to Edna Krabappel.
+
+
+
+The Simpsons
+
+Wallace is also well known for her portrayal of quirky receptionist Carol Kester on The Bob Newhart Show, from 1972-1978.Wallace loved game shows, appearing on more than a dozen game shows, including Hollywood Squares, The $25,000 Pyramid, To Tell the Truth, Match Game and Family Feud, according to Deadline.Wallace's Simpsons cast members took to Twitter to express their condolences."Cheers to the hilarious, kind, fab Marcia Wallace, who has taken her leave of us," Yeardley Smith said, who is the voice of Lisa Simpson. "Heaven is now a much funnier place b/c of you.""So sad to learn--through Twitter, first--of the passing of the wonderful Marcia Wallace. Sorely missed already," Harry Shearer tweeted, who has portrayed many different characters.-Additional reporting by Marcus Mulick(Originally published on Oct. 27, 2013 at 7:49 a.m. PDT)
+/n

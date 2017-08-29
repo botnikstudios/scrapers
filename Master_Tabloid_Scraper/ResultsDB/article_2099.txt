@@ -1,0 +1,44 @@
+Mary-Louise Parker Joins The Blacklist in Season 2 Mary-Louise Parker is on NBC's list. The Weeds star is set to join the second season of The Blacklist in a recurring role, the NBC hit's creators announced at San Diego Comic-Con o.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/563440/mary-louise-parker-joins-the-blacklist-in-season-2');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013623/rs_634x1024-130723102457-634..mlp.ls.72313_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mary-Louise Parker");
+	var imageCaption = encodeURIComponent("Mary-Louise Parker");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stuart C. Wilson/Getty Images
+
+Mary-Louise Parker is on NBC's list.The Weeds star is set to join the second season of The Blacklist in a recurring role, the NBC hit's creators announced at San Diego Comic-Con on Saturday.Set to make her debut in the premiere, Parker will play Naomi Hyland, a strong woman who's been hiding a dark secret from her husband, one that will put them both in danger.And you can expect Naomi to shine a light on the ever-mysterious Red (James Spader), as creator Jon Bokenkamp teased that Parker's character is "completely tied to Reddington."
+
+Spader added, "We start to learn little bit more about Reddington and his mythological history."Parker's role on The Blacklist comes just after the announcement that she would be starring in NBC's The Slap opposite Peter Sarsgaard, an eight-hour miniseries about the fallout for two families after one man slaps the other couple's child.The Blacklist returns Monday, Sept. 22 on NBC.(E! and NBC are both part of the NBCUniversal family.)
+/n

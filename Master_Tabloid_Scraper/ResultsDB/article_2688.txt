@@ -1,0 +1,46 @@
+cancer. After six months of chemotherapy, I was cancer-free. I lost my hair, but I had beautiful wigs. Nobody even knew." Rae, who was known for playing Edna Garrett on Different Strokes and The Facts of Life, says her age plays a role .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/846769/facts-of-life-star-charlotte-rae-diagnosed-with-bone-cancer-at-91');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017328/rs_634x1024-170428051331-634-CahrrlotteBae-MK042817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Charlotte Rae");
+	var imageCaption = encodeURIComponent("Charlotte Rae");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Marc Flores/Getty Images
+
+Charlotte Rae is fighting another battle.The Facts of Life star reveals to People that she has been diagnosed with bone cancer at the age of 91. "Last Monday, I found out I have bone cancer," Rae tells the magazine. "About seven years ago, I was diagnosed with pancreatic cancer—which is a miracle that they found it because usually it's too late. My mother, sister and my uncle died of pancreatic cancer. After six months of chemotherapy, I was cancer-free. I lost my hair, but I had beautiful wigs. Nobody even knew."Rae, who was known for playing Edna Garrett on Different Strokes and The Facts of Life, says her age plays a role in making the difficult decision to receive treatment or not.
+
+"So now, at the age of 91, I have to make up my mind. I'm not in any pain right now. I'm feeling so terrific and so glad to be above ground," she explains. "Now I have to figure out whether I want to go have treatment again to opt for life. I love life. I've had a wonderful one already. I have this decision to make."Rae was supposed to begin treatment last Thursday but canceled at the last minute. "I wanted to think about it first," she says. "I think I'm going to go for it. The side effects were not too bad when I did it originally. I've had a great life, but I have so many wonderful things happening. I'd like to choose life. I'm grateful for the life I've already had." 
+
+The actress released a memoir in 2015 that went into detail about her 44 years of sobriety, her oldest son's death and discovering her husband was bisexual. Despite her many ups and downs, Rae maintains a positive attitude."At 91, every day is a birthday," she says. "[In my book] I want to tell everybody to celebrate every day, to savor the day and be good to yourself, love yourself, and then you can be good to others and be of service to others."Get well soon, Charlotte Ray!
+/n

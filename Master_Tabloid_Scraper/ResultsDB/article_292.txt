@@ -1,0 +1,48 @@
+American Crime Story's Katrina Twist: Sarah Paulson Is Now the Star After Ryan Murphy Makes a "Creative Pivot" And in an even larger twist, Murphy's muse Sarah Paulson will now be the star of the installment, stepping int.../n
+Ryan Murphy and co. have changed their minds yet again.After switching the air order of The Assassination of Gianni Versace and Katrina, the minds behind American Crime Story have decided to go a different direction with Katrina all together, E! News has confirmed. Originally, this installment in the franchise was to based on the book The Great Deluge: Hurricane Katrina, New Orleans, and the Mississippi Gulf Coast by Douglas Brinkley, dealing broadly with the American government at the time. Dennis Quaid had signed on to play George W. Bush, while Annette Bening was playing the Louisiana governor and Matthew Broderick was set to play the director of FEMA. Now, a day after FX Networks CEO John Landgraf admitted to reporters at the 2017 TCA summer press tour that Murphy had made a "creative pivot," it's been confirmed that they're dropping the original source material altogether and narrowing the installment's focus with Sheri Fink's book Five Days at Memorial as its source. Set in a New Orleans hospital that lost power for five days after the natural disaster, the show will examine the decision made by hospital staff, led by Dr. Anna Pou, to euthanize critically ill patients. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872787/american-crime-story-s-katrina-twist-sarah-paulson-is-now-the-star-after-ryan-murphy-makes-a-creative-pivot');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017215/rs_634x1024-170315123418-634.sarah-paulson.cm.31517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sarah Paulson");
+	var imageCaption = encodeURIComponent("Sarah Paulson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Donato Sardella/Getty Images for The Hollywood Reporter
+
+And in an even larger twist, Murphy's muse Sarah Paulson will now be the star of the installment, stepping into the role of Dr. Pou. As of press time, no other cast members are attached to the revamped installment, though the hope is to find new roles for the A-list roster previously cast in the original idea. After all, if you land Bening, Broderick and Quaid, you don't really want to let them go if you can help it.Deadline first reported the news. While Katrina continues to take its new shape, so to is Murphy's latest installment of American Horror Story, subtitled Cult. Once again, Paulson takes the lead in what sounds like will be a rather interesting love triangle involving her character's wife (played by Allison Pill) and the mysteriously blue-haired Kai (played by Evan Peters). Here's everything we know about the upcoming season, premiering Tuesday, Sept. 5!
+
+Are you surprised by the creative pivot Murphy's made with Katrina? Or relieved? Sound off in the comments below!
+
+The Assassination of Gianni Versace: American Crime Story will debut in January 2018 on FX, with the revamped Katrina arriving sometime after that.
+/n

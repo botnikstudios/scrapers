@@ -1,0 +1,44 @@
+Helen Mirren's "Inspirational" Christmas Message: "2016 Has Been a Big Pile of S--t" Helen Mirren is feeling pretty jovial about Christmas this year. While appearing on The Graham Norton Show alongside her Collateral.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/817669/helen-mirren-s-inspirational-christmas-message-2016-has-been-a-big-pile-of-s-t');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161122/rs_634x1024-161222074126-634-Helen-Mirren-JR-122216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Helen Mirren");
+	var imageCaption = encodeURIComponent("Helen Mirren");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PA Images/Sipa USA
+
+Helen Mirren is feeling pretty jovial about Christmas this year.While appearing on The Graham Norton Show alongside her Collateral Beauty co-star Will Smith, Mirren was asked by host Graham Norton to give viewers an "inspirational Christmas message" ahead of the holidays. Mirren did as she was requested."Hello. At this time of celebration and togetherness we have the chance to reflect on the year gone by," she said directly into the camera, "and I think we can all agree that 2016 has been a big pile of s--t. So my advice to you is to drink responsibly and be merry. Have a very happy Christmas, but above all go see Collateral Beauty out on Boxing Day."
+
+After a decade together, the couple realized that making it official was the smart decision. "We got married in the end because we realized that we were going to be together forever," she said. "We got married, ultimately, for legal reasons more than anything else. Estate planning and other complicated things like that. And our families, we sensed, wanted us to be married."She continued, "I always said I have nothing against marriage. It just wasn't to my taste, like turnips. It took me a very long time to come around to acquiring the taste. I just had to meet the right turnip."
+/n

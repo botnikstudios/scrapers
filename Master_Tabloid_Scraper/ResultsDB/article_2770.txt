@@ -1,0 +1,44 @@
+Maggie and Jake Gyllenhaal Enjoy Some Sibling Bonding Over Dinner Maggie Gyllenhaal and Jake Gyllenhaal wanted to take a break from their busy schedules to have some family time. The Hollywood brother-and-sister duo were spotted arriving at .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/533628/maggie-and-jake-gyllenhaal-enjoy-some-sibling-bonding-over-dinner');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014318/rs_634x1024-140418092854-634.Maggie-Gyllenhaal-Jake-Gyllenhaal-JR-41814.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maggie Gyllenhaal, Jake Gyllenhaal");
+	var imageCaption = encodeURIComponent("Maggie Gyllenhaal, Jake Gyllenhaal");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NGRE/AKM-GSI
+
+Maggie Gyllenhaal and Jake Gyllenhaal wanted to take a break from their busy schedules to have some family time.The Hollywood brother-and-sister duo were spotted arriving at Giorgio Baldi in Santa Monica together last night for a nice sibling dinner. Jake was casually dressed in khaki slacks, a gray sweater and sneakers while his older sister looked chic in a beige coat and light pink outfit with her new platinum blond pixie cut.E! News is told the pair spent a little over an hour at the popular restaurant.
+
+Jake was spotted dining with another pretty blond (though one who is not related to him) while in Rome recently.Sporting a black T-shirt and his hair pulled back, the 33-year-old star could be seen sitting across from the mystery gal, who was all smiles as they ate and conversed with each other. Following their meal, the two exited the restaurant and reportedly hopped into the same vehicle.There's no word whether or not there's a romantic relationship brewing there, but he is currently single, having split from girlfriend Alyssa Miller after six months of dating."They fizzled out," a source close to the former couple told Us Weekly in January. "It happened a while ago—before the holidays. He's back on the scene.""Things were really good between Jake and Alyssa right up until he had to leave for L.A. to go shoot a movie [Nightcrawler] in the fall," another source said. "Then the distance just really got to them."
+/n

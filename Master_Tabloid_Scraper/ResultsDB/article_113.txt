@@ -1,0 +1,44 @@
+Frozen's Josh Gad Welcomes Second Daughter With Wife Ida Darvish! Josh Gad and Ida Darvish are now the proud parents of two little girls. The actor, who voices Olaf the snowman in Disney's Frozen, announced that his wife has given .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/511855/frozen-s-josh-gad-welcomes-second-daughter-with-wife-ida-darvish');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014118/rs_293x473-140218062300-634-Josh-Gad-JR-21814_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Josh Gad");
+	var imageCaption = encodeURIComponent("Josh Gad");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Larry Busacca/Getty Images
+
+Josh Gad and Ida Darvish are now the proud parents of two little girls.The actor, who voices Olaf the snowman in Disney's Frozen, announced that his wife has given birth via Twitter Tuesday. "Well, it's official. I am a daddy again. And my wife deserves an award for her incredible strength and amazing demeanor. #luckiest-man," the 32-year-old actor told his followers. He has yet to reveal his daughter's name.It's been an extra special weekend for Gad, as Frozen won Best Animated Film at the BAFTAs Sunday.
+
+Gad and Darvish got married in 2008 and have a daughter named Ava. The former 1600 Penn star first announced his wife's second pregnancy during a Good Morning America appearance in November 2013, joking, "It's going to be a household full of estrogen. I'm a little concerned."In addition to Frozen, Gad served as a Daily Show correspondent and starred in the Broadway musical The Book of Mormon. He next appears in Zach Braff's dramedy Wish I Was Here, starring Kate Hudson, Jim Parsons, Ashley Greene and Mandy Patinkin. The new dad recently wrapped production on another movie, The Wedding Ringer, in which he shares top billing with Kevin Hart and  Olivia Thirlby.
+/n

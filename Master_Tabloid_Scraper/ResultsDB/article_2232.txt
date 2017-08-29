@@ -1,0 +1,42 @@
+enter the Red Carpet Pose-Off Sweepstakes for a chance to win the ultimate glam pack: a pair of Ippolita Rose earrings and a Christian Louboutin Loubi Lula clutch!/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/290008/lea-michele-vs-naya-rivera-it-s-the-sag-awards-red-carpet-pose-off');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012029/reg_293.lea.naya.ls.12912.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lea Michele, Naya Rivera");
+	var imageCaption = encodeURIComponent("Lea Michele, Naya Rivera");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Mazur/WireImage; Jason Merritt/Getty Images
+
+It's a battle of the Glee gals!Lea Michele and Naya Rivera are bringing some silvery smolder to the 2012 SAG Awards red carpet. Lea vamps it up in a high-slit Versace gown while Naya rocks out in a Naeem Khan frock, Neil Lane jewels and Louboutin pumps.So which lovely lady gets your vote?While you're indulging in our favorite pastime of pitting fashionistas against each other, check out E!'s Red Carpet Pose-Off.Michelle Williams vs. Kyra Sedgwick, Zoe Saldana vs. Rose Byrne, Dianna Agron vs. Sofia Vergara—-who rocked the red carpet?Make the call, then enter the Red Carpet Pose-Off Sweepstakes for a chance to win the ultimate glam pack: a pair of Ippolita Rose earrings and a Christian Louboutin Loubi Lula clutch!
+/n

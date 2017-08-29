@@ -1,0 +1,44 @@
+Pawlikowski simply does not care about your rules for acceptance speeches. The writer-director won the Academy Award for Best Foreign Language film for Ida, a Polish film about an orphaned girl on the verge of taking her vows as a Catholic n.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/628333/best-foreign-language-film-winner-pawe-pawlikowski-totally-ignores-exit-music-to-dedicate-oscar-to-late-wife');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015122/rs_634x954-150222183314-634.Pawel-PawlikowskiAcademy-Awards.ms.022215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Pawel Pawlikowski, 2015 Academy Awards, Winner");
+	var imageCaption = encodeURIComponent("Pawel Pawlikowski, 2015 Academy Awards, Winner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Dear Oscar people: Paweł Pawlikowski simply does not care about your rules for acceptance speeches.The writer-director won the Academy Award for Best Foreign Language film for Ida, a Polish film about an orphaned girl on the verge of taking her vows as a Catholic nun. Pawlikowski was overwhelmed with gratitude and had many people to thank, and he was going to get to them all, exit music be damned!"Oh, wrap up!" he shouted after seeing the warning on the teleprompter. "And to my Polish friends who are in front of the TV, the crew who were in the trenches with us and are totally drunk right now. You were fantastic. You were brilliant. You carried me through this film. You are what I love about Poland. You are resilient, courageous, brave and fuinny/ And you can take a drink!"Where is his crew?! We'd like to hang out with them at their Oscar viewing party.
+
+But the best part about his acceptance speech was when the music swelled and tried to (musically) push him offstage. Much to the delight of the crowed, he just kept on talking. Sorry, Academy, but if someone wants to dedicate an award to their late family members, you're going to let them."I would like to dedicate [this Oscar] to my late wife and my parents who are not among the living who are totally inside this film and they have a lot to do with the film," he said, rushing and talking louder over the music. "And my children who are hopefully watching, who are still alive! Victor and Maria, I love you. You are the main prize."Mr. Pawlikowski, we salute you for refusing to abide by the rules of the music cues. 
+/n

@@ -1,0 +1,42 @@
+Martha Stewart Can't Handle the Heat Coming From Jason Derulo's Shirtless Concert Performance If it ain't love, why does this Twitter spree feel so good? As Martha Stewart continued spending time in Cannes on the Daily Mail&#x.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/775010/martha-stewart-can-t-handle-the-heat-coming-from-jason-derulo-s-shirtless-concert-performance');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016522/rs_634x1024-160622145558-634-jason-derulo-martha-stewart-mv-62216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jason Derulo, Martha Stewart");
+	var imageCaption = encodeURIComponent("Jason Derulo, Martha Stewart");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter 
+
+If it ain't love, why does this Twitter spree feel so good?As Martha Stewart continued spending time in Cannes on the Daily Mail's MailOnline yacht Wednesday night, the celebrity chef was treated to a special performance from Jason Derulo.If you think the lifestyle expert could care less about the "Watcha Say" singer, you are so, so wrong.As soon as Jason took to the stage, Martha was quite intrigued by his "hot" performance. In fact, she decided to live-tweet it with pictures included."Now Jason Derulo is singing for us. Quite a show," she wrote on social media. "It's hot and he is shedding his clothes."
+/n
