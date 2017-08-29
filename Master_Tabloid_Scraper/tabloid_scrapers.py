@@ -11,7 +11,7 @@ we're currently using can be called at once.
 
 #### Scrape E! Online #####
 
-def EScraper(search_term, days_ago):
+def EScraper(search_term, days_ago, results_loc):
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -97,20 +97,25 @@ def EScraper(search_term, days_ago):
     ##################### Write to file ##########################
     results_loc = os.getcwd() + "/Results/"
     file_base = results_loc + "Eonline_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
+
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
 
 
 
 ######## Define our scraper for Radar Online
-def RadarScraper(search_term, days_ago):
+def RadarScraper(search_term, days_ago,results_loc):
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -170,7 +175,7 @@ def RadarScraper(search_term, days_ago):
         page_result = requests.get(page_result_link)
         res_soup = BeautifulSoup(page_result.content, 'html.parser')
         story_tag = res_soup.find_all(class_="entry")
-        if story_tag: # Gracefully handle in case nothing comes up
+        if story_tag and not story_tag[0].find_all(class_="fs-gallery_body"): # Gracefully handle in case nothing comes up
             story = story_tag[0].get_text()
             fetched_stories.append(story.encode('utf-8',errors='ignore'))
         
@@ -178,23 +183,27 @@ def RadarScraper(search_term, days_ago):
             fetched_headlines.append(title)
     
     # Write results to a CSV.
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "Radar_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
+    #results_loc = os.getcwd() +    
+    file_base = results_loc + "/Radar_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
 
 
 
 
 #################### Perez scraper ###########################################
-def PerezScraper(search_term, days_ago):
+def PerezScraper(search_term, days_ago,results_loc):
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -265,21 +274,25 @@ def PerezScraper(search_term, days_ago):
         fetched_headlines.append(headlines_list[link_indices[i]])
 
     ########### Write to file ################
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "Perez_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
-    
+    file_base = results_loc + "/Perez_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
+
+
     
 ###################### Scrape People #########################################
-def PeopleScraper(search_term, days_ago):
+def PeopleScraper(search_term, days_ago,results_loc):
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -342,7 +355,9 @@ def PeopleScraper(search_term, days_ago):
         res_soup = BeautifulSoup(page_result.content, 'html.parser')
         story_tag = res_soup.find_all(class_="article-body__inner")
         if story_tag: # Gracefully handle in case nothing comes up
-            story = story_tag[0].get_text()
+            story_chunks = story_tag[0].find_all('p')
+            story = [pt.get_text() for pt in story_chunks]
+            story = ''.join(story)
             fetched_stories.append(story.encode('utf-8',errors='ignore'))
         
             title_tag = res_soup.find_all(class_="article-header__title")
@@ -350,20 +365,26 @@ def PeopleScraper(search_term, days_ago):
             fetched_headlines.append(title_tag.encode('utf-8', errors = 'ignore'))
     
     # Write results to a CSV.
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "People_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
+    #results_loc = os.getcwd() + "/Results/"
+    file_base = results_loc + "/People_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
+
+
     
 ################## Celebuzz scraper ############################################
-def CelebuzzScraper(search_term, days_ago):
+def CelebuzzScraper(search_term, days_ago, results_loc):
     
     from bs4 import BeautifulSoup
     import requests
@@ -427,22 +448,27 @@ def CelebuzzScraper(search_term, days_ago):
         fetched_headlines.append(headlines[link_indices[i]])
 
     # Write results to a CSV.
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "Celebuzz_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
+    #results_loc = os.getcwd() + "/Results/"
+    file_base = results_loc + "/Celebuzz_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
+
 
 
 
 ################# Nat'l Enquirer ##############################################
-def NatlEnquirerScraper(search_term, days_ago):
+def NatlEnquirerScraper(search_term, days_ago, results_loc):
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -517,21 +543,26 @@ def NatlEnquirerScraper(search_term, days_ago):
         
         
     # Write results to a CSV.
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "NatlEnq_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
+    #results_loc = os.getcwd() + "/Results/"
+    file_base = results_loc + "/NatlEnq_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
+
 
 
 ############# TMZ #############################################################
-def TMZScraper(search_term, days_ago):
+def TMZScraper(search_term, days_ago, results_loc):
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -616,22 +647,26 @@ def TMZScraper(search_term, days_ago):
         fetched_stories.append(story)
         fetched_headlines.append(headline)
     ################## Write to file ##########################
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "TMZ_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in fetched_headlines:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in fetched_stories:
-      f.write("%s\n" % item)  
-    f.close()
-    
-    
+    #results_loc = os.getcwd() + "/Results/"
+    file_base = results_loc + "/TMZ_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
+
+
     
 ######################## OK Magazine ##########################################
-def OKScraper(search_term, days_ago):    
+def OKScraper(search_term, days_ago, results_loc):    
     from bs4 import BeautifulSoup
     import requests
     import string
@@ -694,11 +729,12 @@ def OKScraper(search_term, days_ago):
         date_tag = res_soup.find_all(class_="posted-date")
         date_str = date_tag[0].get_text()
         date_str = date_str.encode('utf-8').strip()
+        date = re.findall('.* [0-9]{2}, [0-9]{4}', date_str)
         
         # Append to master lists
         fetched_stories.append(story)
         fetched_headlines.append(headlines[i])
-        timestamp.append(parser.parse(date_str[0:15]))
+        timestamp.append(parser.parse(date[0]))
         
         
       # Which articles were posted within N days?    
@@ -707,17 +743,22 @@ def OKScraper(search_term, days_ago):
         
     
     # Write results to a CSV.
-    results_loc = os.getcwd() + "/Results/"
-    file_base = results_loc + "OKMagazine_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    f = open(file_base + "_headlines.txt","w")
-    for item in link_indices:
-      f.write("%s\n" % fetched_headlines[item])  
-    f.close()
-    
-    f = open(file_base + "_articles.txt","w")
-    for item in link_indices:
-      f.write("%s\n" % fetched_stories[item])  
-    f.close()
+    #results_loc = os.getcwd() + "/Results/"
+    file_base = results_loc + "/OKMagazine_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
+    for item in range(0, len(fetched_headlines)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_headlines[item])
+        f.close()
+
+    for item in range(0, len(fetched_stories)):
+        # Find out what our file number should be
+        file_num = item            
+        f = open(file_base + '_article_' + str(file_num) + ".txt","w")
+        f.write("%s/n" % fetched_stories[item])
+        f.close()
+
 
     
 
