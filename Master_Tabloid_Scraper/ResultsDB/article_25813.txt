@@ -1,0 +1,159 @@
+Selma Blair’s Dog Dies After ‘Terrible Accident’: ‘Our Hearts Are Broken’/n
+Selma Blair‘s dog Ducky died Thursday after being hurt the night before.
+The actress penned an emotional tribute to the 13-year-old Chihuahua-pug and shared a picture of the pooch and her son Arthur, 6, on Instagram.
+“Run with the angels. We miss you so much. So much, sweet girl. Please send us our next dog. With the spirit of you and wink. Our hearts are broken,” the 45-year-old star wrote.
+Blair asked for fans to pray for the senior rescue pooch the previous evening following Ducky’s accident. The vet had recommended the star have the dog put down but she vowed to do all she could to save Ducky’s life.
+“Please say prayers for Ducky. She had a terrible accident this evening. The vet recommended ending her suffering. But when her tail wagged, I couldn’t do it.
+Source: Selma Blair/Instagram
+Ari Michelson
+“We are going ahead to try to put her body and organs back together. She is our home. We ask for this miracle. Please say a word. Arthur’s heart is broken,” the mother of one told fans on Instagram.
+Earlier this year, Blair told PEOPLE of the close bond her son and the dog had.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-996dee06acc458df64eba5784fca7d39-59a5752047337');
+				var iframe = document.getElementById('wpcom-iframe-996dee06acc458df64eba5784fca7d39-59a5752047337');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-996dee06acc458df64eba5784fca7d39-59a5752047337'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-6b782625d1c8adf33f4240e12df6d2d4-59a5752047616');
+				var iframe = document.getElementById('wpcom-iframe-6b782625d1c8adf33f4240e12df6d2d4-59a5752047616');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-6b782625d1c8adf33f4240e12df6d2d4-59a5752047616'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“They love each other very much, but it’s very much brother and sister,” the Cruel Intentions star said in March.
+“My boy just wants to squeeze her as tight as he can and play games and have pillow fights, and that ship has sailed for Ducky. But she’s done great with it.
+“She cuddles with Arthur. She loves Arthur the most when he’s asleep, but she gladly goes to him and sits on his lap any chance she gets! They both have a deep love for each other.”
+Blair and her son had adopted Ducky in 2015 from the no-kill shelter, Best Friend Animal Shelter.
+/n

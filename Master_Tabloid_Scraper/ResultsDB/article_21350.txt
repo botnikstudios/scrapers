@@ -1,0 +1,46 @@
+Teresa Giudice Denies Cheating on Joe While He's in Prison Us Weekly's latest cover story is no different, Teresa's attorney, James Leonard, Jr., tells E! News. "This is typical Housewife mudslinging and has all the eleme.../n
+Teresa Giudice takes her marital vows seriously.The June 26 issue of Us Weekly, however, paints a different picture. With her husband Joe Giudice serving 41 months in prison for conspiracy and bankruptcy fraud, sources tell the tabloid the 45-year-old Real Housewives of New Jersey star is romancing a local businessman.Teresa's former friend Kim DePaola claims the reality star has been dating the unnamed suitor under the radar. "They've been pretty cozy I'm going to say in the last five months," she says, adding, "I think Teresa has every right to go out and find somebody else. She should leave Joe."The Giudices have endured cheating rumors before—but in the past, it was Joe who was accused of being unfaithful. Over and over again, the Bravo couple denied the rampant rumors.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860993/teresa-giudice-denies-cheating-on-joe-while-he-s-in-prison');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017514/rs_634x859-170614113549-634.us-weekly.61417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Us Weekly, Teresa Giudice");
+	var imageCaption = encodeURIComponent("Us Weekly, Teresa Giudice");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AMI
+
+Us Weekly's latest cover story is no different, Teresa's attorney, James Leonard, Jr., tells E! News. "This is typical Housewife mudslinging and has all the elements of a great scandal. It's salacious, it's juicy, it's great gossip and it's simply not true," James says. "The truth is Teresa is in love with her husband. She's busy caring for her four daughters, her father who now lives with her, and she's working on her new book, Standing Strong, which comes out this fall."In response, an AMI spokesperson tells E! News, "Us Weekly stands by its story." In the magazine, on newsstands Friday, James says his client "vehemently denies these allegations.""They are 1,000 percent false and have been manufactured by attention-seeking lowlifes who have no moral compass. The only man in Teresa's life is Joe," he explains. "Period. End of story."
+
+DePaola, who's previously admitted to starting false rumors that Melissa Gorga was a stripper, first "dropped the bomb" on two of Teresa's co-stars, Dolores Catania and Siggy Flicker. "I heard that she's seeing this guy and sexting him all the time," DePaola says. She also claims an informant dropped off an envelope at her store, which included photo proof. However, a source tells E! News there's no evidence of infidelity on Teresa's behalf—"no texts, nothing."Furthermore, a source tells E! News that the guy in question knows the Giudices and Gorgas from the shore, and there is nothing romantic going on between Teresa and the mystery man.As Joe continues to serve out his sentence—where the 45-year-old makes $100 a month working in the prison gym—Teresa is rearing daughters Gia Giudice, 16, Gabriella Giudice, 12, Milania Giudice, 11, and Audriana Giudice, 7, on her own. "I'm so busy—thank God—just running around working and [raising] the kids," she said last fall. "They have all their activities."(E! and Bravo are both members of the NBCUniversal family.)
+/n

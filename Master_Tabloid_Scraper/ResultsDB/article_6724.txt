@@ -1,0 +1,85 @@
+Kathryn Dennis Apologizes for Custody Battle with Thomas Ravenel & Wants to Give Her Ex a 'Big Hug'
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-616aecfda9fac554f6341f4bbae9fb1e-59a503c9e6edf');
+				var iframe = document.getElementById('wpcom-iframe-616aecfda9fac554f6341f4bbae9fb1e-59a503c9e6edf');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-616aecfda9fac554f6341f4bbae9fb1e-59a503c9e6edf'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+For a brief moment in the latest episode of Southern Charm, it seems like the rocky road between exes Kathryn Dennis and Thomas Ravenel might just be smoothing out.
+In a sneak peek at Monday’s installment that was first shared by TV Guide, Ravenel reveals that Dennis has extended an olive branch in the midst of their contentious custody battle over daughter Kensie, 3, and son Saint, 18 months, by sending him a letter making amends.
+Ravenel, 54, reads Dennis’ letter, in which she admits to being “truly regretful of the way things ended with us, leaving our children with only their father or their mother, and never both together. For that, I am truly and sincerely sorry to them — but also to you.”
+PEOPLE exclusively shared a clip from last week’s episode when Dennis, 24, decided it was time to patch up her relationship with Ravenel for the sake of their children.
+But in the clip from this week’s edition, Dennis — who began rebuilding her life after returning from a stint in rehab shortly before the season began filming — sees a deeper reason for why her relationship with Ravenel has be fraught: “He has a hard time accepting love from people because at the heart of it, he doesn’t feel worthy.”
+FROM PEN: Christina and Tarek El Moussa’s Divorce Has Not Stopped Their Business Relationship
+
+Now she says she hopes to help him overcome longstanding insecurities, which she claims mostly revolve around his father’s acceptance.
+Says Dennis, “If I were to see him, I would just want to give him a big hug and say that I’m sorry and that I love him,”
+Southern Charm airs Mondays (9 p.m. ET) on Bravo.
+/n

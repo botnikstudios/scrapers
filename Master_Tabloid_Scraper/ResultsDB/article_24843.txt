@@ -1,0 +1,44 @@
+Faye Resnick Has a "Sordid Past," According to Kathryn Edwards—And She's Having a Moment in Pop Culture 2016: The year of Faye Resnick. Well, maybe not exactly, but it's only January and Faye is having quite a year. The O.J. Simpson trial fixture who.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/734350/faye-resnick-has-a-sordid-past-according-to-kathryn-edwards-and-she-s-having-a-moment-in-pop-culture');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016027/rs_634x1024-160127073125-634.Faye-Resnick.jl.012616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Faye Resnick");
+	var imageCaption = encodeURIComponent("Faye Resnick");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gabe Ginsberg/FilmMagic
+
+2016: The year of Faye Resnick. Well, maybe not exactly, but it's only January and Faye is having quite a year. The O.J. Simpson trial fixture who went on to become a Real Housewives of Beverly Hills supporting player is stirring up drama (with just her presence) on the Bravo reality series and she'll be portrayed FX's American Crime Story: The People v. O.J. Simpson by Emmy nominee Connie Britton. All this within the first two months of the new year. Year of Faye!On The Real Housewives of Beverly Hills, Faye's mere presence riled newbie Kathryn Edwards. You see, Faye alleged Kathryn's ex-husband Marcus Allen had an affair with Nicole Brown Simpson. She wrote about the alleged affair (which she said took place while Nicole and O.J. were separated or divorced) in her book about Nicole shortly after Nicole was murdered.
+
+"My reaction to Faye was this: If she would have been more reticent with her feelings, I would have spoken differently to her, but from the moment we sat down at the table, Faye's body language, much like Rinna's description, was desperately trying not to engage with me. I saw her drinking shots before we sat down, and she was sheepish from the start," Kathryn wrote her in Bravo blog.Kathryn wrote she didn't go there looking for a fight, but "Faye has a sordid past.""I read her Wikipedia page (she should pay someone to clean that up), and she doesn't look like the face of truth and virtue. It would have been easy to touch on a few things to knock her down to size, but I am a lady, and engaging at Kyle's with such an intense subject would have ruined the dinner party--I mean the BBQ," she wrote. "Faye's blanket apology to the table was general, but she doesn't know me to say more than that. All I wanted to see and hear was that she was sorry for what she had done, not just to me but to Nicole's memory. Desperate people do desperate things."The drama continues next week.The Real Housewives of Beverly Hills airs Tuesdays, 9 p.m. on Bravo. Connie Britton plays Faye Resnick on Tuesday, Feb. 2 on FX's American Crime Story: The People v. O.J. Simpson at 10 p.m.(E! and Bravo are both part of the NBCUniversal family.)
+/n

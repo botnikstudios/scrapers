@@ -1,0 +1,44 @@
+cheerleaders Cara Rosenthal and Jaime Edmondson (a gender pairing yet to win the Emmy-winning reality show) and, in third place, the mom and son team of Margie and Luke Adams—the race's first deaf contestant./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/123160/power-of-attorneys-no-match-for-amazing-race-rivals');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090504/293.jih.amazingrace14.050409.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Victor Jih, Tammy Jih, The Amazing Race 14");
+	var imageCaption = encodeURIComponent("Victor Jih, Tammy Jih, The Amazing Race 14");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Sonja Flemming/CBS
+
+Tammy and Victor Jih soared to victory in tonight's season 14 finale of The Amazing Race. Of course, after the legal eagles won an earlier stage at a place called the Bird's Nest, perhaps it was only natural.The overachieving sibling attorneys, both Harvard Law grads, were followed to the finish line at Maui's King Kamehameha Golf Club by former NFL cheerleaders Cara Rosenthal and Jaime Edmondson (a gender pairing yet to win the Emmy-winning reality show) and, in third place, the mom and son team of Margie and Luke Adams—the race's first deaf contestant.
+
+The brother-and-sister litigators brought their "A-plus game," said Victor, to take the million-dollar prize over other strong competitors. After "learning a lesson" from a nearly disastrous squabble in the Romanian mountains, the two became role models for cooperation. Ultimately, Tammy said, "I think I've proved to Victor that we think differently, but the way I think is valuable. It has helped [our relationship] progress."The runners-up faced their own challenges with communication. Surprisingly, Luke's deafness proved to be less of a disadvantage than his temper—frustration seemed to get the better of him during certain challenges (Chekhov? really?). In the end, though, he inspired us all, especially when he told Margie, "I'm very lucky to have you as my mom" and concluded, "No matter what, deaf people can do anything."Jaime, the redhead with no future in diplomacy ("This is why I did not want to go to China: It sucks"), made her own voice heard throughout the 40,000-mile journey to nine countries in three continents: While Jaime screamed at one cabdriver after another for such transgressions as the failure to speak English, her partner was supportive until the very end: "It's a team game, and we finished The Amazing Race together," Cara said. "Second is not too shabby."Language was no barrier for first-place finishers Tammy and Victor, Chinese Americans who spoke Mandarin with the locals and easily navigated their way around the country they'd recently visited. But it's hard to begrudge the affable Asians' advantages, especially when corporate law partner Victor concluded, "My entire life I've felt I've done what was expected of me...this was a crazy thing to do. Crazy, unexpected, completely unconventional, and it actually makes life sort of interesting."Are you happy that Victor and Tommy won?
+/n

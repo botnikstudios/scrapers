@@ -1,0 +1,47 @@
+UPDATE! Twilight's Jamie Campbell Bower, Harry Potter's Bonnie Wright Nix Engagement! The enchanted engagement between a Twilight star and a Harry Potter beauty has lost its magic. E! News can confirm that Jamie Campbell Bower (who.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/329232/twilight-s-jamie-campbell-bower-harry-potter-s-bonnie-wright-nix-engagement');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2010410/293.JamieCampbellBower.BonnieWright.tg.051010.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jamie Campbell Bower, Bonnie Wright");
+	var imageCaption = encodeURIComponent("Jamie Campbell Bower, Bonnie Wright");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+The enchanted engagement between a Twilight star and a Harry Potter beauty has lost its magic. E! News can confirm that Jamie Campbell Bower (who played Volturi leader Caius in the vampire flick) and fiancée Bonnie Wright (aka Hogwarts' Ginny Weasley) have called it quits.The private stars first confirmed they were dating in February 2010. Then in April 2011, Bower, who also played young Gellert Grindelwald in the Harry Potter franchise, told The Daily that he and Wright were engaged. "I'm very happy," he said. "It's a wonderful, wonderful time."
+
+
+
+S Fernandez  / Splash News
+
+Neither Wright, 21, nor Bower, 23, has publicly confirmed that their relationship is over and their reps declined to comment. However, a source familiar with the situation said their relationship ended months ago.The news comes after the Twilight actor was spotted holding hands with Lily Collins, his costar in The Mortal Instruments, on Monday. Collins had previously been linked to Twilight star Taylor Lautner.Goodbye, Ginny Weasley. Hello, Snow White!(Originally published July 11, 2012, at 7:55 a.m. PT)
+/n

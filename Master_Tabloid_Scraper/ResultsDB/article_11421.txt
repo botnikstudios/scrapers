@@ -1,0 +1,50 @@
+UPDATE! Ben Affleck Steps Out for 45th Birthday Celebration With His Kids Happy birthday, Ben Affleck! The movie star appeared in great spirits as he stepped out Tuesday evening for family dinner in celebration of turning 45. A source tells .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873796/ben-affleck-steps-out-for-45th-birthday-celebration-with-his-kids');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017715/rs_634x1024-170815183002-634.Ben-Affleck-Birthday-LA.ms.081517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben Affleck, Birthday");
+	var imageCaption = encodeURIComponent("Ben Affleck, Birthday");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Juliano-Rol/X17online.com
+
+Happy birthday, Ben Affleck!The movie star appeared in great spirits as he stepped out Tuesday evening for family dinner in celebration of turning 45. A source tells E! News that Affleck arrived by himself to Barton G in Los Angeles, where he was later greeted by his three kids, 11-year-old Violet, 8-year-old Seraphina and Samuel, 5. Ben dressed casually in a white graphic T-shirt and a gray blazer paired with light wash denim and sneakers. "They had a great night. He appeared to be over the moon and there were lots of good laughs," an insider says, adding that Ben and his ex-wife spent time as a family this week. Another source adds, "Ben looked very happy celebrating his birthday and spending time with the kids. They were giving him hugs and leaning on him throughout dinner. The kids had a cardboard box that they gave him. Jen wasn't there, just Ben and the nanny brought the kids."Dessert was extra special, the source adds: "They ordered the huge pink cotton candy Marie Antoinette's Head and the big Dolla Dolla Bills Y'all chocolate ganache tart covered in gold."A restaurant source says the kids "were dressed up and excited to be going out to dinner at a fancy restaurant. They brought Ben lots of presents which he opened at the table. They gifted him with some new clothes that he seemed very excited about" The family ordered several of the restaurant's signature dishes, including pasta with meatballs. "The kids each went around the table and were filling Ben in on everything. He seemed to get a kick out of hearing his kids tell stories and was laughing a lot. It was a really nice family dinner and they had a great time."Jennifer was most definitely looped in for some aspect of Ben's big day, of course! She was all smiles while leaving their local bakery with what appeared to be a large dessert box. Birthday cake, anyone? 
+
+
+
+CMaidana/BACKGRID
+
+Our source also reveals that a bundle of gold "45" balloons was delivered to Ben's house. Since officially filing for divorce in mid-April, Jennifer and Ben have put on a united front for the sake of their family. The former couple reunited for a family getaway to the Bahamas in late June and continued their annual Fourth of July celebration with plenty of smiles. "Ben and Jen are on good terms," a source told us at the time. "They have an understanding between them that they will always put the kids first and their personal differences aside. They want their kids to have two parents and a happy family dynamic. They work out their schedules to make sure that when an important family event comes up, they can all do it together."Meanwhile, things with new love interest Lindsay Shookus appear better than ever. The Justice League star spent time with the Saturday Night Live producer's friends and family in Maine, as well as Los Angeles and New York City. 
+
+"They are really into each other and miss each other like crazy after a few days," a separate source told E! News. "Since they both have kids and work, it makes it a little bit challenging. But things are going very well between them, and they won't let more than a few days pass without meeting up again."Sounds like Ben is shaping up to enjoy his best year yet!
+/n

@@ -1,0 +1,50 @@
+Inside Mama June's Past 2 Months Since Debuting Her Dramatic Weight Loss "I've worked my ass off, working out, getting healthy, and now I feel like becoming the person on the outside that I always felt like on the inside.".../n
+It's been exactly two months since Mama June debuted her size four figure for the world to see on the finale of her hit show Mama June: From Not to Hot—and the reality star has never looked better.Just last week, the 37-year-old mother stepped out on the red carpet after keeping a relatively low profile after the success of her show.Showcasing her transformed physique, Mama June attended WE TV's Growing Up Hip Hop: Atlanta premiere in, where else, Atlanta.By her sider was none other than her famous daughter, 11-year-old Alana Thompson, who became a household name after the TLC series Toddlers & Tiaras. The hilarious mother-daughter duo then rose to even further fame with their hit spinoff show, Here Comes Honey Boo Boo.
+
+But back to all things Mama June…how have things been since she shocked viewers around the nation with her weight loss success story?Well, aside from her recent reappearance on the red carpet, June has been hard at work maintaining her weight loss with ample workouts and healthy foods.Back in early May, the reality star posed for a Baywatch-themed photo shoot after losing a whopping 300 pounds.For several months, cameras followed June as she spent almost $100,000 to have a gastric sleeve surgery, a breast augmentation as well as skin removal surgery to get rid of her "bat wings" and her "turkey neck."After undergoing multiple surgeries, logging countless hours in the gym and maintaining a strict diet regimen, June said that she was proud to show off her new figure.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/857511/inside-mama-june-s-past-2-months-since-debuting-her-dramatic-weight-loss');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201743/rs_634x1024-170503101020-634-Mama-June-Baywatch-JR-050317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mama June, Baywatch, Before and After, EXCLUSIVE");
+	var imageCaption = encodeURIComponent("Mama June, Baywatch, Before and After, EXCLUSIVE");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Winslow / Splash News, Splash News
+
+"I've worked my ass off, working out, getting healthy, and now I feel like becoming the person on the outside that I always felt like on the inside."Alana added, "She looks great. I'm really proud of her."Just weeks after making her grand debut, June made a guest appearance on The Wendy Williams Show where she opened up about learning how to cope with her new lifestyle."I guess I became what you could call a ‘scale whore,' because I was constantly kind of beating myself up…I hate to say it, but Alana kind of started to be like that [too]. So I had to back off the scale, because she's been kind of looking [at the scale, too.]"
+
+At her heaviest, Mama June weighed 460 pounds and was determined to make a splash at her ex Mike "Sugar Bear" Thompson's wedding to his new love, Jennifer.The series documented June as she began her transformation in the hopes of slipping into a slinky, red, size four gown for the wedding in an effort to make her ex wish he had never left her side.And while Sugar Bear definitely praised June for her hard work, in the end, the slimmed-down celeb was finally ready to move on after her ex's wedding day.During the finale of the show, Mama June told cameras: ""My goal when I first started this weight loss journey was to make Sugar Bear kind of jealous. But it's no longer about revenge. Doing all the surgeries really took a toll on me—not just physically, but emotionally."
+
+Alana has been determined to get her mother out on the dating scene since losing the weight, but based on the hit series, it seems as though June will be dipping her toe back into the singles pond ever so carefully.Perhaps fans of Mama June will be able to watch her finally find love again? Only time will tell.
+/n

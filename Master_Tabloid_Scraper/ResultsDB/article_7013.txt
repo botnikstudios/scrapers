@@ -1,0 +1,46 @@
+James Franco Says Acting Helped Him Overcome Certain Addictions In the interview, Franco also gets down and dirty about his HBO show which delves into the shady world of porn and prostitution in the 1970s and '80s. "What our show r.../n
+James Franco is going deep.The wild stallion known for bucking conventions has been making some big personal changes recently and the 39-year-old, who is slated to star in an upcoming HBO series called The Deuce, sat down with writer Edmund White to discuss his new adventures and old addictions for Out magazine's September issue. "I have a very addictive personality. When I was a teenager I got over certain addictions, and that’s when I started acting, at age 17. I really threw myself into it, and that became everything, to the point where I didn’t even socialize," confesses the actor. "And then after, like, 10 years of that, at age 27, I realized, 'Man, I'm so depressed.' On the surface my life seems pretty good—I have a career and everything— but I feel isolated and lonely."Interestingly enough, the King Cobra star says he's taken up surfing as a form of therapy recently."I've started a new chapter of my life. I was very work-addicted, and addicted to other things—not substances, I got over that a long time ago—but I've recently changed my life, and this is part of my therapy."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870456/james-franco-says-acting-helped-him-overcome-certain-addictions');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017631/rs_753x1024-170731153612-634.OUT-Magazine-James-Franco.ms.073117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("OUT Magazine, James Franco, EMABRGO unitl 08/01/17, 7am EST.");
+	var imageCaption = encodeURIComponent("OUT Magazine, James Franco, EMABRGO unitl 08/01/17, 7am EST.");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gavin Bond/OUT Magazine
+
+In the interview, Franco also gets down and dirty about his HBO show which delves into the shady world of porn and prostitution in the 1970s and '80s."What our show really tracks is how as streetwalkers the women needed pimps for protection, and were very dependent on them, and how that moved indoors, into the massage parlors, and the pimps started to become obsolete because the women didn't need the same kind of protection because they weren’t outside anymore," says the Angie Tribeca star.He continues, "Then post–Deep Throat, you got people moving to New York and then eventually Los Angeles and the Valley to be actors in porn without the intermediate step of prostitution. That was the second generation of people performing in porn—or, as you charmingly say, 'posing' for porn."
+
+In the chat, Franco also makes sure to credit his co-star Maggie Gyllenhall for powering through some uncomfortable sex scenes that he directed."I had to direct sex scenes in The Deuce and...whooo, it was interesting, I have to say. Maggie Gyllenhaal, in addition to being just an incredible actress, is fearless, and she really led the charge with how she handled the sex scenes and how she handled herself, and really set the template for everyone else," he says. "If I didn't have someone like her I think it would have been really, really hard to engage in those scenes, but she just made it so easy. She's fearless."The full interview is in Out magazine's September issue—out on newsstands today.And keep scrolling to see what 33 other actors said about shooting a sex scene...
+/n

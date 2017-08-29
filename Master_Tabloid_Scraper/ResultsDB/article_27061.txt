@@ -1,0 +1,44 @@
+Welcome a Baby Girl—Find Out What They Named Their Daughter! And baby makes three! Grant Show and wife Katherine LaNasa welcomed a baby girl named Eloise McCue Show on Tuesday, Grant and Katherine tell E! News exclusively. Born at 5:21 p.m.,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/525281/grant-show-and-wife-katherine-lanasa-welcome-a-baby-girl-find-out-what-they-named-their-daughter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012612/634.ab.show.071212.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Katherine LaNasa, Grant Show ");
+	var imageCaption = encodeURIComponent("Katherine LaNasa, Grant Show ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+DDP Images/Sipa USA
+
+And baby makes three!Grant Show and wife Katherine LaNasa welcomed a baby girl named Eloise McCue Show on Tuesday, Grant and Katherine tell E! News exclusively.Born at 5:21 p.m., Eloise weighed 6 pounds, 3 ounces."We are truly blessed to have such a healthy and beautiful baby girl," the couple says.Grant, best known for his work on Melrose Place and, more recently, Devious Maids, tied the knot with the Campaign actress on Aug. 18, 2012.The two married in a rustic California ceremony just one month after getting engaged, a rep for the newlyweds told E! News at the time.
+
+Grant and Katherine exchanged vows in front of family and friends in Topanga, Calif., at The Oak Grove at Ribbit Tree & Plant Nursery.The bride wore a Naeem Khan gown and Prada shoes, while the groom looked dapper in a custom suit by Di Stefano Italian Fashion Group.Eloise is Grant's first child. Katherine has a son, 23-year-old Henry Hopper, from a previous relationship.Congrats!
+/n

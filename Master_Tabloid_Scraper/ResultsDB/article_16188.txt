@@ -1,0 +1,46 @@
+Vera Wang and Husband Separate Days Before 23rd Wedding Anniversary Apparently, it's the summer of splitsville, as Vera Wang and her husband, Arthur Becker, are the latest couple to announce their separation. "Vera Wang and Arthur .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/329462/vera-wang-and-husband-separate-days-before-23rd-wedding-anniversary');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012611/reg_634.ab.vera.071112.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vera Wang, Arthur Becker");
+	var imageCaption = encodeURIComponent("Vera Wang, Arthur Becker");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BILLY FARRELL/PatrickMcMullan.com/Sipa
+
+Apparently, it's the summer of splitsville, as Vera Wang and her husband, Arthur Becker, are the latest couple to announce their separation."Vera Wang and Arthur Becker have mutually and amicably agreed to separate. They remain devoted parents to their two daughters," Wang's rep tells E! News.
+
+The 63-year-old designer and Becker have two daughters together—Cecilia, 22, and Josephine, 19. They announced the news of their split just two weeks shy of their 23rd wedding anniversary.Although the couple has indeed announced their separation, Wang's rep tells E! News that there is "no divorce to report" and the longtime pair has only separated, thus far.However, a source tells E! News that "Vera and her husband were all but done last year. In fact, Vera attended [Kim] Kardashian's wedding with Olympic figure skater Evan Lysacek as her date." 
+
+Becker and then 39-year-old Wang were married in 1989 in an interfaith ceremony in New York. Becker is also reportedly very involved in Wang's company.Despite the fact that Wang is most famous for her couture wedding gowns, the fashion designing diva never expected to walk down the aisle herself:"I was the girl who nobody thought would ever get married. I was going to be a fashion nun the rest of my life," she told New York magazine back in 2006.Best of luck to the bridal queen, Becker and their children during this difficult time.—Additional reporting by Ken Baker
+/n

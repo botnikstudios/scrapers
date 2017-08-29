@@ -1,0 +1,76 @@
+Angelina Jolie and Brad Pitt's Third Wedding Anniversary: A Timeline of Their Highest Highs and Lowest Lows For better or for worse, Brad Pittand Angelina Jolie's relationship is one for the Hollywood history books.  Exactly three .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875208/angelina-jolie-and-brad-pitt-s-third-wedding-anniversary-a-timeline-of-their-highest-highs-and-lowest-lows');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201482/rs_634x863-140902104011-634.brad-pitt-angelina-hello-wedding.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hello Magazine, Angelina Jolie, Brad Pitt, Wedding");
+	var imageCaption = encodeURIComponent("Hello Magazine, Angelina Jolie, Brad Pitt, Wedding");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Hello Magazine
+
+For better or for worse, Brad Pittand Angelina Jolie's relationship is one for the Hollywood history books. Exactly three years ago today, the movie stars tied the knot during a nondenominational civil ceremony held at their familial French estate, Château Miraval. It was an intimate affair, and their six children Maddox, Pax, Zahara, Shiloh, and twins Knox and Vivienne played a special role in the ceremony. Marriage never seemed part of the cards for Brangelina, but as Pitt explained to E! News in 2012, it was at their kids' request that they decided to take a more traditional route to partnership. "We're getting a lot of pressure from the kids," he admitted. "We didn't realize how much it meant to them and then, in getting engaged, how much it also means to us."Before announcing their split in September of last year, the seemingly picture-perfect couple endured plenty as husband and wife. We're looking back at their years as a married couple with an in-depth timeline of their milestones, hardships and family memories. 
+
+
+
+FameFlynetUK/FAMEFLYNET PICTURES 
+
+October 2014: The newlyweds embark on a "workingmoon" to film By the Sea in Malta, a Jolie-directed venture starring both her and Pitt. It marked their first film together since meeting on the set of Mr. and Mrs. Smith, and as Angelina relayed to People at the time, "We are working together on a drama about grief and finding a way through a difficult marriage. We find it very funny that it's our honeymoon."November 2014: Brangelina walks their first red carpet as a married couple at the Unbroken premiere, which the latter also directed. That same month, the Maleficent star gushes over married life. "It does feel different," Jolie told Vanity Fair. "It feels nice to be husband and wife."She elaborated on Today, "It did change, in just a feeling of that security and comfort that we always had but recommitting after 10 years of being together. We were fortunate enough to be in that unusual situation where we got married with our children, and they were part of the ceremony and they wrote some of the vows. So, it was all of us agreeing to be together and to just commit to this life together—not because we had to, not because anything was missing in our lives—but because we were absolutely sure."
+
+January 2015: Angie reveals that she officially became Mrs. Brad Pitt prior to their covert French nuptials. "As Americans, we couldn't marry legally in France," she explained, "One day I said to Brad, 'Let's meet up at 4:30 p.m.?' I called a justice of the peace and we signed the documents." Around this time, Jolie begins ramping up her humanitarian efforts like never before. In a New York Times-published op-ed, the movie star recounts her the "unspeakable brutality" she witnessed visiting Iraqi refugees and urges an end to the war in Syria.  March 2015: Following 2013's double mastectomy, Jolie reveals she had her ovaries and fallopian tubes removed as a preventative measure. Brad flies to be by his wife's side as she grappled with the decision to move forward with the surgery. "The beautiful thing about such moments in life is that there is so much clarity," she wrote for the New York Times. "You know what you live for and what matters. It is polarizing, and it is peaceful."
+
+May 2015: Pitt and Jolie place their New Orleans mansion on the market for $6.5 million, eight years after they purchased the French Quarter abode in the wake of Hurricane Katrina. 
+
+
+
+Pacific Coast News/ Fame/Flynet
+
+July 2015: The happily married pair go all out for twins Knox and Vivienne Jolie-Pitt's seventh birthday celebration. Brangelina takes the birthday girl and boy to Toys "R" Us for a shopping expedition before gathering their closest family and friends for a party at Iceland Ice Skating Center in Los Angeles. The Benjamin Button steps out with an apparently permanent tribute to Angelina and their children. His new tattoo resembles a two-cell chart, with "A" written on the top left and part of "M P Z" (the initials of the couple's eldest kids) printed on the right side. 
+
+July 2015: Jolie makes an emotional return to Cambodia, where she adopted now 16-year-old Maddox years earlier. She announces their mother-son project, a film called First They Killed My Father, which premiered in the country earlier this year and is set for release on Netflix. 
+
+October 2015: The entire family appears for an in-depth Vogue spread shot by Annie Leibovitz. Jolie shares rare insight into her and Pitt's parenting tactics, explaining that they're homeschooled by teachers from different backgrounds and religions who speak different languages. "We travel often to Asia, Africa, Europe, where they were born," she added. "The boys know they're from Southeast Asia... But I want them to be just as interested in the history of their sisters' countries and mommy's country so we don't start dividing. Instead of taking Z on a special trip, we all go to Africa and we have a great time."
+
+
+
+Frank Trapper/Corbis via Getty Images
+
+November 2015: Brad and Angelina move forward with their By the Sea press tour, never wasting an opportunity to discuss the intricacies of their love and how wonderful their marriage is. "I trust her with my life," Pitt told V Magazine. "It's surprising how much I enjoy the direction of my wife. She's decisive, incredibly intuitive, knife-sharp, and might I say, sexy at her post."In conversation with Today's Tom Brokaw, Jolie touched on how different their relationship is from their characters in the drama. "I'm counting on the audience to know that if it was close to us at all, we could never make this film," she assured. "It's because we're actually very, very stable and these aren't our issues."December 2015: The couple heads to Vietnam for a private pre-holiday celebration. 
+
+
+
+Sharpshooter/Splash News
+
+July 2016: After spending the first half of 2016 working mostly separate on their respective ventures, Brad and Angelina are photographed for the last time before announcing their inevitable divorce. All appears status quo, especially since onlookers described the duo as affectionate while visiting a Jamba Juice.September 2016: Jolie delivers an emotional speech after meeting thousands of displaced children in Jordan refugee camps. Only eight days later, she files for divorce from Pitt and cites "irreconcilable differences.""Angelina will always do what's in the best interest of taking care of her family," Geyer Kosinski, Jolie's longtime manager, told E! News in an exclusive statement. "She appreciates everyone's understanding of their need for privacy at this time."
+
+Angelina and Brad's current status remains in limbo, as a source recently explained, "The divorce is not moving forward right now. They are taking a breather and seeing what happens... They don't take divorce lightly and want to make sure they are doing the right thing."Would you like to see Brangelina give their marriage a second chance? Let us know in the comments. 
+/n

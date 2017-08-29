@@ -1,0 +1,45 @@
+Sara Gilbert Steps Out for First Time Since Giving Birth, Goes Shopping With Wife Linda Perry and New Son Rhodes Looking good, Sara Gilbert! The 40-year-old The Talk co-host stepped out for the first time since giving birth to newborn son Rh.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/636995/sara-gilbert-steps-out-for-first-time-since-giving-birth-goes-shopping-with-wife-linda-perry-and-new-son-rhodes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015218/rs_634x1024-150318093910-634-sara-gilbert-baby.ls.31815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sara Gilbert");
+	var imageCaption = encodeURIComponent("Sara Gilbert");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bruce/Terma/FAMEFLYNET PICTURES
+
+Looking good, Sara Gilbert!The 40-year-old The Talk co-host stepped out for the first time since giving birth to newborn son Rhodes Emilio Gilbert Perry yesterday.Gilbert and wife Linda Perry were spotted doing some shopping in Beverly Hills on Tuesday as they pushed baby Rhodes in a stroller. Gilbert's body looked great during the outing, proving she's lost all her baby weight just days after the delivery (insane!). The former Roseanne star, who was dressed in gray sneakers, skinny blue jeans and a green top, looked super happy while picking up baby items with her family.
+
+Meanwhile, Perry, 49, went casual in red sneakers, gray sweatpants, a Black Sabbath T-shirt and a beanie. The cute couple hit up fancy baby store Trico Field for some retail therapy and were snapped with big shopping bags afterwards.Gilbert, who also has daughter Sawyer, 7, and son Levi, 10, from a previous relationship, gave birth to her and Perry's first child together earlier this month. Gilbert's Talk co-hosts announced the exciting news on the show. They also debuted the adorable first photo of little Rhodes.Gilbert originally announced she was pregnant with her third child back in September.
+/n

@@ -1,0 +1,47 @@
+footprint ceremony on the forecourt of the TCL Chinese Theatre IMAX earlier today, the 44-year-old funnyman had his wife Kyla, daughter Lochlyn and son Vernon by his side. Looking dapper in a dark blue suit and tie, the Unfinished Business s.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/632216/too-cute-vince-vaughn-brings-his-adorable-kids-to-hollywood-walk-of-fame-ceremony-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201524/rs_634x1024-150304161439-634.Vince-Vaughn-Family-LA.ms.030415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vince Vaughn");
+	var imageCaption = encodeURIComponent("Vince Vaughn");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+How cute are Vince Vaughn's kids?!While being honored at a hand and footprint ceremony on the forecourt of the TCL Chinese Theatre IMAX earlier today, the 44-year-old funnyman had his wife Kyla, daughter Lochlyn and son Vernon by his side.Looking dapper in a dark blue suit and tie, the Unfinished Business star was all smiles while dipping his hands and feet into the immortalizing cement. After getting clean, Vaughn posed for adorable photos as he held little Lochlyn in his arms and Kyla held Vernon in hers. Looks like one big happy family to us!
+
+Too precious.
+
+In addition to his Hollywood Walk of Fame honor, Vaughn recently opened up to Playboy and revealed what he did not like about dating Jennifer Aniston back in 2005 after her divorce from Brad Pitt."You know, she's great," Vaughn said. "For me personally—and I think most well-known actors who are together feel this way—I never enjoyed the paparazzi side of it.""You like someone and you're spending time with them; that's separate and that was all fine," Vaughn went on. "But I really spent most of that time finding ways not to be drawn into the attention. I think lying low and not talking about it put me in a good position later, because I just wasn't part of anything."
+/n

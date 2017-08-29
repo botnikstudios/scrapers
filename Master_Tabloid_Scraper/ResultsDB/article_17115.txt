@@ -1,0 +1,46 @@
+iglesia un domingo junto a sus tres hijos: Violet Affleck, de 11, Seraphina Affleck, de 8, y Samuel Affleck, de 5. E! NEWS > Ben Affleck habló sobre la ola de memes que desató con "Sad Affleck" ¿te acuerdas? (+ Videos) "Jen.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/834891/-que-sucede-realmente-entre-jennifer-garner-y-ben-affleck-se-divorcian-o-no-video');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013124/634.JGarner.BenAffleck.mh.022413.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Garner, Ben Affleck, Oscars 2013");
+	var imageCaption = encodeURIComponent("Jennifer Garner, Ben Affleck, Oscars 2013");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Su estatus sigue siendo motivo de confusión.
+
+Ben Affleck y Jennifer Garner se separaron hace casi dos años, después de una relación de diez, pero no ha pasado mucho desde entonces. El actor no se ha mudado de la casa que comparten y todavía la considera como su residencia principal.Últimamente se ha presumido que Garner está lista para pedir el divorcio, pero de acuerdo a algunas fuentes ese no es el caso. "Su relación es muy fluida y nada ha cambiado en realidad", le dijo una fuente a E! News. "Trabajan en su relación desde hace un par de años".E! NEWS > Ben Affleck realmente sabe cómo humillarse a sí mismo incluso contando una historia increíble.Sin embargo, esta semana People reportó que Garner echó para atrás el divorcio y a muchos le volvieron las esperanzas de una posible reconciliación. Pero otras fuentes dicen que eso no es cierto."Nada ha cambiado", insiste uno de los informante. "No volvieron. Son padres juntos, sus hijos son lo más importante para ellos".E! NEWS > OMG! ¡Jennifer Garner confesó que está saliendo con Brad Pitt! (+ Video)
+
+AMAMOS LAS PELIS > Ben Affleck hizo llorar a Sienna Miller mientras grababan escenas sexuales.Como lo dijo una fuente anterior, "Han habido momentos en que parecía posible una reconciliación. Se aman y eso no ha cambiado. Pero no está claro qué les aguarda el futuro".Mientras continuamos monitoreando el estatus de esta relación, las estrellas siguen haciendo lo de siempre: crían a sus hijos juntos.A principios de febrero los vieron yendo a la iglesia un domingo junto a sus tres hijos: Violet Affleck, de 11, Seraphina Affleck, de 8, y Samuel Affleck, de 5.E! NEWS > Ben Affleck habló sobre la ola de memes que desató con "Sad Affleck" ¿te acuerdas? (+ Videos)"Jen es una mamá superhéroe", le dijo Affleck a E! News en 2016. "Es una mamá maravillosa, tengo mucha suerte de que podamos ser padres juntos. Hacemos lo mejor que podemos".Cuando Natalie Morales de NBC alabó a Garner por su habilidad de poder hacer equipo con Affleck a pesar de cualquier conflicto personal, la orgullosa madre dijo, "Debe ser así. No hay opción".
+/n

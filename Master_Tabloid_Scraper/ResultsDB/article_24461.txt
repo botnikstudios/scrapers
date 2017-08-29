@@ -1,0 +1,81 @@
+Glenn Close Takes A Dip In The Caribbean Ocean While On Vacation/n
+
+					var next_post_url = "http://radaronline.com/photos/bruce-willis-cybill-shepherd-feud-moonlighting/";
+					var prev_post_url = "http://radaronline.com/photos/jennifer-lopez-heats-up-new-york-with-alex-rodriguez/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-07-01T14:09:19+00:00","caption":"Glenn Close played crazy faded silent movie actress Norma Desmond in Broadway's Sunset Boulevard. But on Friday, photographers caught Close, 70, taking a break from the stage while vacationing in the sun in the Caribbean on Friday. Click on Radar for more on the Fatal Attraction star's blinding bright tankini bathing suit!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:47+00:00","caption":"Close was seen in the ocean in a fiery orange tankini in which just a sliver of her waist peeked out.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:48+00:00","caption":"The actress spent time swimming and walking barefoot on the sand. She is famed for her performance as a stalker in Fatal Attraction opposite Michael Douglas.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:49+00:00","caption":"As Radar recently reported, a movie is in the works about Hillary Clinton's life, and according to our sources, Close has been chosen to play the former first lady and presidential candidate who lost to Donald Trump.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:50+00:00","caption":"Close and Meryl Streep were \"both mentioned a lot\" to play Hillary Clinton in an upcoming film, according to a Radar source, \"but after Meryl got so political at the Golden Globes, producers thought it might be better to go with Close.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:50+00:00","caption":"On her Carribean beach outing, Close wore a pair of sunglasses. Up until last week, the veteran actress had been reprising her role as Norma Desmond in the Broadway musical Sunset Boulevard.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:51+00:00","caption":"Close is getting a new kind of close up! The star dared to appear publicly in her blinding bathing suit at age 70. She previously played Norma Desmond in 1994, winning a Tony Award for Best Leading Actress in a Musical.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:52+00:00","caption":"Musical star Close has great pipes; she once belted out the national anthem at a Mets game.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:21:54+00:00","caption":"Close played in Sunset Boulevard in London last year and she just wrapped up a limited, 16-week run of the musical at the Palace Theatre in New York in June. Close is an acting legend, respected by such stars as Bradley Cooper.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics-7.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Glenn Close Takes A Dip In The Caribbean Ocean While On Vacation
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9Glenn Close played crazy faded silent movie actress Norma Desmond in Broadway's Sunset Boulevard. But on Friday, photographers caught Close, 70, taking a break from the stage while vacationing in the sun in the Caribbean on Friday. Click on Radar for more on the Fatal Attraction star's blinding bright tankini bathing suit!Photo credit: MEGA2 of 9Close was seen in the ocean in a fiery orange tankini in which just a sliver of her waist peeked out.Photo credit: MEGA3 of 9The actress spent time swimming and walking barefoot on the sand. She is famed for her performance as a stalker in Fatal Attraction opposite Michael Douglas.Photo credit: MEGA4 of 9As Radar recently reported, a movie is in the works about Hillary Clinton's life, and according to our sources, Close has been chosen to play the former first lady and presidential candidate who lost to Donald Trump.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Close and Meryl Streep were "both mentioned a lot" to play Hillary Clinton in an upcoming film, according to a Radar source, "but after Meryl got so political at the Golden Globes, producers thought it might be better to go with Close."Photo credit: MEGA6 of 9On her Carribean beach outing, Close wore a pair of sunglasses. Up until last week, the veteran actress had been reprising her role as Norma Desmond in the Broadway musical Sunset Boulevard.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Close is getting a new kind of close up! The star dared to appear publicly in her blinding bathing suit at age 70. She previously played Norma Desmond in 1994, winning a Tony Award for Best Leading Actress in a Musical.Photo credit: MEGA8 of 9Musical star Close has great pipes; she once belted out the national anthem at a Mets game.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Close played in Sunset Boulevard in London last year and she just wrapped up a limited, 16-week run of the musical at the Palace Theatre in New York in June. Close is an acting legend, respected by such stars as Bradley Cooper.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: MEGA 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Glenn Close played crazy faded silent movie actress Norma Desmond in Broadway's Sunset Boulevard. But on Friday, photographers caught Close, 70, taking a break from the stage while vacationing in the sun in the Caribbean on Friday. Click on Radar for more on the Fatal Attraction star's blinding bright tankini bathing suit!Photo credit: MEGAClose was seen in the ocean in a fiery orange tankini in which just a sliver of her waist peeked out.Photo credit: MEGAThe actress spent time swimming and walking barefoot on the sand. She is famed for her performance as a stalker in Fatal Attraction opposite Michael Douglas.Photo credit: MEGAAs Radar recently reported, a movie is in the works about Hillary Clinton's life, and according to our sources, Close has been chosen to play the former first lady and presidential candidate who lost to Donald Trump.Photo credit: MEGAClose and Meryl Streep were "both mentioned a lot" to play Hillary Clinton in an upcoming film, according to a Radar source, "but after Meryl got so political at the Golden Globes, producers thought it might be better to go with Close."Photo credit: MEGAOn her Carribean beach outing, Close wore a pair of sunglasses. Up until last week, the veteran actress had been reprising her role as Norma Desmond in the Broadway musical Sunset Boulevard.Photo credit: MEGAClose is getting a new kind of close up! The star dared to appear publicly in her blinding bathing suit at age 70. She previously played Norma Desmond in 1994, winning a Tony Award for Best Leading Actress in a Musical.Photo credit: MEGAMusical star Close has great pipes; she once belted out the national anthem at a Mets game.Photo credit: MEGAClose played in Sunset Boulevard in London last year and she just wrapped up a limited, 16-week run of the musical at the Palace Theatre in New York in June. Close is an acting legend, respected by such stars as Bradley Cooper.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: MEGA 
+
+
+
+
+
+
+
+
+
+/n

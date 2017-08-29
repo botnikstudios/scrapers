@@ -1,0 +1,46 @@
+Sebastian Bach "Devastated" After Hurricane Irene Destroys New Jersey Home He's not exactly headed to Skid Row, but this sucks anyway. Rocker Sebastian Bach wrote on Facebook Sunday that he was "numb, in shock and devasta.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/260730/sebastian-bach-devastated-after-hurricane-irene-destroys-new-jersey-home');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011729/293.bach.home2.lc.082911.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sebastian Bach, Estate");
+	var imageCaption = encodeURIComponent("Sebastian Bach, Estate");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Facebook; Frazer Harrison/Getty Images
+
+He's not exactly headed to Skid Row, but this sucks anyway.Rocker Sebastian Bach wrote on Facebook Sunday that he was "numb, in shock and devastated to report" that his Red Bank, N.J., home was condemned in the wake of Hurricane Irene after a nearby reservoir overflowed and sent a bridge careening into his garage, knocking the house off its foundation and flooding his basement.The good news, Bach says, is that his ex-wife and kids are safe. The bad news, then?
+
+Countless pieces of Skid Row and Kiss memorabilia are under water."Gone are irreplacable [sic] items, such as my KISS Gargoyles from  the  1979 tour," Bach lamented. "KISS pinball machine. Skid Row master   tapes, video & audio, concerts, master tapes from Oh Say Can You Scream etc.   Boxes & boxes of one of a kind Skid Row memorabilia, from the  first  tour to our last, all stuff I collected on the road that no one  else  had. I had a library in the basement with every single magazine  that had  Skid Row on the cover...All of this is lost now."
+
+Bach says he's  relieved that his sons and their friends moved all of his father's  artwork and his comics collection from the basement to the third floor,  which remained dry. But, he adds, they're not allowed to return to the  house to retrieve any belongings because the house "could conceivably  collapse at any second.""As soon as the power if off we will  pump out the basement & salvage what we can," he continued.  "Everything will be put into storage & then it looks like we will  level the house :("Now that he's divorced, however, Bach added,  he figures this was a sign that it's time for him to move to Los Angeles  to join his girlfriend and start over."I will always love New  Jersey but now there is literally nothing left for me here except  memories of a past life," he concluded. "Hello, Los Angeles. Hello, New  Life. Here I Am. It's time for a new start. Like I have a choice."At least five storm-related deaths were reported in New York and New Jersey over the weekend, so Bach can be very thankful indeed that he has a chance to make that new start.
+/n

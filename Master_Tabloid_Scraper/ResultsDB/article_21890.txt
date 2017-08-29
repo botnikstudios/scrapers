@@ -1,0 +1,50 @@
+adaptation of Ian McEwan’s bestselling novel of the same name. Directed by Knightley’s Pride & Prejudice helmer, Joe Wright, the film stars Knightley as Cecilia Tallis, whose lover, Robbie (James McAvoy), is accused of a hideous crime by.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/59624/keira-knightley-is-smokin-hot');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Planet_Gossip/20071106/293.knightley.keira.110607.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Keira Knightley, Elle magazine");
+	var imageCaption = encodeURIComponent("Keira Knightley, Elle magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gilles Bensimon for ELLE magazine
+
+Smoking can be sexy.I know it’s not politically correct to say that, but check out  Keira Knightley in her new movie Atonement, and I think you'll agree. I hit a screening last night at the DGA in Los Angeles, and watching this British beauty take a drag off a hand-rolled cigarette is pure foreplay.Sure to be an awards-season favorite, Atonement is an adaptation of Ian McEwan’s bestselling novel of the same name. Directed by Knightley’s Pride & Prejudice helmer, Joe Wright, the film stars Knightley as Cecilia Tallis, whose lover, Robbie (James McAvoy), is accused of a hideous crime by her younger 13-year-old sister, Briony. The story follows all three through World War II.And talk about perfect timing. Just hours after seeing the movie, I received a copy of Knightley’s new Elle magazine cover and story.
+
+
+
+Gilles Bensimon for ELLE magazine
+
+Sex is a theme throughout writer Jeff Gordinier’s love letter to the 22-year-old Ms. Knightley.Asked about the rapturous scene in which Cecilia and Robbie make love in a library against shelves of gilded books, Knightley says, “There was no knob-touching, for real. But it certainly looked like that.”The profile also addresses the possibility—or at least the fantasy of certain moviegoers—of seeing some girl-on-girl action between Knightley and Sienna Miller in the upcoming The Edge of Love. “It’s a really beautiful love story between the two girls; it’s not a one-way ticket to the isle of Lesbos,” says Love director John Maybury. “But Keira and Sienna do have a bath together in one scene.” (Potential cold-shower information: Love was written by Knightley’s playwright mom, Sharman Macdonald!)
+
+But don’t even think of asking Knightley about her real-life boyfriend, actor Rupert Friend, whom she met on the set of Pride & Prejudice. She tries to avoid celebrity gossip about her fellow starlets, but sometimes she can’t escape it. “You say hello and realize that you know who their last three boyfriends were, when they were last in rehab, and the rest of it,” Knightley says. “And you think, I don’t know you!...This is sick! I mean, this is voyeurism taken to a really disgusting level.”
+/n

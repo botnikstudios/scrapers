@@ -1,0 +1,85 @@
+Hollywood Medium Star Tyler Henry Channels Whitney Houston During Session with Bobby Brown
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-3012a4ed89386e580c926215f4ac8c37-59a507872e5dc');
+				var iframe = document.getElementById('wpcom-iframe-3012a4ed89386e580c926215f4ac8c37-59a507872e5dc');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-3012a4ed89386e580c926215f4ac8c37-59a507872e5dc'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The season premiere of  Hollywood Medium With Tyler Henry has an unexpected guest star: Whitney Houston.
+“I have a woman coming through, having me talk about her heart,” the clairvoyant medium tells Bobby Brown in a clip from an episode that will air on May 17.
+“And this is very clear in the way that this comes through, she’s very insistent to acknowledge, no matter how I died, I need them to know the heart. I need them to know the heart,” Tyler adds. “And there’s a feeling of having a susceptibility to a heart arrhythmia and also having a susceptibility just to a heart issue.”
+As Henry continues to connect with Houston, he explains: “But I can distinctly tell there are other aspects to this passing. People talking about this or discussing this heart thing, but it’s something else. It’s like, or I die of something else or people think I die of something else.”
+E!
+Then he tells Bobby, “And there’s just an emphasis on basically saying like, ‘People don’t know the full picture of how…to what extent this really affected me.'”
+And when Tyler asks Brown if there have been “recent discussions” about someone having a “heart condition,” the New Edition member answers: “Yeah, my ex-wife.”
+Houston was found unresponsive and underwater in a bathtub at the Beverly Hilton Hotel in February 2012, and was pronounced dead at the scene soon afterward. She was 48.
+In March 2012, the Los Angeles County coroner’s office confirmed official cause of death was due to accidental drowning. An investigation found contributing factors of her death included heart disease and cocaine use.
+Season two of Hollywood Medium With Tyler Henry premieres May 17 at 8 p.m. on E!
+/n

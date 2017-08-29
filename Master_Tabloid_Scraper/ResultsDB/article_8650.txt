@@ -1,0 +1,58 @@
+Richard Simmons' Fitness Empire Revealed: What Is the Star's Net Worth? Simmons is estimated to have a net worth of at least $15 million. He is reported to have helped people lose over 10 million pounds collectively over the years..../n
+Richard Simmons would probably never have to work again if he doesn't feel like it, so it's not that surprising that he's choosing to chill out at his Hollywood Hills mansion these days.The 68-year-old short shorts and tank top-wearing fitness icon and motivational TV personality has made headlines in recent months over his absence from public life since 2014, as highlighted in the No. 1 podcast Missing Richard Simmons. He has addressed concerns over his health and well-being, most recently in a confusing Facebook post following a hospitalization for indigestion.Simmons' absence is particularly mysterious given his dynamic presence and how generally confident and cheerful he always appeared to be with the general public. And the public also made him rich.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/845003/richard-simmons-fitness-empire-revealed-what-is-the-star-s-net-worth');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017320/rs_634x1024-170420090543-634-richard-simmons-gay-pride.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Richard Simmons, 6/13");
+	var imageCaption = encodeURIComponent("Richard Simmons, 6/13");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chelsea Guglielmino/FilmMagic
+
+Simmons is estimated to have a net worth of at least $15 million. He is reported to have helped people lose over 10 million pounds collectively over the years. That's about $1.5 per pound lost."I would realistically estimate his net worth to be somewhere between $15 to $30 million," Samuel Rad, a celebrity financial advisor, told E! News."When we look at his net worth, it's looking at not just what he has in bank accounts, we're looking at the value of his property, the value of his business at the aerobics studio," he said. "who really knows how much that's worth if he sold it right? We're also looking at his name value, his name brand recognition."
+
+
+
+Jamie McCarthy/Getty Images for MTV
+
+Simmons was known for his Sweating to the Oldies workout videos in the '80s. He sold more than 20 million copies, according to the New York Daily News. He has sold over 65 million workout tapes, DVDs, audio tapes and cassettes overall.He also taught fitness classes at his Slimmons exercise studio in Beverly Hills between 1974 until 2016, when it closed. He most recently taught three a week, for a total of $12 a pop. His boisterous personality was apparent in real life; He sometimes offered free classes to people he would meet while out and about.According to the Missing Richard Simmons podcast, over the years, he has also sold $160 million worth of Deal-A-Meal diet plans, which emphasize portion and calorie control, calculated distribution of carbs, proteins and fats and also make use of cards. 
+
+
+
+AKM-GSI 
+
+Simmons has also penned 12 fitness, nutrition, cooking and autobiographical books, three of which were New York Times bestsellers. The list includes Still Hungry After All These Years: My Story, Richard Simmons Farewell to Fat Cookbook, Sweetie Pie : The Richard Simmons Private Collection of Dazzling Desserts and Richard Simmons' Never Give Up: Inspirations, Reflections, Stories of Hope.He also launched his own dolls line on HSN. Simmons is an avid doll collector.He's also acted on TV, making appearances on shows such as General Hospital and voicing characters on Hercules the cartoon series, Fish Hooks and the '90s sitcom Dinosaurs. He also hosted his own talk show, The Richard Simmons Show, for four years in the early '80s. Simmons has over the years also appeared on The Late Show With David Letterman 33 times, The Tonight Show with Jay Leno 24 times and Hollywood Squares. He also used to be a frequent guest on The Howard Stern Sirius XM radio show.Simmons hosted his own radio show, Lighten Up With Richard Simmons, for three years until 2008.
+
+And he has continued to work despite his absence; Earlier this month, he signed a merchandising deal with Prominent Brand + Talent, which will represent him for licensing, merchandising and endorsements and hope to create a collection of Simmons-inspired products. The company also wants to build on his current merchandise, which has sold more than $1.5 billion over the years at retailers such as Walmart, Payless, QVC, Avon and Amazon, according to License magazine."He could potentially add maybe $5 to $10 million to his bottom line if his new merchandising launch is successful," Rad told E! News.
+/n

@@ -1,0 +1,83 @@
+Mountain Lion Snatched Dog from California Bedroom, Owners Say
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-a48438793e1c6d10e2389e968059a7ac-59a5877a52a63');
+				var iframe = document.getElementById('wpcom-iframe-a48438793e1c6d10e2389e968059a7ac-59a5877a52a63');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-a48438793e1c6d10e2389e968059a7ac-59a5877a52a63'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A California family is shaken after they say a mountain lion took their dog from a bedroom in their home on Monday, just as a child was sleeping nearby.
+According to CBS News, who reported the story, a 15-pound Portuguese Podengo named Lenora was apparently snatched by the mountain lion who entered the remote Pescadero home through a door that was left slightly ajar for fresh air.
+After hearing the dog bark aggressively around 3 a.m., homeowner Victoria Fought woke up. She told the station she saw the shadow of an animal enter the room and take the dog from the bed. Fought and her young daughter, Catalina Pesso, had been sleeping in the same room as the dog.
+“As soon as I saw it walk out, I said, ‘That’s a lion,’ ” Fought said. “It was shocking.”
+“I heard my little dog bark and it wasn’t a bark that I’ve heard her do before,” Pesso added.
+They alerted authorities, who found paw prints similar to a mountain lion when they searched the area. Game Warden Michael Harris also found what appeared to be mountain lion tracks nearby, CBS News reported.
+There is still no sign of the rescue dog’s body, but they did find blood stains on the home’s door step.
+The story says that neighbors have since been warned about the predators — also called cougars — residing in the area.
+/n

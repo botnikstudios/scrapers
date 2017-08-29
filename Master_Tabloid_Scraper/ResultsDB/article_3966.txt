@@ -1,0 +1,102 @@
+Bachelor in Paradise's Carly Waddell and Evan Bass Talk 'Surprise' Pregnancy: 'It's a Great Little Miracle'
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-c8e129815bce18f348a23410c2483ff6-59a4f3067afdc');
+				var iframe = document.getElementById('wpcom-iframe-c8e129815bce18f348a23410c2483ff6-59a4f3067afdc');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-c8e129815bce18f348a23410c2483ff6-59a4f3067afdc'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+For Bachelor in Paradise alums Carly Waddell and Evan Bass, the news of their first child on the way together was potentially as much a surprise to them as it was to their fans.
+During a chat with Entertainment Tonight Monday — the same day season 4 of BIP kicked off its two-night premiere — the newlyweds said they found out about Waddell’s pregnancy while in Mexico, right after their June wedding.
+“It was a great surprise, it’s a great little miracle,” says Waddell, 31. “I was a little late … We took a pregnancy test in Mexico, and we saw the thing [in Spanish] and were like, ‘What does that even say?’ So we Googled it.”
+Want all the latest pregnancy and birth announcements, plus celebrity mom blogs? Click here to get those and more in the PEOPLE Babies newsletter.
+Paul Hebert/ABC
+RELATED VIDEO: Inside Bachelor in Paradise Stars Carly Waddell and Evan Bass’ Tropical Nuptials
+
+The moment the parents-to-be saw the positive pregnancy test wasn’t caught on camera (“That was for us alone,” Waddell says, laughing), but they say they should know the sex of the baby very soon.
+“We actually just took a blood test because we want to know really fast!” Waddell shares. “So we should know in the next like, week or two.”
+“[We need] to start planning!” adds Bass, who is already dad to three sons from a previous relationship: Nathan, Liam and Ensley. “I mean, we got things to buy!”
+
+
+
+
+
+ Wearing festive off the shoulder ruffles because Bachelor in Paradise is on today and we are SO EXCITED!!! #bip photocred @nazperez 😘
+A post shared by Carly Waddell (@carlywad) on Aug 14, 2017 at 6:39pm PDT
+
+
+FROM PEN: Ali Fedotowsky-Manno Admits She Will “Definitely Support” Baby Molly If She Wants To Be The Bachelorette!
+
+ 
+RELATED: Surprise! Bachelor in Paradise‘s Carly Waddell and Evan Bass Are Expecting Their First Child Together
+The spouses are already talking baby names, though — well, one name, which could be used for a boy or a girl.  “He’s telling everyone it’s going to be named Evan,” Waddell says of her husband.
+“I think that’s so confusing. If I’m mad, and I’m like, ‘Evan!’ and then you both run in like, ‘What?’ that’s so confusing,” she explains.
+“I’ve got time, I’ll wear you down,” Bass jokes.
+Bachelor in Paradise season 4 continues its two-night premiere — which will include scenes from Waddell and Bass’ wedding — Tuesday at 8 p.m. EST / 7 p.m. CST on ABC.
+/n

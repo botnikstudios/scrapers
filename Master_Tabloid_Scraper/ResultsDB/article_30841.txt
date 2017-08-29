@@ -1,0 +1,44 @@
+Jim Carrey Releasing First Children's Book How Roland Rolls—Take a Look! Jim Carrey can bring on the laughs, but now he wants to teach kids a life lesson—through a children's book! The legendary actor, who is currently shooting Dum.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/462406/jim-carrey-releasing-first-children-s-book-how-roland-rolls-take-a-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013823/rs_634x809-130923170008-634.jim-carrey-how-roland-rolls.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("How Roland Rolls, Jim Carrey");
+	var imageCaption = encodeURIComponent("How Roland Rolls, Jim Carrey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Some Kind of Garden Media; Film Magic
+
+Jim Carrey can bring on the laughs, but now he wants to teach kids a life lesson—through a children's book!The legendary actor, who is currently shooting Dumb and Dumber To, is releasing his first self-published inspirational children's book titled How Roland Rolls, hitting stores tomorrow.According to Carrey, the 64-page book is "a story about a wave named Roland who's afraid that, one day, when he hits the beach, his life will be over. But when he gets deep, he's struck by the notion that he's not just a wave—he's the whole big, wide ocean! It shows humanity's interconnectedness through the metaphor of a wave in the ocean."
+
+Carrey added, "Through stories we make our children feel secure, and that good conquers evil. All the characters in a story are parts of ourselves, of course, so through stories we gain self-knowledge."We are inspired to embody heroic archetypes. We learn how to not let worries ruin our lives—how to make that brave move into the unknown, then find that we're usually pleasantly surprised by the outcome."An enhanced e-book, along with a four-song EP written and performed by the celeb and his daughter, Jane Carrey, is also available on iTunes.
+/n

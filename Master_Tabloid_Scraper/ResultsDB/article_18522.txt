@@ -1,0 +1,47 @@
+according to the New York Daily News. The report claims the country crooner spent Wednesday, Jan. 8, viewing potential pads, including a $12 million Leroy Street townhouse that was previously owned by West Side Story writer Arthur Laurents. .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/498013/taylor-swift-s-potential-new-home-see-the-12-million-new-york-townhouse-she-checked-out');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014010/rs_634x1024-140110135834-634.Taylor-Swift-House-Hunting.jl.011014_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Taylor Swift, House Hunting");
+	var imageCaption = encodeURIComponent("Taylor Swift, House Hunting");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dave Spencer / Splash News / Getty Images
+
+
+Taylor Swift  is on the house hunt, y'all!The "We Are Never Ever Getting Back Together" singer has reportedly been looking at apartments in New York City's Greenwich Village, according to the New York Daily News.The report claims the country crooner spent Wednesday, Jan. 8, viewing potential pads, including a $12 million Leroy Street townhouse that was previously owned by West Side Story writer Arthur Laurents. "She was well dressed and seemed in good spirits. She was being driven around with this good-looking guy who looked about her age," a source, who allegedly saw the singer touring the estate, told the tabloid.
+
+The house is around the corner from Robert De Niro's old home and is located on a block known as St. Luke's Place. The brick building is covered with huge vines (perfect for keeping the pesky paps at bay!), and the apartment Swift was reportedly peeping is around 4,400 square-feet.The N.Y. Daily News also reports that Swift viewed another nearby home at 22 Charlton Street, which is currently listed for $6.25 million. The four-bedroom, 2,900-square-foot 1820s townhouse was built by American businessman John Jacob Astor.Swift currently owns a pad in Nashville as well as a home in Beverly Hills in addition to her summer house in Rhode Island.
+
+And NYC isn't the only location the "I Knew You Were Trouble" beauty has been looking to lay down some roots. E! News exclusively learned that the 24-year-old songbird was house hunting for a home in London in November, near Gwyneth Paltrow and ex Harry Styles.The Grammy winner spent several days looking at properties in the posh St. John's Wood and Regents Park areas of London where "she was looking at houses in the range of £7-8 million," according to the insider (that's around $11 million to $13 million).The source added that Swift was looking to "build her property portfolio."And it seems like NYC is the next location to check off her list!
+/n

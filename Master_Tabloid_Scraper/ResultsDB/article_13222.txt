@@ -1,0 +1,44 @@
+One Direction's Niall Horan Compares Chest Hair With Olly Murs—See the Pic! Harry Styles might be the One Direction boy-bander with extra nipples, but Niall Horan's got the chest hair—kinda. On Sunday, Niall, 19, tweeted a picture of his semi-bare ch.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/403337/one-direction-s-niall-horan-compares-chest-hair-with-olly-murs-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201331/rs_293x473-130401045723-634.oned.ls.4113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Niall Horan, Olly Murs, Twitter, Chest Hair");
+	var imageCaption = encodeURIComponent("Niall Horan, Olly Murs, Twitter, Chest Hair");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Harry Styles might be the One Direction boy-bander with extra nipples, but Niall Horan's got the chest hair—kinda.On Sunday, Niall, 19, tweeted a picture of his semi-bare chest (and its trace amounts of body hair) next to singer Olly Murs and his Chuck Norris-esque front.
+
+"Went to see the one and only @ollyofficial at the O2 arena!great show!" Niall tweeted. "Also me and him have matching chest hair"The day before this manly meeting, Olly tweeted to Niall that he was "loving the new chest hair dude," adding, "#niallsgrowingaloverug"Cute? But not as cool as extra nipples.
+/n

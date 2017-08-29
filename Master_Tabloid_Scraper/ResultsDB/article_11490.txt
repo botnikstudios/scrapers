@@ -1,0 +1,48 @@
+Linda Hogan Calls Off Cougar Engagement to Fiancé Charley Hill After "Great Therapy" Guess these two are gonna need a group hug. Linda Hogan has announced that she and her much-younger fiancé, Charley Hill, have called off their en.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/316477/linda-hogan-calls-off-cougar-engagement-to-fiance-charley-hill-after-great-therapy');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2010626/293.hogan.hill.lc.072610.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Linda Hogan, Charlie Hill");
+	var imageCaption = encodeURIComponent("Linda Hogan, Charlie Hill");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Matt Symons, PacificCoastNews.com
+
+Guess these two are gonna need a group hug.Linda Hogan has announced that she and her much-younger fiancé, Charley Hill, have called off their engagement and officially gone their separate ways.Hogan knows best, all right.
+
+The ex-wife of wrestling legend Hulk Hogan broke the news on her Facebook page today, explaining that therapy and a lot of soul-searching prompted the decision."Ok... My status has changed. I am now single," Linda wrote. "After the great therapy we had together and time to think and concentrate on who we are and who we want to be, Charley and I decided that we should each travel through life in different directions."The 52-year-old Hogan, née Linda Claridge, expressed gratitude to her fans for sticking by the couple, who apparently had their work cut out for them given their age difference."But, thank you all for always being so supportive of our relationship and choices. I hope that you all understand and are not be too terribly disappointed. Love you!" the reality star added.Hill, who is 29 years her junior and a year younger than her daughter Brooke, with whom he went to school, first began dating the cougarlicious Linda in 2008. They subsequently raised eyebrows in July 2010 after the Hulkster confirmed the pair had gotten engaged.
+
+MORE: Hogan Pins Down Divorce Deal
+
+While they were supposed to have swapped vows last summer aboard Hogan's yacht, appropriately named Alimony, the nuptials never took place, and Linda and Charley subsequently talked out their issues on VH1's Couples Therapy.Linda's attorney, Raymond J. Rafool, tells E! News the Hogan Knows Best matriarch made the right move."It is a very positive step for Linda," said the legal eagle. "Linda is extremely busy developing her soon-to-be-released cosmetic line and in pursuing her several television projects."
+/n

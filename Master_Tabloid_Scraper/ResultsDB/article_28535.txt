@@ -1,0 +1,60 @@
+in the crime drama Triple Nine. She'll also be staring alongside Liam Hemsworth in the Dressmaker, which is based on the novel of the same name by Rosalie Ham. "It's time to get back," she says of her career. "Back t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/543542/kate-winslet-covers-harper-s-bazaar-opens-up-about-her-fiery-first-meeting-with-hubby-ned-rocknroll');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014420/rs_634x775-140520074932-634-3Kate-Winslet-Harpers-Bazaar.ls.52014.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Winslet, Harper's Bazaar");
+	var imageCaption = encodeURIComponent("Kate Winslet, Harper's Bazaar");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Daniel Jackson for Harper?s BAZAAR
+
+Who could have guessed a blazing fire would have changed Kate Winslet's life for the better?The Oscar-winning actress covers the latest issue of Harper's Bazaar, looking like the perfect image of Hollywood glamour with her voluminous blond hair styled in soft curls, while opening up about the eventful night when she met hubby Ned Rocknroll three years ago during the infamous fire on Richard Branson's Necker Island (Rocknroll is Branson's nephew)."We really could have died," she tells the mag of the terrifying experience. "The house burned to the ground." But instead, fate brought Ned and Kate together after the 38-year-old beauty rescued Rocknroll's mother Eve.
+
+VIDEO: Kate Winslet honored with star on the Hollywood Walk of Fame
+
+
+
+XPOSUREPHOTOS.COM
+
+"I carried her out of the house and down some very slippery stone steps. Lucky she's tiny!" she said with a smile. "She's my son's great-grandmother now, so it's such a strange thing to talk about."The Reader star welcomed a son, her first child with husband Ned Rocknroll and her third overall, in England in December. The couple named their son Bear Blaze Winslet, as a nod to the fire where the pair first met."We had to get the fire thing in there somewhere," she says of her son's middle name.As for hubby Ned Rocknroll, who's managed to stay relatively out of the public eye despite being married to one of the biggest movie stars?
+
+NEWS: 5 things to know about Ned Rocknroll
+
+
+
+Daniel Jackson for Harper?s BAZAAR
+
+"Nobody knows him—it's brilliant," she said of her hubby (born Abel Smith), who reportedly works for his uncle's Virgin Galactic, the space-travel division of the Branson empire. "They like to think they know him. They like to be judgmental because of his name and everything, but it's fabulous because no one knows anything about him."In addition to her two-year marriage and her new baby at home, Kate has another milestone approaching: she'll be turning 40 in less than two years."I'm quite excited about it, actually," she revealed. "I really enjoy getting older. You just don't worry as much."Despite her movie star status, Kate is much like any other busy mom—in fact, she recently got her first manicure in months.
+
+"I know it sounds very self-effacing because people say, 'Oh, you're a film star. People probably come to your house to do it.' But I don't have the time to get my nails done apart from when I'm doing a photo shoot."Well, she better book those manis in advance, considering Kate's schedule is about to get jampacked. We'll soon see the starlet reprise her role in Insurgent, the follow-up film to the sci-fi flick Divergent, and she plays a "villainous mobster wife" in the crime drama Triple Nine. She'll also be staring alongside Liam Hemsworth in the Dressmaker, which is based on the novel of the same name by Rosalie Ham."It's time to get back," she says of her career. "Back to the 'I don't f--k around,' back to the KW basics of take some serious risks, put yourself out there. And just really push it."
+/n

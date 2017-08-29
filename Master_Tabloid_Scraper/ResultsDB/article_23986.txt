@@ -1,0 +1,48 @@
+is allowing his pet Capuchin monkey Mally to go to a new home, per the Munich animal shelter that has housed Mally since his confiscation in March. Roberta Mioni Coltro, a spokesperson for Munich Tierschutzverein, tells E! News: "Justin.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/410797/justin-bieber-planning-to-give-up-mally-the-monkey-says-munich-animal-shelter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201333/rs_293x473-130403134047-634.biebsmonkey.ls.4313.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Justin Bieber, Mally, Monkey");
+	var imageCaption = encodeURIComponent("Justin Bieber, Mally, Monkey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Stefan Heinrich; Sharkpixs/ZUMAPRESS.com
+
+Mallygate is nearing an end, it seems!Justin Bieber is allowing his pet Capuchin monkey Mally to go to a new home, per the Munich animal shelter that has housed Mally since his confiscation in March.Roberta Mioni Coltro, a spokesperson for Munich Tierschutzverein, tells E! News: "Justin Bieber's management contacted us and they will give up Mally."
+
+"They are asking us for a good home for Mally," Coltro tells E! News exclusively, adding that the authorities still need an official document from Justin's manager rather than just an email.The ultimate decision about Mally's future home, however, is up to the Federal Agency for Nature Conservation rather than the shelter. Coltro explained, "We only can make a recommendation and we don´t want to send Mally in the zoo, because the zoos will only [publicize] Mally...We (Tierschutzverein) want Mally in a rescue center or some organization for primates."Nevertheless, Coltro assures us, the baby monkey will not have to part with his constant stuffed animal companion: "Mally will take the 'stuff cat' with him!"
+
+NEWS: PETA and German shelter give update on Mally's care
+
+Bieber first ran into trouble when he arrived via private plane at the Franz Josef Strauss Airport in Munich airport on March 28 for a concert and was confronted about the monkey in customs. Mally was taken into custody after the "Boyfriend" singer was unable to provide necessary paperwork for the pet and was subsequently detained by German officials.Bieber was reportedly charged a fine and the cost of the quarantine as a result of the incident.We hope Mally finds a good new home!
+/n

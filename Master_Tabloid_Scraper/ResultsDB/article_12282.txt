@@ -1,0 +1,39 @@
+John Oliver Wasn't Behind the FCC's Website Problems, Agency Says (But Not Everyone Believes Them)
+/n
+The Federal Communications Commission is reporting that a cyberattack is responsible for their website’s recent performance delays — not John Oliver‘s call for his viewers to inundate the site with comments calling for net neutrality.
+“Beginning on Sunday night at midnight, our analysis reveals that the FCC was subject to multiple distributed denial-of-service attacks (DDos),” FCC Chief Information Officer Dr. David Bray said in a statement released Monday.
+“These were deliberate attempts by external actors to bombard the FCC’s comment system with a high amount of traffic to our commercial cloud host,” Bray continues. “These actors were not attempting to file comments themselves; rather they made it difficult for legitimate commenters to access and file with the FCC.”
+The statement comes after Sunday’s episode of Last Week Tonight, in which Oliver, 40, called upon his audience to visit gofccyourself.com (which redirects people to the FCC website) to preserve its rules related to net neutrality — the ideology that Internet service providers should hold no bias to slow down and/or block the content of specific websites and applications.
+
+
+The @FCC_CIO has issued a statement on the DDoS attacks on the FCC comment system: https://t.co/yhBrieL9S6
+— The FCC (@FCC) May 8, 2017
+
+
+
+Here's our follow up piece on Net Neutrality from last night…https://t.co/YQfmMPycg7
+— John Oliver (@iamjohnoliver) May 8, 2017
+
+
+
+You can visit https://t.co/IO1tIHnfBU and urge the FCC to keep strong net neutrality rules backed by Title II.
+— John Oliver (@iamjohnoliver) May 8, 2017
+
+RELATED VIDEO: Trump Administration Bans Small Electronic Devices on Certain Overseas Flights
+
+As the Washington Post reports, some are skeptical of the FCC’s claim about the hacking incident.
+Fight for the Future, a digital-rights advocacy group, released its own statement Monday in which campaign director Evan Greer said, “The FCC’s statement today raises a lot of questions, and the agency should act immediately to ensure that voices of the public are not being silenced as it considers a move that would affect every single person that uses the Internet.”
+Greer summarizes an opinion of two “possible scenarios”:  one in which the organization is “being intentionally misleading” about what actually happened, or they’re telling the truth and the person or persons behind the DDoS attack did it purposely following Oliver’s broadcast “to actively prevent people from commenting in support of keeping the Title II net neutrality rules that millions of people fought for in 2015.”
+
+
+We call for FCC to release their logs to an independent analyst, after FCC claims that their site was hacked: https://t.co/i3y72eHniJ pic.twitter.com/BQtZTytA1s
+— Fight for the Future (@fightfortheftr) May 8, 2017
+
+
+
+PRESS STATEMENT: The @FCC has a responsibility to maintain a functioning website to receive comments from the public https://t.co/i3y72eHniJ pic.twitter.com/UTLThvSyZF
+— Fight for the Future (@fightfortheftr) May 9, 2017
+
+“Given [FCC Chairman Ajit Pai]’s open hostility toward net neutrality, and the telecom industry’s long history of astroturfing and paying shady organizations to do their dirty work, either of these scenarios should be concerning for anyone who cares about government transparency, free speech, and the future of the Internet,” Greer continues.
+“The FCC should immediately release its logs to an independent security analyst or major news outlet to verify exactly what happened last night,” he also said. “The public deserves to know, and the FCC has a responsibility to maintain a functioning website and ensure that every member of the public who wants to submit a comment about net neutrality has the ability to do so. Anything less is a subversion of our democracy.”
+/n

@@ -1,0 +1,44 @@
+Nov. 30. This will be the fourth child for the former Chicago Bulls star turned Charlotte Bobcats owner. He has three grown children with ex-wife Juanita Vanoy. This will be the first child for the Cuban-American model. Terezowens.com was fi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/486169/michael-jordan-is-going-to-be-a-dad-again-wife-yvette-prieto-pregnant-with-their-first-child');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013212/reg_634.jordan.cm.31213_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Yvette Prieto, Michael Jordan");
+	var imageCaption = encodeURIComponent("Yvette Prieto, Michael Jordan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Charley Gallay/Getty Images
+
+Michael Jordan's family is growing!The basketball legend and his wife, Yvette Prieto, are expecting their first child in April, his rep confirmed to E! News on Saturday, Nov. 30.This will be the fourth child for the former Chicago Bulls star turned Charlotte Bobcats owner. He has three grown children with ex-wife Juanita Vanoy. This will be the first child for the Cuban-American model.Terezowens.com was first to report the happy news.The former NBA star and the brunette beauty tied the knot in a lavish ceremony on Saturday, April 27 in Palm Beach, Florida, after five years of dating. The couple made it official in front of a whopping 500 guests, who arrived on tour buses, at Episcopal church Bethesda-by-the Sea, according to People.
+
+The 50-year-old then invited another 1,500 friends to join in the celebrations at the Bears Club, in Jupiter, Florida, not far from his 38,000-square-foot home.Jordan popped the question in 2011 during the holidays.Congrats to the happy couple!—Additional reporting by Marcus Mulick
+/n

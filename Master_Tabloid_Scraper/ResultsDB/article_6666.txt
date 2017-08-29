@@ -1,0 +1,56 @@
+Jewelry Designer Irene Neuwirth on What to Do in Venice Jewelry designer, Vogue Fashion Fund alumna, and three time CFDA Award nominee Irene Neuwirth is no stranger to the worlds hottest stunning starlettes. Her glamourous jewels and gemston.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/533055/jewelry-designer-irene-neuwirth-on-what-to-do-in-venice');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014317/rs_634x951-140417150516-irene_n_brad.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Irene Neuwirth, Venice");
+	var imageCaption = encodeURIComponent("Irene Neuwirth, Venice");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Irene Neuwirth
+
+Jewelry designer, Vogue Fashion Fund alumna, and three time CFDA Award nominee Irene Neuwirth is no stranger to the worlds hottest stunning starlettes. Her glamourous jewels and gemstones have graced the necklines, wrists, and ears of A-Listers such as Reese Witherspoon, Rihanna and Julia Roberts. Her 2014 collection is grounded in neutral colors and popped with bright blue hues and seductive forest greens. Read on for insider details on her favorite beachside community she calls home, Venice, Calif.
+
+What is your favorite hidden gem of a store?Tortoise on Abbot Kinney. I love the ceramic selections and it's the best place to buy really special one-off gifts. 
+
+Who is your go-to mani-pedi person?I have this adorable woman that comes to me. Her name is Maya Apple and she does the most beautiful artwork on my nails. The last one she painted looked like my opals! 
+
+Where do you go for the perfect blowout?Leland does the most perfect  blowout. He is at Benjamin Salon which is not in Venice, but receiving a blowout was something I never really appreciated until very recently. 
+
+Late night desert place?Capo, sitting at the bar...and it's the chocolate soufflé! Out of this world! 
+
+What fashion brand are you currently obsessed with? Rosie Assoulin.  Hands down. I love the way she uses color and her dramatic play on layering shapes. 
+
+Must go now restaurant in Venice? I always love Axe.  After all of my traveling, it's always fun to go to dinner there and bump into so many of my local buddies.
+
+What is your favorite thing about living in Venice?  Walking or riding my bike to work. My life is so contained here. The loads of creative friends that live close by always inspire me and my work as a designer. 
+/n

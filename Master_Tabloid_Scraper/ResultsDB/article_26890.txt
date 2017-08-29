@@ -1,0 +1,46 @@
+Mama June Models a Skintight LBD After Losing 200 Pounds What a difference a year makes! In the spring of 2016, cameras began following Mama June as she embarked on a weight loss journey. After adopting a new diet and exercise routine—and un.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871165/mama-june-models-a-skintight-lbd-after-losing-200-pounds');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201773/rs_634x845-170803082447-634.Mama-June-JR-080317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mama June");
+	var imageCaption = encodeURIComponent("Mama June");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Splash News
+
+What a difference a year makes!In the spring of 2016, cameras began following Mama June as she embarked on a weight loss journey. After adopting a new diet and exercise routine—and undergoing multiple surgeries—she debuted her new size 4 figure in the season finale of WE tv's Mama June: From Not to Hot.June stopped updating her Twitter account in April, and after the final episode aired, she made a single public appearance on May 23 to attend WE tv's Growing Up Hip Hop: Atlanta premiere. Since then, the 37-year-old reality star has been keeping a low profile at home in Hampton, Ga. In between surgeries, June essentially became a shut-in to avoid being photographed by the paparazzi, as her manager had negotiated a deal for her to debut her slimmer body in People.
+
+In a photo taken this summer and released Thursday, June showcased her svelte shape in a little black dress with cutout shoulder details. June, who once tipped the scales at 460 lbs., weighed 352 lbs. when production on her WE tv series started. Now, she weighs about 132 lbs.Viewers watched the single mom as she spent over $75,000 to have gastric sleeve surgery, a breast augmentation and skin removal surgery on her "bat wings," stomach and "turkey neck."June, who also got veneers, appeared on The Wendy Williams Show in April to discuss her total body transformation. "I had already planned this out before the cameras came in," she said, revealing that her surgeries had already been booked. "Like, I wasn't going to change anything."
+
+"If I was dong it for money and the show," June asked, "why would I pay for it myself?"Unlike in years past, June told Wendy Williams she was confident in her ability to remain slim. "For me, throughout the years, I've been able to drop the weight. But maintaining it…I guess I became what you call a 'scale whore,'" June said, "because I was constantly beating myself up."
+/n

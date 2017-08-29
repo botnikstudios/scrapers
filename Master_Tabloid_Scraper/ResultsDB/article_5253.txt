@@ -1,0 +1,88 @@
+26 Bulldog Puppies Crammed in Two Crates Rescued from Hot Van in Walmart Parking Lot/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-177b031a77c574e0a4c073212f5a5747-59a4fb5f622a7');
+				var iframe = document.getElementById('wpcom-iframe-177b031a77c574e0a4c073212f5a5747-59a4fb5f622a7');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-177b031a77c574e0a4c073212f5a5747-59a4fb5f622a7'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Even after a summer of warnings, pet owners continue to leave their animals alone in parked cars, left to bake in the sun.
+Someone recently made this dangerous decision in Garfield, New Jersey. According to WNBC, which first reported the story, 26 bulldog puppies were rescued from a hot van left in a Walmart parking lot.
+The Bergen County Animal Shelter and Adoption Center along with the The Bergen County Society for the Prevention of Cruelty to Animals rescued the puppies after receiving a call from a concerned citizen that someone was attempting to sell the dogs out of the van in the Walmart parking lot. When shelter workers arrived, the vehicle was abandoned in the lot, left to cook in the 90+ degree weather.
+Rescuers found the baby bulldogs inside the van crammed into just two crates. The puppies were alone in the parked vehicle without air conditioning or water. The driver of the van arrived while animal welfare workers were moving the dogs to a transport to the Bergen County Animal Shelter and Adoption Center.
+RELATED: Don’t Ever Leave Your Dog in the Car on a Hot Day
+
+Bergen County SPCA later found that all of the puppies were flown in from Colombia and were being driven to Florida most likely to be sold, reports NorthJersey.com.
+All of the canines arrived at Bergen County Animal Shelter and Adoption Center safely. The shelter’s director, Debbie Yankow, told NorthJersey.com that when the puppies arrived they were all very warm to the touch and eager to drink water.
+“If they were in the van any longer, they most likely would not have survived,” Yankow said.
+The shelter currently caring for the dogs has already received numerous calls from potential adopters. Right now, the puppies are not available for adoption because they are part of an active investigation.
+“They are going to be in isolation for at least 3 weeks, they have not been vaccinated and we must be certain they are healthy. In addition, they are part of an active investigation being conducted by the Bergen County SPCA. We do not know at this time if they will be available,” the shelter wrote on Facebook regarding the current status of the 26 puppies.
+ 
+
+The shelter did encourage all those who are interested in the dogs to visit the facility to apply in person and perhaps meet a different needy pet looking for a home.
+/n

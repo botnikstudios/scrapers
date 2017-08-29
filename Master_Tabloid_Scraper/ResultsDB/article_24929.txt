@@ -1,0 +1,116 @@
+Undercover Bride! 14 Celebs Who Said 'I Do' In Secret/n
+
+					var next_post_url = "http://radaronline.com/photos/abby-lee-miller-maddie-ziegler-feud-dance-moms-tell-all-book/";
+					var prev_post_url = "http://radaronline.com/photos/paris-jackson-boobs-nipples-no-bra-tank-top-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-03-14T11:06:17+00:00","caption":"Dave Franco\u00a0and\u00a0Alison Brie\u00a0secretly tied the knot \u2014\u00a0but they aren\u2019t the first celebrity couple to elope! Click through these slides to find out who else said \u201cI do\u201d away from fans.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:18+00:00","caption":"Franco, 31, and Brie, 34, kept their nuptials under wraps. Although their reps confirmed their marriage on March 13, the couple has yet to speak about their vows.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-001.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:19+00:00","caption":"Adele confirmed her secret marriage\u00a0to Simon Konecki in March 2017.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-002.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:21+00:00","caption":"\u201cHow it was I felt at the beginning of the relationship that inspired that record, because as bad as a break up can be, as bitter and horrible and messy as it can be, that feeling when you first fall for someone is the best feeling on earth, and I am addicted to that feeling,\u201d she told fans at a recent concert. \u201cObviously I can\u2019t go through with those feelings because I\u2019m married now. I\u2019ve found my next person.\u201d ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-003.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:22+00:00","caption":"&nbsp;\n\n\u201cGrammys, I appreciate it, the Academy, I love you, my manager, my husband and my son\u2013you\u2019re the only reason I do it,\u201d the 28-year-old also said during her Grammy\u2019s acceptance speech.\u00a0\n\n&nbsp;\n\n&nbsp;","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-004.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:23+00:00","caption":"Jennifer Aniston and Justin Theroux wed at their Bel Air home in 2015. She later bragged that she was able to keep their wedding under wraps [http:\/\/radaronline.com\/celebrity-news\/jennifer-aniston-secret-wedding-first-interview\/] for months.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-005.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:24+00:00","caption":"Their ceremony was so intimate that her estranged mom, Nancy, didn\u2019t even attend! Aniston\u2019s Friends costars Matthew Perry and Matt LeBlanc were also left off the guest list.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-006.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:25+00:00","caption":"Beyonce and Jay-Z secretly tied the knot in 2008 at their Manhattan home. They only had 40 guests attend their ceremony, and there wasn\u2019t a bridal party.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-000.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:27+00:00","caption":"The couple has been plagued with relationship problems\u00a0ever since.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-007.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:28+00:00","caption":"Gwyneth Paltrow and Chris Martin eloped in 2003, but their marriage didn\u2019t last. The couple \u201cconsciously uncoupled\u201d in 2014, and their divorce was finalized in 2016.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-008.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:29+00:00","caption":"&nbsp;\n\nKelly Clarkson\u00a0and\u00a0Brandon Blackstock\u00a0eloped n 2013. \"We are eloping for one reason only,\u201d she said on Twitter at the time. \u201cWe both want an intimate ceremony.\u201d\u00a0\n\n&nbsp;\n\n&nbsp;","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-009.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:30+00:00","caption":"Shortly after, Blackstock was accused of cheating on Clarkson. The couple denied the rumors.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-010.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:31+00:00","caption":"Angelina Jolie and Billy Bob Thornton tied the knot in Las Vegas after just two months of dating in May 2000, but they split by 2003.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-011.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-14T11:06:32+00:00","caption":"Do these celebrity elopements surprise you? Sound off in the comments!\u00a0We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/dave-franco-alison-brie-secret-wedding-adele-beyonce-jay-z-012.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Undercover Bride! 14 Celebs Who Said ‘I Do’ In Secret
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 14 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 14Dave Franco and Alison Brie secretly tied the knot — but they aren’t the first celebrity couple to elope! Click through these slides to find out who else said “I do” away from fans.Photo credit: Getty Images2 of 14Franco, 31, and Brie, 34, kept their nuptials under wraps. Although their reps confirmed their marriage on March 13, the couple has yet to speak about their vows.Photo credit: Getty Images3 of 14Adele confirmed her secret marriage to Simon Konecki in March 2017.Photo credit: Getty Images4 of 14“How it was I felt at the beginning of the relationship that inspired that record, because as bad as a break up can be, as bitter and horrible and messy as it can be, that feeling when you first fall for someone is the best feeling on earth, and I am addicted to that feeling,” she told fans at a recent concert. “Obviously I can’t go through with those feelings because I’m married now. I’ve found my next person.” Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 14 
+
+“Grammys, I appreciate it, the Academy, I love you, my manager, my husband and my son–you’re the only reason I do it,” the 28-year-old also said during her Grammy’s acceptance speech. 
+
+ 
+
+ Photo credit: Getty Images6 of 14Jennifer Aniston and Justin Theroux wed at their Bel Air home in 2015. She later bragged that she was able to keep their wedding under wraps [http://radaronline.com/celebrity-news/jennifer-aniston-secret-wedding-first-interview/] for months.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 14Their ceremony was so intimate that her estranged mom, Nancy, didn’t even attend! Aniston’s Friends costars Matthew Perry and Matt LeBlanc were also left off the guest list.Photo credit: Getty Images8 of 14Beyonce and Jay-Z secretly tied the knot in 2008 at their Manhattan home. They only had 40 guests attend their ceremony, and there wasn’t a bridal party.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 14The couple has been plagued with relationship problems ever since.Photo credit: Getty Images10 of 14Gwyneth Paltrow and Chris Martin eloped in 2003, but their marriage didn’t last. The couple “consciously uncoupled” in 2014, and their divorce was finalized in 2016.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 14 
+
+Kelly Clarkson and Brandon Blackstock eloped n 2013. "We are eloping for one reason only,” she said on Twitter at the time. “We both want an intimate ceremony.” 
+
+ 
+
+ Photo credit: Getty Images12 of 14Shortly after, Blackstock was accused of cheating on Clarkson. The couple denied the rumors.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 14Angelina Jolie and Billy Bob Thornton tied the knot in Las Vegas after just two months of dating in May 2000, but they split by 2003.Photo credit: Getty Images14 of 14Do these celebrity elopements surprise you? Sound off in the comments! We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Dave Franco and Alison Brie secretly tied the knot — but they aren’t the first celebrity couple to elope! Click through these slides to find out who else said “I do” away from fans.Photo credit: Getty ImagesFranco, 31, and Brie, 34, kept their nuptials under wraps. Although their reps confirmed their marriage on March 13, the couple has yet to speak about their vows.Photo credit: Getty ImagesAdele confirmed her secret marriage to Simon Konecki in March 2017.Photo credit: Getty Images“How it was I felt at the beginning of the relationship that inspired that record, because as bad as a break up can be, as bitter and horrible and messy as it can be, that feeling when you first fall for someone is the best feeling on earth, and I am addicted to that feeling,” she told fans at a recent concert. “Obviously I can’t go through with those feelings because I’m married now. I’ve found my next person.” Photo credit: Getty Images 
+
+“Grammys, I appreciate it, the Academy, I love you, my manager, my husband and my son–you’re the only reason I do it,” the 28-year-old also said during her Grammy’s acceptance speech. 
+
+ 
+
+ Photo credit: Getty ImagesJennifer Aniston and Justin Theroux wed at their Bel Air home in 2015. She later bragged that she was able to keep their wedding under wraps [http://radaronline.com/celebrity-news/jennifer-aniston-secret-wedding-first-interview/] for months.Photo credit: Getty ImagesTheir ceremony was so intimate that her estranged mom, Nancy, didn’t even attend! Aniston’s Friends costars Matthew Perry and Matt LeBlanc were also left off the guest list.Photo credit: Getty ImagesBeyonce and Jay-Z secretly tied the knot in 2008 at their Manhattan home. They only had 40 guests attend their ceremony, and there wasn’t a bridal party.Photo credit: Getty ImagesThe couple has been plagued with relationship problems ever since.Photo credit: Getty ImagesGwyneth Paltrow and Chris Martin eloped in 2003, but their marriage didn’t last. The couple “consciously uncoupled” in 2014, and their divorce was finalized in 2016.Photo credit: Getty Images 
+
+Kelly Clarkson and Brandon Blackstock eloped n 2013. "We are eloping for one reason only,” she said on Twitter at the time. “We both want an intimate ceremony.” 
+
+ 
+
+ Photo credit: Getty ImagesShortly after, Blackstock was accused of cheating on Clarkson. The couple denied the rumors.Photo credit: Getty ImagesAngelina Jolie and Billy Bob Thornton tied the knot in Las Vegas after just two months of dating in May 2000, but they split by 2003.Photo credit: Getty ImagesDo these celebrity elopements surprise you? Sound off in the comments! We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

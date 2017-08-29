@@ -1,0 +1,48 @@
+EXCLUSIVE! The Face's Lydia Hearst to Terrorize Dylan Penn in New Horror Movie It's about to get ugly between Lydia Hearst and Dylan Penn. E! News can exclusively report that the publishing family scion has joined the cast of Conde.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/525073/the-face-s-lydia-hearst-to-terrorize-dylan-penn-in-new-horror-movie');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014225/rs_634x1024-140325164244-634.lydia.cm.32514.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lydia Hearst");
+	var imageCaption = encodeURIComponent("Lydia Hearst");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Zev Schmitz
+
+It's about to get ugly between Lydia Hearst and Dylan Penn.E! News can exclusively report that the publishing family scion has joined the cast of Condemned, an upcoming horror film about an abandoned building in New York City's Lower East Side that houses squatters infected with a mystery disease that turns them into crazed killers.Hearst will play a degenerate junkie who is determined to keep a group of young rocker kids from escaping the building. It was announced last week that Penn (the model daughter of Sean Penn and Robin Wright) will star as the youngest kid.
+
+
+
+Gap
+
+"The building residents succumb to an infection from their own waste and garbage, inciting a 'battle royale' where they all go berserk and try to kill one another," says a press release from the film's producers. Condemned's writer Eli Morgan Gesner will also direct the movieHearst is currently a model coach on The Face, the reality competition show airing on Oxygen. She has appeared on Gossip Girl and in several independent films.Condemned will mark Penn's acting debut following a modeling career that recently took with appearances in GQ and Elle as well as in ad campaigns for The Gap and Ralph Lauren's Denim & Supply Line. As E! News was the first to report earlier this month, Penn turned down an offer of $150,000 to strip down for Playboy.
+/n

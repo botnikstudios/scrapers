@@ -1,0 +1,50 @@
+Inside George and Amal Clooney's Italian Date Night as New Parents With the kids away, mom and dad will play! Just because they're new parents doesn't mean George Clooneyand Amal Clooneycan't head out on the town. More th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867875/inside-george-and-amal-clooney-s-italian-date-night');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017619/rs_634x1024-170719094603-634.amal-george-clooney.cm.71917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("George Clooney, Amal Clooney");
+	var imageCaption = encodeURIComponent("George Clooney, Amal Clooney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID 
+
+With the kids away, mom and dad will play!Just because they're new parents doesn't mean George Clooneyand Amal Clooneycan't head out on the town. More than one month after welcoming their twins, the Oscar winner and his barrister leading lady stepped out for dinner in Lake Como, one of Clooney's longtime favorite getaway spots. Mr. and Mrs. Clooney arrived at luxury hotel Villa d'Este Cernobbio late Tuesday night, where they dined for about an hour and a half with another couple. While the meal was not too long, a source told E! News the weather was "perfect" and the night was overall "lovely." They were greeted warmly by the staff and George returned the favor by being equally gracious and shaking hands with everyone. The star kept his date night outfit laid-back in a pair of jeans and button-down shirt. As for his wife, we're told George was very affectionate and protective of Amal, holding her hand through the restaurant and stroking her back throughout the meal. The new mama looked radiant in a yellow shift dress and matching heels. 
+
+
+
+BACKGRID 
+
+While the couple dined, we can rest assured twins Ella and Alexander were in good hands. According to second source, Amal's mother, Baria Alamuddin, does not live with the pair, but does spend long periods of time visiting and helping with the newborns. Additionally, as the insider said, they use a baby nurse who helps around the clock. "They are very hands-on parents, but they also have some help," the source explained. "They also value their adult time and want to make sure that they are able to slip away for adult dinners and other things that they enjoy. With the help of their baby nurse, they are able to do that frequently."In fact, a week earlier, they enjoyed another dinner together out in Lake Como while continuing their summer in the northern Italian town. As another source told E! News, "Amal is not working, and they both have the summer off and are enjoying Lake Como...they are very happy to be in Italy." 
+
+After all, mom and dad need their alone time, too!
+/n

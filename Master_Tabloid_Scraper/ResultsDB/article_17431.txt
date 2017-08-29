@@ -1,0 +1,47 @@
+looked heavily invested in their conversation, so they must have really hit it off! Previously he had been romantically linked with bartender and model Bernice Burgos, whom he was spotted canoodling with in Australia. While they were never a.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/664145/drake-very-interested-in-victoria-s-secret-model-shanina-shaik-get-the-details');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201558/rs_634x1024-150608072256-634.Drake.jl.060815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Drake, Shanina Shaik");
+	var imageCaption = encodeURIComponent("Drake, Shanina Shaik");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Could a new couple be developing?!Drake stopped by New York City hotspot Up & Down Friday night to celebrate his successful performance at the Governors Ball music festival, where he sat at a VIP table with friends. A source tells E! News that while he "wasn't linked to any girls" at his post-concert soiree, he did manage to make a new friend the next night!While hanging out at another popular NYC spot, Buddakan, Saturday night for dinner with his friends, Drake became very "talkative" and "friendly" with Tyson Beckford's ex-girlfriend, Shanina Shaik. The Victoria's Secret model and Drake's group then made their way to new nightclub Opus in the meatpacking district where they all had a "great time."Don't jump to conclusions about the If You're Reading This It's Too Late rapper and Shaik. The source tells us that at the end of the night they left separately! But that doesn't mean that whatever might be developing between the two is over.
+
+
+
+Tristan Fewings/Getty Images
+
+"Drake looked like he was very interested in Shanina though," the source adds.Based on the picture, Drake certainly looks interested in something LOL! The Degrassi alum and model looked heavily invested in their conversation, so they must have really hit it off! Previously he had been romantically linked with bartender and model Bernice Burgos, whom he was spotted canoodling with in Australia.While they were never a confirmed duo, another source dished that Burgos had partied with Drizzy before, and added that this wasn't necessarily a new thing. Photographic evidence on her Instagram further proves their friendship. The two have pics together from well more than 70 weeks ago, but she calls him her "homeboy." So maybe they're actually just friends?Whatever they were, the Internet had a lot to say about it. Now we'll just have to wait and see what comes of Drizzy and Shanina (if anything)!
+/n

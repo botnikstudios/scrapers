@@ -1,0 +1,80 @@
+Sensi Studio Lady Ibiza Toquilla Straw Sunhat, $295 BP. Hello Summer Floppy Straw Hat, $25 Sierra Tradidng Post Outdoor Research Glimpse Hat, $16.99 Eugenia Kim Bunny Sun Day Straw Sunhat, $475 Guess Wide-Brim Straw Hat, $34/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/845690/vanessa-hudgens-just-made-the-straw-hat-cool-again');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017324/rs_634x1024-170424132328-634.EMily-Ratajkowski-Under-100.jl.042417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Emily Ratajkowski");
+	var imageCaption = encodeURIComponent("ESC: Emily Ratajkowski");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+MEGA
+
+When it comes to the rest of your outfit, complement the natural material with super-feminine fabric, like Vanessa's lace top, or juxtapose the texture with a soft, shiny satin piece.Straw handbags will also see a resurgence this year—and not just to the beach. Last summer may have been all about the straw and pom-pom combos, but this season sees plenty of new ways to play with the coarse fibers. For instance, Emily Ratajkowski was photographed in LA wearing a Hat Attack straw cross-body (celebs really love this brand) with a floral dress and white sneakers. Casual, light and ready for daytime adventures!Shop more looks below!
+
+
+
+Instagram
+
+Hat Attack Hand Embroidered Sunhat, $96
+
+
+
+Instagram
+
+Sensi Studio Lady Ibiza Toquilla Straw Sunhat, $295
+
+
+
+Instagram
+
+BP. Hello Summer Floppy Straw Hat, $25
+
+
+
+Instagram
+
+Sierra Tradidng Post Outdoor Research Glimpse Hat, $16.99
+
+
+
+Instagram
+
+Eugenia Kim Bunny Sun Day Straw Sunhat, $475
+
+
+
+Instagram
+
+Guess Wide-Brim Straw Hat, $34
+
+Are you into this monogrammed trend?
+/n

@@ -1,0 +1,51 @@
+the look—not to mention, balances out the proportions. River Island Rust Red Floppy Hat, $24; Emanuel Geraldo Wool Felt Floppy Hat in camel, $28; Eugenia Kim Blake Chain-Band Wool Floppy Hat, $390; COLLECTION 18 Banded Floppy Hat in Taupe, $.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/716333/must-do-mondays-how-to-elevate-a-boring-outfit-in-a-pinch');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151016/rs_600x700-151116130614-MDM_outfits_redlip_v2.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC, MDM Amp Up Boring Style");
+	var imageCaption = encodeURIComponent("ESC, MDM Amp Up Boring Style");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Wardrobe indecision? The struggle is real.Sometimes, despite your on-point options, your outfit ends up looking a little, well, meh. But you needn't go from zero to 100, adding all the accessories or jewelry in your arsenal to create more interest. No, friend, the trick to elevating a seemingly boring outfit is actually pretty simple.The easiest thing you can do is stock your makeup bag. "Red lipstick changes everything," said celeb stylist Lindsay Albanese. "When I'm feeling eh about my look or even when I'm not in the mood to put together a killer outfit, I keep the look basic, add a red lip and I feel as stylish as Gwen Stefani. Red is the most formal lip color and it adds glam to anything, from a cocktail dress to a T-shirt dress." Case in point: Almost every Taylor Swift  ensemble.Kat Von D Studded Kiss Lipstick in Underage Red, $21; Revlon Super Lustrous Lipstick in Really Red, $6.39; Tom Ford Lip Color in Scarlett Rouge, $52; Make Silk Cream Lipstick in Marachino Cherry, $25
+
+
+
+
+When in a pinch (or when you want to go undetected from the paps), a wide-brim or floppy hat is tops. "You should always have a few hats," recommended the style expert. "Hats are outfits in themselves. Bad hair day? Can't figure out what to wear? Go for the hat, and all problems will be solved." Take, for instance, Vanessa Hudgens' street-chic ensemble: The outfit without the hat is cute, but the addition of the topper matures the look—not to mention, balances out the proportions.River Island Rust Red Floppy Hat, $24; Emanuel Geraldo Wool Felt Floppy Hat in camel, $28; Eugenia Kim Blake Chain-Band Wool Floppy Hat, $390; COLLECTION 18 Banded Floppy Hat in Taupe, $42
+
+
+
+
+With the dainty jewelry trend still going strong, statement pieces have taken a backseat as of late. But don't underestimate what one strong necklace, ring or ear cuff can do—it can mean the difference between classic work outfit and red-carpet ready. Scared of overdoing it? Coco Chanel may have encouraged us to take one piece off before leaving the house, but Nicole Richie proves that as long as you keep your outfit simple and streamlined, you can wear a bevy of stunners at one time.Jules Smith The Muse Ear Jackets, $55; Kiona Cuff Bracelet, $49; Lizzie Fortunato Midnight Necklace, $450; Banana Republic Crystal Collar Necklace, $48
+/n

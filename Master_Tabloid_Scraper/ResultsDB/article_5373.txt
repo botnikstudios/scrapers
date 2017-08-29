@@ -1,0 +1,81 @@
+Tennessee Man Gets Georgia Fugitives To Surrender In His Driveway/n
+
+					var next_post_url = "http://radaronline.com/photos/scheana-shay-divorce-new-boyfriend-rob-valletta-pda/";
+					var prev_post_url = "http://radaronline.com/photos/brooke-burke-bikini-david-charvet-beach-pda/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-17T17:09:21+00:00","caption":"Brave Patrick Hale is being branded a \"hero\" by cops after he captured killer fugitives Donnie Rowe and Ricky Dubois\u00a0in his Tennessee driveway. And RadarOnline.com has all the details of how the drama unfolded. Hale, 35, saw the escaped inmates close to his home after a friend warned them they were in the area before getting them to surrender lying face down in his driveway.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:42:02+00:00","caption":"Dangerous fugitive Donnie Rowe, 43, approached Mr. Hale's house while on the run from police after he and his partner killed two prison guards during their dramatic escape.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:42:05+00:00","caption":"With his face covered in tattoos accomplice Ricky Dubois, 24, is a scary looking criminal.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:41:59+00:00","caption":"The brave father loaded up the weapons in his home and grabbed his daughter, Taylor, fearing a fatal confrontation with the two dangerous fugitives. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-7.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:42:00+00:00","caption":"As he approached his home in his car both Rowe and Dubois both took off their shirts and started waving them at him possibly in the belief that he was driving a police cruiser.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:42:01+00:00","caption":"Mr Hale explained: \"I realized I had two ex-cons wanted for murder who had just shot at law enforcement who had nothing to lose and for some reason they surrendered and laid down on the concrete in my driveway.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:42:03+00:00","caption":"The brave hero then had to wait an agonizing three minutes until 45 armed police officers swarmed the scene before he needed to use his own weapon on the fugitives.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-17T15:42:04+00:00","caption":"Recounting the incident with his wife Danielle Taylor, 37, and daughter Taylor by their side, he revealed, \"If that doesn't make you believe in Jesus Christ, I don't know what does.\"\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Patrick-Hale-Hero-Corners-Tennessee-Fugitives-4.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Tennessee Man Gets Georgia Fugitives To Surrender In His Driveway
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Brave Patrick Hale is being branded a "hero" by cops after he captured killer fugitives Donnie Rowe and Ricky Dubois in his Tennessee driveway. And RadarOnline.com has all the details of how the drama unfolded. Hale, 35, saw the escaped inmates close to his home after a friend warned them they were in the area before getting them to surrender lying face down in his driveway.Photo credit: MEGA/ABC2 of 8Dangerous fugitive Donnie Rowe, 43, approached Mr. Hale's house while on the run from police after he and his partner killed two prison guards during their dramatic escape.Photo credit: MEGA3 of 8With his face covered in tattoos accomplice Ricky Dubois, 24, is a scary looking criminal.Photo credit: MEGA4 of 8The brave father loaded up the weapons in his home and grabbed his daughter, Taylor, fearing a fatal confrontation with the two dangerous fugitives. Photo credit: ABC 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8As he approached his home in his car both Rowe and Dubois both took off their shirts and started waving them at him possibly in the belief that he was driving a police cruiser.Photo credit: ABC6 of 8Mr Hale explained: "I realized I had two ex-cons wanted for murder who had just shot at law enforcement who had nothing to lose and for some reason they surrendered and laid down on the concrete in my driveway."Photo credit: ABC 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8The brave hero then had to wait an agonizing three minutes until 45 armed police officers swarmed the scene before he needed to use his own weapon on the fugitives.Photo credit: ABC8 of 8Recounting the incident with his wife Danielle Taylor, 37, and daughter Taylor by their side, he revealed, "If that doesn't make you believe in Jesus Christ, I don't know what does."
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: ABC 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Brave Patrick Hale is being branded a "hero" by cops after he captured killer fugitives Donnie Rowe and Ricky Dubois in his Tennessee driveway. And RadarOnline.com has all the details of how the drama unfolded. Hale, 35, saw the escaped inmates close to his home after a friend warned them they were in the area before getting them to surrender lying face down in his driveway.Photo credit: MEGA/ABCDangerous fugitive Donnie Rowe, 43, approached Mr. Hale's house while on the run from police after he and his partner killed two prison guards during their dramatic escape.Photo credit: MEGAWith his face covered in tattoos accomplice Ricky Dubois, 24, is a scary looking criminal.Photo credit: MEGAThe brave father loaded up the weapons in his home and grabbed his daughter, Taylor, fearing a fatal confrontation with the two dangerous fugitives. Photo credit: ABCAs he approached his home in his car both Rowe and Dubois both took off their shirts and started waving them at him possibly in the belief that he was driving a police cruiser.Photo credit: ABCMr Hale explained: "I realized I had two ex-cons wanted for murder who had just shot at law enforcement who had nothing to lose and for some reason they surrendered and laid down on the concrete in my driveway."Photo credit: ABCThe brave hero then had to wait an agonizing three minutes until 45 armed police officers swarmed the scene before he needed to use his own weapon on the fugitives.Photo credit: ABCRecounting the incident with his wife Danielle Taylor, 37, and daughter Taylor by their side, he revealed, "If that doesn't make you believe in Jesus Christ, I don't know what does."
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: ABC 
+
+
+
+
+
+
+
+
+
+/n

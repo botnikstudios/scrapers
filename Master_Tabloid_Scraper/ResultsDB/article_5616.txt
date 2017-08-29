@@ -1,0 +1,50 @@
+Mel B's Ex-Nanny Sues Her for Libel and Says They Had a Sexual Relationship The nanny's filing states Lorraine "loved" Mel and "still deeply cares for her children, but has been forever hurt and betrayed by" her for her "false statements and public d.../n
+Mel B's former nanny has fired back after the singer accused her and estranged husband Stephen Belafonte of extortion and claims she had a sexual relationship with her for seven years.The America's Got Talent judge and Spice Girls singer filed for divorce from him last month after 10 years of marriage. They then began a custody battle. Mel B has three daughters, including one with Stephen. Earlier this month, Mel obtained temporary restraining orders against both her husband and the couple's former nanny, Lorraine Gilles. Mel accused Stephen of threatening to release sex tapes and Lorraine of aiding him. She also accused him of impregnating the nanny.In a lawsuit recently filed at a Los Angeles court, Lorraine accuses Mel of defamation, libel, invasion of privacy and intentional infliction of emotional distress, saying the singer portrayed her in her filings, which are public, as a "homewrecker, prostitute and extortionist" and that "in actuality," the singer "seduced" her, a "naive and curious 18-year-old foreign exchange student...with alcohol, fame and casual sex." Mel and Stephen have not responded to her claims.  
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/845375/mel-b-s-ex-nanny-sues-her-for-libel-and-says-they-had-a-sexual-relationship');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017312/rs_634x1024-170412035601-634-MelBStephen-1-MK041217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mel B, Stephen Belafonte");
+	var imageCaption = encodeURIComponent("Mel B, Stephen Belafonte");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Phillip Faraone/Getty Images)
+
+The nanny's filing states Lorraine "loved" Mel and "still deeply cares for her children, but has been forever hurt and betrayed by" her for her "false statements and public disclosure of private, sensitive information in her declaration."Mel had said in her filing that Stephen demanded she partake in "sexual intercourse with him and random women" and that he threatened to release sex tapes of the sexual activity if she objected. She also claimed that he got Lorraine pregnant, initially wanted to father the child while she lived with their family and later demanded she get an abortion and paid for the procedure with her money. Stephen's lawyers have called Mel's claims "outrageous and unfounded."Mel had also said she fired Lorraine in January 2015 and that Stephen flipped out and threatened to release the sex tapes if she didn't agree to rehire her and give her a raise. The singer said the nanny knew of the videos and the threats and agreed to help him. Her filing states Lorraine had rented a storage locker where the tapes and other personal items were located. She accuses both of extortion.
+
+In her filing, Lorraine, a German national, says that weeks after she moved to Los Angeles, she met Mel and Stephen and visited them in their home, during which they "drank and eventually had consensual group sex" upon the singer's request.The court papers also state that the nanny claims that afterwards, Mel would contact her from time to time to "come over for drinks, sex and/or to help watch over her children" and that the two women "developed a friendship and sexual relationship with one another that was separate and apart" from the singer's relationship with Stephen.In her filing, Lorraine says that months later, she returned home to Germany and was then contacted by the couple and offered a formal job as a nanny. She accepted and her "sexual and employment relationship" with Mel "continued for approximately seven years."
+
+According to her lawsuit against Mel, Lorraine says she and Stephen also had sex, but only when the singer invited him to join them. She claims Mel would often film the encounters. Lorraine said she is "personally aware" of several "sex tapes" both Mel and Stephen had recorded that show all three of them "having consensual group sex." She also said she witnessed the couple "bring different women into their home and engage in group sex" while she looked after their kids.Lorraine also states in the lawsuit that in 2014, she got pregnant from a one-night stand with a man she met at a bar. She said she had not had sex with the couple in the months leading up to the pregnancy. She said she told Mel about it and that the singer helped her arrange an appointment for an abortion, "advanced the cash" for the procedure and booked a hotel for her to stay in so she could recover in private. She said after she had the abortion, the singer visited her at the hotel with the kids.
+
+Lorraine said she later resumed her nanny job and relationship with Mel. In her lawsuit, the nanny also says that there is "no evidence" that she ever used Mel's money without her knowledge or consent or that she "conspired" with Stephen "in any way for an illicit motive." The papers also state that the nanny claims she "is not in possession of any of the alleged sex tapes or compromising materials" as Mel had described and that she was "actually uncomfortable with the making of the sex tapes" and does not want them made public.In her filing, the nanny says she did open a storage locker at the couple's request and that their CPA paid for it and that after she was fired in September 2016—four months before Mel said she and Stephen separated—she transferred it to Stephen's name. The court papers also state that Lorraine was never fired before that date, but rather quit temporarily in late 2014.In her lawsuit, it is stated that Lorraine believes Mel made her statements "with knowledge of their falsity or with reckless disregard of the truth" because she feared the nanny would testify during the couple's divorce proceedings. She also says in the filing that two weeks before she filed the papers, Mel gave her a hand-written litter saying she was "grateful" for her services as a nanny.
+/n

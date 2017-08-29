@@ -1,0 +1,44 @@
+Woody Allen Opens Up About His Marriage to Soon-Yi Previn: "I Provided Her With Enormous Opportunities" Woody Allen is done defending his relationship with Soon-Yi Previn. In The Hollywood Reporter's May 13 issue, the 80-year-.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/762153/woody-allen-opens-up-about-his-marriage-to-soon-yi-previn-i-provided-her-with-enormous-opportunities');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201644/rs_634x824-160504072013-634.woody-allen-thr-the-hollywood-reporter.5416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Woody Allen, The Hollywood Reporter");
+	var imageCaption = encodeURIComponent("Woody Allen, The Hollywood Reporter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ruven Afanador
+
+Woody Allen is done defending his relationship with Soon-Yi Previn.In The Hollywood Reporter's May 13 issue, the 80-year-old director dismisses any criticism of their relationship and its controversial beginnings. Soon-Yi, born in Korea and later adopted by actress Mia Farrow and her then-husband André Previn, began dating Woody in the mid-'90s. Woody and Mia never actually married, meaning Soon-Yi was not legally his stepdaughter. Their coupling was nonetheless controversial, as the director started seeing Soon-Yi while he was still involved with her mother. Woody has three children with Mia, all of whom are now estranged.Nearly 30 years after the scandal, the filmmaker reveals that he was "immune" to the drama surrounding himself, Soon-Yi and Mia. "You can see I worked right through that, undiminished. Made films all through those years and at the same rate I was making them. I'm good that way," Woody explains. "I am very disciplined and very monomaniacal and compartmentalized."Asked if he ever felt "traumatized by the scandal," he responds, "Oh, no. Not in the slightest."(In the '90s, Mia alleged that Woody abused their then-7-year-old daughter, Dylan Farrow; The charges were dismissed after an investigation. Dylan reasserted the claims two years ago in The New York Times, which Woody swiftly denied. He doesn't discuss the allegations at all with The Hollywood Reporter.)Woody hasn't seen Mia in years. "I don't think she lives in New York," he tells The Hollywood Reporter. "I think she lives in Connecticut. I'm not sure. Or travels for UNICEF or something."
+
+According to Woody, life with Soon-Yi, 45, and their two daughters, ages 15 and 17, couldn't be better. "One of the great experiences of my life has been my wife. She had a very, very difficult upbringing in Korea: She was an orphan on the streets, living out of trash cans and starving as a 6-year-old. And she was picked up and put in an orphanage. And so I've been able to really make her life better. I provided her with enormous opportunities, and she has sparked to them. She's educated herself and has tons of friends and children and got a college degree and went to graduate school, and she has traveled all over with me now. She's very sophisticated and has been to all the great capitals of Europe. She has just become a different person," Woody says. "So, the contributions I've made to her life have given me more pleasure than all my films."Woody pauses when asked how Soon-Yi has changed him. "Well, she's given me a lot of pleasure. I adore her, and she's given me a wonderful life. We've been married 20 years. And we were together for a few years before that. And she has given me the great years of my life, personally. She's a great companion and a great wife. She has given me a stable and wonderful home life and great companionship," he says. "I guess whenever you meet somebody and they're the right person for you, there is a great emotional contribution they make to your life."Pressed over whether she's changed him, he asks, "Changed me? I don't know if you could say she changed me. I don't know if I've changed. I might be the same person I was when I was 20. I'm not sure. I mean, I seem to have the same habits, the same work habits, the same phobias, the same enjoyments. I don't think I have changed much over the years at all. When you mention it, I try and think about the ways [I've changed]. I don't know if I've changed much."
+/n

@@ -1,0 +1,42 @@
+Violet Affleck: Most Likely to Be... Bennifer's offspring is most likely to be the most sincere, generous and compassionate person you will ever meet in your life. Ever. And she won't be nice in that sweet, doe-eyed, nonopinion kin.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/27477/violet-affleck-most-likely-to-be');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080612/293.garner.jennifer.061208.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Garner, Violet Affleck");
+	var imageCaption = encodeURIComponent("Jennifer Garner, Violet Affleck");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FAME Pictures
+
+Bennifer's offspring is most likely to be the most sincere, generous and compassionate person you will ever meet in your life. Ever. And she won't be nice in that sweet, doe-eyed, nonopinion kind of way (er, Emmy Rossum). Violet will disarm you. She'll hit you with a knockout combo of self-possession and aplomb topped off with infectious élan.You'll never hear Violet say, "Oh, bring it!" when confronted with hostility. No. She'll offer a heartfelt, understanding smile and calmly ask, "Do you need to talk?" And as if that weren't jarring enough to an aggressor, she'll follow it up with, "Sometimes, the people who don't deserve love are the ones who need it the most..."Though we don't think it'll actually get to that point, because this kid's smile alone can disarm someone 100 yards away.
+/n

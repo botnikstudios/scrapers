@@ -1,0 +1,42 @@
+Joel McHale, America's tallest laughmaster, will be delivering the pride to your town. Provided you live in these places: July 25 (tonight) at the Wilbur Theatre in Boston; July 26 at the Newport Yachting Center in Newport, R.I.; and Ju.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/20422/mchale-in-the-flesh');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080417/293.5.McHale.Joel.041708.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joel McHale");
+	var imageCaption = encodeURIComponent("Joel McHale");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeremy Cowart / E! Networks 
+
+Before you dedicate yet another weekend to Milwaukee's Best, sparklers and Benedryl, take note that Mr. Joel McHale, America's tallest laughmaster, will be delivering the pride to your town. Provided you live in these places: July 25 (tonight) at the Wilbur Theatre in Boston; July 26 at the Newport Yachting Center in Newport, R.I.; and July 27 at the Hampton Beach Casino in Hampton Beach, N.H. (For more info go to the Soup MySpace page). Get him while he's hot.
+/n

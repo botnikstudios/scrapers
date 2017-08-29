@@ -1,0 +1,46 @@
+Transformers: Age of Extinction's Jack Reynor Engaged to Model Madeline Mulqueen...After Romancing Her on Twitter?! Jack Reynor is planning to transform into a married man. The 22-year-old Irish actor, who costars in the upcoming Transf.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/520891/transformers-age-of-extinction-s-jack-reynor-engaged-to-model-madeline-mulqueen-after-romancing-her-on-twitter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014213/rs_634x1024-140313124018-rs_634x1024-140313123025-634.jack-reynor-Madeline-Mulqueen.ls.31314_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent(" Madeline Mulqueen, Jack Reynor");
+	var imageCaption = encodeURIComponent(" Madeline Mulqueen, Jack Reynor");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Phillip Massey/WireImage
+
+Jack Reynor is planning to transform into a married man.The 22-year-old Irish actor, who costars in the upcoming Transformers: Age of Extinction is engaged to his girlfriend of two years, Dublin-based model Madeline Mulqueen, his rep confirms to E! News.And considering the betrothed couple's relative tender ages (Mulqueen is also 22), it isn't hard to believe that their romance got going on Twitter!Reynor and Mulqueen reportedly started flirting with each other on social media and then went public in February at the 10th Irish Film and Television Awards, where the smitten Reynor was named Best Actor (Film) for What Richard Did.
+
+The thesp tweeted a photo of Mulqueen's Valentine's Day gift last month, a copy of the Richard Harris biography A Man Called Harris, which he apparently loved."Amazing Valentine's Day present from the best girlfriend in the world. @MadelineMul #luckymotherf--cker," he wrote along with a pic of the book.
+
+Meanwhile, Reynor's acting career is chugging along toward optimus-prime status. Along with Transformers costar Nicola Peltz, Reynor is set to receive the Rising Star of 2014 Award later this month at CinemaCon in Las Vegas.The fourth installment of Michael Bay's robots-in-disguise saga, also starring Mark Wahlberg and Kelsey Grammer, hits theaters June 27.
+/n

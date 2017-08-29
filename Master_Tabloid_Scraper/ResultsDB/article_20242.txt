@@ -1,0 +1,44 @@
+Vivian Campbell Says His Cancer Has Returned, Pulls Out of Def Leppard Tour Sad news—Def Leppard guitarist Vivian Campbell's cancer has returned and he has pulled out of the band's tour as a result. The 52-year-old has documented h.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/668857/vivian-campbell-says-his-cancer-has-returned-pulls-out-of-def-leppard-tour');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015521/rs_634x1024-150621084304-634.vivian-campbell.cm.62115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vivian Campbell, Def Leppard");
+	var imageCaption = encodeURIComponent("Vivian Campbell, Def Leppard");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Livingston/Getty Images
+
+Sad news—Def Leppard guitarist Vivian Campbell's cancer has returned and he has pulled out of the band's tour as a result.The 52-year-old has documented his battle with Hodgkin's lymphoma, with affects the lymphatic system, on Facebook."I'm saddened by the fact that my cancer has returned," he wrote on Friday, June 19. "However, I'm beyond consolation that it's return will prevent me from being able to do my job for a while. I'm still working on a schedule of treatment with my doctors, but I will see you all very soon. My apologies."Def Leppard recently toured Canada, Europe and Puerto Rico and are set to perform in the United States with fellow rock bands Styx and Tesla, and later, Foreigner and Night Ranger, from Tuesday through October before heading to Japan.
+
+Campbell had revealed on June 10, 2013 on his page that he was battling Hodgkin's lymphoma, which affects the lymphatic system, and was to be treated with chemotherapy. He wrote the following November that he was "officially in remission from Hodgies." He said in July 2014 that his cancer was still in remission and that he planned to undergo a stem cell transplant.This past June 10, exactly two years to the day he revealed his diagnosis, Campbell posted on Facebook a photo of himself performing onstage, saying, "I suppose I ought to update my profile picture while I still have some hair." 
+/n

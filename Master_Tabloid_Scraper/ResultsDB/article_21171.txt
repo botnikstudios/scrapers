@@ -1,0 +1,51 @@
+first official star and it's a big one: Annette Bening. Bening, who has been nominated for four Oscars, an Emmy and won two Golden Globes, will play Kathleen Blanco, the governor of Louisiana during and after the devastation of Hurrican.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/827013/ryan-murphy-lures-annette-benning-to-tv-for-katrina-american-crime-story');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201716/rs_634x1024-170206072033-634.annette-benning.ch.020617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Annette Benning");
+	var imageCaption = encodeURIComponent("Annette Benning");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jon Rou/Loyola Marymount University
+
+
+
+
+
+
+Katrina: American Crime Story has its first official star and it's a big one: Annette Bening.Bening, who has been nominated for four Oscars, an Emmy and won two Golden Globes, will play Kathleen Blanco, the governor of Louisiana during and after the devastation of Hurricane Katrina. The second season of FX's American Crime Story from Ryan Murphy, Nina Jacobson and Brad Simpson does not have a premiere date yet aside from 2018. The third season will air within six months of Katrina's debut.
+
+The series has already been renewed for a third season that will follow the Gianni Versace murder. A potential fourth season could take on Bill Clinton and Monica Lewinsky. The third season is based on the book Vulgar Affairs by Maureen Oarth and Murphy has already said Lady Gaga will not play Donatella Versace in the series. The fourth season could be based on Jeffrey Toobin's book, A Vast Conspiracy: The Real Story of the Sex Scandal That Nearly Brought Down a President, which tells the story of the Clinton sex scandal, Lewinsky and Linda Tripp's involvement. A Toobin book was the basis of the first season of the FX anthology.
+
+Katrina: American Crime Story is the follow up to the critically acclaimed The People v. O.J. Simpson. The first season starred Cuba Gooding Jr., John Travolta, Courtney B. Vance, Sterling K. Brown, David Schwimmer and Sarah Paulson. It took home nine Emmys.Bening's TV work is limited. Her few roles include a 1987 episode of Miami Vice, an episode of Wiseguy and TV movies such as Hostage and Manhunt for Claude Dallas. She was nominated for an Emmy for the 2005 TV movie Mrs. Harris. She recently starred in 20th Century Women on the big screen.
+/n

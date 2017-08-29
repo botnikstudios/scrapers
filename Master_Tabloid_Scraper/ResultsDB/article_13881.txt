@@ -1,0 +1,45 @@
+Tiger Woods Announces He Will Compete in 2015 Masters Golf Tournament at Augusta National Tiger Woods is back at it. The professional golf star made a major announcement earlier today: He's planning on competing in the upcoming 2015 Mas.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/642867/tiger-woods-announces-he-will-compete-in-2015-masters-at-augusta-national');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201533/rs_634x770-150403134216-634.tiger-woods-trophy-golf-040315.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tiger Woods");
+	var imageCaption = encodeURIComponent("Tiger Woods");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PGA TOUR Archive
+
+Tiger Woods is back at it.The professional golf star made a major announcement earlier today: He's planning on competing in the upcoming 2015 Masters Golf Tournament at Augusta National Golf Club."I'm playing in the Masters," he said on his website. "It's obviously very important to me, and I want to be there."The 39-year-old continued, "I've worked a lot on my game and I'm looking forward to competing. I'm excited to get to Augusta and I appreciate everyone's support."The tournament kicks off on April 6 and concludes on April 12.Earlier this week, the athlete was seen practicing at Augusta which led many to believe this announcement was imminent.He was also seen playing 18 holes on the course today, shortly after taking to his website with the news.
+
+The four-time Masters winner hasn't played on the PGA Tour since early February—when he pulled out of the Farmers Insurance Open at Torrey Pines in San Diego on the 12th hole in the first round due to stiffness in his back.Webb Simpson of 120 Sports was on the course while Woods was practicing earlier this week and said that "he looked like he was going at it pretty full."He added, "I knew if he had back trouble or if anything was bothering him he would have had a cart because they let you ride out there if you need a cart. And Augusta's tough to walk, and he was right there with his guys every hole. Plus in hearing what I've heard about how much he's been playing in Florida, I think he's hungry for it, and he's ready to get back."
+/n

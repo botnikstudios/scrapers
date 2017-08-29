@@ -1,0 +1,86 @@
+From the PEOPLE Archives: Jay Thomas Opens Up About Reconnecting with the Son He Placed for Adoption
+/n
+Actor and comedian Jay Thomas – best known for Cheers, Murphy Brown and his iconic Late Night story about the Lone Ranger – died at the age of 69 this week. Here, PEOPLE takes a look back at a 2008 story on how Thomas reconnected with his long lost son, country songwriter J.T. Harding.
+On a bright afternoon last November, more than 500 people gathered in Grosse Point, Michigan, for the funeral of Larry Harding, an ad executive and father of three who was beloved for his block parties and his big laugh. The speakers included two of Larry’s sons, his best friend, his wife and — much to the confusion of just about everyone assembled — TV and radio personality Jay Thomas. Recalls Thomas: “There was a rumble like, ‘Why is this TV guy here? Did they hire him to emcee the funeral?’ Then there was dead silence, and I stood up and said, ‘I am here to bury my son’s father.’ ”
+Thomas had arrived there after a long and emotional journey. Twenty-eight years earlier, the Emmy-winning Thomas, who has since appeared on Cheers and Murphy Brown, was just getting his career off the ground when a girlfriend, who does not wish to be identified, became unexpectedly pregnant. They agonized over what to do. Get married? Terminate the pregnancy? “Everything was on the table,” says Thomas. Eventually they made the excruciating decision to give the baby boy up for adoption. “It was painful,” he says. “We talked about getting married, but I realized that we would have the kid and then get divorced, and I didn’t want that. I didn’t want him to be mixed up in a bad situation that was not of his making.”
+The boy was raised in Michigan by the Hardings and was given the name John Thomas. Ironically, he was called JT — the same initials as his biological father’s. “There was a time when I told kids that my biological father was this policeman who saved a city down south,” says Harding, now 28. “I also used to tell girls that I thought he could be David Lee Roth.”
+
+In 1997 Harding moved to Los Angeles to make it as a musician. It was then he decided to track down his biological parents. “I never felt a loneliness or a longing for this unknown parent,” he says. “I have two incredible parents and a great brother. But I was always curious.” He didn’t expect that the man he was looking for was, literally, right outside his door. At the time, Thomas had one of the top radio shows in Los Angeles, complete with a huge billboard on Hollywood Boulevard, not far from struggling Harding’s apartment. “Out of my apartment window every day, I would see Jay’s face,” Harding says.
+When Harding learned, after he tracked down his biological mom, that according to her his dad was “not normal like the rest of us,” he didn’t know what to expect. “I thought he was in jail or something,” says Harding. “She told me no, that he was an actor who had been on the show Cheers. So for a minute I thought my biological father was Ted Danson. I was like, ‘I’m rich!’ ”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-85ec3574341cc33de60873d8029dbf26-59a5072ecaea7');
+				var iframe = document.getElementById('wpcom-iframe-85ec3574341cc33de60873d8029dbf26-59a5072ecaea7');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-85ec3574341cc33de60873d8029dbf26-59a5072ecaea7'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Thomas, who now lives in Santa Barbara with his wife, Sally, and teenage sons Sam, 17, and Jake, 15, felt conflicted when Harding first contacted him. “I was afraid of the responsibility I would feel,” he says. “I really didn’t want him to be some angry, screwed-up guy who was blaming me for crap in his life. I would have gone, ‘You know what? You’re probably right.’ ”
+But when they met over burgers, not only was Thomas struck by how happy and well-balanced Harding seemed, but with how much they had in common. They had the same build, the same nonstop, staccato way of speaking. And, most notably, the same caustic sense of humor.
+“He told me, ‘If you had an earring in your nose and a green Mohawk, you wouldn’t be hanging out in this big nice house of mine,’ ” says Harding, a singer and songwriter who now lives in Nashville when not on tour with his band JTX. “I told him, ‘Well if you didn’t have a big nice house, I wouldn’t be hanging out with you.’ I mean, how many times can I watch the Murphy Brown DVDs over here?”
+The two became fast friends — though, out of respect for the families on both sides, at first they didn’t reveal much about their connection. “I told people he was my nephew or my cousin or my lover, depending who we were meeting,” jokes Thomas. Eventually they came up with words to describe their unique bond. “It took some time, but it started happening naturally,” says Harding. “He started saying, ‘This is my oldest son,’ and I would say, ‘This is my biological father.'” Still, Harding reserves the name Dad for Larry Harding, the man who raised him and passed away last year. “No one can ever replace my dad,” says Harding. “But I am so lucky that I had the ultimate backup plan.”
+/n

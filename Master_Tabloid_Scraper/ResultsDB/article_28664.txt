@@ -1,0 +1,44 @@
+Regina George in Mean Girls or getting life advice from Oprah Winfrey on her own docu-series, the 29-year-old nailed the unforgettable roles as twins Hallie Parker and Annie James in The Parent Trap. Almost eighteen years after the Disney mo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/770309/lindsay-lohan-pays-a-visit-to-the-parent-trap-s-family-home-and-we-can-t-help-but-feel-nostalgic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201655/rs_634x747-160605131743-634.Lindsay-Lohan-Instagram.tt.060516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lindsay Lohan");
+	var imageCaption = encodeURIComponent("Lindsay Lohan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Lindsay Lohan is traveling back in time to her Disney days.Long before the actress was trying to be best friends with Regina George in Mean Girls or getting life advice from Oprah Winfrey on her own docu-series, the 29-year-old nailed the unforgettable roles as twins Hallie Parker and Annie James in The Parent Trap.Almost eighteen years after the Disney movie premiered, Lindsay decided to make a visit to her big-screen home in London. The results may just lead you to spend the rest of your weekend watching the classic film."A trip down memory lane #sundayfunday," she shared on Instagram. "#theparenttrapmovie Annie's house but it was number 7 in the movie."For those who didn't see the film, you first don't know what you've been missing. In any event, Lindsay played Hallie who lived in Napa, Calif., with her father Nick Parker (Dennis Quaid). She also played her twin Annie who resided with her mom Elizabeth James (the late Natasha Richardson) in London.
+
+We'd tell you what happens next but we don't want to spoil anything for the movie goers who somehow haven't seen the family film.The project is something Lindsay continues to look fondly upon. In fact, the actress recently shared a Dubsmash video where she recited lines from the film."Actually, we're all fine in here," she shared in Annie's voice. "Unless Hallie Parker knows something we don't know." Is the nostalgia hitting you yet?As for Lindsay's life today, the actress is enjoying time with her main man Egor Tarabasov and focusing on all of the positives in her life."The smartest thing I have done for myself is making the move to London. I came to London by myself. Being here is such a big deal," she recently shared with The Sun. "The people who I used to hang out with are waking up at 5 a.m. Now I wake up at 9 a.m. I have more self-control. I got into meditation. I don't feel the pressure that I used to feel."
+/n

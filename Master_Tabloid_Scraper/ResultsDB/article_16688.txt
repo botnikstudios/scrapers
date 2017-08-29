@@ -1,0 +1,62 @@
+Millie Bobby Brown Recalls Her Real-Life First Kiss for Stranger Things: "I Would Do Anything for the Show" When you're 12 years old, a first kiss is strange. When you're puckering up for the first time on the set of Stra.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/804434/millie-bobby-brown-recalls-her-real-life-first-kiss-for-stranger-things-i-would-do-anything-for-the-show');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016925/rs_634x824-161025065122-Millie-Bobby-Brown-Interview-Cover.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Millie Bobby Brown, Interview Magazine");
+	var imageCaption = encodeURIComponent("Millie Bobby Brown, Interview Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mikael Jansson
+
+When you're 12 years old, a first kiss is strange. When you're puckering up for the first time on the set of Stranger Things, it can get—well—stranger. Just ask Millie Bobby Brown. "I did have to kiss Finn [Wolfhard]," she recalled during a chat with real-life BFF, "Chandelier" dancer Maddie Ziegler, for Interview Magazine. "At the end of the day, it's only acting, and it's something you have to do, and I would do anything for the show. I cut my hair, I kissed Finn. It was definitely strange. It was, like, my first kiss, so it was kind of weird. But then, like, when I'd done it, I thought, 'Wow. It makes sense for the storyline.'"In an interview that reads more like two gal pals gossiping over pedicures, Brown admitted her reaction to the smooch with her 13-year-old co-star was not so great. "Finn reacted quite well and I didn't," she laughed. "I felt really bad afterwards."
+
+
+
+Mikael Jansson
+
+To Brown, her three male co-stars are basically her older siblings. "I am the only girl, and the boys have their squads. They have their group, and it's definitely difficult because they're boys and talk about boy stuff. They talk about girls and video games. I definitely need to talk about normal things a girl would talk about," she explained. "They're like my big brothers. They annoy me, but we are very, very close."While there's plenty of chatting behind the scenes, when it's time to act, Brown doesn't have many lines to memorize. 
+
+
+
+Mikael Jansson
+
+"At Comic-Con, people dress up as her. It's very rewarding in a way, and as strange as Stranger Things. People are embracing her character and trying to portray her. I think it's nice to see what different people think of her character," she said. "I'm cool with people dressing up as Eleven for Halloween. I definitely want to open my door and give them candy."In addition to Comic-Con, fans may have also caught the young star at this year's Emmy Awards singing "Uptown Funk" for the pre-ceremony crowd."It was really mental and I loved it," she told Ziegler. "It was nerve-racking. It was my first time onstage. I thought, 'Why not hit the Emmys?' And then I came off and I thought, 'I want to do that five times over.'"
+
+
+
+Mikael Jansson
+
+While she's been in the limelight for her acting talents, the British native was a singer before she ever touched a script. "I started singing before I started tweeting actually. It was always a passion...I started singing and then I got into acting. Singing is something I love to do. I feel very confident doing it," she said. "I haven't been allowed to release my first record yet, and my dad goes, 'Understand the meaning of music.' And I was like, 'Okay, Robert.'"
+
+Though Brown may begrudgingly listen to her dad's advice, there's another bit of guidance she's held onto in Hollywood. "A lot of people say to me, 'Stay grounded, be humble,'" she explained. "David Schwimmer was just like, 'You need to love what you do.' And I think that's really nice. Just love your work. My family has given me great advice saying, you know, 'Don't work too hard.' And it's really nice to have someone like that—you know that they love you. It's nice to have famous people love you."
+/n

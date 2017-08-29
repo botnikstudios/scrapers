@@ -1,0 +1,54 @@
+test and appeared unsteady on his feet, the arresting deputy added. In a statement posted to Twitter Sunday, Aaron said he stopped at an Auto Zone in Cornelia, Ga., to fix a tire that was out of alignment. "He was arrested inside by sev.../n
+Aaron Carter is back in the spotlight—and this time, it's intentional.In Birmingham, Ala., Monday, the pop star made his first public appearance since his arrest in Georgia on suspicion of DUI and drug possession. Despite a heavy thunderstorm, more than 1,100 people came to watch the 29-year-old's free concert at Brookwood Village shopping mall.Aaron was one of three acts to perform as part of the Just Show Up Show. Earlier that day, before the concert, Aaron's rep told E! News, "The tour is continuing, which everyone is very happy about. They are in Alabama right now and everything is moving forward. They have a show tonight. So, he'll do the show tonight and then a meet and greet with fans tomorrow."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867593/aaron-carter-returns-to-the-stage-after-dui-arrest');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017618/rs_634x931-170718093106-634.Aaron-Carter-Birmingham-J1R-071817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Aaron Carter");
+	var imageCaption = encodeURIComponent("Aaron Carter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Splash News
+
+Before he took the stage, Aaron wrote a series of tweets defending himself as people like Sharon Osbourne and Aisha Tyler publicly criticized him. "I will NOT continue to tolerate such lies about me regarding drug use with alleged meth, heroine, crack - it's not funny! This body shaming must end now! It's amazing how many of you who can hide behind your screens and type it, but wouldn't say it to my face," the singer tweeted. "Ending this with the fact that there are so many bullies out there and this male body shaming must continue to be addressed."On Tuesday morning, Aaron retweeted a review of the concert and again claimed he "wasn't even drinking" at the time of his arrest on Saturday. "That truth will come soon though," the "Fool's Gold" singer tweeted. "Thank you to the FANS again. You motivate me and drive me!" In another tweet, Aaron wrote that he had an "awesome time" in Alabama. "Such a HUGE crowd!"
+
+
+
+Splash News
+
+Aaron, who spent about a month in rehab in 2011 for a Xanax dependency, tweeted Sunday that he felt his "'celebrity' was targeted" in Georgia. His girlfriend, Madison Parker, was also arrested for obstruction of law enforcement officers, as well as possession of drug-related objects and possession of marijuana; Aaron maintains their innocence. "Right now, he's just trying to get by day to day. He doesn't want to disrespect authorities but he's going to be honest about what happened," his rep told E! News. "Everything will come to light very soon."According to a report by the arresting deputy, his breath smelled of marijuana and his eyes were bloodshot. The arresting deputy reported seeing him get out of a 2005 Chevy Suburban, although Aaron insists he was not behind the wheel. The "I Want Candy" singer failed several parts of the field sobriety test and appeared unsteady on his feet, the arresting deputy added.
+
+In a statement posted to Twitter Sunday, Aaron said he stopped at an Auto Zone in Cornelia, Ga., to fix a tire that was out of alignment. "He was arrested inside by several police officers with aggression," the statement read. "The police also revoked his rights to have an attorney."Furthermore, Aaron said he has a license for medical marijuana to treat his anxiety.In response, Capt. Floyd Canup of the Habersham County Sheriff's Office in Georgia told People that a deputy sheriff was conducting a traffic stop nearby when a call came in to the 911 center about an erratic driver. "He drove to the area of the vehicle and happened to see Mr. Carter behind the wheel as he pulled into the Auto Zone," Canup said, adding that the incident report said Aaron "was cooperative with the deputies" and "there was no incident" during the arrest.
+
+Even so, the singer said a video from Auto Zone will prove he wasn't driving that night. "Aaron and Madison will be hiring an attorney. They are looking at Phaedra Parks," a source said. "They think she would be a good fit for the case. Aaron wants to take a lie detector test ASAP."Possible legal issues aside, Aaron wants to focus on his tour. "Alright everyone, I LøVë you and spread the LøVë," he tweeted Tuesday. "I am up early to my next destination. BIG day ahead."
+/n

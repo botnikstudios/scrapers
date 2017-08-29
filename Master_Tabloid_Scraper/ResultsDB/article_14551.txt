@@ -1,0 +1,46 @@
+Designer Dossier: Celebs Turn to Lela Rose for Femininty and Florals Lela Rose is the epitome of ladylike fashion. Her timeless Southern style comes from an upbringing in Texas, but the modern elegance of her designs is something she mastere.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/739777/designer-dossier-celebs-turn-to-lela-rose-for-femininty-and-florals');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016112/rs_600x1000-160212180141-NYFW-Designer-Dossier_LelaRose_v2.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("NYFW, Designer Dossier, Lela Rose");
+	var imageCaption = encodeURIComponent("NYFW, Designer Dossier, Lela Rose");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images
+
+Lela Rose is the epitome of ladylike fashion.Her timeless Southern style comes from an upbringing in Texas, but the modern elegance of her designs is something she mastered with every collection. What else sets her apart? Every garment has at least one hand-crafted detail—with each dress, handbag or shoe you're literally taking home a piece of her.Stars like Kiernan Shipka and Lea Michele have stunned recent red carpets wearing whimsical garments by the designer.Keep scrolling! There's so much more to learn about the designer (including one very royal encounter).
+
+Dream Big: All of this fame is pretty impressive considering she launched her first collection out of her own apartment.Gotta Start Somewhere: The first dress she ever made was for her high school prom.Royal Treatment: She's dressed both American royalty, First Lady Michelle Obama, as well as actual royalty, Duchess of Cambridge Kate Middleton.Celeb Clique: She's dressed Jessica Alba, Olivia Munn, Mindy Kaling, Mary-Kate and Ashley Olsen and many more.
+
+Seeing White: The designer launched her first bridal collection in fall of 2006.Always Active: If you live in NYC, keep an eye out because Lela likes to bike everywhere she can.Movie Magic: Her all-time favorite flick is Breakfast at Tiffany's.
+/n

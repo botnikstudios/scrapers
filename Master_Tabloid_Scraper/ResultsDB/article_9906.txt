@@ -1,0 +1,44 @@
+One Year Ago Jacob Tremblay Made Us Cry With His Critics' Choice Awards Speech A year ago today, Jacob Tremblay stole our hearts and we're still waiting for him to give them back. At just 9 years old, the Room star earned one of hi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/814585/one-year-ago-jacob-tremblay-made-us-cry-with-his-critics-choice-awards-speech');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016017/rs_634x1024-160117181458-634.Jacob_Tremblay-jmd-011716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jacob Tremblay, Critics Choice Awards");
+	var imageCaption = encodeURIComponent("Jacob Tremblay, Critics Choice Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+A year ago today, Jacob Tremblay stole our hearts and we're still waiting for him to give them back.At just 9 years old, the Room star earned one of his first major career nods with the 2016 Critics' Choice Award for Best Young Performer, an honor Dakota Fanning, Abigail Breslin, Saoirse Ronan and many more significant child actors have claimed in past years. When the pint-sized star got up on stage to give his eloquent acceptance speech, actor Bradley James had to hold the microphone stand to Tremblay's mouth because he was a bit too short to reach. "This is super cool. This is the best day of my life," the child star candidly gushed. "I first want to say thank you to all the critics who voted for me. It must be a super hard role because of all the other great actors in this category." Cue the entire audience swooning. 
+
+To further make us want to file adoption papers, the youngster hit the dance floor in celebration of the win. He showed off his impressive moves in a sharp suit to the tune of Bruno Mars' "Uptown Funk" and all of Hollywood was officially in love. 
+/n

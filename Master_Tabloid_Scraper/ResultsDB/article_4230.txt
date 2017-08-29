@@ -1,0 +1,50 @@
+Hilary Duff Is "Totally Open to" a Lizzie McGuire Reunion: "So Many People Loved Her" Long live Lizzie, Gordo and Miranda! For those who don't recognize those names, they were the beloved characters from Disney Chann.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/581283/hilary-duff-is-totally-open-to-a-lizzie-mcguire-reunion-so-many-people-loved-her');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014821/rs_634x839-140921133651-634.Lizzie-McGuire-Hilary-Duff.jl.092114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hilary Duff, Lizzie McGuire");
+	var imageCaption = encodeURIComponent("Hilary Duff, Lizzie McGuire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney
+
+Long live Lizzie, Gordo and Miranda!For those who don't recognize those names, they were the beloved characters from Disney Channel's popular series, Lizzie McGuire.And although the show's final episode aired all the way back in February 2004, cast member Hilary Duff recently admitted to being interested in a full-on cast reunion!  "I love it! I would be totally open to it," she told the Huffington Post. "My schedule is a little busy right now. But um…why not?"Yes, we're now singing Duff's single in our heads now too.She added, "I mean, so many people loved [Lizzie]. I loved her. Honestly, working on that show, I got so strong with my physical comedy and all the things that they would throw at me."
+
+PHOTOS: Fashion spotlight on Hilary Duff
+
+
+
+Theo Wargo/Getty Images for iHeartMedia
+
+Until plans become official, Duff is focused on her new music. Scheduled to be released this fall, her new album will feature "Chasing the Sun," "All About You" and other songs you haven't heard just yet."I've worked very hard and the album is a great representation of the experiences I've had in my life and where I want to go from here," she told E! News. "I'm really proud of the album I've made."We can't wait! 
+/n

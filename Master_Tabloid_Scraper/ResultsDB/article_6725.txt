@@ -1,0 +1,89 @@
+Southern Charm's Kathryn Dennis: Why Ex Thomas Ravenel Broke 9-Month Silence amid Bitter Custody Battle
+/n
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-67a02e3effc0a8dda6f34af89770d1ef-59a503ca3c512');
+				var iframe = document.getElementById('wpcom-iframe-67a02e3effc0a8dda6f34af89770d1ef-59a503ca3c512');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-67a02e3effc0a8dda6f34af89770d1ef-59a503ca3c512'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Kathryn Dennis sought help from a very unlikely ally in the midst of her ongoing custody battle with ex Thomas Ravenel.
+In an exclusive sneak peek at Monday’s Southern Charm, Dennis asks the advice of Ravenel’s closest friend JD Madison and his wife, Elizabeth, who are the godparents to her children with Ravenel: daughter Kensie, 3, and son Saint, 18 months.
+In the clip, Dennis tells the couple she and Ravenel, 54, hadn’t talked for nine months when he texted her out of the blue to have a sit-down, leaving her unsure how to respond.
+“Do you want to reach back out to him or not?” asks Elizabeth.
+Says Dennis, “I want to, of course, for my children. I’m nervous. I always feel like he has a motive or something like that, you know?”
+FROM PEN: Christina and Tarek El Moussa’s Divorce Has Not Stopped Their Business Relationship
+
+JD reveals he’d had his own pep talk with Ravenel three days before, telling him, “The kids need their mom just like their dad. My God, man. It’s gotta come to a resolution.”
+JD, who’s known Thomas for 20 years, says in a separate interview that the plantation owner and volatile relationship with the former model is “very complicated … but, as godfather, you want to help.”
+With Saint’s 1st birthday coming up at the time of filming, Dennis admits, “In a perfect world, I would hope we could celebrate it together, but I don’t really know how to navigate [the situation].”
+The Madisons tell Dennis, who completed a stint in rehab shortly before the latest season began, that she should start with a simple agenda and treat her get-togethers with Ravenel like a business deal — otherwise, their court battle could end in devastating losses for one or both of them.
+“I’ve worked really hard to get to a place where I’m okay with the fact that Thomas and I do not communicate because it isn’t good for us,” says Dennis, 24. “But maybe it’s time.”
+Southern Charm airs Mondays (9 p.m. ET) on Bravo.
+/n

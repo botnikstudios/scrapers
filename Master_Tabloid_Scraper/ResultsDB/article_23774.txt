@@ -1,0 +1,74 @@
+Kim Kardashian Flaunts Killer Cleavage, Poses as Audrey Hepburn and Marie Antoinette in Never-Before-Seen Pics! First, Marilyn Monroe and now, Kim Kardashian is channeling Marie Antoinette and Audrey Hepburn!  Back in April 2014, we first sa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/679527/kim-kardashian-flaunts-killer-cleavage-poses-as-audrey-hepburn-and-marie-antoinette-in-never-before-seen-pics');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015623/rs_634x951-150723143527-634.kim-kardashian-audrey-hepburn-hype-072315.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kim Kardashian, Hype Energy Campaign");
+	var imageCaption = encodeURIComponent("Kim Kardashian, Hype Energy Campaign");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Jansheski/Hype Energy
+
+First, Marilyn Monroe and now, Kim Kardashian is channeling Marie Antoinette and Audrey Hepburn! Back in April 2014, we first saw a pic of the 34-year-old reality star wearing clip-on bangs and an all-black ensemble, à la the British icon, and now, we know the mystery shot was taken for her Hype Energy campaign. E! News has obtained a number of never-before-seen photos, which feature the pregnant star sporting epic braids, a sexy body suit with cleavage cut outs and even posing as the former Queen of France—complete with her blond wig and all! . 
+
+PHOTOS: See more of Kim Kardashian's pregnancy style
+
+
+
+John Jansheski/Hype Energy
+
+The images, which are believed to have been taken in 2014, also seeKanye West's wife flaunting her engagement ring as she takes a sip of the energy drink in addition to showing off her hot bod in a skin-tight dress teamed with over-the-knee lace-up sandals. 
+
+
+
+John Jansheski/Hype Energy
+
+Safe to say Hype Energy has never looked so hot! 
+
+Meanwhile, the soon-to-be mother-of-two was most recently spotted heading back to Los Angeles after a quick trip to Paris and was photographed wearing a see-through sweatshirt jumpsuit paired with sky-high booties. 
+
+
+
+John Jansheski/Hype Energy
+
+Her adorable baby bump has just begun to pop—just as the E! star predicted about 10 days ago. "I'm at the stage now where I wake up with a flat belly but then as I eat and by the end of the day it pops out! This means it's about to pop," the brunette beauty tweeted last week. 
+
+North West's mama also recently covered the latest issue of Vogue España and appeared on the mag sans a stitch of makeup. 
+
+
+
+John Jansheski/Hype Energy
+
+"This has to be my favorite shoot I've done! Thank you @VogueSpain & Theo Wenner for these amazing pics! #NoMakeUp #KimNoFilter" she captioned a pic from her cover shoot. 
+
+PHOTOS: Kim's hottest covers
+/n

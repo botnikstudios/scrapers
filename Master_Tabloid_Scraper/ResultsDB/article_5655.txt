@@ -1,0 +1,52 @@
+steal the wedding spotlight!  Jamie Murray Wells, who is the founder and executive chairman of Prescription Eyewear Limited, married longtime love Lottie Fry at Dorchester Abbey, Oxfordshire on Friday. Guests included Prince Harry, Princess .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/608316/a-royal-affair-prince-harry-princess-eugenie-and-princess-beatrice-steal-the-spotlight-at-pal-s-wedding-see-the-pics');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141119/rs_634x1024-141219122713-634.Prince-Harry-JR-121914.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Prince Harry");
+	var imageCaption = encodeURIComponent("Prince Harry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jesal / Tanna / Splash News
+
+Leave it to the royals to steal the wedding spotlight! Jamie Murray Wells, who is the founder and executive chairman of Prescription Eyewear Limited, married longtime love Lottie Fry at Dorchester Abbey, Oxfordshire on Friday. Guests included Prince Harry, Princess Beatrice and Princess Eugenie, who were all dressed to perfection as they attended the star-studded nuptials in England. Harry, who is a close friend of Wells, looked dapper in a sharp suit and pretty blue tie, complete with a white rose boutonniere. The 30-year-old royal, who recently returned from a visit to Lesotho, was all smiles while attending the I-dos and was even photographed adorably helping to usher two little girls from the wedding party into the church (swoon!). 
+
+
+
+
+Jesal / Tanna / Splash News
+
+Beatrice, meanwhile, showed off her stylish side in a pale blue coat teamed with a navy fedora style hat. The trendy jacket is made by French label Carven and retails for approximately $1400. The 26-year-old royal's sister, Princess Eugenie, also opted to sport a trendy coat in the chilly weather, pairing her monochromatic jacket with a grey dress, black pumps and an elegant white fascinator. Additional guests at the high society wedding included Ben Fogle and his wife Marina, Thomas Inskip, Harry Aubrey Fletcher, who is a close friend of Prince William as well as James Meade, whose Sept. 2013 nuptials were reportedly attended by William, Harry and Pippa Middleton. Congrats to the happy couple! E!'s new scripted series The Royals premieres Sunday, March 15, at 10 p.m.! Follow The Royalson Twitterand Facebook for the latest updates!
+
+PHOTOS: Prince Harry: Royal and rugged
+/n

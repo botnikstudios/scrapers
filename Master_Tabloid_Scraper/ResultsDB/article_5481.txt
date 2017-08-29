@@ -1,0 +1,46 @@
+Eliza Dushku Engaged to Peter Palandjian It's been a big year for the actress. Less than two months ago, Dushku's Boston Diva Productions optioned Glen Cook's series of fantasy novels, The Black Company. She will also star in .../n
+Hear that? That's the sound of wedding bells in Eliza Dushku's future.The 36-year-old actress—known for her TV roles in Buffy the Vampire Slayer, Dollhouse and Tru Calling—announced on Instagram Thursday that she's engaged to 53-year-old Peter Palandjian.The proposal took place in Boston, and the Watertown, Mass.,-born actress shared a photo of the happy moment with her 482,000 followers. "#Ayo..! 'YES!!' Absolutely, my love," wrote Dushku, who held hands with Palandjian. "#BostonBorn #BostonBred #BostonSoonToBeWed." Dushku did not share further details from the proposal, nor did she show a close-up of her ring.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/861401/eliza-dushku-engaged-to-peter-palandjian');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017516/rs_634x796-170616041246-634.eliza-dushku-Peter-Palandjian.61617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eliza Dushku, Peter Palandjian");
+	var imageCaption = encodeURIComponent("Eliza Dushku, Peter Palandjian");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+It's been a big year for the actress. Less than two months ago, Dushku's Boston Diva Productions optioned Glen Cook's series of fantasy novels, The Black Company. She will also star in the series, playing the dark sorceress The Lady. "The Black Company is vast in scope yet remains fundamentally relevant through the morally ambiguous choices it presents at every turn," Dushku told Deadline. "We are excited to bring Glen Cook's classic story to life with Mark [Stern] and David [Goyer], luminaries in the cinematic pursuit of science fiction and epic fantasy, who will inevitably assemble poignant characters embroiled in jaw-dropping action."Palandjian, meanwhile, has been keeping busy as the CEO of Intercontinental Real Estate Corp. A former professional tennis player, he graduated from Harvard in 1987 and was a two-time captain and four-year letter winner for the school, earning All-Ivy honors before he went pro.
+
+Dushku's fiancé, who lives in Cambridge, Mass., is a father to four children: Madelon, Manon, Margot and Petros. The couple has kept their relationship relatively out of the public eye, as Dushku most recently shared a selfie of herself and Palandjian with friends in December 2016.A wedding date has not been set.
+/n

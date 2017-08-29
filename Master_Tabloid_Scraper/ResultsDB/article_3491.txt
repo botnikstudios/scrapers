@@ -1,0 +1,44 @@
+apart, maybe in distance but never in heart! #girlslunch #la #bestmoments #loveyougirls #missyou @gisellamarengo @martamilans @mileycyrus #michele #nora," she wrote alongside the pic. Miley, who rose to fame as a the star of the Disney .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/757502/miley-cyrus-has-lunch-with-liam-hemsworth-s-sister-in-law-elsa-pataky');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016317/rs_634x847-160417122429-634-elsa-pataky-miley-cyrus-friends-instagram-041616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus, Elsa Pataky, Friends");
+	var imageCaption = encodeURIComponent("Miley Cyrus, Elsa Pataky, Friends");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Miley Cyrus recently had a girls' lunch with one of Liam Hemsworth's family members.The 23-year-old pop star joined several friends and Elsa Pataky, wife of the 26-year-old's brother and fellow actor Chris Hemsworth, 32, at Soho House West Hollywood. Elsa, 39, posted a photo of the group on her Instagram page Saturday."True friends are never apart, maybe in distance but never in heart! #girlslunch #la #bestmoments #loveyougirls #missyou @gisellamarengo @martamilans @mileycyrus #michele #nora," she wrote alongside the pic.Miley, who rose to fame as a the star of the Disney Channel's Hannah Montana, sports high-waisted, painted Mickey Mouse jeans, a purple and black striped cropped t-shirt and white sneakers and does her signature pose—she sticks out her tongue.
+
+After breaking off an engagement in September 2013, Miley and Liam rekindled their romance earlier this year. In January, Miley and Liam were spotted partying with Chris and Elsa at the Falls Music Festival in Byron Bay and were seen "cuddling and kissing," sparking reconciliation rumors. Sources later told E! News in January the two had gotten re-engaged. Over the past few months, Miley has been seen wearing her engagement ring.The Australian outlet TV Week recently quoted Liam as saying weeks ago, "I am not engaged." The Australian actor and Miley and their reps have not commented. The two have not talked about their relationship since they were first spotted together again and are rarely photographed with each other in public.Miley and Liam were last photographed together on April 8, leaving a West Hollywood restaurant together with a group. They were last spotted together last Tuesday, at the premiere of Chris' newest movie, The Huntsman: Winter's War.
+/n

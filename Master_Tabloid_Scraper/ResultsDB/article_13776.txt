@@ -1,0 +1,97 @@
+'I've Seen These Things Before': 48 Hours Traces the Hunt for a Doctor Turned Revenge Serial Killer
+/n
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-32549c0d03670c8aaf072ceb0c48f25f-59a528ef8e01f');
+				var iframe = document.getElementById('wpcom-iframe-32549c0d03670c8aaf072ceb0c48f25f-59a528ef8e01f');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-32549c0d03670c8aaf072ceb0c48f25f-59a528ef8e01f'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+It was a case that shocked two quiet neighborhoods in Omaha, Nebraska, five years apart.
+On March 13, 2008, 11-year-old Thomas Hunter was found stabbed to death in his family’s home, his dead body discovered near another: that of the family’s house-cleaner, Shirlee Sherman.
+The killer left the same grisly signature on both victims: a knife stuck in the right side of their necks.
+The case went cold for five years until Omaha police discovered the bodies of Dr. Roger Brumback and his wife, Mary, both 65, in their home on May 14, 2013. Both had suffered extreme violence.
+He was found in the home’s entrance, shot three times and stabbed six times in the neck. She was discovered nearby in the living room, stabbed more than 20 times in the neck.
+ 
+“[We] had a real definitive moment after we walked through that house: I’ve seen these things before,” Omaha police detective Derek Mois recalls to CBS News correspondent Jim Axelrod in a preview of Saturday’s 48 Hours: Resident Evil, which focuses on the Garcia case.
+Clockwise from top left: Shirlee Sherman, Thomas Hunter, Roger Brumback and Mary Brumback.Courtesy of Douglas County Attorney
+For Mois and police Sgt. Scott Warner, the attack on the Brumbacks was chillingly similar to the 2008 double murders.
+“Specifically,” Mois says in the preview clip, “with the wounds to the right side of the neck.”
+“The mindset at that point was: There’s a connection here,” Warner explains.
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+They were right. Investigators learned that Thomas’ father — Dr. William Hunter, a prominent doctor and director for the Department of Pathology at Omaha’s Creighton University — had worked with Dr. Brumback, former chair of Creighton’s Department of Pathology.
+The trail soon led to the hospital and to a disgruntled former medical resident: Anthony Garcia.
+Anthony Garcia in court in 2014.AP Photo/Nati Harnik
+Eventually, authorities came to believe the killings were fueled by Garcia’s long-simmering rage after Drs. Brumback and Hunter fired him from Creighton University in 2001, after he botched an autopsy and attempted to sabotage a fellow resident who was taking a “high-stakes” exam.
+The two men later wrote letters that kept Garcia from getting medical licenses in different states and acceptance to other residency programs.
+Weeks after the Brumbacks were killed, Garcia was charged with four counts of first-degree murder. He was convicted in October.
+How could Garcia, a man who took an oath to help people, be a killer? His family still grapples with that reality.
+“I don’t know,” Garcia’s mother, Estella Garcia, told CBS in her only interview. “If he did [it], it’s a totally different person than we’re talking about.”
+48 Hours airs Saturday (10 p.m. ET) on CBS.
+/n

@@ -1,0 +1,89 @@
+Awkward! Taylor Swift To Run Into Katy Perry & Ex Calvin Harris At The MTV VMAs/n
+
+					var next_post_url = "http://radaronline.com/photos/spencer-pratt-alex-jones-beach-hawaiian-vacation/";
+					var prev_post_url = "http://radaronline.com/photos/alessandra-ambrosio-nude-ribs-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-23T17:45:34+00:00","caption":"The MTV Video Music Awards is on August 27 and RadarOnline.com can exclusively reveal that Taylor Swift may wish she had stayed at home by the time it\u2019s all over! A sneak peek inside the venue shows the pop singer is going to have to come face-to-face with her ex-boyfriend Calvin Harris \u2014 and her arch-nemesis, Katy Perry. Find out where other stars will be by clicking through Radar\u2019s gallery.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:35+00:00","caption":"Swift was already bracing for a run-in with Perry, who will be hosting and performing at the event in California.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:36+00:00","caption":"Now Swift will also have to worry about being in the same room with her ex-boyfriend. Harris is up for Best Dance Song for his hit \u201cMy Way\u201d and for Best Collaboration for \u201cFeels,\u201d featuring Pharrell Williams, Katy Perry and Big Sean.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:36+00:00","caption":"Swift\u2019s appearance comes on the heels of her announcement she\u2019s releasing a new album called \u201cReputation\u201d in November.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:37+00:00","caption":"The event will be star-studded. Pink and Kendrick Lamar will be seated next to each other.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:38+00:00","caption":"Harris will be grouped with other big names, including Shawn Mendes and Logic.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:39+00:00","caption":"Olivia Munn will be joining Hailey Baldwin and others.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:40+00:00","caption":"Miley Cyrus will be seated right next to her little sister, Noah.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T17:45:41+00:00","caption":"\n\nWill you be watching the MTV VMAs on Sunday night? Who are you most looking forward to seeing? Weigh in with your thoughts in the comments below.\n\n&nbsp;\n\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/taylor-swift-run-in-katy-perry-calvin-harris-mtv-vma-01.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Awkward! Taylor Swift To Run Into Katy Perry & Ex Calvin Harris At The MTV VMAs
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9The MTV Video Music Awards is on August 27 and RadarOnline.com can exclusively reveal that Taylor Swift may wish she had stayed at home by the time it’s all over! A sneak peek inside the venue shows the pop singer is going to have to come face-to-face with her ex-boyfriend Calvin Harris — and her arch-nemesis, Katy Perry. Find out where other stars will be by clicking through Radar’s gallery.Photo credit: Coleman-Rayner2 of 9Swift was already bracing for a run-in with Perry, who will be hosting and performing at the event in California.Photo credit: Getty Images3 of 9Now Swift will also have to worry about being in the same room with her ex-boyfriend. Harris is up for Best Dance Song for his hit “My Way” and for Best Collaboration for “Feels,” featuring Pharrell Williams, Katy Perry and Big Sean.Photo credit: Coleman-Rayner4 of 9Swift’s appearance comes on the heels of her announcement she’s releasing a new album called “Reputation” in November.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9The event will be star-studded. Pink and Kendrick Lamar will be seated next to each other.Photo credit: Coleman-Rayner6 of 9Harris will be grouped with other big names, including Shawn Mendes and Logic.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Olivia Munn will be joining Hailey Baldwin and others.Photo credit: Coleman-Rayner8 of 9Miley Cyrus will be seated right next to her little sister, Noah.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9
+Will you be watching the MTV VMAs on Sunday night? Who are you most looking forward to seeing? Weigh in with your thoughts in the comments below.
+
+ 
+
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Coleman-Rayner 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+The MTV Video Music Awards is on August 27 and RadarOnline.com can exclusively reveal that Taylor Swift may wish she had stayed at home by the time it’s all over! A sneak peek inside the venue shows the pop singer is going to have to come face-to-face with her ex-boyfriend Calvin Harris — and her arch-nemesis, Katy Perry. Find out where other stars will be by clicking through Radar’s gallery.Photo credit: Coleman-RaynerSwift was already bracing for a run-in with Perry, who will be hosting and performing at the event in California.Photo credit: Getty ImagesNow Swift will also have to worry about being in the same room with her ex-boyfriend. Harris is up for Best Dance Song for his hit “My Way” and for Best Collaboration for “Feels,” featuring Pharrell Williams, Katy Perry and Big Sean.Photo credit: Coleman-RaynerSwift’s appearance comes on the heels of her announcement she’s releasing a new album called “Reputation” in November.Photo credit: Coleman-RaynerThe event will be star-studded. Pink and Kendrick Lamar will be seated next to each other.Photo credit: Coleman-RaynerHarris will be grouped with other big names, including Shawn Mendes and Logic.Photo credit: Coleman-RaynerOlivia Munn will be joining Hailey Baldwin and others.Photo credit: Coleman-RaynerMiley Cyrus will be seated right next to her little sister, Noah.Photo credit: Coleman-Rayner
+Will you be watching the MTV VMAs on Sunday night? Who are you most looking forward to seeing? Weigh in with your thoughts in the comments below.
+
+ 
+
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Coleman-Rayner 
+
+
+
+
+
+
+
+
+
+/n

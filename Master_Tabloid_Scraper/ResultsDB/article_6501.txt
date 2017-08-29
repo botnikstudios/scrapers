@@ -1,0 +1,81 @@
+Cellulite Alert! Emily Blunt & John Krasinski Strip Down On Anniversary Getaway/n
+
+					var next_post_url = "http://radaronline.com/photos/scott-disick-kids-custody-penelope-sushi-date-pics/";
+					var prev_post_url = "http://radaronline.com/photos/james-comey-testimony-former-fbi-director-revealing-remarks-senate/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-08T12:55:55+00:00","caption":"John Krazinski and Emily Blunt are revisiting their wedding territory! The couple jetted off to Italy this week, where they tied the knot in 2010, to celebrate their seventh wedding anniversary \u2014 see the photos!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:55:56+00:00","caption":"For their romantic excursion, Blunt wasn't afraid to show off her assets \u2014 or her cellulite!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:55:57+00:00","caption":"The couple was also spotted on PDA-filled walk in town.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:55:58+00:00","caption":"The pair, who share daughters Hazel, 3, and Violet, 1, together, seemed to be enjoying themselves on the sunny vacation.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:56:01+00:00","caption":"Later, they showed off their beach bodies on a yacht, engaging in a light make out session. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:55:59+00:00","caption":"In an interview with Entertainment Tonight last year, Blunt gushed over her \"perfect\" hubby.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:56:00+00:00","caption":"\"He is my perfect man. You know, he is funny and warm and bright and confident and a sort of emboldening person to be around,\u201d she said. ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:56:03+00:00","caption":"\"[He will] throw Hazel on the back of a bike and take off somewhere and go on some crazy adventure,\" she added of Krasinski as a doting dad. \"He is so hands-on and so committed.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-08T12:56:04+00:00","caption":"What do you think of the couple's romantic anniversary getaway? Let us know in the comments below!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/emily-blunt-bikini-cellulite-john-krasinski-italy-01.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Cellulite Alert! Emily Blunt & John Krasinski Strip Down On Anniversary Getaway
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9John Krazinski and Emily Blunt are revisiting their wedding territory! The couple jetted off to Italy this week, where they tied the knot in 2010, to celebrate their seventh wedding anniversary — see the photos!Photo credit: BACKGRID2 of 9For their romantic excursion, Blunt wasn't afraid to show off her assets — or her cellulite!Photo credit: BACKGRID3 of 9The couple was also spotted on PDA-filled walk in town.Photo credit: BACKGRID4 of 9The pair, who share daughters Hazel, 3, and Violet, 1, together, seemed to be enjoying themselves on the sunny vacation.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Later, they showed off their beach bodies on a yacht, engaging in a light make out session. Photo credit: BACKGRID6 of 9In an interview with Entertainment Tonight last year, Blunt gushed over her "perfect" hubby.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9"He is my perfect man. You know, he is funny and warm and bright and confident and a sort of emboldening person to be around,” she said. Photo credit: BACKGRID8 of 9"[He will] throw Hazel on the back of a bike and take off somewhere and go on some crazy adventure," she added of Krasinski as a doting dad. "He is so hands-on and so committed."Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9What do you think of the couple's romantic anniversary getaway? Let us know in the comments below!
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+John Krazinski and Emily Blunt are revisiting their wedding territory! The couple jetted off to Italy this week, where they tied the knot in 2010, to celebrate their seventh wedding anniversary — see the photos!Photo credit: BACKGRIDFor their romantic excursion, Blunt wasn't afraid to show off her assets — or her cellulite!Photo credit: BACKGRIDThe couple was also spotted on PDA-filled walk in town.Photo credit: BACKGRIDThe pair, who share daughters Hazel, 3, and Violet, 1, together, seemed to be enjoying themselves on the sunny vacation.Photo credit: BACKGRIDLater, they showed off their beach bodies on a yacht, engaging in a light make out session. Photo credit: BACKGRIDIn an interview with Entertainment Tonight last year, Blunt gushed over her "perfect" hubby.Photo credit: BACKGRID"He is my perfect man. You know, he is funny and warm and bright and confident and a sort of emboldening person to be around,” she said. Photo credit: BACKGRID"[He will] throw Hazel on the back of a bike and take off somewhere and go on some crazy adventure," she added of Krasinski as a doting dad. "He is so hands-on and so committed."Photo credit: BACKGRIDWhat do you think of the couple's romantic anniversary getaway? Let us know in the comments below!
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

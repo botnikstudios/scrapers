@@ -1,0 +1,50 @@
+Caroline Wozniacki Strips Naked for ESPN the Magazine's Body Issue: ''I Look Good in My Own Way'' Caroline Wozniacki is one of the athletes who's stripping down for ESPN the Magazine's 2017 Body Issue. The .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/863628/caroline-wozniacki-strips-naked-for-espn-the-magazine-s-body-issue-i-look-good-in-my-own-way');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017527/rs_634x761-170627121424-634.Caroline.Wozniacki-Kf.62717.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caroline Wozniacki, ESPN The Magazine, The Body Issue");
+	var imageCaption = encodeURIComponent("Caroline Wozniacki, ESPN The Magazine, The Body Issue");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Eric Lutzens for ESPN
+
+Caroline Wozniacki is one of the athletes who's stripping down for ESPN the Magazine's 2017 Body Issue.The 26-year-old Danish tennis star is featured on one of the covers, jumping into the air with her tennis racket as she reveals her toned abs, arms and legs.She has one of the best bodies in the world—one that's helped her win championships—but even she has to shut out the negative thoughts in her head when it comes to her appearance."I've realized that I can't spend time stressing about something I don't have and just embrace what I do have," she told the publication. "It's so in to have curves now. It's in to be looking healthy. If I don't look like a supermodel on the runway, that's OK because I look good in my own way."
+
+She recalled, "I was always really skinny until I hit puberty. As a girl coming into a woman, that time is always a little bit frightening. At one point I was like, 'Are they changing the clothes sizes or am I getting bigger?'...I think being in the public eye and getting judged for everything you do and however you look, I think that helped me as well. Just saying, 'You know what? People will have an opinion. Some people will love you; some people will not.'"In fact, she rarely steps on the scale.
+
+"When I stop playing, I'm not going to obsess so much about my weight," she said. "It's going to be more about a healthy lifestyle. It's more about how I feel."Still, fitness and working out make her feel good...at least when she's not overdoing it."Growing up, I would really just kill it in the gym until I couldn't stand anymore," Wozniacki admitted. "The older I've gotten, I'm so much better at listening to my body. If you push yourself too much, it's going to be worse."But that doesn't mean she's stopped pushing herself all together. In fact, one of the most impressive goals she's ever reached was running the New York City Marathon in under 3.5 hours.
+
+"It was on my bucket list," she said. "Until Mile 21, I was fine. This is easy, I'm going to run another one. But at Mile 21, I completely hit the wall. I saw a milkshake place on the right and was like, 'Can we just stop and have a milkshake?' And then [my two pacers] just started talking about milkshakes, and because they kept talking to me, it pushed me through that mile, mile and a half where I was struggling. It was the toughest thing I've ever done physically in my life."She added, "I have the medal at home. That's the only trophy I have out in my house. My parents have all my tennis trophies. I just have that marathon medal."
+
+Other than running, Wozniacki enjoys boxing and swimming, and she says the only sport she's really bad at is basketball."I don't have the right technique," she admitted. "It looks awful." LOL!Read her full interview with ESPN here.
+/n

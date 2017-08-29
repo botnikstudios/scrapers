@@ -1,0 +1,88 @@
+Nicole Curtis Rallies Fans to Support a Friend's Daughter Battling Cancer: 'This Is a 9-Year-Old That Should be Playing and Laughing'
+/n
+Known for saving old houses, HGTV’s Nicole Curtis is now focusing on saving a young life.
+The Rehab Addict star has been speaking out on social media about a 9-year-old girl named Tessa who’s suffering from stage 4 Neuroblastoma, a type of cancer that occurs most often in infants and young children, according to BeatNB.org.
+“We are asking for prayers and for support for our friends because this is the hardest thing we’ve ever endured,” Curtis tells PEOPLE of her passion for the cause. “No child should have to suffer the likes of cancer.”
+The TV host and author was first introduced to Tessa through the girl’s father, Bobby, who is now Curtis’ lead builder. Hearing about his daughter’s illness, Curtis, a mother of two, explains, was incredibly difficult: “I kept it together and walked until I was out of sight and then ran to my truck,” she writes in a post on Facebook. “I cried and cried. That moment still hits me like a ton of bricks.”
+RELATED: Property Brothers‘ Drew and Jonathan Scott on Filming in Louisiana During Devastating Floods: ‘It Was Tragic’
+
+ 
+Courtesy Nicole Curtis
+Eager to help, Curtis offered to give the profits from the sale of a home she’d renovated to Tessa’s family. She met Tessa for the first time at the open house for the property, which she says had record attendance of over 4,000 people. Later, the family — also including Tessa’s mom Karin, her sister Marley, 3, and her 6-month-old brother, Jay — received a home makeover from Curtis, which appeared on two episodes of her HGTV show. She and others involved in Tessa’s efforts also came together to organize a community yard sale, a T-shirt drive and a #welovetessa hashtag campaign, as well as a crowd funding effort to raise funds and awareness for the family.
+Curtis isn’t the only celebrity to stand behind Tessa, either. On the “Team Tessa” Facebook page, a post featuring a screenshot of the young girl FaceTiming with Katy Perry thanks the pop star for, “making Tessa’s dream come true.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-b51c0b0ec4212b35eb485820401531c5-59a578ff0243e');
+				var iframe = document.getElementById('wpcom-iframe-b51c0b0ec4212b35eb485820401531c5-59a578ff0243e');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-b51c0b0ec4212b35eb485820401531c5-59a578ff0243e'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+RELATED: Tarek El Moussa Raises Money to Help Flip or Flop Contractor Who Has Cancer
+“Keep talking about pediatric cancer, because we need more trials for cures for these babies,” Curtis wrote in a recent social media post. “This is a 9yr old that should be focused on playing and laughing vs. G tubes and scans.” Of the photo of Curtis with Tessa and her younger brother, she says, “This is what Joy looks like.”
+/n

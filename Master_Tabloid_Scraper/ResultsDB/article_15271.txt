@@ -1,0 +1,48 @@
+Nina Dobrev and Glen Powell Are Dating So what all but confirmed Nina and Glen are more than just "good friends," as a rep previously told E! News? Over the weekend, the couple couldn't help but indulge in a little photo booth.../n
+Rumors no more! Nina Dobrev and Glen Powell are officially an item. E! News has learned The Vampire Diaries star is dating the Scream Queens actor after months (and months) of romance speculation."Nina and Glen are dating. They were friends and it turned into something more a little while ago," a source tells E! News. "They like each other and are seeing where it goes. Nina was just in a serious relationship so she's being careful, but Glen is the best to her and treats her so well."After spending last year's holiday season with each other, plus all those oh-so-telling social media posts and a super coupley moment captured at Dobrev's La La Land-themed birthday bash, the cat is finally out of the bag. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866093/nina-dobrev-and-glen-powell-are-dating');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017025/rs_634x1024-170125183642-634.Nina-Dobrev-Glen-Powell-Beverly-Hills.kg.012517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nina Dobrev, Glen Powell");
+	var imageCaption = encodeURIComponent("Nina Dobrev, Glen Powell");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images for InStyle
+
+So what all but confirmed Nina and Glen are more than just "good friends," as a rep previously told E! News? Over the weekend, the couple couldn't help but indulge in a little photo booth PDA at Julianne Hough and Brooks Laich's wedding in Idaho. A couple of snapshots that made their way to Twitter feature the pair flashing their pearly whites and sharing a silly kiss. 
+
+"They laugh all the time!" the source adds. "They are enjoying each other's company and the summer together so far. Both Glen and Nina are relationship kind of people."Back in January, multiple sources told E! News Dobrev and Powell were dating, with one insider explaining what makes them work so well together. "They have a similar group of friends and have been seeing each other on the low for a little while," one source shared. "Glen really likes Nina. She is completely his type of gal. They know and have met each other's families. Glen is a very family oriented guy and Nina loves that about him.""All of their friends like them together," a separate insider told us. "They both feel pretty comfortable around each other."The actress, 28, last dated Austin Stowell. The former couple ended things in early 2016 after less than a year of dating. Nina and Glen have yet to comment on the nature of their relationship. 
+
+People was first to report the news. 
+/n

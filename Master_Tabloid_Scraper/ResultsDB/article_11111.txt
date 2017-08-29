@@ -1,0 +1,48 @@
+Ruby Rose Is the New Face of Ralph Lauren's Denim & Supply If you were hoping to see more of Ruby Rose's face, you're in luck. The gorgeous Aussie actress has been named the face of Ralph Lauren's Denim & Supply l.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/728496/ruby-rose-is-the-new-face-of-ralph-lauren-s-denim-supply');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201605/rs_634x1024-160105202516-634-ruby-rose-mv-1516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ruby Rose");
+	var imageCaption = encodeURIComponent("Ruby Rose");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ralph Lauren 
+
+If you were hoping to see more of Ruby Rose's face, you're in luck.The gorgeous Aussie actress has been named the face of Ralph Lauren's Denim & Supply line for the brand's spring collection.In the series of photos, Rose lends her mesmerizing face while rocking some denim on denim (see, it totally works) which will be unveiled in a four-part series on Denim & Supply's Instagram page, @DenimandSupplyRL.The artistic shots done by photographer Mark Seliger at the brand's warehouse, also feature model (and Justin Bieber's new girlfriend?) Hailey Baldwin and local artist Edward Granger, and show off the label's upcoming collection, as well as "create a cinematic social experience complimented by a global digital campaign."
+
+
+
+Ralph Lauren
+
+"I feel like my style is very much androgynous. It's rock, chic, like casual wear, but then on the flip side to that, being that it's so androgynous, it'll either be skinny jeans and a leather jacket, or if I'm doing a red carpet or event, I'll completely flip that and be wearing a suit or a dress," she told PeopleStyle, who first shared the photos."But I have a very eclectic style—for me, it's about how I feel in that moment and what's going to make me comfortable and happy and bring out whatever I'm feeling internally and externally. Because fashion essentially is art, and as an artist and someone who is also a musician and an artist in regards to drawing and painting, anything I can do that expresses my feelings is something I'm really drawn to. So [my style] changes a lot, but generally it is on the rocky, androgynous, chic side."
+/n

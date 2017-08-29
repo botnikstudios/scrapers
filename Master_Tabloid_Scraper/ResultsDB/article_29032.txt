@@ -1,0 +1,43 @@
+stepped onto the Oscars red carpet together. While the Whiplash star opted for a classic Prada suit and bow tie, Teller's leading lady dazzled in a white Lorena Sarbu gown. The Hollywood couple, who have many candid (and romantic) pics .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/628242/miles-teller-grabs-everyone-s-attention-when-he-brings-beautiful-girlfriend-keleigh-sperry-to-the-oscars');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015122/rs_634x1024-150222165649-634.Miles-Teller-Oscars.jl.022215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miles Teller, Keleigh Sperry, 2015 Academy Awards, Couples");
+	var imageCaption = encodeURIComponent("Miles Teller, Keleigh Sperry, 2015 Academy Awards, Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+And the award for most beautiful couple could just go to this young Hollywood twosome.Miles Teller and girlfriend Keleigh Sperry turned our heads for all the right reasons Sunday night when they stepped onto the Oscars red carpet together.While the Whiplash star opted for a classic Prada suit and bow tie, Teller's leading lady dazzled in a white Lorena Sarbu gown.The Hollywood couple, who have many candid (and romantic) pics on Instagram, have stayed under the radar. However, we learned on Live from the Red Carpet that Sperry's dad totally approves of the relationship.Romance aside, Teller is thrilled to be attending this year's awards show for his latest movie nominated for Best Picture.
+/n

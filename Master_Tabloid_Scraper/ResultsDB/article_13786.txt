@@ -1,0 +1,48 @@
+Eksterowicz Status: Buerge proposed to Eksterowicz at the end of season two, but they broke up five weeks after the finale aired. ABC Bob Guiney & Estella Gardinier Status: Guiney offered Gardinier a promise ring in lieu of an engagement.../n
+Bachelor Nation is nursing another wound. The Bachelor's Nick Viall and Vanessa Grimaldi announced they were ending their engagement after five months in an exclusive joint statement to E! News on Friday. "It's with a great amount of heartbreak for the both us as we have decided to end our engagement," the couple, whose love story played out on the most recent season of The Bachelor, said. "We gave this relationship our all and we are saddened that we did not get the fairytale ending we hoped for. We will continue to be there for each other no matter what. This hasn't been an easy decision, however, as we part ways, we do so with lots of love and admiration for each other."Sadly, after 21 seasons of The Bachelor, 13 seasons of The Bachelorette and a few trips to Mexico for Bachelor in Paradise, Nick and Vanessa are not the franchise's first couple to call it quits over the years. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875869/nick-viall-and-vanessa-grimaldi-end-their-engagement-so-which-bachelor-nation-couples-are-still-together');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017317/rs_634x1024-170417172933-634-nick-viall-mv-51717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nick Viall, Vanessa Grimaldi, Coachella 2017 ");
+	var imageCaption = encodeURIComponent("Nick Viall, Vanessa Grimaldi, Coachella 2017 ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Joshua Blanchard for Getty for boohoo.com
+
+In fact, every Bachelor since Sean Lowe in 2013 has broken up with their final pick, including Ben Higgins, who ended his engagement to Lauren Bushnell after starring in their own Freeform spinoff. Is there a curse plaguing this side of the franchise?!While The Bachelorette has a higher success rate, thanks to couples like Trista and Ryan Sutter, and Desiree Hartsock and Chris Siegfried, it's still seen its fair share of breakups, too. And funnily enough, Bachelor in Paradise, the spinoff that finds Bachelor Nation alumni trying to find love among each other, has seen some success stories, including Carly Waddell and Evan Bass, whose nuptials recently aired during the fourth season. So which couples have been able to stand the test of time once cameras stopped rolling? 
+
+Are you surprised by Nick and Vanessa's split? Which Bachelor Nation breakup shocked you the most? 
+
+Sound off in the comments or tweet me your thoughts @tbrick2. 
+/n

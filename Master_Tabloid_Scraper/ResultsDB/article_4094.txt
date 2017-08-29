@@ -1,0 +1,44 @@
+EXCLUSIVE! Olivia Is Not Having Sally Langston's Nonsense in This Scandal Sneak Peek "I'm pulling Mellie and auctioning off a one-hour exclusive interview with her to your competition, and whichever network gives me the most favorable terms gets to a.../n
+Hello, Gladiators. Class is in session. Your subject? How to Be a Boss 101, taught by Professor Olivia Pope, Esq. every Thursday on Scandal. Today's lesson: How to Be a Boss, TV News Edition as exemplified in E! News' exclusive sneak peek of tomorrow's episode.Olivia (Kerry Washington) is negotiating terms of a televised debate between her candidate, Mellie (Bellamy Young) and her newly announced competitor for the Republican nomination, Hollis Doyle (Gregg Henry)—on Sally Langston's show.Honestly, Olivia's not asking for much: Just a light and a buzzer to help each candidate time their response. Otherwise, it's clear Sally will let Hollis have an edge, biasing the whole thing before it starts. Unfortunately, Sally's producer is not having it. Time for a good old fashioned Olivia Pope smackdown!
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/750876/olivia-is-not-having-sally-langston-s-nonsense-in-this-scandal-sneak-peek');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016222/rs_634x1024-160322191234-634-scandal.jb.32116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Scandal");
+	var imageCaption = encodeURIComponent("Scandal");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC
+
+"I'm pulling Mellie and auctioning off a one-hour exclusive interview with her to your competition, and whichever network gives me the most favorable terms gets to air that interview live, go head-to-head with your debate, and spend the hour slamming BNC's blatant bias while sucking half your ratings," she says. "Good luck explaining that to your advertisers!"Bless you, Olivia, and your ability to render normally fully functioning adults speechless.Elsewhere in the episode, the Pope & Associates team will learn some valuable new information about Jake's new lady love, and David Rosen will try to get some advice about his love triangle with Liz North and Susan Ross.Press play on the video above to watch Professor Pope in action. Scandal airs Thursdays at 9 p.m. on ABC.
+/n

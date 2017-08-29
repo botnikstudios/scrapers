@@ -1,0 +1,44 @@
+Demi Lovato grava com Diane Warren e mostra trecho da nova música Vem ver!/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/822911/demi-lovato-grava-com-diane-warren-e-mostra-trecho-da-nova-musica');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017018/rs_560x697-170118112509-Captura_de_Tela_2017-01-18_as_17.23.25.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Demi Lovato, Diane Warren ");
+	var imageCaption = encodeURIComponent("Demi Lovato, Diane Warren ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Vem ver!
+
+Demi Lovato já começou o ano com tudo! Demi, que terá um musical da Broadway com seus hits, voltou aos estúdios de gravação e mostrou na última terça-feira, 17, o que seria sua nova música. Como não amar?DEMI LOVATO REVELA COMO REAGIU AO SABER QUE FOI INDICADA AO GRAMMYA cantora foi aos estúdios com a compositora Diane Warren, que fez questão de publicar uma foto com a dona do hit Confident. "Primeira sessão no novo estúdio! Demi Lovato mostrando como é feito! #Smashes", escreveu Diane.
+/n

@@ -1,0 +1,52 @@
+Gianni Versace's Lover Calls Ricky Martin's American Crime Story Portrayal "Ridiculous" Antonio D'Amico discovered Gianni Versace's lifeless body in a pool of blood on the front steps of their home on July 15, 1.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870293/gianni-versace-s-lover-calls-ricky-martin-american-crime-story-portrayal-ridiculous');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201748/rs_684x1024-170508143614-634.Edgar-Ramirez-Ricky-Martin-Miami.ms.050817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Edgar Ramirez, Ricky Martin");
+	var imageCaption = encodeURIComponent("Edgar Ramirez, Ricky Martin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ AM/splashnews
+
+Antonio D'Amico discovered Gianni Versace's lifeless body in a pool of blood on the front steps of their home on July 15, 1997. Twenty years later, the memory still haunts him—and he remembers every vivid, tragic detail.The next installment of Ryan Murphy's award-winning American Crime Story anthology will focus on the famed fashion designer's murder, but D'Amico, Versace's partner of 15 years, insists that the pivotal scene was "fictionalized."
+
+"The picture of Ricky Martin holding the body in his arms is ridiculous," D'Amico tells The Observer. "Maybe it's the director's poetic license, but that is not how I reacted." As the series has not premiered, D'Amico is referring to an on-set paparazzi photo that showed Martin covered in blood while cradling Versace (Édgar Rarmirez)'s body.D'Amico says that in the moment he "felt as if [his] blood had turned to ice." He also recalls that he saw "Gianni lying on the steps, with blood around him. At that point, everything went dark. I was pulled away; I didn't see any more."
+
+He's become frustrated in recent years with new accounts surfacing through television and literature. "There has been so much written and said about the murder, and thousands of suppositions, but not a trace of reality," the former Versace Sport designer says.On that day in July, Versace was shot dead in front of his Miami Beach home by Andrew Cunanan, a 27-year-old man who had killed at least four other people within a three-month period. It was believed to be a crime inspired by jealousy; Versace was everything Cunanan wanted to be.
+
+During the summer of 1997, a man-hunt ensued to find the killer until the police located his body in a Miami houseboat. It was reported that he used the same gun to kill himself that he had used on Versace.Another thing American Crime Story: The Assassination of Gianni Versace gets wrong? The way Versace wanted his sexuality to be perceived. D'Amico says that despite reports that the series will depict Versace trying to hide the fact that he was gay, the designer was very open.
+
+"We lived like a natural couple; there was never a problem," he says. "It was the right moment for him to come out in public, but everyone involved in our world knew. He never tried to hide who he was."Although he wasn't consulted and he has no desire to watch the season, he says he would like to sit down and have a chat with Martin to tell him about the "small things" about their relationship. One of those small things was that  "Gianni was so ordered and focused at work, but in his private life, everything was disorganized."
+
+D'Amico mentions that he wants to stop revisiting the story and wants others to let the tragedy live in the past. "Unfortunately Gianni died, unfortunately this guy killed him, unfortunately it happened," he says. "But now, let it drop."
+/n

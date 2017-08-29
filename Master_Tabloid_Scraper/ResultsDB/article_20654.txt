@@ -1,0 +1,48 @@
+in many Scooby-Doo cartoons.  "To my Casey, a class act, true gentleman & generous co-star- the legend to my shaggy-forever in my heart... love your velma. #RIPCaseyKasem," tweeted actress Mindy Cohn, also known for playing Nat.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/551273/casey-kasem-dead-celebrities-including-scooby-doo-star-mourn-radio-icon-on-twitter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014515/rs_634x1024-140615120914-634.Casey-Casem-Scooby-Doo.jl.061414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Casey Kasem, Scooby Doo");
+	var imageCaption = encodeURIComponent("Casey Kasem, Scooby Doo");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jean-Paul Aussenard/WireImage
+
+Scores of celebrities, including a Scooby-Doo star, voiced their sympathies over the death of radio icon and voice-over artist Casey Kasem, who died at age 82 on Sunday, June 15, after battling a long illness.The former voice of American Top 40 suffered from Lewy body dementia, a degenerative disease similar to Parkinson's. Most of his family, who had been involved in a legal dispute over his health care, were by his side when he passed away.Kasem was also known for providing the voice of Shaggy ("Zoinks!") in many Scooby-Doo cartoons. "To my Casey, a class act, true gentleman & generous co-star- the legend to my shaggy-forever in my heart... love your velma. #RIPCaseyKasem," tweeted actress Mindy Cohn, also known for playing Natalie Green on the 1980s series The Facts of Life and Dylan's mom on The Secret Life of the American Teenager.
+
+In the 1990s, Kasem made two memorable appearances on the hit teen series Saved By the Bell. Dennis Haskins, who played principal Mr. Belding on Saved By the Bell. The actor, who uses his character's name as his username, posted a throwback photo of one of Kasem's appearances on the show.
+
+E! personality Ryan Seacrest, who succeeded Kasem as host of American Top 40 in 2004, had issued a statement expressing his condolences earlier on Sunday and also shared on his Twitter page a photo of the radio legend. A special tribute to Kasem was also posted on the website of the hit radio show, which he had launched in 1970.
+
+Check out other messages about Kasem posted by celebrities, including Mark McGrath of the band Sugar Ray, Dave Coulier, who played cartoon voice-over artist Joey on the 1990s show Full House, and Carson Daly of The Voice and formerly of MTV's TRL, another hit music countdown show.
+/n

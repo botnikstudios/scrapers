@@ -1,0 +1,90 @@
+The Rogues & Renegades Of 2015 Who We Loved/n
+
+					var next_post_url = "http://radaronline.com/photos/photos-see-all-of-charlie-sheens-porn-star-girlfriends/";
+					var prev_post_url = "http://radaronline.com/photos/debra-messing-bikini-sunbathing-mexico-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2015-12-22T18:21:13+00:00","caption":"Don't tell them what to do! These 11 celebs don't go with the trends and we love them for it!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:17+00:00","caption":"Forget the haircut, Donald Trump tells it like it is. You're hired!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:22+00:00","caption":"On November 3rd, 2015 Leah Remini blew the roof off the menacing and abusive truth behind shady Scientology when her book Troublemaker: Surviving Hollywood and Scientology was released.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:27+00:00","caption":"Blake Shelton boldly followed his heart by openly dating The Voice co-star Gwen Stefani, only a few months after announcing divorce from Miranda Lambert.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:29+00:00","caption":"The Big Bang Theory's party girl, Kaley Cuoco, showed some dignity in a rare quiet Hollywood divorce from professional tennis player Ryan Sweeting.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:30+00:00","caption":"The booze and drug-ravaged Airwolf star, Jan Michael Vincent is cleaned up and soaring again with The ENQUIRER's help.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:32+00:00","caption":"The Tonight Show star, Jimmy Fallon, 41, still charms despite his appetite for booze and self-destruction.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:33+00:00","caption":"Keith Richards, the poster boy for bad living, recently turned 72 and he's still rocking!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:35+00:00","caption":"Dead Man Walking actress, Susan Sarandon, turned her Oscar role into reality when she successfully crusaded to stay a condemned man's execution!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:36+00:00","caption":"The miracle man Pope Francis beat a baby's brain cancer with a kiss!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-12-18T17:04:38+00:00","caption":"Brangelina's gender-bending nine-year-old, Shiloh Jolie-Pitt has mom's defiant persona \u2014 and dad's wardrobe!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/12\/rogues-renegades-2015-08.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+The Rogues & Renegades Of 2015 Who We Loved
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 12 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 12rogues-renegades-2015Don't tell them what to do! These 11 celebs don't go with the trends and we love them for it!Photo credit: Splash2 of 12INF – ‘Late Show with Stephen Colbert’ GuestsForget the haircut, Donald Trump tells it like it is. You're hired!Photo credit: Splash News3 of 12Leah Remini Book Signing For ‘Troublemaker: Surviving Hollywood and Scientology’On November 3rd, 2015 Leah Remini blew the roof off the menacing and abusive truth behind shady Scientology when her book Troublemaker: Surviving Hollywood and Scientology was released.Photo credit: Splash News4 of 12
+Beautiful, gross, strong, thin, fat, pretty, ugly, sexy, disgusting, flawless, woman. Thank you @annieleibovitz pic.twitter.com/kc0rIDvHVi
+— Amy Schumer (@amyschumer) November 30, 2015
+Trainwreck writer and star, Amy Schumer took aim at Khloe Kardashian while hosting SNL saying, "Khloe, she lost half her body weight. She lost a Kendall (Jenner), and we have nothing." Later she backtracked by tweeting, "Nothing but love for that family. I like idea of sending women the message to be happy in their own skin. #peace". Schumer later illustrated her body acceptance mantra in an Anne Liebowitz calendar for Vanity Fair. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 12Premiere Of Netflix’s “The Ridiculous 6” – ArrivalsBlake Shelton boldly followed his heart by openly dating The Voice co-star Gwen Stefani, only a few months after announcing divorce from Miranda Lambert.Photo credit: Splash News6 of 12Stand Up For Pits Comedy Benefit at The Improv Comedy Club.The Big Bang Theory's party girl, Kaley Cuoco, showed some dignity in a rare quiet Hollywood divorce from professional tennis player Ryan Sweeting.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 12EXCLUSIVE: ‘Airwolf’ star Jan-Michael Vincent tells how leg amputation nearly cost him his lifeThe booze and drug-ravaged Airwolf star, Jan Michael Vincent is cleaned up and soaring again with The ENQUIRER's help.Photo credit: Splash News8 of 12EXCLUSIVE: Jimmy Fallon throws a peace sign while out and about in Midtown, New York CityThe Tonight Show star, Jimmy Fallon, 41, still charms despite his appetite for booze and self-destruction.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 12Stock images of The Rolling Stones 2006- 2010Keith Richards, the poster boy for bad living, recently turned 72 and he's still rocking!Photo credit: Splash News10 of 12Los Angeles Screening Of Lifetime’s Miniseries ‘The Secret Life Of Marilyn Monroe’Dead Man Walking actress, Susan Sarandon, turned her Oscar role into reality when she successfully crusaded to stay a condemned man's execution!Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 12First hearing of Pope Francis the day after the opening of the Jubilee of MercyThe miracle man Pope Francis beat a baby's brain cancer with a kiss!Photo credit: Splash News12 of 12Premiere Of Universal Studios’ “Unbroken” – ArrivalsBrangelina's gender-bending nine-year-old, Shiloh Jolie-Pitt has mom's defiant persona — and dad's wardrobe!Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+rogues-renegades-2015Don't tell them what to do! These 11 celebs don't go with the trends and we love them for it!Photo credit: SplashINF – ‘Late Show with Stephen Colbert’ GuestsForget the haircut, Donald Trump tells it like it is. You're hired!Photo credit: Splash NewsLeah Remini Book Signing For ‘Troublemaker: Surviving Hollywood and Scientology’On November 3rd, 2015 Leah Remini blew the roof off the menacing and abusive truth behind shady Scientology when her book Troublemaker: Surviving Hollywood and Scientology was released.Photo credit: Splash NewsTrainwreck writer and star, Amy Schumer took aim at Khloe Kardashian while hosting SNL saying, "Khloe, she lost half her body weight. She lost a Kendall (Jenner), and we have nothing." Later she backtracked by tweeting, "Nothing but love for that family. I like idea of sending women the message to be happy in their own skin. #peace". Schumer later illustrated her body acceptance mantra in an Anne Liebowitz calendar for Vanity Fair.Premiere Of Netflix’s “The Ridiculous 6” – ArrivalsBlake Shelton boldly followed his heart by openly dating The Voice co-star Gwen Stefani, only a few months after announcing divorce from Miranda Lambert.Photo credit: Splash NewsStand Up For Pits Comedy Benefit at The Improv Comedy Club.The Big Bang Theory's party girl, Kaley Cuoco, showed some dignity in a rare quiet Hollywood divorce from professional tennis player Ryan Sweeting.Photo credit: Splash NewsEXCLUSIVE: ‘Airwolf’ star Jan-Michael Vincent tells how leg amputation nearly cost him his lifeThe booze and drug-ravaged Airwolf star, Jan Michael Vincent is cleaned up and soaring again with The ENQUIRER's help.Photo credit: Splash NewsEXCLUSIVE: Jimmy Fallon throws a peace sign while out and about in Midtown, New York CityThe Tonight Show star, Jimmy Fallon, 41, still charms despite his appetite for booze and self-destruction.Photo credit: Splash NewsStock images of The Rolling Stones 2006- 2010Keith Richards, the poster boy for bad living, recently turned 72 and he's still rocking!Photo credit: Splash NewsLos Angeles Screening Of Lifetime’s Miniseries ‘The Secret Life Of Marilyn Monroe’Dead Man Walking actress, Susan Sarandon, turned her Oscar role into reality when she successfully crusaded to stay a condemned man's execution!Photo credit: Splash NewsFirst hearing of Pope Francis the day after the opening of the Jubilee of MercyThe miracle man Pope Francis beat a baby's brain cancer with a kiss!Photo credit: Splash NewsPremiere Of Universal Studios’ “Unbroken” – ArrivalsBrangelina's gender-bending nine-year-old, Shiloh Jolie-Pitt has mom's defiant persona — and dad's wardrobe!Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

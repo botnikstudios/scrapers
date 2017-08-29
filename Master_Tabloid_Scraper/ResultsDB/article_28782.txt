@@ -1,0 +1,78 @@
+See The Fab And Drab From This Week’s Celebrity Fashion Selection/n
+Sometimes even stylists can’t work enough magic to fix these fashion faux pas! But luckily there are a few who are glam enough to balance out the other red carpet disasters.
+
+					var next_post_url = "http://radaronline.com/photos/actresses-ugly-roles-characters-photos/";
+					var prev_post_url = "http://radaronline.com/photos/billy-joel-new-york-house-sale-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2014-08-13T04:56:57+00:00","caption":"Sometimes even stylists can\u2019t work enough magic to fix these fashion faux pas! But luckily there are a few who are glam enough to balance out the other red carpet disasters.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/fashion.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:24+00:00","caption":" Christina Hendricks \u2013 Yipes, stripes! A girl with hips should know that stripes aren\u2019t her friend \u2013 and these colors don\u2019t flatter the \u201cMad Men\u201d redhead.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_7.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:24+00:00","caption":"Bella Thorne \u2013 A retro T-shirt + a super short micro-mini = tacky. Even on a cutie like Bella, this looks tarty.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:24+00:00","caption":" Jordana Brewster \u2013 What a croc! The dishy \u201cDallas\u201d star should run for her life before she\u2019s swallowed up by this crocodile print.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:25+00:00","caption":"  Nina Dobrev \u2013 Fashion bites! Nina looks like she\u2019s spoofing her TV gig on \u201cThe Vampire Diaries\u201d with a toothy top.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:25+00:00","caption":"Vivica A. Fox \u2013 Fifty and fabulous! The \u201cSharknado 2\u201d star celebrates the big 5-0 in a clingy iridescent number that fits her like a second skin.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:25+00:00","caption":" Helen Mirren \u2013 Helen dazzled in an amazing \u201850s-style lace frock over a pleated skirt at the Big Apple premiere of her film, \u201cThe Hundred-Foot Journey.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_8.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:26+00:00","caption":" Duchess of Cambridge \u2013 Always appropriate, Kate opts for a conservative L.K. Bennett dress with matching accessories for a World War I memorial in London.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-08-12T14:17:26+00:00","caption":"Brandi Glanville \u2013 Nothing shy about Brandi! \u201cThe Real Housewives of Beverly Hills\u201d star sizzles in a hot pink bandage dress with metallic accessories.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/08\/ne3414_fashion_2_2.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+See The Fab And Drab From This Week’s Celebrity Fashion Selection
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9fashionSometimes even stylists can’t work enough magic to fix these fashion faux pas! But luckily there are a few who are glam enough to balance out the other red carpet disasters.2 of 9Christina Hendricks Christina Hendricks – Yipes, stripes! A girl with hips should know that stripes aren’t her friend – and these colors don’t flatter the “Mad Men” redhead.Photo credit: G3 of 9Bella ThorneBella Thorne – A retro T-shirt + a super short micro-mini = tacky. Even on a cutie like Bella, this looks tarty.Photo credit: G4 of 9Jordana Brewster Jordana Brewster – What a croc! The dishy “Dallas” star should run for her life before she’s swallowed up by this crocodile print.Photo credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Nina Dobrev  Nina Dobrev – Fashion bites! Nina looks like she’s spoofing her TV gig on “The Vampire Diaries” with a toothy top.Photo credit: G6 of 9Vivica A. FoxVivica A. Fox – Fifty and fabulous! The “Sharknado 2” star celebrates the big 5-0 in a clingy iridescent number that fits her like a second skin.Photo credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Helen Mirren Helen Mirren – Helen dazzled in an amazing ‘50s-style lace frock over a pleated skirt at the Big Apple premiere of her film, “The Hundred-Foot Journey.”8 of 9Catherine, Duchess of Cambridge Duchess of Cambridge – Always appropriate, Kate opts for a conservative L.K. Bennett dress with matching accessories for a World War I memorial in London.Photo credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Brandi GlanvilleBrandi Glanville – Nothing shy about Brandi! “The Real Housewives of Beverly Hills” star sizzles in a hot pink bandage dress with metallic accessories.Photo credit: G 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+fashionSometimes even stylists can’t work enough magic to fix these fashion faux pas! But luckily there are a few who are glam enough to balance out the other red carpet disasters.Christina Hendricks Christina Hendricks – Yipes, stripes! A girl with hips should know that stripes aren’t her friend – and these colors don’t flatter the “Mad Men” redhead.Photo credit: GBella ThorneBella Thorne – A retro T-shirt + a super short micro-mini = tacky. Even on a cutie like Bella, this looks tarty.Photo credit: GJordana Brewster Jordana Brewster – What a croc! The dishy “Dallas” star should run for her life before she’s swallowed up by this crocodile print.Photo credit: GNina Dobrev  Nina Dobrev – Fashion bites! Nina looks like she’s spoofing her TV gig on “The Vampire Diaries” with a toothy top.Photo credit: GVivica A. FoxVivica A. Fox – Fifty and fabulous! The “Sharknado 2” star celebrates the big 5-0 in a clingy iridescent number that fits her like a second skin.Photo credit: GHelen Mirren Helen Mirren – Helen dazzled in an amazing ‘50s-style lace frock over a pleated skirt at the Big Apple premiere of her film, “The Hundred-Foot Journey.”Catherine, Duchess of Cambridge Duchess of Cambridge – Always appropriate, Kate opts for a conservative L.K. Bennett dress with matching accessories for a World War I memorial in London.Photo credit: GBrandi GlanvilleBrandi Glanville – Nothing shy about Brandi! “The Real Housewives of Beverly Hills” star sizzles in a hot pink bandage dress with metallic accessories.Photo credit: G 
+
+
+
+
+
+
+
+
+
+/n

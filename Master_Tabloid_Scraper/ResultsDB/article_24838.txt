@@ -1,0 +1,44 @@
+EXCLUSIVE! Hilary-Faye Feud Continues! Ran into Hilary Duff over Grammys weekend at brunch. Remember that battle of words Duff dove right into with legendary loony Faye Dunaway? And as vital as two bitches slapping each other in public can be in the .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/99242/hilary-faye-feud-continues');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090205/293.duff.hilary.dknyad.lc.020509.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hilary Duff, DKNY Ad");
+	var imageCaption = encodeURIComponent("Hilary Duff, DKNY Ad");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+DKNY
+
+Ran into Hilary Duff over Grammys weekend at brunch. Remember that battle of words Duff dove right into with legendary loony Faye Dunaway? And as vital as two bitches slapping each other in public can be in the life of a Hollywood gossip columnist, the Rihanna tragedy took precedence first.But today, babes, I'm happy to report the gloves are so still off between these two bleached blondes, it simply couldn't get any more delicious!In case you've been hiding under a rock the size of Dunaway's hair-extension bill, the long-ago Oscar winner and notorious crank-a-thon reportedly criticized Duff, who she deemed an unknown no-talent, for taking on one of her best-known roles, that of the blondie moll in Bonnie and Clyde.Duff fired back that it's Dunaway who nobody knows, not her, and, besides, Hilary'd be cranky, too, "if she looked like that." A not-so-veiled insult at Dunaway's obvious tinkering to her face. Holy merde, mamas, what a friggin' standoff!I asked Duff straightaway if she'd heard from La Dunaway:
+
+"Nope, not a word," perked Duff, hair all curled and moussed, face heavily (but beautifully) made up.Well, congratulations on being so outspoken in this town, few people have your courage."I just call it as I see it," said the Texas-born honey.You surely do it well. Any regrets about what you said about Faye?"No, none. I mean, if someone takes a shot at me, why can't I take it back at them? It's only fair!"You have no idea how many Faye Dunaway stories I have, Hilary, she's insane."I get the feeling."So you keep on keepin' on, babe!"I will!"Be on your guard, Ms. Dunaway, should you be gearing up some kind of press-release arsenal via one of the 10 billion publicists you've gone through in your lifetime. Darling, you've so met your match. Game on.
+/n

@@ -1,0 +1,45 @@
+Artist Star Jean Dujardin's New Film Poster Too Sexy for France We didn't think anything was too provocative for the French, but we were wrong. It seems like Jean Dujardin's promotional poster for his latest film The Players, .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/291384/artist-star-jean-dujardin-s-new-film-poster-too-sexy-for-france');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201212/293.ab.jean.020212.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Les Infideles, The Players, Jean Dujardin");
+	var imageCaption = encodeURIComponent("Les Infideles, The Players, Jean Dujardin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+We didn't think anything was too provocative for the French, but we were wrong.It seems like Jean Dujardin's promotional poster for his latest film The Players, or Les Infideles, about male infidelity (in case you didn't get that already) is getting some heat from his home country of France for being too risqué.Here's why...
+
+READ: Five Biggest Jaw-Droppers at the 2012 SAG Awards
+
+You might be able to draw your own conclusions from the photo, but The Hollywood Reporter states that many argue Dujardin's compromising positions in the posters are degrading to women.In the billboard example shown here, the SAG Award winner is holding a woman's legs in the air underneath a tag line that reads, "I'm going to a meeting." Other billboard ads include taglines such as, "It's going to cut out. I'm entering a tunnel" above a photo of director and actor Gilles Lellouche as a woman appears to be performing fellatio.Yikes! Did it just get really hot and uncomfortable in here or what?Last night, Studio Cine Live's editor Fabrice Leclerc tweeted, "The campaign for the film The Players with #JeanDujardin will be taken down due to complaints."Head of the ARPP, France's authority for the professional regulation of advertising, Stephane Martin will make the final decision as to whether or not the ads will be taken down, and told French newspaper Le Parisien, "We already feel that this campaign is against the rules, even if it relates to the subject of the film, a comedy about adultery. As a preventative measure, we've already counseled JC Decaux, who are in charge of the billboards, to take them down."
+/n

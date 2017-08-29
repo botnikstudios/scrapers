@@ -1,0 +1,50 @@
+Miley Cyrus' Pet Dog Lila Dies Miley Cyrus' animal-loving heart is broken. After her adorable dog Lila was hospitalized just over two months ago, the "Decisions" singer has now taken to Twitter to share the tragic news th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/370501/miley-cyrus-pet-dog-lila-dies');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201293/reg_634.MileyCyrus.jlc.10312.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus");
+	var imageCaption = encodeURIComponent("Miley Cyrus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Miley Cyrus' animal-loving heart is broken.After her adorable dog Lila was hospitalized just over two months ago, the "Decisions" singer has now taken to Twitter to share the tragic news that her beloved pooch has passed away."can't think of one good reason to get out of bed today...," the 19-year-old star wrote at Tuesday afternoon before explaining her doggy depression. 
+
+It wasn't long ago that Lila was hospitalized 
+
+"For everyone asking... I have never been so hurt in my life," Cyrus tweeted. "My heart has never been so broken..... Lila my sweet baby girl has passed away." Miley clearly adored her Yorkie mix—who just turned 2 in early November—and regularly posted photos of the sweet pup on the social media site. And not only did she call Lila an "angel" but she also took time  to appreciate Lila for her never-ending supply of love."Why would I need human friends? dude, Lila will ALWAYS love me & that's more than we can say about most humans," Miley wrote back in February. 
+
+Aw! Miley and Happy share a smooch
+
+The former Hannah Montana star also tweeted that she's going to take a break to mourn the loss of her furry friend: "Broken. Gonna go MIA for a bit. Need some healing time. Thank you to everyone who has sent love my way. I need it," she posted this afternoon. Luckily, Cyrus is still the proud canine mama to Ziggy, Floyd, Happy, Mary Jane and newly adopted, Penny Lane. She also has her handsome fiancé Liam Hemsworth to help heal her broken heart.Stay strong, Miles, and RIP, Lila.
+/n

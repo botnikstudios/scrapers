@@ -1,0 +1,46 @@
+Luann de Lesseps to Sit Down With Andy Cohen...and It's About Tom Prior to the episode, Luann tweeted, "This is going to be tough to watch," along with a crying emoji. She later tweeted: "#blindersoff."  Tom and Luan.../n
+Lu is ready to speak. Luann de Lesseps will sit down with Andy Cohen for a special one-on-one interview to discuss her split from Tom D'Agostino for the first time, E! News has learned. A source tells us the sitdown will air Wednesday, Sept. 6, one week after the final reunion episode airs. The Real Housewives of New York City star announced her plan to divorce her husband of seven months in a statement on Twitter in early August, just after the reunion special had taped and days before the season nine finale aired. While the split was not addressed during the taping, Bravo aired a message before the first part on Wednesday, Aug. 16: "What you are about to watch was recorded three weeks before Luann filed for divorce from her husband of seven months, Tom."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874149/luann-de-lesseps-to-sit-down-with-andy-cohen-and-it-s-about-tom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017716/rs_634x951-170816092209-634.luann-de-lesseps.81617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Luann de Lesseps, The Real Housewives of New York City");
+	var imageCaption = encodeURIComponent("Luann de Lesseps, The Real Housewives of New York City");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Charles Sykes/Bravo
+
+Prior to the episode, Luann tweeted, "This is going to be tough to watch," along with a crying emoji. She later tweeted: "#blindersoff." Tom and Luann's rocky romance was documented on the show throughout seasons eight and nine, with his infidelity becoming a major storyline after Bethenny Frankel told Luann about photos and information she received of a friend of Tom kissing another woman in at the Regency Hotel.During part one of the reunion, Luann was asked by Andy what she would do if she found out Tom had cheated on her during their marriage. "I would definitely leave," she said, much to the surprise of her co-stars. "You can push me so far...but once you push me over the line…"
+
+The Real Housewives of New York City's reunion, part two airs Wednesday at 8 p.m. on Bravo. (E! and Bravo are both part of the NBCUniversal family.)
+/n

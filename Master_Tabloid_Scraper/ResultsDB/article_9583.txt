@@ -1,0 +1,92 @@
+Alfred Angelo's Disney Princess Wedding Gowns Are Basically a Dream Come True—See Them All Now! Fit for a queen? More like: Made for a princess. With Bridal Fashion Week taking place in New York City this week, Disney-happy designer Alf.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/704665/alfred-angelo-s-disney-princess-wedding-gowns-are-basically-a-dream-come-true-see-them-all-now');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201598/rs_634x952-151008141253-634.Alfred-Angelo-Wedding-Dresses.4.ms.100815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Disney Princesses Alfred Angelo Wedding Dresses, Belle");
+	var imageCaption = encodeURIComponent("Disney Princesses Alfred Angelo Wedding Dresses, Belle");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+Fit for a queen? More like: Made for a princess.With Bridal Fashion Week taking place in New York City this week, Disney-happy designer Alfred Angelo is parading his latest line of princess-inspired gowns down the runway for another enchanting season. You may recall that Mr. Angelo's teamed up with Disney Fairy Tale Weddings for the past few years, creating collection after collection of wedding dresses (including the debut Queen Elsa number), bridesmaid gowns and even flower girl ensembles. So basically, Angelo is the official royal dressmakers to the Disney princesses.For his latest installment of regal wedding gowns, well, let's just say they're a dream come true, starting with Princess Belle above.
+
+BelleFrom the delicately beaded bodice to the frothy tulle skirt, it's a no-brainer as to why the book-loving princess would adore this dress.
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+ElsaIf the Frozen snow queen were ever to let go of her icy blue gown, this powerful caped design would obviously be her first choice replacement gown.
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+TianaWhew! This elegant trumped silhouette is just the thing for a Bayou wedding.
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+JasmineFun fact: The actress who currently plays the Arabian princess on Broadway, Courtney Reed, stepped up to model this mesmerizing mermaid gown!
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+RapunzelNot even mile-long hair could take away from this wedding dress' enchanting effect. 
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+ArielWith this glittering design, you'd best believe her beau Prince Eric would be ready to "Kiss the Girl."
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+Snow WhiteOh la la! This elegant strapless number does not underwhelm. 
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+CinderellaSorry: This exquisite strapless gown (complete with sweetheart neckline and gold embroidery) does not come with glass slippers. 
+
+
+
+Slaven Vlasic/Getty Images for Alfred Angelo
+
+AuroraThis dreamy tiered gown is right up this princess' alley.On that note, are you curious about which gown Sofía Vergara will wear on her big day? Then tune into the video below!
+/n

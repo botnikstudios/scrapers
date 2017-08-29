@@ -1,0 +1,46 @@
+Joseph Gordon-Levitt's Wife Tasha McCauley Pregnant With Baby No. 2 There's a baby on board for Joseph Gordon-Levitt and Tasha McCauley.  The 500 Days of Summer star and his wife stepped out Wednesday with one super surprising anno.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848236/joseph-gordon-levitt-s-wife-tasha-mccauley-pregnant-with-baby-no-2');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201743/rs_634x1024-170503121746-634-joseph-gordon-levitt-pregnant-wife.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joseph Gordon-Levitt, Tasha McCauley ");
+	var imageCaption = encodeURIComponent("Joseph Gordon-Levitt, Tasha McCauley ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Boba Fett / BACKGRID
+
+There's a baby on board for Joseph Gordon-Levitt and Tasha McCauley. The 500 Days of Summer star and his wife stepped out Wednesday with one super surprising announcement: They're expecting! McCauley dressed her growing baby bump in a polka-dotted frock as she clung on to the hunky actor after dining at Comoncy Cafe in Beverly Hills. A rep for Gordon-Levitt confirmed the wonderful news.It marks the longtime lovebirds second child together, as Joseph and Tasha welcomed a baby boy in August 2015. The pair tied the knot during a secret ceremony in 2014, and have always remained extremely private about their personal lives. 
+
+Shortly after becoming a father, Joseph revealed why he's kept his son out of the spotlight. "Being in the public eye is a great thing," he shared during a 2015 appearance on Live! With Kelly and Michael. "It allows me to do what I love to do, which is act in movies, but it's a choice that I made."Gordon-Levitt continued, "My son, he's just a baby, you know? He hasn't made the choice to be in the public eye, and that's a choice that I would like him to be able to make when he's older, when he can think about these kinds of things and make that decision for himself. And so, for now, I'm just a protective dad, and I want to protect his privacy."
+
+You go, pops. Congratulations to Joseph and Tasha!
+/n

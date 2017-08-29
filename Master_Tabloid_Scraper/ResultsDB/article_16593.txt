@@ -1,0 +1,89 @@
+Riverdale's Lili Reinhart Shares Her Beauty Secrets - and Why Betty's Hair Is Symbolic of Her Character
+/n
+ Michael Simon/startraksphoto
+Now that Riverdale season one has ended and we eagerly await season two, the show’s stars are making their mark on the style world. Lili Reinhart and Camila Mendes landed their first fashion campaign — together! — for Bongo, and the cast just glammed it up the red carpet at Sunday’s Teen Choice Awards. Lili jetted straight from the awards to N.Y.C. to visit the St. Ives Mixing Bar to blend up her own face scrub (and you can too, until September 30), and to talk what’s new with her character Betty in season two, how she likes to unwind in her downtime, her beauty secrets (her BeautyBlender trick might just be a game-changer) and the meaningful reasons behind her tattoos. Watch it all in the Facebook Live video below!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-5af4da9027cecffb83f8e3e23272087f-59a539b841a6a');
+				var iframe = document.getElementById('wpcom-iframe-5af4da9027cecffb83f8e3e23272087f-59a539b841a6a');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-5af4da9027cecffb83f8e3e23272087f-59a539b841a6a'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+And here are some of the can’t-miss moments from our talk with Lili:
+-You wouldn’t know it, but she had a bit of a wardrobe malfunction before the Teen Choice Awards. “Unfortunately the waistband of my dress broke 10 minutes before I was supposed to leave for the red carpet,” she says of the lace look. “So I’m actually really upset, because it didn’t look the way that it was intended to.” (We still think she looked fab!)
+-The star says she has cystic acne, which she keeps in check by exfoliating with St. Ives apricot scrub, as well as an acne cleanser, toner and acne-clearing dots. “On the plane last night I had, like, seven blemish dots all over my forehead,” she admits
+RELATED PHOTOS: Shop Our Celebrity Style Squad’s Fall Must-Haves
+–Lili learned an amazing beauty trick on set — and it involves your favorite makeup sponge. “I love to apply my foundation with BeautyBlenders — I just think it gives the most natural kind of glow, but I’ve learned from being on set that you should use a damp BeautyBlender, but that you should dampen it with rosewater. It just kind of brings your skin to life a little bit more.”
+-Betty’s hair and signature ponytail are somewhat symbolic of her character, Lili says. “Betty goes through a lot in season two, and you see it in her hair,” she previews. “It’s not so distracting, but it’s just a subtle little hint towards a shift in what’s going on underneath the surface.”
+FROM PEN: Amandla Stenberg’s Best Beauty Lesson Is One We All Need to Follow
+
+-Lili unwinds by watching a very familiar show on Netflix right now: Friends. “Putting that on in the background while I’m sitting on the couch, learning my lines, looking at my computer. That, to me, is de-stressing.”
+-If it seems like the cast of Riverdale is squad goals IRL, it’s because they are. “I’m so grateful, and I could pinch myself sometimes, like I know people aren’t as lucky as I am to go to work with your best friends, and to actually enjoy what you’re doing, and to travel the world with these people.”
+-Lili also explains the meaning behind the tattoos she has on each arm. “I talk a lot about depression and anxiety and my own struggles with it, so I wanted to get it,” she shares about the arrow on her left forearm. “An arrow can only go forward by being pulled back, so when you’re going through a hard time, being pulled back, it only means you’re about to experience something bigger and greater. So that’s what that represents to me.” She also added a rose on her right arm a few months ago, because “I’m kind of a warrior for love, and I wear my heart on my sleeve.”
+Are you excited to see Lili and the gang return in Riverdale season two?
+/n

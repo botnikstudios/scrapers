@@ -1,0 +1,44 @@
+Louis Tomlinson Performs First Solo Single Onstage Days After His Mother's Passing E! News reported Friday that Louis would indeed go through with his X Factor performance, despite his sudden loss.  Some of Tomlinson's bandmates to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/815021/louis-tomlinson-performs-first-solo-single-onstage-days-after-his-mother-s-passing');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016119/rs_634x1024-161209102514-634-louis-tomlinson-johannah.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Louis Tomlinson, Mother Johannah Poulston");
+	var imageCaption = encodeURIComponent("Louis Tomlinson, Mother Johannah Poulston");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stuart C. Wilson/Getty Images
+
+E! News reported Friday that Louis would indeed go through with his X Factor performance, despite his sudden loss. Some of Tomlinson's bandmates took to Twitter shortly after to offer their heartfelt condolences. Niall Horan wrote, "Very sad news . Louis I love you mate and I'm / all of us are here for you all the way . You're mum was an incredible person . Thinking of you and your family .love from my family to yours.."Liam Payne shared his own lengthy message to his grieving pal that read in part, "Louis, I'm so sorry for you my brother my heart aches for you, just know I love you from a million miles away as I do right next to you..."
+
+Former 1D member Zayn Malik expressed his own sympathy, writing to Louis, "love you bro! All of your family is in my prayers. proud of your strength and know your mum is too x"Since its Friday release, "Just Hold On" has already shot to the No. 1 spot on iTunes charts. Congratulations to Louis on a performance well done!
+/n

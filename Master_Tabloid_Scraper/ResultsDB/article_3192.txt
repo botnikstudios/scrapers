@@ -1,0 +1,54 @@
+EXCLUSIVE! New Mom Rosa Mendes ''Can't Wait'' to Return to WWE After Giving Birth, Says She's Losing Baby Weight ''Really Quickly''—Details Rosa Mendes will be ready to get back to work when .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/total_divas/news/746848/new-mom-rosa-mendes-can-t-wait-to-return-to-wwe-after-giving-birth-says-she-s-losing-baby-weight-really-quickly-details');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201627/rs_600x601-160307154316-Rosa-Mendes-2.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rosa Mendes, Total Divas, Instagram, Bobby, Jordan");
+	var imageCaption = encodeURIComponent("Rosa Mendes, Total Divas, Instagram, Bobby, Jordan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Rosa Mendes will be ready to get back to work when the WWE needs her!The Total Divas star, who welcomed a baby girl named Jordan three weeks ago with fiancé Bobby Schubenski, is revealing what it's like to be a new mom and when she'll be returning the the WWE."I'm enjoying my time with Jordan. Of course I can't wait to get back to work and to get in the ring and see everybody, but right now I really want to raise her and be a good mom and be the best mother I can be," Rosa tells E! News exclusively. "Right now I just want to concentrate on her."At the moment Rosa is going to dedicate her time to raising her daughter, but she'll definitely be making her return to the WWE when the time is right.
+
+"We haven't really discussed when I'm coming back,  because I'm the first pregnant Diva so, this has never happened before," Rosa explains. "So WWE and I are kind of learning as we go here. So I'll be ready to get back to work whenever they need me."The WWE star recently shared that she'll be cleared to hit the gym in just a couple of weeks.Rosa took to Instagram last week to post a photo of her incredible body (did she really just give birth?!) and said, "2 weeks postpartum. In 4 weeks I will be cleared to go back to the gym. Right now I'm just enjoying my time with beautiful baby @realjordanschubenski."
+
+From her Instagram photo it's clear that Rosa's body is already in amazing shape!"My body's already been getting back to normal and I'm not even working out yet because I'm not cleared," Rosa explains. "But I guess because I'm an athlete and I've been so healthy before, my body's just coming back into shape really really quickly."As soon as she's cleared, Rosa's ready to "lift heavy again.""My workouts before I was pregnant were very heavy-lifting, very intense, very challenging, a lot of sweat, a lot of kind of screaming sometimes when I'm maxing out, so I'm really really looking forward to that," Rosa reveals.
+
+
+
+Instagram
+
+When it comes to food, Rosa admits that she's eating "super healthy" now."I'm not eating cookies and cakes and all that stuff I was eating when I was pregnant," Rosa laughs. "I think my body's adjusting really quickly and like I said before, with us women being athletes, with us Divas being athletes and already being in really good shape I think your body just bounces back to its old self. We're really lucky. So Brie (Bella) will like that when she gets pregnant and then two weeks later she'll be like, 'Oh, wow!'"Could Brie Bella will be the next Diva to have a baby?! We'll have to wait and see!Speaking of the Divas, Rosa reveals that all of the ladies have been very supportive throughout her pregnancy."I love all of the girls in the locker room," Rosa says. "They've just been texting and sending gifts and I miss everybody so much."
+
+Rosa has also received so much love and support from her fans, something she's incredibly thankful for."I just want to thank everybody for their messages on Twitter and Instagram," Rosa says. "Everyone has sent me so much love, so much support. You know us being in the limelight, usually we get a lot of negative comments and stuff on our Instagrams and Twitters and I've mostly gotten love and I just really really appreciate all of the love that I'm getting and the support and everyone just rooting for me and Bobby and Jordan, it's been awesome. I want to thank everyone for that."Fans will also be excited to hear that we'll be seeing Jordan's arrival on Total Divas."Actually my labor, like me going into labor and stuff will be on the show," Rosa reveals. "Not my actual labor, but yes in the hospital and everything."
+/n

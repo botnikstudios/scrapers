@@ -1,0 +1,41 @@
+soother, $10 Scotch Naturals nail lacquuer, $15 Toms Bellevue Blonde sunglasses, $98 Olsenhaus golden sandals, $155 Aveda Light The Way Candle, $12 Della Purple Soaring iPad case, $42 Tata Harper lip treatment, $28/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/643321/happy-earth-month-here-are-some-amazing-eco-friendly-items-that-even-mother-nature-would-approve-of');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015315/rs_634x1024-150415174144-634.Earth-Day.jl.041515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Earth Day");
+	var imageCaption = encodeURIComponent("Earth Day");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Dear Mother Nature:We know we don't say it enough (certainly don't show it enough) but we really love you. A lot. And to prove that our feelings are real we plan on celebrating this year's Earth Month (and the official 45th anniversary day, April 22) in a big way. And that means we're going to be doing a lot more than just hugging a tree.In fact, we're going to invest our green in companies that have got your back. Like Kiehl's, who donates 100 percent of its profits from the sale of their Limited Edition Label Art collection to Recycle Across America. And Aveda who is bringing back the Light the Way candle so 100 percent of sales can help the Global Greengrants Fund.Plus, we're going to support do-gooder brands that create sustainable, eco-friendly fashions or use natural ingredients all year long (H&M's Conscious, Burt's Bees and Scotch Naturals come to mind).So here's to you planet—the best one in the universe!Pacifica spray perfume, $22Kiehl's limited edition creamy eye treatment with avocado, $47Matt & Nat Fabi Nature Bag, $165Modcloth Lookin' fresh tee, $35H & M Conscious Lyocell blouse, $35Jane Iredale eyeshadow, $19H & M Conscious Lyocell cargo skirt, $35Burt's Bees after-sun soother, $10Scotch Naturals nail lacquuer, $15 Toms Bellevue Blonde sunglasses, $98Olsenhaus golden sandals, $155Aveda Light The Way Candle, $12Della Purple Soaring iPad case, $42Tata Harper lip treatment, $28
+/n

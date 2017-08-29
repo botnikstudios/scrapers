@@ -1,0 +1,62 @@
+Richard Simmons Files Lawsuit Against National Enquirer and Radar Online Over Transition Stories After years of media speculation over the whereabouts of Richard Simmons, he is speaking up for himself—with a lawsuit.  The star filed a lawsui.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/849163/richard-simmons-plans-to-sue-tabloids-over-disappearance-stories-report');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017320/rs_634x1024-170420091031-634-ricahrd-simmons-revenge.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Richard Simmons, 4/13");
+	var imageCaption = encodeURIComponent("Richard Simmons, 4/13");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chris Weeks/WireImage
+
+After years of media speculation over the whereabouts of Richard Simmons, he is speaking up for himself—with a lawsuit. The star filed a lawsuit against American Media, Inc., Radar Online, LLC, and National Enquirer, Inc. on Monday in Los Angeles Superior Court for four counts of libel and one count of invasion of privacy. In the court documents obtained by E! News, Simmons and his legal team take aim at reports by The National Enquirer and Radar Online alleging that Simmons was transitioning, including claims of "breast implants, hormone treatments, and consultations on medical castration." 
+
+"Mr. Simmons, like every person in this nation, has a legal right to insist that he not be portrayed as someone he is not. Even the most ardent supporter of sexual autonomy and LGBTQ rights is entitled to be portrayed in a manner that is truthful," the complaint reads. "It is to vindicate that right, and the rights of all persons to be portrayed with dignity and honesty with regard to their sexual identity, that Mr. Simmons files this lawsuit."The lawsuit also takes aim at Mauro Oliveira, whom Richards claims has "blackmailed, extorted, and stalked" him for years. According to the documents, after Richards retreated from the spotlight, Oliveira allegedly gave The National Enquirer reasons for the fitness guru's absence, including that he was "frail, weak and spiritually broken," "in desperate need of help," was being held hostage by his housekeeper and was transitioning. 
+
+"All of these assertions were untrue, and were merely attempts by Mr. Oliveira to gain a profit in exchange for providing a false narrative about Mr. Simmons's leave of absence," the documents state. "While pitching around these ideas, Mr. Oliveira was simultaneously blackmailing Mr. Simmons, sending him emails and threatening to destroy his reputation with damaging press coverage unless Mr. Simmons paid Mr. Oliveira to stop."Per the papers, The National Enquirer allegedly shared a prepared story alleging Simmons was transitioning with his publicist, Tom Estey. Estey responded with warnings of a potential lawsuit, but the newspaper published the story anyway with a cover page photo of Simmons dressed in costume as a woman that had been taken three years earlier, "which he has done openly over the years consistent with his well-known and longstanding burlesque-style entertainment persona." 
+
+According to the documents, Radar Online published several more articles pertaining to The National Enquirer's story. According to the lawsuit, Simmons claims Oliveira later recanted the story of his alleged transitioning in an email to the star and his manager, Michael Catalano, but allegedly also demanded money. Meanwhile, after Simmons publicly addressed and refuted the report, he claims the newspaper and website "doubled-down on their defamation campaign" with a new article alleging a transition. Despite an alleged demand from Simmons' former counsel to AMI to issue a retraction because the articles were not true and the sourcing inaccurate and unreliable, a retraction has not been issued. Although AMI's general counsel allegedly issued a cease-and-desist letter to Oliveira, Radar Online published another article in March with continued claims about an alleged transition, including "breast implant surgery, hormone therapy, and a host of other invasive changes."
+
+
+
+Chelsea Guglielmino/FilmMagic
+
+Simmons is seeking general damages, compensatory damages, special damages for pecuniary loss, punitive damages, an apology and retraction, costs of the suit, pre-judgment interest as allowed by the law, permanent injunction and "further relief as this court may deem just and proper." He has also requested a trial by jury. An AMI spokesperson told E! News in a statement, "While we have not seen Mr. Simmons' complaint, we stand by our reporting about him, all of which was based on solid sourcing, photos and videos. Should he choose to proceed with his lawsuit, we will defend it vigorously, and we look forward to the public vindication of our reports." Oliveira has not returned E! News' request for comment.
+
+
+
+Raymond Hall/FilmMagic
+
+While Simmons has not made a public appearance in three years, he called into Today last year to quell fans' concerns over his whereabouts. "That's just very silly,'' he told Today's Savannah Guthrie in March 2016, refuting all of the claims about an alleged transition or being held hostage by his housekeeper. "Teresa Reveles has been with me for 30 years. It's almost like we're a married couple."Instead of all the public hypotheses, Simmons simply wanted personal time. "I just sort of wanted to be a little bit of a loner for a little while,'' he told Guthrie. "You know, I had hurt my knee, and I had some problems with it, and then the other knee started giving me trouble because I've taught like thousands and thousands of classes, and you know right now I just want to sort of take care of me."
+
+Meanwhile, the questions and concern did not cease and a podcast called Missing Richard Simmons aired to explore his whereabouts. However, following a welfare check from the Los Angeles police department that found him of "sound mind," the podcast resulted in a uneventful finale. "Most people want that last bow—not everybody," Catalano told the podcast's host, Dan Taberski, of his client in the final episode. "He's earned it. This is his story. He has, certainly, the right to write the ending."(E! and NBC are both part of the NBCUniversal family.)(Originally published May 8, 2017 at 6:02 a.m. PST.) 
+/n

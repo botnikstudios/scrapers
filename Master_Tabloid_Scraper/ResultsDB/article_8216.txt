@@ -1,0 +1,44 @@
+Guardians of the Galaxy Cast Discos With David Hasselhoff in "Guardians Inferno" Video: Can You Spot Chris Pratt? The Guardians of the Galaxy shed their usual outfits for a few groovier looks.  With the disco beat pulsing and eccen.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871804/guardians-of-the-galaxy-cast-discos-with-david-hasselhoff-in-guardians-inferno-video-can-you-spot-chris-pratt');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201777/rs_634x982-170807093432-634.guardians.8717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Guardians of the Galaxy, Guardians of the Galaxy Inferno");
+	var imageCaption = encodeURIComponent("Guardians of the Galaxy, Guardians of the Galaxy Inferno");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Marvel Studios
+
+The Guardians of the Galaxy shed their usual outfits for a few groovier looks. With the disco beat pulsing and eccentric decorations setting the stage, the beloved cast hit the dance floor with David Hasselhoff for quite the interesting music video. While Zoe Saldana did her best disco queen impression in a gold jumpsuit and long shiny tresses, Pom Klementieff gave us Farrah Fawcett flashbacks in a silver dress and blond blowout.Dave Bautista channeled '70s metal band glory in a curly wig, bellbottoms and metallic wings because he's just that fly. The cheesy video effects were aplenty as Hasselhoff boogied as the song's subject, Zardu Hasselfrau.  For an added bonus, the clip also featured cameos from Stan Lee and Jimmy Kimmel Live's Guillermo.
+
+The music video will be included on the Guardians of the Galaxy Vol. 2 DVD, available on August 8. 
+/n

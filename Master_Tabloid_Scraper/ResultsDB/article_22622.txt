@@ -1,0 +1,44 @@
+Crybaby Mama's Boy Rule No. 1 for a mama's boy: Don't leave home without her. For Luke Adams, that means don't compete in The Amazing Race without mother Margie. But their competition was cut short this week with a specta.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/233243/the-amazing-race-luke-defends-being-a-crybaby-mama-s-boy');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011228/293.ar.lc.032811.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Amazing Race, Margie, Luke");
+	var imageCaption = encodeURIComponent("The Amazing Race, Margie, Luke");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Voets/CBS
+
+Rule No. 1 for a mama's boy: Don't leave home without her.For Luke Adams, that means don't compete in The Amazing Race without mother Margie.But their competition was cut short this week with a spectacular waterworks display: Luke recovered from a fetal-position, mama-clutching sob session at a benign tea-tasting challenge only to collapse in tears at Margie's feet on the finish mat.Read on to find out what TAR's first deaf contestant told us about his (second) ignominious defeat...
+
+Was the Race harder this time? Luke: Yes! It was much physically harder this time around. It's like pushing ourselves to the limits! Margie: It was for me, the legs were longer, the distances we had to run were farther and challenges physically harder. Why do you think you had such a hard time in the Tea Challenge? L: There were over 1,500 teacups! So it was like literally impossible to find the right one! Completely pure luck. No skills involved.Luke, what is happening psychologically during your "breakdowns" on these challenges when you get so frustrated and want to give up? L: I really hoped that we might get saved or something like that. It was hard to hear that we got eliminated.How do you respond to fans of the show who accuse your team of being unsportsmanlike? L: It probably would have been different reactions if they get to experience fatigue, hunger and paranoia. It's not easy to run the race around the world, it can be very draining. M: Everyone is entitled to their opinion, Jen, Kesha, Luke and I have all accepted our share of the responsibility for the "incident in China." We have all apologized and moved on. When you have been on the road for 20-plus days, sleep deprived, hungry all the time, fuses are short, that is all it was. We are all great friends now.What was it like competing against Kesha and Jen again? L: It was nice to bond with them again after our "push" incident and now we are friends.M: We talked to them at the airport before leaving for Australia and no one was holding a grudge. We actually helped Jen and Kesha in China. They were looking in the wrong place for the clue box, and Luke and I found it so we called to them to tell them where the box was. There are no hard feelings.Do you think Kent and Vyxsin should have faced a stiffer penalty (four hours) for missing the mandatory flight from Japan? L: I adore Kent and Vyxsin. It was the rule that we had to take a required flight and they did not follow the rule so yeah, I think they should have faced a stiffer penalty. They were only 20 minutes ahead of us when we left the pit stop in Japan so they could have made it on the required flight. I just feel bad for Jaime and Cara for getting screwed over with Kent and Vyxsin's U-Turn, that is not fair for the girls. M: That is not a decision we get to make, rules are rules and they were very lucky!Luke, in what ways has the Race been more challenging for you as a deaf person? L: To be honest, I'm navigator-challenged! That's why I drove this time since my Mom's a better navigator but it was little scary with me driving and having to look back at my Mom for the directions! It was definitely the challenge for me!
+/n

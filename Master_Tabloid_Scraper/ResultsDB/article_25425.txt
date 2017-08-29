@@ -1,0 +1,94 @@
+'Get Curtains!': Newlyweds Joy-Anna & Austin Forsyth Receive Sweet Marital Advice from Older Duggar Sisters
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-8c5fd74a80a8d8b42a917685d9deec88-59a573376bbaf');
+				var iframe = document.getElementById('wpcom-iframe-8c5fd74a80a8d8b42a917685d9deec88-59a573376bbaf');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-8c5fd74a80a8d8b42a917685d9deec88-59a573376bbaf'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Joy-Anna (Duggar) Forsyth‘s older sisters have a few key pieces of advice for the newlywed!
+On Friday, 19-year-old Joy-Anna tied the knot with her husband, Austin Forsyth, to whom she was engaged for nearly three months. Speaking with PEOPLE at the couple’s nuptials in Rogers, Arkansas, two of Joy-Anna’s older sisters — Jill (Duggar) Dillard and Jessa (Duggar) Seewald — passed on some thoughtful recommendations for the new bride.
+Lissa Chandler/TLC
+“My advice to her for marriage was just to enjoy being a couple. I know that they’re super excited to be getting married and it’s going to be amazing. They’re perfect for each other,” Jessa, 24, told PEOPLE.
+Jill, 26, added, “They’re working on a house, so I told them, get curtains!”
+RELATED VIDEO: Joy-Anna Duggar & Austin Forsyth Are Married!
+
+Although neither Jill or Jessa expected the couple to end up together, they fully approve of their new brother-in-law and think the duo are the perfect fit.
+“He’s the best. I think two years ago we wouldn’t have guessed this would be a thing. We’ve known Austin forever and we didn’t see that happening,” said Jessa.
+“Sometimes that’s a crazy thing, because then you know all about him since he was a kid,” added Jill. “Austin is great. We love him.”
+
+FROM PEN: How Princess Kate Is Changing the Royal Parenting Rules
+
+In a TLC video from Joy-Anna and Austin’s big day, big sisters Jana Duggar, 27, and Jinger (Duggar) Vuolo, 23, also shared childhood memories and extended warm wishes to their newly married sister.
+“So excited for you! It’s crazy this day is here, but we’re excited that, Joy, you’re getting a good guy,” said Jana.
+“Enjoy being married. Enjoy just each other’s company,” Jill said, and advised Austin: “When you don’t understand why she’s crying, that’s okay. Just rub her back or something.”
+“You’re going to be a lot more distracted now,” said Jessa. “But I know that Austin’s a great guy. I know that he’s very tender, very caring, loving guy.”
+With nearly three years of marriage under her belt, Jessa also encouraged her sister to take lots of pictures on her honeymoon as a way to document the memories.
+“I think the honeymoon’s going to be really, really special. Getting to spend that time together,” said Jessa. “I know it’s going to be exciting getting to travel together, make memories together, take lots of pictures and document your travels and your journeys. This is the beginning of your lives together.”
+/n

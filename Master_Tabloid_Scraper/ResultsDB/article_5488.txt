@@ -1,0 +1,44 @@
+UPDATE! Eliza Dushku and Rick Fox Break Up Say it ain't so! Eliza Dushku and Rick Fox have called it quits after five years of dating. A key factor in their breakup was a desire to live on opposite coasts. "Rick's an L.A. guy .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/553846/eliza-dushku-and-rick-fox-break-up');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014524/rs_634x1024-140624093311-634.Rick-Fox-Eliza-Dushku.ls.62414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rick Fox, Eliza Dushku");
+	var imageCaption = encodeURIComponent("Rick Fox, Eliza Dushku");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Kovac/Getty Images for Exploring the Arts
+
+Say it ain't so!Eliza Dushku and Rick Fox have called it quits after five years of dating. A key factor in their breakup was a desire to live on opposite coasts. "Rick's an L.A. guy and I'm a Boston girl," the Bring It On star, 33, said.Dushku told The Boston Globe that she bought a condo near the Watertown home where she grew up. "Nobody in LA has a basement," she said. "They all have the obligatory storage spaces in the Valley."After many years in California, the actress was itching to return to Massachusetts, where she plans to go to school. "I'd rather be a little physically cold here than emotionally cold in L.A.," she said. "I missed my town and I missed my family." Dushku is unsure where she'll attend college or which subject she'll study.
+
+Dushku, who unsuccessfully auditioned to star in the How I Met Your Dad pilot earlier this year, hinted she was ready for a change in the recent issue of The Improper Bostonian. "After living in Los Angeles for 15 years, I definitely grew out of being an L.A. hater, but I think there's a level of truthfulness and individuality here that is refreshing in a business where everyone conforms to certain standards," the Buffy the Vampire Slayer star told the magazine. So what's it like to be back in Boston? "I'd rather be physically cold than emotionally stagnant," she said. "I just sort of come alive when I'm home."Fox was a guest co-host on The View Tuesday. Sherri Shepherd made a comment about Fox and fellow guest co-host Donnie Wahlberg being taken, to which the former NBA player laughed and confirmed, "I'm single." Shepherd giggled and said, "Me too!"
+/n

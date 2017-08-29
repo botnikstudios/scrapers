@@ -1,0 +1,44 @@
+Castle Season 6 Production Delayed Amidst Nathan Fillion's Feud With ABC The Castle has been breached. Production on the ABC hit series' upcoming sixth season was delayed last week due to star Nathan Fillion's feud with ABC St.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/439675/castle-season-6-production-delayed-amidst-nathan-fillion-s-feud-with-abc');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013616/rs_293x473-130716202731-634.NFillion.ms.071613_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nathan Fillion, Castle");
+	var imageCaption = encodeURIComponent("Nathan Fillion, Castle");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC/BOB D'AMICO
+
+The Castle has been breached.Production on the ABC hit series' upcoming sixth season was delayed last week due to star Nathan Fillion's feud with ABC Studios, sources confirm to E! News. Fillion failed to show up to work on Friday, July 12, amidst contract disputes as he is pushing for a four-day workweek. Deadline first repored the news of Fillion's no-show.A rep for ABC tells us Fillion was on set Tuesday and was scheduled to be there, with a source confirming production is moving forward.
+
+While our sources spill that ABC and the show's producers want to keep Fillion happy, it's hard for production to move to a four-day work week as he is in almost every scene.Fillion tweeted from Castle's set on Thursday, July 11, but was noticably Twitter silent on the following day. The actor, who recently starred in Joss Whedon's film Much Ado About Nothing, posted a photo of himself and guest star Lisa Edelstein from the set on Thursday, saying, "Sitting with @lisaedelstein discussing twitter. Is she a doll? Yes, yes she is."When asked by a fan if he was happy to be back with the Castle family, Fillion posted a photo of crew members, saying, "Wouldn't you be?"Castle returns for its sixth season on Monday, Sept. 23.
+/n

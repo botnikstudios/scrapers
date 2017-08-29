@@ -1,0 +1,45 @@
+While Having Sex Death came to Mom in a very unexpected way in the most recent episode, "Three Smiles and an Unpainted Ceiling." Warning, spoilers. Alvin Biletnikoff (Kevin Pollak), Christy's dad and Bonnie's (Allison Jan.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/616507/yep-this-mom-character-just-died-while-having-sex');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015020/rs_634x952-150120125346-634.Mom-Anna-Faris-Allison-Janney.ms.012015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mom, Anna Faris, Allison Janney");
+	var imageCaption = encodeURIComponent("Mom, Anna Faris, Allison Janney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Trae Patton/Warner Bros. Entertainment Inc.
+
+Death came to Mom in a very unexpected way in the most recent episode, "Three Smiles and an Unpainted Ceiling." Warning, spoilers.Alvin Biletnikoff (Kevin Pollak), Christy's dad and Bonnie's (Allison Janney) rekindled love, got a new place across the courtyard from Christy (Anna Faris) and her family. Things were going great! That is until Bonnie and Alvin started another romp in the bedroom…Alvin had another heart attack while deep in the throes of passion with Bonnie. Yes, he died giving Bonnie oral sex.
+
+From there, Mom moved to showcase Janney's drama chops as she dealt with the grief of losing a loved one and being banned from his funeral by his ex-wife Lorraine (Beverly D'Angelo). In typical Mom fashion, the drama didn't last very long without some jokes.Bonnie, Christy and Marjorie (Mimi Kennedy) went to an Alcoholics Anonymous meeting to deal with and express their emotions, but Bonnie struggled and ran to the closest bar. So, attention Emmy voters, once again here's Allison Janney."What do you say? You and me, over the cliff, Thelma and Louise," Christy said to her mom as she raised a shot glass. The two decided to keep their sobriety in check and crashed the funeral.Of course this isn't the first time a TV character has kicked the bucket while having a romp in the sheets. Who can forget "poor Mr. Pamuk (Theo James) on Downton Abbey? He died while taking Lady Mary's (Michelle Dockery) virginity. This is apparently how Rose (Betty White) lost her husband on The Golden Girls, King Henry (Alan van Sprang) had sex with somebody on Reign and she went right out the window and during American Horror Story: Coven, Zoe (Taissa Farmiga) killed anybody she had sex with.Mom airs Thursdays, 8:30 p.m. on CBS.
+/n

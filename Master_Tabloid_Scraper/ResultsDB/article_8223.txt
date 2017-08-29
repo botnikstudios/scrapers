@@ -1,0 +1,46 @@
+Police Investigate Burglary at David Spade's Beverly Hills Home David Spade is the latest Hollywood star to become a burglary victim. Beverly Hills Police confirmed to E! News that authorities are investigating a burglary at the actor a.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859431/police-investigate-burglary-at-david-spade-s-beverly-hills-home');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016129/rs_634x1024-160229084148-634-David-Spade-Vanity-Fair-Oscar-Party-Red-Carpet-JR-022916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("David Spade, 2016 Vanity Fair Oscar Party");
+	var imageCaption = encodeURIComponent("David Spade, 2016 Vanity Fair Oscar Party");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Pascal Le Segretain/Getty Images
+
+David Spade is the latest Hollywood star to become a burglary victim.Beverly Hills Police confirmed to E! News that authorities are investigating a burglary at the actor and comedian's home.The alleged crime occurred between May 27 and June 2 when David was not at his house. Because this is an active investigation, no additional details are available per police.According to TMZ, who first broke the news, the suspects walked away with $80,000 worth of belongings including cash, jewelry and a wedding band that belonged to David's mom that was stored in a safe.E! News has reached out to David's camp for additional comment.
+
+David certainly isn't the first celebrity victim to join a growing list of high-profile home burglaries.Other stars who have been targeted in recent weeks include Emmy Rossum, Kevin Hart, Alanis Morissette and Nicki Minaj."The Knock-Knock burglaries are a separate entity from the celebrity burglaries," Norma Eisenman, a spokeswoman for the LAPD recently shared with The Hollywood Reporter when discussing the string of burglaries. "The Knock-Knock burglars, they knock. The celebrity burglars, they don't knock. Houses are broken into, burglarized and that's it."
+
+As for David, he remains busy filming Love for Netflix. In fact, he documented a day of filming recently on Instagram."Shooting one more episode of Love today w @paulrust Such a blast," he wrote to his followers. "Great writing. Lots of beard action. #netflix. Ps. Paul is loving my 50 th story." 
+/n

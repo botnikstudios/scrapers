@@ -1,0 +1,62 @@
+Taylor Swift Enjoys Private Kings of Leon Concert With Lorde, Dakota Johnson, Cara Delevingne and More Squad Sisters Taylor Swift wasn't short of any squad members Wednesday night in the Big Apple.  The "Shake It Off" songstre.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/801680/taylor-swift-enjoys-private-kings-of-leon-concert-with-lorde-dakota-johnson-cara-delevingne-and-more-squad-sisters');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016913/rs_634x1024-161013053701-634.Cara-Delevingne-Taylor-Swift-Zoe-Kravitz-Dakota-Johnson-NYC-JR-101316.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cara Delevingne, Taylor Swift, Zoe Karvitz, Dakota Johnson");
+	var imageCaption = encodeURIComponent("Cara Delevingne, Taylor Swift, Zoe Karvitz, Dakota Johnson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Raymond Hall/GC Images
+
+Taylor Swift  wasn't short of any squad members Wednesday night in the Big Apple. The "Shake It Off" songstress gathered up a bevy of the bonafide members of her inner circle, including Dakota Johnson, Cara Delevingne, Lorde, Zoë Kravitz, Suki Waterhouse, Lily Donaldson and Martha Hunt, and headed off to a private concert for Kings Of Leon. The concert was hosted by Sirius XM and aired on Alt Nation.A source tells E! News the women were at Taylor's New York home where an assistant was spotted bringing bottles inside.  The group left the house around 9 p.m. to head to the one-hour concert in the West Village. There, they watched Lily Aldridge's husband, Caleb Followill, perform as the band's frontman. 
+
+
+
+Pap Gossip / AKM-GSI
+
+Clad in a little black dress and heeled lace-up booties, Swift looked casual and cool as she sang along to the band's hits with her Victoria's Secret pal. Aldridge captured the moments and shared them on Instagram. The rest of the ladies were dressed equally chic in all black ensembles, model Donaldson opting for a black crop top underneath a leather jacket and dark-wash jeans with Timberland boots. 
+
+
+
+AKM-GSI
+
+Delevingne and Waterhouse kept cozy in renditions of black sweaters while Suki added a touch of leather to her look.  "Royals" songstress Lorde switched up her ensemble with a swingy metallic black skirt and topped it off with a turtleneck. After the concert wrapped, they headed to the Bowery Hotel for an afterparty and lated stopped at a bar called Lovers of Today in the East Village around midnight. 
+
+
+
+AKM-GSI
+
+The ladies have certainly banded together this week.It was just a day ago that Swift stepped out with Johnson, Delevingne and Waterhouse at the Waverly Inn in New York City's Greenwich Village, where they stayed until around 1 a.m.Flaunting equally stylish black ensembles, the women looked to be "in high spirits," a source told E! News.
+
+All the quality girl time comes at the perfect moment considering Swift is newly single after her split fromTom Hiddleston in September. "She is hanging with her girls for emotional support and friendship," an insider told E! News. "She has a close set of women around her." 
+/n

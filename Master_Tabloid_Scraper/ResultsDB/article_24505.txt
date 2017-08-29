@@ -1,0 +1,50 @@
+Glenn Close and David Shaw Divorce After 9 Years of Marriage It looks like third time's not a charm after all. Glenn Close and her third husband, business executive and venture capitalist David Shaw, have split. "The divorce was mu.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/699429/glenn-close-secretly-divorces-husband-david-shaw-after-9-years-of-marriage');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015824/rs_634x1024-150924041641-634.Glenn-Close-David-Shaw-JR-92415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Glenn Close, David Shaw");
+	var imageCaption = encodeURIComponent("Glenn Close, David Shaw");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mike Windle/Getty Images for TWC
+
+It looks like third time's not a charm after all.Glenn Close and her third husband, business executive and venture capitalist David Shaw, have split. "The divorce was mutual," her rep tells E! News. "She did not divorce him." The 68-year-old Golden Globe winner and Shaw had been together for nine years since their wedding in Maine in 2006.  The duo allegedly announced their plans to separate privately sometime over the last three months, also deciding to move to different states. "Glenn and David have been telling friends over the summer they are divorcing, and he'll remain living in Maine while Glenn moves back to New York full-time," a source told The New York Post's Page Six. "They've been separated for some time, and things are amicable between them."
+
+
+
+Billy Kidd for Variety
+
+While in New York, Close will stay busy working on multiple upcoming films, including The Great Gilly Hopkins, set for debut by the end of this year, as well as her on-screen reunion with former co-star John Malkovich in Wilde Wedding, which will begin shooting by September's end. The 101 Dalmatians star will also make her grand return to the stage, reprising the role of Norma Desmond in Sunset Boulevard at the London Colosseum in April. Close filled the same role on Broadway and Los Angeles over 20 years ago. Clearly, the six-time Oscar nominee has enough professional projects to keep her mind off any heartbreak. Hardly a stranger to marriage, Close has been down the aisle a total of three times, marrying songwriter Cabot Wade in 1969 and James Marlas in 1984, in addition to Shaw. Close also racked up numerous long-term relationships throughout her storied career, including Broadway actor Len Cariou, producer John Starke  (with whom she had daughter Annie) and carpenter Steve Beers. Close and Beers had been engaged, but never wed. 
+
+Close's tumultuous romantic past can be explained by her overall philosophy on marriage. She once revealed to People her thoughts on why men and women can't truly coexist in relationships after her divorce from Marlas. "Too many women define themselves in terms of a man," the Emmy winner explained. "Men blossom under the nurturing of a good woman, while women don't often get that benefit from a man. I think of men and women as two different species. Katharine Hepburn said they should live next door and visit each other once in a while. Not a bad idea."Looks like we'll have to wait and see which Hollywood hunk moves in next door to Close's New York abode. 
+/n

@@ -1,0 +1,46 @@
+Liev Schreiber and Naomi Watts Reunite at Son's 10th Birthday On Sept. 26, 2016, the couple released a joint statement, "Over the past few months we've come to the conclusion that the best way forward for us as a family is to .../n
+It's been 10 months (to the day) since Liev Schreiber and Naomi Watts announced their split after 11 years of partnership. Both stars appear to have moved on romantically, but the former flames came together for their son Alexander "Sash" Schreiber's 10th birthday yesterday.The doting dad, who was spotted with Gerard Butlers ex Morgan Brown earlier this year, took to Instagram to post the birthday reunion, showing the parents helping cut their son's birthday cake.In addition to the sweet photo showing the parental units teaming together for their son's big day, the Ray Donovan star wrote, "Happy Birthday Big Boy! Finally hit the double digits!
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869481/liev-schreiber-and-naomi-watts-reunite-at-son-s-10th-birthday');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017626/rs_812x1024-170726123513-634.Liev-Schreiber-Naomi-Watts-Instagram.kg.072617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Naomi Watts, Liev Schreiber, Instagram");
+	var imageCaption = encodeURIComponent("Naomi Watts, Liev Schreiber, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+On Sept. 26, 2016, the couple released a joint statement, "Over the past few months we've come to the conclusion that the best way forward for us as a family is to separate as a couple. It is with great love, respect, and friendship in our hearts that we look forward to raising our children together and exploring this new phase of our relationship. While we appreciate your curiosity and support, we ask the press to be mindful of our children and respect their right to privacy."In May, Naomi, who is rumored to be dating Billy Crudup, opened up to Vogue Australia, about the state of her relationship with his former partner."There are good days and bad days. Liev and I are on great terms and we're trying to do our absolute best for the sake of the children, and we hope to keep moving forward in that way. He's fantastic dad, a wonderful, wonderful man, and we still want the absolute best for each other," she revealed. "So, that's pretty much all I'll say."
+
+And it looks like she was right...Over the weekend, Liev's parenting skills got some big Internet thumbs up over the after he took his sons two sons to the 2017 Comic-Con and son Kai showed up in a tiny Harley Quinn ensemble. While some bashed the actor and his young son online for wearing a female character's costume, many more praised the proud papa for letting his son rock whatever he wanted to wear.
+/n

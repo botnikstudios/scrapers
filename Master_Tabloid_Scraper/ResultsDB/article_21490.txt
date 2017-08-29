@@ -1,0 +1,44 @@
+Cecil the Lion's Cubs Are Alive and Well and Here's the Video to Prove It The tragic story of Cecil the lion captivated the world this past month, and unfortunately most of the headlines were truly heartbreaking and hard to read. O.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/689256/cecil-the-lion-s-cubs-are-alive-and-well-and-here-s-the-video-to-prove-it');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015724/rs_634x953-150824122825-634.Cecil-Lion-Cubs.jl.082415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cecil Lion Cubs");
+	var imageCaption = encodeURIComponent("Cecil Lion Cubs");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+www.wildcru.org/Brent Stapelkamp
+
+The tragic story of Cecil the lion captivated the world this past month, and unfortunately most of the headlines were truly heartbreaking and hard to read. Or they mentioned that damn dentist and readers suffered from rage blackouts.And then there was that awful day where we thought Jericho, Cecil's brother and the lion who took over caring for Cecil's cubs, had been killed by poachers. That meant that no one was around to protect the cubs and they were in danger of being killed by other males looking to establish dominance. However, the Wildlife Conservation Research Unit (WCRU), the organization who had been watching Cecil's family, quickly assured everyone that the report was false and Jericho was alive and still looking after the pride.And now we have another uplifting update regarding Cecil's family: the cubs are still alive and well! On August 17, the WCRU field team was able to locate and get footage of Cecil's cubs with their mothers. 
+
+"Even with our satellite tracking gear and an intimate knowledge of the area, finding lions in the bush can be a bit like finding the proverbial needle in haystack," reads the update on the website. "We have been careful to provide updates on the well-being of Cecil's pride only when we had visual contact with them."Field team member Brent Staplekamp was able to shoot footage of the lions through his camera's viewfinder, and happily reports that the cubs look "fat and happy."
+/n

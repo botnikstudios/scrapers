@@ -1,0 +1,43 @@
+Eddie Redmayne Loves Wearing Sweaters Eddie Redmayne looks good in anything he wears. He's become such a fashion inspiration, Prada snagged him to be the face of its latest fall/winter ad campaign. And we couldn't help notice .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/809592/eddie-redmayne-loves-wearing-sweaters');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161015/rs_634x1024-161115124731-634.eddie-redmayne-9.cm.111516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eddie Redmayne, Sweaters");
+	var imageCaption = encodeURIComponent("Eddie Redmayne, Sweaters");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images
+
+Eddie Redmayne looks good in anything he wears.He's become such a fashion inspiration, Prada snagged him to be the face of its latest fall/winter ad campaign.And we couldn't help notice that the Oscar winner appears to have a thing for sweaters (or jumpers, as the British would say).The Fantastic Beast and Where to Find Them star's collection of knitwear is giving us major #sweatergoals.From classic preppy crewnecks to kitschy and colorful, check out the gallery below to see Eddie in all his sweater glory.
+/n

@@ -1,0 +1,52 @@
+Once Upon a Time Season 7 Scoop: A New Name for Regina, a New Career for Hook, and Details About Jennifer Morrison's Return "I don't think her name's Regina and that's cool. I'm no longer in pant suits. I'm.../n
+As we get closer and closer to the rebooted return of Once Upon a Time, details about the revamped seventh season continue to trickle out.We knew we'd be meeting new versions of returning characters Captain Hook (Colin O'Donoghue), Rumplestiltskin (Robert Carlyle) and the Evil Queen (Lana Parrilla), but we didn't know how truly different. Take Regina, for instance. As Parrilla revealed to reporters during the show's panel at the 2017 Television Critics Association summer press tour, the version of the character living out a new live under a fresh curse in Hyperion Heights—a neighborhood of Seattle, the show's new real-world setting—she won't even be going by the name Regina.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871738/once-upon-a-time-season-7-scoop-a-new-name-for-regina-a-new-career-for-hook-and-details-about-jennifer-morrison-s-return');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017624/rs_634x1024-170724123757-634-lana-ouat-abc.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Once Upon a Time, Lana Parrilla");
+	var imageCaption = encodeURIComponent("Once Upon a Time, Lana Parrilla");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC
+
+"I don't think her name's Regina and that's cool. I'm no longer in pant suits. I'm in denim and rock t-shirts," she admitted. "When we meet her…she's working in a bar. She's a bar owner. She's a little rough around the edges, not the queen that we're used to. She has curly hair. She's looks different, she feels different. Like Colin, I've played so many versions of this character, and this one feels really different. All the others were evolutions of the same character…She's no longer in charge, and we've always seen Regina in charge or try to be in charge."Speaking of her co-star, O'Donoghue opened up a bit about the new version of Hook. "When we meet Hook at the start of this season, he is a uniformed cop in Seattle. He's different from any of the 10 other Hooks I've played over the seasons," he said. "There's a sense of loss there in the guy and I think that he just doesn't know what it is that's missing, so he's striving to find who he is still." And if you're wondering whether men with hooks for hands can get accepted to the Hyperion Heights Police Department, co-created Adam Horowitz confirmed to reporters following the panel that yes, they can."He does not have his hand," he said. "We do get into 'Wait, why doesn't he have a hand?' That is an excellent question, but yeah, he does not have a hand."
+
+While Carlyle wasn't on hand to speak about his new iteration of Rumplestiltskin, Horowitz did provide some insight into the always up-to-no-good character. "He looks menacing, doesn't he," he said of the quick glimpse at the character in the season's trailer. "And I think there's always that element of menace and mystery. He's involved in many of the goings on in this neighborhood in Seattle. I don't want to say too much about the specifics about it, except to say it's another layer and color for Bobby to play." And if you're wondering how the show plans to address the happy endings Rumple and Hook were given at the end of season six despite their respective spouses Belle (Emilie De Ravin) and Emma Swan (Jennifer Morrison) leaving the series, the powers-that-be hear your concerns.
+
+"Episode two is going to answer what is happened with Emma and Captain Hook and episode four is going to answer that question for Belle," co-creator Edward Kitsis shared. "We are not trying to take anything away, but we are moving forward and we think we have a way to achieve both things."And as O'Donoghue added: "And [that's] also a good reason to watch."
+
+Any early guesses on what Regina's new name in Hyperion Heights might be? Share your theories in the comments below!
+
+Once Upon a Time returns for season seven on its new night, Friday, Oct. 6 at 8 p.m. on ABC.
+/n

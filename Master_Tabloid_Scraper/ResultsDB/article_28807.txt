@@ -1,0 +1,58 @@
+Helen Mirren Reveals the Surprising Reason She Decided to Marry Taylor Hackford Helen Mirren and her husband Taylor Hackford have been together for nearly 20 years—much longer than most Hollywood couples ever last. So what's their secre.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/812508/helen-mirren-reveals-the-surprising-reason-she-decided-to-marry-taylor-hackford');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161029/rs_634x828-161129123410-634.Helen-Mirren-AARP-Kf.112916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Helen Mirren, AARP The Magazine");
+	var imageCaption = encodeURIComponent("Helen Mirren, AARP The Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Miller Mobley for AARP The Magazine
+
+Helen Mirren and her husband Taylor Hackford have been together for nearly 20 years—much longer than most Hollywood couples ever last. So what's their secret?The actress covers the latest issue of AARP The Magazine and revealed how she never really wanted to get married. However, she took a different perspective after meeting Hackford."I did very consciously choose my work over my relationships right up to the time that I met Taylor," she explained. " I was 38 when I met Taylor, pretty late in life."  After being together for more than 10 years, they realized it was smart to tie the knot. "We got married in the end because we realized that we were going to be together forever," she said. "We got married, ultimately, for legal reasons more than anything else.  Estate planning and other complicated things like that.  And our families, we sensed, wanted us to be married."
+
+She continued, "I always said I have nothing against marriage. It just wasn't to my taste, like turnips. It took me a very long time to come around to acquiring the taste. I just had to meet the right turnip."
+
+
+
+Neilson Barnard/Getty Images
+
+Despite deciding to say "I do," Mirren has continued to progress in her career. In fact, she recently recommitted herself to performing on-stage."I didn't want to be famous, but I wanted to be a really good actress," she said about her decision to head back to the stage. "I wanted to be recognized as a great theater actress." After dedicating most of her life to performing, she also maintains a refreshing perspective on getting older."The best thing about being over 70 is being over 70. Certainly when I was 45, the idea of being 70 was like 'Arghhh!' but you only have two options in life: Die young or get old. There is nothing else."She continued, "The idea of dying young when you're 25 is kind of cool—a bit romantic, like James Dean.  But then you realize that life is too much fun to do that.  It's fascinating and wonderful and emotional. So you just have to find a way of negotiating getting old psychologically and physically." 
+
+
+
+ David Fisher/REX/Shutterstock
+
+One of the most exciting moments of Mirren's life was traveling to America when she was touring with the Royal Shakespeare Company in the '60s."I've always loved America," the actress explained. "I found it exciting. I found it liberating. I found it fascinating. America is so varied and so beautiful!"She recalled, "A few of us took the train across the Salt Lake plains of Utah, stopping in places like Cheyenne, where the train would stop literally in the middle of the town. You had 20 minutes, so you could pop out to a cowboy bar and come back. It was a great education, to see the landscape that those early pioneers crossed on foot or horse. That gave me a little inkling of what it means to be an American, to be able to contemplate that journey, let alone make it."
+
+Still, she doesn't necessarily consider herself an American because she has a "return ticket" if she ever wanted to leave. However, she's still having trouble coping with the British Exit from the European Union.When asked about Brexit, she could only describe it as "terrifying—tribalism, nationalism and self-protection."
+/n

@@ -1,0 +1,44 @@
+Dare to Wear: Georgia May Jagger Dons a Printed Suit Like a Boss We realize wearing a printed suit—especially of the cartoonish jellyfish variety—can borderline PJ party material. But you don't have to be an It Girl or model like Georgi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/725067/dare-to-wear-georgia-may-jagger-dons-a-printed-suit-like-a-boss');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151117/rs_600x800-151217140545-Dare-To-Wear-Print-Coordinates-Georgia-Jagger.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC, Dare to Wear, Georgia May Jagger");
+	var imageCaption = encodeURIComponent("ESC, Dare to Wear, Georgia May Jagger");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David M. Benett/Dave Benett/Getty Images
+
+We realize wearing a printed suit—especially of the cartoonish jellyfish variety—can borderline PJ party material. But you don't have to be an It Girl or model like Georgia May Jagger to pull off the look. A true style savant knows that printed coordinates are best paired, first and foremost, with confidence…and few solid basics, of course.Georgia's over-the-top suit may catch the eyes, but opt for a solid crop top with a low neckline to bring the attention to a focal point. To balance out the ultra-feminine look, Mick Jagger's daughter wore a leather top, which created an interesting contrast to the slouchy suit.
+
+Unlike Georgia, however, pair your geometric, animal or floral prints with strappy booties or sandals to dress up the look. Finally, add a textured bag with metal hardware to emphasize the edgier pieces in your ensemble. So, print coordinates: Do you dare?Dorothy Perkins Paper Dolls Floral Waffle Print Blazer, $59; Dorothy Perkins Paper Dolls Floral Waffle Print Trousers, $35; Michael Michael Kors Cropped Stretch-Crepe Top, $100; Schutz Juliana Caged Sandals, $190; Big Buddha Callie Clutch, $65
+/n

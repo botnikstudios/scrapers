@@ -1,0 +1,50 @@
+Records/NBC Taylor Kitsch She found another discreet partner in crime in FNL co-star Taylor Kitsch, whom she was rumored to be dating in real life just as Lila and Tim Riggins were falling for each other on the show.  Well, at least fan.../n
+Good for Minka Kelly.The dating world is tough enough without having all eyes on you every time you go out, and the film and TV star hasn't had a relationship all to herself in 10 years. But she hasn't let any awkward headlines stop her from being with whom she wants to be with, and when, as she navigates the pitfalls of DWF (dating while famous).She also barely ever talks about such things, and she never dishes specific details, preferring to keep the conversation focused on her career and various philanthropic endeavors. Even when interviews have been decidedly not about the craft, such as when Esquire named her the Sexiest Women Alive in 2010, she would only reveal so much, and never referred to her boyfriend at the time—New York Yankees superstar Derek Jeter—by name.
+
+"I think it comes with the territory. It's a small price to pay for the extraordinary life that I live," she said in a 2016 radio interview, taking a rare moment to acknowledge the existence of her personal life, and the mixture of true and untrue stories that have circulated over the years. "I think if they're paying attention, that must mean there's something [I'm doing right].""Look, if it's true and it's out, then it's true and it's out," Kelly added. "When it's not true and it's out, it's really frustrating. You just have to find the comedy in all of it."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866505/minka-kelly-makes-a-strong-case-for-not-ever-talking-about-the-men-she-s-dated-but-oh-the-stories-she-could-tell');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017612/rs_634x1024-170712132554-634-minka-kelly.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Minka Kelly");
+	var imageCaption = encodeURIComponent("Minka Kelly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+And she's had plenty of opportunities to laugh.Since scoring her breakout role on Friday Night Lights in 2006, Kelly has made a habit of playing her cards extremely close to the vest, pre-marriage Cameron Diaz-style, about who she's dating—and she's almost always dating someone people would want to know more about.On the flip side, almost as though they're living up to their end of the bargain, no guy has ever spilled the beans about Kelly, either. Not even John Mayer.But while the red-carpet-couple life hasn't been her thing, it's not as though she doesn't go out in public on dates as she pleases. In fact, over time she's gotten her date-a-movie-star-like-he's-just-anyone game down to a science.
+
+So if Williams would like to have a decidedly undramatic relationship in the wake of his divorce, he probably couldn't have picked a better person to fall for than Minka Kelly, a Sexiest Woman Alive type who also keeps it classy.
+
+"I really don't like dating," Kelly admitted to Men's Health in 2009. "I think it's awkward and uncomfortable and inauthentic. You're on your best behavior, trying to impress the other person."If you want to date me, just be my friend and ask me if I want to hang out."
+/n

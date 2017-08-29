@@ -1,0 +1,52 @@
+Jared Leto and Linkin Park Pay Tribute to Chester Bennington and Chris Cornell at the 2017 MTV VMAs There's been a lot to celebrate at the 2017 MTV Video Music Awards, and while most of it has brought smiles to our faces, the music worl.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876156/jared-leto-and-linkin-park-pay-tribute-to-chester-bennington-and-chris-cornell-at-the-2017-mtv-vmas');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017727/rs_634x1024-170827182119-634.Jared-Leto-Chester-Bennington.ms.082717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jared Leto, Chester Bennington");
+	var imageCaption = encodeURIComponent("Jared Leto, Chester Bennington");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images
+
+There's been a lot to celebrate at the 2017 MTV Video Music Awards, and while most of it has brought smiles to our faces, the music world cannot overlook one deeply tragic fact: It's lost two of its biggest rock stars. Linkin Park's Chester Bennington and Soundgarden's Chris Cornell both took their lives earlier this year, completely rocking the music industry and everyone they touched with their voices.Jared Leto took the stage at the VMAs to pay tribute to the fallen stars with a touching message."In 1976, in Phoenix, Arizona, a child was born," Leto began. "He was precocious, full of life, and determined. He grew up to become the singer of one of the biggest rock bands in the history of music. His name was Chester Bennington."
+
+As the crowd applauded, Leto cotinued, "MTV asked me to come here to say a few words about Chester and the late, great, Chris Cornell, two artists I had the absolute pleasure of touring with. They were close friends with one another. Chester even singing the cover of the classic 'Hallelujah' at Chris' funeral. Chester said of Chris, 'Your voice was joy and pain and anger and forgiveness, love and heartache, all wrapped up into one.' Just weeks later, Chester himself was gone. Chester was my friend. As he was to so many. Witnessing his life taught me important things. Especially about working relentlessly, pursuing dreams, and being kind and caring while doing it."
+
+He recalled of his late friend, "When I talk about him, I see his face, which was always smiling. I think about his heart, which he wore on his sleeve. I think how kindly he treated me...and I remember his voice. At once ferocious and delicate, that voice will live forever."Leto also took a moment to reach out to anyone suffering from depression that they are not alone."If there is anyone out there who is watching this tonight, who feels like there is no hope, hear me now," Leto said. "You are not alone. There is always a way forward. Reach out, share your thoughts, do not give up, and, I promise you this: The absolute biggest breakthroughs in life lay just beyond the darkest days."Leto then welcomed Linkin Park to the stage, who performed in honor of the late rock stars.
+
+As you likely (and sadly) recall, Cornell was found unresponsive with a band around his neck in his hotel bathroom at the MGM Grand Detroit on May 17, just a few hours after giving what would be his last performance at the Fox Theater. He was 52.After a full autopsy report, the Wayne County Medical Examiner's Office confirmed to E! News that his death was caused by hanging. Though toxicology reports did reveal drugs were detected in the singer's system, they "did not contribute to the cause of death."
+
+A little over two months later—on what would have marked Cornell's 53rd birthday on July 20—Bennington's body was found in a private home in the upscale Palos Verdes neighborhood of Los Angeles.The L.A. county coroner's office determined his cause of death was also suicide by hanging. He was 41.
+
+If you or someone you know needs help, please call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
+/n

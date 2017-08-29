@@ -1,0 +1,72 @@
+Diana's Secret Heartbreak The romance between Princess Diana and the handsome doctor she fell in love with in the years after her split from Prince Charles has become the stuff of legend. In the final weeks before her tragic death in Pa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860864/the-truth-about-princess-diana-s-secret-heartbreak');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016530/rs_634x1024-160630110151-634.Princess-Diana-Sydney-Entertainment-Centre-1996.ms.063016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Princess Diana, Best Looks");
+	var imageCaption = encodeURIComponent("Princess Diana, Best Looks");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tim Graham/Getty Images
+
+The romance between Princess Diana and the handsome doctor she fell in love with in the years after her split from Prince Charles has become the stuff of legend.In the final weeks before her tragic death in Paris in 1997, friends say it was Hasnat Khan—and not Dodi Al-Fayed, the man killed alongside her in that violent car crash—who was occupying her thoughts.The affair with the heart surgeon had begun two years before. They met when she visited a friend at the London hospital where he worked. Minutes after first laying eyes on him, she described him as "Mr. Wonderful"—a nickname which stuck and ultimately sent the press into a frenzy when the media found out about her new suitor a few months later.The War of the Wales had left Diana a husk of her former self. Being cast out of the royal family meant she was fraught with insecurities and loneliness. Yet despite the breakdown of her marriage, the public's fascination with her life seemed to only increase with each passing month. The Princess of Wales (she was allowed to keep her title) was hounded everywhere she went.
+
+But her relationship with the press was mutually beneficial; the year Diana met Hasnat, 1995, coincided with the explosive "there were three of us in this marriage" interview she gave to the BBC's Martin Bashir. In Hasnat, Diana found comfort.  As a friend of hers told me recently, "She was extremely lonely by the time they met. She had lost everything and because things had gotten so bad with Charles, she didn't know who to trust."
+
+"She felt rejected and discarded and then along came this incredibly kind and compassionate man," the friend said. "Unlike some of the people in her life who had sold her out to the press, Hasnat didn't care about her fame. He was different and she knew she could rely on him."
+
+
+
+Stan Karczmarz/Sygma/Sygma via Getty Images
+
+The couple had an intense love affair for the next two years. There were clandestine meetings at his flat and also Kensington Palace, and she even introduced him to Prince William and Prince Harry; however, not many other people got to meet him, as Hasnat would often sneak past the royal security guards by hiding in the trunk of a car.In an exhaustive statement given to the final inquest into her fatal car crash, Hasnat described how being together exposed the woman, who once thought she would be queen, to the normality of everyday life: "Diana was also not used to doing everyday things that the rest of us take for granted. For example, we once went to the pub together and Diana asked if she could order the drinks because she had never done so before. She really enjoyed the experience and chatted away happily to the barman. On another occasion we had to queue to get into Ronnie Scott's jazz club. She later said she loved queuing as you get to meet so many people."
+
+In the limited time they were together, they discussed marriage, the possibility of moving in and all the usual things lovers contemplate when considering a future. But, in the summer of 1997, it all came crashing down and they decided to split. In the years since, it is often written that Hasnat was "the love of her life" but was unable to handle the public attention which accompanied her fame or bridge the cultural divide between her English aristocrat and his Pakistani upbringing. The doomed circumstances have always fascinated me, the idea that Diana could have died while in the middle of trying to make her ex jealous by publicly dating international playboy Dodi. What led to her decision to be in Paris on the night she died? Was it really her way of taking revenge and trying to get Hasnat back?And was there a possibility that, if she hadn't been in the car that night, Diana and Hasnat would have found a happier ending?But as I started contacting Diana's circle of friends, a different version of her story began to emerge.
+
+"Hasnat was not the love of her life, at all," says one member of her inner circle. "The truth is she didn't want to be with Hasnat in the end. Diana is the one who actually decided they weren't suited. It had nothing to do with religion or her fame. She didn't think he would be the best person to help co-parent William and Harry."Diana's biggest fear was that one day she might lose the access she had to her children. She didn't think Hasnat was a suitable father figure. He had his own issues and she didn't want to give the royal family an excuse to find fault with whoever she chose to end up with. She just couldn't risk it."Diana's own childhood had been difficult. Her family was pulled apart after her parents split and her mother lost custody. The last thing Diana wanted was for William and Harry to have anything resembling her own upbringing. She and Charles had finally been granted a divorce in 1996 and together they had been able to shelter the children from much of the drama playing out on the front pages of the newspapers.
+
+
+
+Tim Graham/Getty Images
+
+"She didn't want a repeat of her own history," says her friend. "Hasnat was never going to be the security blanket she needed. And that was top of her mind when she walked away from him. In the end, Diana was very honest with Hasnat about why he wasn't right for her. She loved him but not enough to compromise."Hasnat was definitely not the love of Diana's life, Charles was!"When we think back to Diana and Charles' marriage, it's easy to remember why they were so unsuited, from their 13-year age difference to their affairs—his with Camilla Parker Bowles and hers with James Hewitt. The challenges were extreme and plentiful.
+
+"And yet she always regretted the end of the marriage," says a confidante who spoke to her in her final year. "Diana was devastated when it finally ended. Honestly, she was hurt beyond belief."She spoke about it to friends. She was very aware that the bitterness that grew from the divorce was simply that the worst of situations brought out the worst in people."The source claims the marriage didn't break down because of a lack of love, but rather because Diana wasn't given the right support or preparation for her role as future queen (the couple only met 12 times before he proposed). That is something the royal family seems to have successfully corrected with William's long courtship and eventual union with Kate Middleton.
+
+
+
+AP Photo/Patrick Bar-Nice Matin
+
+"There was really no one around to give her guidance after she was thrust into the marriage and the spotlight," says someone who discussed the issue with Diana. "And anyone that she was confiding in at the time seems to have been giving her the wrong advice."Diana and those closest to her didn't understand what marrying Charles really entailed. His role was to the throne and no matter what, that had to come first. He was raised to be King but neither the royal family nor her friends really explained to her what that actually meant and that contributed to the breakdown of the marriage."In her final years she came to the realization, if she had had the right people in her circle things might have been different. She really did love Charles, he was the father of her children, so who knows what might've happened if she'd had a different understanding of what she was taking on?"
+
+This August marks the 20-year anniversary of Diana's death and yet even after two decades, there are still so many questions that remain about her life and loves. But there is one thing her closest friends seem certain of—the man who broke her heart, the one who got away, was not Hasnat Khan.It was actually Prince Charles.
+/n

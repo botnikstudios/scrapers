@@ -1,0 +1,91 @@
+ Joe Jailed: Inside Giudice's 'Dangerous' & Disgusting Prison Hell — 'It's Pure Punishment'.../n
+
+					var next_post_url = "http://radaronline.com/photos/hillary-clinton-plastic-surgery-makeover-transformation-revealed-photos/";
+					var prev_post_url = "http://radaronline.com/photos/jenelle-evans-baby-courtland-rogers-prison-love-child/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-03-23T20:46:28+00:00","caption":"Joe Giudice's 41-month stay at New Jersey's Federal Correctional Institution, Fort Dix, is going to be absolute hell, according to former inmate Earl David. Click through RadarOnline.com's gallery to find out why!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:40:57+00:00","caption":"Joe Giudice will be heading to prison in March to begin serving his 41-month sentence at New Jersey's Federal Correctional Institution, Fort Dix. Between poor living conditions and safety issues, the 43-year-old reality star might have a hard time during his sentence, prison expert Earl David told Radar.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:40:59+00:00","caption":"David served over 13 months at Fort Dix and revealed exclusively to Radar what really goes on behind the scenes at the notorious prison.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:01+00:00","caption":"The former inmate speculated that Guidice will most likely end up in \"the camp\"\u2014a smaller building adjacent to the main prison. This area houses about 400 people and functions somewhat like a large dorm, similar to the Connecticut facility in which Giudice's wife Teresa recently served time.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:02+00:00","caption":"Despite it's quaint nickname, the camp's conditions are questionable\u2014especially the bathrooms, claimed David.\n","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:04+00:00","caption":"\"In some of the buildings the showers are disgusting. It's horrible and they're falling apart,\" he said. \"There's no toilet paper in the bathroom. You have to go to another building to pick up tissue once a month. They give you like four rolls of toilet paper.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:06+00:00","caption":"David also explained that visits are particularly terrifying.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:07+00:00","caption":"\"When you go for a visit you have to strip naked, they check you from head to toe. You've got to sit in a chair for like two hours straight. If you have to go to the bathroom then your visit's terminated\u2014it's really crazy,\" David told Radar.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:09+00:00","caption":"The Bravo star may also have to face a bit of boredom [http:\/\/radaronline.com\/celebrity-news\/joe-giudice-prison-sentence-teresa-giudice-kids-cameras\/], said David, who said there isn't a whole lot to do at Fort Dix.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:11+00:00","caption":"\"Most of the time you just walk the track,\" said the former inmate. \"They have a boxing court. It's horrible; every day is the same thing. It's got no rehabilitative measures whatsoever\u2014it's pure punishment.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:12+00:00","caption":"David warned Giudice to have all of his paperwork in order to try to avoid fights with his fellow inmates.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:14+00:00","caption":"\"He's got to make sure he has his paperwork because one-third of the place is cho-mos,\" or child molesters, claimed David. \"If you're a white person, you're [automatically] considered a cho-mo, and then you can get attacked.\"\n","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-23T19:41:16+00:00","caption":"\"There are people who are getting attacked all the time,\" alleged David. \"They put a lock in a sock and they whack people over the head. When I was there, every week someone got attacked. It's very dangerous.\" A public information officer for the prison told Radar, \"We cannot speak to the former inmate's comments and there are currently no complaints related to the specific issues raised.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/joe-giudice-fort-dix-new-jersey-prison-hell-06.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Joe Jailed: Inside Giudice’s ‘Dangerous’ & Disgusting Prison Hell — ‘It’s Pure Punishment’
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 13 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 13joe-giudice-fort-dix-new-jersey-prison-hellJoe Giudice's 41-month stay at New Jersey's Federal Correctional Institution, Fort Dix, is going to be absolute hell, according to former inmate Earl David. Click through RadarOnline.com's gallery to find out why!Photo credit: Getty Images2 of 13joe-giudice-fort-dix-new-jersey-prison-hell-03Joe Giudice will be heading to prison in March to begin serving his 41-month sentence at New Jersey's Federal Correctional Institution, Fort Dix. Between poor living conditions and safety issues, the 43-year-old reality star might have a hard time during his sentence, prison expert Earl David told Radar.Photo credit: Getty Images3 of 13joe-giudice-fort-dix-new-jersey-prison-hell-02David served over 13 months at Fort Dix and revealed exclusively to Radar what really goes on behind the scenes at the notorious prison.Photo credit: Getty Images4 of 13joe-giudice-fort-dix-new-jersey-prison-hell-01The former inmate speculated that Guidice will most likely end up in "the camp"—a smaller building adjacent to the main prison. This area houses about 400 people and functions somewhat like a large dorm, similar to the Connecticut facility in which Giudice's wife Teresa recently served time.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 13joe-giudice-fort-dix-new-jersey-prison-hell-05Despite it's quaint nickname, the camp's conditions are questionable—especially the bathrooms, claimed David.
+Photo credit: Getty Images6 of 13joe-giudice-fort-dix-new-jersey-prison-hell-12"In some of the buildings the showers are disgusting. It's horrible and they're falling apart," he said. "There's no toilet paper in the bathroom. You have to go to another building to pick up tissue once a month. They give you like four rolls of toilet paper."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 13joe-giudice-fort-dix-new-jersey-prison-hell-04David also explained that visits are particularly terrifying.Photo credit: Getty Images8 of 13joe-giudice-fort-dix-new-jersey-prison-hell-07"When you go for a visit you have to strip naked, they check you from head to toe. You've got to sit in a chair for like two hours straight. If you have to go to the bathroom then your visit's terminated—it's really crazy," David told Radar.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 13joe-giudice-fort-dix-new-jersey-prison-hell-09The Bravo star may also have to face a bit of boredom [http://radaronline.com/celebrity-news/joe-giudice-prison-sentence-teresa-giudice-kids-cameras/], said David, who said there isn't a whole lot to do at Fort Dix.Photo credit: Getty Images10 of 13joe-giudice-fort-dix-new-jersey-prison-hell-10"Most of the time you just walk the track," said the former inmate. "They have a boxing court. It's horrible; every day is the same thing. It's got no rehabilitative measures whatsoever—it's pure punishment."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 13joe-giudice-fort-dix-new-jersey-prison-hell-11David warned Giudice to have all of his paperwork in order to try to avoid fights with his fellow inmates.Photo credit: Getty Images12 of 13joe-giudice-fort-dix-new-jersey-prison-hell-08"He's got to make sure he has his paperwork because one-third of the place is cho-mos," or child molesters, claimed David. "If you're a white person, you're [automatically] considered a cho-mo, and then you can get attacked."
+Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 13joe-giudice-fort-dix-new-jersey-prison-hell-06"There are people who are getting attacked all the time," alleged David. "They put a lock in a sock and they whack people over the head. When I was there, every week someone got attacked. It's very dangerous." A public information officer for the prison told Radar, "We cannot speak to the former inmate's comments and there are currently no complaints related to the specific issues raised."Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+joe-giudice-fort-dix-new-jersey-prison-hellJoe Giudice's 41-month stay at New Jersey's Federal Correctional Institution, Fort Dix, is going to be absolute hell, according to former inmate Earl David. Click through RadarOnline.com's gallery to find out why!Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-03Joe Giudice will be heading to prison in March to begin serving his 41-month sentence at New Jersey's Federal Correctional Institution, Fort Dix. Between poor living conditions and safety issues, the 43-year-old reality star might have a hard time during his sentence, prison expert Earl David told Radar.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-02David served over 13 months at Fort Dix and revealed exclusively to Radar what really goes on behind the scenes at the notorious prison.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-01The former inmate speculated that Guidice will most likely end up in "the camp"—a smaller building adjacent to the main prison. This area houses about 400 people and functions somewhat like a large dorm, similar to the Connecticut facility in which Giudice's wife Teresa recently served time.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-05Despite it's quaint nickname, the camp's conditions are questionable—especially the bathrooms, claimed David.
+Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-12"In some of the buildings the showers are disgusting. It's horrible and they're falling apart," he said. "There's no toilet paper in the bathroom. You have to go to another building to pick up tissue once a month. They give you like four rolls of toilet paper."Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-04David also explained that visits are particularly terrifying.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-07"When you go for a visit you have to strip naked, they check you from head to toe. You've got to sit in a chair for like two hours straight. If you have to go to the bathroom then your visit's terminated—it's really crazy," David told Radar.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-09The Bravo star may also have to face a bit of boredom [http://radaronline.com/celebrity-news/joe-giudice-prison-sentence-teresa-giudice-kids-cameras/], said David, who said there isn't a whole lot to do at Fort Dix.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-10"Most of the time you just walk the track," said the former inmate. "They have a boxing court. It's horrible; every day is the same thing. It's got no rehabilitative measures whatsoever—it's pure punishment."Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-11David warned Giudice to have all of his paperwork in order to try to avoid fights with his fellow inmates.Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-08"He's got to make sure he has his paperwork because one-third of the place is cho-mos," or child molesters, claimed David. "If you're a white person, you're [automatically] considered a cho-mo, and then you can get attacked."
+Photo credit: Getty Imagesjoe-giudice-fort-dix-new-jersey-prison-hell-06"There are people who are getting attacked all the time," alleged David. "They put a lock in a sock and they whack people over the head. When I was there, every week someone got attacked. It's very dangerous." A public information officer for the prison told Radar, "We cannot speak to the former inmate's comments and there are currently no complaints related to the specific issues raised."Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

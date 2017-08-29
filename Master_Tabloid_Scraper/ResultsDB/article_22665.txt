@@ -1,0 +1,49 @@
+Dolly Parton Tells All in New Book: 5 Shocking Revelations About Suicide, Sex and So Much More The End of Dolly: In the early ‘80s, Dolly struggled with her mental health as she thought about committing suicide. "I was sitting upstairs in my bedroom .../n
+There's nobody quite like Dolly Parton.In her long, fruitful career, the legendary singer has developed a huge fan base thanks to her catchy songs, signature humor and work on and off the big screen.And while fans may think they know everything about the 9 to 5 performer, a new book just released is revealing even more facts about Dolly.The project titled Dolly on Dolly is described as a collection of interviews spanning five decades of her career and featuring material gathered from various publications. While the book is not authorized or endorsed by Dolly herself, editor Randy L. Schmidt says readers will sense Dolly's feisty and irresistible brand of humor through her unique storytelling.So what's exactly in this new book that's gaining plenty of buzz? Let's take a dive into Dolly on Dolly.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848593/dolly-parton-tells-all-in-new-book-5-shocking-revelations-about-suicide-sex-and-so-much-more');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201744/rs_676x1024-170504134041-634.Dolly-Parton-Book-Cover.kg.050417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dolly Parton, Book Cover");
+	var imageCaption = encodeURIComponent("Dolly Parton, Book Cover");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+The End of Dolly: In the early ‘80s, Dolly struggled with her mental health as she thought about committing suicide. "I was sitting upstairs in my bedroom one afternoon when I noticed in the nightstand drawer my gun that I keep for burglars. I looked at it a long time... Then, just as I picked it up, just to hold it and look at it for a moment, our little dog, Popeye, came running up the stairs," Dolly recalled in quotes obtained by the Daily Mail. "The tap-tap-tap of his paws jolted me back to reality. I suddenly froze. I put the gun down. Then I prayed. I kinda believe Popeye was a spiritual messenger from God."She continued, "I don't think I'd have done it, killed myself, but I can't say for sure. Now that I've gone through that terrible moment, I can certainly understand the possibilities even for someone solid like me if the pain gets bad enough."
+
+From Rags to Riches: While Dolly has discussed her poor childhood before, this new book further goes into detail about just how tough times were for the singer and her family while growing up. During the summer, Dolly and her siblings had to bathe in the river. When the winter months came along, Dolly recalled sleeping in a bed with three to four kids where someone would pee. "That was the only warm thing we knew in the wintertime," she wrote. "That was our most pleasure to get peed on. If you kept the air out from under the cover, the pee didn't get so cold."Let's Talk About Sex Baby: While Dolly doesn't want to reveal the exact age when she lost her virginity, the "Jolene" singer acknowledges that she learned about the birds and the bees early on. "I always had an open mind about sex. We all did. It was not a vulgar thing," she shared. "We didn't know what we were doin', we just knew we weren't supposed to let Momma and Daddy know it. We would just play doctor and nurse, just explore and experiment."
+
+The Look of Dolly: While she may be known for her fashionable outfits and big blond hair, the actress says there is much more than what meets the eye. "I like the big hairdo, the gaudy clothes. I've never thought of myself as being a sex symbol and I don't want to have to be a beautiful woman, like Raquel Welch," Dolly shared. "I want people to know it's me when they see me coming and when they see me leavin'…so I figured I might as well look even more extreme." The singer added that she "had titties since I was eight" and got her period at nine years old. "I just grew up really quick. I looked grown-up when I was eleven...I was perfect, perfect for country, that is," she explained. 
+
+Food for Thought: At one point in her life, Dolly suffered from binge eating which helped contribute to a 50-pound weight gain. "I was always just a hog, I still am. I'm short and I have a big appetite. I can't do nothing just a little. It's hard for me to love a little, have sex a little, to eat a little," she shared. "I like to do everything and I like to do it all the way that I want to do it."
+/n

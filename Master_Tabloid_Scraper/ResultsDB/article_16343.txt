@@ -1,0 +1,48 @@
+Kerry Washington, proving that the timeless look is always elegant. Other standout manis included Connie Britton's edgy metallic look created with Essie nail polishes, and Zosia Mamet's moody dark gray design trimmed with black lac.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/461967/zooey-deschanel-sarah-hyland-and-more-rock-edgy-red-carpet-manicures-at-the-2013-emmys');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013823/rs_634x1024-130923085028-634-zooey-deschanel-manicure-emmys.ls.92313_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zooey Deschanel, Emmy Awards 2013, manicure");
+	var imageCaption = encodeURIComponent("Zooey Deschanel, Emmy Awards 2013, manicure");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Trae Patton/CBS Photo Archive/CBS via Getty Images
+
+Last night's Emmy Awards was action packed, and filled with awe-inspiring fashion and beauty moments that we're still buzzing about this morning!From the beautiful ball gowns to the gorgeous updos, the red carpet looks were certainly spectacular.Quite possibly one of our favorite aspects of any big awards show is the way celebs really show off their personal style on the red carpet—especially when it comes to their manicures!We spotted several cool stars like Zooey Deschanel and Sarah Hyland rocking beautiful nail art that paired perfectly with their designer gowns. 
+
+
+
+Jason Merritt/Getty Images
+
+From playful checkerboard designs to seductive art deco effects, the best manis were not to go unnoticed.Pale nails also dominated the carpet as seen on Allison Williams, Sofia Vergara and Kerry Washington, proving that the timeless look is always elegant.Other standout manis included Connie Britton's edgy metallic look created with Essie nail polishes, and Zosia Mamet's moody dark gray design trimmed with black lacquer.Outrageous!
+/n

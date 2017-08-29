@@ -1,0 +1,48 @@
+UPDATE! MMA Fighter Jonathan "War Machine" Koppenhaver Found Guilty of Violence and Sexual Assault Against Christy Mack UPDATE: Jonathan "War Machine" Koppenhaver has been sentenced to life in prison with the possibility .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/569984/mma-fighter-jonathan-war-machine-koppenhaver-arrested-after-allegedly-assaulting-ex-girlfriend');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014715/rs_634x700-140815165320-634.warmachine.cm.81514.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jonathan "War Machine" Koppenhaver Mugshot, Mug Shot");
+	var imageCaption = encodeURIComponent("Jonathan &quot;War Machine&quot; Koppenhaver Mugshot, Mug Shot");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Las Vegas Metro Police
+
+UPDATE: Jonathan "War Machine" Koppenhaver has been sentenced to life in prison with the possibility of parole in 36 years, according to local media reports. The earlier that the former professional MMA fighter will be released from prison is when he is 71-years-old.________Koppenhaver was found guilty on 29 out of 34 charges today in a Las Vegas court. The jury was not able to reach a verdict on two charges: attempted murder and attempted murder with a weapon against his girlfriend at the time, Christy Mack. He is currently facing a life sentence based on today's ruling."We're very disappointed in the verdict but we have the highest respect for the jury system and respect the perspicacity of this jury," Jonathan's attorney said in a statement to E! News. "Even so, we haven't the luxury of dwelling upon the verdict. It's time to pour all of our efforts into a motion for a new trial and toward securing the best sentence we can for Mr. Koppenhaver." ________War Machinewas arrested in Simi Valley, Calif. today, according to NBC News.The MMA fighter has been accused of beating his ex-girlfriend, adult entertainer Christy Mack. An arrest warrant was issued for the 32-year-old mixed martial artist earlier this week stemming from an incident in Las Vegas, charging him with several counts of battery, assault with a deadly weapon and other crimes, police said, per The Los Angeles TimesOfficials took Koppenhaver into custody around 1:45 p.m. on Friday, at the request of the U.S. Marshals Service.Police said he was found at a Simi Valley hotel, where there was a "a small quantity of cash and some pizza" in the room before he was transported to the Ventura County Jail.
+
+Earlier this week, Mack took to Twitter to share a series of extremely graphic photos of her injuries, which, she claimed she sustained as a result of a brutal beating by her ex BF.She also released a lengthy statement in regards to the Las Vegas incident, alleging Koppenhaver arrived unannounced at her home in Sin City before he proceeded to assault Mack as well as her unarmed companion. "Without a single word spoken, he began beating my friend; once he was finished, he sent my friend away and turned his attention to me. He made me undress and shower in front of him, then dragged me out and beat my face," she said, adding that her injuries include 18 broken bones around her eyes as well as a broken nose and missing teeth.
+
+However, after she began making headlines for her allegations, War Machine took to Twitter to defend himself and even claimed that he was planning to propose to Mack (she claims the two split in May)."I'm not a bad guy, I went to surprise my gf, help her set up her show and to give her an engagement ring and ended up fighting for my life," he wrote on Sunday. "The cops will never give me fair play, never believe me. Still deciding what to do but at the end of the day it's all just heart breaking." 
+
+"I only wish that man hadn't been there and that Christy & I would be happily engaged. I don't know y I'm so cursed," he continued. "One day truth will come out."A fundraising page has been set up to aid with Mack's medical expenses. To date, the campaign has raised over $66,000.(Originally published on August 15, 2014 at 5:07 p.m. PT)
+/n

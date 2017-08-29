@@ -1,0 +1,44 @@
+Emma Stone Will Make Broadway Debut as Cabaret's Sally Bowles UPDATE: Cabaret has confirmed Stone will make her Broadway debut for a limited time beginning Nov. 11. _________________________ Broadway could soon be bringing a huge A-list movie star to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/568388/emma-stone-in-talks-again-to-make-broadway-debut-as-cabaret-s-sally-bowles');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201445/rs_634x1024-140505175449-634.emma-stone-met.ls.5514.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emma Stone, MET Gala");
+	var imageCaption = encodeURIComponent("Emma Stone, MET Gala");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dimitrios Kambouris/Getty Images
+
+UPDATE: Cabaret has confirmed Stone will make her Broadway debut for a limited time beginning Nov. 11._________________________Broadway could soon be bringing a huge A-list movie star to the stage!Emma Stone is in negotiations to make her Broadway debut in Cabaret, a rep from the Roundabout Theatre Company confirms to E! News. Stone would play headlining British singer Sally Bowles in the smash-hit musical.This isn't the first time Stone has been in talks to star in the successful production.In April 2013, the actress was close to finalizing a deal with the show. Scheduling conflicts with an upcoming feature film, however, would ultimately force her to pass on the opportunity.    
+
+If talks continue and a deal is reached, Stone would take over the role when Michelle Williams leaves the show at the beginning of November.Cabaret tells the story of a 19-year-old English performer (Sally Bowles) and her relationship with a young American writer. It is currently scheduled to play in New York's Studio 54 through January 2015.  Stone is well-known for her roles on the big screen in films such as The Help, Easy A and The Amazing Spider-Man franchise. And while many people realize she can be a fabulous actress, some may be surprised to find out that she also has quite the voice. Just watch her video from the 2004 competition show, In Search of the Partridge Family, for proof. (Originally published on Monday, Aug. 11, 2014, at 8:06 p.m. EDT.)
+/n

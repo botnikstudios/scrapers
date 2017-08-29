@@ -1,0 +1,50 @@
+Janet Jackson and Wissam Al Mana Face Off in Divorce Court It's the beginning of the end. Janet Jackson and Wissam Al Mana appeared in the Royal Courts of Justice in London Thursday to begin their divorce proceedings. The 51-year-old &q.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/861489/janet-jackson-and-wissam-al-mana-face-off-in-divorce-court');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017516/rs_634x1125-170616094549-634.Janet-Jackson-JR-061617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Janet Jackson, Wissam Al Manna");
+	var imageCaption = encodeURIComponent("Janet Jackson, Wissam Al Manna");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID
+
+It's the beginning of the end.Janet Jackson and Wissam Al Mana appeared in the Royal Courts of Justice in London Thursday to begin their divorce proceedings. The 51-year-old "That's the Way Love Goes" singer left with her assistant and her legal team and looked to be "in great spirits," an onlooker says. The 42-year-old Qatari businessman, meanwhile, exited without an entourage and appeared "somber."The former couple appeared in the only court where the media is not allowed.A source believes the exes had a private meeting with Justice Anna Pauffley that began at 10 a.m. local time. Wissam was the first to leave at 4:10 p.m., followed by Janet 20 minutes later.Janet and Wissam married in 2012, and five years later, they welcomed a son, Eissa Al Mana. Three months after Eissa's birth, Janet's rep told E! News the couple had decided to call it quits.
+
+
+
+BACKGRID
+
+A source tells E! News the pop star has "been under stress" since her springtime split. One of the main reasons they broke up is that she disagreed with how Wissam "wanted to raise their child." Luckily, "She has the support of her family and has a crazy good legal team behind her."Janet addressed her breakup on YouTube last month, telling fans, "I just want to keep it real with you guys for a second. Yes, I separated from my husband. We are in court. And the rest is in God's hands." This was Janet's third marriage, as was briefly married to singer James DeBarge in 1984; they split a year later and their union was later annulled. She then secretly married backup dancer turned music video director René Elizondo Jr. in 1991, but they split up in 2000.As her latest divorce proceedings continue, Janet is relying more and more on her family. A few of her brothers are currently in London, and they're excited to finally meet Eissa. "I haven't seen him!" Jackie Jackson admitted on ITV's Loose Women Friday. "While I'm here I'm going to see him. We've seen pictures." Jermaine Jackson added, "I've heard him crying on the phone!"
+
+After that, Janet will spend the rest of the summer prepping for the State of the World tour, a continuation of the Unbreakable tour (which was postponed due to her pregnancy). It will kick off Sept. 7 at the Cajundome in Lafayette, La., and wrap Dec. 17 at the Philips Arena in Atlanta.Says a source, "She is getting ready for a big comeback."
+/n

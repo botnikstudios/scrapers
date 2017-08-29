@@ -1,0 +1,64 @@
+In Defense of: Claire Danes Was the Sarah Jessica Parker of Met Gala 2017 It wasn't a Rihanna moment…but it should have been. It takes a minute to fully appreciate the thoughtfulness that went into Claire Danes' Monse ensemble, but.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/847909/in-defense-of-claire-danes-was-the-sarah-jessica-parker-of-met-gala-2017');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_765x1024-170501201444-765.Claire-Danes-2017-Met-Gala-Look.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Claire Danes, 2017 Met Gala");
+	var imageCaption = encodeURIComponent("ESC: Claire Danes, 2017 Met Gala");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Fisher/REX/Shutterstock
+
+It wasn't a Rihanna moment…but it should have been.It takes a minute to fully appreciate the thoughtfulness that went into Claire Danes' Monse ensemble, but once you fully understand how major this look is for the typically feminine, minimalistic A-lister, she may make your best dressed list, too.You see, there were a few celebs who really took the Costume Institute's theme, "Rei Kawakubo/Comme des Garçons: Art of the In-Between" to heart: Pharrell Williams' wife, Helen Lasichanh, and Riri actually wore CDG, while Katy Perry and Tracee Ellis Ross understood that this was an opportunity to pay homage to a designer known for creating structural, thought-provoking pieces.
+
+Still, there were more body-con, sequined gowns than out-of-the-box, deconstructed dresses. When so many celebs looked pretty in ensembles perfect for the Golden Globes, the actress, who we'd expect to be in that category, threw us a style curve ball—and we're so glad she did. That's the art of Hollywood reinvention, people!
+
+
+
+Andrew H. Walker/REX/Shutterstock
+
+This may not be your personal style—the "OMG! No! Just plain awful" comments will most likely outnumber the positive ones. But think back to Sarah Jessica Parker's ensemble from the 2016 Met Gala—the double-breasted coat, tulle sleeves and white culottes had the Internet calling her pirate-chic. A day later, SJP shut down haters, calling to attention that the event's theme, "Manus x Machina: Fashion in an Age of Technology," promoted the advancement of fabrication—not just wearing the most sparkly, metallic dress and dubbing it tech-y."Perhaps you weren't aware of the technology used in the details and embellishments of the design," she wrote in response to a critical fan.That's the purpose of the Met Gala: fashion education and awareness.
+
+
+
+Schildhorn/BFA/REX/Shutterstock
+
+In the same vein, we think—or at least hope—that Claire was trying to teach us that the tension—the asymmetrical shoulder paired with a simple train; the ruffles outshining metal details—seen throughout her outfit pays tribute to the feelings Rei Kawakubo tries to evoke with her own collection. It's OK not to understand clothing at first. Then there's the fact that the Homeland actress wore Monse, the super-edgy, cool brand every celeb stylist is trying to secure for their clients.Claire's hair, too, looked very much different from the norm. Typically, we see the blonde in straight hair, slightly parted on the side, with just a touch of volume—it's pretty but expected. For the Met Gala, however, hairstylist Peter Butler, on behalf of Schwarzkopf, created an architectural pompadour, leaving a few loose strands to frame her face. The height of her hair was just as voluminous as the fan-pleating on her top. If her strands were left straight, as it normally is, the full impact of the shirt could have been lost.
+
+
+
+Timpone/BFA/REX/Shutterstock
+
+Hate or love it, Claire's look was different—different than the naked dresses we've come to expect at the Met Gala and much different from what you'll usually see on the actress. A lot of people will argue, "Just because something is artistic, doesn't mean it should look weird or ugly." Yes, that's true. At the same time, just because something doesn't look conventionally beautiful, doesn't mean there's not a message worth talking about behind it.
+
+At the very least, she was probably one of the most comfortable celebs there. See? High fashion can be relatable.
+/n

@@ -1,0 +1,46 @@
+was honored in a memorial at her local Church of Scientology this weekend, where Cruise and his sisters, Lee Ann DeVette, 57, Cass Mapother, 55, and Marian Henry, 52, all attended. They were joined by other members of their family and friend.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/829127/tom-cruise-s-mother-mary-lee-south-dies-at-80');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014126/rs_634x1024-140226153608-634.tom-cruise-mom-oscars-2009.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tom Cruise, Mother, Mary Lee Mapother, Golden Globes 2009");
+	var imageCaption = encodeURIComponent("Tom Cruise, Mother, Mary Lee Mapother, Golden Globes 2009");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+Tom Cruise's mother, Mary Lee South, has passed away. She was 80.According to People, South died peacefully in her sleep. She was honored in a memorial at her local Church of Scientology this weekend, where Cruise and his sisters, Lee Ann DeVette, 57, Cass Mapother, 55, and Marian Henry, 52, all attended. They were joined by other members of their family and friends. The Louisville, Kentucky, native was born Mary Lee Pfeiffer and went on to marry Cruise's father, Thomas Cruise Mapother III. The former couple divorced in 1974 after a tumultuous marriage, leading the Mission: Impossible star to describe his father as a "bully."
+
+Cruise always credited his mother for driving his passion for acting. She opened up to Rolling Stone in 1986 about her son's success, saying how grateful she was for encouraging him to join local theater groups. But it wasn't until the opening night of his production of Guys and Dolls in high school that she realized how talented her son was. "I can't describe the feeling that was there. It was just an incredible experience to see what we felt was a lot of talent coming forth all of a sudden," she said. "It had been dormant for so many years—not thought of or talked about or discussed in any way. Then to see him on that stage..."
+
+Of his fan base and early years, South added, "I guess I was his greatest audience. He had it in him then."After South's divorce, the family moved around and ultimately settled down in New Jersey, where South married Jack South. Cruise opened up about his stepfather to the magazine, gushing about how much he must have adored his mother. "He loved my mother so much that he took us all in, all four young people," Cruise said.Our thoughts and prayers go out to her family.
+/n

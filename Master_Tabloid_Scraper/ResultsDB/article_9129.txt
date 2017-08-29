@@ -1,0 +1,90 @@
+JAY-Z Tweaks La La Land Oscars Fail in 4:44 Track 'Moonlight'
+/n
+
+The Oscars’ infamous best picture fail is now immortalized on JAY-Z’s newest album.
+The rapper’s latest collection, 4:44, was released late Thursday and includes a track called “Moonlight” that directly references La La Land, which was mistakenly announced as this year’s best picture winner at the Academy Awards instead of rightful choice Moonlight. (The error was corrected on stage in what stands as the wildest moment in Oscars history.)
+“We stuck in La La Land,” JAY-Z raps on the song. “Even when we win, we gon’ lose/ We got the same f—in’ flows/ I don’t know who is who/ We got the same f—in’ watch/ She don’t got time to choose/ We stuck in La La Land/ We got the same f—in’ moves.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-de3917e55c8f4d18597bcd0f929b9d0b-59a51026e6978');
+				var iframe = document.getElementById('wpcom-iframe-de3917e55c8f4d18597bcd0f929b9d0b-59a51026e6978');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-de3917e55c8f4d18597bcd0f929b9d0b-59a51026e6978'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+RELATED: Inside JAY-Z’s 4:44 Album: The Rapper’s Most Revealing Lyrics About Beyoncé, Their Twins & More
+
+Speaking to iHeartRadio, JAY-Z explained the meaning behind the song and its reference. “The hook is ‘We stuck in La La Land/ Even if we win, we gonna lose.’ It’s like a subtle nod to La La Land winning the Oscar, and then having to give it to Moonlight. It’s really a commentary on the culture and where we’re going.”
+In response to the release of “Moonlight,” Moonlight director Barry Jenkins tweeted, “O.M.G.!” a seeming reference to the JAY-Z track.
+
+
+O.M.G!
+— Barry Jenkins (@BandryBarry) June 30, 2017
+
+4:44 is now available on TIDAL and also includes songs that reference Kanye West and JAY-Z’s relationship with Beyoncé.
+This article originally appeared on Ew.com
+/n

@@ -1,0 +1,44 @@
+EXCLUSIVE! Miley Cyrus' Birthday Present From PETA: A Pig Named Nora! What in the world do you get a gal like Miley Cyrus for her birthday? How about a pig?! At least, that's what PETA is gifting Liam Hemsworth's 20-year-old b.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/365297/miley-cyrus-birthday-present-from-peta-a-pig-named-nora');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012911/reg_634.MileyCyrus.jlc.101012.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus");
+	var imageCaption = encodeURIComponent("Miley Cyrus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Kovac/Getty Images for City of Hope
+
+What in the world do you get a gal like Miley Cyrus for her birthday?How about a pig?!At least, that's what PETA is gifting Liam Hemsworth's 20-year-old bride-to-be in honor of her big day. The animal org has rescued a four-legged friend named Nora to celebrate Cyrus' dedication to animal rights.
+
+"PETA knew that sponsoring a rescued pig was the perfect birthday present for a young woman who spends so much time encouraging others to help animals," PETA Executive Vice President Tracy Reiman says. "From promoting animal adoption to speaking up for cows who suffer on dairy farms, Miley never stops letting her millions of fans know what they can do to make the world a kinder place."In addition to pet piggy Nora, PETA is recognizing the donation page created by Cyrus' fans in honor of her 20th birthday, which helps raise money for the charities Starkey and Saving Spot.Congrats Miley (and Nora)!
+/n

@@ -1,0 +1,46 @@
+Cheryl Fernandez-Versini and Jean-Bernard Fernandez-Versini Are Officially Divorced Cheryl Fernandez-Versini is officially divorced. Married for 18 months, Cheryl, 33, and Jean-Bernard Fernandez-Versini received the decree nisi Wednesday tha.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/803394/cheryl-fernandez-versini-and-jean-bernard-fernandez-versini-are-officially-divorced');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016920/rs_634x1024-161020080252-634.Jean-Bernard-Fernandez-Versini-Cheryl-Fernandez-Versini.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jean-Bernard Fernandez-Versini, Cheryl Fernandez-Versini");
+	var imageCaption = encodeURIComponent("Jean-Bernard Fernandez-Versini, Cheryl Fernandez-Versini");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jacopo Raule/GC Images
+
+Cheryl Fernandez-Versini is officially divorced.Married for 18 months, Cheryl, 33, and Jean-Bernard Fernandez-Versini received the decree nisi Wednesday that terminates their marriage, E! News confirms. "Cheryl Fernandez-Versini and Jean-Bernard Fernandez-Versini have today obtained Decree Nisi in their divorce proceedings," a rep for Cheryl tells us in a statement. "No further comment will be made and they ask for their privacy to be respected."The couple first met at the Cannes Film Festival in 2014 and married about three months later on July 7, 2014, in Mustique. Since announcing the split, Cheryl has been dating former One Direction crooner Liam Payne, 23. The pair first met in 2008 when Liam auditioned for the X Factor U.K. Two years later, he tried out again where the judges helped form One Direction.
+
+In May 2016, the twosome made their red carpet debut as a couple at Eva Longoria's Global Gift Gala."I saw them together and we had a really nice dinner. They were on good form," Simon Cowell shared with The Sun when asked about the relationship. "They're like two little chipmunks madly in love. Literally, they were so cute." 
+
+The relationship already seems to have taken a serious turn, as Cheryl and Liam have already added to their family with the purchase of a cute puppy. "Our new family member, he is beyond cute," Cheryl wrote on Instagram as the 1D singer rested on the couch with the new four-legged friend. "The dog is adorable too @toosmallforteacups thank you ❤."
+/n

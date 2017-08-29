@@ -1,0 +1,50 @@
+Calvin Harris' New Song With Frank Ocean and Migos Will Make You Want to "Slide" Into the Weekend Roll down the windows and raise the volume because Calvin Harris' latest track will have you sliding into the weekend.  The.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831682/calvin-harris-new-song-with-frank-ocean-and-migos-will-make-you-want-to-slide-into-the-weekend');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017124/rs_634x951-170224113958-Calvin-Harris.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Calvin Harris, Slide, Cover, Art");
+	var imageCaption = encodeURIComponent("Calvin Harris, Slide, Cover, Art");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Conor McDonnell
+
+Roll down the windows and raise the volume because Calvin Harris' latest track will have you sliding into the weekend. The Grammy-winning DJ just dropped his newest track, "Slide," featuring Frank Ocean and Migos. With a soothing synthetic sound and the velvety vocals of Ocean and Migos, the song feels like the perfect start to a relaxing drive to the beach on a Saturday morning. While it's not quite even spring yet, Harris did just that when he took to Snapchat to tease the single while driving with the melody pumping. As one fan perfectly put it, "Seriously though, this new @CalvinHarris track is the kind of music that is good for the soul."
+
+
+
+DCAP / NGRE / AKM-GSI
+
+Praise from fans flowed in just as easily as the song sounds. "Thank u @CalvinHarris @Migos and Frank for the best song I've ever heard in my entire life," one follower tweeted. "Thank you @CalvinHarris , thank you so much for making such a great record. It's literally the only thing I'm going to listen to for a week," another fan wrote to the star. So far, it seems Harris accomplished his goal to make music that hits fans in the heart. "In 2017 I'm making music to make your soul happy !!!!" he tweeted last week. "All my songs in 2017 have been sonically designed to make you feel f--king incredible."
+
+Do you think it's a mission accomplished? Sound off in the comments!
+/n

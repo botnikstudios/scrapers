@@ -1,0 +1,48 @@
+Russell Simmons Apologizes for "Harriet Tubman Sex Tape" Video Well, this is hardly surprising. Russell Simmons is apologizing after receiving some serious backlash for the "Harriet Tubman Sex Tape" video, which appeared .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/449224/russell-simmons-apologizes-for-harriet-tubman-sex-tape-video');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013715/rs_293x473-130815114357-634.Simmons.jl.081513_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Russell Simmons");
+	var imageCaption = encodeURIComponent("Russell Simmons");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Matt Sayles/AP Photo
+
+Well, this is hardly surprising.Russell Simmons is apologizing after receiving some serious backlash for the "Harriet Tubman Sex Tape" video, which appeared on his new All Def Digital YouTube channel.The video—which has since been taken down from the site—reportedly shows an actress portraying the iconic abolitionist having sex with her master in order to operate the Underground Railroad.
+
+Simmons has since issued an apology, saying he removed the video after his "buddies at the NAACP" asked him to take down the controversial clip."I'm a very liberal person with thick skin," the majority shareholder of Global Grind wrote on the company's website. "My first impression of the Harriet Tubman piece was that it was about what one of actors said in the video, that 162 years later, there's still tremendous injustice. And with Harriet Tubman outwitting the slave master? I thought it was politically correct. Silly me. I can now understand why so many people are upset. I have taken down the video. Lastly, I would never condone violence against women in any form, and for all of those I offended, I am sincerely sorry."This isn't the first time the hip-hop pioneer has taken to the site to express his opinion.
+
+NEWS: Russell Simmons and more stars tweet congrats to Kimye after birth of baby North West
+
+In May, he blogged about Amanda Bynes in the wake of her troubling behavior."In the case of Amanda Bynes, it is sad for me to watch the struggles of this very talented young actress," he wrote. "I have grown to learn that you'll actually evolve faster when you look to uplift, rather than judge those who seem to be struggling in life. I am a firm believer that there are better days ahead for Amanda."The apology comes just one day after Simmons launched the new All Def Digital YouTube channel, a joint venture with DreamWorks Animation-owned AwesomenessTV.He also has plans to launch a YouTube label with Universal Records called All Def Music, which will seek out new talent and promote artists on the popular video-sharing site.
+/n

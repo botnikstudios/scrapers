@@ -1,0 +1,44 @@
+Amanda Seyfried está pronta para ser mãe e se casar com Thomas Sadoski Olha a cegonha!/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/822552/amanda-seyfried-esta-pronta-para-ser-mae-e-se-casar-com-thomas-sadoski');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017016/rs_758x1024-170116150358-634.Amanda-Seyfried-Vogue-Australia.kg.011617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amanda Seyfried, Vogue Australia");
+	var imageCaption = encodeURIComponent("Amanda Seyfried, Vogue Australia");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Emma Summerton
+
+Olha a cegonha!
+
+Amanda Seyfried mal pode esperar para se tornar mãe e trocar as alianças douradas com Thomas Sadoski. Amanda estrela a edição de fevereiro da revista Vogue australiana e contou que está muito ansiosa para se casar com Thomas e, especialmente, para dar à luz seu primeiro bebê. Fofa!AMANDA SEYFRIED QUEBRA O SILÊNCIO E REVELA QUE TEM TOC"Eu nunca estive tão animada em minha vida. E pronta", disse a atriz, que deseja ter uma cerimônia discreta com Thomas. "Eu não quero ser o centro das atenções. Eu vou às premières e uso vestidos o tempo todo. Eu fui ao MET Gala no ano passado e usei um vestido de noiva feito pelo Riccardo Tisci. Eu já fui noiva um bilhão de vezes", brincou ela, que revelou estar grávida no fim de 2016.
+/n

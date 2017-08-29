@@ -1,0 +1,66 @@
+14 Things We Learned From Ashton Kutcher's Interview With Howard Stern: Mila Kunis, Money and More 3. He Originally Tried to Set Her Up With His Friend: Following his divorce from Demi Moore, Kutcher and Kunis were presenting at an awar.../n
+Ashton Kutcher has been a household name in Hollywood for almost 20 years thanks to That '70s Show, but we just found out there's still so much we never knew about him...The 39-year-old actor sat down on The Howard Stern Show today and—as is typically the case when anyone interviews with Howard Stern—he let listeners in on some interesting facts we'd never known about his life.From his first real, romantic hook up with Mila Kunis to his million-dollar investments, Kutcher left few leaves unturned.Here are 14 things we learned:
+
+1. He Used to Consider Kunis a "Little Sister": Kutcher admitted he wasn't attracted to his now-wife when they first started working together because she was 14 and he was 19-years-old. In fact, he used to help with her chemistry homework."I think I was her first kiss, like, on the show," he recalled. "It was really weird. I was like, 'Isn't this illegal?' It was really awkward. She was 14! She was like my little sister. I wanted to make sure she was OK."2. And He Annoyed Her: Though he said she kept a diary about how "cute" she thought he was, Kutcher said she quickly outgrew it and found him "annoying, like an older brother."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/862520/14-things-we-learned-from-ashton-kutcher-s-interview-with-howard-stern-mila-kunis-money-and-more');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016919/rs_682x1024-161019194906-634.ashton-kutcher-mila-kunis-3.kg.101916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ashton Kutcher, Mila Kunis");
+	var imageCaption = encodeURIComponent("Ashton Kutcher, Mila Kunis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Los Angeles Dodgers 
+
+3. He Originally Tried to Set Her Up With His Friend: Following his divorce from Demi Moore, Kutcher and Kunis were presenting at an awards show together. He saw her backstage and thought "Wow!" She was also recently single after splitting from Macaulay Culkin, so Kutcher tried to hook her up with one of his friends who was not famous. He told her to meet them at a house party, but the friend never showed up.4. So They Hooked Up After Shotgunning Cigarette Smoke All Night: "I was smoking cigarettes at the time, and I was still a smoker, and she had quit smoking. She wanted me to, like, shotgun cigarette smoke into her mouth so she could breathe it in. Gradually through the night, it got closer and closer and closer."They ended up making out and later going to his place where she spent the night."It was pretty mutual. It was kind of obvious that things were happening," he told Stern, admitting that they ended up hooking up for the first time that night, too.
+
+5. Now They're Married With Two Kids and Have Nightmares About Affairs: Kutcher laughed with Stern about how he recently had a dream that Kunis was having an affair with someone she did a movie with. He said he woke up at 3:30 a.m. and was so upset over it, he almost called her.He admitted she's had the same dreams and really does get mad at him.
+
+
+
+INSTARimages.com
+
+6. And they're "Obsessed" With The Bachelor: Though we already knew this—considering their appearance on The Bachelorette this season—we didn't know what they do while watching..."We like to turn on their one-on-one dates when they're sitting down and nobody eats and they talk to each other," he dished. "We shut the sound off, and we imitate what the conversation probably is. It's like, 'Are you going to eat the chicken? No.' Because you know those conversations are not wonderful." LOL!7. He Skinned Deer at a Butcher Shop Before He Was Famous: Not only did Kutcher do janitorial work at General Mills, he also worked at a butcher shop, skinning deer before he attempted a career in modeling and acting.8. He Was "Discovered" After Winning a Modeling Contest: Kutcher recalled how he entered a modeling contest at a mall in college. After he won, he was sent to New York. However, he lost the second contest to Josh Duhamel.Despite having only $100 to his name, he decided to stay and pursue a career in modeling and acting. He ended up landing roles on a Bo Derek show as well as That '70s Show. NBC asked him to choose between the two, so he picked the latter (and it was a good thing...The Bo Derek show only lasted a few episodes).
+
+9. He's Made a "Couple Million" From Uber: Aside from acting, Kutcher has made quite a few investments—one being Uber, which he said he invested a million dollars in "early on." Since the company's sky-rocket to success, he said he's made "a couple million" and holds a few shares in the company, too.
+
+
+
+David Becker/Getty Images
+
+10. And He's Not Sure He Agrees With Travis Kalanick Being Let Go: Uber just announced they let go of the CEO, and Kutcher said it's been emotional."We're in a society today that is so fast to judge people. We have to realize people make mistakes, and you have to let people learn from their mistakes," he told Stern. "But I don't know the extent of the internal damage, so I can't really comment…I know that his intent as a human is good. I also know that that company isn't a $60-$100 billion company without him because he had this maniacal focus on growing the company. Without a guy like him the company wouldn't be where it is. I don't know that removing him was the best answer."11. He Passed on Snapchat Three Times: The actor admitted he "didn't get" the social media platform, and thus decided to pass on it three separate times. "I miss some things," he admitted, noting how popular Snapchat has become.
+
+12. Now He Has a Team for Investing: In order to help him make investments properly (and maybe not miss opportunities like Snapchat), Kutcher said he has an entire team dedicated to it. In fact, the team has two funds they use for making investments.13. He Lived in an Airbnb After His Divorce From Demi Moore: After that, he fell so in love with the company that he invested $2.5 million into it.
+
+14. He Has a Hard Time Not Seeing Moore's Kids: Speaking of his divorce, Kutcher opened up a bit about how he helped raise Moore's daughters for almost 10 years, starting when he was just 25. Though he still talks to them, he admits it "hurts" not being around them at all anymore. 
+/n

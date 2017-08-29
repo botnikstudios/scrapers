@@ -1,0 +1,92 @@
+Ray Romano Helps Yet Another Son Find a Date on Live TV
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-93a69f098a33c0c3ac4c1505bd701a6c-59a52ad73a9b4');
+				var iframe = document.getElementById('wpcom-iframe-93a69f098a33c0c3ac4c1505bd701a6c-59a52ad73a9b4');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-93a69f098a33c0c3ac4c1505bd701a6c-59a52ad73a9b4'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Nothing like dad working double time as a wingman!
+When Ray Romano sat down with host James Corden on The Late Late Show with James Corden Thursday night, the host mentioned that Romano had acted as his son’s dating good luck charm when the proud father appeared on Jimmy Kimmel Live earlier this week. Joined by his 24-year-old son Matt — who has worked on Kimmel’s late night talk show for the past three years— Romano sang the praises of his son.
+“Ladies, he’s a good kid, good listener. He keeps his room clean. He’s had all of his shots … you still have a car, Jimmy Kimmel is his uncle.”
+Kimmel added, “He’s a very good kid. You and your wife must be very proud because he’s always in a good mood, he’s a hard worker, all of that stuff.”
+Not to be undone by the ABC late-night host, Corden had a surprise of his own when he revealed to the audience that Matt’s twin brother Greg also worked for Corden. And it was déjà vu as the host and father talked to the audience about Romano’s look-alike son. But, this time, the late-night program was transformed into a dating show as three women who had previously stated they were single were called out in the audience.
+Corden had the 59-year-old actor and Julia Louis-Dreyfus moderate the set-up by asking the women a few tough questions, such as (from dad himself): “Are you okay dating a virgin?”
+“I’m sorry! I’m sorry! I’m kidding! I’m kidding!” he added, hugging his laughing son. “I don’t know. I have no idea. I have no idea.”
+Louis-Dreyfus joked with a visibly embarrassed Greg: “It’s gonna be okay. Do you have a good therapist?”
+
+ 
+Then the divisive question: Seinfeld or Everybody Loves Raymond? 
+All three ladies sided with Romano’s Emmy winner — which just so happens to be a sitcom about meddlesome family members!
+
+Eventually, Louis-Dreyfus got to pick the winner and the lucky audience member in New York Giants fan Sarah, who instantly joined Greg for a real-time “date” (monitored by hidden cameras, of course) in a conference room at the studio.
+Corden crashed the candle-lit date at the end and asked how everything was going. The two gave a thumbs-up as the audience cheered.
+The Late Late Show with James Corden airs weeknights (12:37 a.m. ET) on CBS.
+
+/n

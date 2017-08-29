@@ -1,0 +1,81 @@
+Jennifer Lopez Heats-Up New York With Alex Rodriguez!/n
+
+					var next_post_url = "http://radaronline.com/photos/glenn-close-takes-dip-in-caribbean-ocean-holiday-pics/";
+					var prev_post_url = "http://radaronline.com/photos/pamela-anderson-celebrates-50th-birthday/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-07-01T14:20:03+00:00","caption":"Jennifer Lopez and Alex Rodriguez put on a 'love fest' at Macy's 4th Of July bash in New York on Friday night. And RadarOnline.com has all the details \u2013 click through the images.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:12+00:00","caption":"J-Lo displayed her famous curves in a body-hugging outfit as her famous boyfriend looked-on from back stage.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:13+00:00","caption":"The crowds went crazy for the famous singer and her hunky guy seemed besotted with her sexy performance.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:14+00:00","caption":"The pair have been inseparable this summer as their relationship goes from strength to strength.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:15+00:00","caption":"The 41-year-old former baseball star said recently; \"She really is one of the most impressive and smartest human beings I have ever met.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:16+00:00","caption":"And J-Lo, 47, seems equally smitten with the athlete because they have been spending time with one another's families too.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:17+00:00","caption":"Speaking about the relationship she revealed: \"I think we are very happy and just having a good time and don't put as much pressure as everybody else puts on it.\" ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:18+00:00","caption":"During the packed concert J-Lo was confident enough to show off some of the dance moves that have made her famous before her hometown fans.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-01T13:53:18+00:00","caption":"Many insiders are predicting that it is only a matter of time before Rodriguez asks her to marry him.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jennifer-lopez-heats-up-new-york-with-Alex-Rodriguez-7.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Jennifer Lopez Heats-Up New York With Alex Rodriguez!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9Jennifer Lopez and Alex Rodriguez put on a 'love fest' at Macy's 4th Of July bash in New York on Friday night. And RadarOnline.com has all the details – click through the images.Photo credit: BACKGRID2 of 9J-Lo displayed her famous curves in a body-hugging outfit as her famous boyfriend looked-on from back stage.Photo credit: BACKGRID3 of 9The crowds went crazy for the famous singer and her hunky guy seemed besotted with her sexy performance.Photo credit: BACKGRID4 of 9The pair have been inseparable this summer as their relationship goes from strength to strength.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9The 41-year-old former baseball star said recently; "She really is one of the most impressive and smartest human beings I have ever met."Photo credit: BACKGRID6 of 9And J-Lo, 47, seems equally smitten with the athlete because they have been spending time with one another's families too.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Speaking about the relationship she revealed: "I think we are very happy and just having a good time and don't put as much pressure as everybody else puts on it." Photo credit: BACKGRID8 of 9During the packed concert J-Lo was confident enough to show off some of the dance moves that have made her famous before her hometown fans.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Many insiders are predicting that it is only a matter of time before Rodriguez asks her to marry him.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Jennifer Lopez and Alex Rodriguez put on a 'love fest' at Macy's 4th Of July bash in New York on Friday night. And RadarOnline.com has all the details – click through the images.Photo credit: BACKGRIDJ-Lo displayed her famous curves in a body-hugging outfit as her famous boyfriend looked-on from back stage.Photo credit: BACKGRIDThe crowds went crazy for the famous singer and her hunky guy seemed besotted with her sexy performance.Photo credit: BACKGRIDThe pair have been inseparable this summer as their relationship goes from strength to strength.Photo credit: BACKGRIDThe 41-year-old former baseball star said recently; "She really is one of the most impressive and smartest human beings I have ever met."Photo credit: BACKGRIDAnd J-Lo, 47, seems equally smitten with the athlete because they have been spending time with one another's families too.Photo credit: BACKGRIDSpeaking about the relationship she revealed: "I think we are very happy and just having a good time and don't put as much pressure as everybody else puts on it." Photo credit: BACKGRIDDuring the packed concert J-Lo was confident enough to show off some of the dance moves that have made her famous before her hometown fans.Photo credit: BACKGRIDMany insiders are predicting that it is only a matter of time before Rodriguez asks her to marry him.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

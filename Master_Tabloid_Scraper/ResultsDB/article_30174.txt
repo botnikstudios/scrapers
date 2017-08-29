@@ -1,0 +1,44 @@
+Recent Exes Paul Wesley and Phoebe Tonkin Reunite for Sunday Funday at the Farmers Market An insider told E! News exclusively at the time of their split, "They are still good friends. The relationship just ran its course." Prior to.../n
+Is a reconciliation in the works for Paul Wesley and Phoebe Tonkin?The former Vampire Diaries co-stars, who recently called it quits on their four-year relationship, were photographed on Sunday afternoon enjoying a stroll at a farmers market in Los Angeles. Both Paul and Phoebe toted coffee cups in hand, appearing deep in conversation. Tonkin and Wesley, who met on set of The CW drama in 2012 and began dating shortly thereafter,wore all-black ensembles—the former in a chic shift dress and loafers while her ex flame sported in a vintage button down and baseball cap. But despite hopes that these two could make things work, Paul and Phoebe's outing isn't surprising for the amicable exes. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/837181/recent-exes-paul-wesley-and-phoebe-tonkin-reunite-for-sunday-funday-at-the-farmers-market');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017219/rs_634x1024-170319151830-634.Paul-Wesley-Los-Angeles.kg.031917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Paul Wesley, Farmers Market");
+	var imageCaption = encodeURIComponent("Paul Wesley, Farmers Market");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+WENN.com
+
+An insider told E! News exclusively at the time of their split, "They are still good friends. The relationship just ran its course."Prior to their latest venture, Wesley and Tonkin were last seen publicly together in late December, days before the former lovebirds enjoyed the Christmas holiday in Phoebe's native Australia. Romantic social media snapshots shared by Paul and Wesley began to dwindle around that time, prompting many to speculate about their breakup. Soured romance aside, it appears both parties are moving on with their lives with a friendship still intact. Wesley recently returned from Toronto, where he directed an upcoming episode of Freeform's Shadowhunters and Tonkin is enjoying time with her girlfriends. 
+/n

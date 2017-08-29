@@ -1,0 +1,45 @@
+Tim McGraw's Emotional Oscars Rendition of Glen Campbell's ''I'm Not Gonna Miss You'' Gave Us the Chills Tim McGraw just gave us all the chills when he sang Glen Campbell's Oscar-nominated song, ".../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/628131/tim-mcgraw-s-emotional-oscars-rendition-of-glen-campbell-s-i-m-not-gonna-miss-you-gave-us-the-chills');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015122/rs_634x1024-150222184715-634-tim-mcgraw-oscars.ls.22215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tim McGraw, 2015 Academy Awards");
+	var imageCaption = encodeURIComponent("Tim McGraw, 2015 Academy Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ROBYN BECK/AFP/Getty Images
+
+Tim McGraw just gave us all the chills when he sang Glen Campbell's Oscar-nominated song, "I'm Not Gonna Miss You."The track is featured in the documentary Glen Campbell, I'll Be Me, which follows the beloved country singer's final tour and his battle with Alzheimer's disease.The heartbreaking song is said to have been written by Campbell for his family, but he was unable to sing the ballad on the Oscars stage himself.McGraw filled in for Campbell—talk about some big shoes to fill!—while Campbell's wife and children watched from their seats inside of Los Angeles' famed Dolby Theatre. Now that's some serious pressure, right?
+
+But as we expected, McGraw sang his heart out and brought tears to the eyes of all who witnessed the moving moment.Faith Hill's hunky hubby tweeted earlier this week about how he felt about being called upon to sing for Campbell, saying, "I'm honored to be asked to sing the powerful song from one of the true legends of the music industry."And based on what we just witnessed tonight, we're fairly certain that Campbell himself would be nothing short of proud of McGraw's performance.
+/n

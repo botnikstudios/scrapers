@@ -1,0 +1,129 @@
+Jack Antonoff Eats Banana During Katy Perry’s VMAs Monologue — and Twitter Calls Out His Shade/n
+
+There’s nothing quite like live television.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-1d3555920941a04559453f9f6fde5aab-59a523b52abcf');
+				var iframe = document.getElementById('wpcom-iframe-1d3555920941a04559453f9f6fde5aab-59a523b52abcf');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-1d3555920941a04559453f9f6fde5aab-59a523b52abcf'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Jack Antonoff — Bleachers frontman, frequent Taylor Swift collaborator, and Lena Dunham’s boyfriend — was caught eating a mid-show snack in the form of a banana during host Katy Perry’s opening at the VMAs on Sunday night.
+And, well, he couldn’t look more bored. Naturally, the possible shade didn’t go unnoticed by the Twitterverse. Dunham herself joined the conversation, tweeting, “My boyfriend just casually eating a banana at the VMAs is a good reminder of why we’ve been at it half a decade.” She then Instagrammed a photo of Antonoff eating a sandwich on FaceTime, writing, “Boo at VMAs with a sandwich like the prince he is.”
+
+
+
+
+
+ Boo at VMAs with a sandwich like the prince he is
+A post shared by Lena Dunham (@lenadunham) on Aug 27, 2017 at 5:20pm PDT
+
+
+RELATED VIDEO: The 2017 MTV VMAs Red Carpet Fashion
+
+
+
+My boyfriend just casually eating a banana at the VMAs is a good reminder of why we've been at it half a decade
+— Lena Dunham (@lenadunham) August 28, 2017
+
+
+
+.@jackantonoff eating a banana in the middle of the #VMAs is kind of iconic pic.twitter.com/AlMdOLegFD
+— Access Hollywood (@accesshollywood) August 28, 2017
+
+
+
+jack antonoff eating a banana and looking bored @ katy perry's bad host jokes #same #vmas
+— jennifer 🥀 (@jenche_) August 28, 2017
+
+
+
+The shade of @taylorswift13's friend/cowriter/producer @jackantonoff eating a banana during @katyperry's opening! #VMAS
+— Perez (@ThePerezHilton) August 28, 2017
+
+
+
+They just filmed a dude eating a banana #VMAs
+— Afrojack (@afrojack) August 28, 2017
+
+
+
+Jack Antonoff eating a banana in the audience during #VMAs intro is all of us, waiting for #LWYMMDmusicvideo pic.twitter.com/bRQ4Si50n0
+— Taylor Swift News (@TSwiftDailyNews) August 28, 2017
+
+
+
+Jack Antonoff bored and eating a banana during Katy Perry's intro is all of us watching this intro. #VMAs pic.twitter.com/QXgE3H3VIM
+— Hunter Ingram (@hunter_wesley) August 28, 2017
+
+Check out PEOPLE’s full 2017 MTV VMAs coverage.
+It’s worth nothing that Antonoff co-wrote and produced Swift’s new, record-breaking hit “Look What You Made Me Do,” which is speculated to be partially about Perry and the years-long feud between the pop stars.
+In case you missed it, the “LWYMMD” video also dropped tonight at the show and there was plenty of Perry-centric imagery. Antonoff also co-wrote Swift hits like 1989‘s “Out of the Woods” and “I Don’t Want to Live Forever” for the Fifty Shades Darker soundtrack.
+Whether or not Antonoff intended shade, everyone needs a mid-show snack. These shows are long!
+This article originally appeared on Ew.com
+/n

@@ -1,0 +1,44 @@
+Surprise! Joseph Gordon-Levitt Is Married! Um, what?! (Can you hear all of the hearts breaking?) It turns out Hollywood hunk Joseph Gordon-Levitt is officially off the market—sorry guys! The handsome actor's rep confirms that JGL secret.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/610586/surprise-joseph-gordon-levitt-is-married');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141131/rs_634x1024-141231171023-634.Joseph-Gordon-Levitt-Tasha-McCauley.ms.123114.JPG');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joseph Gordon-Levitt, Tasha McCauley");
+	var imageCaption = encodeURIComponent("Joseph Gordon-Levitt, Tasha McCauley");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PacificCoastNews
+
+Um, what?! (Can you hear all of the hearts breaking?)It turns out Hollywood hunk Joseph Gordon-Levitt is officially off the market—sorry guys! The handsome actor's rep confirms that JGL secretly married his girlfriend Tasha McCauley on Dec. 20. during an intimate ceremony at their home.The 500 Days of Summer star has always been very private about his personal life, but did make mention that there is a special someone during his first-ever interview with SiriusXM's Howard Stern Show in September 2013."I have a girlfriend but I tend not to really like to talk about it in public," the celeb confessed. "She is not in show business." He declined to say how long they've been together.Gordon-Levitt repeatedly refused to identify his girlfriend at the time, though he did reveal that they met through "mutual friends." When asked if he's in love, he replied, "Oh, jeez, man! Come on! This is getting private."
+
+Guess we all know the answer to that one now, don't we?However, the pair were spotted out together during a rare outing in Los Angeles back in May. The duo looked relaxed and comfortable as paps snapped pics of the two lovebirds together, and they were even seen flashing a bit of subtle PDA when Joseph wrapped his arms tightly around his ladylove as they strolled side by side."I get up in movies and I play other people, so when the audience is watching me in movies, I don't want them thinking about me and who I'm dating, and blah blah blah," he once replied when asked why he keeps his love life so private. "I want them to see the character, the story that I'm telling."And he explains that McCauley isn't a fan of the spotlight, either. "The girl that I'm with, she really doesn't want to be a part of it. You can imagine not wanting to have that kind of scrutiny."Congratulations to the newlyweds!People magazine was first to report the story.
+/n

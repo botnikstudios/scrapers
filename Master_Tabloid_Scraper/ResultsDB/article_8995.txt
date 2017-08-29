@@ -1,0 +1,56 @@
+Meghan Markle and Kim Kardashian Explain Why Serena Williams Will Be an "Amazing" Mom Serena Williams has no shortage of famous friends. The eight-months-pregnant tennis player is profiled in Vogue's September issue, where Ciara, Kim Kardashian and M.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873625/meghan-markle-and-kim-kardashian-explain-why-serena-williams-will-be-an-amazing-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017715/rs_634x766-170815101856-634.serena-williams-vogue-2.81517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Serena Williams, Vogue");
+	var imageCaption = encodeURIComponent("Serena Williams, Vogue");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mario Testino/Vogue
+
+Serena Williams has no shortage of famous friends.The eight-months-pregnant tennis player is profiled in Vogue's September issue, where Ciara, Kim Kardashian and Meghan Markle all sing her praises; Williams is currently taking a break from competing so she can prepare for the arrival of her first child with fiancé Alexis Ohanian.Since 2011, when she was hospitalized with bilateral pulmonary embolisms, she has been afraid of getting pregnant, as it increases the risk of blood clots. While her pregnancy was accidental—Williams learned she was expecting before the Australian Open—it also eased her fears. "Once I found out, something happened that surprised me. I became really calm," she says. "I thought, 'You have to win, but you're allowed to lose, because you have something to look forward to.'"Williams doesn't want to know her baby's sex beforehand. "Alexis thinks we're having a boy, but I have a strong suspicion that it's a girl," she says. "Two weeks after we found out, I played the Australian Open. I told Alexis it has to be a girl because there I was playing in 100-degree weather, and that baby never gave me any trouble. Ride or die. Women are tough that way."
+
+"I'm nervous about childbirth," she says. "I'm not a spring chicken. The one thing I really want is an epidural, which I know a lot of people are against, but I've had surgeries galore, and I don't need to experience any more pain if I can avoid it. But the biggest thing is that I don't really think I'm a baby person. Not yet. That's something I have to work on. I'm so used to me-me-me, taking care of my health, my body, my career. I always ask, 'Am I going to be good enough?'"Deciding to go on hiatus has given the 35-year-old athlete time to think about her future in the sport—and what she wants her legacy to be. "It's hard to figure out what the end of your tennis career should look like. I used to think I'd want to retire when I have kids, but no. I'm definitely coming back. Walking out there and hearing the crowd, it may seem like nothing. But there's no better feeling in the world...If anything, this pregnancy has given me a new power," Williams admits in the magazine (on newsstands now). "I think I've had a love-hate relationship with the idea of power...Not only me, but women in general sometimes feel that 'power' is a bad word."
+
+"As I've gotten older I've started to feel differently about it. Power is beauty. Strength is beauty. So now on the court I want people to think that I'm powerful," she says. "But I also want them to be shocked at how I play. I want people to expect something, then get something different."Perhaps because she's tough on the court—or because she's a black woman—Williams thinks people assume she's a "mean" person. "Really tough and really mean and really street. I believe that the other girls in the locker room will say, 'Serena's really nice.' But Maria Sharapova, who might not talk to anybody, might be perceived by the public as nicer. Why is that? Because I'm black and so I look mean? That's the society we live in. That's life. They say African Americans have to be twice as good, especially women. I'm perfectly OK with having to be twice as good."
+
+Ciara wonders whether Williams' intensity on the court makes it difficult for people to imagine another version of her. "In tennis mode, she's a beast, a lioness," the "Dance Like We're Making Love" singer tells Vogue. "But when she's not in work mode—well, let's just say you want to be at her table. You'll die laughing. She's that girl, and I think it will serve her so well as a mom. That and the fact that she has a partner who complements her. Alexis is calm and cool.""I wish people could see her silly side," says E! reality star Kardashian, who has been a close friend of Williams' for 15 years. "She is obsessed with karaoke, which personally is my biggest fear in life. I remember a dinner in San Francisco before a DNC fundraiser. Serena sang, [former U.S. President Barack Obama] sang, [Kanye West] sang. It was legendary. She gives herself those moments—it's how she recharges. Serena's the girl you can call and say anything to. She'll never judge you, and she's never too busy for you. Oh, and she can keep any secret."
+
+
+
+Annie Leibovitz / Vogue
+
+"She will be an amazing mom. The very best, because she is so attuned to balancing strength and sensitivity," Suits actress Markle gushes. "Plus, given that she is pretty epic at karaoke, I think she'll put her signature Serena spin on singing lullabies for the baby. I can't wait for that!"Donatella Versace, who designed the emerald-green chiffon dress Williams wore to the 2017 Met Gala, adds, "She's fierce, but there is a side that people don't consider until they get to know her, that maybe people don't expect. She has an enormous warmth and a vulnerability."In August, Williams posed nude on the cover of Vanity Fair, photographed by Annie Leibovitz. "I was really nervous about that shoot. I've not been that exposed, and I was unsure up until a couple of days before," the mom-to-be remembers. "But I'm happy with how raw and real it is."
+
+Williams has appeared on the cover of Vogue twice before, first in June 2012 and again in April 2015, both times shot by Leibovitz. "Being black and being on the cover was really important to me. The success of one woman should be the inspiration to another, and I'm always trying to inspire and motivate the black girls out there. I'm not a model. I'm not the girl next door. But I'm not hiding. Actually, I look like a lot of women out there. The American woman is many women, and I think it's important to speak to American women at a time when they need encouragement," Williams says. "I'm not political, but I think everyone is worried, to a degree."Though her due date is fast approaching, Williams has already begun to prepare for next January, when she hopes to defend her Australian Open title. "It's the most outrageous plan. I just want to put that out there. That's, like, three months after I give birth," she says. "I'm not walking anything back, but I'm just saying it's pretty intense." And what if she fails to nab a win? "In this game you can go dark fast. If I lose, and I lose again, it's like, 'She's done.' Especially since I'm not 20 years old. I'll tell you this much: I won't win less. Either I win, or I don't play."
+/n

@@ -1,0 +1,41 @@
+like sticky cat hair." -Stanley Sobbins, Freshbrook  Books   "I received one copy where the reader had used an electric toothbrush as a bookmark!" -Lorene Dobbler, Middlebooks   "I hit the jackpot. There was another book .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/the_soup/news/457394/fifty-shades-of-grey-dirty-and-used');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013810/rs_293x473-130910161312-3peqs4ap.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("wafflemaker");
+	var imageCaption = encodeURIComponent("wafflemaker");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Now that the Fifty Shades of Grey craze has cooled, fans have set down their detachable showerheads and ventured out to their local used bookstores. But for some strange reason, used bookstore owners don't want EL James' literary masterpiece gracing their shelves. We decided to meet a few local bookstore owners to find out why."Here at Franklin Publishing, we don't accept books that appear to be smothered in alfredo" -Pete Sorenson, Franklin Publishing "So many copies of this book have moisture-warped pages. Are they all reading it in the tub--and why? What is going on??"-Patricia Pugsly, Second Time Around "This is a bookstore, not a Chardonnay and Hershey's syrup removal service."-Mildred Banks, Two's A Charm Books"Some of these copies are dog-earred every few pages. Why would you read so little, and then stop??"-Charlie Wright, Charlie's Nook "I'm not sure why people who like this book also like sticky cat hair."-Stanley Sobbins, Freshbrook  Books "I received one copy where the reader had used an electric toothbrush as a bookmark!"-Lorene Dobbler, Middlebooks "I hit the jackpot. There was another book inside! Obviously this reader was too ashamed to admit to her friends she was reading Oliver Twist!"-Ronald Hermading, Bookworm Central
+/n

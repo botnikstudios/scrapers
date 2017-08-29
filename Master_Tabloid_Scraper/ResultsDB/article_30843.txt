@@ -1,0 +1,46 @@
+and photography, the Luther star also has a son, Winston, who was born in 2014. The Dark Tower, based on a series of books by Stephen King, follows Roland Deschain (Idris), who is the last "Gunslinger," as he's locked in battl.../n
+He may be one of the slickest cats in the business, but what does Idris Elba's teenage daughter think of his style?E! News caught up with the British actor at a special screening of his new film Dark Tower at MoMa in New York City last night and talked fashion, specifically his "preppy" look that certainly has a bite (note the snake on his collar) to it.Of his Gucci outfit, Idris said, "I love fashion and I love the exploration...I am looking quite varsity today, quite preppy."While the 44-year-old may think he looks sharp, the true test is what his teen daughter Isan, whom he took to the event, thinks about it.In the adorable interview, the proud papa brought over Isan and her pal Alicia who dished about their thoughts on the fierce ensemble.Almost reluctantly, Isan says, "I have to give him props for this one. I am actually really proud of him for this."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870705/idris-elba-s-teen-daughter-tells-her-famous-dad-what-she-really-thinks-of-his-style');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201771/rs_654x1024-170801130541-634.Idris-Elba-Daughter-Premiere-NYC.ms.080117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Idris Elba");
+	var imageCaption = encodeURIComponent("Idris Elba");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stephen Lovekin/Variety/REX/Shutterstock
+
+In teen world, that's a pretty big fashion endorsement! In addition to Isan, who says she used to want to act but now she's more interested in writing and photography, the Luther star also has a son, Winston, who was born in 2014.The Dark Tower, based on a series of books by Stephen King, follows Roland Deschain (Idris), who is the last "Gunslinger," as he's locked in battle for the universe with Walter O'Dim (Matthew McConaughey), ominously known as the Man in Black. The two men collide as the fate of the universe rests in their hands in the ultimate battle between good and evil.
+
+The Dark Tower hits theaters on Aug. 4.
+/n

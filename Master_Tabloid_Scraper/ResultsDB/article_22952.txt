@@ -1,0 +1,46 @@
+Johnny Galecki's Central California Home Burns Down in Large Fire Johnny Galecki's ranch house did not escape a fire blazing through the Central Coast of California.  According to TMZ, the Big Bang Theory star's vacation home in San Luis Obispo, Cali.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/863728/johnny-galecki-s-central-california-home-burns-down-in-large-fire');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201757/rs_634x1024-170607162530-634-johnny-galecki-cmt-awards.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Johnny Galecki, 2017 CMT Music Awards");
+	var imageCaption = encodeURIComponent("Johnny Galecki, 2017 CMT Music Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Loccisano/Getty Images For CMT
+
+Johnny Galecki's ranch house did not escape a fire blazing through the Central Coast of California. According to TMZ, the Big Bang Theory star's vacation home in San Luis Obispo, Calif. burned down Monday evening as the result of a wildfire in a secluded region east of Santa Margarita. As of Tuesday morning, the blaze was reportedly spread across 1,500 acres and 40 percent contained. The actor, who the outlet reports was not in the area when the fire broke out, has yet to return to the property. Galecki told TMZ, "My heart goes out to all in the area who are also experiencing loss from this vicious fire, the threat of which we live with constantly, which may seem crazy to some but we do so because living in our beautiful, rural area makes it worthwhile.""It's never the structures that create a community—it's the people," he continued. "And if the people of Santa Margarita have taught me anything it's that, once the smoke has cleared, literally and figuratively, it's a time to reach out and rebuild." 
+
+Johnny vowed to help his neighborhood, adding, "We've done it before, and will need to do it together again, and it will make our community even closer and stronger. Endless thanks to CalFire and the Sheriff's Office. I know you guys are fighting the good fight to keep us safe. So very relieved no one has been hurt."In 2012, Johnny told Conan O'Brien he bought the more than 300-acre property as an escape pad. "There are some vineyards on it," he explained. "I felt like if you're going to have that kind of land, it should function somehow. I'm not a horse person, and I'm a vegetarian so livestock was out of the question, but I do like wine.""There's a small cabin," he continued, "but I don't even have a bed. I sleep on the floor in front of the fireplace. I have a tractor there... and I bought a giant trampoline."
+
+Per the celeb's Instagram, he was performing at the LakeShake Festival in Chicago over the weekend, though it's unclear where Galecki flew to immediately after.
+/n

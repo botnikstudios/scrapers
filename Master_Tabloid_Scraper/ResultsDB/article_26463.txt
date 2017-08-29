@@ -1,0 +1,46 @@
+Lorraine Bracco Lost 35 Pounds! The Sopranos Star Shares Her Secret to Getting Skinny How's she do it? Bracco sought the help of a life coach friend who helped her devise a weight loss plan. The TV star avoids sugar and dairy, and she a.../n
+Lorraine Bracco's decision to lose weight wasn't for vanity.Instead, the Sopranos actress was inspired to get in better shape after taking care of her ailing parents. After they died in 2011, Bracco took control of her health. "We were sitting there, dividing these medications, who gets what when. It was insane. I watched and realized, 'I don't want to go like that,'" she tells ABC News. "I said, 'I want to be the best I could be.' I want to live every day the best I can be."Bracco weighed 183 lbs. when her weight loss journey began and has since lost an impressive 35 lbs. "The last person on the take care of list was me. I let myself go," the Rizzoli & Isles actress admits.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/528000/lorraine-bracco-lost-35-pounds-the-sopranos-shares-her-secret-to-getting-skinny');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201433/rs_634x1024-140403052605-634.Lorraine-Bracco-JR-4314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lorraine Bracco");
+	var imageCaption = encodeURIComponent("Lorraine Bracco");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Evan Agostini/Getty Images, Larry Busacca/Getty Images
+
+How's she do it?Bracco sought the help of a life coach friend who helped her devise a weight loss plan. The TV star avoids sugar and dairy, and she also substitutes most grains for quinoa and keeps portion sizes small. To satisfy her sweet tooth, Bracco will sometimes indulge in fruit, gluten-free cookies and Kind bars."I was a huge Twizzler eater. I love licorice," the Brooklyn-born, Long Island-raised star says of her candy vice. "The other day I said, 'I haven't had this in three years,' and I had half a piece. I ended up spitting it out because I no longer have a taste for it. It was so sugary, it was almost like poison to me."
+
+To supplement her dietary efforts, Bracco practices Pilates."I started off very slow. My feeling is also, you sign up to go to the gym and you go to two classes and then you can't walk. It's just not the way to do it," she says. "Now, I go to Pilates class three times a week. I love that there are women who are in their 80s in my class and there were kids who are 23."Bracco will share more of her secrets in an upcoming book, To the Fullest, to be published in 2015.While she's happy with her appearance, Bracco is more excited about her increased energy. "I am still a vibrant, contributing human being and I am not dead yet," she says. "I laugh because I used to wake up and everything ached before I got out of bed. Now I jump out of bed! I'm doing something right."
+/n

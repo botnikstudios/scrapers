@@ -1,0 +1,48 @@
+to life the characters and backdrops from the classic 1960s cartoon series. The reimagined Stone Age village boasts such attractions as the Mt. St. Wilma volcano, larger-than-life Flintstones characters, train rides and Fred's Diner. Pl.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/664774/you-can-buy-the-flintstones-bedrock-city-theme-park-for-2-million');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201559/rs_634x1024-150609131013-634.flinstone.cm.5915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Flintstones Bedrock City park and campground");
+	var imageCaption = encodeURIComponent("The Flintstones Bedrock City park and campground");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Flintstones Bedrock City
+
+Got a spare $2 million lying around? Then this modern Stone Age family theme park can be yours!Nestled on 30 acres, The Flintstones' Bedrock City theme park (not to be confused with the other Flintstones theme park in South Dakota) brings to life the characters and backdrops from the classic 1960s cartoon series. The reimagined Stone Age village boasts such attractions as the Mt. St. Wilma volcano, larger-than-life Flintstones characters, train rides and Fred's Diner. Plus, if guests are too tired to travel home after a day spent with the Flintstones, they can utilize one of the theme park's 60 campsite location. 
+
+And if the real-life Bedrock City theme park looks familiar, then perhaps you've spotted it on an episode of Kendra season one, or on one of E!'s Grace Helbig's YouTube videos. Opened in 1972, the Williams, Ariz. based park has attracted families for generations, but with current owner Linda Speckels at age 73, she's ready to retire. 
+
+"It's been on sale for some years, but at this point we're pretty diligently looking," Speckels told USA Today. "I'm going to be 74 in the fall and I think it's time for me to have some new adventures. I think someone can do something really great with the property." 
+
+If you're short the $2 million, don't sweat it—fans can still visit the theme park year round for just a $5 admission fee.  
+/n

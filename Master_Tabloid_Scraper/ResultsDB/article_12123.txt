@@ -1,0 +1,46 @@
+Patrick Stewart Didn't Realize He Was Uncircumcised Until Late in Life It turns out there was no slicing and dicing for Sir Patrick Stewart. The British star, 76, revealed on The Graham Norton Show that he thought he was circumcised unt.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831398/patrick-stewart-didn-t-realize-he-was-uncircumcised-until-late-in-life');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017123/rs_634x780-170223080818-634.Patrick-Stewart-JR-022317.gif');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patrick Stewart");
+	var imageCaption = encodeURIComponent("Patrick Stewart");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Isabel Infantes/PA Images via Getty Images
+
+It turns out there was no slicing and dicing for Sir Patrick Stewart.The British star, 76, revealed on The Graham Norton Show that he thought he was circumcised until he learned that he is still holding on to all of his manhood. "One night with my wife [Sunny Ozell], as you do, we were talking about stuff and I mentioned my circumcision and she said, 'You're not circumcised'," he recalled. "I said, 'What do you mean? That's ridiculous, I should know. All my life my mother has told me it was fashionable at the time'."Stewart didn't believe what his wife had to say, but his timing couldn't have been better because he had an appointment with his doctor.
+
+"I happened to be seeing my doctor the next day for a check-up so while he was down there I said, 'By the way, my wife and I have had a little disagreement, I am circumcised, aren't I?'" Stewart continued. "He took a closer look and said, 'Not! I am Jewish, and definitely know the difference!'"He didn't reveal when this back-and-forth took place, but he did admit that he regretted his decision to split such an intimate secret. "Oh no, my grandchildren will be watching this!" he said.
+
+The Star Trek alumnus appeared on the British talk show alongside Sir Ian McKellan and Hugh Jackman, as well as singer James Blunt. While on the show, Stewart also confirmed that his upcoming appearance in Logan, the latest installment in the X-Men franchise, would be his last. He plays Professor X in the series. Jackman also said Logan would be his last as Wolverine."Last week we were at a screening in Berlin sitting next to each other and when it got to the very emotional ending and I noticed Hugh wipe away a tear, then I did the same and during the credits he held my hand and I was done, I was weeping and sobbing," Stewart shared. "While the credits were rolling I realized that if it was the end, there was no more perfect and beautiful way to say, 'au revoir, goodbye, adios.'"
+/n

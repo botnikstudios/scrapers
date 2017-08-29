@@ -1,0 +1,44 @@
+Justin Bieber no le teme a The Weeknd y Selena Gómez y parece que irá a los Grammy El canadiense podría sorprender a todos./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/826311/justin-bieber-no-le-teme-a-the-weeknd-y-selena-gomez-y-parece-que-ira-a-los-grammy');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017023/rs_634x1024-170123163238-634.Justin-Bieber-Haircut-LA.ms.012317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Justin Bieber");
+	var imageCaption = encodeURIComponent("Justin Bieber");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+El canadiense podría sorprender a todos.
+
+En un principio se creía que Justin Bieber planeaba sumarse al boicot contra la gala de premios más importante de la industria de la música iniciado por Kanye West y Drake en protesta hacia la actitud discriminatoria que la organización mostraría supuestamente tanto hacia los artistas negros como hacia aquellos que triunfan en las listas de éxitos y entre el público más joven.E! NEWS > Justin Bieber, Kanye West y Drake podrían boicotear a los GrammySin embargo, ahora el productor de la velada Ken Ehrlich ha confirmado que las negociaciones con el intérprete canadiense aún siguen adelante para tratar de convencerle de que acuda a la celebración de los Grammy el próximo 12 de febrero."A nosotros nos encantaría que estuviera allí. Seguimos en contacto con él. En el caso de Kanye, probablemente no lo sabremos hasta muy poco antes de la gala. Hemos trabajado con Kanye en muchas ocasiones anterior y gran parte de su éxito se ha visto ligado a nuestra organización: algunas de sus actuaciones más memorables han tenido como telón de fondo los Grammy. Desde luego, a mí me encantaría contar con él", aseguró Ehrlich al portal Entertainment Tonight.E! NEWS > Una visión alternativa al ataque de Justin Bieber a The Weeknd ¿El fin de las peleas de famosos?La asistencia de la famosa Taylor Swift  a la entrega de premios también está aún sin confirmar, ya que la de Nashville acudiría a la misma como una mera invitada más sin opciones a llevar a casa un nuevo galardón."No creo que Taylor forme parte del show este año. En la edición anterior le fue muy bien, pero los rumores son que se está tomando un descanso. Lo cierto es que tampoco tendría mucho que hacer en la gala, no está nominada. Pueden esperar que regrese por todo lo alto el próximo año, pero no me parece que en esta edición vayamos a tenerla en la ceremonia", añadió.E! NEWS > 10 geniales videos musicales inspirados en 10 grandiosas películas (+ Videos)Quien ya se sabe que no paseará por la alfombra roja esa noche es el rapero Drake, que tiene programado un concierto en Mánchester en el marco de su gira la misma noche en que se celebran los Grammy.¿Justin se cruzará con The Weeknd y Selena Gómez? Sin dudas es una posibilidad que mantendrá a todos muy atentos.
+/n

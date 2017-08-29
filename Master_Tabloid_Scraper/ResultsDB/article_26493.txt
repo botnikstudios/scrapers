@@ -1,0 +1,82 @@
+ Cutthroat Fights & Abuse Claims! Brad Pitt & Angelina Jolie's Custody Battle Explodes.../n
+
+					var next_post_url = "http://radaronline.com/photos/kathie-lee-gifford-plastic-surgery-before-after-facelift-fillers-botox-photos/";
+					var prev_post_url = "http://radaronline.com/photos/sexy-eva-longoria-calories-bikini/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-22T17:34:17+00:00","caption":"Brad Pitt\u2019s bitter custody battle with Angelina Jolie has ramped up to a whole new level of ugly \u2014 over fresh child abuse charges! Disturbing photos exclusively obtained by RadarOnline.com reveal frightening new images of one of the couple\u2019s six kids sporting a vicious head wound which show the estranged couple's children may be at risk. Click through to see the troubling images.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:18+00:00","caption":"The images clearly showed Vivienne Jolie-Pitt with a massive bandage covering a gash on her forehead on Aug. 10. The nine-year-old has been in her mother\u2019s care, and was on an outing with Angelina to a Los Angeles\u2013area pet store.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:20+00:00","caption":"\u201cBrad was livid when he saw these photos,\u201d spilled a source close to Pitt, 53. \u201cHe\u2019s convinced the kids aren\u2019t being taken care of properly by Angie!\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:20+00:00","caption":"The alarming incident is just the latest skirmish between the A-list couple, who have been at each other\u2019s throats since their surprise split in September 2016. At the time, a vindictive Angie hurled allegations of child abuse against Brad that were later rejected by both the Los Angeles County Department of Children &amp; Family Services and the FBI. \u201cAngie was determined that she would destroy Brad by branding him as an abusive father, but that strategy completely blew up in her face,\u201d the informant snitched.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:21+00:00","caption":"\u201cShe battered Brad\u2019s reputation as a dad, and now that he sees his kids may actually be at risk in her care, he\u2019s ready to fight back with a vengeance!\u201d Vivienne\u2019s accident occurred while the youngster was in the care of Angie\u2019s ever-present, strapping bodyguard, insiders told Radar. \u201cBrad\u2019s attitude is: \u2018They call them bodyguards for a reason,\u2019\u201d a source sniffed. \u201cClearly, they aren\u2019t doing their job right.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:22+00:00","caption":"Adding to Pitt's anger, this was the second time Vivienne has been injured while being looked after by one of Angie\u2019s \u201cmannys.\u201d Last April, Radar exclusively revealed these shocking images that showed Vivienne being similarly battered when she was dropped over a spiked fence in London\u2019s Hyde Park!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:23+00:00","caption":"In yet another disturbing photo, a clueless bodyguard is seen peddling a rental bike while Vivienne\u2019s twin brother, Knox, leans on the handlebars with a label clearly warning it\u2019s not safe for children!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:24+00:00","caption":"In both cases, \u201csupermom\u201d Angie was thousands of miles away on a speaking engagement for the United Nations! In fact, insiders told Radar Brad believes Angie\u2019s ceaseless globe-trotting on her humanitarian missions has put their children \u2014 Maddox, 16, Pax, 13, Zahara, 12, Shiloh, 11, and twins Knox and Vivienne \u2014 at risk!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:25+00:00","caption":"Pitt is also livid she\u2019s been dragging the kids to far-off destinations, making visitation extremely difficult. As readers know, Jolie, 42, has frequently traveled to England where she\u2019s shopping for another home \u2014 far from Brad and Los Angeles. \u201cBrad offered to leave his Los Feliz home near L.A., but Angie continues to uproot the kids instead,\u201d a source snitched.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T17:34:26+00:00","caption":"She even fled the country with the kids on Father\u2019s Day! \u201cBrad was devastated,\u201d a source revealed. \"Angie allowed him to spend just two hours with the kids the day before.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T18:27:32+00:00","caption":"Now, according to insiders, it\u2019s payback time. \u201cBrad\u2019s going to use this situation with Vivienne as ammo,\u201d the source dished. \u201cAngie better be ready for the counterattack!\u201d\u00a0We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/brad-pitt-angelina-jolie-daughter-vivienne-child-abuse-claims-custody-battle-06.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Cutthroat Fights & Abuse Claims! Brad Pitt & Angelina Jolie’s Custody Battle Explodes
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11Brad Pitt’s bitter custody battle with Angelina Jolie has ramped up to a whole new level of ugly — over fresh child abuse charges! Disturbing photos exclusively obtained by RadarOnline.com reveal frightening new images of one of the couple’s six kids sporting a vicious head wound which show the estranged couple's children may be at risk. Click through to see the troubling images.Photo credit: Coleman-Rayner2 of 11The images clearly showed Vivienne Jolie-Pitt with a massive bandage covering a gash on her forehead on Aug. 10. The nine-year-old has been in her mother’s care, and was on an outing with Angelina to a Los Angeles–area pet store.Photo credit: Coleman-Rayner3 of 11“Brad was livid when he saw these photos,” spilled a source close to Pitt, 53. “He’s convinced the kids aren’t being taken care of properly by Angie!”Photo credit: Coleman-Rayner4 of 11The alarming incident is just the latest skirmish between the A-list couple, who have been at each other’s throats since their surprise split in September 2016. At the time, a vindictive Angie hurled allegations of child abuse against Brad that were later rejected by both the Los Angeles County Department of Children & Family Services and the FBI. “Angie was determined that she would destroy Brad by branding him as an abusive father, but that strategy completely blew up in her face,” the informant snitched.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11“She battered Brad’s reputation as a dad, and now that he sees his kids may actually be at risk in her care, he’s ready to fight back with a vengeance!” Vivienne’s accident occurred while the youngster was in the care of Angie’s ever-present, strapping bodyguard, insiders told Radar. “Brad’s attitude is: ‘They call them bodyguards for a reason,’” a source sniffed. “Clearly, they aren’t doing their job right.”Photo credit: Coleman-Rayner6 of 11Adding to Pitt's anger, this was the second time Vivienne has been injured while being looked after by one of Angie’s “mannys.” Last April, Radar exclusively revealed these shocking images that showed Vivienne being similarly battered when she was dropped over a spiked fence in London’s Hyde Park!Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11In yet another disturbing photo, a clueless bodyguard is seen peddling a rental bike while Vivienne’s twin brother, Knox, leans on the handlebars with a label clearly warning it’s not safe for children!Photo credit: Coleman-Rayner8 of 11In both cases, “supermom” Angie was thousands of miles away on a speaking engagement for the United Nations! In fact, insiders told Radar Brad believes Angie’s ceaseless globe-trotting on her humanitarian missions has put their children — Maddox, 16, Pax, 13, Zahara, 12, Shiloh, 11, and twins Knox and Vivienne — at risk!Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11Pitt is also livid she’s been dragging the kids to far-off destinations, making visitation extremely difficult. As readers know, Jolie, 42, has frequently traveled to England where she’s shopping for another home — far from Brad and Los Angeles. “Brad offered to leave his Los Feliz home near L.A., but Angie continues to uproot the kids instead,” a source snitched.Photo credit: Getty Images10 of 11She even fled the country with the kids on Father’s Day! “Brad was devastated,” a source revealed. "Angie allowed him to spend just two hours with the kids the day before.”Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11Now, according to insiders, it’s payback time. “Brad’s going to use this situation with Vivienne as ammo,” the source dished. “Angie better be ready for the counterattack!” We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Brad Pitt’s bitter custody battle with Angelina Jolie has ramped up to a whole new level of ugly — over fresh child abuse charges! Disturbing photos exclusively obtained by RadarOnline.com reveal frightening new images of one of the couple’s six kids sporting a vicious head wound which show the estranged couple's children may be at risk. Click through to see the troubling images.Photo credit: Coleman-RaynerThe images clearly showed Vivienne Jolie-Pitt with a massive bandage covering a gash on her forehead on Aug. 10. The nine-year-old has been in her mother’s care, and was on an outing with Angelina to a Los Angeles–area pet store.Photo credit: Coleman-Rayner“Brad was livid when he saw these photos,” spilled a source close to Pitt, 53. “He’s convinced the kids aren’t being taken care of properly by Angie!”Photo credit: Coleman-RaynerThe alarming incident is just the latest skirmish between the A-list couple, who have been at each other’s throats since their surprise split in September 2016. At the time, a vindictive Angie hurled allegations of child abuse against Brad that were later rejected by both the Los Angeles County Department of Children & Family Services and the FBI. “Angie was determined that she would destroy Brad by branding him as an abusive father, but that strategy completely blew up in her face,” the informant snitched.Photo credit: Coleman-Rayner“She battered Brad’s reputation as a dad, and now that he sees his kids may actually be at risk in her care, he’s ready to fight back with a vengeance!” Vivienne’s accident occurred while the youngster was in the care of Angie’s ever-present, strapping bodyguard, insiders told Radar. “Brad’s attitude is: ‘They call them bodyguards for a reason,’” a source sniffed. “Clearly, they aren’t doing their job right.”Photo credit: Coleman-RaynerAdding to Pitt's anger, this was the second time Vivienne has been injured while being looked after by one of Angie’s “mannys.” Last April, Radar exclusively revealed these shocking images that showed Vivienne being similarly battered when she was dropped over a spiked fence in London’s Hyde Park!Photo credit: Coleman-RaynerIn yet another disturbing photo, a clueless bodyguard is seen peddling a rental bike while Vivienne’s twin brother, Knox, leans on the handlebars with a label clearly warning it’s not safe for children!Photo credit: Coleman-RaynerIn both cases, “supermom” Angie was thousands of miles away on a speaking engagement for the United Nations! In fact, insiders told Radar Brad believes Angie’s ceaseless globe-trotting on her humanitarian missions has put their children — Maddox, 16, Pax, 13, Zahara, 12, Shiloh, 11, and twins Knox and Vivienne — at risk!Photo credit: MEGAPitt is also livid she’s been dragging the kids to far-off destinations, making visitation extremely difficult. As readers know, Jolie, 42, has frequently traveled to England where she’s shopping for another home — far from Brad and Los Angeles. “Brad offered to leave his Los Feliz home near L.A., but Angie continues to uproot the kids instead,” a source snitched.Photo credit: Getty ImagesShe even fled the country with the kids on Father’s Day! “Brad was devastated,” a source revealed. "Angie allowed him to spend just two hours with the kids the day before.”Photo credit: Getty ImagesNow, according to insiders, it’s payback time. “Brad’s going to use this situation with Vivienne as ammo,” the source dished. “Angie better be ready for the counterattack!” We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
+
+
+
+
+
+
+
+
+
+/n

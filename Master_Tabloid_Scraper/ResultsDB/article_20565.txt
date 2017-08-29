@@ -1,0 +1,46 @@
+EXCLUSIVE! Nikki Bella Describing Brie's Nipples During Breast Pumping Will Make You LOL: "It Doesn't Look Normal!" "She carries around this damn pump bang and it's like every time I look at her I hear the noise and I see the boobs going and I'm like.../n
+Brie Bella's hilarious breast feeding stories keep on coming!E! News caught up with Brie and Nikki Bella yesterday at the 2017 Teen Choice Awards and talk quickly turned to the new mom's boobies, which were on full display in a super sexy low cut dress."I dressed her today," Nikki bragged to E! News' Sibley Scoles. "She did dress me, that's why my boobies are out," Brie laughed. Brie added, "I had to pump in the car, I was trying not to spill breast milk on my dress."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/total_bellas/news/873340/nikki-bella-describing-brie-s-nipples-during-breast-pumping-will-make-you-lol-it-doesn-t-look-normal');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017713/rs_634x1024-170813155631-634.Nikki-Bella-Brie-Bella-Teen-Choice-Awards-Los-Angeles.kg.081317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("2017 Teen Choice Awards, Nikki Bella, Brie Bella");
+	var imageCaption = encodeURIComponent("2017 Teen Choice Awards, Nikki Bella, Brie Bella");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+"She carries around this damn pump bang and it's like every time I look at her I hear the noise and I see the boobs going and I'm like, ‘Seriously? Right now?'" Nikki continued.Nikki even did a hilarious impersonation of Brie breast-feeding. Imitating the sound the pump makes, Nikki said, "‘Coosh, coosh, coosh,' and you just see the nipple go in and out, in and out. And it doesn't look normal." LOL! At least Brie didn't have to milk herself like a cow, right?!In addition to breast-feeding, Nikki also dished some more scoop on her "classic" Marchesa wedding gown. 
+
+Watch the clip to hear the Total Bellas star talk about her upcoming wedding to John Cena!
+/n

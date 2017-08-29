@@ -1,0 +1,53 @@
+Downeys spent the next few months promoting The Judge, their first joint project. Sadly, just before the star's global press tour kicked off, his mother, Elsie Ann Downey, passed away at the age of 80. "She was my role model as an .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/589462/robert-downey-jr-and-susan-downey-welcome-a-baby-girl');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012616/634.rdj.mh.061912.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Robert Downey Jr., Susan Downey");
+	var imageCaption = encodeURIComponent("Robert Downey Jr., Susan Downey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/WireImage
+
+
+UPDATE: Robert Downey Jr. confirmed the happy news himself via Facebook Wednesday. "After 9 months of intensive development, Team Downey is pleased to announce our 2014 fall/winter project. Principal photography commenced 11-14 and will continue until she says, 'Dad! You are embarrassing me...I'm 30, this has gotta stop.' Yep...Avri Roel Downey joined the party @ 3:22 a.m. on November 4th...she's 7lbs even, spans 20 inches, and is accompanied by a variety of Susan's traits that have seemingly overwritten my 'junk DNA,'" he wrote. "I'll post pics here + there when I'm not too busy staring..."————————————————————————————————Congratulations are in order for Robert Downey Jr. and Susan Downey!The Team Downey producing partners and spouses of nine years have welcomed their first daughter, People reports. The newborn joins big brother Exton Elias Downey, who was born on Feb. 7, 2012, in L.A. The Avengers: Age of Ultron star also has a son, Indio Downey, 21, with his ex-wife Deborah Falconer.The actor, 49, and producer, 40, have been married since August 2005.Robert announced that his third child was on the way via Twitter in July 2014. In a follow-up Facebook post, the proud papa-to-be told his 22 million fans, "I don't know if it's a 'man's world,' but I'm certain women run it. Susan and I are therefore delighted to announce we are expecting a baby. Girl." Weeks later, he joked to E! News, "I've never had a daughter before, so I don't know what really prepares a dad. I'm asking around. But I did my part and now I'm just going to show up and do what I'm told."
+
+
+
+
+Frazer Harrison/Getty Images
+
+The Downeys spent the next few months promoting The Judge, their first joint project. Sadly, just before the star's global press tour kicked off, his mother, Elsie Ann Downey, passed away at the age of 80. "She was my role model as an actor, and as a woman who got sober and stayed that way," Robert wrote in a touching Facebook tribute. "She was also reclusive, self-deprecating, a stoic Scotch-German rural Pennsylvanian, a ball buster, stubborn, and happy to hold a grudge. My ambition, tenacity, loyalty, 'moods,' grandiosity, occasional passive aggression, and my faith...That's all her...and I wouldn't have it any other way."
+
+While mourning the loss of his mother, Robert continued to put on a happy face during TV appearances. When he appeared on The Ellen DeGeneres Show in early October, for example, the actor joked that he and Susan "keep crankin' [kids] out." Robert added, "It's wild. I've heard that for dads, you grow a new heart valve when you have a daughter, and there's all sorts of new experiences and feelings and stuff."Will their younger children get another sibling? "The missus says we're done," he said.Congratulations to the Downeys on their new addition!(Originally published on Wed., Nov. 5, 2014, at 3:45 a.m. PDT)
+/n

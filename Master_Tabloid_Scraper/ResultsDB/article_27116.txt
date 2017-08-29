@@ -1,0 +1,44 @@
+Madge's Sticky Sweat Tour Before her Sticky & Sweet concert tour even kicked off, Madonna had already hit the road, driven out of her multimillion-dollar gym by horny construction workers. Despite spending a reported $24 million rem.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/26031/madge-s-sticky-sweat-tour');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080825/293.madonna.082508.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Madonna, Sticky and Sweet Tour");
+	var imageCaption = encodeURIComponent("Madonna, Sticky and Sweet Tour");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Leon Neal/AFP/Getty Images
+
+Before her Sticky & Sweet concert tour even kicked off, Madonna had already hit the road, driven out of her multimillion-dollar gym by horny construction workers.Despite spending a reported $24 million remodeling the building next to her Mayfair mansion for a state-of-the-art workout palace, the U.K. Mirror reports that Madge finally moved to another gym after seven months of putting up with construction noise, not to mention the "leering, crude comments and wolf whistles of builders working nearby."
+
+You'd think if anyone could put up with taunting and sexual innuendo, it would be the Material Girl, but a close pal says it's more the noise than the drooling boys that drove her to train elsewhere: "Madonna felt as if she has been living in a siege situation. The noise of the drilling meant she was forced to listen to her iPod at full volume, potentially damaging her ears."Whatever she did to get in shape, however, it worked—and then some!And while we have sympathy for her predicament, not to mention admiration for her extreme workout dedication, we also find it curiously comforting that not even a superstar can avoid getting screwed by overpriced, behind-schedule construction contractors.
+/n

@@ -1,0 +1,46 @@
+Sophia Loren to Return to Acting at Age 78 Don't call it a comeback! Sophia Loren has been gracing the big screens with her unparalleled beauty for over five decades now, and she's not finished just yet. The Oscar-winning stunner i.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/436766/sophia-loren-to-return-to-acting-at-age-78');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201365/rs_293x473-130705143004-634.SLoren.ms.070513_copy.JPG');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sophia Loren");
+	var imageCaption = encodeURIComponent("Sophia Loren");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Elisabetta Villa/Getty Images
+
+Don't call it a comeback!Sophia Loren has been gracing the big screens with her unparalleled beauty for over five decades now, and she's not finished just yet.The Oscar-winning stunner is set to return to acting for her first starring role in over a decade. The film she's chosen to helm her return to acting?A film called La Voca Umana (The Human Voice), which is based on a 1930 one-person play by Jean Cocteau, according to The Hollywood Reporter.
+
+Loren will have some quality company while she spends time on set. The film adaptation is set to be directed by none other than her son Eduardo Ponti.Filming will take place in multiple cities in Italy including Rome and Naples and will last around three weeks.Loren's most recent role was as the mother of Daniel Day-Lewis in the 2009 musical Nine. Her last starring role, however, was the 2004 comedy Peperoni Ripieni e Pesci in Faccia (Too Much Romance…It's Time for Stuffed Peppers).
+
+Last year, at the Taormina Film Festival, Loren was honored with a lifetime achievement award for her iconic film career."I am very honored to win this wonderful award," the veteran actress said on receiving the prestigious medal.It looks like Loren has been bitten with the acting bug ever since!
+/n

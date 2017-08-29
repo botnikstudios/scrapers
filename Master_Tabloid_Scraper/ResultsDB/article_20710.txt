@@ -1,0 +1,48 @@
+Danny Masterson Denies Rape Allegations, Claims Leah Remini Inspired Accuser to Contact Police Danny Masterson denies any wrongdoing after being accused of sexually assaulting three woman and says the "false allegations appear to be mot.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/833756/danny-masterson-denies-rape-allegations-claims-leah-remini-inspired-accuser-to-contact-police');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012812/634.dannym.mh.091212.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Danny Masterson ");
+	var imageCaption = encodeURIComponent("Danny Masterson ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Buckner/Getty Images
+
+Danny Masterson denies any wrongdoing after being accused of sexually assaulting three woman and says the "false allegations appear to be motivated to boost" the anti-Scientology series of Leah Remini, who reportedly encouraged one accuser to report the actor to police.None of the alleged victims have commented. No charges have been filed against the That '70s Show alum."The Los Angeles Police Department Robbery Homicide Division, Sexual Assault Section, is conducting an investigation involving the actor Danny Masterson," the Los Angeles Police Department said in a statement to E! News Friday. "Three women have come forward and disclosed that they were sexually assaulted by Masterson during the early 2000's."
+
+Tony Ortega's Scientology blog The Underground Bunker said all three alleged victims were at the time of the incidents Scientologists, like the actor.It posted copies of what it says are police reports. E! News has not verified their authenticity. In one, the first accuser claims she and Masterson were together for six years and that he sodomized her in 2001 while she was asleep and laughed about it when she woke up.It said she reached out to Leah Remini, a former Church of Scientology member whose A&E series Leah Remini: Scientology and the Aftermath debuted last year, and that the actress encouraged her to report the actor."Based on reading the anti-Scientology blog that posted this story, these false allegations appear to be motivated to boost Leah Remini's anti-Scientology television series since [the accuser] only came forward after connecting with Leah Remini," Masterson's rep said in a statement to E! News."The alleged incident occurred in the middle of their six-year relationship, after which she continued to be his longtime girlfriend," the rep said. "Significantly, during their long relationship, she made numerous inconsistent claims that she was previously raped by at least three other famous actors and musicians. When Danny ended the relationship, she continued to pursue him, even making threats to beat up his current wife Bijou Phillips unless she left him."
+
+The blog said another woman had accused Masterson of rape in a police report filed in 2004 and that the matter was later closed because witness accounts, including one from Masterson's rep, contradicted hers. The rep did not comment on the matter.A copy of the report posted on the blog stated that the alleged incident took place in 2003. The actor was accused of sexually assaulting the person while she was passed out, after which she woke up and struggled with him. He then allegedly choked her and she passed out again.The blog said that after the first accuser contacted police recently, authorities reopened the second woman's case."We are aware also that approximately 14 years ago, a woman referred to in the blog made allegations of sexual assault and that the LADP interviewed numerous witnesses and determined the claim had no merit," Masterson's rep said.
+
+The blog also said that on Feb. 22, the first accuser wrote a letter to LAPD Chief Charlie Beck, detailing her accusations.She also reportedly said in her letter she recently learned about the second accuser as well as a third, who also recently filed a police report against Masterson. No details were given.She told Beck Scientology officials "threatened me that if I ever told anyone or reported him to the police that I would be declared a 'suppressive person' and lose everything and everyone. Then they put me on a massive ethics program as punishment. My rapist was not punished at all. They didn't even call him to talk about it. I ended up breaking up with him two months later."The Church of Scientology has not commented.Masterson's rep said that the Church of Scientology told them that the only demand the accuser made of the Church after the couple's breakup was to seek their help "to intervene so the breakup would not be permanent." 
+/n

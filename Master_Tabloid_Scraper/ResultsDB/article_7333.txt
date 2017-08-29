@@ -1,0 +1,50 @@
+Here's Why Joseph Gordon-Levitt Is Stripping Down to His Underwear in Front of Harvard College Students Joseph Gordon-Levitt knows how to visit a college! Despite a few inches of snow, the actor made his way to Harvard's campus Fri.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/737673/here-s-why-joseph-gordon-levitt-is-stripping-down-to-his-underwear-in-front-of-harvard-college-students');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201616/rs_634x1024-160206165603-634.JosephGLevitt-jmd-020616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joseph Gordon-Levitt ");
+	var imageCaption = encodeURIComponent("Joseph Gordon-Levitt ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo/Elise Amendola
+
+Joseph Gordon-Levitt knows how to visit a college!Despite a few inches of snow, the actor made his way to Harvard's campus Friday evening where he receiving Hasty Pudding Theatricals' 50th Man of the Year award.Before taking home his special prize, Joseph went through plenty of obstacles in front of a packed house. According to the Harvard Gazette, the actor was roasted by two college students before being put through a fiery obstacle course to receive the highly coveted Pudding Pot.Whether milking a cow, performing a sexy dance for a Russian porn star (played by a college senior) or reprising his role as Robin from The Dark Night Rises, Joseph didn't hesitate to participate in all challenges.
+
+In fact, he even impersonated his close friend and co-star Seth Rogen when he stripped down to his Calvin Klein underwear and mismatched socks."I spent the last two days here," Joseph told the audience who couldn't stop chanting "Robin! Robin!" "There's a thoughtfulness, optimism, passion, worldliness, sense of humor that leaves me feeling optimistic about people younger than I am. You guys are really doing great."Neil Patrick Harris, Chris Pratt and Robert De Niro have also received the special title in recent years.
+
+
+
+Darren McCollester/Getty Images/ for Hasty Pudding Institute of 1770
+
+ In fact, Scandal star Kerry Washington was honored with the Hasty Pudding Woman of the Year Woman of the Year award just last week.Once Joseph bids farewell to Harvard, the actor will star in a brand-new musical comedy with Channing Tatum. While the plot remains top-secret, we can tell you the gentlemen will act as two pilots who embark on a "misadventure.""[Joseph] and I have been friends since I got to town 13 years ago, and we're going to eventually land on something together, because we've talked about it too long for it not to happen," Channing told Vulture in late January. "He's one of the most creative people I know, and I don't think there's anybody besides him I would think about doing it with."
+/n

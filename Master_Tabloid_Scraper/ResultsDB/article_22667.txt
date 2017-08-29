@@ -1,0 +1,46 @@
+Dolly Parton Comes Full Circle With "Painted Lady" Role in Christmas of Many Colors on NBC Parton and executive producer Sam Haskell came up with the idea to have her take on the role of "the painted lady…the lady that's in the town that Dolly encoun.../n
+Dolly Parton is stepping in front of the camera and life is coming full circle in Dolly Parton's Christmas of Many Colors: Circle of Love. The movie is her second NBC TV flick about her childhood, based on her wildly popular song, "Coat of Many Colors.""I tried to find a way that I could be in the movie," Parton told E! News on set of her TV movie. "When I was a little girl, I patterned my look after the loose woman in our town, the town tramp they called her, I guess. She was beautiful to me. She wore an over abundance of makeup, hair, tight clothes. That's kind of what influenced me for the look that I have to this day."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/812469/dolly-parton-comes-full-circle-with-painted-lady-role-in-christmas-of-many-colors-on-nbc');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161029/rs_634x1024-161129114732-634.dolly-parton-christmas.ch.112916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dolly Parton, Christmas of Many Colors");
+	var imageCaption = encodeURIComponent("Dolly Parton, Christmas of Many Colors");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NBC
+
+Parton and executive producer Sam Haskell came up with the idea to have her take on the role of "the painted lady…the lady that's in the town that Dolly encounters," she told us."I'm playing the lady I kind of patterned my look after. Wrap your head around that one," she cracked.Parton's first movie, Coat of Many Colors, was based on the song and album of the same name. It's a personal piece for Parton, and one that struck a chord with listeners."You never know what's going to happen," she told us about the journey from song to TV movie. "Of course if we all knew what was going to make a hit, we'd all be rich, I suppose, all of us in show business.
+
+"I just knew the song was very important to me…it's a true story. That memory had been painful to me and I didn't realize it until I was grown and wrote the story," she continued."Coat of Many Colors" tells the story of Parton's mother stitching her together a coat out of rags given to the family."So many people responded to it, saying it had healing properties for them as well…I think people really responded to that story for different reasons. It was a story of acceptance and hope and kind of had the bullying elements in there too," she said. "It really is a little song that's more than just a song, it's about a philosophy, an attitude, a feeling."Dolly Parton's Christmas of Many Colors: Circle of Love airs Wednesday, Nov. 30, 9 p.m. on NBC.(E! and NBC are both part of the NBCUniversal family.)
+/n

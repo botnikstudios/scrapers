@@ -1,0 +1,46 @@
+Patrick Dempsey Has Finally Found the TV Role Worthy of His Grey's Anatomy Follow-Up Patrick Dempsey is ready for his TV comeback. Two years after the actor walked away from Grey's Anatomy, killing off his beloved character Derek S.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873639/patrick-dempsey-has-finally-found-the-tv-role-worthy-of-his-grey-s-anatomy-follow-up');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016812/rs_634x1024-160912160313-634-patrick-dempsey-bridget-jones-091216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patrick Dempsey");
+	var imageCaption = encodeURIComponent("Patrick Dempsey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Cindy Ord/Getty Images for SiriusXM
+
+Patrick Dempsey is ready for his TV comeback.Two years after the actor walked away from Grey's Anatomy, killing off his beloved character Derek Shepherd in the process, Dempsey has signed on for the lead role in the upcoming Epix adaptation of the best-selling novel, The Truth About the Harry Quebert Affair. Production on the 10-part event series is underway in Montreal.In the suspenseful drama, produced by MGM Television, Dempsey will take on the title role of Harry Quebert, a literary icon who suddenly finds himself indicted for murder after the body of a young girl is found buried on his property.
+
+The series takes place in coastal Maine and focuses on Marcus Goldman (Ben Schnetzer), a successful young novelist who had been mentored by Harry, as visiting his mentor's home to find a cure for his writer's block as his publisher's deadline looms.  Marcus' plans are suddenly upended when Harry is sensationally implicated in the cold-case murder of Nola Kellergan, a fifteen-year-old girl who has been missing for many years.The Truth About the Harry Quebert Affair also stars Happy Endings alum Damon Wayans Jr. as Sgt. Perry Gahalowood, a Maine State Police investigator who is investigating the death of Kellergan, and Virginia Madsen as Tamara Quinn, the owner of a local diner who learns of a secret about Quebert."Joël Dicker's exquisite thriller, The Truth About the Harry Quebert Affair has captivated a worldwide audience with its complicated tale of love and lies. I am thrilled that this  first class ensemble cast led by Patrick Dempsey and the incomparable director Jean-Jacques Annaud, get to bring provocative page-turner to life," said Steve Stark, MGM's President, Television Production & Development.
+
+When Dempsey shocked fans with his sudden departure from the long-running ABC soap that revitalized his career, he noted that he'd likely never sign on for a workload that a broadcast series like Grey's requires from its actors.  "I would commit to a show that is 10 to 12 episodes. But 24 again, I don't know if i would do that," he told EW at the time. "It's a very hard life. It's financially rewarding but there comes a point where how much is enough, really?"Are you looking forward to Dempsey's return to TV? Sound off in the comments below!The Truth About the Harry Quebert Affair will likely debut on Epix in 2018.
+/n

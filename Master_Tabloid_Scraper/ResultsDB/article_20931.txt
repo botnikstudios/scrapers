@@ -1,0 +1,46 @@
+Hillary Clinton Calls Donald Trump a "Creep" in What Happened Hilary Clinton has been busy since November 2016. The former Presidential candidate inked a book deal with publisher Simon & Schuster earlier this year, and Clinton .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875279/hillary-clinton-calls-donald-trump-a-creep-in-what-happened');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017723/rs_634x1014-170823051136-634.hillary-clinton-what-happened.82317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hilary Clinton, What Happened");
+	var imageCaption = encodeURIComponent("Hilary Clinton, What Happened");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Simon & Schuster
+
+Hilary Clinton has been busy since November 2016.The former Presidential candidate inked a book deal with publisher Simon & Schuster earlier this year, and Clinton shared an excerpt from the audiobook with MSNBC Wednesday morning."In the past, for reasons I try to explain, I've often felt I had to be careful in public, like I was up on a wire without a net," Clinton wrote in the introduction. "Now I'm letting my guard down."Clinton still hasn't made sense of her loss to Republican rival Donald Trump. "I don't have all the answers and this isn't a comprehensive account of the 2016 race; that's not for me to write. I have too little distance and too great a stake in it. Instead, this is my story. I want to pull back the curtain on an experience that was exhilarating, joyful, humbling, infuriating and just plain baffling. Writing this wasn't easy. Every day that I was a candidate for President, I knew that millions of people were counting on me, and I couldn't bear the idea of letting them down, but I did. I couldn't get the job done," she said. "And I'll have to live with that for the rest of my life."
+
+"I chose Option A. I kept my cool, aided by a lifetime of difficult men trying to throw me off. I did, however, grip the microphone extra hard. I wonder, though, whether I should have chosen Option B. It certainly would have been better TV!" Clinton said in the audiobook (via MSNBC). "Maybe I have over-learned the lesson of staying calm, biting my tongue, digging my fingernails into a clenched fist, smiling all the while, determined to present a composed face to the world."What Happened is scheduled for release Sept. 12.Clinton's previous books include the 2003 memoir Living History, published while she was a U.S. senator in New York, and a memoir about her years as Secretary of State, Hard Choices, which came out in 2014 as she prepared to launch her candidacy for president. As First Lady of the United States, the 69-year-old authored It Takes a Village: And Other Lessons Children Teach Us.
+
+(E! and MSNBC are both members of the NBCUniversal family.)
+/n

@@ -1,0 +1,46 @@
+Naomi Watts Talks "Good Days" and "Bad Days" After Liev Schreiber Split As the song goes, "Breaking Up Is Hard to Do." No one knows that better than Naomi Watts and Liev Schreiber, who mutually decided to end th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/855786/naomi-watts-talks-good-days-and-bad-days-after-liev-schreiber-split');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016128/rs_634x1024-160228161621-634.Naomi-Watts-Liev-Schreiber-Academy-Awards-Arrivals-ms.022816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("2016 Oscars, Academy Awards, Arrivals, Naomi Watts, Liev Schreiber, Couples");
+	var imageCaption = encodeURIComponent("2016 Oscars, Academy Awards, Arrivals, Naomi Watts, Liev Schreiber, Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+As the song goes, "Breaking Up Is Hard to Do."No one knows that better than Naomi Watts and Liev Schreiber, who mutually decided to end their 11-year relationship last year. Neither has said much about the split in interviews, but in Vogue Australia's June issue, the actress admitted she's still processing the split. "I mean, I'm single," said Naomi, who stars in Netflix's Gypsy (out June 30). "I'm co-parenting. I'm doing OK." Liev, meanwhile, is now dating interior designer Morgan Brown (who has dated Gerard Butler).Naomi—mom to Sasha Schreiber, 9, and Samuel Schreiber, 7—stayed busy with work and relied on pals like Nicole Kidman post-breakup. "There are good days and bad days. Liev and I are on great terms and we're trying to do our absolute best for the sake of the children, and we hope to keep moving forward in that way. He's fantastic dad, a wonderful, wonderful man, and we still want the absolute best for each other," she revealed. "So, that's pretty much all I'll say."
+
+The 48-year-old actress' latest comments echo the couple's joint breakup statement, released last September. "Over the past few months we've come to the conclusion that the best way forward for us as a family is to separate as a couple," Naomi and Liev said at the time. "It is with great love, respect, and friendship in our hearts that we look forward to raising our children together and exploring this new phase of our relationship. While we appreciate your curiosity and support, we ask the press to be mindful of our children and respect their right to privacy."Being single has allowed Naomi to focus more fully on her career. "I'm here to tell the stories," she says. "Not just to go to work and get paid by great actors and directors; it's more than that. It has to be stuff that you're connecting with, if it's bringing something back into your own life.""If it's not growing me," she says, "then what's the point?"
+
+The older she gets, the more confident the two-time Oscar nominee becomes. "[Actresses] don't like to be told that our time is up, so I think that as we hurtle towards the finish line we get that extra bit of speed. I feel it among my peers, not just actors but all types of people in different careers," she says. "I've got a lot of female friends and we're all talking about: 'What can we do now? What has led us here? What haven't we done? What else do we want to do?'"Read the full interview with Naomi in Vogue Australia's June issue, on sale now.
+/n

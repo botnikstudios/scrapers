@@ -1,0 +1,44 @@
+it slowly," he said on SiriusXM. "I used to go on these diets, take three months and lose about 60-70 pounds, feel great, and reward myself with crap-ola. Twinkies look good." "I took it slow. I just wanted to change my l.../n
+John Goodman doesn't think his weight loss will last.The actor, 63, appeared on NBC's Today Wednesday to promote his new movie, 10 Cloverfield Lane, co-starring John Gallagher Jr. and Mary Elizabeth Winstead. Co-host Savannah Guthrie praised Goodman on his "fabulous" weight loss, though he brushed off her compliment. "Just wait another six months and I'll be back to normal," he joked. "That's the way it usually goes." It's been estimated that Goodman has lost 100 lbs., but he's not sure that number is accurate. "I have no idea how much I lost; I didn't weight myself," he explained. "Clothes fit nice and I can go to nice clothing stores and buy too much stuff. I still walk around in black T-shirts and jeans.""Next you're going to be in Matt Lauer's skinny jeans," Guthrie teased.Goodman quipped, "I'd love to be in Matt Lauer's jeans."Speaking to E! News at the film's premiere in New York City Monday, Goodman said his weight loss came easily. "I don't eat every five minutes," he said. "That seems to help."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/747165/john-goodman-likely-won-t-maintain-his-weight-loss');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201629/rs_634x845-160309055749-634.john-goodman-today.3916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("John Goodman, Today");
+	var imageCaption = encodeURIComponent("John Goodman, Today");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Earlier that morning, he spoke to Howard Stern about his total body makeover. "I decided to stop stuffing food into my mouth every five minutes," he said. "Turns out I was just eating all the time. Anytime I had my hands open or free, I shoved something in my mouth. It's all crap." Goodman ate smaller meal portions and exercised at home on an elliptical. "It's been a year and half, I did it slowly," he said on SiriusXM. "I used to go on these diets, take three months and lose about 60-70 pounds, feel great, and reward myself with crap-ola. Twinkies look good.""I took it slow. I just wanted to change my lifestyle," Goodman added. "You look in the mirror everyday and go, 'I gotta deal with this the rest of the day, I gotta deal with this schmuck?'"Weight loss talk aside, Goodman also explained on Today why he wanted to star in director Dan Trachtenberg's thriller. "I've never seen anything like it before. I've never seen a survivalist in a bunker. These movies are not in demand," he said with a laugh. "It was new to me, and [I liked] the twists and turns in it. Could he be a good guy, could he be just nuts, or a little of both?"Naturally, Guthrie asked Goodman what item he "couldn't live without" if he were a doomsday prepper. "Preparation H," he deadpanned. "It's just the first thing that popped into my head." In all seriousness, Goodman prizes his iPod most. As he told Guthrie, "I gotta have my music."10 Cloverfield Lane in theaters Friday.(E! and NBC are both members of the NBCUniversal family.)
+/n

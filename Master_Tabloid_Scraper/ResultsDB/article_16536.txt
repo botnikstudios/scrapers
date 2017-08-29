@@ -1,0 +1,44 @@
+Britney Spears curte piscina com filhos após sobrinha receber alta de hospital Que família!/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/828598/britney-spears-curte-piscina-com-filhos-apos-sobrinha-receber-alta-de-hospital');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017112/rs_560x698-170212052539-Captura_de_Tela_2017-02-12_as_11.21.27.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Britney Spears, Sean, Jayden");
+	var imageCaption = encodeURIComponent("Britney Spears, Sean, Jayden");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Que família!
+
+Britney Spears está mais tranquila após o acidente de sua sobrinha. Depois que Maddie deixou o hospital, Britney fez questão de aproveitar um pouquinho com os filhos, Sean e Jayden, em uma casa com vista pra lá de paradisíaca. Amamos!BRITNEY SPEARS QUEBRA O SILÊNCIO SOBRE GRAVE ACIDENTE DA SOBRINHANo sábado, 11, a cantora publicou uma foto com os herdeiros na piscina, no Instagram, e escreveu: "Tempo da família". Em outra publicação, a loira mostra a residência e a sua vista invejável. Veja abaixo:
+/n

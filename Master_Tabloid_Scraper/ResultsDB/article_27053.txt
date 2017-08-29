@@ -1,0 +1,44 @@
+Eloise Mumford Cast as Dakota Johnson's Roommate Kate in Fifty Shades of Grey! Fifty Shades of Grey's cast is almost complete! Eloise Mumford has landed the role of Kate Kavanagh in the film adaptation of the erotic book trilogy, E.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/484197/eloise-mumford-cast-as-dakota-johnson-s-roommate-kate-in-fifty-shades-of-grey');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131022/rs_634x1024-131122124147-634.eloise-mumford-50-shades-kate.ls.112213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eloise Mumford");
+	var imageCaption = encodeURIComponent("Eloise Mumford");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+Fifty Shades of Grey's cast is almost complete!Eloise Mumford has landed the role of Kate Kavanagh in the film adaptation of the erotic book trilogy, E! News confirms.Variety was first to report the news of the casting.Kate is the bubbly and vivacious college roommate of shy and innocent Anastasia Steele (Dakota Johnson), as well as the love interest of Elliot Grey (Luke Grimes), the adopted brother of S&M fetishist billionaire Christian Grey (Jamie Dornan).The 27-year-old actress is best known for her roles on TV's The River in 2012 and Lone Star in 2010. She can next be seen in the film Not Safe for Work.
+
+In addition to Dornan, Johnson, Grimes and now Mumford, Victor Rasuk will portray Anastasia's close friend José and Jennifer Ehle will be Anastasia's mother, Carla. The film, which might be rated NC-17, is being directed by Sam Taylor-Johnson and produced by Michael De Luca and Dana Brunetti.Focus Features recently announced that the steamy flick will arrive in theaters on Feb. 13, 2015. Just in time for Valentine's Day!Production was delayed one month after Charlie Hunnam dropped out just weeks before filming began. Dornan, who beat out rumored contenders like Billy Magnussen and Scott Eastwood, eventually replaced the Sons of Anarchy star.Since its release, author E.L. James' Fifty Shades has been translated in 52 languages worldwide and sold more than 90 million copies in e-book and print. Universal Pictures and Focus Features acquired the film rights in March 2012. (E! and Universal Pictures are both part of the NBCUniversal family.)
+/n

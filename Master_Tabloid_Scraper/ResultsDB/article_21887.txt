@@ -1,0 +1,42 @@
+Ugly Betty set. Christopher Gorham, who played former Betty beau Henry Grubstick, and his wife, Anel, welcomed their third child, daughter Alondra Cecilia Lopez Gorham, early Saturday. "She's perfect," the actor told People ma.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/78647/chris-gorham-welcomes-yet-another-ugly-baby');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090112/293.gorham.christopher.lc.011209.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Christopher Gorham");
+	var imageCaption = encodeURIComponent("Christopher Gorham");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeffrey Mayer/Getty Images
+
+Something really must be in the water on the Ugly Betty set.Christopher Gorham, who played former Betty beau Henry Grubstick, and his wife, Anel, welcomed their third child, daughter Alondra Cecilia Lopez Gorham, early Saturday. "She's perfect," the actor told People magazine.The couple have been together since college and have two sons, Lucas and Ethan.The erstwhile Jake 2.0 actor, who'll soon be seen in CBS' new drama Harper's Island, is just the latest in a seemingly long line of Betty babies. Ana Ortiz announced she's expecting and Rebecca Romijn gave birth to twins just last week, while Eric Mabius and his wife welcomed a son in December.
+/n

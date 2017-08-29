@@ -1,0 +1,48 @@
+Bonnie Franklin's Death: Valerie Bertinelli, Nancy O'Dell and More React to One Day at a Time Star's Passing It's a sad day for fans of Bonnie Franklin. The former One Day at a Time star passed away today at the age of 69 after battling pancreatic ca.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/393632/bonnie-franklin-s-death-valerie-bertinelli-nancy-o-dell-and-more-react-to-one-day-at-a-time-star-s-passing');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201321/reg_634.Valerie.Bonnie.mh.030113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Valerie Bertinelli, Bonnie Franklin, Twitter");
+	var imageCaption = encodeURIComponent("Valerie Bertinelli, Bonnie Franklin, Twitter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+It's a sad day for fans of Bonnie Franklin.The former One Day at a Time star passed away today at the age of 69 after battling pancreatic cancerStars have taken to Twitter to remember the iconic TV star—she played fiery redhead Ann Romano on the hit TV sitcom—and send well wishes to family and friends.So let's take a look at what the celebs are saying as we reminisce over Mackenzie Phillips and Valerie Bertinelli's Emmy-nominated TV mom. 
+
+Valerie Bertinelli: "My heart is breaking"Loni Love: "Grew up watching her RIP"Marg Helgenberger: "Sorry to hear about Bonnie Franklin's passing. She directed me many years ago for an episode of Patty Duke's sitcom, 'Karen's Song'."
+
+Nancy O'Dell: "So sad to hear about actress Bonnie Franklin. She gave us many laughs on "One Day at a Time."Jessica Collins: "Very sad to hear about the passing of Bonnie Franklin. We all loved having her on the show at #YR. She will be missed dearly."Josh Elliott: "RIP Bonnie Franklin. Like so many Norman Lear characters, her Ann Romano changed how so many saw themselves. A great lady, who'll be missed."Patty Duke: "RIP Bonnie Franklin, RIP Dale Robertson. You both will be sorely missed! My heart goes out to their families!!"
+
+Rob Marciano: "One of my favorite shows as a kid, sad news, One Day at a Time star Bonnie Franklin has lost her battle with cancer"Dana Delany: "Very sad to hear of Bonnie Franklin's death. I 1st saw her in 1970 in APPLAUSE on Bway. Please support @PanCan. Too many die too young."Sally Jessy Raphael: "Just heard Bonnie Franklin has lost her battle w/ cancer. The world has lost a gifted actress, and more importantly, a wonderful lady. #RIP"Andy Cohen: "RIP Carrot Top #Bonnie" 
+/n

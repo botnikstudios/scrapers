@@ -1,0 +1,46 @@
+EXCLUSIVE! Anne Hathaway Shares the First Photo of Her Son Jonathan: Inside Her First Year of Motherhood While every new mom experiences the ups and downs of life with a new baby, overall motherhood has treated Hathaway so well that she want.../n
+Hollywood's princess is about to ring in her first year of motherhood. Just a few weeks away from her son's first birthday, Anne Hathaway has shared the first photo of little Jonathan Rosebanks Shulman. The Oscar winner snapped a shot of her baby boy from the back of his head as he propped himself up on an ottoman in front of a computer and watched his famous mom speak at the United Nations in support of paid parental leave."JRS watching Mommy give her speech at the UN yesterday #forourboys #forourgirls #forthefuture #loveislove #parentsareparents #paidparental #iwd #ppl @unwomen," Hathaway captioned the photo on Instagram. When she's not delivering an Oscar-worthy speech at the United Nations or shooting for the all-female Ocean's Eight, the 34-year-old new mom is enjoying every day life at home in Los Angeles with her husband of nearly five years, Adam Shulman, their baby and their dogs. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/834930/anne-hathaway-shares-the-first-photo-of-her-son-jonathan-inside-her-first-year-of-motherhood');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016128/rs_634x1024-160228231110-634.Adam-Shulman-Anne-Hathaway-Vanity-Fair-Oscar-Party.ms.022816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vanity Fair Oscars Party, Adam Shulman, Anne Hathaway");
+	var imageCaption = encodeURIComponent("Vanity Fair Oscars Party, Adam Shulman, Anne Hathaway");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Pascal Le Segretain/Getty Images
+
+While every new mom experiences the ups and downs of life with a new baby, overall motherhood has treated Hathaway so well that she wants to do it again. "Anne wants more kids," the insider shared. "She wanted to wait until Jonathan was a little older before they started trying again. She wants Jonathan to have a sibling."Though the timing of a second pregnancy is up in the air considering her lineup of projects, the proud mom and dad, who have been "loving every minute being new parents," couldn't be in a better place. "Everything with Adam and her are wonderful," the source added. "They have a really happy marriage."
+
+In the meantime, the couple can look forward to celebrating their son's first birthday on March 24 with a small celebration.Happy Birthday, Jonathan!
+/n

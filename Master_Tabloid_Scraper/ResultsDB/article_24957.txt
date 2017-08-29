@@ -1,0 +1,85 @@
+Ed Sheeran Says He Wants to Beat Adele's Record Sales — but Jokes He Gets 'Shut Down' for the Friendly Competition
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-d968b6a027be64f1bb24d9e7b5a0db66-59a5702b77b3c');
+				var iframe = document.getElementById('wpcom-iframe-d968b6a027be64f1bb24d9e7b5a0db66-59a5702b77b3c');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-d968b6a027be64f1bb24d9e7b5a0db66-59a5702b77b3c'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Ed Sheeran‘s friendly competition with Adele is getting spun into a war he definitely doesn’t want to wage.
+The star – who is currently touring his album, ÷ – opens up about wanting to overtake Adele’s historic record sales for 25 in an upcoming sit-down with Megyn Kelly on Sunday Night with Megyn Kelly.
+“I feel like me saying this – a lot of people were like, ‘That’s such an arrogant thing to say’ and blah, blah, blah,” Sheeran admits. “I think you need to choose someone that’s at the top of their game. Like, I probably won’t sell 20 million records. And I probably won’t ever be as big as Adele.”
+He adds, “But if you don’t aim for the top of the mountain, how are you ever going to get halfway?”
+Back in February, Sheeran, 26, told GQ, “Adele is the one person who’s sold more records than me in the past 10 years. She’s the only person I need to sell more records than. That’s a big f—ing feat because her last album sold 20 million. But if I don’t set her as the benchmark then I’m selling myself short.”
+FROM PEN: Grammy News and Notes: Album of the Year Nominees
+
+Sheeran worries that his point “never comes across” when he explains why he’s set an Adele-inspired challenge for himself. He explains, “Because that quote is now just ‘I want to be bigger than Adele.’ ”
+Says the star, laughing, “Yeah, the word Adele is just something that no one should f— with basically. So if you put that into any sentence prepare to be, like, shut down.”
+Kelly’s interview with Sheeran airs on Sunday, July 9 at 7 p.m. EST on NBC.
+/n

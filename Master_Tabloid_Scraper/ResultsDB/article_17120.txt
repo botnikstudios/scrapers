@@ -1,0 +1,44 @@
+in Tiny Shorts While Shooting World Cup Anthem Music Video Jennifer Lopez and Pitbull filmed the music video for the World Cup song "We Are One (Ole Ola)" on Thursday in Florida. Both artists are extremely talented, but it was J.Lo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/510032/jennifer-lopez-flaunts-sexy-curves-in-tiny-shorts-while-shooting-world-cup-anthem-music-video');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014111/rs_634x1024-140211205258-634.Jennifer-Lopez-World-Cup-Song-Fort-Lauderdale.ms.021114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Lopez ");
+	var imageCaption = encodeURIComponent("Jennifer Lopez ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Max Zorin/GC Images
+
+Jennifer Lopez and Pitbull filmed the music video for the World Cup song "We Are One (Ole Ola)" on Thursday in Florida.Both artists are extremely talented, but it was J.Lo's famous behind that took center stage! The singer–actress showed off her killer curves in a tight, teeny-tiny pair of colorful shorts and tan fishnet stockings. She paired this look with nude fishnet stocking and neon orange pumps, a slim-fitting white shirt emblazoned with bright colors, a bold red lip and beautiful cascading curls.
+
+The 44-year-old mom of two and Pitbull, who dressed more simply in a breezy white suit, were spotted singing, laughing and dancing as they recorded the music video for 2014's official FIFA anthem. The two were surrounded by scantily-clad dancers wearing feathers and sequins as they waved Brazil flags overhead.Jennifer, Pitbull and Brazilian singer Claudia Leitte will all be performing "We Are One" on June 12 at the opening ceremony at the Arena de Sao Paulo in Brazil. The last FIFA World cup song was 2010's "Waka Waka" by Shakira and South African Group Freshly Ground.Shakira's a tough act to follow, but J.Lo (especially with Pitbull by her side) seems up for the task!
+/n

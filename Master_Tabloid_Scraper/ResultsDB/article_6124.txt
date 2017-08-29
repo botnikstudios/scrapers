@@ -1,0 +1,46 @@
+EXCLUSIVE! Viola Davis Reacts to Her Oscar Win: "I Felt Like a Princess" "I really wanted to honor august Wilson because what he wrote about was so universal and so specific," Davis continued. "I wanted to honor him .../n
+Viola Davis shined as brightly as her golden Oscar statue after winning the award for Best Supporting Actress.E! News' Zuri Hall caught up with the Fences actress and her husband at the Governors Ball, the official 2017 Oscars after-party, and Davis was still over the moon about her big win. "It's wonderful, glorious," she told Zuri. "I felt like a princess. I never feel like a princess you know except for my husband [Julius Tennan] when I got married I felt like a princess. It was just you know a culmination of dreaming big and your dreams being bigger than your circumstances."Davis' speech brought tears to most who were watching, especially when she paid tribute to August Wilson and her "captain" Denzel Washington. Although she didn't necessarily plan exactly what she was going to say, Davis did have an idea of the message she wanted to convey. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832383/viola-davis-reacts-to-her-oscar-win-i-felt-like-a-princess');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017126/rs_776x1024-170226190148-634.Viola-Davis-Oscars-Winners.ms.022617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, 2017 Oscars, Academy Awards, Winners");
+	var imageCaption = encodeURIComponent("Viola Davis, 2017 Oscars, Academy Awards, Winners");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+"I really wanted to honor august Wilson because what he wrote about was so universal and so specific," Davis continued. "I wanted to honor him in whatever I said, and honor you know just the beauty of being an artist."Davis' emotional, heartfelt speech also honored all the artists in the room."Thank you to the academy," she began her victory speech. "You know, there's one place that all the people with the people with the greatest potential are gathered, one place and that's the graveyard. People ask me all the time, 'What kind of stories do you want to tell, Viola?' And I say, 'Exhume those bodies. Exhume those stories. The stories of the people who dreamed big and never saw those dreams to fruition. People who fell in love and lost.'" 
+
+She continued, "I became an artist and thank God I did because we are the only profession that celebrates what it means to live a life. So, here's to August Wilson, who exhumed and exalted the ordinary people."And if the tears weren't flowing yet, they certainly started to fall as soon as she mentioned her kids, husband and parents, the latter of whom taught her "good or bad, how to fail, how to love, how to hold, how to lose."She added, "My husband and my daughter—my heart, you and Genesis. You teach me every day how to live, how to love. I'm so glad that you are the foundation of my life. Thank you to the academy. Thank you."
+/n

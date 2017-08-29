@@ -1,0 +1,42 @@
+Schwimmer Engaged! From Friends to fiancé. Leaving bachelorhood behind him, David Schwimmer is set to marry his longtime girlfriend, Zoe Buckman, his rep, Ina Treciokas, confirms to E! News. The actor, 43, best known as Dr. Ross Geller, and .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/171668/david-schwimmer-engaged');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20100314/293.schwimmer.buckman.cm.314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("David Schwimmer, Zoe Buckman");
+	var imageCaption = encodeURIComponent("David Schwimmer, Zoe Buckman");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jemel Countess/Getty Images
+
+From Friends to fiancé.Leaving bachelorhood behind him, David Schwimmer is set to marry his longtime girlfriend, Zoe Buckman, his rep, Ina Treciokas, confirms to E! News.The actor, 43, best known as Dr. Ross Geller, and Buckman, a 24-year-old British photographer, reportedly met in 2007 when he was working in London on Run Fatboy Run, his feature film directorial debut.It will be the first marriage for both. Before he found love with Buckman and decided to settle down, Schwimmer previously dated "Torn" singer Natalie Imbruglia and actress Mili Avital among others.
+/n

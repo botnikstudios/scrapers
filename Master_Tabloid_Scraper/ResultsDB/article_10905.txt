@@ -1,0 +1,72 @@
+N.C. Mom Charged In Daughter's Murder Ordered Photos AFTER Little Girl's Death/n
+
+					var next_post_url = "http://radaronline.com/photos/jacqueline-laurita-plastic-surgery-confession-rhonj-tell-all/";
+					var prev_post_url = "http://radaronline.com/photos/kylie-jenner-tyga-pda-boobs-bra-photoshoot-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-03-30T12:14:16+00:00","caption":"An active soldier in Fort Bragg charged with murdering her 2-year-old daughter had ordered photos of herself grieving at the little girl's gravesite \u2014 with angelic-looking images of her daughter Photoshopped into the snaps.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/north-carolina-mom-charged-daughter-murder-ordered-photos-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-30T11:11:24+00:00","caption":"One month after the death of her daughter, Macy Grace, Jeanie Ditty commissioned the pictures.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/north-carolina-mom-charged-daughter-murder-ordered-photos-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-30T11:11:25+00:00","caption":"Just last week, the 23-year-old and her boyfriend, Zachary Keefer, were arrested and charged with first-degree murder, as well as negligent child abuse inflicting serious bodily injury.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/north-carolina-mom-charged-daughter-murder-ordered-photos-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-30T11:11:19+00:00","caption":"Police say Macy was taken to Cape Fear Valley Medical Center in North Carolina on Dec. 2, 2015 where medical staff found \"life threatening injuries consistent with child abuse\" all over her body, Fayetteville Police Department officer Antoine Kincade said. Macy was then transported to UNC Hospital in Chapel Hill, where she died two days later..","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/north-carolina-mom-charged-daughter-murder-ordered-photos-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-30T11:11:21+00:00","caption":"Meanwhile, Pennsylvania photographer Sunny Jo, who created the photos for Ditty, had no idea about the murder, PEOPLE magazine reports. \"She is 23 years old and that is young to lose a child,\" he said. \"And I just felt for her. This was terrible. This poor girl just lost her daughter. This must be the most heartbreaking thing in the world. So when she asked me to do the photos I said absolutely. I just knew that one way or another I wanted to get the pictures done for what I thought at the time was a grieving mother.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/north-carolina-mom-charged-daughter-murder-ordered-photos-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-30T11:11:22+00:00","caption":"Though Ditty reportedly offered to pay Jo $500 for the photos, he declined. \"She did offer to pay and out of the goodness of my heart I said, 'No, I can't let you pay for this,\" he shared. \"I thought to myself, 'Sunny you can't charge someone who just went through this.' She loved them.\" Sunny Jo's other photography can be found on http:\/\/sunnyjophotography.com\/.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/north-carolina-mom-charged-daughter-murder-ordered-photos-08.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+N.C. Mom Charged In Daughter’s Murder Ordered Photos AFTER Little Girl’s Death
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 6 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 6north-carolina-mom-charged-daughter-murder-ordered-photos-ppAn active soldier in Fort Bragg charged with murdering her 2-year-old daughter had ordered photos of herself grieving at the little girl's gravesite — with angelic-looking images of her daughter Photoshopped into the snaps.Photo credit: Sunny Jo Photography2 of 6north-carolina-mom-charged-daughter-murder-ordered-photos-03One month after the death of her daughter, Macy Grace, Jeanie Ditty commissioned the pictures.3 of 6north-carolina-mom-charged-daughter-murder-ordered-photos-04Just last week, the 23-year-old and her boyfriend, Zachary Keefer, were arrested and charged with first-degree murder, as well as negligent child abuse inflicting serious bodily injury.4 of 6north-carolina-mom-charged-daughter-murder-ordered-photos-06Police say Macy was taken to Cape Fear Valley Medical Center in North Carolina on Dec. 2, 2015 where medical staff found "life threatening injuries consistent with child abuse" all over her body, Fayetteville Police Department officer Antoine Kincade said. Macy was then transported to UNC Hospital in Chapel Hill, where she died two days later..Photo credit: Sunny Jo Photography 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 6north-carolina-mom-charged-daughter-murder-ordered-photos-07Meanwhile, Pennsylvania photographer Sunny Jo, who created the photos for Ditty, had no idea about the murder, PEOPLE magazine reports. "She is 23 years old and that is young to lose a child," he said. "And I just felt for her. This was terrible. This poor girl just lost her daughter. This must be the most heartbreaking thing in the world. So when she asked me to do the photos I said absolutely. I just knew that one way or another I wanted to get the pictures done for what I thought at the time was a grieving mother."Photo credit: Sunny Jo Photography6 of 6north-carolina-mom-charged-daughter-murder-ordered-photos-08Though Ditty reportedly offered to pay Jo $500 for the photos, he declined. "She did offer to pay and out of the goodness of my heart I said, 'No, I can't let you pay for this," he shared. "I thought to myself, 'Sunny you can't charge someone who just went through this.' She loved them." Sunny Jo's other photography can be found on http://sunnyjophotography.com/.Photo credit: Sunny Jo Photography 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+north-carolina-mom-charged-daughter-murder-ordered-photos-ppAn active soldier in Fort Bragg charged with murdering her 2-year-old daughter had ordered photos of herself grieving at the little girl's gravesite — with angelic-looking images of her daughter Photoshopped into the snaps.Photo credit: Sunny Jo Photographynorth-carolina-mom-charged-daughter-murder-ordered-photos-03One month after the death of her daughter, Macy Grace, Jeanie Ditty commissioned the pictures.north-carolina-mom-charged-daughter-murder-ordered-photos-04Just last week, the 23-year-old and her boyfriend, Zachary Keefer, were arrested and charged with first-degree murder, as well as negligent child abuse inflicting serious bodily injury.north-carolina-mom-charged-daughter-murder-ordered-photos-06Police say Macy was taken to Cape Fear Valley Medical Center in North Carolina on Dec. 2, 2015 where medical staff found "life threatening injuries consistent with child abuse" all over her body, Fayetteville Police Department officer Antoine Kincade said. Macy was then transported to UNC Hospital in Chapel Hill, where she died two days later..Photo credit: Sunny Jo Photographynorth-carolina-mom-charged-daughter-murder-ordered-photos-07Meanwhile, Pennsylvania photographer Sunny Jo, who created the photos for Ditty, had no idea about the murder, PEOPLE magazine reports. "She is 23 years old and that is young to lose a child," he said. "And I just felt for her. This was terrible. This poor girl just lost her daughter. This must be the most heartbreaking thing in the world. So when she asked me to do the photos I said absolutely. I just knew that one way or another I wanted to get the pictures done for what I thought at the time was a grieving mother."Photo credit: Sunny Jo Photographynorth-carolina-mom-charged-daughter-murder-ordered-photos-08Though Ditty reportedly offered to pay Jo $500 for the photos, he declined. "She did offer to pay and out of the goodness of my heart I said, 'No, I can't let you pay for this," he shared. "I thought to myself, 'Sunny you can't charge someone who just went through this.' She loved them." Sunny Jo's other photography can be found on http://sunnyjophotography.com/.Photo credit: Sunny Jo Photography 
+
+
+
+
+
+
+
+
+
+/n

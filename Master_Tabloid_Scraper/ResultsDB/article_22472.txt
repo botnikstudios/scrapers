@@ -1,0 +1,46 @@
+show, which airs Wednesdays at 10 p.m. The sitcom, currently in its third season, co-stars Molly Bernard, Sutton Foster, Peter Hermann, Debi Mazar, Miriam Shor and Nico Tortorella. "It feels a little more grounded than the other seasons.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/805085/hilary-duff-up-all-night-in-bed-with-boyfriend-jason-walsh');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016927/rs_421x749-161027064134-634.jason-walsh-hilary-duff.102716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hilary Duff, Jason Walsh");
+	var imageCaption = encodeURIComponent("Hilary Duff, Jason Walsh");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Snapchat
+
+It's puppy love, all right.Except in this case, Hilary Duff wasn't referring to her relationship with Rise Nation founder and trainer Jason Walsh. Instead, the Younger actress was referring to her boyfriend and his pitbull, who were sound asleep beside her. Duff was wide awake on the other side of the bed, so she shared a snapshot via Snapchat late Wednesday, writing, "Well this isn't fair."Perhaps Duff stayed up late watching her hit TV Land show, which airs Wednesdays at 10 p.m. The sitcom, currently in its third season, co-stars Molly Bernard, Sutton Foster, Peter Hermann, Debi Mazar, Miriam Shor and Nico Tortorella. "It feels a little more grounded than the other seasons, and a little more emotional," Duff told E! News in August, adding, "It's nice that the show is moving forward and not staying on the lie that [Liza is] 40 and people are finding out."
+
+So far, only two of the show's main characters know Liza (Foster) is lying about her age—and her work BFF Kelsey (Duff) isn't one of them. "If and when she finds out about her age, it'll probably be a really big moment for them," Duff said. "I'm not sure she'll handle that so well!"In real life, Duff isn't keen on keeping secrets. In fact, after months of speculation, she recently confirmed that she's dating Walsh by sharing a PDA-filled picture via Instagram. The couple's romance was borne out of friendship, and Duff wouldn't have it any other way. "We've known each other for a really long time. He's a great guy," the actress said on Fox 5's Good Day New York in September. "We have a lot of fun together. It's nice to have that excitement in my life."
+
+Walsh appears to be the first person Duff has dated seriously since her January 2014 split from husband Mike Comrie. Though she and the hockey player are no longer in love, she will always have love for her son's father."Mike and I were very in love when we met. We both really wanted to get married. I'd been working since the age of 11 or 12, so making that choice at a young age seemed right for me. Maybe it wasn't, but we spent the majority of our time together really happy. It wasn't working well enough to stay together, but there was still a lot of love involved," Duff told Cosmopolitan last year. "It was just a slow set-in of us not being the match that we used to be. I'm lucky for the person he is and I am and how we decided to handle this."
+/n

@@ -1,0 +1,44 @@
+Chris Hardwick Proposes to Lydia Hearst After Winning a Creative Arts Emmy—See the Giant Engagement Ring! Try and beat this Saturday night! Chris Hardwick was already having quite the impressive evening when he picked up an Emmy for Best Cre.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/695349/chris-hardwick-proposes-to-lydia-hearst-after-winning-a-creative-arts-emmy-see-the-giant-engagement-ring');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015313/rs_634x870-150413193220-634.Chris-Hardwick-Lydia-Hearst-Avengers.ms.041315.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Chris Hardwick, Lydia Hearst ");
+	var imageCaption = encodeURIComponent("Chris Hardwick, Lydia Hearst ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jordan Strauss/Invision/AP
+
+Try and beat this Saturday night!Chris Hardwick was already having quite the impressive evening when he picked up an Emmy for Best Creative Achievement in Interactive Media for his show @Midnight With Chris Hardwick.But hours after the ceremony ended, the comedian and host revealed some exciting personal news. He was engaged to girlfriend Lydia Hearst!"My biggest win of the night was actually @lydiahearst saying YES!!!!" he wrote on Instagram with a close up of the new bling. "This ring belonged to her grandmother Catherine Hearst and @patriciahearst has graciously and wonderfully passed it down to me to give to Lydia. IT'S OFFICIAL!!!"
+
+He continued, "Then there was kissing and cry breath. It was a scene so romantic. I'm surprised a Rachel McAdams movie didn't break out around it. I'm guessing it will ultimately be the only Hearst wedding whose registry includes @thinkgeek."For anyone who had a doubt that his fiancée was totally impressed, the supermodel took to social media where she shared how happy she was with the whole experience."I am so excited and deliriously happy," she tweeted. "@Nerdist completely surprised me and swept me off my feet."Congratulations to the couple on their happy news!
+/n

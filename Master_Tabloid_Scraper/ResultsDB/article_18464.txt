@@ -1,0 +1,46 @@
+say anything, it's that she's determined to make a sequel to her cult hit Hocus Pocus. The singer-actress' dressed as her iconic onscreen character, Winifred Sanderson, for an event this year, giving fans hope that the Sanders.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/805985/when-fan-service-works-bette-midler-is-determined-to-make-hocus-pocus-2-a-reality');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016928/rs_634x1024-161028190339-634.Bette-Midler-Hulaween-Party-New-York.kg.102816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Bette Midler, Hulaween");
+	var imageCaption = encodeURIComponent("Bette Midler, Hulaween");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Erik Pendzich/REX/Shutterstock
+
+Hopefully this doesn't take 300 years!If Bette Midler's Halloween activities this year say anything, it's that she's determined to make a sequel to her cult hit Hocus Pocus. The singer-actress' dressed as her iconic onscreen character, Winifred Sanderson, for an event this year, giving fans hope that the Sanderson sisters, played by Midler, Sarah Jessica Parker and Kathy Najimy, could make it onto the big screen again.The Beaches star also breathed more life into the Hocus Pocus 2 dream when she told Billboard that she would love to do another installment. "You don't get to see women doing slapstick too much, and in the movie you can see that we're having a blast," she told the magazine. "For the life of me, I can't understand why there's not a sequel."
+
+Midler added of the behind-the-scenes fun, "All the shackles were off, as Donald Trump likes to say, and we were allowed to be as wild as we wanted to be. It was a perfect storm of fun."Director Kenny Ortega also sounded off on a potential sequel on Instagram. In honor of the spooky movie's resurgence, Ortega shared pictures from the movie and asked fans if they were interested in seeing more from the Sanderson sisters."Thank you to all our #hocuspocus Fans for 23 years of love and support! It's that time of the year again when #Winnie, #Mary and #Sara #thesandersonsisters #putaspellonyou Anyone want a Sequel?" he asked his followers. "Hocus Pocus is currently playing on the Big Screen at the exquisite #elcapitantheatre in #Hollywood #california Happy Halloween!" 
+
+Oretga also shared a picture of a story that explained how all three actresses have said they'd do another movie. "They're baaa ack...," he captioned the picture.In 2014, Midler participated in a Reddit AMA about the possibility of a sequel and both Najimy and Parker supported her cause. "Hocus people, Bette says it best. Listen to your elders.!," wrote Najimy, linking to an article reporting Midler's call for a sequel.Buzzfeed asked SJP if she would be down to participate and she responded on Twitter with a simple, "Yep I'm in."Your move, Disney.
+/n

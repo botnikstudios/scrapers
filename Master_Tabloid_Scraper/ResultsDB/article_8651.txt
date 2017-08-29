@@ -1,0 +1,46 @@
+Richard Simmons Gives Shout Out to Hospital Staff After Health Scare "Another shout out goes to the wonderful men and women of the Los Angeles Police Dept.," the post continued. "They were so helpful and kind as I returned hom.../n
+And now for another rare message from Richard Simmons. The 68-year-old fitness icon has made headlines and sparked concern over his health over his apparent voluntary absence from public life since 2014, as highlighted in the No. 1 podcast Missing Richard Simmons. Last week, he was hospitalized for indigestion. A message from him, as well as an old pic of him, was later posted on Facebook. He has since been released home.On Sunday, another post from him was published on his Facebook page."Hope you're having a beautiful Sunday," the message said. "I wanted to take a moment to send a big thank you to the wonderful doctors, nurses and staff at Cedars-Sinai Medical Center during my short stay there this week. They make you feel good even though you're in the hospital for feeling bad."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/845450/richard-simmons-gives-shout-out-to-hospital-staff-after-health-scare');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017320/rs_634x1024-170420090543-634-richard-simmons-gay-pride.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Richard Simmons, 6/13");
+	var imageCaption = encodeURIComponent("Richard Simmons, 6/13");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chelsea Guglielmino/FilmMagic
+
+"Another shout out goes to the wonderful men and women of the Los Angeles Police Dept.," the post continued. "They were so helpful and kind as I returned home. Let's take a minute and all be thankful for medical professionals, police, firefighters and our brave military forces here and around the world. They risk so much every day to make us well and keep us protected. God Bless all of them."
+
+When he was released from the hospital, Simmons walked out while wearing a blanket over his head and body and was escorted by his associates and police. It marked his first public appearance in three years."I'm not 'missing,'" his post last week read. "Just a little under the weather. I'm sure I will be feeling good and back home in a couple of days."
+/n

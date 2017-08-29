@@ -1,0 +1,44 @@
+McIlroy at the Masters Talk about brightening things up at the Masters! Caroline Wozniacki did just that when, at the golf tournament's Par 3 Contest in Augusta, Ga., she was seen sporting bright pink hair while serving as a caddy for f.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/530422/caroline-wozniacki-sports-bright-pink-hair-while-caddying-for-fiance-rory-mcilroy-at-the-masters');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014310/rs_634x1024-140410062857-634.Caroline-Wozniacki-JR-41014_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caroline Wozniacki");
+	var imageCaption = encodeURIComponent("Caroline Wozniacki");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo/Matt Slocum
+
+Talk about brightening things up at the Masters!Caroline Wozniacki did just that when, at the golf tournament's Par 3 Contest in Augusta, Ga., she was seen sporting bright pink hair while serving as a caddy for fiancé Rory McIlroy on Wednesday.But the Danish tennis player didn't keep the color limited to her normally-blond locks, as she complemented her new look with matching pink shoes and nails.However, it appears as if the decidedly different 'do will be short-lived, if this recent tweet sent out by Wozniacki is any indication.
+
+"Does anyone know if Semi permanent hair dye from the brand Manic Panic washes off completely after a little while? #randomquestion #iknow," she wrote.Wozniacki and McIlroy began dating in the summer of 2011, shortly after the Northern Irish golfer won his first major title with a record-setting performance in the U.S. Open at Congressional. The two confirmed they were an item a few months later and were falsely rumored to have broken up in 2013.This past New Year's Eve in Sydney, Australia, the couple got engaged.Guess time will tell what Wozniacki's hair color will be when they eventually tie the knot!
+/n

@@ -1,0 +1,44 @@
+Hilary Duff Gets Tough With Bonnie and Clyde Lizzie McGuire is going gangster. Former Friend of Mickey Hilary Duff is set to play one half of notorious bank-robbing duo Bonnie and Clyde in a new indie film. Unlike the classic 1967 flick star.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/80952/hilary-duff-gets-tough-with-bonnie-and-clyde');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20081208/293.duff.hilary.120808.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hilary Duff");
+	var imageCaption = encodeURIComponent("Hilary Duff");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gregg DeGuire/Getty Images
+
+Lizzie McGuire is going gangster.Former Friend of Mickey Hilary Duff is set to play one half of notorious bank-robbing duo Bonnie and Clyde in a new indie film.Unlike the classic 1967 flick starring Warren Beatty and Faye Dunaway, the new take, titled The Story of Bonnie and Clyde, will focus less on the former's largely fictionalized shoot-'em-ups and more on the actual lives of the Depression-era bandits. Kevin Zegers (The Jane Austen Book Club, Transamerica) will play Duff's partner in crime.Duff will shoot the flick in her downtime from her new NBC series, Barely Legal.Meanwhile, in other action on the casting couch…
+
+• Minnie Driver is partnering with Hilary Swank for Betty Anne Waters, based on a true story about an unemployed single mother (Swank) who, convinced her brother's been wrongly convicted, earns a law degree to try to free him. Driver plays Swank's law school friend who helps her on the case.• Per Variety,  Brendan Fraser is about to lend his mug to yet another live-action family comedy. Fury Vengeance finds the George of the Jungle thesp playing a real-estate developer whose new housing subdivision encroaches on some angry critters in the pristine Oregon wilderness. Shooting starts this summer. • Jennifer Beals is set to costar with Denzel Washington, Gary Oldman and Mila Kunis in The Book of Eli. Helmed by Albert and Allen Hughes, the thriller follows a Mad Max-type loner who battles his way across a futuristic American wasteland to protect a book that may hold the secret to saving humankind. Beals will play Kunis' mother, a blind woman willing to go to extremes to protect her daughter.• Flavor Flav sealing a deal to turn his BET Halloween-themed flick, Nite Tales, into an anthology series. The rapper-turned-reality star will serve as the host of each 30-minute episode, described as Tales From the Crypt meets The Twilight Zone.•Dallas Cowboys' star wide receiver, Terrell Owens, getting his own reality series on VH1 that is set to debut this summer. The news comes a week after his former teammate, Michael Irvin, announced the launch of his own football-themed reality competition for Spike TV that's sort of an NFL version of Survivor premiering this spring.
+/n

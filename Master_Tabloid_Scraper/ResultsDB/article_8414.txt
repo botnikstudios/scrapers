@@ -1,0 +1,46 @@
+Taylor Swift's Boyfriend Joe Alwyn Will Play Queen Elizabeth's Lover in Mary Queen of Scots Just as his relationship is heating up with Tay, the 26-year-old's star status is lighting up as well. He just appeared with Charlotte.../n
+In addition to nabbing Taylor Swift 's heart, British actor Joe Alwyn has captured the role of Queen Elizabeth's lover in the upcoming film Mary Queen of Scots, reports The Hollywood Reporter. The Billy Lynn's Long Halftime Walk actor will star opposite Margot Robbie and Saoirse Ronanin the period drama.The Working Title and Focus Features project, which is based on John Guy's 2004 biography The True Life of Mary Stuart, tells the story of the famous rivalry between between Queen Elizabeth of England (Robbie) and Mary, Queen of Scots (Ronan). The film revolves around Mary's attempt to overthrow her cousin to gain the seat on the English throne.  In the historical drama, Alwyn is slated to play Dudley, Queen Elizabeth's counselor and lover.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860866/taylor-swift-s-boyfriend-joe-alwyn-will-play-queen-elizabeth-s-lover-in-mary-queen-of-scots');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017417/rs_634x1024-170517135843-634.joe-alwyn.cm.51717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joe Alwyn");
+	var imageCaption = encodeURIComponent("Joe Alwyn");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jamie McCarthy/Getty Images
+
+Just as his relationship is heating up with Tay, the 26-year-old's star status is lighting up as well. He just appeared with Charlotte Rampling in The Sense of Ending and he's also slated to star in The Favourite. Interestingly enough, the film, directed by Yorgos Lanthimos, is another royal period piece, which focuses on the political machinations during the reign of Queen Anne, the last monarch of the House of Stuarts.In Mary Queen of Scots, the plot centers on Mary, who has a short-lived marriage to King Henry II of France's eldest son Francis, who eventually dies after being crowned king. In order to win the favor of her cousin, Mary returns to Scotland and there she plans a failed assassination attempt on Elizabeth. 
+
+For those who need a brush-up history lesson: After her assassination plot was found out, Mary was banished to various castles for eighteen and a half years. She was found guilty of plotting to assassinate Elizabeth in 1586 and beheaded the following year.Outcome does not look good for Ms. Ronan's character!
+/n

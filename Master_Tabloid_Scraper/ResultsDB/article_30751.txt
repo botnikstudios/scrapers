@@ -1,0 +1,46 @@
+Are Nina Dobrev and Glen Powell Dating? Proof That This Hollywood Pair Could Be More Than Friends Nina Dobrev and Glen Powell's famous friendship may have turned into something more. If you've been following the Hollywood stars.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/824530/are-nina-dobrev-and-glen-powell-dating-proof-that-this-hollywood-pair-could-be-more-than-friends');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017025/rs_634x1024-170125183642-634.Nina-Dobrev-Glen-Powell-Beverly-Hills.kg.012517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nina Dobrev, Glen Powell");
+	var imageCaption = encodeURIComponent("Nina Dobrev, Glen Powell");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images for InStyle
+
+Nina Dobrev and Glen Powell's famous friendship may have turned into something more.If you've been following the Hollywood stars' social media pages, chances are you have seen the pair together on more than a couple occasions.Whether ringing in the New Year with friends in Texas or watching UFC fight night at a onesie party, the pair appears more than happy to enjoy quality time together.As a result, some followers have been left with a big question: Could this pair be starting 2017 on a romantic note? While a rep for the stars say "they are good friends," multiple sources tell E! News that they are in fact dating."They have a similar group of friends and have been seeing each other on the low for a little while," one source shared with E! News. "Glen really likes Nina. She is completely his type of gal. They know and have met each other's families. Glen is a very family oriented guy and Nina loves that about him."
+
+The proof may just be all over social media.According to fan sites, Glen was in attendance at Nina's Los Angeles premiere of xXX: Return of Xander Cage just a couple weeks after they attended a 2017 Golden Globes after party together.During Nina's La La Land birthday party, Glen helped recreate the signature couples pose from the Oscar nominated film with the birthday girl.The pair also "got rowdy" in Texas while celebrating a brand-new year with close friends including Olympian Jimmy Feigen and country singer Leslie Powell.
+
+Close friend Jessica Szohr also shared a photo nine weeks ago where Nina and Glen were once again hanging out.While the pair is keeping quiet on their relationship status for now, some fans believe something special is brewing. And at the very least, these two are enjoying each other's company. "All of their friends like them together," an insider shared. "They both feel pretty comfortable around each other."—Additional reporting by Taylor Banks
+/n

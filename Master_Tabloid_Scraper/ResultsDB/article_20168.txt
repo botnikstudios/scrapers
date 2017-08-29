@@ -1,0 +1,46 @@
+The show first season (and Bledel) received rave reviews. The Handmaid's Tale also stars Elisabeth Moss, Samira Wiley, Yvonne Strahovski, Ann Dowd, Madeline Brewer, Max Minghella, Joseph Fienees and O.T. Fagbenle. The Handmaid's Ta.../n
+Praise be! Alexis Bledel is returning to The Handmaid's Tale for season two. The Gilmore Girls veteran appeared as a guest star in a handful of episodes of season one, but will serve as a series regular in the upcoming second season of the acclaimed Hulu drama…but how?Bledel's character, Emily/Ofglen, was last scene being taken away by the authoritarian police force after she stole a car and ran over a guard. This was after her character, who is involved with the Mayday Rebellion, was caught having a lesbian relationship and had her clitoris surgically removed by the regime. Dark stuff. No word on how her character will be reintroduced.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/862681/alexis-bledel-returning-for-the-handmaid-s-tale-season-2-as-a-series-regular-but-how');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017326/rs_634x1024-170426094009-634.the-handmaids-tale-15.ch.042617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Handmaid's Tale");
+	var imageCaption = encodeURIComponent("The Handmaid's Tale");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Hulu
+
+Bledel, who is best known as Rory Gilmore, was one of the highlights of the first season, doing what is arguably the best work of her career. The show first season (and Bledel) received rave reviews. The Handmaid's Tale also stars Elisabeth Moss, Samira Wiley, Yvonne Strahovski, Ann Dowd, Madeline Brewer, Max Minghella, Joseph Fienees and O.T. Fagbenle.The Handmaid's Tale, which is based on the book of the same name by Margaret Atwood, takes place in Gilead, a totalitarian society that was once the United States. Plagued by environmental disasters and a plunging birthrate, Gilead treats women—especially fertile ones—as property. Bledel and Moss play Handmaids, fertile women assigned to homes of Commanders to have their children.
+
+"I think it's a timely project, no matter who you are. I think everyone's going to be able to take something away from it that is really resonate and probably a bit emotional," Bledel previously told E! News about the series.  It brings everything into focus, right? It's a time in your life when you only want to leave home to work if you absolutely love the project and feel it's important."The second season, which will be 13 episodes, is set to begin production in the fall with a 2018 premiere. The premiere became Hulu's most-viewed premiere of any series—original and acquired.
+/n

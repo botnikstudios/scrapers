@@ -1,0 +1,48 @@
+initially agreeing to the shoot. Freeheld is based on a true story that made headlines nationwide. Moore, 53, plays New Jersey police officer Laurel Hester, who was diagnosed with cancer and appeals to the Ocean County legislature, including.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/590756/julianne-moore-ellen-page-lesbian-drama-freeheld-barred-from-filming-at-catholic-school-producers-say');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014922/rs_634x1024-141022095645-634.Ellen-Page-Julianne-Moore-JR-102214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Julianne Moore, Ellen Page");
+	var imageCaption = encodeURIComponent("Julianne Moore, Ellen Page");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Splash News
+
+Producers of the new drama film Freeheld, in which Julianne Moore and Ellen Page play a same-sex couple, say administrators of an all-boys Roman Catholic high school in New York won't allow a scene from the movie to be filmed on its campus after initially agreeing to the shoot.Freeheld is based on a true story that made headlines nationwide. Moore, 53, plays New Jersey police officer Laurel Hester, who was diagnosed with cancer and appeals to the Ocean County legislature, including from her deathbed, to try to ensure that her pension benefits are able to be passed on to her domestic partner, Stacie Andree, played by Page, 27. The real Hester died in 2006. A documentary about her was released a year later and won an Oscar for Best Short Documentary.According to The Hollywood Reporter, a location manager for the new movie wanted to have Salesian High School in New Rochelle, New York stand in as the county's town hall, where they would film a key scene that sees Hester applying for a domestic partnership with Andree, and had descripted the drama's plot to school staffers, who allowed still photos of the building to be taken.
+
+The outlet reported that the movie shoot was approved initially but that the school's principal, John Flaherty, later told producer Michael Shamberg that it was no longer permitted."They turned us down because of the subject matter," The Hollywood Reporter quoted him as saying."All are welcomed at Salesian High School. Our School chooses to embrace the social issues such as hunger, homelessness, poverty and helping the less fortunate," Flaherty told BuzzFeed News, when asked about the school's reasoning for not wanting a movie with LGBT content to film there.The Hollywood Reporter said Shamberg emailed the principal, saying that the movie was "not about gay marriage, nor are the women attempting to get married. It is about recognizing the dignity of a woman who was a brave civil servant."
+
+The Pope had told reporters in 2013, "If someone is gay and he searches for the Lord and has good will, who am I to judge?" according to The New York Times. Earlier this month, Roman Catholic bishops issued a draft of a document that talked about "accepting and valuing their [homosexuals'] sexual orientations" and giving gay Catholics "a welcoming home," marking the most positive remarks about gay people by the Catholic Church in its history.Following objections by conservative bishops, the language was changed in the final version to say, "No grounds whatsoever exist for assimilating or drawing analogies, however remote, between homosexual unions and God's design for matrimony and the family" and that "Nevertheless, men and women with homosexual tendencies should be accepted with respect and sensitivity."The Hollywood Reporter said Shamberg also wrote in his email to the principal, "I believe the theme of the movie is what Pope Francis recognized just yesterday when he called for the Church to welcome and accept gay people" and that the producer was told that the email would be passed to the school's president.After that it was crickets," another Freeheld producer, Kelly Bush, told the outlet.School officials have not commented about the reported email exchange. The scene ended up being filmed at the town hall of the nearby village of Rye Brook, with permission from Mayor Paul Rosenberg. He posted a photo of himself with Moore, who sports feathered blonde hair, on Oct. 17.
+
+Salesian High School is described on its website as "a home that welcomes, a school that prepares for life, a parish that evangelizes by shaping character through Christian values, and a playground where lasting friendships are formed." The school was the location of Fall Out Boy's 2005 music video, "Dance, Dance," which depicts a high school's homecoming dance and shows two (heterosexual) couples kissing.Page and Moore have not commented about the reported shoot cancellation. The former actress, also known for roles in movies such as Juno and X-Men, made headlines in February when she announced during a speech at the Human Right Campaign's Time to THRIVE conference to promote the welfare of LGBT youth, that she is gay. Moore is married to Bart Freundlich, who directed her in the 1997 movie The Myth of Fingerprints, and the two are parents to a son and a daughter.Moore had praised Page about her coming out speech, telling E! News, "I was very happy for her."
+/n

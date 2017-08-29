@@ -1,0 +1,48 @@
+Kate Hudson Gets Mom Goldie Hawn to Spill the Details on Why She Took a 15-Year Break From Hollywood Hawn continued, "That’s what helps me move through other people’s perceptions of how I should or should not be liberated. I would never.../n
+If you could ask your mother anything, what would you ask her?That’s just what Kate Hudson had the opportunity to do when she and her famous mama Goldie Hawn had a sit down for Interview magazine’s May issue.In the candid interview, the mother-daughter duo talked about everything from The First Wives Club star’s wild past as a go-go dancer to the comedy icon's advice for younger actors and why she took a 15-year break from Tinsel Town.On the subject of what personal freedom means to her, Hawn told her daughter, "My sense of liberation and the freedom to speak the way I want to and to feel solid in my shoes was getting stronger and stronger." 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/846387/kate-hudson-gets-mom-goldie-hawn-to-spill-the-details-on-why-she-took-a-15-year-break-from-hollywood');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017326/rs_634x1024-170426154130-634.Goldie-Hawn-Interview-Magazine.kg.042617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Goldie Hawn, Interview Magazine");
+	var imageCaption = encodeURIComponent("Goldie Hawn, Interview Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stas Komarovski
+
+Hawn continued, "That’s what helps me move through other people’s perceptions of how I should or should not be liberated. I would never listen to those rules. Don’t tell me I can’t do that. Watch me. Don’t tell me I can’t direct this movie. Watch me."Hudson also brought up the topic that many film fans have been wondering for years, which is why Hawn hasn’t done any movies since The Banger Sisters in 2002?Hudson asked, "It’s been 15 years since you’ve chosen to make a movie. Why so long?" Hawn explained, "Because I believe that life is about doing. It’s about changing. It’s about transitioning. I can’t imagine, as a human being, not being able to grow."
+
+The 71-year-old explained hitting a milestone birthday made her look at her life differently. "When I turned 50, I asked some of my girlfriends, all actresses of the same age, 'What are we going to do now?' I wanted to go live somewhere for a while, learn archaeology, or take part in healing the world on some level. I wanted to dig deep and say, 'Who am I now? What do I have to offer? What do I have to learn?'"
+
+The blonde also said that after 9/11 she realized what she wanted to do something more meaningful."I ended up writing two books and creating MindUP. It's now in Jordan, Serbia, the U.K., America, Canada, Hong Kong. I never looked back. I never wished to be acting again. I was so engaged," said Hawn.But that desire to stay away from the screen has clearly faded. After a decade and a half away, the funny lady is back in full effect, starring alongside Amy Schumer in Snatched, due out in theaters on May 11.
+/n

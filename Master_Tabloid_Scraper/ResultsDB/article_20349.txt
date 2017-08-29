@@ -1,0 +1,44 @@
+Rupert Everett Rants About Effable "Freak" Michael Jackson Whoa there, Rupert Everett. We're not saying Michael Jackson's legacy needs to be handled with, um, kid gloves—or other, slightly more bedazzled white hand gear—b.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/135560/rupert-everett-rants-about-effable-freak-michael-jackson');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090723/293.everett.jackson.072309.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rupert Everett, Michael Jackson");
+	var imageCaption = encodeURIComponent("Rupert Everett, Michael Jackson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ash Knotek/ZumaPress.com, Getty Images
+
+Whoa there, Rupert Everett.We're not saying Michael Jackson's legacy needs to be handled with, um, kid gloves—or other, slightly more bedazzled white hand gear—but surely the man who gave us this deserves better…especially from the man who gave us this."He was a freak," Everett told Britain's Daily Mirror, adding, "I think it was fortuitous that he died."He looked like a character from Shrek. He was a black to white minstrel."Offensive though that may sound is, it's apparently not that unattractive a notion to the actor."I would have leapt at the chance of sleeping with Michael Jackson when I was 14." Moving on…While Jackson's official cause of death is still pending, Dr. Everett was kind enough to offer up his own diagnosis of what killed the star. Seriously, the man does nothing but give.
+
+"He was crucified by that court case when he was accused of child molestation—that killed him."Someone oughta tell the coroner.(Requisite grain silo of salt: This is coming from the same man who called soldiers wimps, likened Hollywood to al-Qaeda and shared way, way TMI about a certain magazine editor.)As for why, exactly, Everett thought the "living performance art" that was Jackson was better off dead, he pointed to his ill-fated series of comeback concerts."He was supposed to be doing 50 concerts in London. It wouldn't have mattered how good or bad he was. He wouldn't have managed to do all of them and the press would have destroyed him."He personified the pain and anxiety of a black man in a slave country," he went on. (Sounds like somebody's been taking notes from Papa Joe.)"We all watched as he changed from black to white."What's more, Everett graciously shared his theory that Jackson's death would likely signal the beginning of the end for the rest of the celebrity set. Hey, silver lining!"It's like the last days of Versailles. I do wonder how much more bulls--t people can take about celebrities."Indeed.Oddly enough, the one topic on which Everett chose not to criticize Jackson was that of his penchant for plastic surgery. Guess hypocrisy has its limits.
+/n

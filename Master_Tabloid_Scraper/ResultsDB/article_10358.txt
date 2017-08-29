@@ -1,0 +1,48 @@
+Ricky Martin on Las Vegas Residency: "I'm Bringing My Culture With Me" Ricky Martin is coming to Vegas! The "Vente Pa' Ca" singer sat down with Telemundo's MVTO and shared all the deets of his Las Vegas res.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831706/ricky-martin-on-las-vegas-residency-i-m-bringing-my-culture-with-me');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161016/rs_634x1024-161116170114-634a.Ricky-Martin-Las-Vegas.ms.111616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ricky Martin");
+	var imageCaption = encodeURIComponent("Ricky Martin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+KCR/REX/Shutterstock
+
+Ricky Martin is coming to Vegas!The "Vente Pa' Ca" singer sat down with Telemundo's MVTO and shared all the deets of his Las Vegas residency at Monte Carlo. "The Latin sounds, the Afro-Caribbean sounds are something that I've been working with forever. It's going to be a very beautiful show. I have 20 dancers. I'm working with amazing producers," the 45-year-old singer explained. "For me, the most important thing in my life, obviously, is those hours that I spend in the studio creating music and then the stage."
+
+The father of twins says that he will be just like any other parent. "I'm just going to work. I'll show up. I'll do my show, which is an hour and 30 minutes and then the rest is all about my kids," the Puerto Rican hunk gushed. "My kids are the most important thing. I'm just like any other father that's going to work, and it's just that my career is in the spotlight. But my kids are used to this; they were born on the road. They come with me anywhere I go and they sit and watch my show pretty much every night." 
+
+Martin confessed that his sons Matteo and Valentino are quick to give him pointers. "After every show, they tell me what I did wrong. They're only eight years old." 
+
+As we've seen in past residencies, special guests make headlines, and Martin says that the door is open to all of his friends like Jennifer Lopez, Marc Anthony, J Balvin, Maluma, Romeo Santos and Shakira. "When it comes to sharing the stage with your colleagues, it's always fun," Martin explained. "I cannot make a plan because they have their own schedules that they have to fulfill, but if they're in the city and want to swing by the show and they feel like they want to jump on stage with me, why not?" 
+/n

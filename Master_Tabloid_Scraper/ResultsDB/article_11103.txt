@@ -1,0 +1,46 @@
+Lupita Nyong’o Dishes About That Time Ralph Fiennes Told Her He Just Needed His Space Lupita dishes on how she observed Fiennes' preparation for the role and noticed he is a "very still man on set." "I'd try to make .../n
+"I was on a mission to talk to Ralph, but he was talking to some man," she tells the magazine. "I went up to them, and suddenly the assistant director was white in the face with rage. He said, ‘You never interrupt the director!' I didn't even know who the director was!"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/719997/lupita-nyong-o-dishes-about-that-time-ralph-fiennes-told-her-he-just-needed-his-space');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015915/rs_634x1024-151015083838-634.Lupita-Nyongo-Red.jl.101515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lupita Nyong'o");
+	var imageCaption = encodeURIComponent("Lupita Nyong'o");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Greg Allen/Invision/AP
+
+Lupita dishes on how she observed Fiennes' preparation for the role and noticed he is a "very still man on set.""I'd try to make chitchat, asking, 'What's your favorite film? Of all the films you've been in, which have you enjoyed the most?' He was so polite, and he responded to me. At one point, though, he just said, 'Lupita, give me my space.'"
+
+The eager kid who started off making coffee runs and escorting actors to set would go on to graduate from Yale School of Drama and win the Best Supporting Actress Oscar for her role in 12 Years a Slave—her feature film debut!So now Ralph Fiennes may be the one who has to take a number if he wants to chat with her.
+/n

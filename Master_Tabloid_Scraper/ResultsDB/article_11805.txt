@@ -1,0 +1,60 @@
+terrified, "and I let myself find her in the moment." Annabelle: Creation, the fourth film in The Conjuring series, co-stars Anthony LaPaglia and Miranda Otto as a couple who, still grieving the death of their young daughter, welco.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872885/annabelle-creation-star-talitha-bateman-takes-the-e-q-find-out-what-possesses-the-15-year-old-actress-in-real-life');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017710/rs_634x1024-170810112853-634-e-q-Talitha-Bateman-4.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("E! Q, Talitha Bateman");
+	var imageCaption = encodeURIComponent("E! Q, Talitha Bateman");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Maarten de Boer
+
+Who hasn't been totally terrified by an ad for Annabelle: Creation at some point over the past few weeks?Indeed, demonic dolls do tend to have that effect on people.But we'll rest a little bit easier knowing for sure that the film's young star Talitha Bateman is safe and sound and decidedly untraumatized from her experience starring in the horror prequel, which tells how the creepy titular toy of Annabelle fame came into existence. Which isn't to say that Talitha herself isn't extremely self-possessed."I like good horror films, but I prefer psychological thrillers," the 15-year-old actress tells E! News, assuring us that shooting the film wasn't scary but her character Janice was terrified, "and I let myself find her in the moment."
+
+Annabelle: Creation, the fourth film in The Conjuring series, co-stars Anthony LaPaglia and Miranda Otto as a couple who, still grieving the death of their young daughter, welcome a nun and several students who've been expelled from their convent into their home. See, murderous dolls don't like nuns and young girls, especially when they're used to being the only child in the house. Lulu Wilson and Stephanie Sigman also star, and analysts are already predicting an easy win for the movie at the weekend box office.
+
+
+
+Jeffrey Mayer/WireImage
+
+With credits including the TV drama Hart of Dixie and the family film Nine Lives with Kevin Spacey under her belt, Bateman is poised to break out in a big way—and the process has begun. Just this past week the actress took over Vanity Fair's Instagram story earlier this week, she stunned on the red carpet at the Annabelle: Creation premiere in Hollywood and—rite-of-passage alert!—she and co-star Lulu Wilson hung out with Stranger Things' Gaten Matarazzo at the Variety Power of Young Hollywood party. (It's pretty much six-degrees-of-the-Stranger-Things-cast at this point in Hollywood.)And while being the second-youngest of nine kids might have made it a chore to stand out, Bateman tells us that have been way more perks than peeves growing up with such a big family—which includes several other actors among her siblings.
+
+"We are each other's best friends and growing up with a lot of creative siblings all close in age took us in great adventures, both in reality and in our imaginations," she says. "I guess the biggest peeve is watching my brothers and sisters grow up and move out. I miss them!"Sometimes she and her siblings talk acting, but really they talk about everything, Bateman adds. "We encourage each other but we also critique each other's work and try to give good advice," she explains. Asked if the fam has been the source of any particularly golden nuggets of wisdom, she tells us, "I guess it would be don't give up. Both my parents try to encourage us not to give up on ourselves. They believe in us."With that sort of support system, no wonder Talitha is proving to be quite the individual so far. Without further adieu, here's more to know about the star of the movie that's expected to scare the competition silly:
+
+Hometown: Turlock, Calif.Age: 15 What time did you wake up this morning? 9:00 a.m.Night owl or early bird? Night owl definitely.Who's the first person you talked to today? My older sister Leah.
+
+Favorite school subject? Language Arts.Book or tablet? Book.Flats or heels? Flats, I hate heels.Favorite candy? I don't eat sugar.
+
+Big groups or one-on-one? I'm an introvert, so I can only handle one-on-one interactions.If you could go somewhere you've never been before tomorrow, where would you go: I've always wanted to go to Ireland, It looks beautiful there.  Last movie that really made you laugh? Guardians of the Galaxy 2.First acting job? The MiddleCelebrity crush? Young Leonardo DiCaprio. 
+
+With Annabelle: Creation in theaters today and her next film, the sci-fi thriller Geostorm, due out in October, we'd say Talitha Bateman has worked hard for that vacation.We hear Ireland is lovely this time of year.
+/n

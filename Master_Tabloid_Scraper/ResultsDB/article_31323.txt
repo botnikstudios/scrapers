@@ -1,0 +1,48 @@
+EXCLUSIVE! Michelle Dockery "Hopeful" for a Downton Abbey Reunion, Can't Wait to See Dan Stevens in Beauty and the Beast Michelle Dockery may have moved on from playing Lady Mary (have you seen her in Good Behavior?!), but tha.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/834484/michelle-dockery-hopeful-for-a-downton-abbey-reunion-can-t-wait-to-see-dan-stevens-in-beauty-and-the-beast');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017029/rs_634x1024-170129152817-634-michelle-dockery.cm.12917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Michelle Dockery, 2017 SAG Awards, Arrivals");
+	var imageCaption = encodeURIComponent("Michelle Dockery, 2017 SAG Awards, Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+Michelle Dockery may have moved on from playing Lady Mary (have you seen her in Good Behavior?!), but that doesn't mean she's not looking forward to a Downton Abbey reunion one day."I don't know when, but I'm hopeful," she says while promoting her new movie, The Sense of an Ending.Dockery said she doesn't necessarily miss playing her breakout role, but "I miss the show and my friends on the show."And it sounds like she may one of the first in line to see her former Downton husband Dan Stevens in Beauty and the Beast. "I'm so excited," Dockery said. "Beauty and the Beast is one of my favorite Disney films, if not the favorite Disney film of mine growing up. I cannot wait to see it. And I'm seeing posters everywhere. I was in L.A. and there's a huge one on Sunset Boulevard."
+
+
+
+Robert Viglasky/CBS Films/Lionsgate
+
+In The Sense of an Ending, Dockery plays the pregnant daughter of a retiree (Jim Broadbent) who finds himself facing his mysterious past when he reconnects with a woman (Charlotte Rampling) he dated in college.Dockery did play pregnant in Downton Abbey but it was nothing compared to her look in The Sense of an Ending. "That was a very modest bump that Lady Mary had," she said. "This was the real deal, and it was very heavy, which I wanted it to be that way to really get the feel for it and have that kind of, you hold your body completely differently with all that weight. I wanted it to feel real."The Sense of an Ending is in theaters on Friday, March 10.
+/n

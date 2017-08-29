@@ -1,0 +1,91 @@
+Farrah Abraham Tells 8-Year-Old Daughter Sophia 'Don't Forget to Brake!' as She Takes the Driver's Seat
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-ea162e54f62dde3d5802f92f0d2df20e-59a532922ef35');
+				var iframe = document.getElementById('wpcom-iframe-ea162e54f62dde3d5802f92f0d2df20e-59a532922ef35');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-ea162e54f62dde3d5802f92f0d2df20e-59a532922ef35'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Farrah Abraham‘s daughter is getting behind the wheel.
+In a deleted scene from this week’s episode of Teen Mom OG, Abraham, 25, has her 8-year-old daughter Sophia drive their golf cart around the block during her birthday party.
+“Okay, so, you ladies hold onto this,” she says as Sophia and four of her friends climb into the golf cart. Sophia gets in the driver’s seat with two other young girls sitting next to her, while the other two sit down in the back seat.
+“Sophia’s going to not fight her mommy,” she says. “We’re going to go around the block and keep it tame.”
+“Just reverse out of the garage,” Abraham instructs her daughter. Once Sophia has backed out of the garage into the driveway, Abraham climbs into the driver’s seat and sets her daughter on her lap.
+“All right, stop,” she says. “Now, Mommy’s going to get up here. Alright, Mommy aboard. Hold on tight!”
+“We’ve got to start doing lessons, Sophia!” raves Abraham as her daughter reverses into the street. “You’re getting to be a pro in the golf cart.”
+“Yay! Little princess golf cart party,” says Abraham as Sophia drives the golf cart around the block. “Let’s take a little tour of the neighborhood.”
+“Do you have your driver’s license?” one of the girls asks.
+RELATED VIDEO: Farrah Abraham ‘Wanted to Bring Culture to the Red Carpet’ with Bollywood-Inspired Look
+
+ 
+ 
+Once they’re done, Sophia steers the golf cart back back into the garage and stops the car.
+“Good job. Now, don’t forget to brake!” says Abraham. “Great job, ladies. I’m impressed. Nobody was scared!”
+Teen Mom OG airs Mondays (9 p.m. ET) on MTV.
+/n

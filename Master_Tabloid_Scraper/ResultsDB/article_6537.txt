@@ -1,0 +1,46 @@
+Mary Poppins Returns: Behind the Scenes With Emily Blunt The sequel picks up 25 years after the events of the first film, during London's mid-1930s economic slump. Michael Banks (Ben Whishaw) is all grown up and living at his parents&#x.../n
+She's baaaack!Disney's Mary Poppins Returns doesn't fly into movie theaters until Christmas 2018, but Entertainment Weekly's June 16 issue is taking fans behind the scenes 18 months in advance."It's a very nostalgic couple of words, isn't it?" Emily Blunt says of playing the role originated by Oscar winner Julie Andrews in 1964. "I hope what we're doing, and it certainly feels this way to me, is beautiful and profound and will be able to stand alone from the original." When director Rob Marshall first spoke to Andrews, she "threw her hands up in the air and said 'yes,'" he says. Andrews said, "This is Emily's show. I want her to take this and run with it, because she will be brilliant." She will not appear onscreen, but Dick Van Dyke (who played Burt) has a cameo role.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859567/mary-poppins-returns-behind-the-scenes-with-emily-blunt');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201757/rs_634x845-170607102102-634.emily-blunt.6717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Blunt, Mary Poppins Returns, Entertainment Weekly");
+	var imageCaption = encodeURIComponent("Emily Blunt, Mary Poppins Returns, Entertainment Weekly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Disney/Entertainment Weekly
+
+The sequel picks up 25 years after the events of the first film, during London's mid-1930s economic slump. Michael Banks (Ben Whishaw) is all grown up and living at his parents' old house on No. 17 Cherry Tree Lane with his wife and three children. After his wife's sudden death, the entire Banks family—including aunt Jane (Emily Mortimer) and housemaid Ellen (Julie Walters)—is devastated with grief. In with the wind comes Mary, who leads Michael's children on a series of adventures: to the top of Big Ben, the bottom of the ocean, and into magical encounters with animated dancing penguins and upside-down cousins (Meryl Streep)."The bar is so high for this," Marshall says of making the follow-up. "But to be able to walk in the footsteps of this beautiful story about a woman who brings magic to this family that's looking for wonder and hope and joy in their lives…I feel a great responsibility and reverence every day. We all feel it. We're just lifting it up to get there with the right intentions behind it."
+
+The star-studded cast also includes Colin Firth and Lin-Manuel Miranda, who plays Mary's friend Jack. According to Miranda, the soundtrack it's "a total love letter" to the original movie.Marc Shaiman and Scott Wittman wrote a new score, while costume designer Sandy Powell outfitted the cast members. And at least one original cast member is already impressed. "Dick Van Dyke said that the thing he remembers the most about doing the original film was the spirit, and he said, 'It's exactly the same spirit here,'" Marshall tells Entertainment Weekly (on newsstands Friday). "He was right here on Cherry Tree Lane and he said, 'I feel like I'm home.'"
+/n

@@ -1,0 +1,42 @@
+Alexander Skarsgård Shows Hot, Shirtless Body in The Legend of Tarzan Trailer Well hello again, Alexander Skarsgård. The 39-year-old Swedish star showcases his hot, shirtless body extensively in an extended trailer for The Legend of Tarzan t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/749541/alexander-skarsgard-shows-hot-shirtless-body-in-the-legend-of-tarzan-trailer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015119/rs_634x809-151209110609-634.alexander-skarsgard-tarzan.12915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alexander Skarsgard, Tarzan");
+	var imageCaption = encodeURIComponent("Alexander Skarsgard, Tarzan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jonathan Olley
+
+Well hello again, Alexander Skarsgård.The 39-year-old Swedish star showcases his hot, shirtless body extensively in an extended trailer for The Legend of Tarzan that was released Thursday. And the actor, who often stripped down as Eric Northman in True Blood, is more ripped than ever."I obviously had a very, very good trainer," Skarsgård told E! News' Marc Malkin exclusively this week. "I basically had him and a nutritionist. I've never done anything like this before, this extreme. I was just really nervous. It was a big challenge and I didn't know how my body would respond to the training and diet."The actor said his training involved doing many crutches and that for months, he ate "a lot of chicken cutlets."
+/n

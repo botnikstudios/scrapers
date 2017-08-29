@@ -1,0 +1,44 @@
+Ruth Wilson Dismisses Joshua Jackson Romance Rumors as “Boring Gossip” As it turns out, Ruth also spends quite a bit of time with co-stars Maura Tierney and Dominic West from the popular Showtime drama even after filming wraps for the day.  .../n
+Ruth Wilson is not here for speculation she's dating her The Affair co-star Joshua Jackson. Shortly after Jackson and Diane Kruger called it quits on their decade-long relationship in July of this year, photos taken of the actor spending time with Wilson post-split led to the inevitable: Romance rumors. The Golden Globe winner recently sat down with Vanity Fair to shed light on the duo's offscreen relationship, telling the magazine, "It is boring gossip. You can tell from that photo that we're friends."Wilson, 34, said of how she copes with the false reports, "I just sort of go, ‘All right, well, whatever, I have to keep answering."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/794541/ruth-wilson-dismisses-joshua-jackson-romance-rumors-as-boring-gossip-');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201547/rs_634x1024-150507124432-634.Ruth-Wilson-Joshua-Jackson.jl.050715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ruth Wilson, Joshua Jackson");
+	var imageCaption = encodeURIComponent("Ruth Wilson, Joshua Jackson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Eric Charbonneau/Invision for Showtime/AP Images
+
+As it turns out, Ruth also spends quite a bit of time with co-stars Maura Tierney and Dominic West from the popular Showtime drama even after filming wraps for the day. Adamant that her bond with Jackson is nothing more than a close friendship, she admitted,"If you want an answer about whether we're dating or not, ‘no' is the absolute truth. We all go out a lot. We're four Irish-Catholic actors who happen to be on a show together, and that means we like a drink and we like to have a good time. So all four of us go out."Notoriously private about her personal life, Ruth said she has no intentions of revealing any intimate details in the near future."People don't know what goes on in my private life, so they have to make conjecture from something that is photographed," the actress explained. "You don't actually know if I'm single or not. You haven't asked that question, and I haven't told you that answer. I don't talk about it."Consider that relationship gossip utterly squashed. 
+/n

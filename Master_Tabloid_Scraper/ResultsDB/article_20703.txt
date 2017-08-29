@@ -1,0 +1,50 @@
+Leah Remini Says Taking Down the Church of Scientology Is Her ''Passion'' Leah Remini will not hold back when it comes to spilling her truth about the Church of Scientology. Not only has she written a book, but she also h.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860718/leah-remini-says-taking-down-the-church-of-scientology-is-her-passion');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017513/rs_634x846-170613091512-634.Leah-Rimini-Reality-Star-Round-Table-Kf.61317.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leah Remini, The Hollywood Reporter");
+	var imageCaption = encodeURIComponent("Leah Remini, The Hollywood Reporter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+The Hollywood Reporter
+
+Leah Remini will not hold back when it comes to spilling her truth about the Church of Scientology.Not only has she written a book, but she also has a show on A&E called Scientology and the Aftermath, which she says is dedicated to revealing how the church is tearing families apart.She sat down with fellow reality show veterans Kris Jenner, RuPaul, W. Kamau Bell and SallyAnn Salsano for The Hollywood Reporter's reality TV roundtable and openly discussed her passion for taking down the Church of Scientology."The Church of Scientology has been in the news, but more so for fodder and a headline," she began. "What we are trying to do is show that this is a real thing that's tearing families apart. People really had no idea."
+
+She continued, "It was like, 'Oh, this is that crazy thing where Tom Cruise is jumping on a couch and everybody believes in aliens?' I think that worked for a very long time to sell headlines. But we're showing how a person actually can get there, and that's what's resonating. Also, we're standing up to a bully and, in a culture where people are feeling apathetic, we're representing a group of courageous people who are saying, 'No, I'm going to do something about it.'"
+
+Of course, many managers and people around Remini tried to convince her to step away from the topic, but she refused."Everybody on my team told me not to. They want me to be an actress," she revealed. "They don't want me to be known as somebody who does a show about Scientology. I'm like, 'What am I going to do? Not do it? This is my passion.'"In fact, she hands her personal cell phone number out to everyone who comes on the show, answering their every text and call.
+
+"It's not me, that's the thing...I'm telling their stories," she explained. "When we leave, they go back to their regular lives, and they are the ones the church goes after. When we air a show, I go, 'Just know, within minutes your daughter is going to be saying horrific things about you on the church hate website.' Literally every single person who has done a story about Scientology has a hate website on them."But that doesn't mean she's afraid."Don't misunderstand me," she explained. "People who know me know that I have a very big mouth, and I have been that way since I was a kid...But I never want to give the organization of Scientology the idea that anybody is scared of them. We are not. And the more they react in the way that they do, it makes me think we're doing the right thing."
+
+A spokesperson for the Church of Scientology referred us to this website for any statements regarding Remini.Read more about Remini and the other reality stars on THR.
+/n

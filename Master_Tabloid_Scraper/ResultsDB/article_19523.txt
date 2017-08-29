@@ -1,0 +1,44 @@
+PSA: Eddie Redmayne Is a Proud Hufflepuff and You Should Be Too If you're a real Harry Potter fan, you've probably already taken the Pottermore sorting test to determine which house would be the best fit for you. Just like in the s.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/809815/psa-eddie-redmayne-is-a-proud-hufflepuff-and-you-should-be-too');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016828/rs_634x951-160928063257-634.fantastic-beasts-and-where-to-find-them-1.92816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Fantastic Beasts and Where to Find Them");
+	var imageCaption = encodeURIComponent("Fantastic Beasts and Where to Find Them");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jaap Buitendijk/Warner Bros.
+
+If you're a real Harry Potter fan, you've probably already taken the Pottermore sorting test to determine which house would be the best fit for you. Just like in the series, if you discovered you were a Hufflepuff, you might have been the punch line of a few bad jokes. You might have been shamed, as Hufflepuff's are not often looked at as the brightest house. You can forget all of that, starting now, thanks to Fantastic Beasts and Where to Find Them star Eddie RedmayneA proud Hufflepuff himself, Eddie released a PSA with MTV to stop hurtful stigma. The announcement, which was "Paid for by The Coalition for Better Treatment of Hufflepuff's," calls for HP's everywhere to "Be proud," and "Stand tall." "For far too long now Hufflepuff's have been victimized. They call us boring; they call us beige. So we're the nice guys," he begins the clip. 
+
+He goes on to name other famous Hufflepuffs in history like Robert Pattinson (aka Cedric Diggory) and even Sexiest Man Alive, Dwayne "The Rock" Johnson. Yep. Random but true! If that's not enough to make you feel proud of your Huffle house, maybe the fact that they are the favorite of J.K. Rowling will.Apparently, the video moved a lot of people to leave touching comments like, "Bless you. Hufflepuff's are finally getting some love. I wasn't all that excited when I was sorted into Hufflepuff, but after finding out more about the house, I'm a proud Hufflepuff!" #HufflepuffStrong.
+/n

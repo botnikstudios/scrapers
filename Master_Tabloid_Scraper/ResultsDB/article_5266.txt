@@ -1,0 +1,44 @@
+James Franco Dissed by Alma Mater! On Facebook! Who knew the dude who starred in Pineapple Express and the Spider-Man movies would have such a tough time winning the favor of college students? As we exclusively broke, UCLA alum James Franco .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/105222/james-franco-dissed-by-alma-mater-on-facebook');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090222/293.Franco.James.cm.022209.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("James Franco");
+	var imageCaption = encodeURIComponent("James Franco");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Randall Michelson/Getty Images
+
+Who knew the dude who starred in Pineapple Express and the Spider-Man movies would have such a tough time winning the favor of college students? As we exclusively broke, UCLA alum James Franco was picked as commencement speaker for his alma mater's graduating class this year. But seems not everyone's a Franco fan: There's an entire Facebook group dedicated to dissing the guy!The group, UCLA Students Against James Franco as Commencement Speaker, started Thursday morning and it's already racked up 251 hate-spewin' members.So what's their main complaint with the gorgeous guy giving them life advice? Well...
+
+The group's creator, Erin Moore, a graduating senior who, ironically, happens to be quite the Freaks & Geeks fan, sasses to us…, "He has only had his degree for a year and has not had the time yet to really make an impact on the world with the knowledge that he gained at UCLA." Moore adds, "In the class that I did have with him, his participation seemed about average."That's just the tip of the angry iceberg. One member comments on the group's wall: "What's he gonna talk about? Spider-man? Pineapple Express???? Inspiring to say the least..."Then there's the much more eloquent: "F*$k James Franco, and f*$k UCLA for doing this."UCLA still stands by its sexy pick. Spokeswoman Elizabeth Boatright-Simon tells E!, "There was student participation in the committee that selected the speaker, and James Franco was chosen. We're very happy he has accepted."This smells just like the hissy fit over at Columbia a few years back when alum Matthew Fox was bitched at for being chosen as commencement speaker for the reason that students wanted "a Class Day speaker who has accomplished more than being hot and lucking into a role on a show with a bunch of hot girls."Jeez, talk about a bunch of bitter babes—ain't a diploma enough nowadays? Or is every graduate so paralyzed with fear thinking about the amount of student loans they now owe, they're taking it out on innocent actors?We bet Franco could teach a lot—like how to smooch Sean Penn and still be considered a lady-killer.—Additional reporting by Becky Bain and Whitney English
+/n

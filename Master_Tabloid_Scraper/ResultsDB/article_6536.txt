@@ -1,0 +1,48 @@
+Why Emily Ratajkowski Believes Sexuality Should Be ''Celebrated Rather Than Attacked'' Emily Ratajkowski doesn't believe that only certain people are authorized to be feminists. As she's stated time and time aga.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864445/why-emily-ratajkowski-believes-sexuality-should-be-celebrated-rather-than-attacked');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017530/rs_634x862-170630131658-634.Emily-Ratajkowski-British-Glamour-Kf.63017.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Ratajkowski, Glamour");
+	var imageCaption = encodeURIComponent("Emily Ratajkowski, Glamour");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Snijper / Glamour
+
+Emily Ratajkowski doesn't believe that only certain people are authorized to be feminists.As she's stated time and time again, she believes anyone who stands up for gender equality and women's rights are more than worthy of the title "feminist," and she's reiterating that point in her latest cover issue with Glamour UK."To start saying that certain people need to have a license to be feminist is insane," she said. "Emma Watson said feminism isn't some kind of tool to beat other women with, it's supposed to be a freedom of choice."One of the big topics she supports and encourages among women is the right to acknowledge and express their sexuality."I believe in sexuality," she explained. "I think it's a wonderful thing and, if anything, I want women to understand their own sexuality outside of a patriarchal male gaze.  We're the core of sexual beings, and I think that's something that should be celebrated rather than attacked."
+
+Still, that doesn't mean she'll take-on the typical sexy, "bikini girl" role every time she's offered it."Part of the reason I'm so grateful I have modeling and so many other things that I'm doing [is] because if I didn't have other ways of making money, I'd be like, 'OK, I guess I'm doing the bathing-suit-girl role,'" she admitted. "You really have to prove yourself in this industry, and I'm very much up for the challenge. It takes a really long time to not only prove yourself, but also prove that you're more dynamic than just this one part of you that they see."
+
+That's a note she tries to remember when it comes to social media as well.She admits that her Intsagram account may seem "picture-perfect," but it's all just a facade."It's not real, it's a version of reality, and as a visual person who loves art, photographs, fashion, I'm kind of interested in fantasy," she explained. "But it's important to realize that some people have a hard time distinguishing what's fantasy and what's reality.  We owe it to our followers to show the glam, but then also the real you."
+
+Read her full article with Glamour UK here.
+/n

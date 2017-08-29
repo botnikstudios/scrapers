@@ -1,0 +1,86 @@
+The West Wing Reboot? Alum Richard Schiff Weighs In on the Possibility
+/n
+A version of this article originally appeared on EW.com.
+Is a revival of The West Wing possible? According to former star Richard Schiff, there’s a chance it could happen and there’s already an idea for it floating around, courtesy of the actor himself.
+When Schiff dropped by OraTV’s PoliticKing With Larry King, host Larry King asked if he knew anything about a West Wing revival since NBC Entertainment chairman Bob Greenblatt said at the Television Critics Association’s press tour that he had spoken to creator Aaron Sorkin about bringing it back.
+“I know a lot,” replied Schiff, who played curmudgeonly White House communications director Toby Ziegler. “No, it’s not necessarily coming. And I don’t know in what form it’s coming but I did have a particular idea that I spoke with Aaron about, and to Tommy [Schlamme] about, and to Peter Roth about. And I love my idea, I don’t know if that’s going to happen.”
+Schiff is very confident in his idea, which might involve changing the show’s setting, and says that Sorkin himself liked it “a lot.” “I don’t think a West Wing reboot in the White House makes any kind of sense right now. So I think some other form of it,” said Schiff, adding that this his idea is “good” and that he would reprise his role if this ever happened.
+FROM PEN: TV Revivals We Want to See
+
+Sorkin, who is currently working on a production of A Few Good Men for NBC, may indeed like this idea very much, but he’s definitely not ready to pursue it right now. “I keep saying to him, ‘Do you want to do The West Wing again, wouldn’t it be great to do it?’” said Greenblatt in an interview with Deadline at the TCAs. “He says, ‘You know I love that show and some day I’d love to revisit it, but it’s not going to happen right now.’”
+Watch the PoliticKing clip below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-93df261f65d8afc94434b859dcf67d4f-59a50e2d754b8');
+				var iframe = document.getElementById('wpcom-iframe-93df261f65d8afc94434b859dcf67d4f-59a50e2d754b8');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-93df261f65d8afc94434b859dcf67d4f-59a50e2d754b8'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+If we don’t see Toby Ziegler again soon, that’s okay, because Schiff is currently working on two other shows. Right now, he is starring on the third season of HBO’s Ballers (airs Sundays at 10 p.m. ET), and he can be seen on ABC’s new fall drama The Good Doctor, which stars Freddie Highmore and premieres Sept. 25 at 10 p.m. ET.
+This article originally appeared on Ew.com
+/n

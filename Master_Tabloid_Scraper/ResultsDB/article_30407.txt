@@ -1,0 +1,48 @@
+Sylvester Stallone's Daughter Sistine Stallone Named an It Girl on Town & Country's Annual "Modern Swans" List Sistine Stallone, one of Sylvester Stallone's three daughters, has officially been dubbed an "it.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/786330/sylvester-stallone-s-daughter-sistine-stallone-named-an-it-girl-on-town-country-s-annual-modern-swans-list');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201679/rs_634x777-160809073324-634.Town-Country-FB-080916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sistine Stallone, Town & Country");
+	var imageCaption = encodeURIComponent("Sistine Stallone, Town &amp; Country");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Terry Richardson/Town & Country
+
+Sistine Stallone, one of Sylvester Stallone's three daughters, has officially been dubbed an "it girl" by Town & Country magazine.The publication releases its "New Modern Swans" list every year, naming the 50 "most stylish—and talked-about—young women" in the world. Landing the cover of the annual issue, however, are three of the "swans": Sistine, Ella Richards and Princess Olympia of Greece.Sistine, 18, is the middle child of Rocky Balboa and Jennifer Flavin, and is making her way as an up-and-coming model. Signed with IMG, Sistine hopes to further her modeling career outside of Los Angeles. "I feel that a smart move would be for me to go to college in New York and continue modeling there," she tells T&C, "but it all kind of depends on if I'm working, and what my parents think."
+
+
+
+Terry Richardson/Town & Country
+
+Other "swans" on the list include Danielle Lauder, Estée Lauder's great-grand daughter; Isabella Huffington, Ariana Huffington's daughter; and Eve Jobs, Steve Jobs' youngest daughter.Sistine has appeared in Teen Vogue, and in an accompanying interview the young model opened up about following in her mom's footsteps. "She's like my wingman. She's taught me my good side, my bad side, how to walk for the runway, and how to become someone else in a certain outfit," Sistine told the publication. "Modeling is basically acting, changing personalities. You don't want to be yourself."As for growing up in the spotlight as a Stallone, Sistine said she couldn't have asked for a better family. "I'm grateful to have been born into a loving family [and] I'm thankful for the life they've given me," she said. "A lot of my friends don't have the opportunities we have. We travel a lot, everywhere from Rome to Thailand; Dad's work is basically our vacation."
+/n

@@ -1,0 +1,42 @@
+France Fuming Over Audrey's Smoking Movie Poster Zut alors! A poster for the upcoming biopic Coco Avant Chanel, which features Audrey Tautou holding a lit cigarette, has been banned by Paris' bus and train advertising giant Métrobu.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/120320/france-fuming-over-audrey-s-smoking-movie-poster');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090423/293.tatou.cocochanelposter.042309.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Audrey Tatou, Coco Avant Chanel (poster)");
+	var imageCaption = encodeURIComponent("Audrey Tatou, Coco Avant Chanel (poster)");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Warner Bros. France
+
+Zut alors! A poster for the upcoming biopic Coco Avant Chanel, which features Audrey Tautou holding a lit cigarette, has been banned by Paris' bus and train advertising giant Métrobus in order to abide by France's strict laws prohibiting the depiction of smoking in advertising.The transportation authority deemed the ad "unhealthy and inappropriate."Never mind that Coco herself is famous for being a 50-cigarette-per-day gal; that the man behind the country's stringent antitobacco rule, former health minister Claude Evin, has spoken out against the poster prohibition; or that, recent public-smoking ban aside, puffing away has long seemed as iconically French as baguettes, berets and, well, Chanel.In place of the offending image, producers have swapped out a more anodyne, lung-friendly shot of Tautou, which critics have not been shy in deriding.A spokesman for Warner France told London's Telegraph, "For us, the real poster is where Coco Chanel is smoking in a natural pose that translates her strong personality and her modernity."
+/n

@@ -1,0 +1,93 @@
+Reversing His Oft-Tweeted Position, President Trump Tells Lester Holt He Supports Full Russian Probe/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-ac3029d1677cd2daf67df097c1e83613-59a54077ee09f');
+				var iframe = document.getElementById('wpcom-iframe-ac3029d1677cd2daf67df097c1e83613-59a54077ee09f');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-ac3029d1677cd2daf67df097c1e83613-59a54077ee09f'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+President Donald Trump told  Lester Holt that it was his decision to fire former FBI director James Comey, and that he supports a probe into allegations of Russian election tampering.
+The interview marks Trump’s first comments since Comey’s termination on Tuesday. Trump said that he had been planning to fire the former FBI Director regardless of the guidance from Attorney General Jeff Sessions and Deputy Attorney General Rod Rosenstein.
+“I was going to fire Comey. My decision,” Trump also said. “I was going to fire regardless of recommendation.”
+Trump then called Comey a “showboat” who has left the FBI struggling over the past year.
+
+
+James Comey will be replaced by someone who will do a far better job, bringing back the spirit and prestige of the FBI.
+— Donald J. Trump (@realDonaldTrump) May 10, 2017
+
+“He’s a showboat, he’s grandstander, the FBI has been in turmoil,” Trump told NBC News’ Lester Holt in an interview airing Thursday. “You know that, I know that. Everybody knows that. You take a look at the FBI a year ago, it was in virtual turmoil, less than a year ago. It hasn’t recovered from that.”
+Trump also says that he and Comey spoke multiple times over the course of his presidency so far, and he asked him if he was under investigation. The FBI is presently investigating potential Russian interference in the 2016 presidential election.
+“I said, if it’s possible would you let me know, ‘Am I under investigation?’ Trump told Holt. “He said, ‘You are not under investigation.’”
+The president said he supports the investigation, saying, “Look I want to find out if there was a problem with an election having to do with Russia. Or by the way, anybody else. Any other country. And I want that to be so strong and so good. And I want it to happen.”
+Trump also insisted there was no “collusion between me and my campaign and the Russians,” adding, “Also, the Russians did not affect the vote.”
+RELATED VIDEO: Former PEOPLE Writer Natasha Stoynoff Speaks After Trump Controversy
+
+Holt, a radio-turned-television journalist, 58, took the reins at NBC’s Nightly News in 2015, replacing colleague Brian Williams, who was removed from the position following revelations that he’d embellished some of his reporting.
+Holt moderated the first presidential debate between Hillary Clinton and then-candidate Trump in September. In a segment about racial healing, Holt had questioned Trump repeatedly about his birther crusade against then-President Barack Obama, saying Trump “perpetuated a false claim” for five years that the president was not born in the U.S.
+Trump replied, “When you talk about healing, I think that I’ve think I’ve developed very, very good relationships over the last little while with the African-American community … I did a great job and a great service, not only for the country but even for the president, in getting him to produce his birth certificate.”
+/n

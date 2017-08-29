@@ -1,0 +1,45 @@
+Lorena Rojas, Mexican Soap Opera Star, Dies at Age 44 After Lengthy Battle With Cancer After a seven-year battle with cancer, Lorena Rojas has passed away at age 44. The Mexican soap opera actress, who starred in well over a dozen telenovela.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/626248/lorena-rojas-mexican-soap-opera-star-dies-at-age-44-after-lengthy-battle-with-cancer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015117/rs_634x1024-150217113742-634-Lorena-Rojas-.ls.21715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lorena Rojas");
+	var imageCaption = encodeURIComponent("Lorena Rojas");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Marcos Delgado/LatinContent/Getty Images
+
+After a seven-year battle with cancer, Lorena Rojas has passed away at age 44.The Mexican soap opera actress, who starred in well over a dozen telenovelas, died in Miami on Monday, her talent agency, Latin WE, confirmed.Her team explained that Rojas, "who bravely defeated the disease at different stages since being diagnosed in 2008, took her last breath peacefully in her home, surrounded by the love of her family, her boyfriend and her closest friends."In 2008, Rojas was diagnosed with breast cancer, and was told that it had spread to her liver last year.
+
+Rojas is well-known for her roles in several internationally acclaimed telenovelas, including: El Cuerpo del Deseo, Rosario, Pecados Ajenos, Alcanzar Una Estrella, and Demente Criminal.She also starred in the films Manos Quieta and Aventurera and wrote and recorded a children's music album—which was inspired by her daughter, Luciana—titled Hijos del Sol.Latin WE added that Rojas "takes a step into eternal life leaving as her greatest legacy the love for animals and for art in all its forms, her tender devotion to her daughter, her passion for life, the appreciation of all her Lobitas and fans who she loved until the end…Rest in peace Lorena Rojas, our courageous fighter. We will always remember you, just like you wanted, enjoying life, with your extraordinary adventurous smile."Our thoughts go out to Rojas' family and friends during this difficult time.
+/n

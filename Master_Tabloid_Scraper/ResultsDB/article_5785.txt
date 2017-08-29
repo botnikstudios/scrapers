@@ -1,0 +1,48 @@
+Kristen Bell Reveals Dax Shepard Once Dumped Her for Another Girl Don't you just hate it when your boyfriend leaves you for another woman?  Kristen Bell and Dax Shepard have proven time and again that they're meant to be. But like .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874814/kristen-bell-reveals-dax-shepard-once-dumped-her-for-another-girl');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201708/rs_634x1024-170108154646-634.Dax-Shepard-Kristen-Bell-Golden-Globes.ms.010817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dax Shepard, Kristen Bell, 2017 Golden Globes, Couples");
+	var imageCaption = encodeURIComponent("Dax Shepard, Kristen Bell, 2017 Golden Globes, Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jordan Strauss/Invision/AP
+
+Don't you just hate it when your boyfriend leaves you for another woman? Kristen Bell and Dax Shepard have proven time and again that they're meant to be. But like any great celebrity couple, they've had their ups and downs. "We were dating for about three months, and I already knew that I was in love with him," Bell says in an interview with PopSugar. Despite the fact that she was ready to fully commit to Shepard, "he was hesitant because he knew he was still dating other people." Ouch.
+
+In the moment, Bell "liquefied and fell to the ground," she recalls, "but I felt incredibly respected that he had the balls to tell me we weren't in the same place." Spoiler alert! It all works out in the end.Four days later, Shepard called her up to admit that he was being foolish. "I don't know what I was thinking," he confessed, adding that he was dating another girl, but "[she's] just not as interesting as you." Aww!
+
+Does she still hold it over his head? Of course! "I still always remind him of when he broke up with me," Bell says. As for where their relationship stands now, they couldn't be happier. "It still takes a lot of work," she admits, "but we are choosing to be this happy because the other choice is, what, choosing to be unhappy? No thanks."The couple walked down the aisle in October 2013 after a vow not to marry until gay marriage was legal. They now have two daughters, Delta Bell Shepard, 2, and Lincoln Shepard, 4. The famous dad recently admitted to Ellen DeGeneres that Lincoln sort of has a potty mouth...and it may or may not be his fault.
+
+After he broke his nose on his daughter's book shelf, he let a couple "f--ks" fly around. Imagine his surprise when Lincoln pulled out the handy new word at a family function."'This pool is f--king warm,'" he remembers her saying. Fortunately, the funnyman was able to make himself feel better about it. "We were like, 'She's nailing the syntax. She knows that she's using it as an adjective, an adverb. We were proud and she stopped saying it."
+/n

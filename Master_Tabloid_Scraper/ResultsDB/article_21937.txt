@@ -1,0 +1,50 @@
+coming. Disney XD DuckTales WHAT: A new cartoon series on Disney XD based on the original cartoon about Scrooge McDuck and his nephews Huey, Louie and Dewey. CAN YOU WATCH IT? Not yet, but it's coming. Article continues below © Scholast.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875019/xena-warrior-princess-reboot-dead-but-what-about-these-other-tv-remakes-revivals');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201584/rs_634x1024-150904055351-634.Xena-The-Warrior-Princess-JR-90415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Xena, the Warrior Princess");
+	var imageCaption = encodeURIComponent("Xena, the Warrior Princess");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+RICHARD ROBINSON/AFP/Getty Images
+
+Looks like Xena won't battle on after all. NBC's planned Xena: Warrior Princess reboot is dead, according to The Hollywood Reporter.The reboot, which had Lost veteran Javier Grillo-Marxuach at the helm, will not move forward—at this time. Grillo-Marxuach left the project in April"Nothing is happening on that right now. We looked at some material; we decided at that point that it didn't warrant the reboot," Jennifer Salke, president of NBC Entertainment, told The Hollywood Reporter. "I'd never say never on that one because it's such a beloved title, but the current incarnation of it is dead."
+
+The reboot had original series co-creator Rob Tapert and executive producer Sam Raimi on board, but not original series stars Lucy Lawless and Renee O'Connor attached. Lawless' lack of involvement was a stick in the craw for many longtime fans.Xena: Warrior Princess ran for six season from September 1995-June 2001. Lawless portrayed the titular heroine, a former warlord seeking to make amends and fight the good fight alongside her traveling companion (and soulmate) Gabrielle, played by O'Connor.
+
+Xena will remain dead for now—like the character did in the series finale—but there are plenty of other TV reboots in the works. Check out our guide below.
+
+Are you happy the Xena reboot has been shelved?
+
+(E! and NBC are both part of the NBCUniversal family.)
+/n

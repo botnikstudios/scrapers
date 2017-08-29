@@ -1,0 +1,83 @@
+Hugh Hefner Releases the ‘Soundtrack of My Life’ Ahead of 91st Birthday/n
+Hugh Hefner, the famous founder of Playboy magazine, is celebrating his birthday by releasing a playlist of his favorite songs on Amazon Music.
+Hefner turns 91 on Sunday, but he’s beginning the festivities early with a hand-curated playlist exclusively on Amazon Music to accompany the premiere of his Amazon Original docu-series, American Playboy: The Hugh Hefner Story.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-04f34a12e86667c84528b88116cdb467-59a521d8e670a');
+				var iframe = document.getElementById('wpcom-iframe-04f34a12e86667c84528b88116cdb467-59a521d8e670a');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-04f34a12e86667c84528b88116cdb467-59a521d8e670a'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The playlist, “Hef’s Favorite Songs,” is inspired by his love of jazz, stemming from early childhood to the origins of Playboy, and consists of artists such as Frank Sinatra, Billie Holiday, Ella Fitzgerald, Glenn Miller and Aretha Franklin — who was one of the first singers to perform at the Chicago Playboy Club when she was 18.
+Bettmann Archive
+“My love of music, rooted in Jazz and the popular music that grew from it, has enriched my life in ways beyond description,” Hefner says in a statement. “It is the music of my younger days that has resonated with me through a lifetime of celebrations, triumphs, and wonderfully romantic love affairs.”
+AP Photo/Laurent Rebours
+“It is also the music that has comforted me in times of sorrow and darkness,” he adds. “The music I love remains the soundtrack of my life and continues to bring me joy, inspire me and most importantly, keep my heart open.”
+American Playboy tells the story of Hefner’s life with archival footage from his personal archives, including interviews with Jesse Jackson, Gene Simmons and Bill Maher.
+The docu-series is now available for streaming to Amazon Prime members.
+/n

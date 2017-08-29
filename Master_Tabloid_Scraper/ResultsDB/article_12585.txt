@@ -1,0 +1,44 @@
+An Ape Is Blocking Alexander Skarsgård's Ripped Bod in the Tarzan Poster and It's Upsetting Please tell this ape that is front and center in the latest The Legend of Tarzan poster that it chose an incredibly rude spot to pose. As m.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/767711/an-ape-is-blocking-alexander-skarsgard-s-ripped-bod-in-the-tarzan-poster-and-it-s-upsetting');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016424/rs_634x940-160524193452-634.The-Legend-of-Tarzan-Poster.ms.052416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Legend of Tarzan, Poster");
+	var imageCaption = encodeURIComponent("The Legend of Tarzan, Poster");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Warner Bros.
+
+Please tell this ape that is front and center in the latest The Legend of Tarzan poster that it chose an incredibly rude spot to pose.As many are aware by now, Alexander Skarsgård has given fans glimpses of what may be his most ripped bod to-date for his latest film, and we almost got a full visual of those muscles in the latest art for the movie, except it's strategically blocked by our friend here.Yes, we have already gotten a better view, but it's the principle of the matter, people. Why keep his abs away from us? Regardless, the actor's chiseled torso still make a noteworthy appearance in the visual, so we'll take what we can get.Once you manage to rip your eyes away from him (and side-eyeing the apes), you'll notice a nearly unrecognizable Margot Robbie standing beside him drenched from the rain. (Also, can we please notice the facial expression of the ape next to the one who we're mad at? What is he looking at?!)
+
+Now, back to Skarsgård's Tarzan body because it is, quite simply, unreal. But it didn't come easy."I obviously had a very, very good trainer," he previously told E! News. "I basically had him and a nutritionist. I've never done anything like this before, this extreme. I was just really nervous. It was a big challenge and I didn't know how my body would respond to the training and diet."His routine for several months before and while shooting included "a lot of chicken cutlets and crunches," Skarsgård said with a laugh.The former True Blood star's trainer allowed him one cheat day."He was like, 'Alex, let's go for lunch,' and we went to this Italian restaurant in Notting Hill and sat down and he was like, 'Order what you want," Skarsgård remembered. "I started crying. He was like, 'Have pasta,' and I had it and then he was like, 'Are you still hungry?' I was like, 'Yeah!' He was like, 'Have a pizza then, have some tiramisu.' It was the best meal of my life."
+/n

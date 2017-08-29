@@ -1,0 +1,46 @@
+Katy Perry Credits Ex-Husband Russell Brand for Inspiring Her Passion for Meditation The 32-year-old credited meditation as the "biggest help in my life" when it comes to disconnecting from the chaos. She added, "Life can get .../n
+Katy Perry has Russell Brand to thank for a wellness practice that changed her life. E! News' Zuri Hall sat down with the "Chained to the Rhythm" pop star to learn about how meditation has reshaped Perry's songwriting process, an activity first introduced to her by the English comedian she was married to between 2010-2012. "[Russell] is an avid meditator and I learned when I was in India getting married," Katy explained, referencing famed meditation teacher Bob Roth from the David Lynch Foundation. An admitted skeptic, Perry said that because of her conservative upbringing, she held many preconceived notions about meditation and its purpose."My parents are both born again Christians and I love them," she shared. "I love how I was raised and I don't regret anything. I'm not dismissing it. I respect all religions, but I did think that meditation was more of a religion. Transcendental meditation is not a religion."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860221/katy-perry-credits-ex-husband-russell-brand-for-inspiring-her-passion-for-meditation');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201754/rs_634x1024-170604135242-634.Katy-Perry-One-Love-Manchester.kg.060417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("One Love Manchester Benefit Concert, Katy Perry");
+	var imageCaption = encodeURIComponent("One Love Manchester Benefit Concert, Katy Perry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images/Dave Hogan for One Love Manchester
+
+The 32-year-old credited meditation as the "biggest help in my life" when it comes to disconnecting from the chaos. She added, "Life can get a little crazy, and I am always juggling a thousand balls at once.""I'm just like anyone else. I'm addicted to my phone. I have my phone next to my bed. I would say that especially when I'm single, but even in a partnership, I'll look at my phone before I look at my partner," Perry—who last dated Orlando Bloom—admitted. From a musical standpoint, Perry said that meditating aids creativity. "When I meditate, I get to the real well of creativity. It stirs up all of these creative juices and I get my best ideas," the chart-topper offered.It also lifts the celeb's mood when she's feeling down. "I have been crabby many times and I'll just say, ‘Look, I'm in a really bad mood. I need 20 minutes to reset,'" Katy recalled. "I come back; my mood has changed 100 percent."For more about Katy's quest to reach spiritual enlightenment, watch the video above!
+
+Katy Perry: Witness World Wide is streaming on YouTube. Pick up Perry's album Witness out now before her tour kicks off Sept. 7.
+/n

@@ -1,0 +1,44 @@
+EXCLUSIVE! DWTS Backstage Dirt: Why the Crowd Cheered Maurice's Elimination "So many tears! Everyone was crying when he left." This is how Lance Bass describes the scene backstage tonight at Dancing With the Stars, as the cast.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/68366/dwts-backstage-dirt-why-the-crowd-cheered-maurice-s-elimination');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20081111/293.dwts.sapp.warren2.lc.111108.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("DWTS, Maurice Greene");
+	var imageCaption = encodeURIComponent("DWTS, Maurice Greene");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC/KELSEY MCNEAL
+
+"So many tears! Everyone was crying when he left."This is how Lance Bass describes the scene backstage tonight at Dancing With the Stars, as the cast said goodbye to running man and "everybody's buddy," Maurice Green.OK, so tears may have been expected, but here's something you may or may not have picked up on that was rather shocking: When Maurice was eliminated during tonight's episode, a portion of the audience actually cheered. Loudly. (The cheers were muffled somewhat in the telecast.)Now, this is not the usual DWTS etiquette. So who were these crazy insensitive souls?
+
+Answer: They were the hormonally challenged (read: teen girl) fan faction who were thinking nothing other than, "Yeeeee! The cute boy was spared!"Clearly, the teenybopper constituency got their Hannah Montana short-shorts in a bunch when Cody was named in the bottom two and then broke out in raucous shriek when Maurice's name was called. "That did feel odd," Cody told us backstage about the cheering. "I was so nervous, so when they said ‘You're safe, Cody, slash your buddy Maurice is going home,' it was a very odd feeling...This was a very traumatic night for me!"Just think how Maurice feels!Still, the Green machine was in high spirits backstage after the show, telling us, "It was a blessing for me to make it each week and that I stayed on the show. I had a wonderful time...and I wouldn't take anything back."Meanwhile, Cody says he's looking forward to his original partner Julianne returning next week: "There was a piece of me missing, and she's back." And brother Derek tells us, "She feels great, and you know what? She's better than ever, really, because she hasn't had a break in such a long time."So now it's time for the finals, and it would seem Cody and Lance will land in next week's bottom two. However, Lance insists we shouldn't count him out yet. "We've been the underdogs of the season, we've somehow stayed here thanks to America out there voting. We know where we stand with the judges, so at least we know that people are voting for us, which is nice!"Nice enough that he could win it? Who are you rooting for now?
+/n

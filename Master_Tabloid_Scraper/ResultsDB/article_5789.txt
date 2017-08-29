@@ -1,0 +1,48 @@
+EXCLUSIVE! Kristen Bell Gives Advice to Those Still Heartbroken Over Anna Faris and Chris Pratt's Split And as reports blame the Parks & Recreation alum's ascending star power as the reason for their split, Kristen feels otherw.../n
+Don't cry because it's over, smile because it happened. Those were Kristen Bell's words of wisdom to fans mourning the loss of Hollywood power couple, Chris Pratt and Anna Faris. The movie stars announced their decision to legally separate after eight years of marriage less than a week ago, and pop culture fanatics can't seem to shake the heartache.Luckily, Dax Shepard's leading lady is here to save the day. E! News caught up with the Frozen star as she celebrated the launch of Naked Juice's #DrinkGoodDoGood campaign, where she told us, "I think there's a little bit of lack of acknowledgment about really loving something that was. If there are two people that decide not to be together, it shouldn't really be a heartbreak for everyone."Kristen continued, "You should say, 'Oh, they tried. But that doesn't discount the lovely years they had together.' If I ever get divorced, I'm still going to be like, 'Wow, I loved being married to that man.'"
+
+Chris and Anna released the following statement via social media last weekend: "Anna and I are sad to announce we are legally separating. We tried hard for a long time, and we're really disappointed. Our son has two parents who love him very much and for his sake, we want to keep this situation as private as possible moving forward.""We still have love for each other, will always cherish our time together and continue to have the deepest respect for one another."So how would Kristen handle such a tough situation? The mom of two shared, "It's a little more nuanced I think than people want to acknowledge. I think it's the truth.""I'm glad I spent my time with that person," she recalled. "We may have to make different choices; those choices might make us sad for a while, but ultimately you have to make hard choices in life. I don't fault anyone for making them."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872886/kristen-bell-gives-advice-to-those-still-heartbroken-over-anna-faris-and-chris-pratt-s-split');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017710/rs_634x1024-170810175719-634.Kristen-Bell-Anna-Faris-Hawaii.kg.081017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kristen Bell, Anna Faris");
+	var imageCaption = encodeURIComponent("Kristen Bell, Anna Faris");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Buckner/Getty Images
+
+And as reports blame the Parks & Recreation alum's ascending star power as the reason for their split, Kristen feels otherwise. "I don't necessarily know that it's 'Hollywood' that gets in the way," Bell offered. "The reality is when you're working in this industry you're sometimes shooting a movie in China for four months. You're away from your family for four months. I think it's more the separation than anything that can weigh on people."She said keeping her marriage alive is "really hard" and takes "work," elaborating, "We go to couple's therapy. We make sure that we're talking with respect to each other. When we sit down to have a disagreement it's a disagreement, not an argument."For more from our interview with Kristen, watch the videos above!
+
+You can participate in Kristen's latest charitable effort by taking a selfie with a fruit or vegetable and sharing it using the hashtag #DrinkGoodDoGood. Naked Juice will then donate 10 lbs. of produce to philanthropic partner Wholesame Wave!
+/n

@@ -1,0 +1,46 @@
+EXCLUSIVE! Dancing With the Unfair Advantage? Heather Morris, Maksim Chmerkovskiy Sound Off on the Glee Star's Pro Dance Past "I'll take whatever I can get," he said. "It's a hard show. It's a difficult pro.../n
+Glee star Heather Morris is staging a comeback on Dancing With the Stars, but it's not her return to the spotlight that's getting people talking: It's her professional dance experience. Prior to joining Glee, Morris, who has been dancing since she was a kid, appeared on So You Think You Can Dance and as a backup dancer for Beyoncé. That puts Morris and dance partner Maksim Chmerkovskiy at an advantage, right?"I hope so," Chmerkovskiy told E! News after the Dancing With the Stars season 24 cast was announced on Good Morning America. "I'm excited. No, why not? Listen, I'll take it.""Take it for what it's worth," Morris chimed in.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/833089/dancing-with-the-unfair-advantage-heather-morris-maksim-chmerkovskiy-sound-off-on-the-glee-star-s-pro-dance-past');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201721/rs_634x1024-170301063957-634.dwts-season-24-21.ch.030117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dancing With the Stars Season 24, DWTS");
+	var imageCaption = encodeURIComponent("Dancing With the Stars Season 24, DWTS");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC
+
+"I'll take whatever I can get," he said. "It's a hard show. It's a difficult production. It's going to be non-stop, full-on."Morris had her first baby in 2013 and her second in February 2016. Chmerkovskiy said she's returning to the world of dance similar to his fiancé Peta Murgatroyd. The couple just welcomed their first son in January."I'm excited for Heather to add this to her repertoire," he said.The cast for Dancing With the Stars season 24 also includes Charo, Mr. T, The Bachelor star Nick Viall, Simone Biles, Nancy Kerrigan, Real Housewives of Beverly Hills' Erika Jayne, David Ross, Rashad Jennings, Fifth Harmony's Normani Kordei, Chris Kattan and Bonner Bolton. Chmerkovskiy told us there are some serious competitors in the mix. Historically gymnasts, like Biles, figure skaters, like Kerrigan, and pop stars like Erika Jayne and Kordei have done well in the competition.
+
+"To say that we just have this massive advantage, I think so, but I don't think we're the only ones that could pull off beautiful, beautiful numbers," Chmerkovskiy said. "I'm ready for us to be scrutinized a little different and judged a little different and rightfully so, we'll do our best."Despite her dance background, Morris said there are nerves. "I'm nervous about the live audience…I'm just not totally used to it," she said.Watch the video above to hear Morris' thoughts on a competitor in Mr. T and which Glee stars she's heard from. Dancing With the Stars season 24 premieres Monday, March 20 at 8 p.m. on ABC.
+/n

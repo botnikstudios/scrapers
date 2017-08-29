@@ -1,0 +1,46 @@
+charity basketball game against the LAPD today. "Chris Brown came out today with his Team Breezy to play basketball against the LAPD team at Alain Leroy Locke College Prep Academy gym. He just came out to get the community out and have .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/447825/chris-brown-plays-charity-basketball-game-after-suffering-seizure');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013420/rs_293x473-130520124444-634.CBRown.mh.052013.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Chris Brown");
+	var imageCaption = encodeURIComponent("Chris Brown");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Denise Truscello/Getty Images
+
+It looks like Chris Brown is well and back on his feet.After suffering a seizure at a Los Angeles recording studio early Friday morning, the singer still managed to play (and show off some skills) at a charity basketball game against the LAPD today."Chris Brown came out today with his Team Breezy to play basketball against the LAPD team at Alain Leroy Locke College Prep Academy gym. He just came out to get the community out and have some fun and try to get the message out to reduce violence," an eyewitness tells E! News.
+
+About 300 people attended the event in South Central L.A., which was sponsored by LAPD, Second Call (a local anit-violence organization) and Symphonic Love, Chris Brown's charity."We have partnered with Chris Brown for about four months," Second Call organizer Skipp Townsend tells E! News."This is just one way he decided to give back to the community with a free basketball game. He is really into giving back to the community. All of south L.A. He has given away basketball shoes and done other events."
+
+"Chris took photos with his team, the LAPD team and many fans," an eyewitness added. "He was smiling and very happy to be there. He looked great and healthy. He was hugging fans and grinning big and having a great time."Those who attended the game said it wasn't evident that Breezy had suffered any sort of medical emergency prior to the game."I didn't know about any medical problems. He has been playing. He is actually pretty good," an eyewitness said.Brown, who wore a black basketball uniform, scored some three-pointers, but the LAPD took the game with an over 30-point lead.There's always next time!
+/n

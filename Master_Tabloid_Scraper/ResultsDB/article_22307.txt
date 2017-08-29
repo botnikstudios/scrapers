@@ -1,0 +1,46 @@
+Road to Shirtless: Upgrade Your Abs! Terrence Jenkins is chiseling his six-pack. In this week's Road to Shirtless workout series, Hollywood trainer Jeanette Jenkins is showing how she's working out the E! News cohost's abs in .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/420776/terrence-jenkins-road-to-shirtless-upgrade-your-abs');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013420/rs_293x473-130520114302-634.Terrence.Jeanette.mh.052013.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Terrence Jenkins, Jeanette Jenkins");
+	var imageCaption = encodeURIComponent("Terrence Jenkins, Jeanette Jenkins");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+E!
+
+Terrence Jenkins is chiseling his six-pack.In this week's Road to Shirtless workout series, Hollywood trainer Jeanette Jenkins is showing how she's working out the E! News cohost's abs in preparation for his upcoming shirtless scene in Think Like a Man Too.So how do you get a sexy six-pack? In addition to a lean diet, here are five ways you can incorporate a focused core workout into your training regimen in order to get flat, perfect abs.
+
+1. Strength Training Circuits: Do a set of abs in each of your strength training circuits. For example, on the day that you are working your chest, one circuit could be: flat bench 6-10 reps, reverse crunches 25 reps, jog on the spot for 30 seconds. This is active recovery for your chest workout and by the end of your training session you will have conquered 200-500 various ab exercises working all the movements of the core (flexion, extension, lateral flexion and rotation).2. Before Your Cardio: Do eight sets of 25 reps of various ab exercises (200 total) before you start your cardio workout to recruit the core and to help remind your body to engage your core muscles throughout your cardio workout.3. Fast Twitch Ab Exercises: To help improve definition and strength, you should also include ab exercises that recruit the fast twitch muscle fibers. Try Russian twist with a medicine ball, full body forearm planks, the wheel, medicine ball toss, weighted ab machines, sprints, burpees/squat thrusts, bear crawls and power moves that incorporate the core.
+
+4. Core Flexibility Exercises: Exercises that focus on improving the flexibility of the core will also help you improve the tone and definition of your abs. These movements will also decrease your risk of lower back injury and increase the range of motion of your core so you are less likely to get injured while playing sports or trying new exercises. Try incorporating a Pilates or yoga workout into your weekly regimen to improve your core flexibility. Some examples of core flexibility exercises from yoga are Pilates are: roll-ups, seated twist, crescent pose with a twist, reverse triangle, standing side bend and plough.5. Variety: Make sure you are always mixing up the ab exercises to challenge your body. Here are five amazing ab exercises from Jeanette's Sexy Abs Workout DVD with Kelly Rowland that you can add to your ab workout or incorporate into your strength training circuits. Jeanette incorporates all five of these exercises into Terrence's strength training circuits:Plank up downs with core rotationTotal body V-up (pictured here)Ultimate obliques tonersLow belly double leg reach Love handles crunch
+/n

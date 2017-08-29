@@ -1,0 +1,44 @@
+Olga Kurylenko May Be Trying Out for Wonder Woman in Man of Steel Sequel—Report Could Olga Kurylenko be lassoing her biggest role yet? The former Bond babe is one of three actresses auditioning to play the female lead in the hotly anticipate.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/479195/olga-kurylenko-may-be-trying-out-for-wonder-woman-in-man-of-steel-sequel-report');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013108/rs_634x1024-131108131548-634.olga-wonderwoman.cm.11813.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Olga Kurylenko, Wonder Woman");
+	var imageCaption = encodeURIComponent("Olga Kurylenko, Wonder Woman");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Livingston/Getty Images, DC Comics
+
+Could Olga Kurylenko be lassoing her biggest role yet?The former Bond babe is one of three actresses auditioning to play the female lead in the hotly anticipated Man of Steel sequel which—if the rumors are true—could turn out to include Wonder Woman along with Henry Cavill's Superman and Ben Affleck's Batman.Per Variety, which first reported the news, the 33-year-old Kurylenko is in the running along with G.I. Joe: Retaliation's Elodie Yung and Fast and Furious' hottie Gal Gadot for a part that, based on the casting description, sure sounds like it could be Amazonian warrior princess as it calls for someone "tall, brunette, athletic and exotic."A rep for Olga was tight-lipped about the report, telling E! News,  "We are not in a position to make any comment or quote."
+
+Kurylenko has quickly catapulted onto the A-list since she was cast as a Bolivian Secret Service agent opposite Daniel Craig's 007 in 2008's Quantum of Solace, and after that she played a fierce warrior on the trail of Michael Fassbender in 2010's Centurion.This year, she starred opposite Tom Cruise in the summer sci-fi tentpole Oblivion and appeared with Affleck, Rachel McAdams and Javier Bardem in Terence Malick's latest film, To the Wonder. And up next she costars with former Bond Pierce Brosnan in the spy thriller November Man.According to the trade, it's not just Wonder Woman that director Zack Snyder is looking to bring into the Superman fold. Word has it fellow D.C. Comics superhero The Flash could also be making a cameo, though to what extent remains to be seen.All of this, of course, sounds like Warner Bros. is laying the groundwork for a Justice League movie but we'll have to wait and see when the follow up to Man of Steel hits theaters on July 17, 2015.—Reporting by Ruth O'Neill
+/n

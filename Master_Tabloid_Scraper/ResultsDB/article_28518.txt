@@ -1,0 +1,82 @@
+Talk About a Christmas Bonus! Pregnant Server Gets $900 Tip Days Before Her Daughter Is Due/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-d8ecb80b761d6f80722e2f718f6b32e0-59a585df27525');
+				var iframe = document.getElementById('wpcom-iframe-d8ecb80b761d6f80722e2f718f6b32e0-59a585df27525');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-d8ecb80b761d6f80722e2f718f6b32e0-59a585df27525'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A pregnant waitress in Phoenix, Arizona, reportedly landed a very special Christmas bonus days before she is expected to give birth to her daughter.
+Sarah Clark, a Pita Jungle sever, was overjoyed to find that a particularly good-hearted woman gifted her a hefty sum on Dec. 17 after she delivered her takeout order: Clark received a $900 tip on a $61 tab, according to KPHO.
+“You always hear about these happening, but you never expect to be the recipient of it,” Clark told the station. “It’s a huge, huge help for me and my family.”
+Clark is nine months pregnant — she is expecting daughter Rosalie on Jan. 8 — and was even more grateful considering her fiancé is undergoing knee surgery.
+• Need a little inspiration? Click here to subscribe to the Daily Smile Newsletter for uplifting, feel-good stories that brighten up your inbox.
+“I couldn’t have asked for anything more right now,” she told NBC10. “That’s going to help with bills, with rent [and] being able to stay home and spend some more time with my baby!”
+The generous woman, who is also expecting a baby, left Clark a sweet note, according to KPHO.
+“This is God’s money,” she wrote on the check. “He gave it to us so we would give it to you! God bless.”
+/n

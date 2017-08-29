@@ -1,0 +1,50 @@
+Derek Jeter and Hannah Davis Are Married: See Beautiful Wedding Photos When it came to her bridal look, the new Mrs. Derek Jeter knocked it out of the park. Model Hannah Jeter, 26, married the 42-year-old retired New York Yankees star Saturd.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/778937/derek-jeter-and-hannah-davis-are-married-see-beautiful-wedding-photos');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016612/rs_634x801-160712084013-634.Derek-Jeter-Hannah-Davis-Wedding-JR-071216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Derek Jeter, Hannah Davis, Wedding Dress");
+	var imageCaption = encodeURIComponent("ESC: Derek Jeter, Hannah Davis, Wedding Dress");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+INFphoto.com/Fameflynet
+
+When it came to her bridal look, the new Mrs. Derek Jeter knocked it out of the park.Model Hannah Jeter, 26, married the 42-year-old retired New York Yankees star Saturday in front of family and friends in an outdoor ceremony at the Meadowood Napa Valley Resort in St. Helena, California.She walked down the aisle in a custom Vera Wang mermaid bridal gown that featured a bodice with a sweetheart neckline, tulle and lace halter high neck and plunging back, and tulle and hand-appliqued Chantilly lace-covered skirt. She paired the look with a double-tier cathedral-length veil over an updo and carried a large bouquet of white flowers.
+
+The groom wore a black and white Nigel Curtiss tux with an ivory bow tie and and a white rose boutonniere. Davis' bridesmaids sported one-shoulder, lavender, full-length chiffon dresses and carried small white flower bouquets.
+
+
+
+INFphoto.com/Fameflynet
+
+The bride later changed into a custom Vera Wang V-neck halter gown with tulle detail and a silk georgette A-line skirt.There reception took place inside an open greenhouse. The decor was entirely white—strips of white tulle were draped across the entrance and tables were decorated with white linens and flower centerpieces.Fewer than 100 guests attended the wedding. Among them, in addition to close family members, were Jeter's longtime pals and Yankees stars Jorge Posada, Andruw Jones and Tino Martinez, as well as Davis' Sports Illustrated Swimsuit issue model friends, Page Six reported.Jeter and Davis dated for three years before news of their engagement broke in October."They are extremely excited and in love!" a source told E! News at the time. "They can't wait to spend their lives together."
+/n

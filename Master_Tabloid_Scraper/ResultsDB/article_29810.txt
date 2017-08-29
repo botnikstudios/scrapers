@@ -1,0 +1,157 @@
+Watch Channing Tatum Bust Out His Magic Mike Dance Moves with a Lucky N.C. Gas Station Attendant
+/n
+
+Channing Tatum just turned a local convenience store into mini Club Domina.
+The Magic Mike star, 37, busted out his vaunted dance moves alongside a gas station attendant named Beatrice in Statesville, North Carolina, on Tuesday. The entire six-minute dance session inside the Sunoco station was streamed live from the actor’s Facebook.
+“Nothin better than a little dance party. Thank you, Beatrice s/o Sunoco Racing,” Tatum captioned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-4aae6152685958cf7354e9649f0362c4-59a58c7f7f3d1');
+				var iframe = document.getElementById('wpcom-iframe-4aae6152685958cf7354e9649f0362c4-59a58c7f7f3d1');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-4aae6152685958cf7354e9649f0362c4-59a58c7f7f3d1'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The rendezvous comes as part of his promotional tour for his new film Logan Lucky. Tatum has been driving across the country and interacting with fans along the way to spread the word about the NASCAR-themed heist movie.
+Channing Tatum/Facebook
+Earlier in the day, Tatum posted pictures and videos from Greensboro, North Carolina, where he spent time with some folks from Mack Trucks headquarters. “This trip has been the most fun I’ve ever had promoting a film. Thanks to everyone I met along the way. Can’t wait for y’all to see what we did,” he captioned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-52ccdcc82ff2a8e15e24ca8c9ecef33f-59a58c7f7f5be');
+				var iframe = document.getElementById('wpcom-iframe-52ccdcc82ff2a8e15e24ca8c9ecef33f-59a58c7f7f5be');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-52ccdcc82ff2a8e15e24ca8c9ecef33f-59a58c7f7f5be'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“Don’t think I can ever go back to doing regular press junkets,” he wrote alongside a video yesterday, showing another interaction with fans.
+After stopping earlier this month in Harlan County, Kentucky, Tatum wrote, “Met some incredible and inspiring people today in Harlan County. From dirt biking to coal mining, thank you for making us feel at home. Can’t wait to share the full story.”
+Logan Lucky, also starring Daniel Craig, Adam Driver, Riley Keough and Hilary Swank, races into theaters Aug. 18.
+/n

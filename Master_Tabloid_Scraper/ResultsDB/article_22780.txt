@@ -1,0 +1,60 @@
+officially became husband and wife, our guests enjoyed a cocktail hour with drinks, hor d'oeuvres and live music by Rusty Lemmon and steel drummer, Van Bertie. The steel drum was great because it gave the event that chill, island vibe (.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/770161/carissa-culiner-s-bridal-blog-inside-our-wedding-day');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016426/rs_634x1024-160526103243-1204-carissa-wedding-blog-10.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carissa Bridal Blog");
+	var imageCaption = encodeURIComponent("Carissa Bridal Blog");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Roberto Ojeda
+
+We did it, Shanon and I got married! I know it's cheesy and everyone says this, but our wedding day really was the best day of our lives! The whole day was just perfect.We got married at The Islander, A Guy Harvey Outpost in Islamorada, Florida. Mother Nature blessed us with a beautiful, warm, sunny day. Although, she was a little too generous with the wind. My poor bridesmaids had to hold their skirts as they walked down the long sandy beach aisle. And, my veil was blowing out of control. But hey, I'll take wind over rain and heavy humidity any day!I've never loved a dress more than my wedding dress! I'm still obsessed with every little detail, and I'm determined to find a reason to wear it again. The jewelry I wore was very special to me. I had a piece from each of my deceased grandmothers. My pinky ring was a gift from Shanon from several years ago, and the earrings were a wedding gift from him.
+
+Shanon's stepfather, Michael Josephs was our officiant. He did an incredible job and it meant so much to us to have someone we love marry us. It made it personal and less nerve-wracking. Believe it or not, I also did a pretty good job on the crying front—only shed a few tears walking down the aisle and a little more during the vows. (Thank goodness for waterproof mascara!)There was this really special moment during the ceremony when a flock of seagulls flew over us at the most perfect time. Some family members thought it was staged, which would have been a cool idea, but we didn't think like that. Others believed it was our deceased family members flying in to give us their blessings. Whatever it was, it was an incredible moment.
+
+After we officially became husband and wife, our guests enjoyed a cocktail hour with drinks, hor d'oeuvres and live music by Rusty Lemmon and steel drummer, Van Bertie. The steel drum was great because it gave the event that chill, island vibe (completely what the Florida Keys encompasses). Unfortunately for me and Shanon, we were too busy taking pictures to actually enjoy this part of the night, but our guests appeared to have a great time catching up with one another.
+
+The reception was beautiful beyond belief. I was so impressed with how everything turned out! Our wedding planner, Liz Seligman with Island Life Events, did a terrific job bringing together the theme of romantic, beachside elegance. Pink linens covered the tables, all of the centerpieces contained gorgeous white, pink and green flowers and each table had a different kind of arrangement. I loved the variety. The wooden chairs and hanging overhead lighting added extra charm to the whole setting. It was exactly what I had envisioned!
+
+After the toasts and dinner, it was time for the first dance. This was one of my favorite moments of the night. My poor husband was so nervous about this part, like more nervous than the getting married part! He hates dancing...forreal, and to have to dance in front of 150 plus people staring at us was his worst nightmare. But he did a great job, and I don't think anyone caught on to the fact it was his first time twirling someone. Turns out, he's a natural.
+
+We definitely were not shy with the sweets at our wedding! There was a small 3-tier cake for the cutting. We served guests multiple flavors of regular-sized and mini-sized cupcakes, as well as the groom's cake, which was in the shape of a football and had the logos of his favorite college (Miami Hurricanes) and NFL (Miami Dolphins) football teams on it. Setup next to a fire pit, we had a s'mores bar with different kinds of marshmallows and chocolates. Plus, we served a variety of flavors of Italian ice. Have you ever tried spiked Italian ice? If not, you should.
+
+
+
+Roberto Ojeda
+
+The rest of the night was a true party! DJ Buggy took over the music and did a great job at keeping everyone dancing. As the night progressed, the stars came out, the lights shined brighter, and the reception became even more beautiful. The reception was several hours long, but felt like it flew by! Shanon and I were so excited to talk to everyone. Plus, we tried to find some moments to ourselves, and make time to show off our own dance moves (well, more me than Shanon). It was a blast! It's hard to beat a party with good drinks, food, music and all of your closest friends and family. There will never be another moment like this. The whole day was filled with so much love and happiness.
+
+Thanks for letting me share my wedding and the process of putting it together with you. The planning part is exhausting and stressful, but totally worth it when you have that once-in-a-lifetime kind of night! I keep telling my husband, I want to do it all over again—the exact same thing, one more time! We'll see if that happens...
+/n

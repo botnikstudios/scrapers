@@ -1,0 +1,46 @@
+lovers might actually be able to overcome this latest obstacle come season four. In the new season's key art, exclusive to E! News, Lucious (Terrence Howard) and Cookie (Taraji P. Henson) steal the show with their sizzling chemistry. Th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870341/empire-s-season-4-key-art-puts-cookie-and-lucious-front-center-like-the-power-couple-they-are');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201773/rs_691x1024-170803112545-634.Empire-Poster.ms.080317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Empire, Poster, EMBARGO till 12:15 pm PST");
+	var imageCaption = encodeURIComponent("Empire, Poster, EMBARGO till 12:15 pm PST");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Fox
+
+The Lyons united will never be divided.Season three of Empire may have ended with Lucious Lyon recovering from the explosion outside of Leviticus Resort & Casino, stricken with amnesia and an uncomfortably attentive nurse who looks an awful lot like Demi Moore, while Cookie and the boys looked on in horror, but there's fresh hope that these two star-crossed lovers might actually be able to overcome this latest obstacle come season four.In the new season's key art, exclusive to E! News, Lucious (Terrence Howard) and Cookie (Taraji P. Henson) steal the show with their sizzling chemistry. Their tagline? "Power. Couple." 
+
+When Empire makes its epic return this fall, the series will crossover with the network's other Lee Daniels-created musical drama, Star, in a two-hour event. Queen Latifah's Carlotta will find herself in the land of the Lyons during the Empire premiere, with Jussie Smollett's Jamal popping up on Star immediately afterwards. The new season of Empire picks up on the eve of the 20th anniversary of Empire Entertainment, with Lucious set to make his first public appearance since the explosion in Las Vegas, while all the members of the Lyon family, as well as Moore's mysterious Nurse Claudia, have their own interests in Lucious regaining his physical and mental faculties. 
+
+Moore isn't the only famous face appearing in the new season, either. The network recently announced that Academy Award winner Forest Whitaker is joining the cast in a multi-episode arc as Uncle Eddie, the charismatic music icon and bona fide hitmaker who gave an unknown Lucious his first radio airplay. He steps up for Lucious at a crucial moment in his rehabilitation, and a grateful Cookie asks him to produce a song to celebrate the 20th anniversary.Empire returns for season four on Wednesday, Sept. 27 at its new time, 8 p.m., on Fox.
+/n

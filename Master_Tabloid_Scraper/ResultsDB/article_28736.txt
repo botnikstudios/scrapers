@@ -1,0 +1,58 @@
+Land's Emma Stone, Hidden Figures's Taraji P. Henson, Arrival's Amy Adams, Jackie's Natalie Portman, Moonlight's Naomie Harris, 20th Century Women's Annette Bening and Elle's Isabelle Huppert. Diverse in ag.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/811041/5-things-we-learned-from-the-hollywood-reporter-s-2016-actress-roundtable');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161021/rs_634x843-161121132832-THR-Cover.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Hollywood Reporter 2016 Actress Roundtable");
+	var imageCaption = encodeURIComponent("The Hollywood Reporter 2016 Actress Roundtable");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+The Hollywood Reporter
+
+It's a rare moment when you get to hear an Oscar nominee candidly discuss her hopes and fears. It seems all the more rare when there are four of them sitting at a round table together. For The Hollywood Reporter, it's become an annual tradition to gather up Hollywood's most revered A-list female stars and seat them together for an honest and insightful chat about the state of the industry, their buzz-worthy new roles, how they went about tackling them and the lasting effects of such experiences. This year, the magazine's crop of actresses included La La Land's Emma Stone, Hidden Figures's Taraji P. Henson, Arrival's Amy Adams, Jackie's Natalie Portman, Moonlight's Naomie Harris, 20th Century Women's Annette Bening and Elle's Isabelle Huppert. Diverse in age, genre, race and ethnicity, the women offered refreshing insight into the complexities and demands they faced on the job this year. Here are a few things we learned in their excerpted conversation:
+
+1. Amy Adams Doesn't Want to Be Thrown Under the Bus for the Wage Gap ConversationA hot topic in Tinseltown as of late has been the question of what women get paid compared to their male counterparts. While some actresses have been vocal on the subject, others have felt less inclined to publicly weigh in because they feel the questions are misplaced. Adams is among the latter. "Who you should be asking is the Producer Roundtable. 'Do you think minorities are underrepresented? Do you think women are underpaid?'" she told The Hollywood Reporter. "We are always put on the chopping block to put our opinion out there, and that question is never asked. I'm like, 'Why don't you ask them and then have their statements be the headlines in the press?' I don't want to be a headline anymore about pay equality." 
+
+
+
+Kevin Winter/Getty Images
+
+2. Amy Adams Struggled With Paralyzing Stage FrightShe is a five-time Oscar nominee, but even the Arrival actress has had such a battle with butterflies that she almost couldn't perform at all. "I didn't realize how bad it was until I was doing Into the Woods in Central Park, and there would be times where I literally thought I wouldn't be able to walk onstage," she recalled during the conversation."The worst stage fright I ever had was singing alone at the Oscars [a song from Enchanted in 2008]."
+
+3. Naomie Harris Used YouTube to Prep for Her Role as a Drug AddictFor her upcoming performance in Moonlight, the British star had to portray a mother addicted to crack. To prep for the task, she turned to a very simple resource."YouTube. It's my first time discovering any of this, but it's an incredible mine of information. You have people with their camera phones who go down into crack dens and record interviews with people — information that you would never be able to get from any other source," she explained.
+
+4. Isabelle Huppert Used a Coach to Prep for a Rape SceneIn Belle, Huppert's character is raped. To prepare, the French star sought the help of a coach to rehearse the physical requirements of such a scene. "A coach to fall down and to get hit and things like this," she clarified. "But we all know those scenes might be more difficult to watch for the spectator than to do for the actor."
+
+5. Actresses Have Surprisingly Common GoalsWhile they may be world-renowned stars, their list of goals sound surprisingly aligned with most people. For Adams, it's to get a degree in possibly sociology or psychology. For Harris, it's to become a mother. For Bening, it's scuba diving. For Stone, it's to have a family. 
+
+"It's such a crazy, incredible thing," the actress said. "How wild to have children and a family, it's just...very much."Tune in to the full roundtable when it airs on SundanceTV on Jan. 29, 2017.
+/n

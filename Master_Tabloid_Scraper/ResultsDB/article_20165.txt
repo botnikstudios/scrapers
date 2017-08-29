@@ -1,0 +1,50 @@
+Model With Down Syndrome Madeline Stuart Makes Her New York Fashion Week Debut In one of the most exciting moments during New York Fashion Week thus far, 18-year-old Madeline Stuart—who has Down Syndrome and a leaky heart valve—made her runw.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/695470/model-with-down-syndrome-madeline-stuart-makes-her-new-york-fashion-week-debut');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015814/rs_634x1024-150914072723-634.Madeline-Stuart-NYFW-JR-91415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Madeline Stuart");
+	var imageCaption = encodeURIComponent("Madeline Stuart");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chance Yeh/Getty Images
+
+In one of the most exciting moments during New York Fashion Week thus far, 18-year-old Madeline Stuart—who has Down Syndrome and a leaky heart valve—made her runway debut and absolutely killed it!The sweet teenager from Australia conquered the catwalk with ease on Sunday night, strutting her stuff alongside two male models covered in body paint (not too shabby, huh?) as a part of the FTL Moda presentation of international designers at Grand Central's Vanderbilt Hall.The redheaded model donned several awesome outfits, including a gorgeous floor-length ivory gown as well as a multi-colored halter top with shiny purple hot pants. But our favorite look of the evening was a t-shirt Maddy rocked that simply read, "I Am NYFW" on the back, which garnered a roar of cheering from the crowd.
+
+
+
+Chance Yeh/Getty Images
+
+"It was fun," Maddy told the New York Daily News after the show. "I feel good!"Her mother, Rosanne Stuart (who sat front row), added, "She was great! I am so proud. She's pretty cute, isn't she?"The teen's rise to fashion began last year when she first told her mother she wanted to be a model."I don't want to stop Maddy from doing anything," Rosanne explained, so she took Maddy to get professional photos taken shortly thereafter—a collection that went viral on the Internet in May.
+
+After several national campaigns for brands like Manifesta and eco handbag collection everMaya, E! News reported that the teenage model was asked to walk in NYFW for the FTL Moda presentation. The show displayed six international designers and their collections, featuring models with various disabilities as part of the night's theme "Fashion Free from Confines."The brand originally announced the news on their Facebook page writing, "It is with the utmost joy and pride that we announce Madeline Stuart's participation in #FTLModa #NYFW #SS2016 presentation. Beautiful Madeline will brighten up the runway at the #VanderbiltHall on September 13th 2015."We're positive Maddy didn't let them down, and we can't wait to see more from her in the future! Congrats to the beautiful model!
+/n

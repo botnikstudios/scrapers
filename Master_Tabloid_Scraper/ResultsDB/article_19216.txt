@@ -1,0 +1,89 @@
+See the Moment Formerly Conjoined 2-Year-Old Twins Reunite After Separation/n
+
+ 
+Just one week after a 17-hour operation permanently separated them, former conjoined twins Eva and Erika Sandoval have been reunited.
+According to an update from Lucile Packard Children’s Hospital Stanford, the 2-year-old girls were placed side-by-side in the same bed at the Pediatric Intensive Care Unit on Wednesday.
+“It was such a thrill for us to see the girls next to one another again,” the girls mother, Aida Sandoval, said, according to the hospital.
+The Dec. 6 surgery that separated the California girls involved a 50-person team led by surgeon Gary Hartman, M.D.
+Before separation, Erika and Eva were joined from the lower chest and upper abdomen down, according to the release. The girls shared one liver and bladder, as well as two kidneys and three legs. Each child had a separate heart and set of lungs. During the operation, their shared liver, gastrointestinal and urinary tracts were split in two. Their bladder was divided and used to form two, as well as their pelvic bones.
+Erika’s third leg was removed, and skin and muscle from it were used in her reconstruction, according to the hospital. Both girls now have one leg each.
+Lucile Packard Children's Hospital Stanford/AP
+“We set them up so that if everything heals well, they may not need any further surgery,” Dr. Hartman said, adding, “The results are as good as we could have asked for.”
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-f9fb179fa65ea1b65fa2f97afe6f05ce-59a54a4dc0036');
+				var iframe = document.getElementById('wpcom-iframe-f9fb179fa65ea1b65fa2f97afe6f05ce-59a54a4dc0036');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-f9fb179fa65ea1b65fa2f97afe6f05ce-59a54a4dc0036'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+
+Erika and Eva are the seventh pair of conjoined twins separated by Dr. Hartman, and the fifth such operation done at Stanford.
+“It’s amazing how strong these girls are and it’s amazing what their team performed,” Aida said of her daughters, adding, “We know Erika and Eva are bound for great, amazing things.”
+According to Stanford, the girls are both breathing without ventilators and are being monitored regularly. Both are expected to remain in the PICU through at least next Wednesday, and then they will be moved to an acute care unit.
+/n

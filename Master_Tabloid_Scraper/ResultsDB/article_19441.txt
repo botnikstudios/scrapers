@@ -1,0 +1,44 @@
+Philip Seymour Hoffman: A Life in Pictures Hollywood is in a state of shock after the tragic death of Philip Seymour Hoffman.   The Oscar-winning actor was found dead in his New York City apartment on Sunday, Feb. 2, E! News confirmed, after.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/506460/philip-seymour-hoffman-a-life-in-pictures');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201302/634.seymour.cm.1213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Philip Seymour Hoffman");
+	var imageCaption = encodeURIComponent("Philip Seymour Hoffman");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo/The Canadian Press, Nathan Denette
+
+Hollywood is in a state of shock after the tragic death of Philip Seymour Hoffman.  The Oscar-winning actor was found dead in his New York City apartment on Sunday, Feb. 2, E! News confirmed, after the New York Police Department received a 911 call about an unconscious male shortly after 11:30 a.m. in the West Village neighborhood.Hoffman was 46.
+
+"We are devastated by the loss of our beloved Phil and appreciate the outpouring of love and support we have received from everyone," the Moneyball star's family said in a statement obtained by E! News. "This is a tragic and sudden loss and we ask that you respect our privacy during this time of grieving. Please keep Phil in your thoughts and prayers."Police sources said that the actor, who sought treatment for heroin addiction in May 2013, died of an apparent drug overdose. The New York City Medical Examiner will work to determine the exact cause of death.The sudden death of the iconic star is no doubt a massive loss for both the film and stage world, as Hoffman was known for both his work on Broadway and the silver screen.From his role as Plutarch Heavensbee in The Hunger Games films to his Academy Award-winning role in Capote to his public appearance at the 2013 Envision Awards in June, take a look back at the beloved actor's life in pictures.  
+/n

@@ -1,0 +1,45 @@
+Stanley Tucci Welcomes Son With Wife Felicity Blunt—Find Out His Name! Stanley Tucci is a dad again! The Hunger Games actor's wife, Felicity Blunt, gave birth to Matteo Oliver on Jan. 25, E! News confirms. This is Tucci's fourth ch.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/619884/stanley-tucci-welcomes-son-with-wife-felicity-blunt-find-out-his-name');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131012/rs_634x1024-131112133949-634.tucci-uk-premiere-hg-catching-fire.mh.111213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Felicity Blunt, Stanley Tucci");
+	var imageCaption = encodeURIComponent("Felicity Blunt, Stanley Tucci");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Press Association via AP Images
+
+Stanley Tucci is a dad again!The Hunger Games actor's wife, Felicity Blunt, gave birth to Matteo Oliver on Jan. 25, E! News confirms. This is Tucci's fourth child, as he is also dad to daughter Camilla, 12, and twins Nicolo and Isabel, 14, from a previous marriage, but his first wife passed away. The Devil Wears Prada actor originally confirmed the news to People."I believe he is mine. We are all thrilled to welcome him to this cold, cruel world," the 54-year-old star joked to the mag.Jokes aside, the funnyman revealed that everyone is doing well, and they couldn't be happier!"We are all thrilled that he is here and healthy," he added.Before little Matteo was born, however, Tucci didn't really care if their future son was going to be a boy or a girl! He told Us Weekly, "The sex is of no concern to me."
+
+But when he was asked what kind of mother his wife would be, Tucci gushed to the mag, "A great one!"Could they be any cuter?!New baby Tucci should have a bunch of A-list play dates lined up already, as his sister-in-law is actress Emily Blunt! She gave birth to Hazel Krasinski with husband John Krasinski last February, so we're sure little Hazel is itching to meet her new cousin! We're already predicting that these kids are going to have quite the group of famous friends.Both families are very close (Emily and Felicity are sisters!), but it was actually the Into the Woods actress who introduced her literary agent sister to Tucci.The twosome clearly enjoyed the coupling as they were later engaged in November 2011.Fortitude premieres tonight on Pivot at 10 p.m. ET.
+/n

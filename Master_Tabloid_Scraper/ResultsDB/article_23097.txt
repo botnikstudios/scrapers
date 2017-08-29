@@ -1,0 +1,47 @@
+" He is survived by his wife, his children Adam and Julie Nimoy, stepson Aaron Bay Schuck, six grandchildren, one great-grandchild and his brother, Melvin. Our thoughts and prayers are with his family, friends and fans./n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/630401/leonard-nimoy-star-trek-s-spock-dies-at-83');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015127/rs_634x1024-150227092339-634-2leonardo-nimoy.ls.22715_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leonard Nimoy");
+	var imageCaption = encodeURIComponent("Leonard Nimoy");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/WireImage
+
+Leonard Nimoy, best known for playing Spock in Star Trek, died Friday morning. He was 83.His wife, Susan Bay Nimoy, confirmed his passing to the New York Times, citing the cause of death as end-stage chronic obstructive pulmonary disease.He was reportedly hospitalized last week for chest pains, but was tweeting as recently as Monday, when he wrote: "A life is like a garden. Perfect moments can be had, but not preserved, except in memory."  He signed off with his signature, "LLAP [Live Long and Prosper]."
+
+Last year, Nimoy revealed he was battling COPD after pictures surfaced online of him in a wheelchair using an oxygen mask. "I quit smoking 30 years ago. Not soon enough," he tweeted. "Grandpa says, quit now!!"He urged fans to learn from his past mistakes and to stop smoking now. "Smokers, please understand," he wrote. "If you quit after you're diagnosed with lung damage it's too late. Grandpa says learn my lesson. Quit now."At the time, the actor wrote that he was "doing OK," noting, "Just can't walk distances. Love my life, family, friends and followers. LLAP."Nimoy was cast as Spock in the original Star Trek television series in the mid-1960s. He reprised this role through the years. He even took part in J.J. Abrams' 2009 Star Trek reboot,  making a cameo as the older version of Spock, now played by Zachary Quinto. He also appeared in the 2013 follow-up Star Trek Into Darkness.
+
+The Boston-born actor played plenty of non-alien roles throughout his lustrous career as well, including a leading role on TV's Mission: Impossible. He was also a frequent stage performer, director, photographer and poet.He wrote two autobiographies: I Am Not Spock, which was published in 1977, and I Am Spock, published in 1995. In the first, he wrote (as excerpted by the New York Times), "In Spock, I finally found the best of both worlds: to be widely accepted in public approval and yet be able to continue to play the insulated alien through the Vulcan character."He is survived by his wife, his children Adam and Julie Nimoy, stepson Aaron Bay Schuck, six grandchildren, one great-grandchild and his brother, Melvin.Our thoughts and prayers are with his family, friends and fans.
+/n

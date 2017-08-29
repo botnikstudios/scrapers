@@ -1,0 +1,44 @@
+EXCLUSIVE! Real Housewives of Orange County's Shannon Beador Plan to Open a Restaurant Isn't Met With Open Arms by David in This Sneak Peek Shannon Beador may be on a health food kick as she tries to lose weight, but she doesn'.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874885/real-housewives-of-orange-county-s-shannon-beador-plan-to-open-a-restaurant-isn-t-met-with-open-arms-by-david-in-this-sneak-peek');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201755/rs_634x1024-170605094026-634.rhoc-season-12-227.ch.060517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Real Housewives of Orange County, RHOC");
+	var imageCaption = encodeURIComponent("Real Housewives of Orange County, RHOC");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bravo
+
+Before talk about her successful meeting with her new business partner can even happen, the mood is soured when David questions whether Shannon's use of buttermilk to marinate her chicken is all that healthy as he shovels tortilla chips into his mouth. "I can not tell you how frustrating it is when you work to get a meal that's healthy on the table and your husband comes in and tries to cram as many chips in the five minute period before the dinner gets served on the table," Shannon rants in her confessional. (There is something slightly hypnotic about the sound of his chewing, however.)When Shannon does finally tell her family that Chris Bright of Z Pizza fame has agreed to go into business with her as she develops her affordable healthy eating restaurant, her daughters appear to secretly give some of their food to the family dog (while confessing that their mom's healthy cooking is "disgusting" in an interview). As for David? He doesn't seem so sure about his wife's plan.
+
+"The restaurant business can be a brutal business," he tells his wife."You know what, David. This is a very unique concept: affordable healthy eating," she replies. "And we might not make the profit margin that normal restaurants would make.""Well, you have to have profitability to sustain yourself," he replies. And though he's not wrong, that's not exactly what his wife wanted to hear.To see how Shannon responds to what she perceives as a lack of support, check out the clip above and be sure to tune in to E! News at 7 and 11 p.m. for more!The Real Housewives of Orange County airs Mondays at 9 p.m. on Bravo.(E! and Bravo are both part of the NBCUniversal family.)
+/n

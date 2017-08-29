@@ -1,0 +1,46 @@
+Amy Schumer Jokes About Single Life After Ben Hanisch Breakup Amy Schumer can find the funny in anything. Last month, as her press tour for Snatched was winding down, the comedian's rep confirmed to E! News that she had split with furni.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860018/amy-schumer-jokes-about-single-life-after-ben-hanisch-breakup');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201759/rs_634x951-170609051521-rs_634x951-170609051419-GettyImages-694032280.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amy Schumer");
+	var imageCaption = encodeURIComponent("Amy Schumer");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robin Marchant/Getty Images for Hilarity for Charity 
+
+Amy Schumer can find the funny in anything.Last month, as her press tour for Snatched was winding down, the comedian's rep confirmed to E! News that she had split with furniture designer Ben Hanisch, her boyfriend of 18 months; the exes met through a dating app, and Hanisch later left Chicago to live with her in New York City.Until Thursday, neither Schumer nor Hanisch had spoken publicly about the breakup. The comedian joked about being "single in the city"—or, uh, "single in Syria"—while performing at Hilarity for Charity's Third Annual New York City Variety Show, benefitting Alzheimer's research.
+
+"So, we were kind of like—we were a year and a half, you know. It's not that bad, but it's like…We went out with a couple who's been together a long time and we were kind of trying to rush the intimacy. Like, I was trying to impress the girl and I was like, 'Well he woke me up this morning with a fart.' And he just slowly turned to me and he goes, 'Are we doing this?' And I was like, 'No, no, no, no, no, no, no. We're not opening fire. Don't tell me any of the disgusting s--t I've done,'" the Trainwreck star told the crowd. "He was just like, 'I want male confidence.'""Like, I noticed that in him. He had—and I think most men here have it—you have mirror face. It's a face that men only make when they look in the mirror, and they don't make it in their real life. Maybe you know what yours is. Maybe you've seen your man do this, where he's like a normal guy, kind of nice, and then he looks in the mirror and he becomes like a superhero and James Dean. He's just kind of like [making a macho face]. Right?" Schumer said as the crowd laughed in agreement. "You're like, 'Dude, you work in software.' Like, 'Relax, Clint Eastwood.'"
+
+"And then it made me look at my mirror face, which I think a lot of girls here can relate to. I'll just kind of [make a defeated face] and it's just kind of a sweet little, 'Oops! Hand I was dealt!'"Schumer continued to laugh at her life after Hanisch, even joking about a rebound romance. "I'm dating this new dude. He's awesome," she teased. "He's like Stephen Hawking, sexually."—Reporting by Beth Sobol
+/n

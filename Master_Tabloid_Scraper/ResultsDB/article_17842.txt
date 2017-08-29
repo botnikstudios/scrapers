@@ -1,0 +1,48 @@
+EXCLUSIVE! Grey's Anatomy: Callie & Arizona Get Their Happy Ending (for Now) After a year of craziness, including breakups, intercontinental separation and a brutal car accident, Grey's Anatomy is putting on a gala wedding for .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/240121/grey-s-anatomy-callie-arizona-get-their-happy-ending-for-now');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011321/293.greys.2lc.042111.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Grey's Anatomy, Sara Ramirez, Jessica Capshaw");
+	var imageCaption = encodeURIComponent("Grey's Anatomy, Sara Ramirez, Jessica Capshaw");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC/RICHARD CARTWRIGHT
+
+After a year of craziness, including breakups, intercontinental separation and a brutal car accident, Grey's Anatomy is putting on a gala wedding for lovebird doctors Callie Torres (Sara Ramirez) and Arizona Robbins (Jessica Capshaw), who, episode writer  Stacy McKee told us, have "reached a very happy place that we'll hang onto for a while."Of course, the course of TV love never does run smoothly, so we can expect "a little conflict"—but for now the two are in the "magical part." Here's what we can tell you about Callizona's big beautiful day, the "honeymoon stage," plus what's to come for Mark (Eric Dane) and Lexie (Chyler Leigh):
+
+WANT MORE? Follow @JenniferArrow on Twitter
+
+Q&A With Grey's Anatomy Writer Stacy McKee What have you learned from working with Shonda Rhimes for eight years?Well, we had a motto season one, it was called, "No hugging, no crying, no secret pain." Basically, you don't want people to talk about their feelings—you want people to feel their feelings, you want to tell a story that makes the audience feel their feelings. That's the motto of season one and we stuck to that motto for about five seconds so what I've learned is, "Mottoes are useless." [Laughs.] I've learned so much from her, I've grown up on the show. As have all the characters, [they] have grown up on the show too. How did you get the wedding episode?I was assigned actually. I was only supposed to do two episodes this season and then Shonda called me; I was home sick, in fact. And she was like, "Stacy, I would like you to write episode 20." And my heart dropped a little because, oh my god I was so tired—I thought I was kind of done for the season. So I was like, "Episode 20? Really? OK, let me think about it." And she was like, "I would like you to write the lesbian wedding." And I was like, "All right. Fine. You had me at lesbian wedding. I can't not write that—come on, are you kidding?"Do we finally meet Arizona's family?Yes, we meet Arizona's family. She's given a lot of good Arizona speeches about that family.I know she has. Does she get a good speech in this episode?Yeah, she has a really good speech and it talks about her family, in sort of an unexpected way. I think it's a piece of her family she talked about before and it's nice. It's a really nice moment. Is it true you wrote special vows for them?I wrote their vows. They are special TV "I love you" vows, but I did use fairly traditional Catholic vows as a template because that's Callie's background. And it was important to Callie to have a lot of tradition in her wedding. And as you can see there are white dresses and lots of flowers. No white leisure suits here. It's full-on wedding. 
+
+What's the B-story for this episode?Basically in the background, all of the senior residents are realizing that Alex (Justin Chambers) and Meredith (Ellen Pompeo) are the front-runners for chief resident and everyone, in their own way, is trying to step up their game. Jackson's (Jesse Williams) working with the Chief (James Pickens Jr.), and by the end of the episode...everyone's a little bent out of shape about that. I'd say by the end of the episode the playing field has been leveled. What do we see of Alex Karev in this episode?I adore him and, to me, he's this great character—he's kind of a douche with a heart of gold. His heart is always in the right place. Even though it comes out in all the wrong ways and at the end of the day, which does apply to this episode, he's always honest. Even if it means being a jerk, he's always honest and that plays a big role in this episode—the fact that he is at heart a truth teller, and he's surprised that someone else isn't. What about April (Sarah Drew) and Dr. Stark (Peter MacNicol)?Stark has a really wonderful turn in this episode. Are Callie and Arizona's problems over forever after the wedding?Forever? I hope not. I mean I want them to stay on the show, and you can't have two amazing characters without throwing a little conflict in there. But right now they have reached a very happy place that I think we'll hang onto for a while. They've been through an awful lot this season, and it gets even worse soon, so this is sort of the happy ending, to all of that. This is the magical part and they'll get to be in the honeymoon stage for awhile. What about Mark and Lexie? Is love enough for them to be together, or do they have too many larger problems?Is love enough? Well, I don't know. That's tough. I don't know. I have no answer for that, that's too philosophical for me. Do they love each other? Well, I think that's pretty obvious, they do. It doesn't necessarily mean that—kind of like ships passing in the night, who knows if they'll be able to find their way back to each other...Just because you love someone it doesn't mean it's meant to be and it doesn't mean that you're always on the right page at the right time. They can keep yearning.The yearning is the fun part. The push and the pull, and "I'm available and you're not." Oh, how did that happen? I love that stuff.________The Grey's Anatomy wedding episode airs Thursday night at 9 p.m. on ABC.
+/n

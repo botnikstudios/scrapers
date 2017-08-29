@@ -1,0 +1,44 @@
+Tonight, "Yes, my wife is [pregnant]. I can't take all the credit." Helberg's actress love, 37, was pregnant at the 2012 SAG Awards with daughter Adeline, who was born that May. "Every time I come to the SAG Awards t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/501744/big-bang-theory-s-simon-helberg-expecting-second-child-with-wife-jocelyn-towne');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014021/rs_634x1024-140121083610-634.Simon-Helberg-Jocelyn-Towne.ls.12114_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Simon Helberg, Jocelyn Towne");
+	var imageCaption = encodeURIComponent("Simon Helberg, Jocelyn Towne");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frederick M. Brown/Getty Images
+
+There's a Big Bang Theory baby on the way—and no, it's not Kaley Cuoco's.But Simon Helberg, who plays Howard on the CBS show, and wife Jocelyn Towne are expecting their second child!  The 33-year-old actor confirmed the exciting news before the SAG Awards Saturday, telling Entertainment Tonight, "Yes, my wife is [pregnant]. I can't take all the credit."Helberg's actress love, 37, was pregnant at the 2012 SAG Awards with daughter Adeline, who was born that May. "Every time I come to the SAG Awards there's something about this night...About 8 months before [the SAG Awards] I get really the urge, I feel the romance," Helberg joked, "and then we get nominated so it's hand in hand."
+
+The Big Bang Theory didn't take home the award for Outstanding Performance by an Ensemble in a Comedy series (Modern Family nabbed that one up), but Helberg clearly has a lot to be happy about in his home life.In 2013, he gushed to TVFanatic.com about becoming a dad for the first time, saying, "it's just every day there's something completely new and amazing and you're watching sort of mirrored evolution in some way. It's actually pretty incredible. You're just watching this little, tiny blob become a person…it's an amazing time."Aww! Congrats to Helberg and Towne on their happy baby news.
+/n

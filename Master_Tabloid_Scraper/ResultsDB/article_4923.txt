@@ -1,0 +1,57 @@
+Lydia Hearst Gets Naked—See the Pics! Lydia Hearst isn't shy about taking her clothes off. The publishing heiress is showing off her naked bod in the new issue of Treats magazine. The circus-theme spread not only features Hearst topless.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/631651/lydia-hearst-gets-naked-see-the-pics');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201523/rs_634x801-150303090501-treats-magazine-lydia-hearst-tony-duran-9.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lydia Hearst, Treats");
+	var imageCaption = encodeURIComponent("Lydia Hearst, Treats");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tony Duran for Treats! 
+
+Lydia Hearst isn't shy about taking her clothes off.The publishing heiress is showing off her naked bod in the new issue of Treats magazine.The circus-theme spread not only features Hearst topless, but she actually goes full frontal for some of the pics.In one photo, Hearst poses as if she's being shot out of a canon. In another, she lays across a carousel horse. One of the more provocative stills shows Hearst lying naked (except for a pair of shoes and striped knee-high socks) in the lap of a large clown sculpture."I honestly think it's ridiculous that women aren't allowed to show nipples," Hearst says in the magazine. "They're not vulgar. Men have nipples too! I don't see why it's considered more acceptable to show a man's than a woman's. It's shocking that in this day and age there's still a double standard."
+
+
+
+
+Tony Duran for Treats! 
+
+Hearst, who dates Nerdist guru Chris Hardwick, not only models (her agency is DT Model Management), but she has also jumped into the acting pool. She has three indie films in the can, including Condemned, a horror film costarring Dylan Penn.Hearst plays a drug addict who becomes a crazed killer after she is infected with a mysterious disease."A complete junkie," she said. "Every day I'd get nicotine stains painted on my teeth and track marks. I was just completely hollowed out and grotesque and it was so beautiful and amazing."
+
+
+
+
+Tony Duran for Treats! 
+
+She counts Cameron Diaz, Halle Berry and Milla Jovovich among her role models."They all sort of came from a background of fashion and successfully transitioned into being full-time actresses yet they haven't entirely left the fashion industry behind," Hearst explained. "They're still doing the editorials and campaigns and endorsements and you still occasionally see them on the runway shows. So I'm not planning to leave fashion behind. Acting is my passion but it's so much fun to be creative and breathe life into a moment whether it's a still photograph or the characters that you're playing on film."
+/n

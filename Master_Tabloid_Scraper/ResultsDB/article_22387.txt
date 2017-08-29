@@ -1,0 +1,52 @@
+Weasleys Forever! Harry Potter Stars Rupert Grint and Bonnie Wright Reunite at Snatch Premiere In fact, just last week, Matthew Lewis and Tom Felton (a.k.a. Neville Longbottom and Draco Malfoy) attended the premiere of Beauty and the Beast i.../n
+Rupert Grint, otherwise known as Ron Weasley (and Ed Sheeran's doppleganger), had a magical reunion last night with former co-star Bonnie Wright.Bonnie, who played Ron's younger sister Ginny in the Harry Potter franchise, came to show support for her on-screen big bro, who was celebrating his new show, Snatch, which premiered at Arclight Cinemas in Culver City, Calif. The two re-united at the after party, almost six years after the release of the last Harry Potter film, Harry Potter and the Deathly Hallows.Even though it's been awhile since they last walked the halls at Hogwarts, the Harry Potter alums remain close friends.After all this time? Always.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/835278/weasleys-forever-harry-potter-stars-rupert-grint-and-bonnie-wright-reunite-at-snatch-premiere');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017210/rs_722x1024-170310112200-634.Bonnie-Wright-Rupert-Grint.ms.031017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent(" Bonnie Wright, Rupert Grint");
+	var imageCaption = encodeURIComponent(" Bonnie Wright, Rupert Grint");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Todd Williamson/Getty Images
+
+In fact, just last week, Matthew Lewis and Tom Felton (a.k.a. Neville Longbottom and Draco Malfoy) attended the premiere of Beauty and the Beast in support of Emma Watson, who played Hermione Granger, and this reunion between Lucius Malfoy (played by Jason Isaacs), Neville and Draco even drew a response from Harry Potter author J.K. Rowling.Grint's new show, Snatch, is loosely based on the Guy Ritchie film of the same name, inspired by the true story of a heist that took place in London.
+
+
+
+Crackle
+
+The show follows a group of young hustlers who, through a bizarre twist of fate, find themselves in the world of organized crime, faced with local villains, rogue cops and international mob bosses.Grint also serves as executive producer on the show, as well as stars as the "utterly posh" con-man Charlie Cavendish in his first starring TV role.
+
+Ron Weasley isn't the only familiar face you can expect to see on Snatch either! Stars like Skins' Luke Pasqualino, Scream Queens' Lucien Laviscount and Gossip Girl's Ed Westwick all star in the show too. We solemnly swear they are up to no good.Snatch premieres on Crackle later this month.
+/n

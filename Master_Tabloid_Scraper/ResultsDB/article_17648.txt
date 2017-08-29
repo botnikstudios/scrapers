@@ -1,0 +1,43 @@
+Varsity Blues Actor Ron Lester Dead at Age 45 Ron Lester, who played Billy Bob in the 1999 flick Varsity Blues, has passed away at the age of 45. His agent Dave Bradley confirmed to Entertainment Weekly that the actor died Friday evening of .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/773792/varsity-blues-actor-ron-lester-dead-at-age-45');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016517/rs_634x1024-160617211405-634.ron-lester-varsity-blues.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ron Lester");
+	var imageCaption = encodeURIComponent("Ron Lester");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Ron Lester, who played Billy Bob in the 1999 flick Varsity Blues, has passed away at the age of 45.His agent Dave Bradley confirmed to Entertainment Weekly that the actor died Friday evening of liver and kidney failure.Earlier today, Lester was transported from an intensive care unit at a Dallas-area hospital into hospice care, according to the magazine.Lester got his start in Hollywood back in 1997 when he had a part in the Nickelodeon hit Good Burger shortly before Varsity Blues.
+
+In an interview with Movieweb just four months ago, Lester opened up about why the role of Billy Bob was near and dear to his heart."I had the same feelings that my character had. Jon Voight is like a father figure to me and after doing this movie, he's just the greatest mentor I had," he explained."There were times, like in those scenes where he was chewing me out, I allowed the emotion to come out, because it was real. The only thing I really had to act was the lines."Lester was previously hospitalized back in November 2015 for liver and kidney issues and had been struggling with his health in recent months.Our thoughts go out to his family and friends during this difficult time.
+/n

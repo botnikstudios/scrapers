@@ -1,0 +1,42 @@
+our TV screens a lot more often. "Tina Fey has been an enormous success for us," said David Greenberg, President of Maybelline New York, Garnier and essie. "Tina's personality, beauty and approachability resonate with our.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/533411/tina-fey-named-new-face-of-garnier-skincare');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014318/rs_634x749-140418090855-634.Tina-Fey-Garnier-Campaign.jl.041814_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tina Fey, Garnier Skincare");
+	var imageCaption = encodeURIComponent("Tina Fey, Garnier Skincare");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Garnier Skincare
+
+We love to get our daily dose of Tina Fey in any form, so here's some happy news: L'Oréal USA has just named Tina as its new spokesperson for Garnier's Ultra-Lift skin care line.Our favorite funny lady has been the face of Garnier's Nutrisse hair color since 2011, and now with this new skin care gig, it looks like Tina will be popping up on our TV screens a lot more often."Tina Fey has been an enormous success for us," said David Greenberg, President of Maybelline New York, Garnier and essie. "Tina's personality, beauty and approachability resonate with our consumer and we are thrilled to keep her in the Garnier family."The print ads will start to roll out this month, and we're not surprised Tina has been such a great success for the company. We can't think of anyone more down-to-earth, humble and hilarious than Ms. Fey. Not to mention, she's got some seriously enviable skin.We'd say this is a match made in endorsement heaven.
+/n

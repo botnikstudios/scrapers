@@ -1,0 +1,46 @@
+Maria Bello Joins NCIS Season 15 as a Series Regular Meet your new agent. Maria Bello has joined the cast of NCIS as a series regular in its 15th season, CBS announced on Thursday. According to the network, Bello is set to play an agent who .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869737/maria-bello-joins-ncis-season-15-as-a-series-regular');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017021/rs_634x1024-170121132328-rs_634x1024-170121115006-634.maria-33bello.cm.11716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Womens March, Maria Bello");
+	var imageCaption = encodeURIComponent("Womens March, Maria Bello");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+George Pimentel/Getty Images
+
+Meet your new agent.Maria Bello has joined the cast of NCIS as a series regular in its 15th season, CBS announced on Thursday.According to the network, Bello is set to play an agent who joined NCIS after serving two tours in Afghanistan, and has become the agency's premier forensic psychologist.Unlike the other agents, viewers can expect to see her character "second guess and challenge" Gibbs (Mark Harmon), and while there's some friction between them, there's also mutual respect. Expect to see her as a "positive force" within the team, but Bello's character is also described as "mischievous and at times acerbic."
+
+ "We have always been big fans of Maria Bello's work and are excited to be introducing her as an agent who not only has a distinct talent, but also a unique relationship with Gibbs," NCIS executive producers George Schenck and Frank Cardea said in a statement.Prior to joining NCIS, Bello appeared on Amazon's Goliath after starring in the short-lived Prime Suspect revival for NBC in 2012. Her film roles include Lights Out, World Trade Center and A History of Violence, which earned her a Golden Globe nomination.
+
+NCIS returns Tuesday, Sept. 26 at 8 p.m. on CBS.
+/n

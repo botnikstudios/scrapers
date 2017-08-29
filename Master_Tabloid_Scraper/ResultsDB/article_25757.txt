@@ -1,0 +1,54 @@
+BREAKING! Shirley Temple Dead at 85 Shirley Temple, one of the most iconic child stars of the 20th century, passed away Monday. She was 85. She died of natural causes at her home in Woodside, Calif., her rep confirms to E! News. According to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/509499/shirley-temple-dead-at-85');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014111/rs_634x1024-140211041620-634-Shirley-Temple-JLR-2114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Shirley Temple");
+	var imageCaption = encodeURIComponent("Shirley Temple");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+KMazur/WireImage for Turner
+
+Shirley Temple, one of the most iconic child stars of the 20th century, passed away Monday. She was 85. She died of natural causes at her home in Woodside, Calif., her rep confirms to E! News.According to Temple's rep, the actress "was surrounded by her family and caregivers" at the time of her death. "We salute her for a life of remarkable achievements as an actor, as a diplomat, and most importantly as our beloved mother, grandmother, great-grandmother and adored wife of 45 years," a statement reads. "We ask that our family be given the opportunity at this time of loss to grieve privately."Born Apr. 23, 1928, in Santa Monica, Calif., Temple got her start in show business at age 3, performing in a series of one-reel spoofs called Baby Burlesks for $10 per day. Six years later, 20th Century Fox signed the curly-haired cutie to a seven-year contract that paid her $150 per week. Within months, her salary was increased to $1,250 a week. The movie Bright Eyes was created with Temple in mind, and the film featured her now signature song, "On the Good Ship Lollipop." Temple went on to star in many more family-friendly films, including Baby Take a Bow, Curly Top, Heidi and Stand Up and Cheer!.
+
+Between 1935 and 1938, Temple was America's top box-office draw, and was often credited with saving 20th Century Fox from bankruptcy. The actress won a special Academy Award in early 1935 for her "outstanding contribution to screen entertainment" in the year prior. At the height of Temple's fame, President Franklin D. Roosevelt called her "Little Miss Miracle" for raising the nation's morale during the depression era. "As long as our country has Shirley Temple," he said, "we will be all right."Temple has a drink named after her, a non-alcoholic cocktail blend of ginger ale and grenadine, topped with a maraschino cherry. The star's popularity waned in her teens, and she retired from films at 21.
+
+
+
+Popperfoto/Getty Images
+
+Temple married Army Air Corps private John Agar, the brother of a former classmate, in 1945. He took up acting and the spouses appeared together in two films, Fort Apache and Adventure in Baltimore. They welcomed a daughter, Susan, in 1948, and Temple filed for divorce in 1949.She married Charles Alden Black in 1950. They welcomed son Charles Jr. in 1952 and daughter Lori in 1954. Their marriage lasted until the Black's death from myelodysplastic syndrome in 2005 at age 86.Temple unsuccessfully ran for Congress as a Republican in 1967. Five years later, she underwent successful surgery for breast cancer and urged women to get mammograms. At the time, she told the press, "I have much more to accomplish before I am through." In 1974, Temple was appointed as America's ambassador to Ghana. In 1988, Temple was selected as the first honorary Foreign Service officer of the United States. From 1989 to 1992, she also served as an ambassador to Czechoslovakia.
+
+PHOTOS: Mysterious Hollywood deaths
+
+Her 1988 autobiography, Child Star, became a best-seller. During a 1996 interview, she said she loved both politics and show business equally. "It's certainly two different career tracks," Temple explained, adding that they are "both completely different but both very rewarding, personally."When she was honored by the Screen Actors Guild in 2006, Temple memorably quipped, "I have one piece of advice for those of you who want to receive the lifetime achievement award: Start early!"Private funeral arrangements are pending and a remembrance guest book will be opened shortly at www.shirleytemple.com, the family said in a statement.
+/n

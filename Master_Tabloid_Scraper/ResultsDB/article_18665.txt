@@ -1,0 +1,46 @@
+librarian in the front and Game of Thrones twists and braids in the back updo, start by applying a volume-building, heat-protecting spray like John Frieda Luxurious Volume Fine to Full Blow-Out Spray. Then, blow out hair with a large-barrel .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/521884/cobie-smulders-looks-like-a-naughty-librarian-and-we-love-it');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014217/rs_634x1024-140317122209-634.cobie-smulders-paleyfest.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cobie Smulders");
+	var imageCaption = encodeURIComponent("Cobie Smulders");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Parry/Paley Center for Media
+
+When we saw photos of Cobie Smulders from this weekend at the PaleyFest "How I Met Your Mother" Series farewell, our first thought was, "Wow, her makeup looks good," and our second thought was, "She should be wearing little black glasses."The How I Met Your Mother star's side-parted updo shed all risk of being matronly by adding volume at the crown and twisted braids on the side. But what really got us wanting to check out a book was the beautiful brunette's chic makeup.Ladies, if you have blue eyes like Cobie, take note: shimmering bronze eye shadow made her blue eyes sparkle. We also loved Ms. Smulders' creamy orangey coral lip – an "it" color for spring and ultra-flattering against the actress's fair skin and dark hair.Get the Look: To get Cobie's sexy librarian in the front and Game of Thrones twists and braids in the back updo, start by applying a volume-building, heat-protecting spray like John Frieda Luxurious Volume Fine to Full Blow-Out Spray. Then, blow out hair with a large-barrel round brush.
+
+Once hair is dry, part it on the side and separate into two sections. Then, create a third section at the back of the crown of the head and clip to hold. Take the back section and twist and pin into a messy bun.Next, on each side of the head create a small loose braid starting right above the ear. Twist the braids back and wrap around the bun and pin. Then, stick the pointed end of a teasing comb into the hair at front of the crown and lift up to create volume. Finish by spraying hair all over with a flexible-hold hairspray.To get Cobie's minimally-chic makeup, start by prepping your face with a primer like Jane Iredale Smooth Affair Facial Primer & Brightener, which will give your skin a "lit from within" look.Follow by applying your usual BB cream or foundation, then tap on concealer under eyes with either your fingertip or a concealer brush. Tip: NEVER rub or pull the delicate area under the eye. Always use a tapping motion when applying concealer or eye cream.Add a natural-looking flush to your cheeks by applying a shimmering peachy pink blush like Tarte Amazonian Clay 12-Hour Blush in Glisten to the apples of your cheeks with a domed blush brush in a circular motion. Tip: To add extra lift to your face, pull brush from the apples of your cheeks upwards towards your temples.
+
+For Cobie's gilded eye makeup, first apply a matte ivory eye shadow your entire upper eye area. Then, brush your eyelids with a shimmering peachy bronze powder eye shadow like MAC Cosmetics Eye Shadow in Amber Lights.Using an eyeliner brush dipped in the bronze eye shadow, line your lower lash lines and blend with a smudger or your fingertip. Complete your eye makeup by applying two to three coats of your favorite volume-building mascara.To get Cobie's pretty pout, first exfoliate lips with a sugar scrub or your toothbrush. Then, line and fill entire lip area with a neutral lip liner or one that matches your lipstick color.Next, apply a highly pigmented, long-lasting orangey coral lipstick like Marc Jacobs Beauty Lovemarc Lip Gel in 122 All the Way.We're really going to miss Cobie on How I Met Your Mother, but if this red carpet look is any prediction, this natural beauty is going to continue to impress us for the years to come. We do hope though that the next time she rocks this sexy scholarly look, she'll kick it up a notch with some glasses sitting at the tip of her nose and a pencil tucked behind one ear.
+/n

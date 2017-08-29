@@ -1,0 +1,48 @@
+She dyed her hair dark brown in spring 2016 and later debuted a short, platinum 'do—a lighter, shorter version of a style she rocked in late 2013. Julius Michael / Instagram Jenny McCarthy The TV and radio personality debuted a new.../n
+The latest buzz in Hollywood is all about a buzz cut.Kate Hudson has shaved her trademark tresses in preparation for her latest project with Sia. The 38-year-old actress was photographed in L.A. Tuesday on the set of the mysterious shoot. Hudson recently hinted that she will be dancing in the project, as she snapped a selfie at a dance studio on July 13, which showed her posing with dancer-turned-actress Maddie Ziegler."Dance rehearsal with this bundle of excellence," Hudson wrote in the caption. Sia is also involved in the project, and the singer has been spotted on set in L.A. without her famous wig.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869342/kate-hudson-shaves-her-head-for-mystery-project-with-sia');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017626/rs_634x1024-170726044451-634.Kate-Hudson-Shaved-Head-JR-072617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Hudson");
+	var imageCaption = encodeURIComponent("Kate Hudson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+W Blanco / BACKGRID
+
+Hudson was last seen in public with shoulder-length blond hair on Sunday, when she joined boyfriend Danny Fujikawa for a lunch date in L.A. Some fans believe she wore a wig, as her hair has either been obscured or cut out of the photos she's shared on social media in recent weeks.The Golden Globe winner has not publicly commented on her recent haircut.Last year, the actress got a bob haircut in preparation for another role. "In May I start shooting the Richard Pryor project. I'm supposed to have short hair and I wanted to get used to it. So, I thought, 'I'm just going to chop it off so that I have a couple months to sort of get used to it and see how I feel,'" Hudson told InStyle in May 2016. "Then we'll see what else is going to happen."In addition to Hudson, people like Cara Delevingne have recently shaved their heads for roles. Here's a look at other stars who've undergone epic hair transformations over the years:
+
+What do you think of Hudson's latest look? Sound off in the comments.
+
+Tune in to Daily Pop today at noon and E! News tonight at 7 and 11, only on E!
+/n

@@ -1,0 +1,50 @@
+Maria Menounos Diagnosed With a Brain Tumor as Her Mom Is Fighting Stage 4 Brain Cancer Maria Menounos is on the mend. The E! News anchor underwent a seven-hour surgery to remove a brain tumor the size of a golf ball. The tumor, a benign men.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864682/maria-menounos-diagnosed-with-a-brain-tumor-as-her-mom-is-fighting-stage-4-brain-cancer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201763/rs_634x845-170703040538-634.maria-menounos-people-brain-tumor.7217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maria Menounos, People");
+	var imageCaption = encodeURIComponent("Maria Menounos, People");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of People
+
+Maria Menounos is on the mend.The E! News anchor underwent a seven-hour surgery to remove a brain tumor the size of a golf ball. The tumor, a benign meningioma, was successfully removed but could return; her mother, Litsa Menounos, is currently fighting stage 4 brain cancer. "This February I thought I had an ear infection so I went to a doctor, and he said, 'Your ears are the cleanest things I've ever seen. What else are you feeling?' I'd been getting light-headed on-set and having headaches. My speech had gotten slurred, and I was having difficulty reading the teleprompter. I said, 'I know you're going to think I'm crazy, but I think I have a brain tumor like my mom.' He said, 'I don't think you're crazy. Let's just get an MRI,'" she tells People (on newsstands this week). "The next week I started feeling better, so I was like, 'I'm clearly paranoid.' So I kept pushing the MRI."In April, Maria had the scan and later learned she had a brain tumor called a meningioma. "I didn't cry. I actually laughed," she tells the magazine. "At that point, it was like, 'This is a joke." Maria told her parents about her diagnosis days before undergoing surgery. "Both of them just welled up," she recalls. "They were just in shock, but we kept reassuring them it would be fine."
+
+
+
+Mary Ellen Matthews/ E! Entertainment
+
+Maria stayed in the hospital for six days after her surgery. "It looks like he got 99.9 percent of it," she says. Keith L. Black, a neurosurgeon at L.A.'s Cedars-Sinai Medical Center, said there's a 6 to 7 percent chance her tumor will return—"but I'll take those odds any day," she tells People.The 39-year-old E! News host adds that her 62-year-old mother has "never cried" over their double diagnoses. "She's always been positive." And Maria says Litsa's latest scan shows her cancer appears "to be shrinking. The report says 'stable,' but when you measure it, it's smaller."Maria—who scheduled the surgery on June 8, her 39th birthday—hopes that sharing her story will help others. "My perspective on life is completely different now. I feel like I have to find my real purpose." Like her mother, she's doing her best to stay positive. "This was a blessing. A lot of beautiful things have come from this," Maria says, adding, "I saw all of this as a gift from the beginning. I tell people all the time if your car is making a weird noise, you take it to the mechanic. How come when our body is making weird noises, we ignore it? I'm so lucky that I went to the doctor and raised the alarm," she says. "Who knows what could have happened?"
+
+With support from her fiancé Keven Undergaro, Maria is now recovering     quietly at home. "I don't have my balance fully yet but as long as I'm holding on to Keven, I'm sturdy and fine," Maria tells the magazine. "My face is still numb. This is something that takes at least a month of healing, but I'm getting stronger and stronger every day and I'll be back to normal very soon."For more from Maria, pick up the July 17 issue of People, on newsstands this week.
+/n

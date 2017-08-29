@@ -1,0 +1,48 @@
+EXCLUSIVE! Debra Messing Is Officially Divorced From Daniel Zelman After filing for divorce nearly four years ago, Debra Messing can officially say she's a single lady.  E! News has learned that the Mysteries of Laura actress' divorce from her former.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/745361/debra-messing-is-officially-divorced-from-former-husband-daniel-zelman');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201622/rs_634x988-160302112807-634-debra-messing-daniel-zelman-030216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Debra Messing, Daniel Zelman ");
+	var imageCaption = encodeURIComponent("Debra Messing, Daniel Zelman ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stephen Lovekin/Getty Images for IMG
+
+After filing for divorce nearly four years ago, Debra Messing can officially say she's a single lady. E! News has learned that the Mysteries of Laura actress' divorce from her former husband Daniel Zelman became official Tuesday.  Messing filed for divorce from Zelman in June 2012. However, at the time, E! News learned from the documents filed that she and Zelman had separated two years prior in February 2010, but had still been living together in New York.They first laid eyes on each other at New York University as graduate students in 1990 and wed 10 years later on Sept. 3, 2000. The couple shares one child, 11-year-old son Roman Walker. At the time of the filing, the actress requested spousal and child support. 
+
+
+
+Jennifer Cooper, E!
+
+"I am at peace with the journey we've had.  I feel like the 20 years we had together has been a huge success," she told Ladies Home Journal at the time. "Despite the fact that everything is changing, I think everyone is thriving."Since separating from Zelman, Messing found romance with Will Chase, whom she met on the set of her former ABC drama Smash. While the relationship lasted for nearly three years, constant filming far away from each other eventually caused them to part ways.  For now, Messing is riding solo. "She is not dating anyone at the moment," a source tells E! News. "[She is] just really focusing on her show and hoping it gets renewed."—Reporting by Baker Machado
+/n

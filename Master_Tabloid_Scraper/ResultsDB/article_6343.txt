@@ -1,0 +1,50 @@
+Miley Cyrus Says She Was Underpaid on Hannah Montana Hannah Montana wasn't the only one living a double life—Miley Cyrus was, too, in a way. Excerpts from her Elle cover story were released Sept. 12, and on Tuesday, the magazine release.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/798192/miley-cyrus-says-she-was-underpaid-on-hannah-montana');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016812/rs_634x799-160912085619-634.miley.91216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus, Elle");
+	var imageCaption = encodeURIComponent("Miley Cyrus, Elle");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Terry Tsiolis for ELLE
+
+Hannah Montana wasn't the only one living a double life—Miley Cyrus was, too, in a way.Excerpts from her Elle cover story were released Sept. 12, and on Tuesday, the magazine released the rest of her interview. For four seasons, Miley played the titular character on Hannah Montana—a normal girl by day, a singer by night—until the hit Disney Channel series came to an end in 2011. Miley's father, musician-turned-actor Billy Ray Cyrus, played her character's father, Robby Stewart. When the show premiered, Miley felt like her dreams had come true. It wasn't until later, however, that her dream began to feel more like a nightmare."I did not grow up spoiled in any way. I just wanted to be on TV. I mean, at one point—they'll probably kill me for saying it—I was probably the least paid person on my cast because I didn't know any better," the actress recalls. "I was just like, 'I can be on Disney! Yeah, I want to do it!'"
+
+Though Billy Ray was technically "in the industry," she says, "He so wasn't." Miley's desire to be on TV and her parents' naiveté ultimately ruined the entire experience. "My name was Miley on my show, but I didn't own my name—we didn't think about that. Like, 'Yeah, you can use my name on your show, sure!' My mom started understanding how many people take advantage of a child, so she hired smart people to protect me in that way. I'm happy that when I was younger, people protected me and put me in a position where I can now control my music."Hannah Montana made Miley the most famous teenager in the world, and the world watched and judged her as she figured out who she wanted to become. "When I look at my little sister, who's 16, I don't judge her for anything she does because I remember where I was at that time. I was such an emotional person—I'm still such an emotional person—but I was trying to find out who I was," she says in hindsight. "You go through these stages, especially in our industry."Even in his heyday, Billy Ray never reached Miley's level of fame. So, despite his best efforts to empathize, he couldn't fully understand how hard it was for her to be under constant scrutiny. "Paparazzi always made me really uncomfortable. You're growing up and you look weird sometimes. My zits were all crazy; I've gone through some hair trauma," Miley says. "That's how I started sticking out my tongue in pictures. Because I hate everyone being so serious."
+
+
+
+Terry Tsiolis for ELLE
+
+Finding her identity as people projected their own ideas about who she was—and who she should be—only complicated matters. "When we were that age, we so thought we knew who we were. When people say you're going to be so different at 22 or 23, when you're 16, you're like, 'I'm so not!' And then you change drastically," she says. "But when you're younger, you're more selfish, because there's so much self-exploration, you're in your own mind. I didn't think about the meat I was eating. I would wear leather. I would wear fur. I was just uneducated."Today, the "Dooo It!" singer and Voice coach sees the world—and her purpose in it—from a different perspective. "I was watching this documentary about dragonflies—they go from this crunchy little larva to this crazy dragonfly. So why can't we do that? If we're so smart and so much better than all the animals, and man rules the world, why can't we just change all the time from, like, a caterpillar to a butterfly?" she asks Elle. "I just don't think I'm doing enough—which everyone around me would kill me for saying, because I definitely can take it too far."
+/n

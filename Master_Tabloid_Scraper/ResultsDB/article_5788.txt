@@ -1,0 +1,44 @@
+Lake Bell Reveals Her Second Child Is a Boy—and He's Named Ozzy/n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874071/lake-bell-reveals-her-second-child-is-a-boy-and-he-s-named-ozzy');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017717/rs_634x951-170817115307-634.lake-bell.81717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lake Bell");
+	var imageCaption = encodeURIComponent("Lake Bell");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Randy Holmes/ABC
+
+"She's having some trouble. She plays with the baby dolls and stuff, so I thought it was going to be a shoo-in—like a real, live baby doll," said the 38-year-old actress, who wrote, directed and starred in the upcoming comedy I Do...Until I Don't (out Sept. 1). "She's having trouble with it.""Her main thing is she just wants screen time, because we haven't done that yet. We're going to do it; it's part of the thing, right? She's going to get there. I'm not that new age. I understand it exists. Maybe for her third birthday she can have, like, two minutes on it. I don't know; I'm a terrible mother. Very strict!" Lake joked. "But because she loves our phone so much, we got her a play phone. We were at Rite-Aid or something, and we were like, 'Oh, there's a play phone; let's just get it. She won't play with ours.' We took it out of the packaging, she's in her car seat, and I heard her talking to some guy named Mark. She was like, 'Hey, Mark comma how are you today, Mark?' I all of a sudden realized...'Who are you talking to?' She's like, 'Question Mark.' And I was like, 'Who is Question—ohh.' We always do the dictation. 'Honey, I'll be there. Are you OK question mark?' 'It looks like I'm running late comma can you prepare dinner period.'"
+
+Since becoming a mother of two, Lake said her life has changed "so vastly.""When you have one kid, you think it's really hard," she said. Now, "You're in the big leagues."It's been an adjustment for Lake and Scott. "There's so much wrangling and so many logistics. Your marriage turns into just a logistics conversation. The other day—and I promise this is without hyperbole; this really happened—we were going through our schedules," she told Jimmy. "So, we really made a moment in our schedule to plan our schedule. That happened..."
+/n

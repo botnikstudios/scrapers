@@ -1,0 +1,46 @@
+Food Network Star Alton Brown Goes Off in This New York Times Interview and Shatters Our Dreams of Ever Having a Cooking Show Do you consider yourself a foodie and an excellent chef who would make the perfect star of the next big cooking sho.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/692705/food-network-star-alton-brown-goes-off-in-this-new-york-times-interview-and-shatters-our-dreams-of-ever-having-a-cooking-show');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201583/rs_634x1024-150903121210-634.Alton-Brown.ms.090315.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alton Brown");
+	var imageCaption = encodeURIComponent("Alton Brown");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chelsea Lauren/WireImage
+
+Do you consider yourself a foodie and an excellent chef who would make the perfect star of the next big cooking show? Well, think again. Food Network's Alton Brown is here to shatter your dreams.In a recent interview with The New York Times, the Cutthroat Kitchen host was asked to explain the difference between being a real chef and being a Food Network star, and he couldn't help but go off in, well, cutthroat fashion."It's funny. On Food Network Star, I got so tired of hearing people tell me that the reason they should have their own show is that they love food so much. Well, so freaking what?" he fumes. "I love food. We all love food. If we don't, we die. Even supermodels in New York secretly love food. That doesn't make you special. People who want to be stars often make the mistake of thinking that it does, and that if they can just show you how much they love it, they will somehow become compelling. This is not the case."He adds, "At best, love [for food] is the gasoline. It's not the car."
+
+Brown also brings the realness when he gets to chatting about obesity in America and the importance of self-reliance and responsibility when it comes to that topic."I get that there are people who can only afford to fill their stomachs with bad, cheap food. But I do think that most of us need to actually take responsibility for what we're putting in our mouths."He continues, "Obesity is not a disease. Can it be caused by diseases in certain rare cases? Yes, but the second that our society starts thinking that shoveling Big Macs into our face is a disease then we're done, we're done as a culture."
+
+Brown's cynical demeanor seems to be a trend as of late. He was recently quoted in People magazine throwing some shade at celebrity chef Anthony Bourdain.The No Reservations host had made headlines for shooting down a few other chefs in the industry, so Brown decided to come back at him with an easy burn: "When was the last time you saw Anthony Bourdain actually cook anything? I've spent 14 years cooking my own food on television and I've never seen him cook a meal."One theme definitely seems to be clear here: we are all less than Alton Brown.
+/n

@@ -1,0 +1,44 @@
+Princess Beatrice's Twitter Account Is Verified—Check Out the Royal's First Official Tweet! Twitter has a new verified and official royal addition: Princess Beatrice. The 25-year-old, also known as @yorkiebea, proudly shared the go.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/515944/princess-beatrice-s-twitter-account-is-verified-check-out-the-royal-s-first-official-tweet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131021/rs_293x473-131121162743-634.Princess-Beatrice-Velvet-Blouse-London.ms.112113_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Princess Beatrice ");
+	var imageCaption = encodeURIComponent("Princess Beatrice ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David M. Benett/Getty Images
+
+Twitter has a new verified and official royal addition: Princess Beatrice.The 25-year-old, also known as @yorkiebea, proudly shared the good news on Thursday."So happy to be verified, thank you @TwitterUK," she posted, shortly after that blue check mark appeared next to her name.Prince William and Prince Harry's cousin sent her first tweet last May. Before she become official, she tweeted Pharrell Williams about his memorable Grammys hat."Good luck with your hat auction @Pharrell From one hat lover to another," she shared.Perhaps she is referencing her unforgettable Royal Wedding ribbon-like fascinator.
+
+Besides staying active on Twitter, Princess Beatrice is keeping busy with an internship at Sony Pictures Television.Per the Daily Mail, she began working at the company in January shortly after she quit her job at an investment capital firm.The young royal is said to have begun working at the London headquarters quite recently following a break from all professional obligations.
+/n

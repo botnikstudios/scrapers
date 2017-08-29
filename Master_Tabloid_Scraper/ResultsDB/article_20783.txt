@@ -1,0 +1,48 @@
+roots of Professor Umbridge, the lowdown on the Ministers for Magic and the history of the wizarding prison Azkaban. You will also delve deeper into Horace Slughorn's early years as Potions master at Hogwarts - and his acquaintance with.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/788205/hoppin-hogwarts-here-s-how-to-get-the-new-harry-potter-books-next-month');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016627/rs_634x1024-160727120102-634-sorcerers-stone-sr.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Harry Potter and the Sorcerer's Stone");
+	var imageCaption = encodeURIComponent("Harry Potter and the Sorcerer's Stone");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy Scholastic
+
+Harry Potter forever! In a bold move that is sure to please Potter heads everywhere, author J.K. Rowling will be releasing THREE new HP books this year. When we say this year, we mean they're available for pre-order on sites like Barnes and Noble and Amazon RIGHT NOW. Are you guys scream-crying yet? The Bookseller notes this collection is made up of short stories that dive deeper into Harry's environment. If Harry Potter and the Cursed Child left you wanting more, this new series could give you your fix.
+
+Even more good news? You won't have to wait in line at a bookstore like an effing crazy person when they are released on September 6. The three books, Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists, Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies and Hogwarts: An Incomplete and Unreliable Guide, will be available as e-books. That's right! Not only will you have three new reads on your hands, but you'll also still have your dignity. Thanks, technology!The series is published by Pottermore Presents and are to act as supplements to the original Harry Potter story. E-book descriptions note that some of these stories included in these new additions were previously published on Pottermore.com, a site where Potter fans can nerd out in peace.
+
+If that Hogwarts guidebook looks like it could be your thing, here's what you can look forward to reading; "You'll venture into the Hogwarts grounds, become better acquainted with its more permanent residents, learn more about lessons and discover secrets of the castle . . . all at the turn of a page." Chic! If you're more about that dark and dangerous Snape lyfe, you might reach for Power, Politics and Pesky Poltergeists, which will "give you a glimpse into the darker side of the wizarding world, revealing the ruthless roots of Professor Umbridge, the lowdown on the Ministers for Magic and the history of the wizarding prison Azkaban. You will also delve deeper into Horace Slughorn's early years as Potions master at Hogwarts - and his acquaintance with one Tom Marvolo Riddle." Heroism, Hardship and Dangerous Hobbies, however, "profile two of the Harry Potter stories' most courageous and iconic characters: Minerva McGonagall and Remus Lupin. J.K. Rowling also gives us a peek behind the closed curtains of Sybill Trelawney's life, and you'll encounter the reckless, magical-beast-loving Silvanus Kettleburn along the way." In other words, there's something for everybody. 
+
+Emma Watson meets the other Hermione! 
+/n

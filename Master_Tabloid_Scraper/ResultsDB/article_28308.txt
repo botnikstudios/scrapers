@@ -1,0 +1,46 @@
+iCarly's Nathan Kress Expecting First Child With Wife London Elise Moore Nathan Kress is welcoming fatherhood with open arms! The iCarly star took to social media on Wednesday with life-changing news to share: he and wife London Elise M.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866558/icarly-s-nathan-kress-expecting-first-child-with-wife-london-elise-moore');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017612/rs_682x1024-170712142639-634.Nathan-Kress-London-Elise-Moore.kg.071217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nathan Kress, London Elise Moore");
+	var imageCaption = encodeURIComponent("Nathan Kress, London Elise Moore");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Kovac/WireImage
+
+Nathan Kress is welcoming fatherhood with open arms!The iCarly star took to social media on Wednesday with life-changing news to share: he and wife London Elise Moore are expecting their first child together. Nathan and London's announcement goes down in history as one of the cutest ever, as the couple came up with a clever riddle and posed in a perfect location with the mama-to-be's baby bump on full display. "Me and my baby in London," the 24-year-old actor wrote alongside a snapshot of the pair spending time in the U.K. "Me, and my baby in London. Me. And my baby IN --->LONDON Get it?? Baby Kress, arriving Jan 2018!"Kress' leading lady echoed his excitement with a sweet post of her own. "I put my barf bag down for this photo," Moore teased, adding, "#seriouslySOexcited #weloveoursweetbabyKress #completelyworthit #secondtrimesterherewecome."
+
+London's pregnancy comes almost two years after she and the former Nickelodeon star tied the knot in November 2015. In addition to the couple's closest family and friends, Nathan's co-stars including Miranda Cosgrove, Jennette McCurdy and Jerry Trainor joined in for the festivities held in Los Angeles. And according to Nathan and London's social media feeds, it appears as if they'll be raising their little one across the pond. In late June, Kress wrote on Twitter, "Alright, England. First timer, coming your way. Let's see what's what!!!"Since then, it appears they've settled nicely into their now abode and are preparing for the arrival of their first bundle of joy. 
+
+Congratulations, you two!
+/n

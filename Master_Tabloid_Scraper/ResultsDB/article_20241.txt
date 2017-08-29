@@ -1,0 +1,44 @@
+Gisele Bündchen and Baby Vivian Take Paris—and Pictures—Together! Well, wouldn't you want to capture this moment forever? Jet-setter Gisele Bündchen made time for some sight-seeing today with her favorite yoga buddy—aka her baby daughte.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/432257/gisele-bundchen-and-baby-vivian-take-paris-and-pictures-together');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013520/rs_293x473-130620140317-634.gisele.ls.62013.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Gisele Bundchen");
+	var imageCaption = encodeURIComponent("Gisele Bundchen");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+CHP/FAMEFLYNET PICTURE
+
+Well, wouldn't you want to capture this moment forever?Jet-setter Gisele Bündchen made time for some sight-seeing today with her favorite yoga buddy—aka her baby daughter Vivian—while in Paris for work.The supermodel mom is in the City of Light for a Chanel photo shoot, so, with all that formal posing required of her, no wonder she was feeling snap-happy on her day off.
+
+With Vivian along for the ride in her stroller, Tom Brady's better half used her iPhone to shoot pics of the local scenery outside the Louvre.And, even casually dressed in skinny jeans and a white T-shirt, her face partially shielded by oversized sunglasses and a fedora, the leggy Brazilian beauty obviously couldn't help but attract attention from other camera-wielding types who achieved their sight-seeing goals by getting a glimpse of Gisele.
+/n

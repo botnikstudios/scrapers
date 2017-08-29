@@ -1,0 +1,44 @@
+Nancy Grace to Leave HLN After 12 Years: "I Will Continue My Fight for Justice" Nancy Grace, the often controversial former prosecutor-turned-HLN legal news show host and commentator, is leaving the cable network after 12 years. Th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/776904/nancy-grace-to-leave-hln-after-12-years-i-will-continue-my-fight-for-justice');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016530/rs_634x1024-160630080839-634.Nancy-Grace-JR-063016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nancy Grace");
+	var imageCaption = encodeURIComponent("Nancy Grace");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chris Pizzello/Invision/AP
+
+Nancy Grace, the often controversial former prosecutor-turned-HLN legal news show host and commentator, is leaving the cable network after 12 years.The 56-year-old will appear in her final episode of Nancy Grace on Oct. 13, when her contract expires, The Hollywood Reporter said. She revealed the news to her staff Thursday and told the outlet in comments posted Friday that she had been "thinking a lot about" leaving for the past three years and feels "really mixed" about it."This fall, I'll be leaving HLN, my longtime TV home, with a full heart and endless gratitude," Grace said in a statement posted by CNN, whose parent company Turner Broadcasting System owns HLN. "We created an unparalleled platform that gave crime victims a voice and succeeded in helping to find missing people and spotlight unsolved homicides."
+
+Grace told CNN that after her departure from HLN, "I will continue my fight for justice across a variety of traditional and new media, where victims' voices can reach an entirely engaged audience."She told THR she will not go on an hiatus and that whatever she does next will involve "a very large digital component," although she will "always be wedded to a traditional platform"—television."My plan is to merge those two in an effective way, in my voice, the 'anti-crime' voice," she said. "Our show has never really been about me. It has been about the stories that we tell and the people we talk about and the mysteries we try to solve and the children we try to bring home. There's an entire section of our population that I want to reach."Meanwhile, her staff members will work on a new HLN series that will replace Nancy Grace in its time slot after the show's final episode airs, a network spokesperson told THR.
+/n

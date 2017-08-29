@@ -1,0 +1,116 @@
+The Lip Synching Hall Of Shame — 13 NOTORIOUS Incidents/n
+What do Beyoncé, Ashlee Simpson and Milli Vanilli all have in common? At some point in their careers they’ve all been caught pretending to sing. Here is our list of the biggest lip-synching scandals of all time.
+
+					var next_post_url = "http://radaronline.com/photos/bayou-logic-or-hate-speech-duck-dynasty-stars-28-most-shocking-quotes-of-all-time/";
+					var prev_post_url = "http://radaronline.com/photos/spike-lees-best-joint-yet-director-lists-manhattan-townhouse-for-32-million/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2014-01-13T07:12:56+00:00","caption":"1.    Beyonc\u00e9\n\u201cDue to no proper sound check, I did not feel comfortable taking a risk.\u201d That was Mrs. Carter\u2019s excuse for miming along to a pre-recorded track of the national anthem at Barack Obama\u2019s 2013 inauguration. Two weeks later, after facing a barrage of criticism, Beyonc\u00e9 sang the \u201cStar Spangled Banner\u201d live, a cappella, at a news conference before asking the gathered press: \u201cAny questions?\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/beyonce-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:23:46+00:00","caption":"2.    Whitney Houston\nHer version was such a hit with the country that after Whitney Houston performed the national anthem at the 1991 Super Bowl it was released as a single. But the thunderous applause the singer received on the day was later replaced with loud criticism when it emerged she was actually lip-synching to a pre-recorded backing track.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/whitney-houston-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:29:15+00:00","caption":"3.    Ashlee Simpson\nWhat do you do when you go on live TV prepared to mouth the words to your own song and you miss your cue? If you\u2019re Ashlee Simpson you do a lame jig for a few seconds before walking off the stage and later blaming your band for \u201cplaying the wrong song.\u201d The pop star\u2019s 2004 appearance will go down in Saturday Night Live history.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/ashlee-simpson-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:31:15+00:00","caption":"4.    Milli Vanilli\nTheir hit song may have been \u201cGirl You Know It\u2019s True,\u201d but it was a blatant lie that Fab Morvan and Rob Pilatus sang on their smash hit album of the same name. In 1990 the Milli Vanilli front men were stripped of their Grammy Award when the ultimate lip-synching scandal was revealed. The Euro hunks were just mouthing along to a track performed by other singers.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/milli-vanilli-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:38:11+00:00","caption":"5.    Britney Spears\nWhen it comes to lip-synching Britney Spears is the queen. In 2008 critics panned her for mouthing the words to her song \u201cWomanizer\u201d on the U.K. version of The X Factor and Aussie fans stormed out of a 2009 concert because she was only pretending to sing. Then there was her pathetic 2007 MTV VMA performance when her lips didn\u2019t even match the vocals.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/britney-spears-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:40:04+00:00","caption":"6.    Jennifer Hudson\nEven the best singers resort to lip-synching. In 2009 Jennifer Hudson caused a stir when it was later revealed that she lip-synched to her version of the national anthem at the Super Bowl.\n","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/jennifer-hudson-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:43:27+00:00","caption":"7.    Shakira\nThe fact that a track of her song \u201cShe Wolf\u201d was prematurely played before she hit the stage at the 2010 FIFA concert was a clear indication Shakira was going to lip-synch her way through her performance. Later she sloppily mouthed the words to her hit songs, confirming that she was only pretending to sing.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/shakira-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:55:08+00:00","caption":"8.    Mariah Carey\nDespite her vocal range Mariah Carey is frequently accused of pretending to sing live during her TV appearances. Her May 2013 performance on the American Idol finale was no different. Mariah\u2019s rep was later forced to deny claims that the show\u2019s judge was actually lip-synching.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/mariah-carey-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T07:55:08+00:00","caption":"9.    Madonna\nThere\u2019s only one thing worse than a singer being accused of lip-synching and that\u2019s to have an acid-tongued Elton John publicly blast you for doing so. The cheeky Brit didn\u2019t hold back at the 2004 Q Awards in London after Madonna was nominated in the Best Live Act category. Sir Elton fired back: \u201cAnyone who lip-synchs in public on stage when you pay \u00a375 to see them should be shot.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/madonna-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T08:01:36+00:00","caption":"10.Lindsay Lohan\nWay back in 2004, when she was in the headlines for being a talented artist, Lindsay Lohan released an album and performed one of the singles on Good Morning America. She looked good and sounded great but Lindsay clearly hadn\u2019t grasped the concept of lip-synching in time with the song.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/lindsay-lohan-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T08:04:16+00:00","caption":"11.Chris Brown\nIt\u2019s not just his violent temper that gets Chris Brown in trouble. In 2012 pop stars Joe Jonas and Pink slammed him on Twitter for lip-synching through his Billboard Music Awards performance. While Chris was on stage Joe tweeted: \u201cWhat happened to people singling live???\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/chris-brown-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T08:15:58+00:00","caption":"12.Oasis\nClearly not every artist likes to lip-synch while performing on TV. In 1995 Liam and Noel Gallagher decided to thumb their noses at the makers of British TV show Top Of The Pops. Forced to lip-synch to their hit \u201cRoll With It\u201d the siblings switched roles and Liam played guitar while Noel mouthed along to his brother\u2019s vocals.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/oasis-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-01-13T08:20:03+00:00","caption":"13.50 Cent\nApparently even rappers lip-synch as 50 Cent so perfectly demonstrated during a 2007 BET Awards performance. At one point the hip-hop star did a great impression of a ventriloquist by taking off his jacket and rapping without moving his lips, while his microphone was nowhere near his mouth.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/01\/50-cent-lip-synching-scandals.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+The Lip Synching Hall Of Shame — 13 NOTORIOUS Incidents
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 13 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 13Beyonce1.    Beyoncé
+“Due to no proper sound check, I did not feel comfortable taking a risk.” That was Mrs. Carter’s excuse for miming along to a pre-recorded track of the national anthem at Barack Obama’s 2013 inauguration. Two weeks later, after facing a barrage of criticism, Beyoncé sang the “Star Spangled Banner” live, a cappella, at a news conference before asking the gathered press: “Any questions?”Photo credit: Getty Images2 of 13Whitney Houston2.    Whitney Houston
+Her version was such a hit with the country that after Whitney Houston performed the national anthem at the 1991 Super Bowl it was released as a single. But the thunderous applause the singer received on the day was later replaced with loud criticism when it emerged she was actually lip-synching to a pre-recorded backing track.Photo credit: Getty Images3 of 13Ashlee Simpson3.    Ashlee Simpson
+What do you do when you go on live TV prepared to mouth the words to your own song and you miss your cue? If you’re Ashlee Simpson you do a lame jig for a few seconds before walking off the stage and later blaming your band for “playing the wrong song.” The pop star’s 2004 appearance will go down in Saturday Night Live history.Photo credit: Getty Images4 of 13Milli Vanilli4.    Milli Vanilli
+Their hit song may have been “Girl You Know It’s True,” but it was a blatant lie that Fab Morvan and Rob Pilatus sang on their smash hit album of the same name. In 1990 the Milli Vanilli front men were stripped of their Grammy Award when the ultimate lip-synching scandal was revealed. The Euro hunks were just mouthing along to a track performed by other singers.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 13Britney Spears5.    Britney Spears
+When it comes to lip-synching Britney Spears is the queen. In 2008 critics panned her for mouthing the words to her song “Womanizer” on the U.K. version of The X Factor and Aussie fans stormed out of a 2009 concert because she was only pretending to sing. Then there was her pathetic 2007 MTV VMA performance when her lips didn’t even match the vocals.Photo credit: Getty Images6 of 13Jennifer Hudson6.    Jennifer Hudson
+Even the best singers resort to lip-synching. In 2009 Jennifer Hudson caused a stir when it was later revealed that she lip-synched to her version of the national anthem at the Super Bowl.
+Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 13Shakira7.    Shakira
+The fact that a track of her song “She Wolf” was prematurely played before she hit the stage at the 2010 FIFA concert was a clear indication Shakira was going to lip-synch her way through her performance. Later she sloppily mouthed the words to her hit songs, confirming that she was only pretending to sing.Photo credit: Getty Images8 of 13Mariah Carey8.    Mariah Carey
+Despite her vocal range Mariah Carey is frequently accused of pretending to sing live during her TV appearances. Her May 2013 performance on the American Idol finale was no different. Mariah’s rep was later forced to deny claims that the show’s judge was actually lip-synching.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 13Madonna/Elton John9.    Madonna
+There’s only one thing worse than a singer being accused of lip-synching and that’s to have an acid-tongued Elton John publicly blast you for doing so. The cheeky Brit didn’t hold back at the 2004 Q Awards in London after Madonna was nominated in the Best Live Act category. Sir Elton fired back: “Anyone who lip-synchs in public on stage when you pay £75 to see them should be shot.”Photo credit: Getty Images10 of 13Lindsay Lohan10.Lindsay Lohan
+Way back in 2004, when she was in the headlines for being a talented artist, Lindsay Lohan released an album and performed one of the singles on Good Morning America. She looked good and sounded great but Lindsay clearly hadn’t grasped the concept of lip-synching in time with the song.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 13Chris Brown11.Chris Brown
+It’s not just his violent temper that gets Chris Brown in trouble. In 2012 pop stars Joe Jonas and Pink slammed him on Twitter for lip-synching through his Billboard Music Awards performance. While Chris was on stage Joe tweeted: “What happened to people singling live???”Photo credit: Getty Images12 of 13Oasis12.Oasis
+Clearly not every artist likes to lip-synch while performing on TV. In 1995 Liam and Noel Gallagher decided to thumb their noses at the makers of British TV show Top Of The Pops. Forced to lip-synch to their hit “Roll With It” the siblings switched roles and Liam played guitar while Noel mouthed along to his brother’s vocals. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 1350 Cent13.50 Cent
+Apparently even rappers lip-synch as 50 Cent so perfectly demonstrated during a 2007 BET Awards performance. At one point the hip-hop star did a great impression of a ventriloquist by taking off his jacket and rapping without moving his lips, while his microphone was nowhere near his mouth.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Beyonce1.    Beyoncé
+“Due to no proper sound check, I did not feel comfortable taking a risk.” That was Mrs. Carter’s excuse for miming along to a pre-recorded track of the national anthem at Barack Obama’s 2013 inauguration. Two weeks later, after facing a barrage of criticism, Beyoncé sang the “Star Spangled Banner” live, a cappella, at a news conference before asking the gathered press: “Any questions?”Photo credit: GWhitney Houston2.    Whitney Houston
+Her version was such a hit with the country that after Whitney Houston performed the national anthem at the 1991 Super Bowl it was released as a single. But the thunderous applause the singer received on the day was later replaced with loud criticism when it emerged she was actually lip-synching to a pre-recorded backing track.Photo credit: GAshlee Simpson3.    Ashlee Simpson
+What do you do when you go on live TV prepared to mouth the words to your own song and you miss your cue? If you’re Ashlee Simpson you do a lame jig for a few seconds before walking off the stage and later blaming your band for “playing the wrong song.” The pop star’s 2004 appearance will go down in Saturday Night Live history.Photo credit: GMilli Vanilli4.    Milli Vanilli
+Their hit song may have been “Girl You Know It’s True,” but it was a blatant lie that Fab Morvan and Rob Pilatus sang on their smash hit album of the same name. In 1990 the Milli Vanilli front men were stripped of their Grammy Award when the ultimate lip-synching scandal was revealed. The Euro hunks were just mouthing along to a track performed by other singers.Photo credit: GBritney Spears5.    Britney Spears
+When it comes to lip-synching Britney Spears is the queen. In 2008 critics panned her for mouthing the words to her song “Womanizer” on the U.K. version of The X Factor and Aussie fans stormed out of a 2009 concert because she was only pretending to sing. Then there was her pathetic 2007 MTV VMA performance when her lips didn’t even match the vocals.Photo credit: GJennifer Hudson6.    Jennifer Hudson
+Even the best singers resort to lip-synching. In 2009 Jennifer Hudson caused a stir when it was later revealed that she lip-synched to her version of the national anthem at the Super Bowl.
+Photo credit: GShakira7.    Shakira
+The fact that a track of her song “She Wolf” was prematurely played before she hit the stage at the 2010 FIFA concert was a clear indication Shakira was going to lip-synch her way through her performance. Later she sloppily mouthed the words to her hit songs, confirming that she was only pretending to sing.Photo credit: GMariah Carey8.    Mariah Carey
+Despite her vocal range Mariah Carey is frequently accused of pretending to sing live during her TV appearances. Her May 2013 performance on the American Idol finale was no different. Mariah’s rep was later forced to deny claims that the show’s judge was actually lip-synching.Photo credit: GMadonna/Elton John9.    Madonna
+There’s only one thing worse than a singer being accused of lip-synching and that’s to have an acid-tongued Elton John publicly blast you for doing so. The cheeky Brit didn’t hold back at the 2004 Q Awards in London after Madonna was nominated in the Best Live Act category. Sir Elton fired back: “Anyone who lip-synchs in public on stage when you pay £75 to see them should be shot.”Photo credit: GLindsay Lohan10.Lindsay Lohan
+Way back in 2004, when she was in the headlines for being a talented artist, Lindsay Lohan released an album and performed one of the singles on Good Morning America. She looked good and sounded great but Lindsay clearly hadn’t grasped the concept of lip-synching in time with the song.Photo credit: SChris Brown11.Chris Brown
+It’s not just his violent temper that gets Chris Brown in trouble. In 2012 pop stars Joe Jonas and Pink slammed him on Twitter for lip-synching through his Billboard Music Awards performance. While Chris was on stage Joe tweeted: “What happened to people singling live???”Photo credit: GOasis12.Oasis
+Clearly not every artist likes to lip-synch while performing on TV. In 1995 Liam and Noel Gallagher decided to thumb their noses at the makers of British TV show Top Of The Pops. Forced to lip-synch to their hit “Roll With It” the siblings switched roles and Liam played guitar while Noel mouthed along to his brother’s vocals.50 Cent13.50 Cent
+Apparently even rappers lip-synch as 50 Cent so perfectly demonstrated during a 2007 BET Awards performance. At one point the hip-hop star did a great impression of a ventriloquist by taking off his jacket and rapping without moving his lips, while his microphone was nowhere near his mouth.Photo credit: G 
+
+
+
+
+
+
+
+
+
+/n

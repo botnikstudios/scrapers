@@ -1,0 +1,50 @@
+How Alex Rodriguez Went From Doping Scandals to Taking Over Sports Television and Dating Jennifer Lopez: ''You Have to Own Your S--t'' It wasn't too long ago that a simple mention of the name Alex Rodriguez put a bad.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870913/how-alex-rodriguez-went-from-doping-scandals-to-taking-over-sports-television-and-dating-jennifer-lopez-you-have-to-own-your-s-t');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201772/rs_634x824-170802101453-634.Alex-Rodriguez-THR-Kf.8217.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alex Rodriguez, The Hollywood Reporter");
+	var imageCaption = encodeURIComponent("Alex Rodriguez, The Hollywood Reporter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Martin Schoeller for THR
+
+It wasn't too long ago that a simple mention of the name Alex Rodriguez put a bad taste in our mouths...but that's all changed these days.The 42-year-old former baseball star has made significant progress in redeeming himself ever since his 2014 doping scandal, becoming an asset for sports media and even sparking a much-followed relationship with Jennifer Lopez.So how did he do it? And in just a few years, at that?Rodriguez sat down with The Hollywood Reporter and admitted he simply took responsibility for his mistakes and changed."It starts with being accountable," he stated. "When people can see that you're genuine, that's when they pay attention. You have to own your s--t."
+
+As you likely recall, Rodriguez faced the longest suspension in baseball history in 2014 after he was found to be using performance-enhancing drugs. "There were nights in Miami when I was close to tapping out," he revealed of that time in his life. However, he picked himself back up, and upon his return to the field in 2015, he promised to be a better man.
+
+"When I came back [after the suspension], I wanted to be a different person," he said. "That year off I just had to f--king change and stop being a jerk."He continued, "It's probably too soon for me to say this, but maybe in 10 years I'll be able to say that the ''14 sabbatical' was one of the best things that happened in my life."After playing his final game in on August 12, 2016, Rodriguez has taken a new turn in his career as a baseball analyst and sports broadcaster. In fact, he signed on to contribute to Good Morning America in June as well as continue his work with Fox Sports and CNBC.
+
+Most notably in Hollywood, however, he's been spending a lot of time building his relationship with J.Lo."We both appreciate where we are in our lives," he said of his 48-year-old girlfriend. "We appreciate being parents, and we're so similar; we're both kind of workaholics."And just like Lopez has done in the music industry, no one can deny that Rodriguez certainly left his mark in the world of sports.
+
+"I left it all on the field," he concluded his interview with THR. "My best two years happened at 19 and as a broken-down 40-year-old. I hadn't played in basically two years, two hip surgeries, two knee surgeries, scandal. And if you think about that arc, that tells you a hell of a story, right? The mistakes I've made are loud and clear. But one thing I am proud of is, I did not let those mistakes define who I am. I kept getting up."You can read Rodriguez's full THR interview here.
+/n

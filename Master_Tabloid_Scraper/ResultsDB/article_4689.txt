@@ -1,0 +1,44 @@
+EXCLUSIVE! What Did Willie Robertson Really Think of Sadie's Wild DWTS Outfit? Daddy Duck has spoken! Monday's Dancing With the Stars was a family affair for Duck Dynasty star Sadie Robertson as she invited her father, Willie, and .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/586195/what-did-willie-robertson-really-think-of-sadie-s-wild-dwts-outfit');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201497/rs_634x1024-141007103300-634.mark-ballas-sadie-robertson-dwts-100714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sadie Robertson, Mark Ballas, Dancing with the Stars, DWTS");
+	var imageCaption = encodeURIComponent("Sadie Robertson, Mark Ballas, Dancing with the Stars, DWTS");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC/Adam Taylor
+
+Daddy Duck has spoken!Monday's Dancing With the Stars was a family affair for Duck Dynasty star Sadie Robertson as she invited her father, Willie, and uncles, Si, Jase and Jep, to be a part of her routine, which was set to Pharrell Williams' "Hunter" and paid tribute to the most memorable year of her life: the year Duck Dynasty hit the small screen. For the fun samba, which received a 37 out of 40 points, Sadie rocked a feathery frock, complete with sequins and a bit of skin. Since she began her ballroom journey, Willie has has final approval on all of the 17-year-old Sadie's costumes, so when we chatted with the Duck clan after the show, we had to know what he thought of her wild look.
+
+"I went out and gathered all these feathers for the last month," Willie joked of all the plumes on Sadie's costume, before saying, "No, I didn't, but anything with feathers is cool and stones and rocks. Yeah, I mean it's real earthy. I like it!" Phew!But how did Willie feel about being part of Sadie's routine? And which of her uncles didn't even want to come before Sadie "broke his heart"? Plus, we also chatted with Alfonso Ribeiro, who landed a perfect score with his updated rendition of the Carlton, about why he felt it was finally the right time to bust out his iconic Fresh Prince of Bel-Air dance move. Press play on our interviews above to watch all the DWTS fun go down!DWTS airs Mondays at 8 p.m. on ABC.
+/n

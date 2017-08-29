@@ -1,0 +1,42 @@
+with some adorable and hungry giant pandas! The first lady visited the Chengdu Panda Base with daughters Malia Obama and Sasha Obama and her mother, Marian Robinson, on Wednesday. "I couldn't leave China without seeing the Chengdu .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/525181/michelle-obama-visits-the-chengdu-panda-base-see-the-cute-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014226/rs_634x1024-140326084946-634-mcihelle-obama-pandas.ls.32614.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Michelle Obama, Chengdu Panda Base");
+	var imageCaption = encodeURIComponent("Michelle Obama, Chengdu Panda Base");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REUTERS /JOSHUA LOTT /LANDOV/Twitter
+
+Michelle Obama wrapped up her trip to China on a very cute note: spending quality time with some adorable and hungry giant pandas!The first lady visited the Chengdu Panda Base with daughters Malia Obama and Sasha Obama and her mother, Marian Robinson, on Wednesday."I couldn't leave China without seeing the Chengdu Panda Base," Obama tweeted along with a sweet snapshot of two pandas enjoying some bamboo.President Barack Obama's wife didn't get up close and personal with the native Chinese animals, but she did get to feed them some apple chunks on a large stick."Oh, they're chowing down" the 50-year-old can be heard saying about the black-and-white mammals during a short behind-the-scenes video posted to her official Twitter account.
+/n

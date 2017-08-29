@@ -1,0 +1,42 @@
+EXCLUSIVE! Jennifer Lopez and Alex Rodriguez Are #RelationshipGoals at Their First Wedding Together As a Couple Jennifer Lopez and Alex Rodriguez are at a wedding! But sadly for all of us—it's not theirs.  The A-list and in-love couple .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871779/jennifer-lopez-and-alex-rodriguez-are-relationshipgoals-at-their-first-wedding-together-as-a-couple');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201776/rs_634x1024-170806184808-634.Jennifer-Lopez-Alex-Rodriguez-New-York.kg.080617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Lopez, Alex Rodriguez");
+	var imageCaption = encodeURIComponent("Jennifer Lopez, Alex Rodriguez");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID
+
+Jennifer Lopez and Alex Rodriguez are at a wedding!But sadly for all of us—it's not theirs. The A-list and in-love couple went super glam for a friend's wedding (and their first wedding as a couple) earlier today at the iconic Cipriani Wall Street in New York City. Jenny from the Block was sure to have jaws dropping with her low-cut, cut-out teal dress. Alex looked quite the dapper Dan with his black tuxedo. Of course, the images from today's wedding clearly cements what we all already knew: It's the summer of J.Rod!A source tells E! News that the decked-out couple is attending the nuptials of the daughter of Marc Lasry, co-founder of Avenue Capital Group and the co-owner of the NBA's Milwaukee Bucks.Last night, the insider added that there was a rehearsal dinner at a private residence for the bride and groom to be.
+/n

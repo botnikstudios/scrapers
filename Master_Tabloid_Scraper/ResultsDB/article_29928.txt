@@ -1,0 +1,44 @@
+Maya & Marty Premiere: How Maya Rudolph Is Making Her Dreams Come True Aside from Saturday Night Live, variety shows are virtually nonexistent in today's TV landscape. "It brings me joy," Rudolph said of the show format. &.../n
+Maya Rudolph is living the dream. Her dream to be exact. The Saturday Night Live veteran has teamed up with comedy legend Martin Short for the appropriately titled new NBC variety series Maya & Marty."I should be so lucky getting to work with one Marty Short," Rudolph told E! News on set of their new show. "It's a dream come true for me for many reasons, one is that he is one of the people who made me want to do what I'm doing. Also, he's one of the most joyful people to do it with."The love goes both ways."This is an insane genius. Every time we do anything, any sketch or any character that she does is the perfect choice and steals the scene. For a while I thought it was fun and great, and now I'm kind of full of resentment," Short joked.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/769036/maya-marty-premiere-how-maya-rudolph-is-making-her-dreams-come-true');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016431/rs_634x1024-160531075603-634.maya-and-marty.ch.053116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maya and Marty, Maya Rudolph, Martin Short");
+	var imageCaption = encodeURIComponent("Maya and Marty, Maya Rudolph, Martin Short");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NBC
+
+Aside from Saturday Night Live, variety shows are virtually nonexistent in today's TV landscape. "It brings me joy," Rudolph said of the show format. "I like the feeling of seeing people get together and have a good time on television. It's what I saw growing up and what made me excited to think about being a performer."This is Rudolph's second stab at a variety show after 2014's The Maya Rudolph Show one-off. Both hailed from producer Lorne Michaels who of course worked with both Short and Rudolph on SNL. The first episode, which airs on Tuesday, May 31 at 10 p.m. on NBC, features Miley Cyrus, Larry David, Jimmy Fallon, Tom Hanks and costar Kenan Thompson.Click play on the video up top for more from Short and Rudolph.Maya & Marty premieres Tuesday, May 31 at 10 p.m. on NBC.(E! and NBC are both part of the NBCUniversal family.)
+/n

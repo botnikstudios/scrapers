@@ -1,0 +1,90 @@
+Brandi Glanville's Ex-Plosive Prediction: Eddie Cibrian Will Leave LeAnn Rimes & Take 'Half Her Stuff'
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-a5f5cf6eab01c9e48d1eee34c9de566a-59a54b829257c');
+				var iframe = document.getElementById('wpcom-iframe-a5f5cf6eab01c9e48d1eee34c9de566a-59a54b829257c');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-a5f5cf6eab01c9e48d1eee34c9de566a-59a54b829257c'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Brandi Glanville has a few theories about her ex-husband Eddie Cibrian‘s marriage to his wife, LeAnn Rimes.
+The Real Housewives of Beverly Hills alum sat down with E! News’ Daily Pop on Monday, where she opened up about her relationship with the couple — and disclosed her belief that Cibrian will leave Rimes in the near future.
+
+“It’s a little rocky right now, I’ll say that,” Glanville, 44, said of how things are between herself and Cibrian, 43.
+Glanville was previously married to Cibrian and shares two children — sons Mason, 13, and Jake, 10 — with the Rosewood actor. In 2009, Cibrian filed for divorce from Glanville, shortly after going public with his relationship with Rimes, now 34. Two years later, Cibrian and Rimes tied the knot.
+FROM PEN: Andy Cohen’s Pick For The Most Absurd ‘Real Housewives’ Business Ever
+
+“It’s been, what, eight years? You would think that people would mature and be different, but there’s still some craziness happening,” said Glanville. “So, it ebbs and flows. Sometimes it’s great and right now it’s not.”
+Asked if she foresees that things will get better between herself and the father of her two children, Glanville admitted that it’s possible, but it’ll be only if Cibrian divorces the Grammy winner.
+“I think when the 10-year mark comes and he leaves her and takes half her stuff, then we’ll all be good together. … If she doesn’t have a kid with him, then we don’t have to see her again,” Glanville candidly stated. “I think he has three more years and then he hits 10 years, half of everything is his and he’s gone.”
+
+In February, Rimes opened up to PEOPLE about her five-year marriage to Cibrian, and the secret to their happy marriage.
+“It just works,” Rimes said of Cibrian, whom she met in 2008 on the set of a movie before they both ended their respective first marriages and later married.
+“We respect each other; respect is a big deal, and once you lose that, you’ve kind of lost everything,” she continued. “He’s a wonderful father and a really good man. He’s kind to me, and I reciprocate.”
+Daily Pop airs weekdays (12 p.m. ET) on E!
+/n

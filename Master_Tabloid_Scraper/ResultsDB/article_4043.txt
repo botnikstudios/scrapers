@@ -1,0 +1,44 @@
+there's a chic, new way to channel your favorite district divas' style. If you've already gawked a look at Katniss' wedding dress or the red-hot number Effie sports in the Hunger Games: Catching Fire portraits, there'.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/424697/hunger-games-fashion-blog-relaunches-for-catching-fire');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013430/rs_293x473-130530163307-634.CapitalCouture.mh.053013.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hunger Games, Capital Couture");
+	var imageCaption = encodeURIComponent("Hunger Games, Capital Couture");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Capital Couture
+
+Hunger Games fans, you can put down that mocking jay pin because there's a chic, new way to channel your favorite district divas' style.If you've already gawked a look at Katniss' wedding dress or the red-hot number Effie sports in the Hunger Games: Catching Fire portraits, there's plenty more looks inspired by the film to ogle. 
+
+That's right, Capitol Couture, the fashion and culture blog that debuted right before the Hunger Games premiere back in 2012, is back!So, if you can't wait until November to peek at more fab fashion from Hunger Games: Catching Fire, you can get your fix in the latest issue, Chroma Nouveau, which takes fans through everything from Effie's style essentials to tips on which looks work best in each district.And, OK, you can still wear the 'ol mocking jay pin if you like.  
+/n

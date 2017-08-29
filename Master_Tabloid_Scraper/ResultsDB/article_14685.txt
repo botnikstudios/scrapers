@@ -1,0 +1,47 @@
+Emily Blunt Admits John Krasinski Cried While Watching Into The Woods, Talks Raising Baby Hazel Speaking of kids, the happily married couple is hard at work raising their nine-month-old daughter Hazel at home. The Disney fairytale has defini.../n
+Emily Blunt's latest movie isn't even out yet, but it's already getting rave reviews from one special man.Turns out John Krasinski has already seen Into The Woods on the big screen and he couldn't help but fall in love."He cried. He absolutely loved it," Blunt revealed to E! News before the film hits theatres Christmas Day. "I think he was so moved by it by what it's saying to this generation and that idea of nobody being alone at the end. It's such an amazing theme running through this film."She added, "Yes it's a musical but it's not just a spectacle. It says some really profound things like be careful what you say to children. Children will listen."
+
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/600966/emily-blunt-admits-john-krasinski-cried-while-watching-into-the-woods-talks-raising-baby-hazel');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141013/rs_634x1024-141113094048-634.Emily-Blunt-John-Krasinski.jl.11314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Blunt, John Krasinski ");
+	var imageCaption = encodeURIComponent("Emily Blunt, John Krasinski ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ROLO/AKM-GSI
+
+Speaking of kids, the happily married couple is hard at work raising their nine-month-old daughter Hazel at home.The Disney fairytale has definitely reminded the parents to focus on following traditions such as reading fairytale books to their daughter."She's nine months old but she understands. She sits on me, this little thing, and she understands turning a page already and going on a journey," Blunt shared. "I think that's amazing.""I think everything is on a gadget nowadays and I just want her to have the satisfaction I had as a kid," she continued.  "You want things to be sensory for kids."
+
+You mean no technology? No fancy gadgets? Not any time soon! In fact, Blunt doesn't even know how to use them."I think kids are just remarkable on these things," the actress shared. "I'm a dinosaur with them. I barely know how to turn things on. She's going to teach me more than any computer class."
+/n

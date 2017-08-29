@@ -1,0 +1,46 @@
+Joseph Gordon-Levitt and Tasha McCauley Welcome Baby No. 2 The couple are also parents to a 1-year-old son, who the Snowden star has kept out of the spotlight since birth.  "Being in the public eye is a great thing," he said during.../n
+There's another little Gordon-Levitt in the world!Joseph Gordon-Levittand his wife of three years, Tasha McCauley, have welcomed the newest member of their clan, his rep confirmed to E! News. Their baby boy arrived in June; other details, including his name, were not disclosed.While the star couple is known to be highly private about their personal lives, they couldn't keep this pregnancy a secret when they stepped out for a stroll together in May. While everything else was business as usual, McCauley's baby bump was hard to miss. A rep for the actor later confirmed the news. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867865/joseph-gordon-levitt-and-tasha-mccauley-welcome-baby-no-2');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141131/rs_634x1024-141231171023-634.Joseph-Gordon-Levitt-Tasha-McCauley.ms.123114.JPG');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joseph Gordon-Levitt, Tasha McCauley");
+	var imageCaption = encodeURIComponent("Joseph Gordon-Levitt, Tasha McCauley");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PacificCoastNews
+
+The couple are also parents to a 1-year-old son, who the Snowden star has kept out of the spotlight since birth. "Being in the public eye is a great thing," he said during a 2015 appearance on Live! With Kelly and Michael. "It allows me to do what I love to do, which is act in movies, but it's a choice that I made."
+
+Gordon-Levitt continued, "My son, he's just a baby, you know? He hasn't made the choice to be in the public eye, and that's a choice that I would like him to be able to make when he's older, when he can think about these kinds of things and make that decision for himself. And so, for now, I'm just a protective dad, and I want to protect his privacy."People was first to report the baby news. 
+/n

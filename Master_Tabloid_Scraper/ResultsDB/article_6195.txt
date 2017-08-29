@@ -1,0 +1,52 @@
+Selena Gomez and Other Celebs Spotted on Dates at Olive Garden, Dave & Buster's and Other Chain Restaurants In 2013, Shia LaBouf and partner and Nymphomaniac co-star Mia Goth were spotted together at an Olive Garden in New York City.../n
+Just like many of us, celebs have also chilled out, while starving, and wait for a coaster to flash some lights to let them know their table is ready.Olive Garden, the Cheesecake Factory, Chili's, Dave & Busters—while instances have been scarce, stars have occasionally been spotted out on dates at such chain restaurants that just scream "Americana." Who needs cloth napkins when you have endless bread sticks and sizzling American-style fajitas?In January, Selena Gomez and The Weeknd took their romance to a Dave & Busters in Hollywood. Onlookers tell E! News they looked "smitten" as they left the arcade and eatery at 3 a.m., holding hands.In 2012, Selena and then-boyfriend Justin Bieber went on a date to the Dave & Busters in New York City's Times Square. A year earlier, they were spotted on a lunch date at a Cheesecake Factory in Arlington, Texas. They two split a pizza and several appetizers and also had a slice of cherry cheesecake, People reported. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/845246/selena-gomez-and-other-celebs-spotted-on-dates-at-olive-garden-dave-buster-s-and-other-chain-restaurants');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016327/rs_634x1024-160427171816-634.Shia-LaBeouf-Mia-Goth-PDA-LA.ms.042716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Shia LaBeouf, Mia Goth");
+	var imageCaption = encodeURIComponent("Shia LaBeouf, Mia Goth");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FANA/AKM-GSI 
+
+In 2013, Shia LaBouf and partner and Nymphomaniac co-star Mia Goth were spotted together at an Olive Garden in New York City.John Travolta and wife Kelly Preston will often eat at Chili's or Olive Garden in Ocala, Florida, where they have a home, her friend told People in 2012.
+
+
+
+Jesse Grant/ Getty Images
+
+In 2008, Ashlee Simpson and then—husband Pete Wentz went on a double date to Chilli's in Encino, California with her sister Jessica Simpson and her then-boyfriend, Tony Romo.Jerry O'Connell and wife Rebecca Romijn are also fans of the eatery, telling People in 2010 that the two often enjoy having a "quiet dinner" there, without their two daughters. 
+
+In 2014, Britney Spears went on a date with then-boyfriend David Lucado at a Cheesecake Factory near her home in Thousand Oaks, California. She also accidentally forgot to pay the check...
+/n

@@ -1,0 +1,91 @@
+Clerks Actress Lisa Spoonauer Died a 'Natural Death' at 44 After Battling Degenerative Disease
+
+/n
+Clerks actress Lisa Spoonauer died of natural causes at the age of 44, the local coroner’s office tells PEOPLE.
+Best known for playing Caitlin Bree in Kevin Smith’s cult classic, she was battling an undisclosed chronic illness prior to her death at home on Saturday in New Jersey. The nature of her illness remains unclear.
+On a fundraising page for Patient Advocate Foundation Inc. created by Spoonauer’s brother Mike in her memory, he wrote, “Our sister Lisa, if she had gotten better, was going to devote the rest of her life to fighting for those with chronic illness who didn’t have the strength or the resources to get the right answers and ultimately obtain the correct course of treatment for themselves.”
+He added that if Spoonauer had survived her illness, she would have continued to work with the charity, which helps solves insurance and medical access problems for those suffering from chronic illnesses.
+In January 2014, the former actress took to Facebook to thank Kevin Smith, who cast and directed her in Clerks, for helping with some of her medical expenses.
+“THANK YOU Kevin Smith… who very Generously donated a very needed truckload of money to me so that I could fly to the Mayo clinic in Minnesota with my daughter, Bernice Guzman-Wilson and Gisele Wilson to continue care, have procedures and the surgery that resulted in the biggest breakthrough to date in the degenerative and painful rare conditions that have taken so much from me and family.”
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-fb0e76ca93618d063c78f9d104535927-59a53f5582464');
+				var iframe = document.getElementById('wpcom-iframe-fb0e76ca93618d063c78f9d104535927-59a53f5582464');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-fb0e76ca93618d063c78f9d104535927-59a53f5582464'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+The Mayo Clinic in Minnesota is home to a number of medical specialists, and it is not uncommon for patients to travel from around the world to seek care at the facility. “I REALLY cannot ever due justice to how desperately help was needed and given without asking,” she added in her post.
+Smith wrote an emotional message on Instagram Tuesday in memory of Spoonauer, thanking her for inspiring him during the making of Clerks. “Thank you for dreaming my dream with me,” he wrote. “You changed my life, Lisa.” 
+Her Facebook post went on to thank her Clerks costar Jeff Anderson, to whom she was briefly married from 1998-1999, calling him her “forever friend.” She also thanked her brother Mike and friend David Burger “for your support, friendship, and selfless gifts to send/take me to Mayo and countless other specialists over the last 7 years (I would never have been able to do any of this with out you especially Mike and Dave for their love and support in all things in my and [my daughter] Mia’s lives).”
+After thanking numerous other family members and friends for their support, she added, “Thank you for the intern brave enough to send my bones, tissue etc for the correct testing that nobody thought of in years.. but Me. Lol Thank you to my kids who are worth fighting for. I LOVE YOU.”
+From Coinage: See Where 6 Stars Were Before They Were Famous
+
+In another Facebook post in 2015, Spoonauer shared a meme about suffering from a chronic illness. The message, which was nonspecific, read: “Hard to explain to someone who has no clue. It’s a daily struggle being in pain or feeling sick on the inside while you look fine on the outside.” The post was meant to be shared “if you or someone you know has an invisible illness.”
+Spoonauer is survived by her husband, Tom Caron; her daughter, Mia Spoonauer; her stepson, Tyler Caron; her mother, Dolores Spoonauer; her twin brothers, Michael and Mark Spoonauer and their families; and her grandfather, Frank Figurelli, according to the her online obituary.
+/n

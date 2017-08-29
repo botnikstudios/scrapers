@@ -1,0 +1,46 @@
+Linkin Park Cancels Tour After Chester Bennington's Death Chester's band mates, fellow musicians and fans took to social media Thursday to pay tribute to him following news of his death. "Shocked and heartbroken," Mike Sh.../n
+Linkin Park will not continue their North American tour following frontman Chester Bennington's death.The 41-year-old singer's body was found in his Los Angeles home Thursday. He died of an apparent suicide by hanging.Linkin Park was supposed to begin the North American leg of their One More Light tour on July 27, in Mansfield, Massachusetts. Special tour guests were to include Machine Gun Kelly, One OK Rock and Snoop Dogg."We are incredibly saddened to hear about the passing of Chester Bennington. The Linkin Park One More Light North American Tour has been canceled and refunds are available at point of purchase. Our thoughts go out to all those affected," Live Nation said in a statement to E! News Friday.The morning of Chester's death, the band released a new music video for their song "Talking to Myself," which features past tour footage.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/868437/linkin-park-cancels-tour-after-chester-bennington-s-death');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017620/rs_634x1024-170720113140-634-7-chester-Bennington-linkin-park.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Chester Bennington, Linkin Park");
+	var imageCaption = encodeURIComponent("Chester Bennington, Linkin Park");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Chester's band mates, fellow musicians and fans took to social media Thursday to pay tribute to him following news of his death."Shocked and heartbroken," Mike Shinoda wrote on Twitter."Chester Bennington was an artist of extraordinary talent and charisma, and a human being with a huge heart and a caring soul," Warner Bros. Music CEO and Chairman Cameron Strang said in a statement to E! News. "Our thoughts and prayers are with his beautiful family, his band-mates and his many friends.  All of us at WBR join with millions of grieving fans around the world in saying: we love you Chester and you will be forever missed."A record company rep told E! News Friday that a tribute to Chester and Linkin Park was set up outside of their headquarters. 
+
+Chester is survived by wife Talinda Bennington, their son Tyler and twin daughters Lilly and Lila, as well as his three children from previous relationships.
+/n

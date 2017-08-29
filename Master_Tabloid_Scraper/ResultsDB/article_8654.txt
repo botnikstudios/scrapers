@@ -1,0 +1,48 @@
+A Look Back at Richard Simmons' Final Year in the Public Eye: Should His Disappearance Really Come as a Big Surprise? He continued, "I just sort of wanted to be a little bit of a loner for a little while. You know, I had hurt my kn.../n
+It's safe to say everyone misses Richard Simmons.The last time the fitness guru made a public appearance was in February 2013. However, the topic of his disappearance has been making headlines lately due to some recent health issues as well as a podcast called Missing Richard Simmons, which has documented Dan Taberski's mission for solving why Simmons has gone MIA from the public eye for over the last three years.The cause for question is definitely legitimate. After all, he ghosted his ever-popular multmillion-dollar fitness empire and simply shut down his work out studio. He stopped appearing at the charity events that he'd always been such a big support for, and he even stopped talking to some of his closest friends and fans.
+
+All of this has sparked some major internet theories, most of which suggest he's being held against his will (specifically by his maid Teresa Reveles). However, Simmons himself came out of hiding to refute that in March 2016."No one is holding me in my house as a hostage,'' Simmons phoned in and told the Today Show at the time. "You know, I do what I want to do as I've always done so people should sort of just believe what I have to say."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844900/a-look-back-at-richard-simmons-final-year-in-the-public-eye');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013726/rs_634x1024-130826185143-634.Richard-Simmons-VMAS.ms.082613.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Richard Simmons, VMAS, 8/13");
+	var imageCaption = encodeURIComponent("Richard Simmons, VMAS, 8/13");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jamie McCarthy/Getty Images for MTV
+
+He continued, "I just sort of wanted to be a little bit of a loner for a little while. You know, I had hurt my knee, and I had some problems with it, and then the other knee started giving me trouble...and you know, right now I just want to sort of take care of me."Although this message may have seemed out-of-the-blue for a lot of fans, Simmons' final year in the spotlight was a big stepping stone toward his "retirement" (if you will). As his publicist, Tom Estey, said in a statement last month, "People claim that it happened overnight. It really didn't. We were turning down stuff for years and just kind of quieting down." Let's take a look back at some of his final public appearances and the signs that seemed to point to Simmons' decision to go MIA for a bit...
+
+Through all the tears and underlying messages about being along and loving yourself, we'd say his decision to step out of the public eye probably shouldn't have come as big of a surprise as it did.What do you think? Sound off in the comments below, and don't forget to take a look back at more of his final public appearances in the gallery above.
+/n

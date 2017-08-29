@@ -1,0 +1,44 @@
+Miley Cyrus Channels Hannah Montana on the Set of Woody Allen's New Amazon Series Miley Cyrus is returning to her Hannah Montana roots...so to speak. The 23-year-old pop star and actress was recently spotted filming scenes for Woody All.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/748049/miley-cyrus-channels-hannah-montana-on-the-set-of-woody-allen-s-new-amazon-series');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016211/rs_634x1024-160311091515-634-miley-cyrus-woody-allen.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus");
+	var imageCaption = encodeURIComponent("Miley Cyrus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+TheImageDirect.com
+
+Miley Cyrus is returning to her Hannah Montana roots...so to speak.The 23-year-old pop star and actress was recently spotted filming scenes for Woody Allen's new Amazon series, his first TV show, in a rural area of Westchester County, NY. She sported a long, blonde wig, channeling her alter ego from her former Disney Channel show Hannah Montana, minus the bangs.Cyrus, who has for more than three years sported a super short hairstyle, also showcased a '60s look on the set—she wore a red printed poncho with a rainbow fringe and dark green pants. During the shoot, she was filmed sitting at a sun dial and picking daisies in the backyard of a home, E! News has learned. A man then arrives and the two go for a walk. She was photographed with co-star John Magaro, 33.Cyrus appeared relaxed on the small, quiet set and shot for about 10 hours, starting at 9 a.m. During her lunch break, Cyrus requested a vegan wrap and ate it on the set.
+
+This marks Cyrus' first big acting role since the 2012 comedy film So Undercover. She also had small parts in the comedies The Night Before and Sofia Coppola's A Very Murray Christmas, which were released last year. Her role in Allen's new series was announced in January. The series marks the first TV show Allen, a four-time Oscar winner, has created and directed. The 80-year-old also wrote the scripts for the six-episode, half-hour show, whose title and description has not been revealed, and stars in it himself.Other actors include Elaine May, 83, who Allen directed in the 2000 film Small Time Crooks, and Rachel Brosnahan, 25, who played Rachel Posner on Netflix's House of Cards.Allen's new series is set to debut on Amazon Video later this year. 
+/n

@@ -1,0 +1,79 @@
+Harrison Ford Spotted Back At The Airport Following His Near Fatal Plane Crash/n
+
+					var next_post_url = "http://radaronline.com/photos/beyonce-pregnant-twins-baby-bump-shopping-pics/";
+					var prev_post_url = "http://radaronline.com/photos/robin-thicke-denied-son-visit-cops-called-paula-patton-custody-battle/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-02-18T15:27:09+00:00","caption":"Harrison Ford isn't embarrassed about showing his face after nearly crashing into another aircraft at John Wayne Airport in Orange County, Calif. on Feb. 13.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:11:57+00:00","caption":"The 74-year-old star was spotted speeding off on his motorcycle from the Santa Monica, Calif., airport on Feb. 15.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:11:59+00:00","caption":"As RadarOnline.com reported, the Indiana Jones actor narrowly escaped a deadly disaster as he tried to land his plane on a taxiway.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:12:00+00:00","caption":"According to reports, the star correctly repeated the air traffic controllers directions about landing his engine Husky on runway 20-L, but at the last minute, was caught landing on a taxiway.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:12:01+00:00","caption":"His bizarre move caused him to almost crash into an American Airlines flight 1546, which was carrying 116 crew and passengers awaiting takeoff for Dallas.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:12:02+00:00","caption":"\"Was that airliner meant to be underneath me?\" Ford reportedly asked air traffic control after cheating death. The FAA immediately launched an investigation about his dangerous behavior.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:12:04+00:00","caption":"Ford's troubling landing isn't the first time he's avoided a fatal crash. In 2015, the Star Wars actor\u00a0was forced to make a crash landing on the Penmar Golf Course in Santa Monica, causing him to suffer a blow to the head and a broken arm.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-02-18T14:12:05+00:00","caption":"Do you think Ford's license should be taken away after his latest stunt? Tell us your thoughts below!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/02\/harrison-ford-plane-crash-investigation-santa-monica-spotted-0.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Harrison Ford Spotted Back At The Airport Following His Near Fatal Plane Crash
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8harrison-ford-plane-crash-investigation-santa-monica-spotted-pp-Harrison Ford isn't embarrassed about showing his face after nearly crashing into another aircraft at John Wayne Airport in Orange County, Calif. on Feb. 13.Photo credit: FameFlynet2 of 8The 74-year-old star was spotted speeding off on his motorcycle from the Santa Monica, Calif., airport on Feb. 15.Photo credit: FameFlynet3 of 8As RadarOnline.com reported, the Indiana Jones actor narrowly escaped a deadly disaster as he tried to land his plane on a taxiway.Photo credit: FameFlynet4 of 8According to reports, the star correctly repeated the air traffic controllers directions about landing his engine Husky on runway 20-L, but at the last minute, was caught landing on a taxiway.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8His bizarre move caused him to almost crash into an American Airlines flight 1546, which was carrying 116 crew and passengers awaiting takeoff for Dallas.Photo credit: FameFlynet6 of 8"Was that airliner meant to be underneath me?" Ford reportedly asked air traffic control after cheating death. The FAA immediately launched an investigation about his dangerous behavior.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8Ford's troubling landing isn't the first time he's avoided a fatal crash. In 2015, the Star Wars actor was forced to make a crash landing on the Penmar Golf Course in Santa Monica, causing him to suffer a blow to the head and a broken arm.Photo credit: FameFlynet8 of 8Do you think Ford's license should be taken away after his latest stunt? Tell us your thoughts below!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+harrison-ford-plane-crash-investigation-santa-monica-spotted-pp-Harrison Ford isn't embarrassed about showing his face after nearly crashing into another aircraft at John Wayne Airport in Orange County, Calif. on Feb. 13.Photo credit: FameFlynetThe 74-year-old star was spotted speeding off on his motorcycle from the Santa Monica, Calif., airport on Feb. 15.Photo credit: FameFlynetAs RadarOnline.com reported, the Indiana Jones actor narrowly escaped a deadly disaster as he tried to land his plane on a taxiway.Photo credit: FameFlynetAccording to reports, the star correctly repeated the air traffic controllers directions about landing his engine Husky on runway 20-L, but at the last minute, was caught landing on a taxiway.Photo credit: FameFlynetHis bizarre move caused him to almost crash into an American Airlines flight 1546, which was carrying 116 crew and passengers awaiting takeoff for Dallas.Photo credit: FameFlynet"Was that airliner meant to be underneath me?" Ford reportedly asked air traffic control after cheating death. The FAA immediately launched an investigation about his dangerous behavior.Photo credit: FameFlynetFord's troubling landing isn't the first time he's avoided a fatal crash. In 2015, the Star Wars actor was forced to make a crash landing on the Penmar Golf Course in Santa Monica, causing him to suffer a blow to the head and a broken arm.Photo credit: FameFlynetDo you think Ford's license should be taken away after his latest stunt? Tell us your thoughts below!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+
+/n

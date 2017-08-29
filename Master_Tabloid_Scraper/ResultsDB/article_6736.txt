@@ -1,0 +1,48 @@
+EXCLUSIVE! Southern Charm Fans, Prepare For a "Humble" Kathryn Dennis in Season 4: "People Can Change" Also proud of Kathryn? Craig Conover, who has been one of Kathryn's biggest supporters on the show.  "To adm.../n
+"It's chaotic, but it works." If the cast of Southern Charm had taglines a la the Real Housewives, that may just be Kathryn Dennis' season four catchphrase. In last week's premiere, viewers found out Kathryn had lost custody of her two children to Thomas Ravenel after failing a drug test and had entered a rehab facility in Malibu. But by the end of the Bravo hit's season opener, Kathryn was heading into a medical building, ready to take another drug test. While she's been at the center of almost every fight, controversy and storm since the show's debut, it seems like fans will be seeing a whole new side of Kathryn this season, at least according to her co-stars. "She has been very contrite this season...hat in hand, and asks to re-enter the group...very humble," Shep Rose told E! News' Carissa Culiner at The Alley in Charleston, adding that he's "proud of her. I've always had a soft spot for her." 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/842454/southern-charm-fans-prepare-for-a-humble-kathryn-dennis-in-season-4-people-can-change');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017310/rs_634x851-170410082648-634.kathryn-dennis.cm.41017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kathryn Calhoun Dennis, Southern Charm");
+	var imageCaption = encodeURIComponent("Kathryn Calhoun Dennis, Southern Charm");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Rebecca Miller/Bravo
+
+Also proud of Kathryn? Craig Conover, who has been one of Kathryn's biggest supporters on the show. "To admit your problem and let other people find out about it, I think is probably one of the hardest steps of seeking recovery," he said. "I can't speak for her, but she did a lot of great stuff this year. What she was facing, it would've been a lot easier to run away. Actually, some of the stuff she's facing is unimaginable, but she sucks it up. She finally starts to act like an adult, and fortunately, the adults finally start to act like adults. It's chaotic, but it works." And  fans will be very happy to hear that Cameran Eubanks, who received some heat on social media last season for being pretty hard on Kathryn, even refusing to meet her for coffee, has had a change of heart when it comes to the mother of two. 
+
+"I think people will be pleasantly surprised this season how things end up between Kathryn and I," Cam previewed. "People can change."But not all people...as it seems some other members of the group weren't quite as willing to give Kathryn another chance as Shep, Craig and Cam were. (Cough—Landon Clements—cough.)"I'm really happy to be nice to her and to try to help her in any way I can, and I think I do that this season, which I've always tried to do," Shep said. "Not everyone has been as receptive to forgiveness and things of that nature."To hear more from the Southern Charm cast, watch the video above. And watch E! News tonight at 7 and 11 p.m. to hear even more from Cameran. 
+
+Southern Charm airs Mondays at 9 p.m. on Bravo. (E! and Bravo are both part of the NBCUniversal family.) 
+/n

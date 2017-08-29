@@ -1,0 +1,89 @@
+Tyler Henry Tells Khloé Kardashian Her Father 'Timed' His Passing So the Family Wouldn't Witness It
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-56dd07e0ef63dfce3a3318374f0408a9-59a50786809f3');
+				var iframe = document.getElementById('wpcom-iframe-56dd07e0ef63dfce3a3318374f0408a9-59a50786809f3');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-56dd07e0ef63dfce3a3318374f0408a9-59a50786809f3'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Khloé Kardashian has heard a message from her late father, Robert Kardashian — and it came through his childhood stuffed animal.
+In a sneak peek at this week’s Hollywood Medium with Tyler Henry, medium Tyler Henry places his hands on the object Kardashian brought for the reading: a stuffed animal which she has owned since her father’s passing.
+“When Tyler was reading my mom, he kept [seeing a monkey],” she explains of her decision to choose that particular object. “I was in the other room and I was like: ‘Oh my God, I have the monkey!’ — my mom didn’t even remember the monkey’s name.”
+“There’s a feeling that comes across and it is in reference to your dad’s passing,” Henry then tells Kardashian, 32. “There’s a feeling of not having full closure of actually being there in the moment of passing.”
+“There’s a feeling of: ‘I don’t want you to be here when I’m actually passing away,’ ” he continues. “It’s like: ‘For your sake, I want you to just not have that in your memory.’ ”
+Kardashian, whose father was 59 when he died of esophageal cancer, then reveals that at the time of his passing, she and her family had just said their goodbyes and parted ways.
+FROM COINAGE: Here’s How Much It Will Cost You to Vacation Like a Kardashian:
+
+ 
+Henry, in turn, says that he feels that Kardashian’s father “would have timed his passing.”
+“The feeling is that he was holding on, and he was waiting,” he says. “That would have been done with purpose and with intention.”
+With a soft smile, Kardashian opens up about just how sentimental the stuffed animal is, revealing that the monkey was actually in her father’s bed when he passed away.
+“It’s something that I’ve had since he passed away and I’ve kept at every house that I’ve had,” she says. “So it’s a beautiful thing to have Tyler be able to channel that for me.”
+Hollywood Medium with Tyler Henry airs Wednesdays (8 p.m. ET) on E!
+/n

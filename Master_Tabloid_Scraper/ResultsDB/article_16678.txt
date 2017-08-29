@@ -1,0 +1,66 @@
+North West Lands Her First Magazine Cover: 11 Things We Learned From Her Interviews With Kaia Gerber, Millie Bobby Brown and More At 4-years-old, North West has already made her magazine cover debut in a big way. Kim Kardashian and Kanye Wes.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876318/north-west-lands-her-first-magazine-cover-11-things-we-learned-from-her-interviews-with-kaia-gerber-millie-bobby-brown-and-more');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017728/rs_634x807-170828084244-634.Kim-Kardashian-North-West-cover2-Interview-Kf.82817.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kim Kardashian, North West, Interview Magazine");
+	var imageCaption = encodeURIComponent("Kim Kardashian, North West, Interview Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Steven Klein for Interview Magazine
+
+At 4-years-old, North West has already made her magazine cover debut in a big way.Kim Kardashian and Kanye West's bubbly toddler was featured posing beside her mommy on the September cover of Interview magazine, taking on the appearance of America's First Family with a Kennedy-themed spread.But while Kim's take on Jackie Kennedy is noteworthy in itself, equally as important is the fact that Nori also took part in her very first interview.She joined other famous celebrity children—including her cousin Penelope Disick, Kaia Gerber, Millie Bobby Brown and even Britney Spears' sons Sean and Jayden Federline—who all had the opportunity to ask her a couple questions for the feature.Here are 11 things we learned about the famous 4-year-old:
+
+1. Her Nickname is "Bubs:" She told Kaia that's what her family calls her.2. Her Favorite Song Is One of Kanye's: She revealed to Sean and Jayden that she thinks the rapper's hit "Amazing" is—you guessed it—amazing!3. She Loves Cheese Pizza: "Just Cheese! Cheese, cheese—everywhere cheese," Nori told Gerber. 
+
+
+
+Steven Klein for Interview Magazine
+
+4. She Loves Having a Little Brother: Despite having to split attention with Saint West, Nori told Kaia she loves having a little brother. When describing her favorite thing about being a big sis, she said, "Giving him toy trucks, and I gave him a big toy bear."5. Her Purses Actually Hold Stuff: When we see little Nori holding purses in paparazzi photos, they're not empty like we all thought. She told Andy Warhol that she fills them with "toys," adding that, "sometimes I put some makeup in there when I go to church."6. Her Best Friend is Kim: When Millie asked about her BFF, Nori said it's her "Mama."And speaking of Kim, we learned some stuff about Nori and the West family in her interview with the publication, too.
+
+7. North Has a Pretty Normal Life: "When I'm out and people call North's name, that's when it's weird for me," Kim said. "She lives such a normal life, believe it or not, at home."In fact, the mother-of-two explained, "On a typical day, without cameras, I wake up early, like six in the morning. I try to work out before the kids get up, and then I have breakfast with them and my husband. I try to make sure we have set meals at home, to keep everything as normal as possible. And then I get to work...In between, I'm taking my son to a music class and my daughter to a horseback riding class."
+
+
+
+Steven Klein for Interview Magazine
+
+8. Kim Is ''Very Conscious'' of Raising a Mixed-Race Daughter: "Kanye always has his family around and people who look like my daughter—that's important to me," the reality star explained. "She's obsessed with her curly hair, and if she finds someone who has the same hair, she runs to them and is like, 'You have curly hair like me?' And we get to talk about it. We also talk about it with my niece Penelope, because she and North look really different, but they're best friends and they're together all the time."9. The Show Doesn't Portray as Much as You Think About Her Family: Despite really trying to film everything on Keeping Up With the Kardashians, Kim said she does have caution when it comes to her children and Kanye.  "Our approach to the show is to film everything and then scale back later," Kim explained. "That said, we all have boundaries: I don't really talk about things that are going on with my husband. If I do, it's from my point of view. It's my story."
+
+10. Kim's the "Olivia Pope" of the Kardashians: "If there's something being said about one of my sisters, I'll be the first to jump in a group [text]," the mother-of-two revealed. "We have family chats that happen all day, every day...I'll be the first to jump in and say, 'Guys, I'm seeing this. This is not cool. Tell me what's going on.' I'm usually the ringleader for stuff like that, and I'll say, 'You're wrong. You need to apologize.' Or, 'This needs to be fixed. Everyone just lay low, chill out, don't say anything. It doesn't matter if it's all lies. I know it's frustrating. I know you want to speak up.'"She continued, "We always have to remind ourselves of stuff like that. We don't do everything perfectly, but there really are so many lies, so many rumors."
+
+11. And She's Ready for Some Recognition: "I used to say, 'I love being underestimated,'" Kim admitted. "But now when I hear, 'They're so not talented'—ten years into it—I'm kind of like, 'Okay, give a girl a little respect.' If I'm so not talented, if I do nothing, then how is my career my reality?"She continued, "You can say a lot of things about me, but you cannot say I don't work hard. I don't sing. I don't dance. I don't act. But I am not lazy."
+
+Read Kim and North's full conversation with Interview magazine here, and scroll down below for more photos from the spread:
+
+What do you think of the photo shoot? Sound off in the comments below.
+/n

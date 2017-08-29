@@ -1,0 +1,41 @@
+chipping and it is the perfect shade of nude for me." 3. L'Oréal Go 360° Clean Deep Facial Cleanser: "Leaves my face feeling fresh and clean." 4. John Frieda Beach Blonde Sea Waves Sea Salt Spray: "It leaves my hair .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/664896/shelf-life-what-s-in-sarah-hyland-s-beauty-cabinet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201554/rs_634x1024-150604143302-634.Sarah-Hyland-Shelf-Life.jl.060415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Shelf Life: Sarah Hyland");
+	var imageCaption = encodeURIComponent("Shelf Life: Sarah Hyland");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Her Modern Family character may be a bit of a drama queen but Sarah Hyland is actually super chill in real life. She's just like your average girl next door…if that gal lived in Hollywood and got to do amazing things like attend the Emmy Awards.Still, being all down-to-earth, she didn't even blink when we asked if we could sneak a peek in her beauty cabinet. In fact, the star was more than happy to dish on all the must-have products that help create her everyday look—including her favorite nude nail polish and signature scent. Here's what she shared:1. Unite Blonda Shampoo and Conditioner: "It keeps my hair the perfect shade of blond so it doesn't get too brassy."2. Christian Louboutin Nail Polish in Tutulle: "It stays on longer without chipping and it is the perfect shade of nude for me."3. L'Oréal Go 360° Clean Deep Facial Cleanser: "Leaves my face feeling fresh and clean."4. John Frieda Beach Blonde Sea Waves Sea Salt Spray: "It leaves my hair with its original texture but tones down the frizz and defines it."5. Hawaiian Tropic Island Sport Sunscreen: "It provides great sun protection while nourishing your skin all the while providing that iconic Hawaiian Tropic scent." 6. Dior Iconic Curl Mascara: "It's an amazing everyday mascara that gives me the perfect curl and lash length."7. Miss Dior Perfume: "It's sexy with a girly feminine touch so it's not too much."8. Neutrogena Makeup Remover Wipes: "It takes off all my makeup and leaves me feeling fresh at night."9. Unite Shine Cream: "It gives my hair a great shine and tames the frizz that I so desperately dislike."—Additional reporting by Kathryn Eisman
+/n

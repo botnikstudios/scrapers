@@ -1,0 +1,44 @@
+Aunt Odette Annable has experienced the power of social media firsthand. The Banshee actress recently took to Twitter in an effort to help her aunt Miriam find a kidney. After writing an article online about her aunt's medical situation.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/500208/jessica-simpson-jenna-dewan-and-channing-tatum-help-odette-annable-find-a-kidney-for-her-aunt');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014016/rs_634x1024-140116105553-634.odette.cm.11613.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Odette Annable");
+	var imageCaption = encodeURIComponent("Odette Annable");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Odette Annable has experienced the power of social media firsthand.The Banshee actress recently took to Twitter in an effort to help her aunt Miriam find a kidney.After writing an article online about her aunt's medical situation, she shared the story with famous friends and her followers to drum up attention and hopefully find a donor."My aunt's kidney failed for the second time and I wanted to help, so I did what all working actors do—I turned to my reps and then called my friends in the industry to verify the advice my reps gave me," the star told Elle magazine.Shortly after posting the story on CNN iReport, Annable sent an email asking her famous friends to tweet the article.
+
+Cacee Cobb was the first of Annable's friends to share the story with her followers (she has 60,000), then Bryan Greenberg (with 179,000 Twitter fans) and then Greg Grunberg (who has a staggering 1.5 million followers).After that, Jessica Simpson, Jenna Dewan and Channing Tatum chimed in to bring the issue as much exposure as possible."Then my most recognizable friends' kind tweets turned into something real: Almost 10,000 people read the story and more than 1,000 people tweeted it out," she explained."And I started getting leads…The first two have connected with my aunt's transplant coordinator and are starting the process to go through the test to see if they're a match."An experience like this makes you realize that social media isn't a group of people looking to disconnect, it's a group of people looking to connect with many" she told the magazine.
+/n

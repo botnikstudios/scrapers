@@ -1,0 +1,44 @@
+Vega in this hot leather mini. All-over leather at this long of a dress length would typically make us cringe, but the Machette Kills star works this Lorena Sarbu dress perfectly by adhearing to a few critical rules of the "raw hide&quo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/467972/alexa-vega-demonstrates-how-to-rock-a-tight-leather-frock');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201398/rs_634x1024-131008100258-634.Alexa-Vega-jmd-100813_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alexa Vega");
+	var imageCaption = encodeURIComponent("Alexa Vega");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason LaVeris/FilmMagic
+
+Every once in awhile we feel like we're getting totally schooled in a very specific style. Take Alexa Vega in this hot leather mini.All-over leather at this long of a dress length would typically make us cringe, but the Machette Kills star works this Lorena Sarbu dress perfectly by adhearing to a few critical rules of the "raw hide" wearing road.
+
+Rule #1: Stick with an understated color. This slate grey with a silver shine works perfectly, as would a black, but things get too crazy when you step into bold color territory, and forget red all-together—way too devil-inspired.Rule #2: A little embellishment goes a long way. The studded detail on this dress gives it some depth without taking over the look.Rule #3: Longer can actually be sexier. This below-the-knee cut leads to a '50s feel that reminds us of our favorite Mad Men vixens.And finally, Rule #4: When in doubt, rock some major cleavage and call it a day!
+/n

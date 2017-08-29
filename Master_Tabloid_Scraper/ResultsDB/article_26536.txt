@@ -1,0 +1,76 @@
+Angelina Jolie and Brad Pitt Had a Happy Wedding Day, but Getting Married Was the Beginning of the End for Hollywood's Favorite Couple Whomever Angelina Jolie married in 2014 was the same man she fell in love with in 2004. But not long .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875230/angelina-jolie-and-brad-pitt-had-a-happy-wedding-day-but-getting-married-was-the-beginning-of-the-end-for-hollywood-s-favorite-couple');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016820/rs_634x1024-160920121314-634-angelina-jolie-brad-pitt--2Dec-2006.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Brad Pitt, Angelina Jolie, 2006");
+	var imageCaption = encodeURIComponent("Brad Pitt, Angelina Jolie, 2006");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Star Max via AP Images
+
+Whomever Angelina Jolie married in 2014 was the same man she fell in love with in 2004.But not long after she and Brad Pitt tied the knot, three years ago today, certain cracks started to appear in the strong front they had presented to the world for all those years of togetherness. And their marriage didn't just end last year, barely two years after becoming husband and wife. It ended with animosity.When Brad and Angie quietly wed at their chateau in France, it felt the most natural of next steps for the wildly famous yet still somewhat enigmatic couple. They had been together for almost a decade and engaged for two years already. Plus, when the kids want something...well, they obviously have the majority vote.
+
+"It does feel different," Jolie told Vanity Fair for its December 2014 issue, one-upping those who flippantly say being married as opposed to just living together doesn't feel different. "It's nice being husband and wife."So if it did feel like a new chapter in life, as opposed to just an extension of what already was, it was a little strange that they spent what should have been their honeymoon period making a movie about a couple whose marriage of 14 years is on the rocks. In By the Sea, which they at least shot amid idyllic surroundings in Malta, the newlyweds play a couple who've grown apart and become infatuated with the amorous couple staying in the next room at a seaside hotel. Meanwhile, the husband is drinking too much and the wife attempts to seduce the young husband next door."A few friends asked if we were crazy," Jolie laughed. "A married couple going through some difficulties...and I'm directing him."She later told London's Telegraph in November 2015, on the eve of the film's release, "If we had married and were just starting a relationship it would have been a disaster, but because we have been together so long we wanted to see how far we could push our relationship and our love and see if we can work together under very intense circumstances and with very complex issues and see if it would make us better."
+
+By the Sea was Jolie and Pitt's first film together since Mr. and Mrs. Smith, the 2005 action thriller in which they play married assassins tasked with killing each other. Despite multiple protestations on their part in light of the fact that Pitt was still supposedly happily married to Jennifer Aniston at the time, Jolie confirmed down the road that they fell in love while shooting the film in 2004. Pitt and Aniston separated in January 2005 and by July of that year Pitt was already painting a picture of domesticity with Jolie in a W photo shoot and accompanying his co-star to Ethiopia when she adopted her second child, Zahara. (Pitt adopted Zahara and her brother Maddox the following year.)Jolie admitted that it was an intense experience due to all the depressing emotions that needed summoning to the surface.
+
+"I'd be directing myself and him in a scene where we're having a fight, and I'd be pulling out the parts [of Brad] that have an aggression toward me or when you're frustrated with each other—it was very heavy," Jolie said in an interview with the Directors Guild of America, before the film came out. "We kept joking that all of the crew felt like they were living in a house where the parents were fighting and you don't know where to stand or where to look."At the same time, they were, at the end of the day, acting and she said the experience actually strengthened their bond. "We may have been having big fights on the set during the day, but at night we were tag-teaming on the bedtime story," Jolie told People in 2015. "As much as we can argue and fight— and we all have our challenges—at the end I say, 'My job is to love him.'" "Brad and I have our issues, but if the characters were even remotely close to our problems we couldn't have made the film."
+
+But while Mr. and Mrs. Smith was a blockbuster, By the Sea—while a much smaller, independent film—came and went in November 2015 and wasn't reviewed particularly positively in the meantime, nor did it come close to recouping its reported $10 million budget. That had to have been a bit of a disappointment for Jolie, who in addition to co-starring and directing, also wrote the screenplay. Her Jolie Pas and Pitt's Plan B Entertainment had also joined forces to produce, making it a true Jolie-Pitt production."We're proud of ourselves for being brave enough to try it," also told the DGA. "I think By the Sea was the hardest film for me because it wasn't [issue-driven, like her feature debut, In the Land of Blood and Honey]. It's something I probably won't do very much of."On multiple levels.As 2015 came to a close and Jolie got working on her next film, in hindsight the bloom may have been off the rose. When interviews veered into personal territory after that, Jolie mainly talked about her children and all of the ways they were broadening their horizons.Not that Jolie and Pitt put on any airs about life being perfect 24/7 before they were officially Mr. and Mrs. Jolie-Pitt, nor did the duo not face their share of personal challenges (Jolie underwent a preventative double mastectomy in 2013, followed by the removal of her ovaries and fallopian tubes in 2015); but at the same time, their relationship looked awfully rosy until, as Jolie put it recently, life together became unsustainable.
+
+
+
+FRANCOIS GUILLOT/AFP/Getty Images
+
+"I'm fortunate. I think some women have a different experience depending on their partner," Jolie, pregnant at the time with twins, told Vanity Fair in 2008. "I think that affects it. I happen to be with somebody who finds pregnancy very sexy. So that makes me feel very sexy."Three years in she was also still incredibly starry-eyed when it came to Pitt, telling the magazine, "After my last divorce, I said I was absolutely going to marry somebody in another field, an aid worker or something. Then I met Brad, everything I wasn't looking for, but the best man, the best father I could possibly wish for, you know? I don't see him as an actor. I see him very much as a dad, as somebody who loves travel and architecture more than being in movies."About the question of whether she and Pitt would ever marry, she said in 2008, "People have made a lot out of it that we're not, but we both have been married before, and it's very easy to get married—but it's not easy to build a family and be parents together. And maybe we've done it backwards, but we certainly feel married."
+
+After the twins were born, bringing the grand total of children to six, Pitt told Parade in 2009, "Having a family is a choice. It's certainly more than the ball-and-chain that country songs sing about. Our family is the base that gives Angie and me the long tether to go out and do all these other things. It's a big step we've taken. We've put down roots together. As Angie and I carve out our time as a couple, we carve out our lives as individuals."Once the children were a little older, however, they were starting to ask questions. "The kids ask about marriage," Pitt told USA Weekend in 2011. "It's meaning more and more to them. So it's something we've got to look at."
+
+
+
+Courtesy: People Magazine
+
+Pitt put a fabulous diamond ring that he designed himself on Jolie's finger in 2012, but they still didn't fast-track their I-dos until Maddox, Zahara, Shiloh, Pax, Knox and Vivienne Jolie-Pitt encouraged them to go for it. (By then, Pitt's repeated claim that they wouldn't get married until it was legal for everyone was no longer a glaring issue: the U.S. Supreme Court deemed the Defense of Marriage Act unconstitutional in 2013, paving the way for gay couples to wed.) "We're just waiting for it to be the right time with the kids, with work, when it feels right," Jolie coyly told People in May 2014. "We talk about it occasionally, and the kids talk about it with us."First they legally wed in California, and then had a ceremony at their Chateau Miraval estate on Aug. 23, 2014. Jolie's veil was embroidered with the kids' drawings, Pax made a cake and all the kids helped with the vows. Overall, the wedding preparations resembled plans for an impromptu sleepover in the backyard."It's been an amazing year," Jolie told Us Weekly later on. "I married my love. My son [Maddox] became a teenager. And, I got to bring [Unbroken] to the world."
+
+Jolie reiterated to The Australian Women's Weekly in December 2014 that she was "very happy to be married," but that balancing everything their sprawling family had going on was no joke."We work really hard at nurturing our family to make sure that everybody is alright and everyone stays connected," she said. "Maintaining a marriage and raising kids is hard work. You have to really make sure that your work doesn't get in the way. That you don't do something that is going to put too much strain on your family."Was immediately teaming up for By the Sea too much strain? Aside from the unpleasant subject matter that may or may not have hit too close to home, the film flopped and, while Pitt was off shooting the World War II-era thriller Fury, Jolie was excited to get started on her next film.
+
+
+
+Frank Trapper/Corbis via Getty Images
+
+It was while Jolie was making that movie, First They Killed My Father (the kind of issue-driven project she thrives on), in Maddox's native Cambodia in 2016 that issues that had apparently been simmering beneath the surface for awhile started to boil over."Things got bad" when the film was in post-production, Jolie told Vanity Fair this summer for the magazine's September 2017 issue. "I didn't want to use that word...Things became 'difficult.'"Rejecting rumors that Pitt wanted a more stable, less itinerant existence for the family, Jolie insisted that their lifestyle "was not in any way a negative. That was not the problem. That is and will remain one of the wonderful opportunities we are able to give our children...They're six very strong-minded, thoughtful, worldly individuals. I'm very proud of them."
+
+But all that "time carved out as a couple," as Pitt mentioned in 2009, had taken a toll on the individuals.Pitt had stopped smoking weed a long time ago but he still enjoyed drinking, and it wasn't until after Jolie filed for divorce on Sept. 19, 2016, following an altercation between Pitt and Maddox aboard a flight from London to L.A., that he realized it was time to cut himself off."I've got the cleanest urinary tract in all of L.A., I guarantee you!" he joked to GQ Style last spring about all the vodka-cranberries he had been consuming since he quit drinking. "But the terrible thing is I tend to run things into the ground. That's why I've got to make something so calamitous. I've got to run it off a cliff."Asked if he felt that he did that with everything in life, he agreed. "I do it with everything, yeah. I exhaust it, and then I walk away," he said. I've always looked at things in seasons, compartmentalized them, I guess, seasons or semesters or tenures or… Yeah, it's that stupid."
+
+Jolie, making her film and wrangling six kids, couldn't have been further away from the place of extremes where Pitt found himself."It's just been the hardest time, and we're just kind of coming up for air," Jolie told VF. And though the divorce started off messily, with Jolie asking for primary custody of the children and Pitt needing to work his way back into everyone's (including the court's) good graces, they're on the same page about wanting what's best for the kids."We're all just healing from the events that led to the filing..." she trailed off. "[The kids are] not healing from divorce. They're healing from some ...from life, from things in life." Ultimately, she and Pitt "care for each other and care about our family, and we are both working towards the same goal."Once upon a time, it seemed as if they shared all of the same goals—to be good parents, to give their children a worldly existence, to fulfill themselves creatively and to do all of that together. But at this point, one shared goal is going to have to be enough.
+/n

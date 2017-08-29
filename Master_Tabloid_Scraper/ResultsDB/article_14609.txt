@@ -1,0 +1,44 @@
+UPDATE! Leona Lewis Bleeding From Fan's Lack of Love UPDATE: For anyone thinking you'd have to be crazy to want to attack the sweet Leona Lewis, well, you're not far off. London's Metropolitan Police confirm they have arr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/148908/leona-lewis-bleeding-from-fan-s-lack-of-love');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090208/293.lewis.leona.020809.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leona Lewis");
+	var imageCaption = encodeURIComponent("Leona Lewis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Lester Cohen/Getty Images
+
+UPDATE: For anyone thinking you'd have to be crazy to want to attack the sweet Leona Lewis, well, you're not far off.London's Metropolitan Police confirm they have arrested 29-year-old Peter Kowalczyk, the man accused of assaulting Lewis during yesterday's London book signing.Rather than keeping him in police custody, however, Kowalczyk has been "sectioned" by British authorities—that is, involuntarily admitted to a psychiatric ward—until Oct. 25."Thank you so much for your support, it is truly overwhelming," Lewis said in a statement this morning. "Yesterday was a horrible shock and left me extremely hurt and upset."I'm very sorry to those I wasn't able to meet at the signing. Thank you again for all of the lovely messages."________Who knew book signings could be so dangerous?!While Pamela Anderson may have known, Leona Lewis certainly didn't.The "Bleeding Love" singer was 90 minutes into autographing her autobiography, Dreams, at a London bookstore when a man waiting in line lashed out and slapped her in the head.
+
+"Leona was the victim of an unprovoked attack this afternoon at her book signing," the star's rep said in a statement. "The police were called immediately and medical attention has been sought. Leona is understandably shaken and apologizes to the fans she was unable to meet and complete signings.""Police were called at 4:35 this afternoon to the Waterstone's in Piccadilly to reports of an assault against a female," Scotland Yard spokesman Eddie Townsend confirms to E! News. "Police attended and arrested a 29-year-old man on suspicion of actual bodily harm. He is currently in custody."He also added that the VH1 Diva was taken to the hospital "as a precaution."Lewis' sophomore album, Echo, is due in mid-November. Hopefully her appearances for that will be a little more rockin' and a little less raucous than this one.—Additional reporting by Whitney English(Originally published on Oct. 14, 2009 at 11:56 a.m. PT)
+/n

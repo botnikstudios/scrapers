@@ -1,0 +1,44 @@
+Patricia Arquette Hopes Sister Alexis Arquette Is Reincarnated Into a Loving Family Patricia Arquette has one uplifting wish as she mourns the death of her sister Alexis Arquette.  After Alexis passed away from a heart attack linked to a rec.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/797559/patricia-arquette-hopes-sister-alexis-arquette-is-reincarnated-into-a-loving-family');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016826/rs_634x831-160926055702-634.Alexis-Arquette-Patricia-Arquette-JR-092616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alexis Arquette, Patricia Arquette");
+	var imageCaption = encodeURIComponent("Alexis Arquette, Patricia Arquette");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Shearer/WireImage
+
+Patricia Arquette has one uplifting wish as she mourns the death of her sister Alexis Arquette. After Alexis passed away from a heart attack linked to a recent bacterial infection and longtime battle with HIV, her famous sibling took to social media to honor her memory."To My first best friend - Cosmic Dancer," Patricia tweeted at the time. "Breaking through the veil singing StarMan." Two weeks after losing her "first best friend," the Boyhood star logged onto Twitter again to share yet another positive thought about her late sibling. "If there is reincarnation I pray to God that you come back Lex into a family that loves you as much as we do," she tweeted. 
+
+"Alexis always had to do everything first. She left before we were ready to let her go. We are all heartbroken that she is no longer with us, but we are grateful for the grace and kindness we were all shown during this difficult time," the statement continued."We are comforted by the fact that Alexis came into our family and was our brother and then our sister, and that she gave us so much love. We will love you always, Alexis. We know we were the lucky ones."
+/n

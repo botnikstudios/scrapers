@@ -1,0 +1,86 @@
+Caught on Film! Sighting of ‘Pinky’ the Very Rare Pink Dolphin Thrills Louisiana Locals/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-527d18fa493d9ef58f656a2068b4f3b4-59a50c7c7fcd9');
+				var iframe = document.getElementById('wpcom-iframe-527d18fa493d9ef58f656a2068b4f3b4-59a50c7c7fcd9');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-527d18fa493d9ef58f656a2068b4f3b4-59a50c7c7fcd9'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A local Louisiana celebrity is back in the headlines.
+Pinky the dolphin got its name and infamy from its unusual color. This “porpoise” is pink!
+The dolphin was first spotted in 2007 as a calf swimming with its mom and has reappeared several times over the past ten years.
+
+Pinky popped by again on Saturday afternoon, swimming in the Calcasieu Ship Channel near Hackberry and was captured on video by Bridget Boudreaux, who was on a boat cruise when she spotted the swimmer.
+“I about fell out the boat,” Boudreaux told KHOU. “I was like, wow, that’s not a regular dolphin, that’s a pink dolphin.”
+Boudreaux claims Pinky wasn’t alone, the animal was swimming with a group of dolphins including another pink porpoise. Unfortunately, Bordeaux was not able to get both on video.
+According to WFLA, this second “Pinky” may be the original’s calf.
+Experts are unsure why Pinky is pink, but believe it could be a form of albinism or a rare genetic mutation.
+
+Whatever made Pinky pink doesn’t matter to the dolphin’s numerous fans. The people of Louisiana who know about Pinky adore the dolphin and are quick to post pictures of any sightings they have online, sometimes on Pinky’s own Facebook page.
+ 
+/n

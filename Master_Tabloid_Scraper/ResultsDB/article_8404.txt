@@ -1,0 +1,56 @@
+EXCLUSIVE! Taylor Swift and Joe Alwyn Go Under Cover While Heading to the Gym: They're in a ''Happy Place'' and ''Doing Great'' Taylor Swift and Joe Alwyn made a rare appearance together! E! News .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869168/taylor-swift-and-joe-alwyn-go-under-cover-while-heading-to-the-gym-they-re-in-a-happy-place-and-doing-great');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017625/rs_634x1024-170725091625-634.Taylor-Swift-Joe_Alwyn-NYC-JR-072517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Taylor Swift, Joe Alwyn");
+	var imageCaption = encodeURIComponent("Taylor Swift, Joe Alwyn");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+TheImageDirect.com
+
+Taylor Swift  and Joe Alwyn made a rare appearance together!E! News can confirm the new couple have been spending time in Rhode Island over the last few days where they paid a visit to Swift's pals Ryan Reynolds and Blake Lively. On Saturday, they headed back to Swift's apartment in New York City where they were photographed heading off to the gym.The couple covered up with umbrellas and hoodies as they went to work out. Swift wore a black hoodie and black leggings, which she accessorized with a black backpack and a pair of white tennis shoes. Similarly, Alwyn stepped out in a black jacket with a blue hoodie, grey sweats, brown boots and a grey backpack.As has been the case with Swift lately, she did her absolute best to hide from paparazzi and sneak off without being photographed.
+
+
+
+TheImageDirect.com
+
+"They had a lot of security," a source told us. "They loaded the cars, and after that, they snuck her out through the back. They set it up to look like she would come out through the front, but they snuck out the back."The source continued, "[Taylor and Joe] came out very covered up in black hoodies but walked closely together. She hooked her arm around his as they got in the car...They are making a huge effort to cover her up."Swift has been adamant about staying out of the public eye lately, especially as she continues to build her relationship with Alwyn.A second source told us, "She is keeping a very low profile and plans on staying that way as long as she can. She is in a happy place, even though she seems like she is hiding. She is taking care of her body and is really healthy."
+
+
+
+TheImageDirect.com
+
+As for her relationship, the insider noted, "Joe and Taylor are doing great. He is different than the other guys she has dated. He is very low-key and just a chill guy overall. They get along great and really got to know each other other over the past few months."In fact, they've both met one another's families who we're told "love" them together."Taylor is just taking extra precautionary measures in this relationship so her life is not out to the world like her past relationships," the source explained.Another insider recently reiterated that point, telling us, "She got buried in media being on top of her life during the last relationship, so she tried everything in her power to not have that happen again. She worked very closely with her security team and management to make sure her life going forward was private. She doesn't want the photos, the hysteria, the speculation. When she's ready, she'll talk about it. Don't expect this to play out like her other relationships."
+
+Needless to say, other than being photographed having coffee on a balcony in Nashville and driving in a chauffeured car in NYC, the couple has seldom been spotted out in public since news broke of their romance.
+/n

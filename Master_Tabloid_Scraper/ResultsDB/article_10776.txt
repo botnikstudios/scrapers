@@ -1,0 +1,44 @@
+Pope Francis Joins Instagram: "Pray for Me," He Says in First Photo Post He's not just any pope, he's a cool pope. Pope Francis joined Instagram Saturday, on the third anniversary of his inauguration as the leader of the .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/750151/pope-francis-joins-instagram-pray-for-me-he-says-in-first-photo-post');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016219/rs_634x792-160319072905-634-pope-francis-instagram-031916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Pope Francis, Instagram");
+	var imageCaption = encodeURIComponent("Pope Francis, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+He's not just any pope, he's a cool pope.Pope Francis joined Instagram Saturday, on the third anniversary of his inauguration as the leader of the world's estimated 1.2 billion Catholics and about a week before Easter. The 79-year-old chose the username Franciscus, which means Francis in Latin.His first post, which is also his profile pic, shows him praying, with the caption "Pray for me" written in English and eight other languages. His profile also reads, "I want to walk with you along the way of God's mercy and tenderness."Pope Francis is the first pontiff to join Instagram. In 2013, four days after he was elected pope, he took over his predecessor Pope Benedict XVI's Twitter account, which was opened the year before. His first tweet had called on his followers to "continue to pray for me."The current pontiff's English-language Twitter account has more than 8.89 million followers, while his Spanish one has more than 11.4 million. As of Saturday morning, more than 366,000 on Instagram. Pope Francis does not have a Facebook page."I am beginning a new journey, on Instagram, to walk with you along the path of mercy and the tenderness of God," read a message posted on his Twitter page Saturday.
+
+"Instagram will help recount the Papacy through images, to enable all those who wish to accompany and know more about Pope Francis' pontificate to encounter his gestures of tenderness and mercy", Msgr. Dario E. Viganò, prefect of the Vatican's Secretariat for Communications, said in a statement. "We will choose photographs from the Photographic Service of L'Osservatore Romano, selecting certain details. In this way we can show those aspects of closeness and inclusion that Pope Francis lives every day.""The Jubilee thus enters into social media in a very concrete and natural way," he added. "The social media department of the Secretariat for Communications will be responsible for the management of the Pope's Instagram account, which will post not only photos but also short videos."Instagram CEO and co-founder Kevin Systrom posted on his page a photo showing him shaking hands with the pope.
+/n

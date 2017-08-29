@@ -1,0 +1,44 @@
+Channing Tatum Trades His Abs for a Round Tummy in This Winnie-the-Pooh Bear Halloween Costume—See the Pic! Also pretty stinking cute? When Channing starts talking about his wife of six years. "...Jenna is a super mom," he gushed t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/707889/channing-tatum-trades-his-abs-for-a-round-tummy-in-this-winnie-the-pooh-bear-halloween-costume-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201572/rs_634x1024-150802072250-634.jenna-tatum.cm.8215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Channing Tatum, Jenna Dewan-Tatum");
+	var imageCaption = encodeURIComponent("Channing Tatum, Jenna Dewan-Tatum");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Angela Weiss/Getty Images
+
+Also pretty stinking cute? When Channing starts talking about his wife of six years. "...Jenna is a super mom," he gushed to Vanity Fair's August issue. " There's no other way to say it. She is there every single second, every single day. I love being a dad. They're like little mirrors running around. They show you things about yourself you wouldn't pay attention to before. Jenna says it all the time: 'Oh, my God, that is so you right there.' But I don't know if I'm good at it."Well, not every dad would dress up as Pooh Bear to delight his little girl, so we're going to guess he's doing an A-OK job so far. Channing seems to have a pretty laid-back approach to parenting, too. As he put it, "I think Woody Allen was right when he said 80 percent of success is just showing up."
+
+"Conversely, I know some guys that would've been better off without their fathers around," he told Vanity Fair. "It's case-by-case: did you get loved too much or not enough? I now look back on my own parents and have a better appreciation."
+/n

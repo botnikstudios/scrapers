@@ -1,0 +1,82 @@
+Roid Rage? 10 Stars Accused Of Bulking Up The Wrong Way/n
+
+					var next_post_url = "http://radaronline.com/photos/presidential-campaign-2016-hollywood-attacks/";
+					var prev_post_url = "http://radaronline.com/photos/jodie-sweetin-secrets-scandals-fuller-house-overdose-divorce-john-stamos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-03-01T15:10:49+00:00","caption":"Botox isn't the only injection taking Hollywood by storm! More and more actors and athletes are admitting to bulking up the wrong way with steroids, human growth hormones and other drugs. Find out who confessed to using the drugs and who continues to keep everyone guessing.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:20+00:00","caption":"Janice Dickinson accused her ex-fianc\u00e9 Sylvester Stallone of taking steroids, a rumor that has followed the actor since his Rocky days. \"He juiced me,\" she revealed on Red Eye. \"I'd wake up and my arm was as big as Popeye \u2013 steroids, testosterone, all that stuff.\" When asked if Stallone took the drug as well, she replied, \"I did confirm that, didn't I?\" Although Stallone pled guilty when he was busted with HGH in 2008, he continues to deny taking steroids.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:21+00:00","caption":"It wasn't a shock when Arnold Schwarzenegger came clean about his steroid use! \"I have no regrets about it,\" he told ABC News. \"Because at that time, it was something new that came on the market, and we went to the doctor and did it under doctor's supervision. We were experimenting with it.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:22+00:00","caption":"Dwayne \"The Rock\" Johnson admitted to using steroids in college. \"I tried it,\" the former WWE wrestler told MTV. \"Me and my buddies tried it back in the day when I was 18 or 19. Didn't know what we were doing.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:24+00:00","caption":"The once-inspirational Lance Armstrong fell from grace when he admitted to using human growth hormone, cortisone and more performance-enhancing drugs. \"I'm a flawed character, as I well know,\" he told Oprah Winfrey. \"All the fault and all the blame here falls on me.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:25+00:00","caption":"New York Yankees player Alex Rodriguez reportedly came clean about using banned substances in 2014. \"Yes, he bought performance-enhancing drugs from Biogenesis of America, paying roughly $12,000 a month to Anthony Bosch, the fake doctor who owned the clinic,\" the Miami Herald reported of a private meeting between the baseball player and the DEA. \"Yes, Bosch gave him pre-filled syringes for hormone injections into the ballplayer's stomach, and even drew blood from him in the men's room of a South Beach nightclub. And yes, the ballplayer's cousin, Yuri Sucart, was his steroid go-fer.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:27+00:00","caption":"Charlie Sheen didn't keep his steroid use to prepare for his role in Major League a secret! \"Let's just say that I was enhancing my performance a little bit,\" he told Sports Illustrated. \"It was the only time I ever did steroids. I did them for like six or eight weeks. You can print this, I don't give a f***. My fastball went from 79 [MPH] to like 85.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:29+00:00","caption":"Rapper 50 Cent was accused of taking steroids or HGH when Times Union claimed he ordered the drug from Dr. Gary Brandwein, who was being investigated at the time. Timbaland, Tyler Perry and more were accused of the crime.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:31+00:00","caption":"Steroids don't only target men! Mary J. Blige was accused of ordering steroids in the same investigation. \"Mary J. Blige has never taken any performance-enhancing illegal steroids,\" her rep told the Daily News.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:32+00:00","caption":"It was suspected Jake Gyllenhaal took steroids to bulk up for Southpaw. But the actor, who is known for his shocking body transformations for movie roles, credited gaining 15 pounds of muscle to intense workouts.\u00a0","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-01T14:52:35+00:00","caption":"I'm A Celebrity star Spencer Matthews was fired from the reality show when he checked into rehab for an addiction to steroids. \"Shortly after I arrived in Australia I told the production team that I was taking a steroid-based medication that had begun some weeks ago,\" he told Daily Mirror. \"It was in preparation for a charity boxing match which, ironically, never took place.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/celebrity-steroid-use-10.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Roid Rage? 10 Stars Accused Of Bulking Up The Wrong Way
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11celebrity-steroid-use-ppBotox isn't the only injection taking Hollywood by storm! More and more actors and athletes are admitting to bulking up the wrong way with steroids, human growth hormones and other drugs. Find out who confessed to using the drugs and who continues to keep everyone guessing.Photo credit: Splash/Getty2 of 11Sylvester Stallone still looking fit and trim at 65 walks around Beverly Hills, ca with his friendsJanice Dickinson accused her ex-fiancé Sylvester Stallone of taking steroids, a rumor that has followed the actor since his Rocky days. "He juiced me," she revealed on Red Eye. "I'd wake up and my arm was as big as Popeye – steroids, testosterone, all that stuff." When asked if Stallone took the drug as well, she replied, "I did confirm that, didn't I?" Although Stallone pled guilty when he was busted with HGH in 2008, he continues to deny taking steroids.Photo credit: Splash News3 of 11Terminator Star Arnold Schwarzenegger Seen Leaving Lunch SaturdayIt wasn't a shock when Arnold Schwarzenegger came clean about his steroid use! "I have no regrets about it," he told ABC News. "Because at that time, it was something new that came on the market, and we went to the doctor and did it under doctor's supervision. We were experimenting with it."Photo credit: Splash News4 of 11Dwayne Johnson arrives to set to film Baywatch in Deerfield Beach in FloridaDwayne "The Rock" Johnson admitted to using steroids in college. "I tried it," the former WWE wrestler told MTV. "Me and my buddies tried it back in the day when I was 18 or 19. Didn't know what we were doing."Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11Lance Armstrong Rides In RAGBRAIThe once-inspirational Lance Armstrong fell from grace when he admitted to using human growth hormone, cortisone and more performance-enhancing drugs. "I'm a flawed character, as I well know," he told Oprah Winfrey. "All the fault and all the blame here falls on me."Photo credit: Getty Images6 of 11New York Yankees Photo DayNew York Yankees player Alex Rodriguez reportedly came clean about using banned substances in 2014. "Yes, he bought performance-enhancing drugs from Biogenesis of America, paying roughly $12,000 a month to Anthony Bosch, the fake doctor who owned the clinic," the Miami Herald reported of a private meeting between the baseball player and the DEA. "Yes, Bosch gave him pre-filled syringes for hormone injections into the ballplayer's stomach, and even drew blood from him in the men's room of a South Beach nightclub. And yes, the ballplayer's cousin, Yuri Sucart, was his steroid go-fer."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Chicago White Sox v Toronto Blue JaysCharlie Sheen didn't keep his steroid use to prepare for his role in Major League a secret! "Let's just say that I was enhancing my performance a little bit," he told Sports Illustrated. "It was the only time I ever did steroids. I did them for like six or eight weeks. You can print this, I don't give a f***. My fastball went from 79 [MPH] to like 85."Photo credit: Getty Images8 of 11Canelo Alvarez v James Kirkland – Weigh-inRapper 50 Cent was accused of taking steroids or HGH when Times Union claimed he ordered the drug from Dr. Gary Brandwein, who was being investigated at the time. Timbaland, Tyler Perry and more were accused of the crime.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11GLASTONBURY FESTIVALSteroids don't only target men! Mary J. Blige was accused of ordering steroids in the same investigation. "Mary J. Blige has never taken any performance-enhancing illegal steroids," her rep told the Daily News.Photo credit: Splash News10 of 11Jake Gyllenhaal at the MGM Grand Garden Arena before Floyd Mayweather Jr. and Manny Pacquiao’s historic Welterweight Championship fightIt was suspected Jake Gyllenhaal took steroids to bulk up for Southpaw. But the actor, who is known for his shocking body transformations for movie roles, credited gaining 15 pounds of muscle to intense workouts. Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11EXCLUSIVE: Made in Chelsea Spencer Matthews and Lauren Hutton can’t stop kissing as they enjoy a day at the beach after filming in BarbadosI'm A Celebrity star Spencer Matthews was fired from the reality show when he checked into rehab for an addiction to steroids. "Shortly after I arrived in Australia I told the production team that I was taking a steroid-based medication that had begun some weeks ago," he told Daily Mirror. "It was in preparation for a charity boxing match which, ironically, never took place."Photo credit: Splash News 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+celebrity-steroid-use-ppBotox isn't the only injection taking Hollywood by storm! More and more actors and athletes are admitting to bulking up the wrong way with steroids, human growth hormones and other drugs. Find out who confessed to using the drugs and who continues to keep everyone guessing.Photo credit: Splash/GettySylvester Stallone still looking fit and trim at 65 walks around Beverly Hills, ca with his friendsJanice Dickinson accused her ex-fiancé Sylvester Stallone of taking steroids, a rumor that has followed the actor since his Rocky days. "He juiced me," she revealed on Red Eye. "I'd wake up and my arm was as big as Popeye – steroids, testosterone, all that stuff." When asked if Stallone took the drug as well, she replied, "I did confirm that, didn't I?" Although Stallone pled guilty when he was busted with HGH in 2008, he continues to deny taking steroids.Photo credit: Splash NewsTerminator Star Arnold Schwarzenegger Seen Leaving Lunch SaturdayIt wasn't a shock when Arnold Schwarzenegger came clean about his steroid use! "I have no regrets about it," he told ABC News. "Because at that time, it was something new that came on the market, and we went to the doctor and did it under doctor's supervision. We were experimenting with it."Photo credit: Splash NewsDwayne Johnson arrives to set to film Baywatch in Deerfield Beach in FloridaDwayne "The Rock" Johnson admitted to using steroids in college. "I tried it," the former WWE wrestler told MTV. "Me and my buddies tried it back in the day when I was 18 or 19. Didn't know what we were doing."Photo credit: Splash NewsLance Armstrong Rides In RAGBRAIThe once-inspirational Lance Armstrong fell from grace when he admitted to using human growth hormone, cortisone and more performance-enhancing drugs. "I'm a flawed character, as I well know," he told Oprah Winfrey. "All the fault and all the blame here falls on me."Photo credit: Getty ImagesNew York Yankees Photo DayNew York Yankees player Alex Rodriguez reportedly came clean about using banned substances in 2014. "Yes, he bought performance-enhancing drugs from Biogenesis of America, paying roughly $12,000 a month to Anthony Bosch, the fake doctor who owned the clinic," the Miami Herald reported of a private meeting between the baseball player and the DEA. "Yes, Bosch gave him pre-filled syringes for hormone injections into the ballplayer's stomach, and even drew blood from him in the men's room of a South Beach nightclub. And yes, the ballplayer's cousin, Yuri Sucart, was his steroid go-fer."Photo credit: Getty ImagesChicago White Sox v Toronto Blue JaysCharlie Sheen didn't keep his steroid use to prepare for his role in Major League a secret! "Let's just say that I was enhancing my performance a little bit," he told Sports Illustrated. "It was the only time I ever did steroids. I did them for like six or eight weeks. You can print this, I don't give a f***. My fastball went from 79 [MPH] to like 85."Photo credit: Getty ImagesCanelo Alvarez v James Kirkland – Weigh-inRapper 50 Cent was accused of taking steroids or HGH when Times Union claimed he ordered the drug from Dr. Gary Brandwein, who was being investigated at the time. Timbaland, Tyler Perry and more were accused of the crime.Photo credit: Getty ImagesGLASTONBURY FESTIVALSteroids don't only target men! Mary J. Blige was accused of ordering steroids in the same investigation. "Mary J. Blige has never taken any performance-enhancing illegal steroids," her rep told the Daily News.Photo credit: Splash NewsJake Gyllenhaal at the MGM Grand Garden Arena before Floyd Mayweather Jr. and Manny Pacquiao’s historic Welterweight Championship fightIt was suspected Jake Gyllenhaal took steroids to bulk up for Southpaw. But the actor, who is known for his shocking body transformations for movie roles, credited gaining 15 pounds of muscle to intense workouts. Photo credit: Splash NewsEXCLUSIVE: Made in Chelsea Spencer Matthews and Lauren Hutton can’t stop kissing as they enjoy a day at the beach after filming in BarbadosI'm A Celebrity star Spencer Matthews was fired from the reality show when he checked into rehab for an addiction to steroids. "Shortly after I arrived in Australia I told the production team that I was taking a steroid-based medication that had begun some weeks ago," he told Daily Mirror. "It was in preparation for a charity boxing match which, ironically, never took place."Photo credit: Splash News 
+
+
+
+
+
+
+
+
+
+/n

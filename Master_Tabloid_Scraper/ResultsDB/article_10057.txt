@@ -1,0 +1,52 @@
+Tuesday's appearance. Middleton also received gift bag for her son, which was embroidered with his name and a bouquet of flowers. The bag included an Elmer the Elephant book, a potty training booklet and a color-sorting clock. "The.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/636923/kate-middleton-announces-her-due-date-when-is-it');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015218/rs_634x1210-150318071306-634.Kate-Middleton-JR-31815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Catherine, Duchess of Cambridge, Kate Middleton");
+	var imageCaption = encodeURIComponent("Catherine, Duchess of Cambridge, Kate Middleton");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alex Lentati - WPA Pool/Getty Images
+
+Prince George will be a big brother sooner than later!Kate Middleton revealed that she is expecting her second child to arrive by the "mid-to-end" of April.The Duchess of Cambridge broke the news to volunteers at Brookhill Children's Centre in Woolwich, where she attended a coffee breakfast before watching a training session and visiting an on-site nursery. "I told her she is beautiful and that she's got a tiny little bump," volunteer Christie Osborne, 49, told reporters following Middleton's visit. "I asked when her baby is due and she said mid-to-end of April."While Middleton revealed her due date, she did not reveal the sex of her second child.Wearing a polka dot ASOS maternity dress with black shoes, Middleton, 33, chatted with parents and kids supported by Home Start. The charity runs the center, as well as its network of 15,000 volunteers.Per usual, Middleton's $63 dress sold out immediately after Tuesday's appearance.
+
+Home Start recruits and trains volunteers to support parents with at least one child under the age of 5. Founded in 1973, the charity helps more than 29,000 families each year who are dealing with a variety of child-related issues. Home Start also runs four of Greenwich council's 24 children's centers. "People will have felt that their contribution to family support is really valued because of her visit and that's the most important thing for me," executive Rob Parkinson told the British press. "The Duchess had a nice chat with a couple of mums and they were able to share their experiences, forthcoming or otherwise."As expected, Middleton was a hit with the children. She laughed as Ayo, a 3-year-old boy, said "ta-da!" as he presented her with a card made by children. After checking out the greeting, Prince William's wife marveled, "It's a very big card isn't it? What's on the front?" Ayo told the pregnant royal, "It's a flower!"Agnieszka Cierpol, who works with Ayo, said, "He comes in every day for three hours.""He's a very bright child and from the beginning he could talk," Cierpol continued. "Most of the children here have problems, they can't speak or they have issues with their social skills, but he is very smart."
+
+
+
+
+Alex Lentati - WPA Pool/Getty Images
+
+Middleton also received gift bag for her son, which was embroidered with his name and a bouquet of flowers. The bag included an Elmer the Elephant book, a potty training booklet and a color-sorting clock."The Duchess had a chat with my little one and she asked about the color of the flowers," said Marvellous Nyanhi, 35. "She asked me why I'm here so I told her I was a supported family at first because I was in a really bad place at the time, but now I have trained to be a Home Start volunteer."Meanwhile, Middleton's in-laws, Prince Charles and Camilla Parker-Bowles, began their U.S. Tuesday.Love all things royal? Check out E!'s new series The Royals, airing Sundays at 10 p.m.
+/n

@@ -1,0 +1,99 @@
+Inside Natalee Holloway’s Final Hours Before She Vanished: ‘I Remember Seeing Her in a White Car Driving Away’/n
+
+The last time Jessica Caiola saw Natalee Holloway, who vanished during a 2005 high school graduation trip to Aruba, the 18-year-old was being driven away in a car after a night out at a local bar.
+Caiola said she assumed that Holloway had gotten a ride back to the hotel where she and other teens from Mountain Brook High School in Birmingham, Alabama, were staying.
+She had no idea she would never see her friend again.
+Speaking out for the first time in a two-part interview with Oxygen in conjunction with the network’s new six-part series, The Disappearance of Natalee Holloway, which premiered Saturday, Caiola reveals new details about her friend’s final hours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-deb980ba611b14e8e6b6600311ed2597-59a514f8bb703');
+				var iframe = document.getElementById('wpcom-iframe-deb980ba611b14e8e6b6600311ed2597-59a514f8bb703');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-deb980ba611b14e8e6b6600311ed2597-59a514f8bb703'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Jessica Caiola on Oxygen
+After hanging out with friends at Carlos ‘n Charlie’s, a local bar on the windswept Caribbean island, Caiola and Holloway decided to head back to their hotel. They decided to grab some street food while they waited for the shuttle back to their hotel.
+All of a sudden, Caiola says in the Oxygen interview, “I remember seeing Natalee in a white car driving away.”
+“The window was down so we could see it was her in the back of the car,” she says. “My impression was ‘Oh, great, she found a ride back to the hotel.’ ”
+But Holloway never made it back to the hotel with the rest of her classmates. Her friends didn’t realize until the next morning — when they couldn’t reach her — that she had gone missing.
+Exactly what happened to her that night remains a mystery.
+Last week, Holloway’s father, Dave Holloway, whose quest to find out what happened to his daughter is the focus of the Oxygen series, told PEOPLE that unidentified human remains were discovered in Aruba, which he called a “major discovery.”
+DNA tests are currently being tested on the bones, and the results could take up to a month, he said.
+Law enforcement and Natalie’s family have long suspected Joran van der Sloot was responsible for her disappearance. He has never faced trial in connection with the case, but he is currently serving a 28-year sentence for an unrelated murder in Peru.
+Natalee HollowayCourtesy of Beth Twitty, HO/AP
+• Want to keep up with the latest crime coverage? Click hereto get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+Caiola, who spoken with the FBI over the years about her last hours with Holloway, tells Oxygen she remembers van der Sloot being at Carlos ‘n Charlie’s the night Holloway disappeared.
+“He was absolutely at Carlos’n Charlie’s, 1000 percent,” says Caiola. “Natalee and I were actually talking at the bar and interacting and having a good time.”
+Van der Sloot was also seen hanging around the group throughout the week, she says.
+“I remember seeing Joran van der Sloot at the casino at our hotel,” she says. “That was the first time I saw him and I remember chatter of him, like, ‘He’s so cute. Who’s going to hook up with him?’ Those sort of things were floating around. That was probably the extent to which I got close to him.”
+She says she doesn’t remember if Natalee was with him at that point. “What I can tell you is he was there multiple nights of our trip,” she says. “I believe it was the second to last night I saw him at the casino.”
+She adds, “I thought she was still alive and she had been sold or traded, something of that nature, and we could find her.”
+Caiola is believed to have taken the last photos of Holloway, which show her talking, smiling and dancing the night before she and the others were set to fly home.
+“I never took a photo of Natalee before that night,” Caiola says
+The Disappearance of Natalee Holloway airs on Saturday (7 p.m. ET) on Oxygen.
+/n

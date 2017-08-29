@@ -1,0 +1,80 @@
+Kendall Jenner A top arrasou com a pantacourt preta e básica de alafaiataria.  Gigi Hadid Como mostra a modelo o body e o jeans destroyed continuam em alta nessa temporada.  Rihanna No desfile da Christian Dior com botas de veludo, o must ha.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/835743/o-estilo-de-rua-das-famosas-nas-semanas-de-moda');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017127/rs_634x1024-170227094337-634.Gigi-Hadid-Milan-JR-022717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Gigi Hadid");
+	var imageCaption = encodeURIComponent("Gigi Hadid");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Xposure / AKM-GSI
+
+Vem conferir!
+
+As semanas de moda deram o que falar! Além de desfiles bafos, as famosas também arrasaram no street style pelas ruas de Paris, Londres e Milão!KENDALL JENNER E GIGI HADID DEVORAM HAMBÚRGUER APÓS DESFILEE se você está à procura de sua identidade fashion não pode perder os episódios de Mude Meu Look, toda segunda no Canal E!, às 23h! O programa é comandado pela estilista Jeannie Mai e apresenta as transformações de estilo das pessoas, que lutam para fazer escolhas que beneficiem sua imagem e reflitam melhor sua personalidade. Pura inspiração, né?Confira abaixo quais foram as peças preferidas das celebridades nessa temporada:
+
+
+
+AKM-GSI
+
+Hailey BaldwinO maxi casaco bombou entre as it girls para se protegerem do frio. 
+
+
+
+AKM-GSI
+
+Bella HadidConjunto minimalista com casaco amplo foi a escolha da top.  
+
+
+
+Neil Warner / Splash News
+
+Kendall JennerA top arrasou com a pantacourt preta e básica de alafaiataria. 
+
+
+
+Xposure / AKM-GSI
+
+Gigi HadidComo mostra a modelo o body e o jeans destroyed continuam em alta nessa temporada. 
+
+
+
+Edward Berthelot/Getty Images for Dior
+
+RihannaNo desfile da Christian Dior com botas de veludo, o must have do inverno.
+
+
+
+Splash News
+
+Victoria BeckhamNovamente o veludo marcando presença nas semanas de moda. Pode apostar na tendência!
+/n

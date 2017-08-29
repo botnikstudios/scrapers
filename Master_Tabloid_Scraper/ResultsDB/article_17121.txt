@@ -1,0 +1,44 @@
+Auditions for Frozen On Ice at the World Cup Opening Ceremony—See Her Ice Princess Costume! Did Jennifer Lopez get her sports mixed up? The "We Are One (Ole Ola)" singer kicked off soccer's biggest event (or futbol if you'.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/550986/jennifer-lopez-auditions-for-frozen-on-ice-at-the-world-cup-opening-ceremony-see-her-ice-princess-costume');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014513/rs_512x1024-140613103015-634.jennifer-lopez-world-cup-performance-fashion-0614.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Lopez");
+	var imageCaption = encodeURIComponent("Jennifer Lopez");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Buda Mendes/Getty Images
+
+Did Jennifer Lopez get her sports mixed up? The "We Are One (Ole Ola)" singer kicked off soccer's biggest event (or futbol if you're anywhere but America) in an outfit that's better fit for the opening ceremony of the Winter Olympics. Though, even that is a stretch. This bedazzled look belongs doing triple lutzes...twenty years ago.We can't technically blame the Bronx beauty for this selection. Apparently fans picked the Charbel Zoe design from three she posted. So does that mean J.Lo's fans want to see her perform in Disney On Ice: Frozen? FYI guys, she's a pop star, not an ice princess.
+
+There are some gorgeous elements to this emerald green ensemble worth celebrating. The beading is absolute perfection, that deep cut-out neckline adds a ton of drama, and we would give an arm for those Christian Louboutin ‘Marale' booties.So can we excuse some sparkle tights better fit for a five years old's dress up party? We might have to go to our color commentary reporter for an answer on that. Where's Johnny Weir when you need him?Tune-in to a brand new Fashion Police tonight at 9/8c on E!
+/n

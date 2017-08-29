@@ -1,0 +1,90 @@
+Inside American Ninja Warrior Competitor Josh Butler's Emotional & Real-Life This Is Us Story
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-77a80d5ccc030ebc5804251c946ffde6-59a55c303a88d');
+				var iframe = document.getElementById('wpcom-iframe-77a80d5ccc030ebc5804251c946ffde6-59a55c303a88d');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-77a80d5ccc030ebc5804251c946ffde6-59a55c303a88d'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+While fans of This is Us wait for the hit show to return this fall, they can tune in to another NBC program — American Ninja Warrior — to have their heartstrings pulled.
+American Ninja Warrior rookie competitor Josh Butler, whose episode airs Monday night, has an incredibly touching backstory that is astoundingly similar to Jack Pearson’s storyline on the Emmy-nominated This is Us.
+Courtesy Josh Butler
+Butler’s wife Katie gave birth to their son, Josh Dewey Butler IV, in 2015. After Dewey was born, his parents spent nearly every day in the hospital because of a rare genetic disorder that made it difficult for the newborn to breathe or eat properly.
+Their son died at Vanderbilt Children’s Hospital just 132 days after he was born. “They’re definitely some dark times. Some sad times,” Butler says in a preview of the episode (shared exclusively with PEOPLE).
+After losing their son, Butler and his wife learned about another baby boy in the hospital whose biological parents were unable to care for him.
+Courtesy Josh Butler
+“Right away, I knew it was an answer to a prayer,” says Katie in the episode.
+The baby had “some of the same illnesses” as Dewey, and the couple decided to go and meet him. And when they did, they “fell in love,” adds Josh.
+They fostered the baby, later adopting him and giving him the name Braxtel. Braxtel is now almost 3 years old, and though he is still connected to a breathing tube, he is able to communicate with his parents via sign language.
+“Going on American Ninja Warrior means I can show Brax and my family that when you dream big dreams, with God’s help, you can accomplish your goal,” Butler tells PEOPLE exclusively. “There’s no obstacle too big for God. God is carefully and intentionally growing our family, and we know that he has uniquely equipped us to care for and adopt Brax by first giving us Dewey. The show gives our family a platform to share our story of loss and love to inspire others that with God, nothing is impossible.”
+Courtesy Josh Butler
+In the pilot episode of This Is Us, Rebecca (played by Mandy Moore) and Jack Pearson (played by Milo Ventimiglia) lose one of their babies during childbirth, and the couple chooses to adopt a baby from the same hospital.
+Butler currently lives in Nashville, Tennessee, where he works at Preston Taylor Ministries, a non-profit that helps inner-city kids.
+American Ninja Warrior airs Mondays (8 p.m. ET) on NBC.
+/n

@@ -1,0 +1,44 @@
+Glenn Close Reveals She Was Raised in a Cult: "You Basically Weren't Allowed to Do Anything" Whether she's working on the big screen or on a Broadway stage, Glenn Close has proven to be a true star. But before she became .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/588861/glenn-close-reveals-she-was-raised-in-a-cult-you-basically-weren-t-allowed-to-do-anything');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201422/rs_634x1024-140302162135-634.glenn-close-oscars-030214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Glenn Close, Oscars 2014");
+	var imageCaption = encodeURIComponent("Glenn Close, Oscars 2014");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Whether she's working on the big screen or on a Broadway stage, Glenn Close has proven to be a true star.But before she became a Hollywood success story, the actress experienced a childhood very few can imagine. Turns out she spent part of her childhood in a religious cult known as the Moral Re-Armament."You basically weren't allowed to do anything, or you were made to feel guilty about any unnatural desire," Close explained in the new issue of The Hollywood Reporter. "If you talk to anybody who was in a group that basically dictates how you're supposed to live and what you're supposed to say and how you're supposed to feel, from the time you're seven till the time you're 22, it has a profound impact on you."It was her father, Dr. William Taliaferro Close, who first joined the cult. Unfortunately, it wasn't until Close enrolled at the College of William & Mary when she could escape. 
+
+"I would have dreams because I didn't go to any psychiatrist or anything," she explained. "I had these dreams, and they started with betrayal, a sense of betrayal, and then they developed into me being able to look at these people and say, ‘You're wrong. You're wrong.' And then the final incarnation of those dreams was me being able to calmly get up and walk away. And then I didn't have them anymore."Despite the fragile state of mind, Close said the cult never tried to lure her back. Instead, she was able to follow her dreams and live a fulfilling life on her own terms.Back on Broadway in Edward Albee's "A Delicate Balance," Close believes her success is attributed to her ability to forgive the cult, even if it prevented her from experiencing a normal childhood."I always thought, the way life works, the burden of forgiveness is on the child," she said. "That's the way it goes. Forgiveness is probably the most revolutionary concept there is right now in our world. Because without forgiveness, you just perpetuate what has been before. You [have to] say, ‘It's going to stop with me.'"
+/n

@@ -1,0 +1,54 @@
+EXCLUSIVE! Glitter Bombed Rose Byrne Poses in Sexy Cutout Onesie, Talks Hillary Clinton In Violet Grey While working on this Violet Grey beauty "collaboration" with makeup artist Kate Lee, Rose Bryne opted to do something most cele.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/662988/glitter-bombed-rose-byrne-poses-in-sexy-cutout-onesie-talks-hillary-clinton-in-violet-grey');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201553/rs_634x853-150603131059-634.VIOLET-GREY-Rose-Byrne.3.ms.060315.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("VIOLET GREY, Rose Byrne");
+	var imageCaption = encodeURIComponent("VIOLET GREY, Rose Byrne");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Naj Jamai/VIOLET GREY
+
+While working on this Violet Grey beauty "collaboration" with makeup artist Kate Lee, Rose Bryne opted to do something most celebrities try to avoid. She got glitter bombed.And although the results were indeed stunning—just look for yourself—apparently the X-Men Apocalypse actress was still finding sparkles between her toes for days afterward.Luckily for her, the rest of the duo's ideas were much simpler. In the two other black and white photos, the Spy actress sports a calligraphic eye liner—that reaches up to her eyebrows—while holding a flower in one shot and a floral-shaped pendant in the second image. We're just going to go ahead and assume both are some type of rose. (Because, you know, her name). 
+
+
+
+Naj Jamai/VIOLET GREY
+
+Although the star clearly had fun playing with makeup for this shoot, in her corresponding interview with The Violet Files, she expressed frustration over the fact that women are hyper-judged on their appearance."Look at Hillary Clinton. She has to spend time getting her hair and makeup done when a male candidate doesn't have to do that as much. Or at least as much grooming," says Byrne. "It really is this very old concept that we are valued for putting ourselves together and presenting ourselves….However, it's important to take care of yourself and it doesn't hurt to put on a bit of lipstick." 
+
+
+
+Naj Jamai/VIOLET GREY
+
+With that in mind, there is one lipstick color she will never put on. "Brown lipstick. The ‘90s may be back, but I'm still recovering from that look."All jokes aside, the star says, in short, her beauty belief is: "Beauty comes from within. It is a cliché, but I think it's true," she shares. But she also adds that "In this business, it's hard to reconcile that when you're constantly being told things about your appearance, whether you're too pretty or too plain or brunette or whatever their problem is."
+/n

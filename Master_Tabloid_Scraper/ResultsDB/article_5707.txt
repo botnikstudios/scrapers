@@ -1,0 +1,46 @@
+Bachelor in Paradise Stars Amanda Stanton and Robby Hayes Spark Romance Rumors While it's too soon to tell if these two are just friends or a perfect match made in paradise, both reality stars made quite the impression on fans during th.../n
+Sparks may be flying far away from the Bachelor mansion.As anticipation continues to grow for the premiere of Bachelor in Paradise next month, two cast members certainly got fans questioning their relationship status after they were spotted out over the weekend in Los Angeles.On Saturday night, Robby Hayes and Amanda Stanton were photographed holding hands in West Hollywood before enjoying an hour inside The Ivory restaurant.In addition, the pair attended the Los Angeles Dodgers baseball game where they were joined by friends and fellow Bachelor Nation members Ashley "I" Iaconetti and Jonathan Treece—also known to fans as Tickle Monster. On Sunday, the twosome also hung out again at Malibu Wines when they celebrated co-star Raven Gates' birthday. "Robby and Amanda have been spending a lot of time together," a source told E! News. "They are very affectionate towards each other."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/868981/bachelor-in-paradise-stars-amanda-stanton-and-robby-hayes-spark-romance-rumors');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017624/rs_634x1024-170724142753-634-amanda-stanton-mv-72417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amanda Stanton, Robby Hayes, Ashley I");
+	var imageCaption = encodeURIComponent("Amanda Stanton, Robby Hayes, Ashley I");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Los Angeles Dodgers 
+
+While it's too soon to tell if these two are just friends or a perfect match made in paradise, both reality stars made quite the impression on fans during their respective seasons.Fans first met Robby when he competed on The Bachelorette for JoJo Fletcher's heart. He would make the final two before JoJo ultimately accepted Jordan Rodgers' proposal.As for Amanda, fans met the mother-of-two from Orange County during Ben Higgins' season as The Bachelor.
+
+After being eliminated following hometown dates, she competed on Bachelor in Paradise where she got engaged to Josh Murray. They would ultimately call it quits after experiencing a roller coaster romance."This whole break up has been really, really hard on me and the aftermath has been really hard on me," Amanda told E! News back in April. "I'm just trying to focus on my family. I'm working a lot on my blog and I'm writing a book, which is exciting."As for whether or not we'll learn more about Robby and Amanda's chemistry on the small screen, we'll have to watch the two-night Bachelor in Paradise season premiere kicking off Monday, August 14 at 8 p.m. on ABC.
+/n

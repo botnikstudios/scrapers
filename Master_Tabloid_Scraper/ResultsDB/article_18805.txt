@@ -1,0 +1,46 @@
+Selma Blair Breastfeeds Her Son on a Trolley A kid's got to eat. Selma Blair was spotted out and about in Los Angeles Thursday, taking her 2-year-old son, Arthur, for a ride on the trolley at the Grove…and breastfeeding him while she wa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/447618/selma-blair-takes-a-ride-on-a-trolley-breastfeeds-her-son-while-she-s-at-it');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201379/rs_293x473-130809135527-634.634.blair.ls.8913.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Selma Blair, Arthur, Breastfeeding");
+	var imageCaption = encodeURIComponent("Selma Blair, Arthur, Breastfeeding");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Zodiac / Splash News
+
+A kid's got to eat.Selma Blair was spotted out and about in Los Angeles Thursday, taking her 2-year-old son, Arthur, for a ride on the trolley at the Grove…and breastfeeding him while she was at it. 
+
+This shouldn't come as much of a surprise though.The 39-year-old former Anger Management star has never been shy to breastfeed her son in public, and sparked some controversy back in 2012 when she said she didn't care who was watching."The only time he cries is if he's hungry," the actress told People that March. "We all have nipples. I don't care who I offend; my baby wants to eat. If I can't get a cover over me quick enough, so be it." 
+
+Blair couldn't help but gush about life as a first-time mom at the time, telling the mag she was "really obsessed" with her son."I never want to leave his side," she went on. "I'm one of those hovering mothers and I know it's really important to have an independent child, so I'm trying to back off, but it's hard. I love him so much, and he's so funny and cute to me."Blair and her ex-boyfriend Jason Bleick welcomed Arthur, their first child together, July 25, 2011.
+/n

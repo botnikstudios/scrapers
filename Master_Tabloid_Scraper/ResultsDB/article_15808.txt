@@ -1,0 +1,44 @@
+Melissa Leo: Dropper of the Academy's First F-Bomb? We had to check if it was official. You see, there's a first time for everything, even in Hollywood. And as it turns out, one tiny little word can cause one huge first and a whole.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/229680/melissa-leo-dropper-of-the-academy-s-first-f-bomb');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011127/reg_634.leo.lc.022711.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Melissa Leo");
+	var imageCaption = encodeURIComponent("Melissa Leo");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Caulfield/WireImage
+
+We had to check if it was official.You see, there's a first time for everything, even in Hollywood. And as it turns out, one tiny little word can cause one huge first and a whole lotta controversy in this town. Especially, if that nasty four letter word is uttered at the oh-so-professional Academy Awards during an acceptance speech by a Best Supporting Actress winner—in this case, Melissa Leo.So in an overly decadent city where people have drugs, booze and sex delivered, could this possibly be the first F bomb that an Academy Award winner has dropped in a speech?
+
+Oh, yes, it could indeed.  And the Academy itself confirmed our hunch. "We can't say 100 percent. But it is really unlikely, and we're pretty positive nothing like that has ever been said before," said the Academy in a very matter-of-fact tone. Pretty positive, huh? Well, so are we, and that's exactly what went through our minds when we heard Mel open her big mouth. Still, it's surprising to us how much press her slipup has created and how offended some folks feel.Even when we asked the Academy bookkeeper for an opinion on the incident, we were quickly told, "I'm just a librarian."Come on, now! We bet even a fancy-ass librarian would have an opinion on something as scandalous as say, Charlie Sheen. But the F word?But with such wild winners in the past, Sean Penn and Russell Crowe to name a few, how in the world did well-mannered Melissa become the one who will now forever wear the scarlet F?Or a better question? Why didn't Anne Hathaway ask James Franco WTF he was doing?
+/n

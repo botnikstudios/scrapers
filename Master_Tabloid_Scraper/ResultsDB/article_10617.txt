@@ -1,0 +1,44 @@
+Why Is Pee-wee Herman Back All of a Sudden? Is that Pee-wee Herman I just saw on Jay Leno? Why? —Vira, via the Answer B!tch inbox Yes, that is the same little man with the cute bow tie and even more adorable rap sheet. For most of you readin.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/145715/why-is-pee-wee-herman-back-all-of-a-sudden');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090923/293.herman.peewee.lc.092309.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Pee Wee Herman");
+	var imageCaption = encodeURIComponent("Pee Wee Herman");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Justin Lubin/NBC
+
+Is that Pee-wee Herman I just saw on Jay Leno? Why? —Vira, via the Answer B!tch inboxYes, that is the same little man with the cute bow tie and even more adorable rap sheet. For most of you reading this, you were probably just swimmy little zygotes when Herman (real name Paul Reubens) dominated the planet back in the 1980s with a funny TV show and an even funnier Tim Burton movie based on his childlike persona.There was even a dance step and a song called the Pee-wee Herman.And now he's making a splash on The Jay Leno Show and piling up followers on Twitter. That's your cue to gasp. Whuuuuut? Someone not under 25 is doing stuff and getting noticed?Yes, and without a clothing line, signature scent or concert movie. Instead, with Pee-wee, the new news is ...
+
+That he's back onstage, not TV.He's tippy-toeing, as he is wont to do, in a limited engagement live show. The show was originally set for the Music Box theater in Los Angeles in November, but demand has spurred Herman to move the venue; he'll be announcing the new places and dates tomorrow.
+/n

@@ -1,0 +1,50 @@
+Katherine Heigl Introduces Her First Son, Joshua Bishop Kelley Jr., to the World The photo is a part of her cover story with People magazine. "For more pics and the exclusive story check out @people magazine (out Friday) who I must prof.../n
+One month after giving birth to her third child, Katherine Heigl is introducing the baby boy to the world!The actress took to Instagram to share a precious photo of her first son, Joshua Bishop Kelley Jr., alongside her husband, Josh Kelley, and shared a sweet message to go along with it."@joshbkelley and I are beyond thrilled to finally share the arrival of our little man Joshua Bishop Kelley Jr born December 20th, weighing in at 7 pounds 15 ounces," she wrote. "We are all happy, healthy and beyond grateful!"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/824316/katherine-heigl-introduces-her-first-son-joshua-bishop-kelley-jr-to-the-world');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017025/rs_634x842-170125085134-634.Katherine-Heigl-People-Kf.12517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Katherine Heigl, People");
+	var imageCaption = encodeURIComponent("Katherine Heigl, People");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Cheyenne Ellis for People Magazine
+
+The photo is a part of her cover story with People magazine."For more pics and the exclusive story check out @people magazine (out Friday) who I must profusely thank for helping us to announce our happy news in a beautiful, honest and loving way!" she continued. "I also want to give a big hearty loving shoutout to my bestie @cheyenneellis for the gorgeous photos including this one! And one more GIANT thank you to all of you for your wonderful words of support, love and all those beautiful well wishes! As always I am incredibly grateful to have such wonderful fans!"Meanwhile, Katherine and Josh are already parents to two adopted daughters. They adopted Naleigh, 8, from South Korea in 2009, and they adopted Adalaide, 4, domestically in 2012.
+
+The couple decided to tell their daughters about their little brother when Katherine was already 12 weeks pregnant."I was so relieved to get to share it," she explained, having only told her husband and Katherine's mother, Nancy, before the girls. Needless to say, her daughters had some questions. She recalled, "[The news] was a little confusing for the girls because they'd be like, 'I grew in your tummy?' And I had to explain, 'Well, you didn't actually grow in my tummy, but your dad and I are your parents.'"
+
+In fact, Katherine's mom—who adopted her older sister, Meg, three years before the actress was born—has always told her, "'It doesn't matter how they come into your life, the moment they put that child into your arms—whether you just [gave birth] or whether they just arrived from Korea—they're yours.'"Katherine acknowledges that her daughters will eventually start to question the differences in their family, but they're not quite there yet."At the ages they are now, I don't even think they much acknowledge how different we all look," she says. "I don't think that even factors into their consciousness at this point. It will as they get older, they'll be like, 'Wait a minute, we all look really different, and what does that mean for me?'"
+
+No matter what, she explained, "We're there to support them as parents do. It's all about open communication and helping them access whatever they need to feel absolutely 100 percent secure in who they are," she says. "Whether that's about their history, their heritage, their race, their memories…we're there."
+/n

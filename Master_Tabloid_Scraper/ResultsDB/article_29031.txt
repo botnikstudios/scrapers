@@ -1,0 +1,44 @@
+of our lives. Seriously, the "I Luh Ya Papi" singer is killing it every single time she steps out as of late. This latest piece of perfection is a Lorena Sarbu mini that makes her look like she's headed to the world's mos.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/537634/stop-looking-so-perfect-jennifer-lopez-you-re-making-the-rest-of-us-look-bad');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201441/rs_634x1024-140501103423-634.Jennifer-Lopez-American-Idol-Style.jl.050114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Lopez, American Idol");
+	var imageCaption = encodeURIComponent("Jennifer Lopez, American Idol");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FOX
+
+If Jennifer Lopez shows up in one more impeccable look we're just going to throw in the towel and wear a burlap bag for the rest of our lives.Seriously, the "I Luh Ya Papi" singer is killing it every single time she steps out as of late. This latest piece of perfection is a Lorena Sarbu mini that makes her look like she's headed to the world's most fabulous birthday party aboard a yacht off the coast of Miami!
+
+It's tough, but we're not going to let our overwhelming jealousy get in the way of gushing over what makes this look so gorgeous: 1. The color! Light and bright is always a good move for the "First Love" singer, but this seafoam and silver combo may be her best two-tone choice yet!2. The cut! She flaunts what she's got and tastefully hides the rest. Few people can rock a micro mini quite like the Bronx beauty, but the roomy feel on this shift keeps it incredibly sophisticated.3. That hair! Or should we say, that mane! It's just as much a part of the outfit as any fabric or beading, and it. is. fierce.So fine, J.Lo. Hog the spotlight with your perfect style. Just don't be surprised if your old celebrity friends stop calling quite as often. Any fellow actress would be a fool to stand next to you during this epic run.
+/n

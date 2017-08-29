@@ -1,0 +1,44 @@
+Edward Furlong Totes Carry-On Luggage Upon Release From Jail, Flashes Ink-Stained Thumb Well, at least Edward Furlong's personal effects will fit in most overhead compartments. The Terminator 2: Judgment Day star was released from jail .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/420471/edward-furlong-totes-carry-on-luggage-upon-release-from-jail-flashes-ink-stained-thumb');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013417/rs_293x473-130517174820-634.EFurlongThumb.ms.051713_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Edward Furlong, Police Station, Inked Thumb");
+	var imageCaption = encodeURIComponent("Edward Furlong, Police Station, Inked Thumb");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Brooks/INFphoto.com 
+
+Well, at least Edward Furlong's personal effects will fit in most overhead compartments.The Terminator 2: Judgment Day star was released from jail today on a $50,000 bond after being arrested last night for allegedly violating his girlfriend's restraining order against him, E! News confirms.Furlong, still sporting ink on his thumb from being fingerprinted, left the West Hollywood lockup toting a rolling carry-on bag.
+
+Last night, according to the Los Angeles County Sheriff's Department, deputies responded to a call about a possible protective-order violation and Furlong was found "hiding on an adjacent property."The actor was also arrested and jailed back in February for violating the restraining order, about a month after authorities responded to a "boyfriend/girlfriend disturbance" involving the couple at an L.A.-area home. He is also still on probation for violating his then-wife's restraining order against him in November 2010.He has been booked on a felony charge, according to public records.—Reporting by Holly Passalaqua
+/n

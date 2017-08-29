@@ -1,0 +1,42 @@
+that's just the beginning. Even those unrelated to the Katy-Zooey phenomenon were affected, wearing everything from the straight-up crazy (M.I.A., Estelle) to the disappointedly underwhelming (Taylor Swift, Leona Lewis). Check it all ou.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/98919/grammys-fashion-from-quirky-crazy-to-dullsville');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090208/293.deschanel.perry.020809.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zooey Deschanel, Katy Perry");
+	var imageCaption = encodeURIComponent("Zooey Deschanel, Katy Perry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Lester Cohen/Getty Images, Kevin Mazur/Getty Images
+
+Celebrity look-alikes Zooey Deschanel and Katy Perry were both at the Grammys tonight and must have interrupted some sort of space-time continuum (as often happens when two improbably similar famous people wind up in the same vicinity), because fashion on the red carpet was oddly askew. Just take Zooey's lavender tights (with open-toe heels?!) and droopy dress, while Katy's midsection looks like it's being attacked by a mutant wedding-cake flower.And that's just the beginning. Even those unrelated to the Katy-Zooey phenomenon were affected, wearing everything from the straight-up crazy (M.I.A., Estelle) to the disappointedly underwhelming (Taylor Swift, Leona Lewis). Check it all out in our 2009 Grammys Fashion Police gallery—can you figure out what’s going on?
+/n

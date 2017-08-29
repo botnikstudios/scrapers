@@ -1,0 +1,90 @@
+The Mystery of Maura Murray, College Student Who Suddenly Vanished After 2004 Crash/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-14241a1fc9ae4779ff95779a6e63011f-59a52ad6e6b65');
+				var iframe = document.getElementById('wpcom-iframe-14241a1fc9ae4779ff95779a6e63011f-59a52ad6e6b65');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-14241a1fc9ae4779ff95779a6e63011f-59a52ad6e6b65'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+What happened to Maura Murray?
+It’s a simple question without a publicly-known answer, as Murray remains missing 13 years after she apparently vanished near a snowbank in New Hampshire where her car crashed on Feb. 9, 2004.
+Murray, then a 21-year-old nursing student at the University of Massachusetts at Amherst, had reportedly emailed to tell her professors that she was taking time off to deal with a death in her family. She packed up and she drove away.
+Her car, when it was found at the site of the wreck about 140 miles away from school on Route 112, still had her things inside, including a spilled box of wine, according to multiple news reports. But her wallet was reportedly missing, and so was Murray.
+Despite witnesses who said they seemed to see her outside her car immediately after the crash — including a bus driver who said she asked him not to call the police and said that AAA was already on the way — Murray or her body have never been found.
+In a trailer for a new series on the case, The Disappearance of Maura Murray, exclusively debuted above, Oxygen is calling what happened to her the “first crime mystery of the social media age.” That description has the partial ring of truth, since Murray’s disappearance has fascinated a network of online sleuths trafficking in a tangle of speculation, rumor and fact while trying to arrive at an answer.
+“There’s no letting go,” Murray’s father told the Associated Press in 2014. “My daughter wouldn’t want me to quit on her. She’d want me to keep trying to find out who grabbed her.”
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+Authorities have reportedly said this year that they continue to investigate Murray as a missing person.
+Did she walk away from the crash back in 2004 to seek help from or to avoid the police, only to become lost and die of exposure in the winter woods? Did someone offer her a ride? Did she want to disappear or was she killed?
+Journalist Maggie Freleng (right) in The Disappearance of Maura MurrayScott Eisen/Oxygen Media
+“There’s so many things that could have happened,’’ Murray’s brother told the Boston Globe in February. “It’s going to take someone coming forward with a piece of information to solve it and it’s probably something simple. The likely scenario is that she got picked up by someone. Maura is very smart, but she’s not street smart.’’
+According to the network, The Disappearance of Maura Murray follows reporter Maggie Freleng as she works through the “endless theories” swirling around the case and speaks with key players involved, including Murray’s family.
+The six-episode docuseries is part of the network’s “Disappearance of” franchise, alongside The Disappearance of Natalee Holloway, which followed Natalee’s father’s work to find her body and the truth of her final moments during a class trip to Aruba in 2005.
+Oxygen executive Cori Abraham said in a statement that the Murray series “will take viewers along for an emotional journey for answers surrounding her mysterious vanishing in effort to bring Maura the justice she deserves.”
+The Disappearance of Maura Murray premieres on Sept. 30 (9 p.m. ET) on Oxygen.
+/n

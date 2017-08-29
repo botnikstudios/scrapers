@@ -1,0 +1,89 @@
+Bill Cosby Greets People with Fat Albert’s ‘Hey, Hey, Hey’ as He Leaves His Sex Assault Trial/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-6a572593f0357311a562002dcd7dd3e8-59a50ae14a10d');
+				var iframe = document.getElementById('wpcom-iframe-6a572593f0357311a562002dcd7dd3e8-59a50ae14a10d');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-6a572593f0357311a562002dcd7dd3e8-59a50ae14a10d'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Comedian Bill Cosby responded to people outside of court on Tuesday, after the second day of his trial on sexual assault charges, with a “Hey, hey, hey” — the well-known greeting he popularized as ’70s animated character Fat Albert.
+The moment, captured in a video shared by NBC News, followed hours of testimony from Cosby’s alleged victim and one-time mentee, Andrea Constand. Cosby seemed to be responding to an onlooker who could be heard off-camera singing the Fat Albert and the Cosby Kids theme song.
+Constand took the stand Tuesday afternoon and testified that Cosby allegedly drugged and sexually assaulted her at his Pennsylvania mansion in January 2004.
+At the time, Constand was the director of operations for the Temple University women’s basketball team. She alleged that Cosby gave her three pills he said were herbal to help her relax. Constand alleges that after she was incapacitated by the pills, Cosby sexually assaulted her.
+Constand — whose testimony continued on Wednesday — was the sixth witness in the trial, which is expected to last two weeks.
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+Andrea Constand in court on WednesdaMark Makela/Getty
+Cosby, 79, is facing three counts of aggravated indecent assault for allegedly drugging and sexually assaulting Constand.
+He has pleaded not guilty to the charges, insisting their sexual contact was consensual, and has denied similar allegations from more than 60 women.
+On Monday, Cosby arrived in court with Keshia Knight Pulliam, who played his daughter Rudy on The Cosby Show. (“I came to support [Cosby] because this is where you hear the facts. This is where the truth happens,” Pulliam reportedly explained outside the courtroom.)
+On Tuesday, Cosby was escorted by his spokesman, Andrew Wyatt, and his attorneys.
+Bill CosbyAP Photo/Matt Rourke, Pool
+Cosby’s wife, Camille, is supposed to attend the trial at some point, Wyatt told PEOPLE, but she has yet to make an appearance.
+Lili Bernard, a former Cosby Show actress who has also accused Cosby of sexual assault, showed up in court in support of Constand. Bernard wore a button saying, “We Stand in Truth.”
+• Reporting by NICOLE WEISENSEE EGAN
+/n

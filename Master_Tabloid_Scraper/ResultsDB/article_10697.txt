@@ -1,0 +1,46 @@
+Jim Carrey Could Face Trial in 2018 Over Cathriona White's Death Jim Carrey may have to face a trail jury in the wrongful death case regarding his late girlfriend and makeup artist Cathriona White. The 30-year-old—who dated the actor on.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/858411/jim-carrey-could-face-trial-over-cathriona-white-s-death-in-2018');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015829/rs_634x754-150929163151-634-jim-carrey-cathriona-white.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jim Carrey, Cathriona White");
+	var imageCaption = encodeURIComponent("Jim Carrey, Cathriona White");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+MaxNY/FAMEFLYNET PICTURES 
+
+Jim Carrey may have to face a trail jury in the wrongful death case regarding his late girlfriend and makeup artist Cathriona White.The 30-year-old—who dated the actor on and off for three years—was found dead in her Los Angeles home in September 2015 in what coroners later ruled was a suicide from an overdose of painkillers, including Ambien, Propranolol and Percocet.White's mother, Brigid Sweetman, sued Carrey in October 2016, blaming him for her death and claiming he gave her the drugs that eventually killed her, according to court documents obtained by E! News.Sweetman also alleged Carrey "knowingly" gave her "three sexually transmitted diseases without warning her," then "lying to her about it, dumping her out of concern for saving his own public image, calling her a 'whore' and shaming her, and then using his high-priced Hollywood lawyers and 'fixers' to intimidate and threaten her in an effort to silence her."
+
+Carrey filed a response to Sweetman's lawsuit in December seeking to strike the "numerous irrelevant, false and improper" allegations she had made and calling the lawsuit a "shameful shakedown for money."Carrey and his lawyer, Raymond Boucher, argued the allegations under drugs legislation were likely to fall outside the statute of limitations and said the wrongful death claims were too vague.However, on Wednesday, E! News learned Judge Deirdre Hill of the Los Angeles Superior Court said she still needs more time to consider the case. Thus, she indicated she would not throw it out as requested by Carrey's lawyer and went forward in setting a trial date for April 2018, estimating it could last about 20 days.
+
+After the hearing, Boucher told reporters, "Mr. Carrey loved Ms. White dearly and so obviously it will be a very painful process for him."
+/n

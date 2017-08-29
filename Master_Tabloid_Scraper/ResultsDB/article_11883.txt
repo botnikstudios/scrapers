@@ -1,0 +1,44 @@
+Zac Efron Apologizes for ''Completely Insensitive'' Martin Luther King Jr. Tweet Zac Efron is doing some damage control. The actor took to Instagram today to share an apology for one of his tweets that sparked a flurry of.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/732474/zac-efron-apologizes-for-completely-insensitive-martin-luther-king-jr-tweet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015717/rs_634x1024-150817162746-634.Zac-Efron-Tonight-Show.ms.081715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zac Efron");
+	var imageCaption = encodeURIComponent("Zac Efron");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Theo Wargo/NBC/Getty Images for 'The Tonight Show Starring Jimmy Fallon'
+
+Zac Efron is doing some damage control.The actor took to Instagram today to share an apology for one of his tweets that sparked a flurry of controversy yesterday. "I have nothing but the greatest admiration and respect for Dr. Martin Luther King Jr.," his post began."I realize that last night's post was completely insensitive and I apologize to anyone who I may have offended. So sorry. Z."If you missed the whole debacle and are now super confused as to what Efron is referring to, we'll catch you up.
+
+In honor of MLK Day yesterday, Efron wanted to pay his respects, however, he decided to combine that 140-character tribute with a personal milestone of his, and together, it just didn't seem right.With an undeniably hunky photo of the star, Zac tweeted (and later deleted), "I'm grateful for a couple things today: Martin Luther King Jr & 10 million followers on IG."Hmmm...probably best as two separate tweets, which the Internet didn't waste any time expressing. "This is one of the most offensive/diminishing/disrespectful things anyone has said in relation to MLK today. Get over yourself," one user wrote, while another couldn't help but give a nod to his picture, "honey, you don't put this is one tweet... That's some hella good pic tho."Meanwhile, one user made sure to point out something completely unrelated that was making fans angry: "i would be grateful if u showed up to the hsm reunion."LOL, well, there's still that.
+/n

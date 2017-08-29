@@ -1,0 +1,60 @@
+Just Launched Her Own Lifestyle Website and It's Absolutely Everything You Would Expect Take us away, Vanessa Hudgens! The actress launched Astral & Opal into the cosmos today, wading into the increasingly crowded celebrity-lifestyl.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/725020/vanessa-hudgens-just-launched-her-own-lifestyle-website-and-it-s-absolutely-everything-you-would-expect');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015117/rs_634x1024-151207095053-634.vanessa-hudgens.cm.12715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vanessa Hudgens");
+	var imageCaption = encodeURIComponent("Vanessa Hudgens");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+Take us away, Vanessa Hudgens!The actress launched Astral & Opal into the cosmos today, wading into the increasingly crowded celebrity-lifestyle website market that has been hit and miss for pretty much everybody except Gwyneth Paltrow."I love surfing the web but nothing ever stuck with me," editor-in-chief Hudgens stated in her introductory letter from the editor. So, I thought it was time to create the site I needed in my life. As for me, I believe that life is as you make it. I want to feel good, look good and live a colorful life full of adventure. You are in the drivers seat, on an open road and only get one lifetime to make it count. We gotta live it to the fullest!
+
+"I hope Astral & Opal guides you to inspiration, passion, wisdom and makes your world a little more colorful. Enjoy!"Well isn't that just a nice little ray of sunshine to brighten up a cold winter day?In addition to her ever-evolving acting career that has taken her from the High School Musical trilogy to darker fare such as Spring Break and TK, is known for her festival-chic style and yogi-living ways. And, happily, while it's only been a day...Astral & Opal is exactly what you might expect from the 27-year-old star!
+
+First off, there's that name. Astral, relating to the stars or involving the spirit rather than the body. And opal—not just a hair color that Hudgens has tried on in the past, but also a stone that in the Middle Ages was believed to bring great luck because it encompassed the virtues of all gemstones.Deep stuff.
+
+Then there are the contributions so far: 10 beautiful crystals, a DIY green tea face mask, Janis Joplin-inspired fashion, a guide to spiritual powers linked to your birthday, and—but of course—a schedule of upcoming music festivals.If Vanessa, a Coachella regular whom we can't wait to see in the Indio desert every year so that we can see what she's wearing, hadn't included a festival rundown, we would have been concerned!
+
+
+
+Christopher Polk/Getty Images for Coachella
+
+And then of course any self-respecting lifestyle blogger preaches what she practices—be it mindfulness and gratitude or wearing cropped sweaters in winter time.
+
+
+
+Neil P. Mockford/FilmMagic
+
+Really, at the end of a long, strange year, Astral & Opal may be just what the doctor ordered in the virtual cleanse-and-recharge department.Hudgens has described her brand of spirituality as "perspective" and cites Eckhart Tolle's A New Earth, about transcending egos, as one of her favorite books."A sense of knowing I'm a part of something bigger than myself has allowed me to enjoy life more," she told Marie Claire in 2013. "And not worry about the little things."Congrats, Vanessa Hudgens, on seeing your vision come to life and we look forward to what it brings in 2016.
+/n

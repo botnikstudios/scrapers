@@ -1,0 +1,48 @@
+Guy Ritchie Puts King Arthur Star Charlie Hunnam's Fitness on Blast The King Arthur director, however, is calling his bluff. "I gotta tell you, 1000 push-ups? Not so much. You'll get 50 out of him at the most! And there's.../n
+When it comes to fitness, Guy Ritchie thinks Charlie Hunnam is all talk.That's not to say he doesn't think he's in good shape—anyone with a set of eyes can see that the action star is fit. However, when the Sherlock Holmes director got wind that the actor was claiming he'd done 1,000 push-ups every day to prepare for his role in King Arthur: Legend of the Sword, he was not buying it.E! News' Zuri Hall caught up with the two Brits at the premiere of King Arthur: Legend of the Sword premiere at the TCL Chinese Theater in Hollywood.
+
+As with so many other action films, the star of King Arthur had a pretty intense workout regimen to get ready for his role.The Sons of Anarchy star revealed to E! News that on a typical day during shooting, his fitness routine included 1,000 push-ups. We're worn out just thinking about it!"I mean there were some days I didn't hit the goal and I would try to recoup the next day," the actor told Zuri."On the days where I was fighting 14-hours a day, I let myself off and went home, and said 'Okay, let's knock a zero off this equation—100 is good enough for today."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/849628/guy-ritchie-puts-king-arthur-star-charlie-hunnam-s-fitness-on-blast');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015211/rs_634x845-150311155756-634-guy-ritchie-hunnam-charlie.ls.31115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Guy Ritchie, Charlie Hunnam, Twitter");
+	var imageCaption = encodeURIComponent("Guy Ritchie, Charlie Hunnam, Twitter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+The King Arthur director, however, is calling his bluff."I gotta tell you, 1000 push-ups? Not so much. You'll get 50 out of him at the most! And there's like a half an hour break," Ritchie said of his leading man.But while the Pacific Rim actor may not have undergone quite the transformation he described, David Beckham, who also appears in the film, looks totally unrecognizable, donning fake teeth and scars.The professional soccer player is just one of many stars appearing in King Arthur: Legend of the Sword, which includes Eric Bana, Jude Law, and Djimon Hounsou in its all-star cast. The movie follows a young Arthur, unaware of his destiny, and his rise to the throne.
+
+King Arthur: Legend of the Sword will be out in theaters everywhere Friday, May 12th, 2017.
+/n

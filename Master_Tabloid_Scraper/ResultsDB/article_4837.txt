@@ -1,0 +1,84 @@
+Katie Couric Recalls ‘Intense’ and ‘Distraught’ Scene at Charlottesville Protest: ‘It Breaks My Heart’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-70899e88814c3e0d37547f37e549c81c-59a4f7b6ec5d2');
+				var iframe = document.getElementById('wpcom-iframe-70899e88814c3e0d37547f37e549c81c-59a4f7b6ec5d2');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-70899e88814c3e0d37547f37e549c81c-59a4f7b6ec5d2'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+ 
+This article originally appeared on EW.com
+Katie Couric headed to Charlottesville, Virginia last week to begin filming a new series for National Geographic, and she soon found herself in the middle of the violent events that transpired.
+The veteran journalist, who attended the University of Virginia, has shared a personal essay and raw video from her time in the city, which was overtaken by a controversial white nationalist rally that left one counter-protestor dead and 19 more injured.
+“When we went there to shoot our series about the social, demographic and cultural changes in America, we never expected that this beautiful place would become the center of such ugliness,” she wrote. “Perhaps Charlottesville will serve as a wakeup call, that hate groups need to be taken seriously and that fair-minded people of all backgrounds and beliefs need to speak-up. Hopefully, our series will help contribute to that process.”
+In Charlottesville, Couric spoke to people on both sides, including “Unite the Right” rally organizer Jason Kessler, who, ahead of the event, told Couric he wasn’t worried about any violence taking place. Yet, as demonstrated in the video from National Geographic, there was an overwhelming amount of brutality, and in the case of Heather Heyer, it turned fatal when a driver plowed a car into counter-protestors.
+“I said at the beginning of this essay that what happened here broke my heart but also filled me with hope,” Couric wrote. “During the three days I was in the city I saw intense hatred and bitterness that provoked outrage and anger. But I also saw kindness, compassion and generosity.”
+She concluded, “That day Charlottesville stood up against hate, white supremacy, racism, anti-Semitism, homophobia, and misogynistic rhetoric and said: this is not the world we live in or want to be a part of. Hate will surface again, we know; but so will its enemies.”
+Watch the video above. Couric’s six-hour National Geographic documentary series does not yet have a premiere date.
+This article originally appeared on Ew.com
+/n

@@ -1,0 +1,85 @@
+UCLA Gymnast Gets in Formation with Jaw-Dropping Routine to Beyoncé Medley/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-0069aba6a447383cd09351ecd34d7b55-59a5869c7c713');
+				var iframe = document.getElementById('wpcom-iframe-0069aba6a447383cd09351ecd34d7b55-59a5869c7c713');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-0069aba6a447383cd09351ecd34d7b55-59a5869c7c713'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Hallie Mossett went full Queen Bey.
+The University of California, Los Angeles senior enlisted the help of some of Beyoncé‘s biggest hits during a February gymnastics competition in which she performed a Sasha Fierce-themed floor routine — and earned a near-perfect final score.
+Naturally, she began with the 2016 hit “Formation,” performing splits and flips to a round of cheers from the audience.
+Hallie Mossett
+In a series of moves that would surely make the singer proud, Mossett gave a series of seductive snaps, a fierce strut and a sensual body roll to the steamy 2013 tune “Partition.”
+Mossett then had the entire student section channeling its inner Beyoncé when she broke out moves from the mega-hit “Single Ladies.”
+FROM COINAGE: Who are the wealthiest NBA owners?
+
+Officials with the school’s gymnastics team uploaded the footage to Facebook in late February. The video has since amassed 4 million views and more than 50,000 shares.
+The athletic — and equally fierce — display came a little more than a year after Mossett suffered a fractured sternum in February 2016 and missed seven meets, according to her UCLA athletics profile.
+Talk about a comeback!
+/n

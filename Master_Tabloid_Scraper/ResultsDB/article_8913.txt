@@ -1,0 +1,42 @@
+magazine in Sunday's New York Post? It definitely counts. • Kitson isn't just dropping Lauren Conrad's line, the store's giving it away. • Old-time actor Ernest Borgnine reveals how, at 91, he's able to stay young. I.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/23863/afternoon-fix-for-your-consideration-david-silver-as-the-riddler');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080814/293.fox.green.081408.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Megan Fox, Brian Austin Green");
+	var imageCaption = encodeURIComponent("Megan Fox, Brian Austin Green");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Todd Williamson/WireImage.com
+
+• Brian Austin Green, more commonly known as David Silver, would like to play the Riddler in the next Batman movie, if that's cool with everyone else.• Rumer Willis finally landed a magazine cover. So what if it's the free magazine in Sunday's New York Post? It definitely counts.• Kitson isn't just dropping Lauren Conrad's line, the store's giving it away.• Old-time actor Ernest Borgnine reveals how, at 91, he's able to stay young. In short, he suggests that masturbation is the new Botox.• If Rachel McAdams took a time machine to the future and decided to become an assassin/femme fatale/Aeon Flux, this is what she would look like.
+/n

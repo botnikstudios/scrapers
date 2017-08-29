@@ -1,0 +1,46 @@
+Zooey Deschanel and Jacob Pechenik Welcome Son Charlie Wolf Zooey and her husband—a producer—have kept fans on their toes with a relationship that has been full of surprises. The couple started dating in mid-2014 and Pechenik proposed to the.../n
+It's a new baby boy for Zooey Deschanel.The New Girl actress and her husband Jacob Pechenik have welcomed a son, the actress' rep confirmed to E! News. The famous mom and dad named their new child Charlie Wolf Pechenik. "Zooey, Jacob and their daughter Elsie are overjoyed to welcome the newest member of their family," her rep said in a statement.The married pair will celebrate their second wedding anniversary in June. The couple welcomed a daughter, Elsie Otter Pechenik, in August 2015. It seems the new parents of two are keeping with a theme as both of their kids' middle names are animal-themed!
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/847322/zooey-deschanel-and-jacob-pechenik-welcome-son-charlie-wolf');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201749/rs_634x1024-170509064535-634-ZooeyDeschannel-MK050917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zooey Deschanel, Jacob Pechenik ");
+	var imageCaption = encodeURIComponent("Zooey Deschanel, Jacob Pechenik ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Axelle/Bauer-Griffin/FilmMagic
+
+Zooey and her husband—a producer—have kept fans on their toes with a relationship that has been full of surprises. The couple started dating in mid-2014 and Pechenik proposed to the (500) Days of Summer actress not a year later.She and her beau tied the knot in a secret wedding ceremony, shortly after which she gave birth to their firstborn baby girl. Fans were shocked when Zooey announced both pieces of news back-to-back in August 2015. In late January, news broke again that the couple was about to expand their family. 
+
+Earlier this year, Zooey opened up about what it has been like to balance work life with family life. "When you're holding your baby, you're like, 'I don't wanna go to work—this is like the best thing ever,'" Zooey told E! News's Kristin Dos Santos. "But it's nice, you know, I think, having a little girl, she knows her mommy works and I think that's a good thing."Congratulations are in order for the New Girl's new little one!People was first to report the news. 
+/n

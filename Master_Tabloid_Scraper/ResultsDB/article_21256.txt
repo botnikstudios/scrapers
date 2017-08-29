@@ -1,0 +1,88 @@
+Larry Birkhead Shares a Look Inside Daughter Dannielynn’s Life 10 Years After Anna Nicole Smith’s Death/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e53724d1e80cedffa7348392d7778c69-59a557215a911');
+				var iframe = document.getElementById('wpcom-iframe-e53724d1e80cedffa7348392d7778c69-59a557215a911');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e53724d1e80cedffa7348392d7778c69-59a557215a911'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+As the 10-year anniversary of Anna Nicole Smith‘s sudden death approaches, her ex is sharing a look inside his life as father to the late model’s 10-year-old daughter, Dannielynn Birkhead.
+In a new interview with Inside Edition, Larry Birkhead happily showed off his daily routine with Dannielynn.
+Dannielynn – who looks just like her mother – was only 5 months old when Smith died at age 39 following a drug overdose in Florida on Feb. 8, 2007.
+
+A high-profile custody battle ensued between Birkhead, Smith’s partner at the time of her death – Howard K. Stern – and Smith’s mother, Virgie Arthur. Birkhead is Dannielynn’s biological father.
+Of reports that Birkhead doesn’t allow Arthur to see her granddaughter, the 44-year-old told Inside Edition, “The problem is that people think that I’m a bad guy because I don’t want Anna’s mom to see Dannielynn and that’s actually not the truth.”
+Splash News Online
+He elaborated, “Anna’s mom has seen Dannielynn, and she’s seen her a few times. I say that only because I want the story to stop.”
+Want all the latest pregnancy and birth announcements, plus celebrity mom blogs? Click here to get those and more in the PEOPLE Babies newsletter.
+Birkhead added that he would “take all the help” he can get when it comes to raising the 10-year-old – which he’s done, so far, as a single parent.
+Gustavo Caballero/Getty
+Two years ago, Birkhead told Entertainment Tonight that he often takes Dannielynn to visit her mom’s grave and shares stories of Smith’s life.
+“I look at her and she’s my everything,” Birkhead said. “She reminds me so much of her mom and as she gets older, and her features are changing, it’s just like having a little miniature Anna Nicole running around in so many ways.”
+Birkhead’s full interview with Inside Edition will air Thursday.
+/n

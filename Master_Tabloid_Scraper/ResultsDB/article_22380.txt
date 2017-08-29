@@ -1,0 +1,94 @@
+Bonnie Tyler Will Sing ‘Total Eclipse of the Heart’ During the Actual Solar Eclipse/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-8aba123941646731621c7631f0720812-59a55fe309f6a');
+				var iframe = document.getElementById('wpcom-iframe-8aba123941646731621c7631f0720812-59a55fe309f6a');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-8aba123941646731621c7631f0720812-59a55fe309f6a'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A universal pop song and the universe are about to align.
+Guests aboard the Royal Caribbean’s Total Eclipse Cruise have an extra surprise in store for their once-in-a-lifetime viewing experience: Bonnie Tyler, the Welsh songstress of “Total Eclipse of the Heart” fame, will be on board to perform her 1983 hit just as the moon sails across the sun. (The cruise ship will be positioned in the path of totality for this critical moment. “Bonnie Tyler was a natural choice for this once-in-a-lifetime moment,” said the president and CEO of Royal Caribbean International, Michael Bayley.)
+Tyler’s song launched her to stardom and remains a classic today, especially as a karaoke favorite. But this is the first time she’ll be performing it during this highly anticipated astronomical event.
+“It’s going to be so exciting,” Tyler told TIME, speaking from a brief stopover in Wales. “It doesn’t happen very often, does it?”
+
+Tyler is a special guest on the Oasis of the Seas for a few days of the week-long cruise, which departs from Orlando, Fla. for the Caribbean on Aug. 20. Her performance will be backed by the pop-rock band DNCE, helmed by Joe Jonas and best known for their 2015 hit “Cake By the Ocean.” Tyler, meanwhile, has carried on a multi-decade career that has taken her around the world; she’s recently been on tour in New Zealand, eastern Europe and South America.
+Don’t worry about her getting seasick while on board the Oasis of the Seas or being thrown off by the eclipse. “I have a ship of my own,” she told TIME. “I go with the flow, darling. I’m not worried about things like that.”
+To prepare, Tyler and DNCE will rehearse for the day prior. Tyler also always works with her voice coach on vocal exercises to prep for a show. “So if anybody hears strange noises coming from my cabin while aboard ship, they’ll know what it is,” she warned.
+“The eclipse of the sun lasts 2 minutes and 40 minutes, I’m told,” Tyler elaborated. “Unlike my song. It had to be chopped about, because it was so long. I never thought it would be played on the radio, in the beginning.”
+
+MORE: See How the Solar Eclipse Will Look From Anywhere in the U.S.
+In fact, “Total Eclipse of the Heart” almost never happened at all. After finding success in the U.S. with 1978 ballad “It’s a Heartache,” Tyler sought to change tacks and work with the songwriter behind Meat Loaf, Jim Steinman.
+“The A&R guy said, ‘Are you crazy? He’s never going to work with you.’ And I said, ‘Well, ask him!’ You don’t get until you ask,” Tyler recalled. “So they asked him, and… I went over to meet him, and within three weeks he’d finished writing the song for me, ‘Total Eclipse of the Heart,’ that he’d started writing many years ago. And he finished it off and gave it to me to sing. I wouldn’t have had this hit record without bloody asking. And I got it.”
+Upon first hearing the track, Tyler had a strong emotional response. “It made me cry, because I loved it so much,” she remembers. She was right to believe in the song: the original hit was one of the decade’s best-selling records with six million copies sold, and was nominated for multiple Grammys in 1984. That year, Tyler lost out to Michael Jackson and Irene Cara, for “Flashdance—What a Feeling.” “Now, I don’t mind losing out to Michael Jackson, I’ll tell you that much,” she said with a laugh.
+
+But over the years, it’s remained popular as an enduring karaoke favorite. “God knows why, because it’s not an easy song to sing. But it’s a beautiful song,” Tyler added. “It’s a massive song, an evergreen song that you hear on the radio all the time, whether it’s an eclipse or not. And you know, you can bet your life on all these talent shows — X Factor, Britain’s Got Talent — [it] pops up so often with the contestants.”
+It also spikes in popularity right around eclipses. Spotify tracked a 75 percent increase in streams the day after last year’s March total solar eclipse, and YouTube views for the music video are already growing in anticipation of August’s event, putting her at more than 300 million and counting. The music video, filmed over the course of two days in the Holloway Sanatorium outside London, is also a cult classic for its otherworldly themes and non-sequitur scenes. “It was snowing on the ground, and I had to run barefoot,” Tyler remembered of making the clip.
+The Total Eclipse Cruise experience will be more straightforward for viewers — although certainly unique in its own way.
+While the cruise will continue on to visit islands in the Caribbean, Tyler will be ducking out to continue touring. Her most recent album, a Nashville-recorded collection is called Rocks and Honey.
+This article originally appeared on Time.com
+/n

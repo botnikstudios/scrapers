@@ -1,0 +1,46 @@
+Dolly Parton to Expand Dollywood With New Resort, Roller-Coaster Dolly Parton is all about big things. And her Dollywood is no exception. The country icon has announced plans to expand her popular namesake theme park in Pigeon Forge, Tenn., with ambi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/451289/dolly-parton-to-expand-dollywood-with-new-resort-roller-coaster');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20071205/293.parton.dolly.120507.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dolly Parton");
+	var imageCaption = encodeURIComponent("Dolly Parton");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Shirlaine Forrest/WireImage.com
+
+Dolly Parton is all about big things. And her Dollywood is no exception.The country icon has announced plans to expand her popular namesake theme park in Pigeon Forge, Tenn., with ambitious new attractions that will include a grand resort.Per USA Today, the resort is part of a massive $300 million upgrade that will stretch over 10 years. And, in vintage Dolly style, the 67-year-old entertainer is going all-out.
+
+The resort, which she's calling DreamMore, will feature 300 rooms and sit on 100 acres, right next to Dollywood Splash Country. To build DreamMore, Parton purchased 20 additional acres of land to add to her theme park's existing property.The star is shooting to open its doors in the summer of 2015, and she sees nothing less than grand: Plans include a lobby with a three-story window offering stunning vistas of nearby mountains. There will be lots of front porch spaces—a nod, Parton says, to her down-home country upbringing—as well as a fishing pond and fire pits, where families can roast marshmallows.
+
+Dollywood fans, however, won't have to wait until 2015 to get their new kicks at the theme park. Parton said the park will also unveil a "family-friendly" roller-coaster, called the FireChaser Express, in 2014. It's part of a larger bid to add more rides and shows to the park over the next decade.Since she built Dollywood in 1986, Parton has been instrumental in revitalizing this once poor and downtrodden corridor of eastern Tennessee and boosting the local economy by creating jobs for many in the community.Today, Dollywood reportedly employs about 3,000 workers who help her run a lucrative, multimillion-dollar operation that attracts 2.5 million visitors each year.Big, indeed.
+/n

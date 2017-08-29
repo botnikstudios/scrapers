@@ -1,0 +1,89 @@
+Leonardo DiCaprio Speaks Out on Gilbert Grape Star Darlene Cates' Death: She 'Was the Best Acting Mom I Ever Had'
+/n
+
+Leonardo DiCaprio is paying tribute about the death of Darlene Cates, the best onscreen mom he ever worked with.
+The Revenant star, who played Cates’ son in 1993’s What’s Eating Gilbert Grape, wrote on Facebook Tuesday, “Darlene was the best acting mom I ever had the privilege of working alongside.”
+He added, “Her endearing personality and incredible talent will live on in the memories of those who knew her, and those who loved her work. My thoughts and prayers are with her family during this difficult time.”
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-bf6d121b36939133ac53832114b1acbc-59a58942a48e0');
+				var iframe = document.getElementById('wpcom-iframe-bf6d121b36939133ac53832114b1acbc-59a58942a48e0');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-bf6d121b36939133ac53832114b1acbc-59a58942a48e0'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+The actress died Sunday morning in her sleep at the age of 69. Her sister, Sheri Cates Morgan, shared the news on Facebook. 
+“It is with a bitter-sweet heart that we share that our precious wife, mother, and Gaga, Darlene Guthrie Cates, was called Home, somewhat unexpectedly, peacefully in her sleep Sunday morning, March 26th,” she wrote. 
+Known for playing Johnny Depp and DiCaprio‘s obese, housebound mother in the iconic film, Cates was discovered by Gilbert Grape author and screenwriter Peter Hedges, who saw a tape of the actress on a 1985 episode of Sally Jessy Raphael titled “Too Heavy to Leave Their House.” On the show, Cates spoke candidly about her battle with obesity and the pelvic infection that caused her to gain nearly 150 lbs.
+
+“I can do moms real well. I don’t have to delve very deep to find Mom in there,” the Forney, Texas, resident told the Dallas Morning News in an interview.
+The film earned DiCaprio his first Oscar nomination when he was just 19, and he later wrote Cates a note praising her acting.
+“I’m not really the best in expressing my words in writing but you are the most special person I have ever [met],” he wrote. “I’ll always remember you as the best acting mamma I ever had. You triumphed in your role.”
+After years of health problems, Cates dropped nearly 250 lbs. with the hope of acting again.
+While Gilbert Grape is her best-known performance, Cates went on to appear in several TV shows including Picket Fences in 1994 and Touched by an Angel in 1996. She also had a small role in the 2001 film Wolf Girl.
+/n

@@ -1,0 +1,50 @@
+Sam Claflin Talks About Facing Body Insecurities While Working in Hollywood: "I Felt Like a Piece of Meat" It's no secret—Hollywood and the entertainment industry have a bad rap for body shaming. Most commonly models and actre.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859061/sam-claflin-talks-about-facing-body-insecurities-while-working-in-hollywood-i-felt-like-a-piece-of-meat');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141018/rs_634x1024-141118113004-634-sam-clafin-mockingjay-still.jw.111814.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sam Claflin, Mockingjay Premiere ");
+	var imageCaption = encodeURIComponent("Sam Claflin, Mockingjay Premiere ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jon Kopaloff/FilmMagic
+
+It's no secret—Hollywood and the entertainment industry have a bad rap for body shaming. Most commonly models and actresses share their stories, but once in a while a male figure in the space will tell his story.Sam Claflin recently sat down with The Sydney Morning Herald and shared how his experiences throughout his career have left him insecure."I remember doing one job when they literally made me pull my shirt up and were grabbing my fat and going, 'You need to lose a bit of weight,'" the 30-year-old actor said. "This other time they were slapping me. I felt like a piece of meat."
+
+The actor who played Finnick Odair in three of The Hunger Games movies stood up for his gender after reading an article about men and body shaming."I read in an interview recently and I think it's absolutely true: men have it just as bad," he said. "Well, not just as bad but they get it bad and it's never talked about.The star who is married to Guardians of the Galaxy actress Laura Haddock says they are both able to relate to each other on these types of issues, because they have both experienced body critiques while in the workplace. 
+
+"I'm not saying it's anywhere near as bad as what women go through but I, as an actor approaching each job, am insecure – especially when I have to take my top off in it – and so nervous."The actor who played Will Traynor in Me Before You shared on Instagram last year the physical transformation he underwent in order to be properly prepared to play the role of someone who lived through a serious accident. While Claflin is thankful for the roles he is fortunate enough to receive, body transformation does take a toll on him.
+
+"I get really worked up to the point where I spend hours and hours in the gym and not eating for weeks to achieve what I think they're going for."Claflin's next movie My Cousin Rachel is a little bit more relaxed and allows the star to wear "puffy shirts and britches" to give off a ritzy, posh vibe of early nineteenth century Italy."In the '50s and '60s, it was never an issue," he said. "James Bond never had a six pack. He had a hairy chest. Marlon Brando ​in A Streetcar Named Desire had an incredible body, but he was by no means ripped to within an inch of his life."
+
+Ultimately, the actor is convinced modern day society has a warped sense of reality when it comes to entertainers and what their bodies should look like through the lens of a camera."There's a filter on society that this is normal, but actually it's anything but normal."
+/n

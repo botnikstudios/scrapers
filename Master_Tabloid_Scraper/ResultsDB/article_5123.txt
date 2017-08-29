@@ -1,0 +1,46 @@
+Susan Sarandon: "My Sexual Orientation Is Up for Grabs" Susan Sarandon is open about her sexuality and sexual orientation. Way open. The 70-year-old Oscar-winning actress, who plays gay icon Bette Davis in Ryan Murphy's upcomi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/829773/susan-sarandon-my-sexual-orientation-is-up-for-grabs');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016030/rs_634x957-160130195656-634-susan-sarandon-cleavage-boobs-sag-awards-013016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Susan Sarandon, SAG Awards 2016, Arrivals");
+	var imageCaption = encodeURIComponent("Susan Sarandon, SAG Awards 2016, Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Christopher Polk/Getty Images
+
+Susan Sarandon is open about her sexuality and sexual orientation. Way open.The 70-year-old Oscar-winning actress, who plays gay icon Bette Davis in Ryan Murphy's upcoming FX series Feud: Bette and Joan, made her comments to PrideSource.com in an interview posted Wednesday.When asked if she is open about her sexuality, she joked, "Yeah, I'm open. My sexual orientation is up for grabs, I guess you could say."Susan also confirmed an old rumor—that she was once in a relationship with Philip Sayer, who starred with her and the late David Bowie in the 1983 horror movie The Hunger. She said Sayer was gay. The British actor, who died at age 42 in 1989, never talked about his sexuality to the press.
+
+"Well, I did at one point have a very successful and very loving and wonderful affair with a man who then wasn't with another woman after me, and that worked out fine!" the actress told PrideSource.com about him. "I don't think you had to declare yourself as rigidly as you do now in terms of having to declare yourself almost politically about your sexual preference.""He was a wonderful actor," she said. "He passed away, but yes, he was gay, and we had a great relationship in every way."
+
+Susan said she is a "serial monogamist."She was married once, to The Princess Bride star Chris Sarandon, from 1967 to 1979. The actress, who was born Susan Tomalin, uses his last name for her stage name.In the mid-80s, Susan dated Italian filmmaker Franco Amurri. The two share daughter Eva Amurri Martino, also and actress.The actress had also had a fling with Bowie, who she referred to as "extraordinary" in a 2014 interview with The Daily Beast.Susan's most famous relationship was with former partner Tim Robbins. They began dating in the late '80s and two share two sons—Jack, 27, and Miles, 24. The couple split in 2009. Susan then began dating Jonathan Bricklin. They split in 2015."I haven't exactly been in the midst of a lot of offers of any kind. I'm still not! I don't know what's going on!" the actress told PrideSource.com "But I think back in the '60s it just was much more open."
+/n

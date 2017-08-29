@@ -1,0 +1,44 @@
+EXCLUSIVE! Food Network Star Alton Brown and Wife DeAnna Brown Finalize Divorce Another famous chef's relationship has unfortunately gone up in flames. E! News can exclusively confirm Iron Chef America host Alton Brown recently finalize.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/658255/food-network-star-alton-brown-and-wife-deanna-brown-finalize-divorce');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015419/rs_634x898-150519130725-634.alton-brown-deanna-brown-051915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alton Brown, Deanna Brown");
+	var imageCaption = encodeURIComponent("Alton Brown, Deanna Brown");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Rick Diamond/Getty Images for Allied-THA
+
+Another famous chef's relationship has unfortunately gone up in flames.E! News can exclusively confirm Iron Chef America host Alton Brown recently finalized his divorce from wife DeAnna Brown.According to a source, the couple separated in the middle of 2014 with Alton filing papers for a divorce near his Georgia hometown later in the year. The couple has one teenage daughter.So what went wrong in this relationship that was able to stay out of the public spotlight for so long? Our source revealed Alton had been unhappy in the marriage and that the split had been coming "for a while."His busy work schedule that included a speaking tour and various cooking shows also contributed to the divorce. Alton has also worked on Good Eats, Cutthroat Kitchen and Feasting on Asphalt.
+
+This isn't the first Food Network star to recently experience some struggles in the romance department. Just one month ago, Bobby Flay filed for divorce from his wife and Law & Order: SVU actress Stephanie March.And last December, Giada De Laurentiis and husband Todd Thompson revealed that they had been separated for months. Todd ultimately filed for divorce before the new year citing irreconcilable differences.For now, Alton remains focused on his career that he hopes will continue to inspire more people to get in the kitchen and cook up something great."For every person that I meet that thanks me for teaching me how to cook, I probably get at least as many saying, ‘Gee, I don't really cook but now I'm more aware of ingredients,'" he shared in Men's Journal. "My personal belief is yet more people are cooking with a more diverse range of ingredients, based on the people I see in grocery store." 
+/n

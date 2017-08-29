@@ -1,0 +1,50 @@
+With Lifestyle Tips Liv Tyler seems to be taking a page from Gwyneth Paltrow's book… The actress is releasing an etiquette book alongside grandmother Dorothea Johnson dubbed, Modern Manners: Tools to Take You to the Top. Tyler's ha.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/480686/liv-tyler-takes-a-cue-from-gwyneth-paltrow-releases-etiquette-book-with-lifestyle-tips');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20121128/reg_634.LivTyler.mh.122812.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Liv Tyler ");
+	var imageCaption = encodeURIComponent("Liv Tyler ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Cindy Ord/WireImage
+
+Liv Tyler seems to be taking a page from Gwyneth Paltrow's book…The actress is releasing an etiquette book alongside grandmother Dorothea Johnson dubbed, Modern Manners: Tools to Take You to the Top.Tyler's handbook is a perfect mix of old school rules and ways for young ladies to navigate themselves in today's day and age.In a recent interview with beauty website Into the Gloss, the star revealed that she'd been working on the book with her grandmother (who's actually an etiquette teacher) for a long time."She started teaching me the importance of moisturizing at six years old, putting moisturizer on me every night when I got out of the bath," Tyler explained. "She also taught me things like, 'Never go to sleep without washing your face.'"Sounds like those are pretty time-tested tips indeed!
+
+
+
+Courtesy: Donata Wenders for Magnum
+
+So what are some quick pointers that Tyler and Johnson have for readers? Let's take a look.First and foremost, the book advises that you "maintain eye contact while shaking hands and greeting someone."Also, one should always make sure to "answer the phone with confidence and a smile, because that smile can be heard." And on that note, "return calls as soon as possible." Hear, hear!But their sage words also touch upon how to handle yourself during a meal.
+
+"Take small bites, and you'll find it's easier to join the conversation," the book outlines.Modern Manners also notes that you should not "text at the table," or "place any personal items on the table, including your cell phone."But one of the most poignant bits of advice the book gives is how to handle an uncomfortable situation.Tyler and Johnson explain that you should not "send confrontation or insulting e-mails, and don't respond to any sent to you."Take the high road, ladies!
+/n

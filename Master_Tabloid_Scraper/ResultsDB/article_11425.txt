@@ -1,0 +1,48 @@
+Ben Affleck Vacations in Maine With Lindsay Shookus: ''He Really Enjoys Spending Time With Her'' "The fact that they have gone public with their relationship and can do normal things is a huge relief," the sourc.../n
+Ben Affleck and his new girlfriend Lindsay Shookus continue to spend time together following the news of their romance.E! News can confirm the couple spent the weekend in Maine after he finished wrapping The Justice League, which he's been filming in London."He really enjoys spending time with Lindsay," a source told us. "They went to Maine together for a quick weekend with her family and friends."The couple was spotted at a Tony's Foodland grocery store in Naples after having grabbed a coffee at the nearby Dunkin Donuts. A local resident spotted Affleck in the parking lot and asked for a photo, telling E! News he was "nothing short of a gentleman and super sweet."
+
+Meanwhile, another source told us the couple has "a few more small trips planned in the coming weeks and will be meeting up all over the place."The insider noted that Affleck is "really happy" with Shookus and loves spending time with her.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870658/ben-affleck-vacations-in-maine-with-lindsay-shookus-he-really-enjoys-spending-time-with-her');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017611/rs_634x1024-170711071045-634.Ben-Affleck-Lindsay-Shookus-JR-071117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben Affleck, Lindsay Shookus");
+	var imageCaption = encodeURIComponent("Ben Affleck, Lindsay Shookus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NGRE / BACKGRID
+
+"The fact that they have gone public with their relationship and can do normal things is a huge relief," the source added. "They are enjoying hanging out and doing everyday things like going to get coffee or out to dinner. He thinks she is very witty and charming and loves her company."Following his divorce from Jennifer Garner, the insider explained that Ben "has felt very alone for a long time," and therefore, "having someone and a new relationship is exciting."And apparently Shookus feels the exact same as our source noted, "They are really into each other and miss each other like crazy after a few days. Since they both have kids and work, it makes it a little bit challenging. But things are going very well between them, and they won't let more than a few days pass without meeting up again." As for Garner, another insider explained, "Ben and Jen are still working hard at making this work for the kids and each other. This summer they will spend time all together as well a separately with the kids."
+
+E! News originally confirmed Affleck's relationship with Shookus earlier this month. Since then, the couple have been spotted in London, walking Central Park in New York City and grabbing coffee Los Angeles.
+/n

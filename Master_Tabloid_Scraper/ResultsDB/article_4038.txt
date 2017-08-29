@@ -1,0 +1,55 @@
+Elizabeth Banks on Hunger Games: Mockingjay: Effie Has to ''Project Runway Her Way'' Through District 13 Can't wait for The Hunger Games: Mockingjay—Part 1 to hit theaters? Well, neither can we.  And you're in l.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/576061/elizabeth-banks-on-hunger-games-mockingjay-effie-has-to-project-runway-her-way-through-district-13');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201484/rs_634x1024-140904140344-634.Elizabeth-Banks-Effie-Trinket-Hunger-Games.jl.090414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Elizabeth Banks, Hunger Games: Catching Fire");
+	var imageCaption = encodeURIComponent("Elizabeth Banks, Hunger Games: Catching Fire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Lionsgate
+
+Can't wait for The Hunger Games: Mockingjay—Part 1 to hit theaters? Well, neither can we. And you're in luck! Because not only did the first poster featuring Jennifer Lawrence as Katniss hit the web on Wednesday, but E! News also caught up with Elizabeth Bankswho stars as Effie Trinket in the hit franchise—to chat about the upcoming flick. So what's about to go down in Panem and how was it reuniting with the star-studded cast? Read on to hear Banks spill loads of Hunger Games secrets as we eagerly await for the games to begin! "Effie really is a fish out of water in District 13 and they do not have anywhere near the resources that the Capitol does," the 40-year-old beauty, who is currently promoting her partnership with Doritos as part of the Crash the Super Bowl contest, told E! News. "So Effie really finds herself having to what I like to call 'Project Runway her way' through the wardrobe that's given to everyone. Everyone gets sort of standard wardrobe in District 13 and she of course has to put her own twist on everything…she can make anything fabulous." 
+
+
+
+
+Banks' role in the movie will be beefed up from the franchise's third book—an opportunity for which she was extremely grateful. "Well she [Effie] doesn't make an appearance in District 13 in the actual book, but Suzanne Collins and Francis [Lawrence] and I…everyone sort of came to me and said ‘We really feel like Effie…it would be really fun to keep her involved in the story' and of course I'm thrilled to be a part of it and get to go to 13 and take care of Katniss a little bit longer." And while fans will have to wait until Nov. 21 to watch the highly anticipated flick, the Walk of Shame star has already seen the film and couldn't help but gush over the end result. "I'm really thrilled with the way it's turned out," she said of Mockingjay. "I think Francis [the director] has a really interesting take on the material and it's a continuation of the story of Katniss and she's one of my favorite heroines of all time." 
+
+
+
+Jason Merritt/Getty Images
+
+Although Elizabeth chose to remain mum on what it was like seeing the late Philip Seymour Hoffman on-screen following his tragic passing, she was more than happy to share what will surprise fans most about the upcoming flick. "The scope and scale is huge," the blond beauty revealed. "It's really a true action film now, we're not just in the Games anymore, we've really upped the stakes of the movie. It's really about a full scale rebellion and a war between the Capitol and the Districts. So all the action sequences are just amazing and upgraded…action-movie level stuff going on, not just the story of a small-town girl." So what was it like being back on set and reuniting with co-stars Josh Hutcherson, Liam Hemsworth and Jennifer Lawrence? "I mean we really have a lot of comradery," she gushed. "We've been through a lot making the movies. It's very rare in this business that you get to spend this much time with the same people, over and over again on something that we all care about a lot. And we really want to make a great product every time and we want to have fun while we do it and we just have really great shared perspective on the whole thing." 
+
+Another topic on which Banks and Lawrence share the same perspective? Body image. "I think that beauty comes in all shapes and forms and sizes and all different packages," she said when E! News noted how women like J.Law are redefining the Hollywood standard of beauty. "And I think it's all about celebrating value and your own self worth and promoting confidence. I think that's the most important thing we can give to young people is confidence in who they are." And who better to do so than Katniss J.Law?!
+/n

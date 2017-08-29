@@ -1,0 +1,44 @@
+Everything Emma Stone and Andrew Garfield Have Said About Each Other Since Their 2015 Break-Up Andrew Garfield and Emma Stone broke our hearts when they broke up in 2015 after being together for four years.  Almost two years after their Octo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875474/everything-emma-stone-and-andrew-garfield-have-said-about-each-since-their-2015-break-up');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201439/rs_634x1024-140409092750-634.Andrew-Garfield-Emma-Stone-JR-4914_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Andrew Garfield, Emma Stone");
+	var imageCaption = encodeURIComponent("Andrew Garfield, Emma Stone");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gareth Cattermole/Getty Images for Sony
+
+Andrew Garfield and Emma Stone broke our hearts when they broke up in 2015 after being together for four years. Almost two years after their October 2015 split, the Spider-Man lovebirds have reportedly been spending a lot of time together internationally. Emma was spotted in the audience seeing Garfield perform in the 25th anniversary revival of Angels in America at the National Theatre.The duo were reportedly caught getting cozy after leading the world, still reeling from Anna Faris and Chris Pratt's shocking split, to believe that maybe love isn't dead after all! 
+
+Emma's on break from filming and executive producing a new dark comedy Netflix series called Maniac, alongside Jonah Hill, but hopped across the pond to checked out the Brit on stage.But we have to say, we're not that surprised that the exes may be rekindling their romance. The two have gushed over each other since their break-up, have used the term "love" on more than one occasion and Andrew was clearly the Oscar winner Emma's biggest fan during the 2017 awards season. The two were constantly thrown together due to their endless nominations for La La Land and Hacksaw Ridge earlier this year, and cameras caught Andrew looking googly-eyed more than once over his former lady love during her acceptance speeches. (The Social Network star even gave his ex a standing ovation at the Golden Globes!)While nothing has been made official, the romance rumor mill is certainly spinning and hoping these two will work it out.Check out everything that the two have said about each other post-split...
+/n

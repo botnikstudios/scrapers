@@ -1,0 +1,42 @@
+Aretha Franklin on President Obama's "Respect" Flub: "Spelling and Giving It Is a Huge Difference" Aretha Franklin realizes everyone make mistakes—even the President of the United States. After Barack Obama botched t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/519246/aretha-franklin-on-president-obama-s-respect-flub-spelling-and-giving-it-is-a-huge-difference');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014210/rs_293x473-140310064753-634.Aretha-Franklin-JR-31014_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Aretha Franklin");
+	var imageCaption = encodeURIComponent("Aretha Franklin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Evan Agostini/Invision/AP
+
+Aretha Franklin realizes everyone make mistakes—even the President of the United States.After Barack Obama botched the spelling of "Respect" during the White House's Women of Soul Event last week, the Queen of Soul herself released a statement regarding the politician's flub. "I'm sure the President had much on his agenda and was just a little tired," Franklin told E! News. "However, spelling and giving it, is a huge difference. The President and I are mutual when it comes to R-E-S-P-E-C-T."Obama paid tribute to Franklin Thursday for turning the 1965 classic into "a rallying cry for African Americans, women and anyone else who felt marginalized because of what they looked like, who they loved." When he first introduced the singer, however, he misspelled "R-E-S-P-E-C-T" as "R-S-P-E-C-T."
+/n

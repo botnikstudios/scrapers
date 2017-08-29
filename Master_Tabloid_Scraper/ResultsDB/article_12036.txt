@@ -1,0 +1,153 @@
+Boy From Viral First Day of School Interview is Back/n
+Internet sensation Andrew Macias, also known as the “Are you going to miss your mom” kid, is back just in time for the new school year.
+Two years ago, Macias was being interviewed for a back-to-school special when the reporter asked him if he was going to miss his mother as he goes into pre-kindergarten. The student of City Terrance Elementary School in East Los Angeles shyly said no with a smile but then burst into tears putting his hands over his face. This adorable and heartbreaking reaction immediately went viral turning the now 6-year-old into an internet star, who’s interview was turned into endless memes and even used for an eBay commercial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-d7d81bba2cb7c489086664ddf9b2972d-59a51f8ea9384');
+				var iframe = document.getElementById('wpcom-iframe-d7d81bba2cb7c489086664ddf9b2972d-59a51f8ea9384');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-d7d81bba2cb7c489086664ddf9b2972d-59a51f8ea9384'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Now, he’s going into first grade but with no tears and excitement from his fame, as he expressed in a new interview with KTLA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e8a0c30310b5525e329f22523942ef85-59a51f8ea95b8');
+				var iframe = document.getElementById('wpcom-iframe-e8a0c30310b5525e329f22523942ef85-59a51f8ea95b8');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e8a0c30310b5525e329f22523942ef85-59a51f8ea95b8'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“He goes, ‘Mom, I’m famous. Everybody knows me,’” his mother Patricia Macias told the local news channel. “He’s happy.”
+His mother also admitted that his Internet fame was a complete shocker. “I’m like, ‘Oh, just an interview, nothing is going to happen. And then suddenly, an hour, two hours after – ‘Oh, he’s famous now. He went viral,’” she said.
+Macias is still recognized everywhere, even getting stopped to take a picture with fans.
+And although he’s reached viral status, the first grader says he’ll still miss his mom while in school.
+/n

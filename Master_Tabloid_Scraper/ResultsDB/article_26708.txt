@@ -1,0 +1,46 @@
+production out of any and all public appearances, she's been leaning more toward classic, old-Hollywood glamour as of late. Take last night's Sophia Loren-inspired look, courtesy of celeb makeup artist Sarah Tanno, for example. To .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/730223/lady-gaga-goes-old-hollywood-glam-with-her-2016-golden-globes-makeup-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016011/rs_634x1024-160111103658-634.Lady-Gaga-Sophia-Lauren-Beauty.jl.011116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lady Gaga, Golden Globes Beauty");
+	var imageCaption = encodeURIComponent("Lady Gaga, Golden Globes Beauty");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy Kevork Djansezian/Getty Images
+
+Lady Gaga is best known for her outrageous lyrics, her outright affection for her fiancé Taylor Kinney and most recently for her Best Actress win for American Horror Story: Hotel at last night's Golden Globes.What she's lesser known for is flying under the radar on the red carpet. While in the past the actress had made a production out of any and all public appearances, she's been leaning more toward classic, old-Hollywood glamour as of late. Take last night's Sophia Loren-inspired look, courtesy of celeb makeup artist Sarah Tanno, for example. To get the details on her metallic cat-eye and full look, keep reading.
+
+For Complexion: Step 1: For a radiant glow, start with clean, moisturized skin. Step 2: Color correct and conceal blemishes before applying foundation over the entire complexion. Step 3: Contour cheeks with a liquid bronzer.Step 4: Highlight the high points of the face with a peach-colored liquid luminizer to create a soft glow.
+
+For Eyes:Step 1: To start, paint the eye from brow bone to lid with a flesh-colored eye shadow as a base.Step 2: For eyeliner, map out the top and bottom lash lines with a black liner, like Lancôme Le Stylo Waterproof Long Lasting Eyeliner in Noir Intense.Step 3: Dot the inner corner of the water line with a kohl eyeliner in white.Step 4: Swipe the top lash line with a kohl eyeliner in a midnight blue shade, and then layer a swipe of navy cream shadow, like Giorgio Armani Eye Tint in #2, over that.Step 5: For a final layer, trace a shimmery, blue shadow, like Giorgio Armani Eyes to Kill Quad in #5, over the top, layered line. "Layering helps to add dimension and makes the navy metallic stand out, which brings something modern to such a classic look," assured the pro.For Lips:Step 1: For soft, natural lips, line lips in a rose shade and top that with a similar, nude-pink lipstick.
+/n

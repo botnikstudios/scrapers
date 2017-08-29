@@ -1,0 +1,45 @@
+Kelly Rowland Debuts Baby Titan Jewell on Essence Cover With Her Hubby—See the Sweet Family Pic! Whoa, baby! Kelly Rowland graces the April cover of Essence magazine with not only her hubby, Tim Weatherspoon, but her adorable newborn son, Ti.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/635682/kelly-rowland-debuts-baby-titan-jewell-on-essence-cover-with-her-hubby-see-the-sweet-family-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015217/rs_634x832-150317074620-634.Kelly-Rowland-Titan-Jewell-Weatherspoon-Tim-Weatherspoon-ESSENCE-JR-31715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kelly Rowland, Titan Jewell Weatherspoon, Tim Weatherspoon, ESSENCE");
+	var imageCaption = encodeURIComponent("Kelly Rowland, Titan Jewell Weatherspoon, Tim Weatherspoon, ESSENCE");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+KWAKU ALSTON
+
+Whoa, baby!Kelly Rowland graces the April cover of Essence magazine with not only her hubby, Tim Weatherspoon, but her adorable newborn son, Titan Jewell Weatherspoon!Up until this point, the Destiny's Child singer has only been giving fans a glimpse of her little one through several shots on Instagram of his feet and the back of his head. But now the world gets to see little baby Titan up close and personal—and what an adorable babe he is!In addition to little Titan's big magazine cover debut, Rowland gushed to Essence, "My road to my happiness hasn't been an easy one. It hasn't been peachy all the time, but I am so, so happy," she said. As for putting family first, she added with a laugh, "My priority is my husband first. That's how the baby got there."
+
+Shortly after his Nov. 4 birth, Rowland's lifelong BFF Beyoncé shared the very first photo of Titan when she Instagrammed a sweet hand-holding photo and her congratulations."There's no better feeling than holding my beautiful nephew," she gushed. "I thank god for the honor of witnessing my sisters journey into motherhood. I've always dreamt of our little ones growing up together. I'm so thankful for our bond. Baby Ty, I love you so much. Congrats to my Spoons."Michelle Williams, Kelly's other Destiny's Child bandmate, was also overjoyed by baby Titan's arrival late last year."Kelly's going to be an amazing mom," she gushed to E! News. "She's always been great with children. She loves babysitting, she loves buying stuff for kids. She has such a big heart. She's a giver and a nurturing person and, really, that's what motherhood is all about."What a beautiful family!
+/n

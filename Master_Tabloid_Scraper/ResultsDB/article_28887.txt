@@ -1,0 +1,50 @@
+Pregnant Mila Kunis Dresses Baby Bump in Blue, Steps Out With Mom Elvira—See the Pics! Mila Kunis has good jeans and good genes! Ashton Kutcher's pregnant fiancée looked supercute in distressed denim Saturday as she and mom Elvira Kunis.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/559663/pregnant-mila-kunis-dresses-baby-bump-in-blue-steps-out-with-mom-elvira-see-the-pics');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014613/rs_634x763-140713172744-634.mila-kunis-brunch-mom-friends-la-071314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mila Kunis");
+	var imageCaption = encodeURIComponent("Mila Kunis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dean/MRM/NPG.com
+
+Mila Kunis has good jeans and good genes!Ashton Kutcher's pregnant fiancée looked supercute in distressed denim Saturday as she and mom Elvira Kunis stepped out for brunch in L.A. The expectant actress completed her casual look with a sleeveless, patterned blue maternity top and white sneakers, while her equally cute mama was cute and low-key in a coordinated blue and white ensemble.Mila has always been grateful for her parents, who sacrificed a lot for the sake of their family when back in 1991 they arrived in the U.S. from Russia with just $250 to their names. "Nowadays, if you have money you think Moscow or wherever is great," Mila told the U.K.'s Telegraph in 2008. "But that's not the reality of the Russia I grew up with. My parents both had amazing jobs, and I was very lucky. We were not poor when we lived in Russia, whereas most people were very unfortunate. My parents thought that my brother and I would have no future there, though, so we moved to the United States."
+
+
+
+Dean/MRM/NPG.com
+
+"My parents had given up good jobs and degrees, which were not transferable," she said, so her mother worked at a convenience store and her dad "drove a cab, delivered toilets, painted houses, delivered pizzas. He did every job so that my brother and I could be fed. They didn't have time to go back and get their degrees because who was going to feed the children?"Despite not knowing any English, Mila was "a very outgoing child," she said, and at age 9, she asked her mom to take an acting class. "My parents wanted me to go and mix with other kids, but the class cost $900. My parents had $2,400 in the bank account, and we couldn't afford it," she recalled to the Telegraph. "But my mum took out the checkbook and signed the check. She said, 'I don't know why I am doing this', and walked away. I gave the check to the instructor."
+
+It was money well spent! Within a month, MIla met her agent and soon after landed a Barbie commercial. From there, it was more commercial spots and at age 15, a starring role on That '70s Show, where she would first meet future hubby Ashton.Clearly, Mila's mom and dad Mark Kunis have been supportive from the very beginning! And something tells us that the grandparents-to-be have passed on those strong family values to their own little girl who will soon have a little girl or boy of her own!
+/n

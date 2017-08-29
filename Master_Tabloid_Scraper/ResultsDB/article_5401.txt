@@ -1,0 +1,46 @@
+Florida Georgia Line's Tyler Hubbard and Wife Hayley Reveal the Sex of Their Baby During the party, guests were able to enjoy a delicious cake from Nashville's Crumb de la Crumb. And for those wondering, blue frosting was definitel.../n
+Tyler Hubbard is ready to find out the sex of his baby.Just a couple of days after the Florida Georgia Line member and his wife Hayley Hubbard revealed that they are expecting their first child together, the couple learned if pink or blue is in their future."Tyler's all geared up for a BOY!!!! Can't freaking wait!" Hayley shared on Instagram Friday evening. "#Diamondsordirtbikes #Genderreveal #ItsaBOY."According to People, who first broke the news, the parents-to-be had a feeling that a boy was coming soon."We're both over the moon that our first will be a little boy!" Hayley shared with the publication. "I thought it might be a boy, but Tyler was 1,000 percent confident it would be—so confident that some of our friends brought us baby boy gifts."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860232/florida-georgia-line-s-tyler-hubbard-and-wife-hayley-reveal-the-sex-of-their-baby');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201757/rs_634x1024-170607093325-634.Tyler-Hubbard-Hayley-Stommel-Hubbard-JR-060717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tyler Hubbard, Hayley Stommel Hubbard ");
+	var imageCaption = encodeURIComponent("Tyler Hubbard, Hayley Stommel Hubbard ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Shearer/Getty Images for Florida Georgia Line
+
+During the party, guests were able to enjoy a delicious cake from Nashville's Crumb de la Crumb. And for those wondering, blue frosting was definitely inside.It's been a big week for the couple who recently enjoyed a date night at the 2017 CMT Music Awards . In fact, Hayley got to watch her man perform a special collaboration with The Chainsmokers.As for the couple's pregnancy announcement Wednesday morning, Tyler was more than happy to share the good news with his fans.
+
+"I'm pretty stoked. I'm just really excited that we can officially talk about it now and get it out there and not have to keep a secret anymore," he explained to E! News. "But next year is going to be a lot of fun. I think we're having a Christmas baby."Until then, Florida Georgia Line has a full summer tour schedule that will include performances with the Backstreet Boys and Nelly in select cities.Perhaps they will have some time to cheers for all the good news, with their own Oldcamp Whiskey of course.
+/n

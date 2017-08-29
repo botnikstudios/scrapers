@@ -1,0 +1,95 @@
+Mass. Woman Allegedly Dismembered Boyfriend and Lived with Remains for Several Days: ‘Particularly Heinous’/n
+A Massachusetts woman allegedly stabbed her boyfriend more than 40 times before dismembering his body and living with his remains for several days, PEOPLE confirms.
+Kathryn Podgurski, 33, of Brockton, has pleaded not guilty. Podgurski allegedly claimed in a text to her sister several days later that “men came into the room and killed her boyfriend and made her clean up the blood,” prompting her sister to call police.
+When officers subsequently met Podgurski at a nearby hotel, she allegedly claimed she didn’t contact authorities because the alleged intruders warned her against it. She then gave them the key to the studio apartment she had shared with boyfriend Joseph Shaw and directed them to Shaw’s decomposing body in a closet.
+Parts of his arm and leg were missing, Massachusetts state trooper Michael DiMarzio wrote in his arrest report, according to multiple reports.
+Family members of Shaw, 44, later discovered his missing limbs stuffed in a backpack with a bloodied zipper that police apparently overlooked in the apartment, reports the Boston Herald.
+“It was heavy, and when I opened it, his foot popped up,” Shaw’s niece Jacina Shaw told the Herald. “We dumped it out on the bed, and there was another bag that we assume was his arm. We couldn’t figure out why the police didn’t find it. It was in plain sight.”
+Beth Stone, a spokeswoman for Plymouth County District Attorney Timothy Cruz, confirmed the discovery by members of the Shaw family, reports MassLive.
+Joseph ShawSource: Joe Shaw/Facebook
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+“The body had been there for a number of days,” Cruz told reporters at an impromptu news conference. He said nothing suggested the victim had been killed elsewhere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-c22af4c12089902c9d26cf53009700c7-59a536b57d281');
+				var iframe = document.getElementById('wpcom-iframe-c22af4c12089902c9d26cf53009700c7-59a536b57d281');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-c22af4c12089902c9d26cf53009700c7-59a536b57d281'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“I think it’s particularly heinous, I mean there were obviously over 40 stab wounds with loss of limbs,” Cruz said, reports CBSBoston. “That’s heinous and obviously, it’s a very serious matter.
+Podgurski originally was held as an accessory to murder, but was formally charged with the killing Monday in Brockton District Court. She is being held in jail without bond.
+Shaw had been reported missing by family members on July 17, with the search leading to the discovery of his body on July 21.
+Friends Remember Shaw as Kind, Giving Man
+Shaw was remembered by those who knew him from his former work with Father Bill’s and Mainspring homeless shelter.
+“I was like, ‘what do you mean Joe Joe’s missing? Joe Joe’s never missing,” Priscilla Drew, a longtime friend of Shaw’s, told The Enterprise of Brockton. “You could always find him. He’s either helping at the shelter or around somewhere.”
+Another friend, Patrick Surette, said he met Shaw years ago at the shelter. “He was always looking out for people,” he told The Enterprise. “He could tell if somebody wasn’t right or feeling down and he’d sit down and talk them through it. He helped me through a few times like that.”
+As friends and family looked for Shaw and called on his apartment, Podgurski “wasn’t letting anybody in, so that was where the confusion was,” Drew said. “We were all coming here and knocking on the door and nobody was answering.”
+A neighbor said Podgurski began to stay with Shaw at his apartment about a month ago.
+Richard LeBlanc said he knew Podgurski from her own previous stays at the homeless shelter.
+“She was a nice person but she had a mean temper,” he said. “But I never thought this would be something she would do. You never know, I guess.”
+/n

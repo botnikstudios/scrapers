@@ -1,0 +1,89 @@
+Meghan King Edmonds Calls New RHOC Castmate Peggy Sulahian 'Weird' After Tiff: 'Everybody Feels This Way'
+/n
+
+Meghan King Edmonds was not amused by her new Real Housewives of Orange County castmate Peggy Sulahian‘s antics on Monday night’s episode of the show – and, well, in general.
+“I really don’t have a relationship with Peggy, I mean, she’s weird,” Edmonds tells PEOPLE Now. “I totally do not connect with her at all.”
+Sulahian – who joined RHOC this season as the Housewives franchise’s overall 100th member – and Edmonds had an awkward showdown in the show’s latest installment. While Edmonds argued with Vicki Gunvalson over past behavior, Sulahian interjected, grabbing the 32-year-old’s lips and holding them together.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-3fe103a711557bcc3fa815b55dc9dad7-59a589da32aa0');
+				var iframe = document.getElementById('wpcom-iframe-3fe103a711557bcc3fa815b55dc9dad7-59a589da32aa0');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-3fe103a711557bcc3fa815b55dc9dad7-59a589da32aa0'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“It was just weird, like, who does that?” says Edmonds. “I literally thought she was fixing my lipstick. … That was the night I met her, I didn’t even know her.”
+She adds, “I think watching back, I would have been like, ‘Girl, who do you think you are?’ ”
+Bravo Media/Tommy Garcia
+
+Edmonds teases that her drama with Sulahian is far from over, and that viewers can expect them to “butt heads” again. Of her disinterest in Sulahian’s antics, Edmonds adds, “Everybody feels this way.”
+FROM PEN: Andy Cohen’s Top 5 Most Revealing Plead the Fifth Answers
+
+During her sit-down with PEOPLE Now, Edmonds also reacts to the fellow franchise cast member Luann D’Agostino‘s shocking divorce from husband Tom after just seven months of marriage.
+“You put your life on TV, it’s going to put stress and strain on every relationship, whether it’s your marriage, your relationship with your children, whatever, your friends, anything,” says Edmonds. “So am I surprised that a new marriage is ending so soon? Not really. It sucks, it sucks but unless you’re really strong and you can handle that, it’s hard.”
+The Real Housewives of Orange County airs Mondays (9 p.m. ET) on Bravo.
+/n

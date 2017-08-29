@@ -1,0 +1,46 @@
+Charles will be considered king and a domino effect will take place in which Sir Christopher Geidt, the queen's secretary, will contact Prime Minister Theresa May. At that point, Knight writes, confirmation of her death will also be sen.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/836650/palace-s-elaborate-funeral-plans-for-queen-elizabeth-ii-revealed');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201716/rs_634x846-170206064248-634.Queen-Elizabeth-JR-020617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Queen Elizabeth, Sapphire Jewelry");
+	var imageCaption = encodeURIComponent("Queen Elizabeth, Sapphire Jewelry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Bailey/Press Association Images
+
+"The royal family doesn't leave anything to chance," royal expert Victoria Arbiter once said in an interview. That includes properly saying goodbye to Queen Elizabeth II.While it can be nearly impossible to imagine a British monarchy without the woman who has reigned for the last 65 years, a time will come when the royal is no longer with us and, according to a thorough report from The Guardian, that day and the nine days that follow it have been completely planned out for decades. As author Sam Knight describes, the plans are known as "Operation London Bridge" and involve a network of events beginning even before the queen takes her final breath to ensure the royal's death, funeral and burial are handled seamlessly and with the utmost honor. In an ideal scenario, Queen Elizabeth II's head doctor, Professor Huw Thomas, will look over her and observe her health, perhaps issuing few public notices from the palace regarding her declining status.
+
+Once she does pass away, Prince Charles will be considered king and a domino effect will take place in which Sir Christopher Geidt, the queen's secretary, will contact Prime Minister Theresa May. At that point, Knight writes, confirmation of her death will also be sent to all the governments and nations she also served as a head of state or figurehead. No matter where she passes away, her body will ultimately be transported to the Buckingham Palace throne room to begin a 10 day sequence, overseen by the Earl Marshal, who is currently the 18th Duke of Norfolk, Edward Fitzalan-Howard. All kinds of flags, including some beach flags, will be flown at half mast, events throughout the country will be canceled and European royal families will head to the palace, according to the article. Meanwhile, the coffin containing the crown jewels will be sealed with a "false lid." 
+
+The next day, the flags will be raised again and Prince Charles will be sworn in as king before beginning a country-wide tour. Three days later, the coffin is moved to Westminster Hall during a procession and kept there for four more days. According to the report from the The Guardian, on the final day, the funeral, the crown jewels are removed from the coffin and cleaned before dawn. At 11 a.m., the coffin is brought to the Westminster Abbey doors and inside, the archbishop will lead prayers. Following the ceremony, the coffin will be placed on a carriage used by previous monarchs and carried by sailors to St. George's Chapel at Windsor Castle. The queen will be interred in the royal vault inside. 
+/n

@@ -1,0 +1,44 @@
+Niall Horan Makes Caroline Wozniacki Smile at Wimbledon After Rob McIlroy Breakup: See the Pic! What a pretty pair! While at the Wimbledon Championships in London this week, Niall Horan got the chance to meet with gorgeous tennis star Caroli.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/555136/niall-horan-makes-caroline-wozniacki-smile-at-wimbledon-after-rob-mcilroy-breakup-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014527/rs_634x844-140627111855-634.niall.cm.62714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caroline Wozniacki, Niall Horan Twitter");
+	var imageCaption = encodeURIComponent("Caroline Wozniacki, Niall Horan Twitter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+What a pretty pair!While at the Wimbledon Championships in London this week, Niall Horan got the chance to meet with gorgeous tennis star Caroline Wozniacki in between matches. The 23-year-old blond beauty shared a photo of them together on her Twitter yesterday with the caption, "Highlight of the day was to meet @NiallOfficial and get a selfie taken with him! #excited #wimbledon."In the cute pic, Wozniacki is all smiles while posing with the One Direction singer, who's sporting cool shades.
+
+Horan, who watched several tennis matches with his 1D pal Liam Payne, also tweeted his excitement for the games, writing, "Unbelievable day @wimbledon , thanks for having us! get on the court for free with @BritishTennis !"Wozniacki also gushed about meeting Horan during an interview with ESPN. "I'm guilty, I'm a fan of [One Direction]," she said. "Two of the guys were there yesterday and I got to meet Niall and take a picture, a selfie, with him...[He's] a really nice guy."While Horan and Wozniacki's meeting seems purely friendly, we can't help but notice that they'd make an adorable couple! Wozniacki is currently single after breaking up with former fiancé Rob McIlroy last month.
+/n

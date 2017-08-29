@@ -1,0 +1,44 @@
+Princess Beatrice Lands Cool Internship With Sony Pictures Television—Get the Scoop! The royal family is stepping into the world of showbiz. Princess Beatrice has taken on a new internship at Sony Pictures Television, according to the Daily .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/500381/princess-beatrice-lands-cool-internship-with-sony-pictures-television-get-the-scoop');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131021/rs_634x1024-131121162744-634.Princess-Beatrice-Velvet-Blouse-London.ms.112113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Princess Beatrice ");
+	var imageCaption = encodeURIComponent("Princess Beatrice ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David M. Benett/Getty Images
+
+The royal family is stepping into the world of showbiz.Princess Beatrice has taken on a new internship at Sony Pictures Television, according to the Daily Mail.The 25-year-old daughter of Prince Andrew and Sarah Ferguson began working at the company shortly after she quit her job at an investment capital firm.The young royal is said to have begun working at the London headquarters quite recently following a break from all professional obligations.Beatrice left Cabot Square Capital, located in Central London, at the beginning of last summer.From there, she took several months off to traipse around the globe with her close friends and her boyfriend Dave Clark.
+
+In fact, the second half of 2013 saw Beatrice living in the lap of luxury. She traveled to the South of France, spent a few weekends skiing in Switzerland, attended a wedding in South Africa, visited Venice with her mother and went on a family holiday in Spain.Meanwhile Beatrice's younger sister, Eugenie, has been living in New York City focusing on her career. The Brit started working at online auction house Paddle8 in October of last year.She graduated from England's Newcastle University in 2009 with concentrations in literature, politics and art history, and has also worked for famed auction house Christie's.The 23-year-old is reportedly living in SoHo and enjoys frequent visits from her sibling.But not for long! Beatrice's new schedule will likely be less flexible than before. 
+/n

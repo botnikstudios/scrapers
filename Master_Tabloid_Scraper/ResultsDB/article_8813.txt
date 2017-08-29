@@ -1,0 +1,107 @@
+'I'm Back B----es!' Danielle Staub Returns to RHONJ — and Teresa Giudice Is Flipping Chairs This Time
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-edf38be2352e52894043de9ac9c632a6-59a50ed278c98');
+				var iframe = document.getElementById('wpcom-iframe-edf38be2352e52894043de9ac9c632a6-59a50ed278c98');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-edf38be2352e52894043de9ac9c632a6-59a50ed278c98'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+She’s baaack!
+When The Real Housewives of New Jersey returns for its eighth season this October, it’s bring back a familiar face.
+PEOPLE has the exclusive First Look at the trailer for the hit series’ new season, which will reunite RHONJ mainstay Teresa Giudice with one of her biggest enemies: Danielle Staub.
+The tough-talking, no-nonsense mother of two is back in front of the Bravo reality TV cameras for the first time since leaving the show after its second season in 2010.
+An original Housewife of the series, Staub found herself a subject of gossip among her fellow New Jersey Housewives — specifically over her first marriage to former FBI informant Kevin Maher, who spoke openly about their past in his biography Cop Without a Badge. The book (and the allegations in it) served as the catalyst for the show’s most iconic moment: Giudice flipping a table while arguing with Staub during the season 1 finale.
+Danielle StaubRHONJ
+Of course, that was eight years ago and a lot has changed. Now Giudice, 45, and Staub, 55, have put their differences aside and are pals, even bonding over a shared love of yoga.
+That doesn’t mean Giudice isn’t still flipping furniture from time to time.
+In the season 8 trailer, the mother of four —who previously spent 11 months in jail on bankruptcy and mail fraud charges — loses her cool at Posche fashion boutique owner and perpetual RHONJ guest Kim “Kim D” DePaola, after DePaola spreads rumors that Giudice has been unfaithful while her husband Joe continues to serve his 41-month prison sentence.
+Teresa GiudiceRHONJ
+“You know what Posche stands for? Piece Of S— Coke-whore Home-wrecker Every-day,” Giudice yells at DePaola in a heated argument, turning over a chair at her. “I would love to f—ing grab you by the back of your hair!”
+The rumors also seem to cause problems between Giudice and Dolores Catania too. ‘It’s not f—-ing true! You should have f—ing stuck up for me,” Giudice yells at Catania in one scene. “I did stick up for you,” Catania shouts back. “When is it enough, huh?”
+
+
+
+
+
+ Work, Wurk, Werk repeat!!! Girl Boss no such thing as 9 to 5 #workmode #powerhouseinpigtails #girlboss
+A post shared by Margaret Josephs (@therealmargaretjosephs) on Jul 6, 2017 at 11:01am PDT
+
+
+New Housewife Margaret Josephs, meanwhile, gets into her own set of arguments. A lifestyle expert and TV personality who identifies herself as a “Power House in Pigtails,” Josephs clashes with relationship guru Siggy Flicker after mocking the fast-talking brunette. “I want to take her and pull on those pigtails until they come out of her head!” Flicker says, telling Josephs “You’re one of the ugliest human beings in the word for making fun of me.”
+Elsewhere in the clip, Melissa Gorga and husband Joe butt heads over the opening of his new family restaurant with Giudice — and appears to get on her sister-in-law’s bad side again. “She’s not a Gorga, she’s only Gorga by marriage,” Giudice says as Melissa storms off.
+Margaret Josephs, Teresa Giudice, Melissa Gorga, Dolores Catania, and Siggy FlickerRodolfo Martinez/Bravo
+RELATED VIDEO: Andy Cohen’s Pick for the Most Absurd Real Housewives Business Ever
+
+But none of that can compare to the mess Staub finds herself in.
+Just because she isn’t receiving the wrath of Giudice doesn’t mean she’s free from the drama. The newly engaged Staub, who will be returning in the “Friend of the Housewives” role this season as PEOPLE previously reported, comes in hot and gets on both Catania and Flicker’s bad side — driving a wedge between Giudice and Catania’s 20-year friendship.
+“You’re a f—ing liar, I never said that,” Catania shouts in the trailer, point a finger in Staub’s face. “I never said that.”
+“You’re f—ed up!,” Flicker tells Staub, moments before Staub stars smashing glasses at a tense dinner.
+The Real Housewives of New Jersey season 8 premieres Oct. 4 at 9 p.m. ET on Bravo. More immediately, the network is airing The Real Housewives of New Jersey: How They Got Here special Tuesday at 9:30 p.m. ET.
+Put your celeb and pop culture knowledge to the test and download PEOPLE and Zynga’s Crosswords with Friends!
+/n

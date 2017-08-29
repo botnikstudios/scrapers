@@ -1,0 +1,52 @@
+Zendaya Says She's Not Dating Tom Holland: ''We Are Friends'' She added, "This past how many months we've had to do press tours together. There's very few people that will understand what that's l.../n
+Tom Holland just got friend zoned. In Variety's Power of Young Hollywood issue, Zendaya denies she's in a relationship with her Spider-Man: Homecoming co-star. "We are friends," the actress clarified, responding with a "no" when asked if they're each other's boyfriend and girlfriend. As E! News previously reported, a source said the pair had started dating a few months ago after their professional relationship took a turn for something more meaningful. "They got to know each other while on set," our insider explained. "They both are such great people. It's cool they got together."But from Zendaya's point of view, things between her and Holland never went to the next level. She explained, "He's a great dude. He's literally one of my best friends."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872182/zendaya-says-she-s-not-dating-tom-holland-we-are-friends');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201778/rs_792x1024-170808115956-POY_Zendaya.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zendaya, Variety Magazine");
+	var imageCaption = encodeURIComponent("Zendaya, Variety Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Zoey Grossman for Variety
+
+She added, "This past how many months we've had to do press tours together. There's very few people that will understand what that's like at 20-years-old."Tom, 21, has yet to comment on the actress's remarks. Speculation that the pair was in a relationship sparked long before Spider-Man: Homecoming's release. The attention from paparazzi got so bad, in fact, that Zendaya and Holland found themselves in a scary situation while driving together. "We tried to do this whole maneuver," Zendaya recalled of the incident. "This guy was being super dangerous, driving through a busy intersection, doing a U-turn, driving on the side of the freeway to catch up to us—the side where you're not supposed to drive because there's no lane. I was like, 'This is nuts.'"
+
+
+
+Gabriel Maseda/NurPhoto via Getty Images
+
+Zendaya also shared a sweet anecdote from meeting Tom for the first time while shooting a chemistry test for Spider-Man. (Spoiler alert: It involved their height differences!)"He says when we first met it was super awkward because he went for a handshake and I went for a hug," she reflected with Variety. "But I don't remember that. I thought it was cool."She continued, "I was worried because he's so much shorter than me. I was like, 'Damn it! It's going to be weird because I'm super tall.' But then we ended up doing the audition sitting. So that was good."
+
+Regardless of what's really going on between Zendaya and Tom, there's no denying they have the support from fans and colleagues. "Everyone gets along with them," our source previously explained. "They are very well liked on set. Tom is the most down to earth actor."
+/n

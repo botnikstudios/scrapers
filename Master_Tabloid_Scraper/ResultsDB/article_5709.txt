@@ -1,0 +1,56 @@
+EXCLUSIVE! Amanda Seyfried Gives Birth to First Child With Thomas Sadoski Seyfried had been open about wanting a child for several years. In fact, in August 2015, she opened up in Marie Claire UK and joked that she needed to "get on it..../n
+Congratulations to newlyweds Amanda Seyfried and Thomas Sadoski...they're new parents now, too!A rep for the actress confirms the couple welcomed their first child together. The Mamma Mia star gave birth to a baby girl.We first confirmed Seyfried's pregnancy in November after she stepped out for Givenchy's new fragrance and debuted her baby bump. Then, earlier this month at The Last Word premiere—the couple's first film together—they talked openly with E! News' Marc Malkin about welcoming her first child into the world.
+
+"I'm ready to go," Seyfried admitted at the time. "I'm ready to meet the kid!"Sadoski quipped, "I'm terrified but I couldn't be more excited." He also noted, "She gets the singing. I do the diaper changing." 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/837690/amanda-seyfried-gives-birth-to-first-child-with-thomas-sadoski');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201722/rs_634x1024-170302104400-634-Thomas-Sadoski-Amanda-Seyfried.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Thomas Sadoski, Amanda Seyfried");
+	var imageCaption = encodeURIComponent("Thomas Sadoski, Amanda Seyfried");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Seyfried had been open about wanting a child for several years.In fact, in August 2015, she opened up in Marie Claire UK and joked that she needed to "get on it.""I keep feeling like my eggs are dying off. I need to get on it… I want a child. Badly. I want to be a mother, badly," she shared. "That's what I feel. I've been feeling it for like, two years. I'm not ready but nobody's ready. It changes everything… so how you can ever be ready for that?"Well, it looks like she found someone who's finally ready!Speaking of, Sadoski and Seyfried tied the knot in a secret ceremony earlier this month.
+
+"We eloped," Sadoski announced on The Late Late Show last week, showing off his wedding band and revealing that the ceremony took place March 12. "We just took off into the country with an officiant and just the two of us, and we did our thing…We had a great day. It was perfect."According to Sadoski, they both wrote their own vows and recited them in front of Seyfried's dog, Finn, who was in attendance.
+
+
+
+Michael Wright/WENN.com
+
+"She's the person I love, admire, respect most in the world," he said before describing the ceremony. "It was beautiful. It was everything that it should be. It was just the two of us talking to each other." The couple first met while working together on the off-Broadway show The Way We Get By, but didn't spark romance rumors until they were spotted walking back to their trailers together in Pasadena, Calif., while working on The Last Word. Then, in September, E! News confirmed they were engaged, and Seyfried was spotted out and about with her minimalist, gold engagement ring.Sadoski was previously married to Kimberly Hope for eight years before they divorced in 2015. Seyfried, on the other hand, had been linked to Justin Long, but they broke up in September 2015.
+
+Congratulations again to the newlyweds and first-time parents!
+/n

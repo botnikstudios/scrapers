@@ -1,0 +1,44 @@
+including Serena Williams, Maya Angelou and Rosa Parks.  Instead of backing up booties and blazing blunts, Kid President does Susan B. Anthony, Frida Kahlo and Harriet Beecher Stow lyrical justice./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/709777/kid-president-s-history-of-awesome-girls-rap-is-your-new-feel-good-feminist-anthem');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015923/rs_634x1024-151023145117-634.Kid-President.jl.102315.Rap.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Robby Novak, Kid President");
+	var imageCaption = encodeURIComponent("Robby Novak, Kid President");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+C Flanigan/FilmMagic
+
+Calling all kindergarten teachers, we smell a great way to get your kids to learn about the coolest women of the world!YouTube sensation Robby Novak, aka Kid President, has released a noteworthy new music video, History of Awesome Girls Rap, which salutes important heroines in history.The song starts out with a bang, as K.P. name-drops some of our favorite females, including Serena Williams, Maya Angelou and Rosa Parks. Instead of backing up booties and blazing blunts, Kid President does Susan B. Anthony, Frida Kahlo and Harriet Beecher Stow lyrical justice.
+
+Speaking of feminism, watch Josh Hutcherson talk Jennifer Lawrence's fight for equal pay.
+/n

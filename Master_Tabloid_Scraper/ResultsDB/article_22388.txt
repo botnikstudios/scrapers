@@ -1,0 +1,44 @@
+What Happened to Ginny?! Harry Potter Star Bonnie Wright Steps Out in Super Weird Print—See the Look! We love Ginny Weasley with all our hearts and obviously adore Bonnie Wright, the girl who brought her to life, just as much. We also respec.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/553047/what-happened-to-ginny-harry-potter-star-bonnie-wright-steps-out-in-super-weird-print-see-the-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014519/rs_634x1024-140619063255-634.Bonnie-Wright-JR-61914.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Bonnie Wright, Harry Potter");
+	var imageCaption = encodeURIComponent("Bonnie Wright, Harry Potter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gustavo Caballero/Getty Images
+
+We love Ginny Weasley with all our hearts and obviously adore Bonnie Wright, the girl who brought her to life, just as much. We also respect young starlet's taking style risks from time to time. It's all a part of growing up through your getups.But, and may the ghost of Dumbledore forgive us, this weirdly-patterned frock on the British beauty is too god-awful to call a swing and a miss. It's a full-on fashion bomb.
+
+Yes, the incredible house of Miu Miu is technically responsible for this wreck, but the smart young wizard, made the ultimate choice. Maybe she was attracted to the deep blue hue? If so, she should save it for fall. Maybe she liked the retro parrot pattern? If so, she should sew this frock into a pillow. Maybe she thought the dropped waist would be flattering? If so, she's wrong.They say it's our mistakes that shape us, so here's hoping this ready-to-wear risk taker takes a better risk next time.Tune-in to an all-new Fashion Police tonight at 9/8c on E!
+/n

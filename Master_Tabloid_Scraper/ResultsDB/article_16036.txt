@@ -1,0 +1,52 @@
+EXCLUSIVE! Patriots Superfan Maria Menounos Loses Diamond in Super Bowl Celebration Maria plans on having it fixed, but she might not do it right away given the Patriots' Super Bowl success! "I might wait until I bang my hands on a.../n
+Tom Brady wasn't the only person who lost something at the Super Bowl.New England Patriots superfan Maria Menounos was watching the big game at NRG Stadium when her excitement overtook her! As Brady's team was staging the craziest comeback in Super Bowl history, the E! News host was having the ultimate freak out that resulted in her losing a small diamond from her engagement ring. The moment it happened was caught on tape, so E! News can exclusively reveal Maria's passionate fandom that cost her part of her beloved piece of jewelry."It pays to be a superfan of the Patriots," Maria tells us. "I didn't know that I could break my ring being a superfan but apparently that's what happened."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/827635/patriots-superfan-maria-menounos-loses-diamond-in-super-bowl-celebration');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201715/rs_634x1024-170205105205-634.maria-menuous.cm.2517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maria Menounos");
+	var imageCaption = encodeURIComponent("Maria Menounos");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mike Coppola/Getty Images for DIRECTV
+
+Maria plans on having it fixed, but she might not do it right away given the Patriots' Super Bowl success! "I might wait until I bang my hands on a few more metal boards at another game because I think the Patriots will be right back there again next year," she says. "I think I learned my lesson, and when I have to be a superfan I'll just wear it around my neck or something because this is going to be an expensive habit being a big sports fan."Maria got engaged to longtime boyfriend Keven Undergaro in March 2016. He popped the big question shortly after his love gave an interview on Howard Stern's SiriusXM radio show.
+
+
+
+Barry King/FilmMagic
+
+"At the end of the day, Keven and I are partners in life," she said when asked if she would ever date anyone else. But, when they first began dating, Maria said her dad "was a little upset" since Keven "wasn't Greek," but it didn't take long for her parents, who were waiting in the other room, to change their minds.After some small talk about their home life, Howard asked Maria why she never pressured Kevin to propose, which became a catalyst for Keven's actual proposal.
+
+"It was so emotional to hear you say everything, because listening to everything you said there, back when were in the green room talking about what you've been through, I've been through, too...when we wanted to be together, we couldn't because people didn't want us together," Keven said. "And then it was literally like the last 17 or 18 years of us fighting together, and me defending her as best I could...It reminds me just how much I do love you, and although I said that this isn't a proposal, I want to ask you something. Would you make me the happiest man on earth and would you marry me?"Maria said yes, of course!SiriusXM's Conversations with Maria Menounos airs weekdays from 1-2pm ET on SiriusXM Stars channel 109.
+/n

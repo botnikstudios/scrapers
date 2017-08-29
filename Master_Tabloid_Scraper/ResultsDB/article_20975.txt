@@ -1,0 +1,77 @@
+Ellen's Happy Ending! How DeGeneres & Wife Portia Saved Their Marriage/n
+
+					var next_post_url = "http://radaronline.com/photos/jamie-foxx-los-angeles-katie-holmes-suri-cruise-feel-at-home/";
+					var prev_post_url = "http://radaronline.com/photos/demi-moore-weight-loss-mid-life-crisis-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-06-28T18:42:12+00:00","caption":"Ellen DeGeneres and Portia de Rossi are in it for the long haul! After months of rumors that DeGeneres, 57, and her 43-year-old Scandal star wife could be ending their eight-year marriage, RadarOnline.com has exclusively learned that they have FINALLY picked up the pieces and are stronger than ever! Click through 7 lovey-dovey photos to find out how they patched things up.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:08+00:00","caption":"DeGeneres and De Rossi put their love fest on full display this week for the premiere of Finding Dory in L.A.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:08+00:00","caption":"\"Lately, Ellen cannot stop telling people how incredibly hot she thinks her wife is,\" said a source close to De Rossi, 43.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:09+00:00","caption":"According to the insider, \"Ellen and Portia have started to monopolize their fortunes and are now working towards building an empire together. They have become really solid business partners as well as each other's wives.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:10+00:00","caption":"DeGeneres could not keep her hands off of her gorgeous wife at the Teen Choice Awards.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:11+00:00","caption":"As Radar reported, the couple were close to calling it quits several times in the past few years.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:12+00:00","caption":"\"They used to fight over the fact that Portia was resistant to getting help,\" the source said of De Rossi, who has battled eating disorders and reportedly entered rehab in the past. \"But today, her physical and emotional state is the best it has ever been.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-28T14:59:13+00:00","caption":"Do you think that Ellen DeGeneres &amp; Portia De Rossi make a good couple? Tell us your thoughts.\u00a0","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/Ellen-DeGeneres-Portia-De-Rossi-Marriage-05.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Ellen’s Happy Ending! How DeGeneres & Wife Portia Saved Their Marriage
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Ellen-DeGeneres-Portia-De-Rossi-Marriage-ppEllen DeGeneres and Portia de Rossi are in it for the long haul! After months of rumors that DeGeneres, 57, and her 43-year-old Scandal star wife could be ending their eight-year marriage, RadarOnline.com has exclusively learned that they have FINALLY picked up the pieces and are stronger than ever! Click through 7 lovey-dovey photos to find out how they patched things up.Photo credit: Getty Images2 of 8Actress Portia de Rossi and actress Ellen DeGeneres attend the world premiere of Disney-Pixar’s ‘Finding Dory’ in Hollywood, CADeGeneres and De Rossi put their love fest on full display this week for the premiere of Finding Dory in L.A.Photo credit: Splash News3 of 8People’s Choice Awards 2016 Press Room held at The Microsoft Theatre **USA ONLY**"Lately, Ellen cannot stop telling people how incredibly hot she thinks her wife is," said a source close to De Rossi, 43.Photo credit: AKM-GSI4 of 8Celebrities arriving at the Saint Laurent Fashion show at the PalladiumAccording to the insider, "Ellen and Portia have started to monopolize their fortunes and are now working towards building an empire together. They have become really solid business partners as well as each other's wives."Photo credit: AKM-GSI 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8Teen Choice Awards 2015 – Backstage And AudienceDeGeneres could not keep her hands off of her gorgeous wife at the Teen Choice Awards.Photo credit: Getty Images6 of 8Ellen-DeGeneres-Portia-De-Rossi-Marriage-04As Radar reported, the couple were close to calling it quits several times in the past few years.Photo credit: Ellen TV 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8Ellen DeGeneres and Portia de Rossi arrive at the 26th Annual GLAAD Media Awards"They used to fight over the fact that Portia was resistant to getting help," the source said of De Rossi, who has battled eating disorders and reportedly entered rehab in the past. "But today, her physical and emotional state is the best it has ever been."Photo credit: Splash News8 of 8Ellen DeGeneres in MelbourneDo you think that Ellen DeGeneres & Portia De Rossi make a good couple? Tell us your thoughts. Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Ellen-DeGeneres-Portia-De-Rossi-Marriage-ppEllen DeGeneres and Portia de Rossi are in it for the long haul! After months of rumors that DeGeneres, 57, and her 43-year-old Scandal star wife could be ending their eight-year marriage, RadarOnline.com has exclusively learned that they have FINALLY picked up the pieces and are stronger than ever! Click through 7 lovey-dovey photos to find out how they patched things up.Photo credit: Getty ImagesActress Portia de Rossi and actress Ellen DeGeneres attend the world premiere of Disney-Pixar’s ‘Finding Dory’ in Hollywood, CADeGeneres and De Rossi put their love fest on full display this week for the premiere of Finding Dory in L.A.Photo credit: Splash NewsPeople’s Choice Awards 2016 Press Room held at The Microsoft Theatre **USA ONLY**"Lately, Ellen cannot stop telling people how incredibly hot she thinks her wife is," said a source close to De Rossi, 43.Photo credit: AKM-GSICelebrities arriving at the Saint Laurent Fashion show at the PalladiumAccording to the insider, "Ellen and Portia have started to monopolize their fortunes and are now working towards building an empire together. They have become really solid business partners as well as each other's wives."Photo credit: AKM-GSITeen Choice Awards 2015 – Backstage And AudienceDeGeneres could not keep her hands off of her gorgeous wife at the Teen Choice Awards.Photo credit: Getty ImagesEllen-DeGeneres-Portia-De-Rossi-Marriage-04As Radar reported, the couple were close to calling it quits several times in the past few years.Photo credit: Ellen TVEllen DeGeneres and Portia de Rossi arrive at the 26th Annual GLAAD Media Awards"They used to fight over the fact that Portia was resistant to getting help," the source said of De Rossi, who has battled eating disorders and reportedly entered rehab in the past. "But today, her physical and emotional state is the best it has ever been."Photo credit: Splash NewsEllen DeGeneres in MelbourneDo you think that Ellen DeGeneres & Portia De Rossi make a good couple? Tell us your thoughts. Photo credit: Splash News 
+
+
+
+
+
+
+
+
+
+/n

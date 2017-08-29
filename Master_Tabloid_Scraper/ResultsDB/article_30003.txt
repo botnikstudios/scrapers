@@ -1,0 +1,44 @@
+Rumer Willis Reveals She Just Celebrated Six Months of Sobriety Rumer Willis is proud. Did she land a jaw-dropping role or book a sexy new film? Nope. She got sober. The actress hopped on Instagram this weekend to share a revealing and very .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864659/rumer-willis-reveals-she-just-celebrated-six-months-of-sobriety');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017228/rs_634x1024-170328122846-634-Rumer-Willis-NYC-J1R-032817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rumer Willis");
+	var imageCaption = encodeURIComponent("Rumer Willis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PapGossip.com / AKM-GSI 
+
+Rumer Willis is proud.Did she land a jaw-dropping role or book a sexy new film? Nope. She got sober.The actress hopped on Instagram this weekend to share a revealing and very personal message with her fans, telling the world that she's just celebrated six months of continuous sobriety.Along with a make-up free photo of herself, the daughter of Demi Moore and Bruce Willis wrote, "I will be the first one to say I'm not perfect and I mess up sometimes and every once in a while I get it right but I wanted to share this because I am really proud of myself. Yesterday I celebrated 6 Months of Sobriety."
+
+In addition to make some decisions that made her proud of herself, Rumer may also be following in her younger sister's steps.In 2015, Tallulah Willis celebrated one year of sobriety with an alcohol-free party.  "Last night was one of the most beautiful nights of my life. I was surrounded in a womb of the purest form of love," she captioned a picture of a celebratory birthday cake.Keep trudging that road of happy destiny, ladies!
+/n

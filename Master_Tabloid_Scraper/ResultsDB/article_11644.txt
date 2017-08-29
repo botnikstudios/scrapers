@@ -1,0 +1,50 @@
+OMG! ¡Edgar Ramírez se convertirá en el legendario Gianni Versace! El actor venezolano se anota otro gran rol para su historial. Esta será la tercera temporada de American Crime Story, y se espera que la historia de diez episodios sea estren.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/829985/omg-edgar-ramirez-se-convertira-en-el-legendario-gianni-versace');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161115/rs_634x1024-161215132347-634.Edgar-Ramirez-Angels-On-Earth-West-Hollywood.kg.121516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Edgar Ramirez");
+	var imageCaption = encodeURIComponent("Edgar Ramirez");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Phillip Faraone/Getty Images for Gran Centenario
+
+El actor venezolano se anota otro gran rol para su historial.
+
+Edgar Ramírez ha sabido conquistar Hollywood, y prueba de ellos es su participación en cintas como Punto de Quiebre, Joy, Manos de Piedra, The Girl on the Train, y Gold, entre otras más. Sin embargo, este jueves se pudo confirmar que la estrella criolla ganó otro deseado papel en una de las mejores producciones televisivas de los últimos tiempos.E! NEWS > Edgar Ramírez se convirtió en Elfo para su nueva película y aún luce extremadamente sexy (+ Foto)De acuerdo a The Hollywood Reporter, Ramirez fue elegido para interpretar el rol del fallecido Gianni Versace en la próxima temporada de American Crime Story titulada, Versace: American Crime Story; entrega que tiene el difícil trabajo de continuar con el éxito obtenido previamente con historias como la de The People v. O. J. Simpson y Katrina.Versace, explorará la historia del lamentable asesinado del legendario diseñador de moda, y de su asesino, Andrew Cunanan, quien se quitó la vida ocho días después de matarlo.E! NEWS > Buen comienzo: Édgar Ramírez se posiciona fuerte para la próxima temporada de premios con un Hollywood Film Award
+
+
+
+Jerzy Dabrowski/ZUMA Press.
+
+Esta será la tercera temporada de American Crime Story, y se espera que la historia de diez episodios sea estrenada en 2018.Junto a Ramirez también veremos a Darren Criss, estrella de Glee, quien será el encargado de interpretar a Cunanan.E! NEWS > OMG! ¿Lady Gaga se convertirá en Donatella Versace?A principios de este año se rumoró que Lady Gaga podría tomar el rol de Donatella Versace, sobre todo considerando que ella ya forma parte del universo de Ryan Murphy, y que el director no es tímido al momento de reciclar estrellas de sus diversas producciones. Sin embargo, según las palabras de Murphy a Variety, esto no sucederá."Cuando vas a hacer un show como Versace, es un compromiso de cinco meses, es un show muy grande, lo filmaremos alrededor de todo el mundo. Así que no creo que con su agenda, yo sabía que nunca iba a funcionar. Pero amaría trabajar con ella en algo en el futuro", aseguró Murphy.
+/n

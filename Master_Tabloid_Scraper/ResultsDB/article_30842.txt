@@ -1,0 +1,48 @@
+share a photo stepping off a United States' government-owned plane alongside her husband, tagging designer brands like Valentino, Tom Ford, Hermès and Roland Mouret. "Great #daytrip to #Kentucky!" she captioned the photo, spar.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875035/u-s-treasury-secretary-s-wife-ignites-social-media-feud-after-tagging-pricey-designers-during-day-trip-on-government-plane');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017722/rs_1080x1920-170822154952-1080x1920-lSteven-Mnuchin-Louise-Linton.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Steven Mnuchin, Louise Linton");
+	var imageCaption = encodeURIComponent("Steven Mnuchin, Louise Linton");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gary Gershoff/WireImage
+
+Donald Trump's Treasury Secretary Steven Mnuchin has come under fire for his wife's social media posts.Louise Linton—a Scottish-born actress who married Mnuchin in June—took to Instagram last night to share a photo stepping off a United States' government-owned plane alongside her husband, tagging designer brands like Valentino, Tom Ford, Hermès and Roland Mouret."Great #daytrip to #Kentucky!" she captioned the photo, sparking quite a bit of backlash.In fact, one person wrote, "Glad we could pay for your little getaway," alongside the hashtag "#deplorable," which resulted in a snarky response from Linton.
+
+"Awe!!! Did you think this was a personal trip? Adorable!" Linton commented back to the woman. "Do you think the US govt paid for our honeymoon or personal travel?! Lololol," she began her comment. "I'm pretty sure we paid more taxes toward our day 'trip' than you did. Pretty sure the amount we sacrifice per year is a lot more than you'd be willing to sacrifice if the choice was yours."She continued, noting that the woman who commented is "adorably out of touch" before going on to comment about her family and personal life. 
+
+"Your kids look very cute. Your life looks cute," Linton continued. "I know you're mad but deep down you're really nice and so am I. Sending me passive aggressive Instagram comments isn't going to make life feel better. Maybe a nice message filled with wisdom and hunanity [sp?] would get more traction. Have a pleasant evening. Go chill out and watch the new game of thrones. It's fab!"
+
+Linton's full Instagram account has been made private in light of the controversy, but screengrabs of the comments and posts are now being widely criticized on Twitter.A department official told Bloomberg Politics that Mnuchin and his wife are reimbursing the government for transportation costs when she travels with him on official business.
+/n

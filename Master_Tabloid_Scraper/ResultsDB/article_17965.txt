@@ -1,0 +1,44 @@
+EXCLUSIVE! Vampire Diaries Actress Olga Fonda Is Engaged—See Her Diamond Ring! Olga Fonda has found her eternal beloved. The Vampire Diaries actress got engaged to her boyfriend of two and a half years, Liam Waite, on New Year's Eve, E!.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/497198/vampire-diaries-actress-olga-fonda-is-engaged-see-her-diamond-ring');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201408/rs_634x1024-140108172453-634.olga-ring.cm.1813.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Olga Fonda, People's Choice Awards");
+	var imageCaption = encodeURIComponent("Olga Fonda, People's Choice Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Olga Fonda has found her eternal beloved.The Vampire Diaries actress got engaged to her boyfriend of two and a half years, Liam Waite, on New Year's Eve, E! News has exclusively learned!The Russian-born beauty shared the happy news with us on the 2014 People's Choice Awards red carpet—where she also couldn't help but flash the sparkling diamond engagement ring that her fiancé designed himself.Fonda said that Waite, a former actor who's now in the hotel business, took her to the site of their first kiss to pop the question.
+
+Just before midnight, he got down on one knee and proposed."Then the whole city lit up with fireworks," Fonda gushed. "It was very romantic."Sounds like it—congratulations to the happy couple!Fonda is best known for playing Nadia on The Vampire Diaries, but her TV credits also include Entourage, How I Met Your Mother, Melrose Place (the more recent one, of course) and Nikita.
+/n

@@ -1,0 +1,46 @@
+EXCLUSIVE! Real Housewives of Miami's Alexia Echevarria Opens Up About Herman's Death: "The Last 24 Hours Have Been a Nightmare" It's already been a day since Herman Echevarria Sr.'s family learned about the tra.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/798058/real-housewives-of-miami-s-alexia-echevarria-opens-up-about-herman-s-death-the-last-24-hours-have-been-a-nightmare');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016827/rs_634x1024-160927121552-634.Herman-Echevarria-Alexia-Echevarria.ms.092716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Herman Echevarria, Alexia Echevarria ");
+	var imageCaption = encodeURIComponent("Herman Echevarria, Alexia Echevarria ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alexia Echevarria
+
+It's already been a day since Herman Echevarria Sr.'s family learned about the tragic news of his death. Not only was the 61-year-old father a constant companion for his children, but he was also the patriarch of his family and respected businessman. Alexia Echevarria, Herman's estranged wife, shares with us how she and her family are coping with the greatest loss they have ever had to face. 
+
+"The last 24 hours have been a nightmare for my family and I. It is life once again showing me that at the drop of a hat, things can change. I can't imagine what my life will be like walking into my office every day and not seeing Herman or having our family dinners with the kids and family. We were in this for fifteen years and although we were currently separated and living in separate homes, our spiritual and emotional connection was stronger than ever," Alexia says exclusively to E! News. "I would like to take this time to thank everyone for the incredible outpour of support that has come my way through messages, calls and social media.  I am sharing this image with you that we took this past Father's day because this is how I will always remember US. "In the photo shared by the Bravo star, we see the pair hugging and caught in the moment. 
+
+Echevarria did a lot for his community, as former Miami-Dade Mayor Alex Penelas put it, "He has done a lot of positive things for this community. He was a real deal, a real friend. It wasn't just about politics. He was a complete community person and did a lot of good work on many philanthropic and charitable causes."Echevarria is survived by his children Nelson and Herman Jr., and stepchildren Peter and Frankie. 
+/n

@@ -1,0 +1,55 @@
+Camilla Belle Honored at 2017 Art of Elysium Gala: "Thank You, Mom" As awards season heats up, some of Hollywood's finest gathered for a slightly different cause.  In honor of the Art of Elysium's 10th annual gala, John L.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/820411/camilla-belle-honored-at-10th-annual-art-of-elysium-gala-thank-you-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201708/rs_634x1024-170108144208-634-Camilla-Belle-art-alysium.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Camilla Belle");
+	var imageCaption = encodeURIComponent("Camilla Belle");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeffrey Mayer/WireImage
+
+
+
+
+
+
+As awards season heats up, some of Hollywood's finest gathered for a slightly different cause. In honor of the Art of Elysium's 10th annual gala, John Legend, Chrissy Teigen, Nick Jonas, Kristen Bell, James Franco and more famous faces stepped out at Red Studios in Los Angeles Saturday night for an event designed by the evening's honored "Visionary," Stevie Wonder. During the black tie affair, which was designed to mirror Wonder's vision of "heaven," attendees enjoyed a ballet performance featuring blind dancers while he performed at the piano backed by an orchestra. Legend was announced as next year's "Visionary" while Camilla Belle was also granted the coveted "Spirit of Elysium" Award. "This is very humbling and just bizarre to be receiving an award essentially for who you are as a person," she said upon accepting the award. "Thank you mom over there."
+
+
+
+Randy Shropshire/Getty Images for The Art of Elysium
+
+"I have to really thank my mom for bringing me here today because volunteering has always been...a huge part of my life and that is in big part to my mom for engraining me to give back," she continued."What my mom always taught me is that the one thing we all have [is] time and that is priceless. I have really taken that to heart and I've tried to tell other people that's what we're able to do and it's just absolutely priceless when you give just 10 minutes to a person or a family and you make them smile and they are able to forget about whatever they are going through that day."
+
+Art of Elysium was founded by Jennifer Howell, who was inspired by her teenage best friend battling leukemia. The experience encouraged her to find better ways of entertaining those spending hours in hospitals and, in the process, how to use art to heal. The organization has since grown to provide art-based programs to hospitalized youth and at special needs education centers, homeless shelters, elder care homes and hospice care.  "This award means to me that this is my commitment to my greater responsibility—to giving all and more that God has given me," Wonder said upon accepting the Visionary Award. "I hope that as long as I live, I can inspire you to love someone and, if your heart is big enough, to love everyone."
+/n

@@ -1,0 +1,75 @@
+What You Should Wear on St. Patrick’s Day/n
+
+
+
+
+
+                    10 Fashionable Ways to Celebrate St. Patrick's Day
+                
+
+
+
+
+
+
+
+The spirit of Saint Patrick comes in shapes, shades, and sizes!
+
+ MORE >>
+
+
+
+
+
+With St. Patrick’s Day less than a week away, it’s time to get your green on.
+
+Whether you’re into jade or mint, be sure to add a splash of green into your outfit for the holiday. To solve all your fashion dilemmas, we’ve create easy-to-use vision boards to create the perfect outfit — all you need to do is hover over the pieces you like to see the price!
+Click through out picks — below.
+ 
+Tops
+
+// <![CDATA[
+!function(doc,s,id){ var e, p, cb; if(!doc.getElementById(id)) { e = doc.createElement(s); e.id = id; cb = new Date().getTime().toString(); p = '//shopsensewidget.shopstyle.com/widget-script.js?cb=1489187198685?cb=' + cb; e.src = p; doc.body.appendChild(e); } if(typeof window.ss_shopsense === 'object'){ if(doc.readyState === 'complete'){ window.ss_shopsense.init(); } } }(document, 'script', 'shopsensewidget-script');
+// ]]>
+
+
+ 
+Bottoms
+
+// <![CDATA[
+!function(doc,s,id){ var e, p, cb; if(!doc.getElementById(id)) { e = doc.createElement(s); e.id = id; cb = new Date().getTime().toString(); p = '//shopsensewidget.shopstyle.com/widget-script.js?cb=1489187198685?cb=' + cb; e.src = p; doc.body.appendChild(e); } if(typeof window.ss_shopsense === 'object'){ if(doc.readyState === 'complete'){ window.ss_shopsense.init(); } } }(document, 'script', 'shopsensewidget-script');
+// ]]>
+
+
+ 
+Dresses and Jumpsuits
+
+// <![CDATA[
+!function(doc,s,id){ var e, p, cb; if(!doc.getElementById(id)) { e = doc.createElement(s); e.id = id; cb = new Date().getTime().toString(); p = '//shopsensewidget.shopstyle.com/widget-script.js?cb=1489187198685?cb=' + cb; e.src = p; doc.body.appendChild(e); } if(typeof window.ss_shopsense === 'object'){ if(doc.readyState === 'complete'){ window.ss_shopsense.init(); } } }(document, 'script', 'shopsensewidget-script');
+// ]]>
+
+
+ 
+Shoes
+
+// <![CDATA[
+!function(doc,s,id){ var e, p, cb; if(!doc.getElementById(id)) { e = doc.createElement(s); e.id = id; cb = new Date().getTime().toString(); p = '//shopsensewidget.shopstyle.com/widget-script.js?cb=1489187198685?cb=' + cb; e.src = p; doc.body.appendChild(e); } if(typeof window.ss_shopsense === 'object'){ if(doc.readyState === 'complete'){ window.ss_shopsense.init(); } } }(document, 'script', 'shopsensewidget-script');
+// ]]>
+
+
+ 
+Accessories
+
+// <![CDATA[
+!function(doc,s,id){ var e, p, cb; if(!doc.getElementById(id)) { e = doc.createElement(s); e.id = id; cb = new Date().getTime().toString(); p = '//shopsensewidget.shopstyle.com/widget-script.js?cb=1489187198685?cb=' + cb; e.src = p; doc.body.appendChild(e); } if(typeof window.ss_shopsense === 'object'){ if(doc.readyState === 'complete'){ window.ss_shopsense.init(); } } }(document, 'script', 'shopsensewidget-script');
+// ]]>
+
+
+Jewelry
+
+// <![CDATA[
+!function(doc,s,id){ var e, p, cb; if(!doc.getElementById(id)) { e = doc.createElement(s); e.id = id; cb = new Date().getTime().toString(); p = '//shopsensewidget.shopstyle.com/widget-script.js?cb=1489187198685?cb=' + cb; e.src = p; doc.body.appendChild(e); } if(typeof window.ss_shopsense === 'object'){ if(doc.readyState === 'complete'){ window.ss_shopsense.init(); } } }(document, 'script', 'shopsensewidget-script');
+// ]]>
+
+
+/n

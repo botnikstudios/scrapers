@@ -1,0 +1,46 @@
+#TheLastJedi," the official Twitter account for the franchise tweeted Monday morning.  The Last Jedi is written and directed by Rian Johnson and produced by Kathleen Kennedy and Ram Bergman and executive produced by J.J. Abrams, Jason M.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/823745/star-wars-the-last-jedi-is-the-title-for-star-wars-episode-viii');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017023/rs_634x940-170123081214-634.Star-Wars-FB-012317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Star Wars: The Last Jedi, Episode VIII");
+	var imageCaption = encodeURIComponent("Star Wars: The Last Jedi, Episode VIII");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Star Wars fans get excited!The highly anticipated follow-up to Star Wars: The Force Awakens has received an official title and release date. Star Wars: Episode VIII is titled Star Wars: The Last Jedi and will land in theaters Dec. 15, 2017. "It's official. STAR WARS: THE LAST JEDI is the next chapter of the Skywalker saga. This December. #TheLastJedi," the official Twitter account for the franchise tweeted Monday morning. The Last Jedi is written and directed by Rian Johnson and produced by Kathleen Kennedy and Ram Bergman and executive produced by J.J. Abrams, Jason McGatlin, and Tom Karnowski.
+
+The Last Jedi will pick up right where The Force Awakens left off, and cast members Mark Hamill, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels, Gwendoline Christie and Andy Serkis are returning for the next chapter in the Star Wars saga. They'll be joined by new cast members Benicio Del Toro, Laura Dern, and newcomer Kelly Marie Tran.
+
+Carrie Fisher, who appeared in The Force Awakens, was slated to return in Episode VIII. The real-life Princess Leia passed away in December, which could affect what happens in the upcoming movie. Both Disney and Lucasfilm didn't comment, but insiders told The Hollywood Reporter that she had at least two key scenes in Star Wars: Episode VIII and Star Wars: Episode IX: a Leia reunion with Luke Skywalker (Mark Hamill) and a confrontation with Leia's son Kylo Ren (Adam Driver). Insiders claimed Leia was meant to have a more prominent role in Episode IX than Episode VIII.Many have wondered if she could appear using CGI technology as she did in Rogue One: A Star Wars Story.
+/n

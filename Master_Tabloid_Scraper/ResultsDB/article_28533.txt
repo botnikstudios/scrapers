@@ -1,0 +1,44 @@
+screaming fanggirls clawing, pushing, shoving and biting for his attention. The actor plays Royce King II, the good-on-paper fiancé to Nikki Reed's Rosalie Cullen, in a flashback sequence. "I don't think I will [face the madne.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/144505/eclipse-newbie-not-expecting-robsten-like-fanggirl-fandemonium');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090812/293.ad.Huston.081209.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jack Huston");
+	var imageCaption = encodeURIComponent("Jack Huston");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Matt Carr/Getty Images
+
+Robert Pattinson may need to have a little chat with Jack Huston.Eclipse's superhot newbie isn't anticipating having to face screaming fanggirls clawing, pushing, shoving and biting for his attention.The actor plays Royce King II, the good-on-paper fiancé to Nikki Reed's Rosalie Cullen, in a flashback sequence."I don't think I will [face the madness] because of my part," he told E! News at the G-Star Raw fashion show. "I'm actually kind of a nasty guy. I'm her fiancé who ends up basically trying to rape her. It's rather horrible."There's a chance we may never have met Royce and the small but meaty part may not have even existed were it not for David Slade taking a meeting with Huston."I went in to the director and he very sweetly wrote this part up for me," the actor admits. "It was kind of a nice compliment from him."Now, as for those costars of his…
+
+Sadly, Huston has only spent one day on the set thus far, and that was with Reed, much to his relief."She's actually a real sweetie and the very first day she made me feel very welcome," he says. "We were away from the madness which is, I think, Robert and Kristen. I think they have hundreds of incessant fans following them, which, fair enough. We were quite lucky. We were in the park, beautiful, and it was fun."The hottie, who's often compared to Johnny Depp, doesn't worry that those incessant fans will throw things at him because of the nature of his "cameo"-sized character."I hope not," he says. "I'll be like, 'It's not me, I'm an actor! I'm not really evil. I'm a nice guy.'"Huston, who also can be seen in ABC's upcoming show Eastwick and walking red carpets alongside his girlfriend, So You Think You Can Dance's Cat Deeley, is humbled to be involved in the vampy franchise."It's a great film to be a part of," he says. "This is a small part, but a relevant part in the movie. I think it'll be cool. Hopefully."Swoon.
+/n

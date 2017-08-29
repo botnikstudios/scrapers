@@ -1,0 +1,919 @@
+'I'm a Ratings Machine': A History of Donald Trump on SNL
+/n
+This weekend, presidential candidate and world champion comedy bait Donald Trump was once again a target of Saturday Night Lives‘ gleeful mockery.
+The NBC favorite has made a sport of parodying Trump’s narcissism and extravagance over the years, skewering everything from his marriage and subsequent divorce to his other marriage and subsequent divorce.
+While we witnessed Trump’s evolution from buffoonish business mogul to shockingly effective vote hustler, SNL has been there to offer satirization of the already cartoon-esque billionaire. Now, as we become closer and closer to the election, we’re taking a peek back at the candidate’s decades-long relationship with the show.
+ 
+1988
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-a3bf5278c19379ae136bc204cec6e782-59a5499954c89');
+				var iframe = document.getElementById('wpcom-iframe-a3bf5278c19379ae136bc204cec6e782-59a5499954c89');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-a3bf5278c19379ae136bc204cec6e782-59a5499954c89'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+In 1988, Phil Hartman and Jan Hooks appeared as Ivana and Donald in “A Trump Christmas.” The sketch uses the couple’s outlandish opulence to spoof “The Gift of the Magi,” a short story about the lengths two poor spouses go to to give each other Christmas presents. “I went to Tiffany’s and bought diamonds by the yard for a garland,” Ivana says as the pair sips champagne in front of their Monet-adorned fireplace. Hartman hadn’t come anywhere near nailing Trump’s trademark accent or gesticulations, but the sketch did perfectly land the privileged family’s utter disconnect from the experiences of average Americans.
+In 1988, Phil Hartman and Jan Hooks appeared as Ivana and Donald in “A Trump Christmas.” The sketch uses the couple’s outlandish opulence to spoof “The Gift of the Magi,” a short story about the lengths two poor spouses go to to give each other Christmas presents. “I went to Tiffany’s and bought diamonds by the yard for a garland,” Ivana says as the pair sips champagne in front of their Monet-adorned fireplace. Hartman hadn’t come anywhere near nailing Trump’s trademark accent or gesticulations, but the sketch did perfectly land the privileged family’s utter disconnect from the experiences of average Americans.
+ 
+1990
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-c234ce5ac0adf93b2286cffbdf51c145-59a5499955350');
+				var iframe = document.getElementById('wpcom-iframe-c234ce5ac0adf93b2286cffbdf51c145-59a5499955350');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-c234ce5ac0adf93b2286cffbdf51c145-59a5499955350'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+By 1990, Hartman’s Trump impression had significantly improved. SNL utilized it by poking fun at the couple’s headline-making divorce. The estranged couple squabbles over their extensive multi-million dollar prenuptial agreement in this February cold open. “I’m allowed to have mistresses provided they are younger than you,” Donald says in reference to his affair with Marla Maples. The villainous depiction of Trump mocking his ex-wife may seem over-the-top, until one remembers a real life judge did in fact uphold Ivana’s claim of “cruel and inhuman treatment” at the hands of the adulterer.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-9b4b26ca0bd58e05d45cfd9bf3836584-59a5499955923');
+				var iframe = document.getElementById('wpcom-iframe-9b4b26ca0bd58e05d45cfd9bf3836584-59a5499955923');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-9b4b26ca0bd58e05d45cfd9bf3836584-59a5499955923'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+SNL hadn’t finished roasting the combover icon by the next week’s show. Jan Hooks appeared as Maples on “Church Chat” alongside Dana Carvey and hilariously on point host Fred Savage. Savage’s Enid drops all pretenses of political correctness and introduces Maples, who Trump would eventually marry in 1993, as “the first official tabloid slut of the 90’s.” “A week ago you’re an unknown actress/ model and here you are known to millions as the Trump pump,” Church Lady says. Trump (Hartman) shows up to defend his later ex-spouse but fails to stop the self-righteous pair from criticizing their “satan sandwich.”
+ 
+1999
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-f89c697b125c81748df1120b3bb9182d-59a5499955e23');
+				var iframe = document.getElementById('wpcom-iframe-f89c697b125c81748df1120b3bb9182d-59a5499955e23');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-f89c697b125c81748df1120b3bb9182d-59a5499955e23'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+A few years later, Darrell Hammond had taken the helm of the Trump character. The pouty-lipped real estate mogul appeared alongside another businessman turned presidential candidate: Ross Perot (Cheri Oteri). Fine punchlines abound in the skit. “Apparently, fellas I wasn’t insane enough for the American people. What we need is a real nut bag,” an eerily foreshadowing Perot says as he tries to parse whether Trump or Pat Buchanan (Chris Parnell) should be the new leader of the Reform Party. “They steal and talk funny,” Trump says in a sentiment that’s actually not too far off from his current stance on immigrants. He goes on to unleash his plans to turn the White House into a “90-story deluxe government facility and gambling casino – all brass and class.”
+ 
+2004
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-3e1d0c7ff5a0d5515bae961f2129edcc-59a5499956420');
+				var iframe = document.getElementById('wpcom-iframe-3e1d0c7ff5a0d5515bae961f2129edcc-59a5499956420');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-3e1d0c7ff5a0d5515bae961f2129edcc-59a5499956420'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Trump made his SNL hosting debut in April 2004 amid The Apprentice’s successful first season. “It’s great to be here on Saturday Night Live, but I’ll be completely honest, it’s even better for Saturday Night Live that I’m here,” the never-humble Trump jokes during his monologue. “Nobody’s bigger than me, nobody’s better than me; I’m a ratings machine.” He goes on to tell the audience, “Television is really just a hobby for me. I’m primarily occupied by my real estate holdings, my best-selling books and making love to women who have won prizes for their beauty.” Darrell Hammond soon joins The Donald on stage as his lookalike, with Jimmy Fallon chiming in with his A-plus take on NBC President Jeff Zucker.
+The laughs waned as the evening went on, with Trump appearing in a variety of sketches, including as a disappointed father opposite Seth Meyers and as himself in a Rock band/Apprentice mash-up.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-f9ebafb700e5c1df5e7fb36a41f5af44-59a5499956816');
+				var iframe = document.getElementById('wpcom-iframe-f9ebafb700e5c1df5e7fb36a41f5af44-59a5499956816');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-f9ebafb700e5c1df5e7fb36a41f5af44-59a5499956816'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+In one scene, he and Hammond retold The Prince and the Pauper. “This place looks like the Liberace museum,” Trump says as the janitor in “Trump’s” office. “Looks like you killed a squirrel to me and put it right on top of your head,” he quips in a delightfully self-aware moment.
+ 
+February 2005
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-cd7a1bb3ee23148c9c4df1bb00f961be-59a5499956da3');
+				var iframe = document.getElementById('wpcom-iframe-cd7a1bb3ee23148c9c4df1bb00f961be-59a5499956da3');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-cd7a1bb3ee23148c9c4df1bb00f961be-59a5499956da3'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+SNL used the egoist’s 2005 marriage to Melania as an opportunity to re-explore the Trump family dynamics. Trump kids Ivanka (Maya Rudolph), Donald Jr. (Seth Meyers) and Eric (Fred Armisen) met their “new mommy” Melania (host Paris Hilton) in a sketch filled to the brim with Trumpisms. The actors depicted the whole family as if they had Trump’s idiosyncrasies.
+ 
+VIDEO: At Home with the Trumps: Donald and Melania Trump Give Their Very First Interview as a Family
+
+May 2005
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e0881be88c40120badc141c95ce5eba7-59a549995735d');
+				var iframe = document.getElementById('wpcom-iframe-e0881be88c40120badc141c95ce5eba7-59a549995735d');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e0881be88c40120badc141c95ce5eba7-59a549995735d'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+A truly glorious piece of comedy made the air later that year when SNL spoofed The Donald’s many forays into commercial acting, particularly this wondrous 90’s Pizza Hut campaign:
+
+“Personally I think it’s the highest quality pizza of the low quality pizzas,” Dominos spokesman Trump says in the sketch, which finally gave the moneyman’s advertising résumé the attention it deserves. (Side-note: Be warned, searching all the products Trump has shilled over the years will send you spiralling into a YouTube black hole. Mcdonald’s. Trump Steaks. It never ends.) During the rest of 2005 and the following years, SNL continued to feature The Donald heavily in sketches like this Days of Our Lives parody.
+
+2012
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e131aa30964833466523d2cd8752ed0f-59a549995798c');
+				var iframe = document.getElementById('wpcom-iframe-e131aa30964833466523d2cd8752ed0f-59a549995798c');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e131aa30964833466523d2cd8752ed0f-59a549995798c'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Jason Sudeikis donned the iconic coif in a 2012 Fox & Friends sketch. The writers poke fun at Trump’s offer to give $5 million to charity if President Obama released his college transcripts (a real thing that really happened). “I have it on good authority from an African national that I met at a Rainforest Café that President Obama has been texting with some of the world’s top terrorists, including Abu Nazir, Jafar and The Riddler,” Trump says, offering to give $1 million to his own charity that “pays inner city kids to throw garbage at Rosie O’Donnell” if Obama proves he hasn’t conversed with the fictional characters.
+ 
+October 2015
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e3bf79370c9a44563064eb3c97d97857-59a5499957f86');
+				var iframe = document.getElementById('wpcom-iframe-e3bf79370c9a44563064eb3c97d97857-59a5499957f86');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e3bf79370c9a44563064eb3c97d97857-59a5499957f86'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Now-former cast member Taran Killam took over as SNL’s resident Trumpeter. On the 41st season premiere in 2015, he and Cecily Strong (as Melania) performed the cold open. The pair welcomes viewers to their “humble gold house” and talks about Trump’s alleged sexism, anti-immigrant statements and other controversies he sparked during his quest for the Republican presidential nomination. “I love Megyn Kelly, I love her, I think she’s great,” he says in regards to his post-debate comments about the Fox host. “She’s talented and beautiful but she’s a heifer who is always on her period and I hate her and I hope she dies.” Trump wraps up the defense of his candidacy for leader of the free world with a shameless reminder: “I’m just like you, a regular Joe, but better.”
+ 
+November 2015
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-5ce0ed1fd1f8d0c1e549ebf0f4d7b3f8-59a549995850a');
+				var iframe = document.getElementById('wpcom-iframe-5ce0ed1fd1f8d0c1e549ebf0f4d7b3f8-59a549995850a');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-5ce0ed1fd1f8d0c1e549ebf0f4d7b3f8-59a549995850a'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Trump once again hit the 30 Rock stage as host in November 2015. Killam and Hammond helped make a Trump trifecta during his monologue, as the candidate touched on his ongoing feud with Rosie O’Donnell and, with a little help from Larry David, his, uh, questionable comments. “People think I’m controversial, but the truth is, I’m a nice guy. I don’t hold grudges against anybody,” he says during the opening. “Like Rosie O’Donnell. She said some things about me that were hurtful and untrue. I said some things about her that were mean, but completely accurate.” Trump’s appearance also included a memorable spoof of Drake’s “Hotline Bling.”
+ 
+October 2016
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-2968c4c40f74a88ead8946834dfa6e1f-59a5499958add');
+				var iframe = document.getElementById('wpcom-iframe-2968c4c40f74a88ead8946834dfa6e1f-59a5499958add');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-2968c4c40f74a88ead8946834dfa6e1f-59a5499958add'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+The first presidential debate of the 2016 election was practically begging for the Saturday Night Live treatment, and the season 41 opener did not disappoint. Alongside Kate McKinnon, who reprised her role as Hillary Clinton, Alec Baldwin began his SNL tenure as The Donald with a bang. “Good evening, America. I am going to be so good tonight, I am going to be so calm and so presidential that all of you watching are going to cream your jeans,” he begins. The sketch managed to cover most of the unforgettable moments of the first debate, including Trump’s pronunciation of China, his sniffling and subsequent complaints about his microphone, his comments on racial issues and his fixation on Sean Hannity and, once again, Rosie O’Donnell.
+/n

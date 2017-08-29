@@ -1,0 +1,50 @@
+Derek Jeter Admits He's "Unprepared" for Fatherhood as Hannah Jeter Joins Him at Jersey Retirement Ceremony Derek Jeter is having quite a year. Three months ago, his wife Hannah Jeter announced she was pregnant with their firs.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/851986/derek-jeter-admits-he-s-unprepared-for-fatherhood-as-hannah-jeter-joins-him-at-jersey-retirement-ceremony');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017415/rs_634x1024-170515050949-634.Derek-Jeter-Hannah-Jeter-J1R-051517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Derek Jeter, Hannah Jeter");
+	var imageCaption = encodeURIComponent("Derek Jeter, Hannah Jeter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Al Bello/Getty Images
+
+Derek Jeter is having quite a year.Three months ago, his wife Hannah Jeter announced she was pregnant with their first child, a baby girl. And on Sunday, the Sports Illustrated Swimsuit model joined him at a ceremony to retire his jersey number with the New York Yankees at Yankee Stadium in the Bronx, New York.In a press conference following his jersey retirement ceremony, a reporter asked Derek about what's next. "You did a great job of handling the jobs of being a Yankee," he said. "Are you ready for the challenges of being a dad?" With a hearty laugh, the father-to-be answered, "No!"
+
+
+
+Rich Schultz/Getty Images
+
+"You know, I prided myself in my career to be prepared at all games. Any time I'm unprepared, it makes me uncomfortable. I'm unprepared. From everything people have told me, just do it and see what happens. People can give you advice, but until you're in it, you never really know what to expect," the athlete told the reporter. "I'm excited, but at the same time, I'm nervous."Derek, 42, and Hannah, 27, tied the knot in July 2016 after five years of dating.Hannah announced her pregnancy in February in Derek's online magazine, The Players' Tribune. At the time, the Project Runway Juniors host said, "He already has a name in mind—he's set on it. (We'll see.) He'll say when he calls me during the day: 'So, how are you and so-and-so doing?' 'That's not the name yet, sweetie.' Whatever her name is, I know she'll run circles around him."
+
+The mom-to-be accompanied her husband to a taping of The Tonight Show last week.During his interview with Jimmy Fallon, Derek recalled how Hannah had previously mentioned that she's been craving beef jerky—and as a result, they were given than they can eat. "She doesn't eat red meat, but she mentions beef jerky. Now we have a lifetime supply of beef jerky at the house," Derek laughed. "So, if anyone's listening, she really craves ice cream, strollers…"After Jimmy mentioned that Hannah is "glowing," Derek replied, "You need to tell her that!""Every time I say it, she says I'm lying. There are a lot of emotions you deal with when someone's pregnant. I'm learning that," the retired athlete said. "She didn't tell me that part."
+/n

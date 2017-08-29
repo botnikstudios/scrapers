@@ -1,0 +1,83 @@
+Lisa Marie Presley Puts On Happy Face For Kids Amid Bitter Divorce Battle/n
+
+					var next_post_url = "http://radaronline.com/photos/taylor-swift-groping-dj-trial-lawsuit-grabbed-butt-court/";
+					var prev_post_url = "http://radaronline.com/photos/oj-simpson-love-child-ex-girlfriend-christie-prody-daughter-madeline/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-07T15:51:22+00:00","caption":"Lisa Marie Presley is putting on a happy face for her kids as her nasty divorce battle from Michael Lockwood Looms. The only daughter of Elvis treated her twin girls Harper and Finley, nine, to a day out at the Ventura County Fair over the weekend. The star put her divorce woes behind her as she played traditional fair games, with one of girls winning a pet goldfish. Lisa cuddled up to her girls as they had food, cradling one of them on her lap. Click through for photos!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:23+00:00","caption":"The mother and her daughters dressed up in period-style costume for a fun photo.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:23+00:00","caption":"The trio took in some much needed mother-daughter time as they browsed souvenirs at the fair\u2019s stalls.\n","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:24+00:00","caption":"Although it is unknown what custody arrangements Presley and Lockwood have agreed to, Finley and Harper are said to be visiting both parents at this time.\n","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:25+00:00","caption":"As Radar previously reported earlier this year, the Beverly Hills P.D. officers confirmed they had taken several items from Lockwood's home amid accusations of \"disturbing\" images of children discovered on his computer.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:26+00:00","caption":"Marie Presley claimed in court papers that cops found 80 of Lockwood's devices during a raid, though they haven't been fully analyzed at this time: \"I was shocked, horrified, and sick to my stomach. I have no idea what else may be on those devices and fear that there are more and worse images and evidence in these un-analyzed devices.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:27+00:00","caption":"Presley and Lockwood married in 2006, filing for divorce ten years later in June 2016, the same month cops were called out. \n","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-07T15:51:28+00:00","caption":"Lockwood, 55, has strongly fired back at his ex-wife, saying he is \"disgusted\" by Presley's decision to go public with her claims, and calling the allegations \"unproven.\" We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/lisa-marie-presley-daughters-harper-finley-divorce-02.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Lisa Marie Presley Puts On Happy Face For Kids Amid Bitter Divorce Battle
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Lisa Marie Presley is putting on a happy face for her kids as her nasty divorce battle from Michael Lockwood Looms. The only daughter of Elvis treated her twin girls Harper and Finley, nine, to a day out at the Ventura County Fair over the weekend. The star put her divorce woes behind her as she played traditional fair games, with one of girls winning a pet goldfish. Lisa cuddled up to her girls as they had food, cradling one of them on her lap. Click through for photos!Photo credit: Coleman-Rayner2 of 8The mother and her daughters dressed up in period-style costume for a fun photo.Photo credit: Coleman-Rayner3 of 8The trio took in some much needed mother-daughter time as they browsed souvenirs at the fair’s stalls.
+Photo credit: Coleman-Rayner4 of 8Although it is unknown what custody arrangements Presley and Lockwood have agreed to, Finley and Harper are said to be visiting both parents at this time.
+Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8As Radar previously reported earlier this year, the Beverly Hills P.D. officers confirmed they had taken several items from Lockwood's home amid accusations of "disturbing" images of children discovered on his computer.Photo credit: Coleman-Rayner6 of 8Marie Presley claimed in court papers that cops found 80 of Lockwood's devices during a raid, though they haven't been fully analyzed at this time: "I was shocked, horrified, and sick to my stomach. I have no idea what else may be on those devices and fear that there are more and worse images and evidence in these un-analyzed devices."Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8Presley and Lockwood married in 2006, filing for divorce ten years later in June 2016, the same month cops were called out. 
+Photo credit: Coleman-Rayner8 of 8Lockwood, 55, has strongly fired back at his ex-wife, saying he is "disgusted" by Presley's decision to go public with her claims, and calling the allegations "unproven." We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Lisa Marie Presley is putting on a happy face for her kids as her nasty divorce battle from Michael Lockwood Looms. The only daughter of Elvis treated her twin girls Harper and Finley, nine, to a day out at the Ventura County Fair over the weekend. The star put her divorce woes behind her as she played traditional fair games, with one of girls winning a pet goldfish. Lisa cuddled up to her girls as they had food, cradling one of them on her lap. Click through for photos!Photo credit: Coleman-RaynerThe mother and her daughters dressed up in period-style costume for a fun photo.Photo credit: Coleman-RaynerThe trio took in some much needed mother-daughter time as they browsed souvenirs at the fair’s stalls.
+Photo credit: Coleman-RaynerAlthough it is unknown what custody arrangements Presley and Lockwood have agreed to, Finley and Harper are said to be visiting both parents at this time.
+Photo credit: Coleman-RaynerAs Radar previously reported earlier this year, the Beverly Hills P.D. officers confirmed they had taken several items from Lockwood's home amid accusations of "disturbing" images of children discovered on his computer.Photo credit: Coleman-RaynerMarie Presley claimed in court papers that cops found 80 of Lockwood's devices during a raid, though they haven't been fully analyzed at this time: "I was shocked, horrified, and sick to my stomach. I have no idea what else may be on those devices and fear that there are more and worse images and evidence in these un-analyzed devices."Photo credit: Coleman-RaynerPresley and Lockwood married in 2006, filing for divorce ten years later in June 2016, the same month cops were called out. 
+Photo credit: Coleman-RaynerLockwood, 55, has strongly fired back at his ex-wife, saying he is "disgusted" by Presley's decision to go public with her claims, and calling the allegations "unproven." We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Coleman-Rayner 
+
+
+
+
+
+
+
+
+
+/n

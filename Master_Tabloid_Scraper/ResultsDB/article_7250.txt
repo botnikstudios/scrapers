@@ -1,0 +1,52 @@
+Frank Ocean Thinks Not Submitting His New Music for Grammy Award Consideration Is His "Colin Kaepernick Moment" Frank Ocean might be thinkin bout you, but he's not thinking about winning a Grammy Award this year. That's b.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/809771/frank-ocean-thinks-not-submitting-his-new-music-for-grammy-award-consideration-is-his-colin-kaepernick-moment');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013110/634.oceanwin.ls.21013_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frank Ocean, Grammy Winner");
+	var imageCaption = encodeURIComponent("Frank Ocean, Grammy Winner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevork Djansezian/Getty Images
+
+Frank Ocean might be thinkin bout you, but he's not thinking about winning a Grammy Award this year. That's because he did not submit his new music for consideration. With six Grammy Award nominations and two wins, the 29-year-old singer-songwriter is no stranger to the golden statues. However, when his second album Blonde was released in August—his first studio album in four years—the applause and acclaim flowed in from the music industry and it seemed that the Billboard 200 number one album would sweep the forthcoming Grammy Awards. However, that prediction would never come to fruition because Ocean did not submit the album as an entry for the annual ceremony. Why? As he explained, a lack of representation and what he considers a dated system.  
+
+"That institution certainly has nostalgic importance," he told The New York Times."It just doesn't seem to be representing very well for people who come from where I come from, and hold down what I hold down," he added, also noting there have not been many black musicians to win Album of the Year, which he was nominated for in 2013. "I think the infrastructure of the awarding system and the nomination system and screening system is dated," he added to the Times. "I'd rather this be my Colin Kaepernick moment for the Grammys than sit there in the audience."
+
+
+
+Michael Zagaris/San Francisco 49ers/Getty Images
+
+Of course, the musician was referencing the professional quarterback who has knelt in protest during performances of "The Star Spangled Banner" at games. "I am not going to stand up to show pride in a flag for a country that oppresses black people and people of color. To me, this is bigger than football and it would be selfish on my part to look the other way," the athlete told NFL Media in late August of his decision to protest. "There are bodies in the street and people getting paid leave and getting away with murder."
+
+With the Grammys out of the picture this year, Ocean is confident in his talent and may even look outside of his industry in the name of progress. "I believe that I'm one of the best in the world at what I do, and that's all I've ever wanted to be," he told the Times. "It's more interesting for me to figure out how to be superior in areas where I'm naïve, where I'm a novice."
+/n

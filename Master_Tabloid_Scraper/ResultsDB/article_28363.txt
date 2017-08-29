@@ -1,0 +1,88 @@
+Gossip Girl: "Rufus Getting Married"/n
+Check out these new images for next week’s all new episode of “Gossip Girl”.  Will Rufus and Lily make it down the aisle or will Georgina give them a “present” that ruins the big day?  And what’s up with Chuck????
+
+					var next_post_url = "http://radaronline.com/photos/elizabeth-taylor-through-the-years/";
+					var prev_post_url = "http://radaronline.com/photos/todays-hottest-photos-33/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305a_0444ra.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0145r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0149_-_1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0291r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305a_0100r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0296r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0312.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0324r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0381.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0412.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0416r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305b_0418r.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2009-10-06T07:28:13+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2009\/10\/go305c_0169ra.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Gossip Girl: “Rufus Getting Married”
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 13 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 131. GO305A_0444ra.jpgPhoto credit: Giovanni Rufino/The CW2 of 132. GO305B_0145r.jpgPhoto credit: Giovanni Rufino/The CW3 of 133. GO305B_0149.jpgPhoto credit: Giovanni Rufino/The CW4 of 134. GO305B_0291r.jpgPhoto credit: Giovanni Rufino/The CW 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 135. GO305A_0100r.jpgPhoto credit: Giovanni Rufino/The CW6 of 136. GO305B_0296r.jpgPhoto credit: Giovanni Rufino/The CW 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 137. GO305B_0312.jpgPhoto credit: Giovanni Rufino/The CW8 of 138. GO305B_0324r.jpgPhoto credit: Giovanni Rufino/The CW 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 139. GO305B_0381.jpgPhoto credit: Giovanni Rufino/The CW10 of 1310. GO305B_0412.jpgPhoto credit: Giovanni Rufino/The CW 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 1311. GO305B_0416r.jpgPhoto credit: Giovanni Rufino/The CW12 of 1312. GO305B_0418r.jpgPhoto credit: Giovanni Rufino/The CW 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 1313. GO305C_0169ra.jpgPhoto credit: Giovanni Rufino/The CW 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+1. GO305A_0444ra.jpgPhoto credit: G2. GO305B_0145r.jpgPhoto credit: G3. GO305B_0149.jpgPhoto credit: G4. GO305B_0291r.jpgPhoto credit: G5. GO305A_0100r.jpgPhoto credit: G6. GO305B_0296r.jpgPhoto credit: G7. GO305B_0312.jpgPhoto credit: G8. GO305B_0324r.jpgPhoto credit: G9. GO305B_0381.jpgPhoto credit: G10. GO305B_0412.jpgPhoto credit: G11. GO305B_0416r.jpgPhoto credit: G12. GO305B_0418r.jpgPhoto credit: G13. GO305C_0169ra.jpgPhoto credit: G 
+
+
+
+
+
+
+
+
+
+/n

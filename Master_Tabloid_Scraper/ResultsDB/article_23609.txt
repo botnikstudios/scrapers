@@ -1,0 +1,44 @@
+Jerry Ferrara and Breanne Racano's Bora Bora Honeymoon Is Pretty Picturesque Jerry Ferrara has come a long way since driving around Vinny Chase... After saying "I do" on June 30 in Ohio, The Entourage star and his blushing bri.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866004/jerry-ferrara-and-breanne-racano-s-bora-bora-honeymoon-is-pretty-picturesque');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017530/rs_800x804-170630145627-600-2jerry-farrera-wedding.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jerry Ferrera, Instagram");
+	var imageCaption = encodeURIComponent("Jerry Ferrera, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Jerry Ferrara has come a long way since driving around Vinny Chase...After saying "I do" on June 30 in Ohio, The Entourage star and his blushing bride, Breanne Racano, have hopped over to honeymoon hotspot Bora Bora to kickstart their marriage.The twosome are staying at the luxurious Four Seasons Resort Bora Bora in French Polynesia and everything looks picture perfect.The duo has been sharing a storm of social media images from their romantic French Polynesian vacay, sipping on coconuts, diving into crystal clear waters and enjoying some romantic time together.On Sunday, Jerry posted a smiling Instagram snap of the recently wed twosome in the clear blue ocean. The actor is wearing blue and white striped swim trunks while his bride is rocking a cut-out white one-piece bathing suit.In one absolutely adorable Instagram video, Breanne shared a faux Bachelor-style one-on-one, sunset dinner date with her new hubby. She captioned it: "This week on the Bachelor.... @bachelorabc... @jerryferrara is such a good sport."Last month, E! News confirmed that the two tied the knot in front of friends, family and his former Entourage pals in Canton, Ohio.Jerry's Entourage co-stars, Kevin Dillon, Emmanuelle Chriqui and Kevin Connolly flew out for the couple's big day. The groom wore a custom tuxedo by Ermenegildo Zegna, while Breanne opted for a couture gown designed specifically for her by Project Runway designer Austin Scarlett.Check out the bevy of Bora Bora honeymoon pics...
+
+Jerry and Breanne's love story dates back to 2014. Three years prior, the actress went appeared in an episode of the wildly popular HBO series, and in 2015, she landed un-credited role in the Entourage movie.The newlyweds also collaborate on the podcast, Bad 4 Business with Jerry Ferrara.
+/n

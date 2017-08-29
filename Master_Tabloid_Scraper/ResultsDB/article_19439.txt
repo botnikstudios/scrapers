@@ -1,0 +1,58 @@
+Royal Death Hysteria: Plans for Queen Elizabeth II and Prince Philip Are All Mapped Out but Now We Know What Will Really Happen Yet Britain's royal family, even in its "modernized" state today, remains the closest thing we hav.../n
+As any outlet preparing for the arrival of the royal babies was well aware of, the news of Kate Middleton and Prince William's blessed event was going to unfold exactly so.Contingencies were laid out, multiple routes to multiple hospitals were mapped, a press release announcing the commencement of labor was prepared, to be handed out to the press first, and then almost simultaneously posted on social media.And if the babies were not born during business hours (i.e. born while the queen's asleep), the world would have to wait until 8 a.m., local London time, for the official announcement that a child had been born unto the Duke and Duchess of Cambridge.Well, as it turns out, the departure of a royal from this world is no different.An extensive Guardian report earlier this year on the exacting protocol that will take effect when Queen Elizabeth II dies was a morbidly romantic read, an initially traumatizing yet ultimately reassuring reminder that—hey, the royal family's got this.
+
+The family members will gather wherever the queen is. Once she's gone, the British prime minister will get the call informing her that "London bridge is down." While the BBC used to have the monopoly on royal exclusives, a statement will go out to the U.K.'s Press Association and other major outlets at the same exact time that a footman is posting a black-trimmed written notice on the front gate of Buckingham Palace.The palace website will then go dark.When the previous ruling monarch—Queen Elizabeth II's father, King George VI—died 65 years ago, the BBC was king of all media and the monarchy couldn't have dreamed up Twitter, or anything else Internet-related for that matter. Even when Princess Diana died in 1997 (a different beast altogether for myriad reasons), the media landscape, driven by 24/7 cable news, was unrecognizable from the tweet-anything, social media-fueled world we're living in.
+
+But even without the addition of the thousands of other news outlets that didn't exist in the 1950s, there are plenty of opportunities for the well-oiled machine that is supposed to be news of the queen's demise to break down due to human error. According to the Guardian, the BBC's obit lights didn't turn on when the Queen Mother died in 2002 at 101 because whoever was in charge of pushing the button didn't punch it just so. Then the news anchor wore the wrong color tie (maroon!). 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848516/royal-death-hysteria-plans-for-queen-elizabeth-ii-and-prince-philip-are-all-mapped-out-but-now-we-know-what-will-really-happen');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201658/rs_634x1024-160608173527-1024.Queen-Elizabeth-ll-Prince-Phillip-Epsom-Derby.tt.060816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Queen Elizabeth ll, Prince Philip the Duke of Edinburgh");
+	var imageCaption = encodeURIComponent("Queen Elizabeth ll, Prince Philip the Duke of Edinburgh");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mark Cuthbert/UK Press via Getty Images
+
+Yet Britain's royal family, even in its "modernized" state today, remains the closest thing we have to a storybook world existing in our midst, and, just as her life has been, the end of the reign of the U.K.'s longest-sitting monarch—Elizabeth II having vowed to serve as long as she is alive—is going to be mapped out accordingly.But while the days of mourning that will ensue will not be quite like any other, losing the queen isn't the only inevitability her subjects have to prepare for. Last night (or earlier today, depending on where you are), the world witnessed what amounted to an impromptu fire drill, a calling up of the troops just in case they were called into battle at 8 a.m., GMT, after the Daily Mail reported that the queen's entire household had been summoned to Buckingham Palace for an all-hands emergency meeting.
+
+Personally, we were rooting for a Prince Harry engagement plan roll-out, but the majority's immediate assumption was that the queen's consort of nearly 70 years, Prince Philip, had fallen gravely ill or, perhaps, had died suddenly, just hours after an appearance at which he jauntily referred to himself as "the world's most experienced plaque-unveiler."But seeing as he's nearing his 96th birthday, a sudden illness or worse wouldn't have been the unlikeliest of occurrences.Well...Cue the slow creep of the almost too excited rumor mill, as news outlets set up shop outside Buckingham Palace in the wee hours of morning, fully aware that no one would officially be the wiser until the clock struck 8, if the announcement was indeed a matter of life and death.Within a few hours of the Mail report, however, came the tweets speculating, out loud, that Philip was dead. Followed by the tweets, some from actual journalists and some not, that "French media reports" were claiming he was dead. A rumor started to circulate that a Union Jack was flying at half mast. In the meantime, it was hard enough to get an on-the-record confirmation that there was even a meeting, let alone why.
+
+Inevitably, the idea that Philip had passed away seemed more likely with each ensuing tweet and every moment of not knowing otherwise. Meanwhile, mixed in with all the speculative chatter were updates from eye witnesses outside the palace who become unofficial lifelines to what was going on in real time. The Sun, which has enjoyed an infamously prickly relationship with the royals in recent years, accidentally let a partially completed obituary go live online.Regardless, this was all unfolding during sleepy time on the East Coast, and anyone who went to bed before midnight on the West Coast didn't know for sure till morning.So call it a pleasant surprise to find out, upon waking, that while the news did involve Prince Philip, the big announcement was only that the queen's husband—who up until recently had been outpacing the younger generation as far as official appearances went—would be retiring from his public duties.This fall.Cue the sound of a thousand microphones drooping as the hands clutching them went slack from deflated relief.
+
+Ultimately the news wasn't entirely untouched by the fact of mortality, but it certainly wasn't an all-hands-on-deck event for the rest of the world outside the U.K. And presumably plenty of people in the U.K. felt a bit cheated by what turned out to be a very brief period of frenzy.While the public apparently wasn't supposed to know about the palace meeting in the first place, it's nearly impossible to keep any celebrity secrets these days, let alone one that involves a state leader. But after watching the rumor mill churn itself silly for a few hours before the real reason for the meeting was revealed (shortly after 8, dear sirs and madams), we can be fairly certain that when the lesser of outcomes finally does occur, the Internet is going to do its best to strip the proceedings of all their carefully laid out majesty.But thoughtless tweets and crude jokes at least will not be able to stop history from proceeding accordingly, even if someone doesn't hit the right button at the BBC, or a presenter wears the wrong color tie.
+
+While Philip's passing won't be the monarchy-altering event that the queen's death will be after 65 years on the throne, there will be pomp, and there will be circumstance. The black-edged note will be posted on the gate, there will be days of official mourning, flags will fly at half mast (but not the one at Buckingham Palace, which will fly as normal to signify the continuation of the monarchy as is), and operation Forth Bridge will ensue.Despite his wife's wishes, however, about nine years ago Philip let it be known he didn't want the fuss of a massive state funeral at Westminster Abbey (meaning no public viewing or lying in state), but rather a smaller memorial at St. George's Chapel at Windsor Castle that focuses on his time in the Royal Navy.
+
+Philip will then be interred in the mausoleum at Frogmore House, within the royal Home Park of Windsor, where Queen Victoria and her husband, Prince Albert, are buried. Queen Elizabeth II will be laid to rest next to Philip when the time comes.But the right response to this morning's news was: May Prince Philip, who was already out and about today, actually have time to enjoy his retirement—and may all of these plans grow dusty in the interim. The palace assured in the meantime that the 91-year-old queen will continue for the foreseeable future with a full schedule of engagements.
+/n

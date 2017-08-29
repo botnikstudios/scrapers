@@ -1,0 +1,54 @@
+Gurira), Glenn (Steven Yeun), Daryl (Norman Reedus), Aaron (Ross Marquand), Rosita (Christian Serratos), Carl (Chandler Riggs), Maggie (Lauren Cohan), Eugene (Josh McDermitt), Abraham (Michael Cudlitz) and Sasha (Sonequa Martin-Green) were l.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/803698/the-walking-dead-death-who-is-most-likely-to-die-in-season-7-premiere');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016919/rs_634x1024-161019071704-634.the-walking-dead-season-7.ch.101916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Walking Dead");
+	var imageCaption = encodeURIComponent("The Walking Dead");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AMC
+
+Viewers have waited close to a half a year to find out who was on the receiving end of Negan's (Jeffrey Dean Morgan) killing blow in The Walking Dead season six finale. The answer will finally be revealed on Sunday, Oct. 23 when The Walking Dead season seven premieres. But that means viewers will have to say goodbye to one of their beloved zombie apocalypse survivors. Rick (Andrew Lincoln), Michonne (Danai Gurira), Glenn (Steven Yeun), Daryl (Norman Reedus), Aaron (Ross Marquand), Rosita (Christian Serratos), Carl (Chandler Riggs), Maggie (Lauren Cohan), Eugene (Josh McDermitt), Abraham (Michael Cudlitz) and Sasha (Sonequa Martin-Green) were left in harm's way.
+
+Who will it be? And could it be more than one person? The show went to great lengths to keep spoilers from coming out, namely filming extra scenes and not sending screeners to press. The below is just our theories on who will meet their maker thanks to Lucille, Negan's barbed wire wrapped bat, ranked from least likely to die to most likely.LEAST LIKELY TO DIE: Rick Why: Sure, you could have The Walking Dead without the main hero, it'd be a great shakeup for the show, but we know he lives. We've seen the preview scene. Rick's got more harrowing adventures in him.
+
+CarlWhy: Carl just lost his eye; he's got a badass journey to go on. Sure, his death would give Rick some emotional moments, but Negan doesn't seem the type to take out the kid first.DarylWhy: Remember Daryl dies, we riot? Sure his death would have a huge impact on the show, but it's not Daryl's time yet.Michonne Why: Again, her death would have a huge impact on the series, but the show has gotten a lot of flack for killing minority characters…
+
+MaggieWhy: She's pregnant and already ailing, Maggie needs a comeback story. She's just getting her feet wet as leader. It's not her time.SashaWhy: Clearly the show has more in mind for Sasha, and again, the minority death thing.AaronWhy: Aaron's death wouldn't pack an emotional blow to the audience, but he is expendable at this point. However, as a gay character, he's a minority.
+
+RositaWhy: Rosita hasn't had much to do lately and seems like she's not long for the world. Viewers haven't really gotten to know her, which makes her both a likely and not so likely character to die.EugeneWhy: The same we said for Rosita applies for Eugene. But Eugene seems too expected…AbrahamWhy: Viewers have gotten to know Abraham more than his compatriots Eugene and Rosita. He's well-liked and a force on the show…which makes him a likely candidate.
+
+MOST LIKELY TO DIE: GlennWhy: Glenn dies in the comics at the hands of Negan, sure, but the show mixes things up quite a bit (RIP Andrea). However, with the big Glenn death fake-out earlier this year, it seems like this could be it for the beloved delivery boy. The emotional impact is there for fans and almost every character on the series. We'll miss you, Glenn (if you die).
+
+The official description from AMC reads: "The first half of season seven sees the group fractured, broken, bereaved, and picking up the pieces while living under the thumb of oppression. Negan will have successfully brought the survivors under his will, brutally convincing them to live under his rules with a deadly and horrific example of what happens if they don't."Buckle up.The Walking Dead season seven premieres Sunday, Oct. 23 at 9 p.m. on AMC.
+/n

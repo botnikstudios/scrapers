@@ -1,0 +1,44 @@
+Lista de ganadores de los Oscar 2017 La Academia eligió a lo mejor del cine./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832043/lista-de-ganadores-de-los-oscar-2017');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017126/rs_634x1024-170226174442-634-jimmy-kimmel-academy-awrds.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jimmy Kimmel, 2017 Oscars, Academy Awards, Show");
+	var imageCaption = encodeURIComponent("Jimmy Kimmel, 2017 Oscars, Academy Awards, Show");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+La Academia eligió a lo mejor del cine.
+
+Finalmente llegó la noche más importante de Hollywood. Cada año los Oscars premian a los mejores trabajos y dan espacio a las polémicas.Jimmy Kimmel recibió el honor de ser el maestro de ceremonias y mantener los espíritus altos, una tarea que no es fácil cuando cada apertura de sobres deja más perdedores que ganadores.La La Land llegó como la gran favorita y tiene todo para hacer historia aunque otros filmes como Manchester by the Sea podrían arrebatarle algunos premios.Aquí tienes la lista de ganadores de los Oscar 2017:Mejor Actor de Reparto: Mahershala AliMejor Maquillaje y Peinados: Suicide SquadMejor Diseño de Vestuario: Fantastic Beasts and Where to Find ThemMejor Documental: O.J. Made in AmericaMejor Edición de Sonido: ArrivalMejor Mezcla de Sonido: Hacksaw RidgeMejor Actriz de Reparto: Viola DavisMejor Película en idioma extranjero: The SalesmanMejor Corto Animado: PiperMejor Película Animada: ZootopiaMejor Diseño de Producción: La La LandMejores Efectos Visuales: El Libro de la SelvaMejor Corto Documental: The White HelmetsMejor Corto: SingMejor Cinematografía: La La LandMejor Banda Sonora: La La LandMejor Canción Original: City of Stars, La La LandMejor Guión Original: Manchester by The SeaMejor Guión Adaptado: MoonlightMejor Director: Damien Chazelle!Mejor Actriz Principal: Emma StoneMejor Película: MoonlightMejor Actor Principal: Casey Affleck
+/n

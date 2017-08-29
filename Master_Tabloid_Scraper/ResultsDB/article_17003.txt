@@ -1,0 +1,42 @@
+Eddie Van Halen Pops the Question Forget teacher. Eddie Van Halen's hot for Janie. The guitar god has gotten engaged to longtime girlfriend Janie Liszewski. The 53-year-old Van Halen mastermind dropped to one knee and popped the questio.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/32578/eddie-van-halen-pops-the-question');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080303/293.VanHalen.Eddie.030308.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Eddie Van Halen ");
+	var imageCaption = encodeURIComponent("Eddie Van Halen ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Mazur/WireImage.com
+
+Forget teacher. Eddie Van Halen's hot for Janie.The guitar god has gotten engaged to longtime girlfriend Janie Liszewski.The 53-year-old Van Halen mastermind dropped to one knee and popped the question to the 38-year-old publicist in a private room at a Tiffany & Co. store while vacationing in Hawaii, according to People. They will reportedly tie the knot next June.It will be Van Halen's second attempt at nuptial bliss. He and Valerie Bertinelli were married for 26 years before separating in 2001 and finalizing their divorce last year. They have a son, 17-year-old Wolfgang, who has been playing bass in the family band. This will be the first matrimonial go for Liszewski, an actress and stuntwoman who became Van Halen's publicist in 2007, just in time to promote the hugely successful Van Halen reunion tour with David Lee Roth.
+/n

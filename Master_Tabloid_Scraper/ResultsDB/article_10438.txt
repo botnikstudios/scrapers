@@ -1,0 +1,48 @@
+EXCLUSIVE! Here's How Prince Jackson Is Stepping Out of Michael Jackson's Shadow and Making His Own Way in the Music Industry In fact, when asked which of Michael's music videos are his favorite, Prince chose "Moonwalker&.../n
+Don't ask Prince Jackson to sing, dance or moonwalk.The 20-year-old son of Michael Jackson joined E!'s Daily Pop and revealed how he's making his own career path, stepping outside of the King of Pop's shadow and into his own realm.Prince has been working behind the camera, helping visualize music videos like that of Swedish singer Nano's "Hold On."However, when people hear that he "produces," everyone is quick to jump to the conclusion that he's producing music."It's hard because people think that I'm going to dance or people think that I'm going to sing," he told hosts Catt Sadler, Justin Sylvester and Carissa Culiner. "And when they hear 'music' or if they hear 'producer,' they'll be like, 'What song are you working on or who's your artist'...I'm only on the visual side of production. So that part, I guess it's misleading for people."
+
+However, he did gain inspiration to get into film from watching his father's music videos."Since I was little I knew I would be in the film industry," Prince explained. "Growing up, I got to spend a decent amount of time on film sets either with my dad's friends or when he was starting to work on the 'This Is It' tour. He was re-doing a lot of his videos, so I got to spend a lot of time on music video sets that were cinematically filmed."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871489/here-s-how-prince-jackson-is-stepping-out-of-michael-jackson-s-shadow-and-making-his-own-way-in-the-music-industry');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017421/rs_634x1024-170521153658-634.Prince-Michael-Jackson-Billboard-Music-Awards-Las-Vegas.kg.052117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Prince Michael Jackson, 2017 Billboard Music Awards, Arrivals");
+	var imageCaption = encodeURIComponent("Prince Michael Jackson, 2017 Billboard Music Awards, Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Richard Shotwell/Invision/AP
+
+In fact, when asked which of Michael's music videos are his favorite, Prince chose "Moonwalker" and "Smooth Criminal."Though Prince has separated himself from his father's legacy for the most part, there are still some things people simply expect him to follow in the same manner."Obviously there are a lot of perks [of having a famous father,]," he said. "But one of the big problems is there is a certain standard you have to live up to because of who raised you. Everybody saw him as a humanitarian."Therefore, speaking on behalf of his sister Paris Jackson as well, he said, "Everything we do—either publicly or privately—it has to live up to the standard of not only just Michael Jackson but as the man and the father he raised us."One thing you shouldn't expect out of him, though, is a moonwalk...only because he just can't do it!"People have tried to teach me," he laughed. "And I just can't understand it."
+
+To hear more from Prince, tune into E! News at 7 and 11 p.m., and don't forget to catch Daily Pop weekdays at 12 p.m.!
+/n

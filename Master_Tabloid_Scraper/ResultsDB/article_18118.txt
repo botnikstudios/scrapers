@@ -1,0 +1,44 @@
+Nelly Furtado Secretly Split From Demacio Castellon After 8 Years of Marriage Nelly Furtado turned off the light on this relationship.  After eight years of marriage, the Grammy winner split from Demacio Castellon, the sound engineer she married in 2.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/843040/nelly-furtado-secretly-split-from-demacio-castellon-after-8-years-of-marriage');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017312/rs_634x1024-170412084558-634.Demacio-Castellon-Nelly-Furtado-JR-041217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Demacio Castellon, Nelly Furtado");
+	var imageCaption = encodeURIComponent("Demacio Castellon, Nelly Furtado");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Christopher Polk/Getty Images for Latin Recording Academy
+
+Nelly Furtado turned off the light on this relationship. After eight years of marriage, the Grammy winner split from Demacio Castellon, the sound engineer she married in 2008. However, fans failed to realize the songstress was going through a rough patch in her personal life (or her missing wedding ring) because the star kept a rather low profile in the last few years. However, the 38-year-old confirmed the news during an interview on ITV's Loose Women on Wednesday. "I am single now," she declared during a chat with the women. "Someone here needs to update my Wikipedia—it's not helping my dating life!"
+
+"Sometimes you just want to sit home and bake some muffins for your daughter," she explained of managing the pressures of fame and family life. "I need to stay mentally and emotionally and physically well for my daughter."
+/n

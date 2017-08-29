@@ -1,0 +1,48 @@
+EXCLUSIVE! Total Divas' Rosa Mendes Gives Birth! See the First Photo of the WWE Star's Baby Daughter Jordan And baby makes three! Total Divas star Rosa Mendes received a special early Valentine's Day gift today when she welcom.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/total_divas/news/736065/total-divas-star-rosa-mendes-gives-birth-see-the-first-photo-of-the-wwe-star-s-special-daughter-jordan');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016113/rs_634x1024-160213133720-rosa.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rosa Mendes, Baby, Jourdan");
+	var imageCaption = encodeURIComponent("Rosa Mendes, Baby, Jourdan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Rosa Mendes
+
+And baby makes three!Total Divas star Rosa Mendes received a special early Valentine's Day gift today when she welcomed her first child with fiancé Bobby Schubenski, a baby girl named Jordan Elizabeth Schubenski."Please welcome Jordan Schubenski to the world," Rosa tells E! News exclusively. "The love we have for her is indescribable. We want to thank our family and friends, and I especially want to thank my WWE family for supporting me from day one. I can't wait for all of you to meet her in person. She's so special."The couple's adorable bundle of joy measured 19 inches and weighed in at 6 lbs., 13 oz. The first-time parents also shared the exclusive first photo of Jordan with E! News and her precious toes and feet couldn't be any cuter!
+
+Agreeing on a name can be one of the more difficult tasks for an expectant couple, but Rosa and Bobby had absolutely no problems choosing a name for their little one. In fact, the pair began discussing baby names before Rosa even got pregnant and they both happened to realize how much they loved the name Jordan."It was the first name he said and I've always loved that name for a girl!" Rosa exclusively tells E! News. "So, we didn't even look up names or have any issues with finding a name. We just fell in love. He said the name, I loved it and that's how we picked her name. We are just always on the same wavelength."As for Jordan's middle name, Elizabeth is actually Rosa's mother name and they both thought it complimented the first name well.
+
+Last month, the WWE star also exclusively confessed to E! News she was having the best time with her pregnancy."I'm actually one of the lucky ones," she confessed. "I've been feeling so good since my first trimester. I have three other friends who are pregnant too and they've just been having a really hard time and I feel so bad because I feel so great."The new mom also shared how grateful and appreciative she was for Bobby and their now-newborn daughter."It's hard to describe in words, but having a life inside of you just makes you want to be better," she said. "I want to give Jordan the best life possible."
+
+Rosa also added, "For three years, I was single and I never thought I would find love. But I met the love of my life, my dream man, and now I'm having a baby and my career is going great. It's on hold for a little bit, but everything is going so well."Congratulations, Rosa!
+/n

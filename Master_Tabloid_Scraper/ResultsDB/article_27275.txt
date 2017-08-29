@@ -1,0 +1,44 @@
+the matter. Tip (real name Clifford Joseph Harris, Jr.) took to Twitter today to break his silence on the shooting that occurred during his show at Irving Plaza Wednesday night, leaving one dead and three injured. "My heart is heavy tod.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/768308/t-i-breaks-silence-on-concert-shooting-our-music-is-intended-to-save-lives');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016426/rs_634x1024-160526044603-634.T.I-JR-052616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("T.I.");
+	var imageCaption = encodeURIComponent("T.I.");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jamie McCarthy/Getty Images
+
+Many found themselves speechless in regards to the tragic acts that broke out last night during T.I.'s concert in New York City, but the rapper has now spoken out about the matter.Tip (real name Clifford Joseph Harris, Jr.) took to Twitter today to break his silence on the shooting that occurred during his show at Irving Plaza Wednesday night, leaving one dead and three injured."My heart is heavy today. Our music is intended to save lives, like it has mine and many others. My heartfelt condolences to the family that suffered the loss and my prayers are with all those injured. Respectfully, Tip," his tweet read, with the caption, "Rest in peace bro. God bless."
+
+The 35-year-old rapper was set to perform but he never made it to the stage because shots rang out prior to his performance.Police said Wednesday that gunfire broke out at around 10:15 p.m. in a third-floor dressing room while his opening acts, rappers Maino and Uncle Murda, were performing; the violence later spread to the audience.A 33-year-old man was shot in the stomach and later died at Beth-Israel Hospital. Three others were injured, including a 34-year-old man who was shot in the chest and taken to Bellevue Hospital, where he remained in critical condition, a 26-year-old woman who was shot in the leg and was taken to Bellevue Hospital, and a 30-year-old man who was shot in the leg and taken to New York Medical Center.That man was later identified as Crown Heights-based rapper Roland Collins, better known by his stage name, Troy Ave. Reports claim Troy Ave. opened fire due to rap beef with Maino, and allegedly shot himself in the leg accidentally during the chaos. The New York Police Department confirms to E! News that Collins has been arrested and charged with attempted murder and two counts of criminal possession of a weapon. He is currently in custody. It is an ongoing investigation.—Reporting by Holly Passalaqua
+/n

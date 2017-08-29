@@ -1,0 +1,45 @@
+BREAKING! Zooey Deschanel Is Engaged to Jacob Pechenik! It's been one heck of a January for Zooey Deschanel! The New Girl star is engaged to boyfriend Jacob Pechenik, E! News has learned! According to a source, her producer love propose.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/616893/zooey-deschanel-is-engaged');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014725/rs_634x1024-140825164543-634.zooey-deschanel-jacob-emmy-awards-red-carpet-082514.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zooey Deschanel, Jacob Pechenik, Emmy Awards 2014");
+	var imageCaption = encodeURIComponent("Zooey Deschanel, Jacob Pechenik, Emmy Awards 2014");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+It's been one heck of a January for Zooey Deschanel!The New Girl star is engaged to boyfriend Jacob Pechenik, E! News has learned! According to a source, her producer love proposed on Jan. 17, which also doubles as her birthday! The happy couple spent the day on Catalina Island.Just last week a rep for the She & Him singer also confirmed to E! News that she is expecting her first child with her now-fiancé, 42."Jacob and I are over the moon," the She & Him singer told People. "We are so excited to meet our little one."The actress, 35, stepped out for the first time publicly with her producer beau in August 2014 after she split from screenwriter Jamie Linden.This will be Deschanel's second marriage, as she was formerly linked to Death Cab for Cutie's vocalist Ben Gibbard, but they split in 2012.
+
+Deschanel and Pechenik are working on her next film together, Rock the Kasbah, which also stars Bruce Willis, Bill Murrayand Taylor Kinney.Us Weekly was the first to report the engagement. 
+/n

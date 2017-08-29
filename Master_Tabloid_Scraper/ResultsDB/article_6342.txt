@@ -1,0 +1,44 @@
+Hannah Davis Dishes on Her Wedding and Starting a Family With Derek Jeter Meanwhile, Hannah also dished about her gorgeous wedding, which was held at Meadowood Napa Valley Resort in St. Helena, Calif., on Saturday, July 9. "It was great.../n
+Last month, Hannah Jeter and Derek Jeter tied the knot, officially becoming one of Hollywood's hottest married couples and getting us excited for the potential of beautiful mini-Jeters.However, when E! News caught up with the model at the Sports Illustrated Swimsuit Summer of Swim Fan Festival, she wasn't so sure how quickly they're looking to start a family."We're just happy and excited at the moment to be newlyweds," she told us about having kids. "And I think that's our focus right now."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/790843/hannah-davis-dishes-on-her-wedding-and-starting-a-family-with-derek-jeter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016612/rs_634x801-160712084013-634.Derek-Jeter-Hannah-Davis-Wedding-JR-071216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Derek Jeter, Hannah Davis, Wedding Dress");
+	var imageCaption = encodeURIComponent("ESC: Derek Jeter, Hannah Davis, Wedding Dress");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+INFphoto.com/Fameflynet
+
+Meanwhile, Hannah also dished about her gorgeous wedding, which was held at Meadowood Napa Valley Resort in St. Helena, Calif., on Saturday, July 9."It was great," she said of the special day. "It's been a really beautiful summer. So I'm just enjoying myself."In fact, she'll continue enjoying her summer of love as the pair are set to take another honeymoon soon."We've been on one so far," she revealed, laughing. "And we're going on another...[But] It's a secret!" Meanwhile, the couple dated for three years before news of their engagement broke in October 2015. "They are extremely excited and in love!" a source told E! News at the time. "They can't wait to spend their lives together."Even though they're not quite ready to start popping out kids, it's still not just the two of them. They're already proud parents of a 100-plus pound Italian Mastiff named Kane!
+/n

@@ -1,0 +1,48 @@
+was his, but apparently Anika's mind works in mysterious (and crazy) ways. Elsewhere on Empire, Hakeem (who has dropped the Lyon from his name) and Freda were engaged in an intense, multi-platform rap battle that got very heated and a l.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/717292/empire-pregnancy-shocker-find-out-the-unexpected-parents-to-be');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015711/rs_634x1024-150811080902-634.Empire-J4R-81115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Empire");
+	var imageCaption = encodeURIComponent("Empire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FOX
+
+Things are about to get really awkward on Empire. They're also about to go full-tilt crazy, all thanks to Miss Boo Boo Kitty and her occupied uterus. Yep! Anika's (Grace Gealey) pregnant, and when Hakeem (Bryshere Gray) kindly rejected her due to the fact that he's in love with Laura, she went a little nutso. She put on a blonde wig and pretended to be Laura's driver, and it's probably safe to say she wasn't going to take her home.Anika also learned some other potentially useful news thanks to Rhonda, who informed her that Lucious has a total soft spot for babies while they bonded over soul-cleansing smoothies. We were totally sure Anika was going to tell the elder Lyon that the baby was his, but apparently Anika's mind works in mysterious (and crazy) ways.
+
+
+
+FOX
+
+Elsewhere on Empire, Hakeem (who has dropped the Lyon from his name) and Freda were engaged in an intense, multi-platform rap battle that got very heated and a lot more serious than the last rap battle we had ever got, and thanks to Cookie's sister Candace (Vivica A. Fox) we discovered that Cookie's real name is not Cookie. It's actually Loretha, which sounds a lot like urethra and is probably a name we'd also change. Meanwhile, Cookie/Loretha proved once again that she and her family are not to be messed with by slapping Laz hard across the face after he got into a fight with Hakeem. We also really developed a craving for Pepsi over the course of the episode thanks to the forty 40,000 times it was mentioned, and checked our Google Play balance (sorry, we don't all have iPhones!) in anticipation of downloading yet another hit from Jamal. It looks like Alicia Keys is making her debut next week, but honestly we're very concerned about sweet virgin Laura. Boo Boo had better not hurt her. What do you think of Anika's revelation? Sound off in the comments! 
+/n

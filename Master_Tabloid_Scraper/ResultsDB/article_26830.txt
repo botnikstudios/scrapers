@@ -1,0 +1,60 @@
+Gorga, Caroline Manzo, Kathy Wakile, Teresa Aprea, Amber Marchese, Jacqueline Laurita, Siggy Flicker Not Married: Danielle Staub, Nicole Napolitano, Dolores Catania Divorce Rate: 11.1 percent The Real Housewives of Potomac Divorced: Charriss.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/567233/we-calculated-the-divorce-rate-for-every-real-housewives-show-and-the-results-will-blow-your-mind');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017618/rs_634x1024-170718181729-634.Luann-de-Lesseps-Tom-DAgostinoJr-NYC.ms.071817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Luann de Lesseps, Tom DAgostino Jr. ");
+	var imageCaption = encodeURIComponent("Luann de Lesseps, Tom DAgostino Jr. ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BlayzenPhotos/BACKGRID
+
+For a franchise called The Real Housewives, it sure is getting harder and harder to find a star who you can actually refer to as, you know, a wife. When we first calculated these numbers back in 2014, when The Real Housewives of New York City star Ramona Singer dropped a bomb on Twitter, announcing her decision to leave Mario, it was already startling to note that the franchise had an overall divorce rate of 33.9 percent.And that was before Real Housewife of Atlanta Phaedra Parks split from her newly imprisoned husband Apollo Nida. And Real Housewife of Beverly Hills Yolanda Hadid called it quits with David Foster. And fellow RHOA star Cynthia Bailey announced her separation from Peter Thomas after a rocky six year marriage that ended as dramatically as it began back when Bailey first joined the Bravo series. (Remember her mother and sister conspiring to hide the marriage license from her on the day of her wedding? Savage.) And, of course, before news broke yesterday that Luann de Lesseps and Tom D'Agostino were divorcing after only seven months of marriage.With all these splits in mind, we knew it was time to take a look at how the divorce rates have changed for each show—and for the franchise as a whole. As always, our guidelines have remained the same: Ladies who were divorced prior to joining the show were not counted, but any marriages and divorces (or divorce filings) that came during their time on The Real Housewives or after they left the franchise were included. Also included were separations (see: Dina Manzo).
+
+The Real Housewives Of Orange County (Note: both of Tamra Barney's marriages were included.)Divorced: Vicki Gunvalson, Lynne Curtin, Jeana KeoughStill Together: Lydia McLaughlin, Peggy Tanous, Alexis Bellino, Tammy Knickerbocker (husband died), Kimberly Bryant, Lauri Waring, Elizabeth Rovsek, Heather Dubrow, Shannon Beador, Meghan King Edmonds, Tamra Barney, Kelly Dodd, Peggy SulahianNot Married: Gretchen Rossi, Quinn Fry, Jo De La RosaDivorce Rate: 23.5 percent
+
+The Real Housewives of New York City (Note: both of Luann de Lesseps' marriages were included.)Divorced: Ramona Singer, Bethenny Frankel, LuAnn de Lesseps, Jules WainsteinTogether: Jill Zarin, Aviva Drescher, Heather Thomson, Kristen Taekman, Alex McCordNot Married: Sonja Morgan, Cindy Barshop, Carole Radziwill, Kelly Bensimon, Dorinda Medley, Tinsley MortimerDivorce Rate: 50 percent
+
+The Real Housewives Of Beverly HillsDivorced: Camille Grammer, Adrienne Maloof, Taylor Armstrong, Yolanda HadidTogether: Lisa Vanderpump, Kyle Richards, Carlton Gebbia, Joyce Giraurd de Ohoven, Eileen Davidson, Lisa Rinna, Erika Girardi, Kathryn Edwards, Dorit KemsleyNot Married: Brandi Glanville, Kim RichardsDivorce Rate: 30.7 percent
+
+The Real Housewives Of Atlanta (Note: NeNe Leakes' divorce and remarriage to Gregg Leakes counted as two marriages.)Divorced: Porsha Williams, DeShawn Snow, Cynthia Bailey, Phaedra Parks, Lisa WuTogether: Kim Zolciak, Kandi Burruss, NeNe Leakes, Kim FieldsNot Married: Sheree Whitfield, Kenya Moore, Claudia JordanDivorce Rate: 60 percent
+
+The Real Housewives Of New JerseyDivorced: Dina ManzoTogether: Teresa Giudice, Melissa Gorga, Caroline Manzo, Kathy Wakile, Teresa Aprea, Amber Marchese, Jacqueline Laurita, Siggy FlickerNot Married: Danielle Staub, Nicole Napolitano, Dolores CataniaDivorce Rate: 11.1 percent
+
+The Real Housewives of PotomacDivorced: Charrisse Jackson-Jordan, Ashley Darby (Revealed she was separated from Michael during season two reunion)Together: Karen Huger, Monique SamuelsNot Married: Gizelle Bryant, Katie Rost, Robyn DixonDivorce Rate: 50 percent
+
+The Real Housewives of DallasTogether: Cary Deuber, Tiffany Hendra, Stephanie Hollman, Brandi Redmond, D'Andra Simmons, Kameron WescottNot Married: LeeAnne LockenDivorce Rate: Zero percent
+
+The Real Housewives Of MiamiDivorced: Marysol Patton, Joanna Krupa, Larsa PippenTogether: Adriana de Maura, Lisa Hotchstein, Alexia Echevarria, Lea BlackNot Married: Karent Sierra, Ana Quincoces, Cristy RiceDivorce Rate: 42.9 percent
+
+The Real Housewives Of D.c.Divorced: Mary Schmidt Amons, Michaele Salahi, Catherine Ommanney, Stacie Scott TurnerNot Married: Lynda ErkiletianDivorce Rate: 100 percentAnd finally, because we know you're all very curious, The Real Housewives franchise's overall divorce rate now stands at 35 percent.(E! and Bravo are both part of the NBCUniversal family.)
+/n

@@ -1,0 +1,102 @@
+10 Fascinating Murder Mysteries/n
+
+					var next_post_url = "http://radaronline.com/photos/joshua-jackson-new-girlfriend-married-model-shafia-west/";
+					var prev_post_url = "http://radaronline.com/photos/spencer-pratt-alex-jones-beach-hawaiian-vacation/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-23T10:28:36+00:00","caption":"America\u2019s fascination with true crime is at fever pitch. This year some of the most infamous murder mysteries are resurfacing because of significant anniversaries. It\u2019s been a decade since the disappearance of Stacy Peterson, and fifteen years since Chandra Levy\u2019s body was found at a park in Washington D.C. We look back at 10 of the most fascinating murder mysteries in recent years.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-radar-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:37+00:00","caption":"Drew Peterson\nWhen Stacy Peterson went missing in October 28, 2007, police sergeant Drew Peterson was immediately a suspect. Just four years prior, his third wife Kathleen Savio\u2019s body was found in a dry bathtub. When his fourth went missing, he was investigated for both cases. Drew ultimately was found guilty for Kathleen\u2019s murder. Stacy remains a missing persons case. Investigation Discovery is airing a 2-part special called Drew Peterson: An American Murder Mystery on Sunday, August 27 at 9\/8c.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:39+00:00","caption":"Jodi Arias\nOne of the most salacious murder cases in recent history, the murder of Travis Alexander by the hands of his ex-girlfriend Jodi Arias was a media circus. During the course of the trial, sexy telephone conversations and text messages were leaked to the public, adding fuel to the media fire. Arias was convicted of Alexander\u2019s murder, and is serving a life sentence in Arizona.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:40+00:00","caption":"Scott Peterson\nIt was the mystery that had millions glued to their television. Laci Peterson was eight-moths pregnant when she was reported missing on December 24, 2002 by her husband Scott. But it wasn\u2019t until the following January that his extramarital affairs came to light, and he became a suspect. He was convicted of murdering his wife and unborn child, Connor. Peterson is on death row in California awaiting an appeal, which the court must respond to by the end of 2017.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:41+00:00","caption":"OJ Simpson\nIt was dubbed the trial of the century and in 1995 the nation was clued to their TVs as every twist and turn of the OJ Simpson trial was broadcast. But ultimately the Pro Football Hall of Famer was acquitted of the 1994 murder of this ex-wife Nicole Brown Simpson and her friend Ron Goldman. More than 20 years later, he\u2019s been granted parole after serving nine years of a 33-year sentence for multiple felonies, including kidnapping, in relation to an armed robbery.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:42+00:00","caption":"Amanda Knox\nIt was the case that baffled everyone. Amanda Knox was a 20-year-old American woman living in Italy, accused to murdering her roommate Meredith Kercher in November 2007. Knox was originally given a 26-year sentence. After several trials and four years in an Italian prison, Knox was acquitted by Italy\u2019s highest court in 2015. Known burglar, Rudy Guede, was convicted of sexual assault and murder of Kercher.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:43+00:00","caption":"Chandra Levy\nWhen Chandra Levy went missing in 2001, it was truly a mystery. She was later presumed murdered when her remains were found in May 2002. Although there was much speculation over her the identity of her murder, the cold case heated up when Ingmar Guadique was arrested and ultimately convicted for Levy\u2019s murder. TLC is airing a three-hour special called Chandra Levy: An American Murder Mystery on Monday, September 4 at 8\/7c.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:44+00:00","caption":"Pamela Smart\nBefore media circuses were common, it was the crime that gripped the country. In 1990, Pamela Smart seduced a 15-year-old boy, and began an affair that would end in murder. Gregory Smart was murdered on May 1, 1990 in what appeared to be a burglary. Investigators were skeptical, and began looking at Pamela as a suspect. After being caught discussing the murder on a wiretap, she was arrested and later convicted of being an accomplice to first-degree murder.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:45+00:00","caption":"Robert Durst\nWho can forget the infamous recordings that may have implicated Robert Durst for murder? The American real estate heir is suspected of the murders of his wife Kathleen McCormack Durst, friend Susan Berman and neighbor Morris Black. Durst was convicted of dismembering Black, but not for his murder. On March 14, 2015, Durst was arrested in New Orleans for his alleged involvement in Berman\u2019s murder. The eccentric millionaire has not been named as a suspect in Kathleen\u2019s disappearance.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:46+00:00","caption":"Casey Anthony\nAmericans were on pins and needles watching the case against Casey Anthony unfold. Suspected of murdering her two-year-old daughter, Caylee Marie Anthony, Casey\u2019s bizarre behavior caught the attention of the media. Details like a Google search for \u201cfool-proof suffocation\u201d added fuel to the national debate over her alleged guilt. She was ultimately found not guilty of the murder of her daughter.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T10:28:47+00:00","caption":"Erik and Lyle Menendez\nIt was a wild story about privilege gone wrong. Wealthy brothers, Lyle and Erik, murdered their parents in the family\u2019s Beverly Hills home. The brothers were not considered persons of interest until the mistress of Erik\u2019s psychologist reported the murder to the police. The brothers were found guilty of murder and are serving a life sentence in California.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/American-murder-mysteries-02.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+10 Fascinating Murder Mysteries
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11America’s fascination with true crime is at fever pitch. This year some of the most infamous murder mysteries are resurfacing because of significant anniversaries. It’s been a decade since the disappearance of Stacy Peterson, and fifteen years since Chandra Levy’s body was found at a park in Washington D.C. We look back at 10 of the most fascinating murder mysteries in recent years.Photo credit: Getty Images2 of 11Drew Peterson
+When Stacy Peterson went missing in October 28, 2007, police sergeant Drew Peterson was immediately a suspect. Just four years prior, his third wife Kathleen Savio’s body was found in a dry bathtub. When his fourth went missing, he was investigated for both cases. Drew ultimately was found guilty for Kathleen’s murder. Stacy remains a missing persons case. Investigation Discovery is airing a 2-part special called Drew Peterson: An American Murder Mystery on Sunday, August 27 at 9/8c.Photo credit: Getty Images3 of 11Jodi Arias
+One of the most salacious murder cases in recent history, the murder of Travis Alexander by the hands of his ex-girlfriend Jodi Arias was a media circus. During the course of the trial, sexy telephone conversations and text messages were leaked to the public, adding fuel to the media fire. Arias was convicted of Alexander’s murder, and is serving a life sentence in Arizona.Photo credit: Getty Images4 of 11Scott Peterson
+It was the mystery that had millions glued to their television. Laci Peterson was eight-moths pregnant when she was reported missing on December 24, 2002 by her husband Scott. But it wasn’t until the following January that his extramarital affairs came to light, and he became a suspect. He was convicted of murdering his wife and unborn child, Connor. Peterson is on death row in California awaiting an appeal, which the court must respond to by the end of 2017.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11OJ Simpson
+It was dubbed the trial of the century and in 1995 the nation was clued to their TVs as every twist and turn of the OJ Simpson trial was broadcast. But ultimately the Pro Football Hall of Famer was acquitted of the 1994 murder of this ex-wife Nicole Brown Simpson and her friend Ron Goldman. More than 20 years later, he’s been granted parole after serving nine years of a 33-year sentence for multiple felonies, including kidnapping, in relation to an armed robbery.Photo credit: Getty Images6 of 11Amanda Knox
+It was the case that baffled everyone. Amanda Knox was a 20-year-old American woman living in Italy, accused to murdering her roommate Meredith Kercher in November 2007. Knox was originally given a 26-year sentence. After several trials and four years in an Italian prison, Knox was acquitted by Italy’s highest court in 2015. Known burglar, Rudy Guede, was convicted of sexual assault and murder of Kercher.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Chandra Levy
+When Chandra Levy went missing in 2001, it was truly a mystery. She was later presumed murdered when her remains were found in May 2002. Although there was much speculation over her the identity of her murder, the cold case heated up when Ingmar Guadique was arrested and ultimately convicted for Levy’s murder. TLC is airing a three-hour special called Chandra Levy: An American Murder Mystery on Monday, September 4 at 8/7c.Photo credit: Getty Images8 of 11Pamela Smart
+Before media circuses were common, it was the crime that gripped the country. In 1990, Pamela Smart seduced a 15-year-old boy, and began an affair that would end in murder. Gregory Smart was murdered on May 1, 1990 in what appeared to be a burglary. Investigators were skeptical, and began looking at Pamela as a suspect. After being caught discussing the murder on a wiretap, she was arrested and later convicted of being an accomplice to first-degree murder.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11Robert Durst
+Who can forget the infamous recordings that may have implicated Robert Durst for murder? The American real estate heir is suspected of the murders of his wife Kathleen McCormack Durst, friend Susan Berman and neighbor Morris Black. Durst was convicted of dismembering Black, but not for his murder. On March 14, 2015, Durst was arrested in New Orleans for his alleged involvement in Berman’s murder. The eccentric millionaire has not been named as a suspect in Kathleen’s disappearance.Photo credit: Getty Images10 of 11Casey Anthony
+Americans were on pins and needles watching the case against Casey Anthony unfold. Suspected of murdering her two-year-old daughter, Caylee Marie Anthony, Casey’s bizarre behavior caught the attention of the media. Details like a Google search for “fool-proof suffocation” added fuel to the national debate over her alleged guilt. She was ultimately found not guilty of the murder of her daughter.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11Erik and Lyle Menendez
+It was a wild story about privilege gone wrong. Wealthy brothers, Lyle and Erik, murdered their parents in the family’s Beverly Hills home. The brothers were not considered persons of interest until the mistress of Erik’s psychologist reported the murder to the police. The brothers were found guilty of murder and are serving a life sentence in California.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+America’s fascination with true crime is at fever pitch. This year some of the most infamous murder mysteries are resurfacing because of significant anniversaries. It’s been a decade since the disappearance of Stacy Peterson, and fifteen years since Chandra Levy’s body was found at a park in Washington D.C. We look back at 10 of the most fascinating murder mysteries in recent years.Photo credit: Getty ImagesDrew Peterson
+When Stacy Peterson went missing in October 28, 2007, police sergeant Drew Peterson was immediately a suspect. Just four years prior, his third wife Kathleen Savio’s body was found in a dry bathtub. When his fourth went missing, he was investigated for both cases. Drew ultimately was found guilty for Kathleen’s murder. Stacy remains a missing persons case. Investigation Discovery is airing a 2-part special called Drew Peterson: An American Murder Mystery on Sunday, August 27 at 9/8c.Photo credit: Getty ImagesJodi Arias
+One of the most salacious murder cases in recent history, the murder of Travis Alexander by the hands of his ex-girlfriend Jodi Arias was a media circus. During the course of the trial, sexy telephone conversations and text messages were leaked to the public, adding fuel to the media fire. Arias was convicted of Alexander’s murder, and is serving a life sentence in Arizona.Photo credit: Getty ImagesScott Peterson
+It was the mystery that had millions glued to their television. Laci Peterson was eight-moths pregnant when she was reported missing on December 24, 2002 by her husband Scott. But it wasn’t until the following January that his extramarital affairs came to light, and he became a suspect. He was convicted of murdering his wife and unborn child, Connor. Peterson is on death row in California awaiting an appeal, which the court must respond to by the end of 2017.Photo credit: Getty ImagesOJ Simpson
+It was dubbed the trial of the century and in 1995 the nation was clued to their TVs as every twist and turn of the OJ Simpson trial was broadcast. But ultimately the Pro Football Hall of Famer was acquitted of the 1994 murder of this ex-wife Nicole Brown Simpson and her friend Ron Goldman. More than 20 years later, he’s been granted parole after serving nine years of a 33-year sentence for multiple felonies, including kidnapping, in relation to an armed robbery.Photo credit: Getty ImagesAmanda Knox
+It was the case that baffled everyone. Amanda Knox was a 20-year-old American woman living in Italy, accused to murdering her roommate Meredith Kercher in November 2007. Knox was originally given a 26-year sentence. After several trials and four years in an Italian prison, Knox was acquitted by Italy’s highest court in 2015. Known burglar, Rudy Guede, was convicted of sexual assault and murder of Kercher.Photo credit: Getty ImagesChandra Levy
+When Chandra Levy went missing in 2001, it was truly a mystery. She was later presumed murdered when her remains were found in May 2002. Although there was much speculation over her the identity of her murder, the cold case heated up when Ingmar Guadique was arrested and ultimately convicted for Levy’s murder. TLC is airing a three-hour special called Chandra Levy: An American Murder Mystery on Monday, September 4 at 8/7c.Photo credit: Getty ImagesPamela Smart
+Before media circuses were common, it was the crime that gripped the country. In 1990, Pamela Smart seduced a 15-year-old boy, and began an affair that would end in murder. Gregory Smart was murdered on May 1, 1990 in what appeared to be a burglary. Investigators were skeptical, and began looking at Pamela as a suspect. After being caught discussing the murder on a wiretap, she was arrested and later convicted of being an accomplice to first-degree murder.Photo credit: Getty ImagesRobert Durst
+Who can forget the infamous recordings that may have implicated Robert Durst for murder? The American real estate heir is suspected of the murders of his wife Kathleen McCormack Durst, friend Susan Berman and neighbor Morris Black. Durst was convicted of dismembering Black, but not for his murder. On March 14, 2015, Durst was arrested in New Orleans for his alleged involvement in Berman’s murder. The eccentric millionaire has not been named as a suspect in Kathleen’s disappearance.Photo credit: Getty ImagesCasey Anthony
+Americans were on pins and needles watching the case against Casey Anthony unfold. Suspected of murdering her two-year-old daughter, Caylee Marie Anthony, Casey’s bizarre behavior caught the attention of the media. Details like a Google search for “fool-proof suffocation” added fuel to the national debate over her alleged guilt. She was ultimately found not guilty of the murder of her daughter.Photo credit: Getty ImagesErik and Lyle Menendez
+It was a wild story about privilege gone wrong. Wealthy brothers, Lyle and Erik, murdered their parents in the family’s Beverly Hills home. The brothers were not considered persons of interest until the mistress of Erik’s psychologist reported the murder to the police. The brothers were found guilty of murder and are serving a life sentence in California.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

@@ -1,0 +1,46 @@
+Filo/CBS David Letterman Article continues below Getty Images Jerry Seinfeld JosiahW/AKM-GSI Keanu Reeves World Red Eye Spike Lee Article continues below Eugene Gologursky/Getty Images for Project A.L.S. Hugh Jackman Stacie Mc.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873015/happy-left-handers-day-let-s-celebrate-these-left-handed-celebs');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016128/rs_634x1024-160228225905-634._Jennifer-Lawrence-Vanity-Fair-Oscar-Party.ms.022816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vanity Fair Oscars Party, Jennifer Lawrence");
+	var imageCaption = encodeURIComponent("Vanity Fair Oscars Party, Jennifer Lawrence");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Pascal Le Segretain/Getty Images
+
+Are you a leftie? Sunday is your day; It's Left-Handers Day!The international holiday aims to "raise awareness of the everyday issues that lefties face as we live in a world designed for right-handers." This can range from having difficulties finding an appropriate pair of scissors, can opener or guitar to even dealing with wage discrimination; In 2014, a Harvard economist found that lefties earn 10 to 12 percent less annually than righties.However, studies have shown left-handed people to be over-represented among the highly intelligent and highly creative, according to the Bureau of Labor Statistics.According to the U.S. National Library of Medicine, about 10 to 15 percent of people in Western countries are left-handed.Here are some famous ones:
+
+Being left-handed also has some useful Hollywood perks.
+
+"Because I'm left-handed, I'm a little ambidextrous, which makes eyeliner so much easier," leftie Allison Williams told Allure this year.
+/n

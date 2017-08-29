@@ -1,0 +1,44 @@
+Theodore Bikel, Original Captain von Trapp in The Sound of Music, Dies at 91 Long before Christopher Plummer, Theodore Bikel wielded the whistle. The Austrian-born folk singer and actor who played Captain von Trapp in the original Broadway p.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/678582/theodore-bikel-original-captain-von-trapp-in-the-sound-of-music-dies-at-91');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015621/rs_634x1024-150721141240-634.Thoedore-Bikel-2.ms.072115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Thoedore Bikel ");
+	var imageCaption = encodeURIComponent("Thoedore Bikel ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Neilson Barnard/Getty Images
+
+Long before Christopher Plummer, Theodore Bikel wielded the whistle.The Austrian-born folk singer and actor who played Captain von Trapp in the original Broadway production of The Sound of Music, died Tuesday morning of natural causes at Los Angeles' UCLA Medical Center. He was 91."No one loved theatre more, his union better or cherished actors like Theo did. He has left an indelible mark on generation of members past and generations of members to come," Actors' Equity Association, which Bikel was president of from 1973 until 1982, said in a statement.In addition to playing the strict father of seven whose walls start to come down thanks to a certain guitar-strumming governess, Bikel also played Tevye in Fiddler on the Roof more than 2,000 times on stage in touring productions of the classic musical.
+
+Before becoming a fixture of the stage, Bikel had already made his mark on the folk-music circuit and in Hollywood on the big screen.He made his film debut in the The African Queen in 1951 (Humphrey Bogart's estate noted on Twitter that they were saddened to hear of Bikel's passing), and received an Oscar nomination for Best Supporting Actor for his role as a sheriff on the trail of escaped convicts Tony Curtis and Sidney Poitier in 1958's The Defiant Ones.Bikel was twice nominated for Tonys and in 2010 at the age of 86 he was nominated for a Drama Desk Award for Outstanding Solo Performance for Sholom Aleichem: Laughter Through Tears.Also in the 1950s he produced several albums of Jewish folk music and he was a co-founder of the Newport Folk Festival alongside music legends Pete Seeger, Oscar Brand and George Wein.Bikel was featured in the 2013 documentary Journey 4 Artists, about the role of music in promoting religious diversity."Working at @TCM has allowed me to meet so many talented people. But none had the lifetime commitment to social justice of #TheodoreBikel," Turner Classic Movies host and film critic Ben Mankiewicz tweeted today.
+/n

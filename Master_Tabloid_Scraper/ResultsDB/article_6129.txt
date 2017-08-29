@@ -1,0 +1,48 @@
+EXCLUSIVE! Viola Davis' Daughter Genesis Tennon Steals the Show in This Adorable Interview That's when Genesis proved she's got as much star power as her famous mom. Asked if she wants to become an actress, the 5-year-old repl.../n
+Viola Davis reached a career milestone Thursday.After making her mark on the stage and screen, the 51-year-old actress was finally given a star on the Hollywood Walk of Fame. "Viola Davis is possessed of a blazing, incandescent talent," actress Meryl Streep told the crowd. "And she is the most generous, present person I know.""The thing Viola can't do is be invisible. She just can't do it. She can't fade away. She can't recede. She can't be forgettable. Viola Davis is inevitable," Meryl said of her Doubt co-star. "She is like a sure thing, and her star has been waiting here patiently for 50 years for her."
+
+A little later, Viola returned the compliment during her speech. "I cannot believe my life right now," the Fences actress said. "Meryl Streep spoke at my Hollywood Walk of Fame ceremony with my handsome husband [Julius Tennon] and our beautiful daughter [Genesis Tennon]."Tears streamed down Viola's face as she remembered her father. "I was going to treat this like every other day; I wasn't going to cry or anything. The only thing I could think about is my dad. I wish he were here," she admitted. "He died in 2006 and he would think this is pretty fantastic."Fortunately, many family members did attend the ceremony. "My whole family came into town," Viola told E! News. "My sisters, my brothers-in-law, my nice and nephew, my friends."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/820122/viola-davis-daughter-genesis-tennon-steals-the-show-in-this-adorable-interview');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201706/rs_634x1024-170106093251-634-Genesis-Tennon-viola-davs-walk-fame.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, Genesis Tennon");
+	var imageCaption = encodeURIComponent("Viola Davis, Genesis Tennon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jonathan Leibson/Getty Images for Paramount Pictures
+
+That's when Genesis proved she's got as much star power as her famous mom. Asked if she wants to become an actress, the 5-year-old replied, "Yeah, cause she's awesome at her work."Too cute!Viola is nominated for Best Supporting Actress in a Motion Picture at the 2017 Golden Globes, where she'll go up against Moonlight's Naomie Harris, Lion's Nicole Kidman, Hidden Figures' Octavia Spencer and Manchester by the Sea's Michelle Williams. Viola declined to reveal which designer dress she will be wearing on the red carpet, but did tell E! News it will be a "bold" look.
+
+Will Genesis be accompanying her mom Sunday night?"Nope," the adorable scion replied. "Might watch her, though."If she happens to win, Viola said she'll wing her acceptance speech: "And I'll be very grateful."
+/n

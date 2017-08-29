@@ -1,0 +1,48 @@
+Arnold Schwarzenegger Wishes He Were Running for President in 2016 As if the presidential election weren't crazy enough... Imagine how different the United States might be if Arnold Schwarzenegger were the nation's next commander-i.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/804141/arnold-schwarzenegger-wishes-he-were-running-for-president-in-2016');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016924/rs_634x758-161024083411-634.adweek-arnold-schwarzenegger.102416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Arnold Schwarzenegger, Adweek");
+	var imageCaption = encodeURIComponent("Arnold Schwarzenegger, Adweek");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Ascroft/Adweek
+
+As if the presidential election weren't crazy enough...Imagine how different the United States might be if Arnold Schwarzenegger were the nation's next commander-in-chief. As Hillary Clinton and Donald Trump continue to campaign for votes ahead of Election Day on Nov. 8, Schwarzenegger is confessing that he too wants a chance to lead the country. "If I'd been born in America, I would've run," the Austrian-American actor reveals in Adweek's Oct. 24 issue. "Because now? This was a very good time to get in the race."So says the man who now has Trump's old job.Schwarzenegger, who served for two terms as Governor of California from 2003 to 2011, will succeed the Republican candidate as host of NBC's Celebrity Apprentice beginning Jan. 2, 2017.
+
+Whether Schwarzenegger votes for Clinton or a candidate from another party is unknown. What is known, though, is that after Trump's lewd conversation with Billy Bush from 2005 leaked online, Schwarzenegger publicly announced that he will not be supporting the nominee."For the first time since I became a citizen in 1983, I will not vote for the Republican candidate for president. As proud as I am to label myself a Republican, there is one label that I hold above all else: American," Schwarzenegger, who has been named Adweek's Brand Visionary honoree, told his Twitter followers Oct. 8. "So I want to take a moment today to remind my fellow Republicans that it is not only acceptable to choose your country over your party—it is your duty." Looking back at his own time in office, he admits, "I didn't love politics, but I love policy."
+
+Love him or hate him, no one can deny Schwarzenegger's hustle. In fact, it's one of the many reasons he was brought in to replace Trump. "I realized early on in bodybuilding that you have to be able to sell yourself, your ideas, your position to the public. You have to set yourself apart, whether it's policy or movies," Schwarzenegger says. "How do you make them remember you?"James Cameron, who cast Schwarzenegger in the Terminator franchise in the '80s, says the actor is one of the most focused people he's ever worked with throughout his career. "The biggest mistake with Arnold is to underestimate him. He said, 'Let me be clear: I don't want to be an actor. I want to be a movie star.' I kind of laughed into my sleeve because it seemed unfathomable from where he was starting," he recalls. "But within a handful of years..."
+
+So, what will Schwarzenegger do next?"It has to sound appealing to me, it has to be challenging, it has to be something I can get consumed in," the actor tells Adweek. "It's fun to climb the mountain rather than sit at the top."
+/n

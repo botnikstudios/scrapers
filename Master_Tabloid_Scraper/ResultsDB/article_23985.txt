@@ -1,0 +1,50 @@
+dispute between them over nude scenes.  Amber and her attorney responded in court Thursday against both Handley and the movie's screenwriter, his wife Roberta Handley. "Amber Heard is the latest victim of this lascivious and sexplo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/840398/amber-heard-claims-she-s-a-victim-of-film-sexploitation-due-to-allegedly-unauthorized-nude-and-sex-scenes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201642/rs_634x1024-160502171036-644-MET-GALA-Arrivals-lamber-heard.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amber Heard, MET Gala 2016, Arrivals");
+	var imageCaption = encodeURIComponent("Amber Heard, MET Gala 2016, Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Larry Busacca/Getty Images
+
+If Amber Heard's latest film is ever released, you may get to see her in her most explicit sex scene yet.Only the woman in them isn't actually the actress, because she never shot it. In fact, she claims she didn't even know it was filmed. Now she's gone to court to try to make sure you'll never see it.Amber had filmed the thriller London Fields, in which she plays a femme fatale. In 2016, producer Christopher Hanley from the movie's production company Nicola Six Limited, named after her character, sued the actress for alleged breach of contract and tortious interference, acknowledging a dispute between them over nude scenes. 
+
+Amber and her attorney responded in court Thursday against both Handley and the movie's screenwriter, his wife Roberta Handley."Amber Heard is the latest victim of this lascivious and sexploitive couple," the actress' lawyer said in a cross-complaint. "After reading the script, she insisted on specific restrictions about nudity and sex scenes in the film as a condition to agreeing to appear in the Movie. [Christopher]...expressly agreed to Heard's terms, and they were memorialized in the Nudity Rider to her contract.""The Hanleys...caused to be filmed secretly several additional nude and sex scenes with a body double for Heard and included them in the 'Producer's Cut'—also in violation of the Nudity Rider," states a cross-complaint. "The secret filming of this body double footage was not on the schedule that had been provided to Heard and was shot with a skeleton crew only after Heard had completed filming and had left the set. The body double footage included an explicit pornographic sex scene that Heard would never have agreed to do herself...the body double footage was designed and intended to leave anyone who saw the images with the distinct impression that it was Heard."The scene in question, Amber said, involved a woman police officer, a woman detainee on the hood of a car and a police baton.
+
+The actress, who has been depicted nude or semi-nude in five past films, is counter-suing the production company for the same claims made of her and is also seeking a permanent injunction to prohibit distribution of the version of London Fields that allegedly violates her rights."The cross-complaint is a work of fiction, worthy of Ms. Heard's London Fields' character Nicola Six," Christopher's lawyer told E! News. "It is nothing more than a meritless smear tactic designed to distract from her own misconduct. Seeking the limelight, Ms. Heard excitedly signed onto the starring role in London Fields, co-written by Roberta Hanley and esteemed novelist Martin Amis, and then for her own reasons, she illicitly tried to change the role and hijack the movie.""Chris Hanley has an established track record as a supportive, talent-friendly producer, which makes the allegations all-the-more absurd," he added. "We look forward to taking Ms. Heard's deposition shortly, when she will have to account, under oath, for her claims and misconduct."
+
+Christopher's 2016 lawsuit followed a lawsuit director Mathew Cullen had filed against Nicola Six Limited for alleged fraud, in which he claimed producers hijacked the final cut of London Fields, The Hollywood Reporter said.In his countersuit, Christopher claimed that Amber's rep had told producers the actress agreed to the inclusion of nudity and that in 2013, they sent her a Nudity Rider that provides that she "shall have the right to view the nude and sex scenes and approve such scenes, which contain straight-on nipple or below-the-waist frontal nudity once the final cut of the picture has been completed and prior to any public viewing of the picture."The producer said Cullen "secretly made unauthorized changes to certain of the screenplay's more provocative scenes, including scenes containing nudity." He also accused Amber of aiding and "conspiring" with the director "to make unauthorized, material changes" to the script. The actress said Thursday she conferred with Cullen about the sex scenes and that a "Director's Cut" was complied. Because of Cullen's alleged "breaches and misconduct," the production company began to assemble a "Producer's Cut" of the film, Christopher's lawsuit states, adding that Amber refused to support it despite being contractually obligated to accept it. Amber also says in her counter-suit that during production, Christopher demanded "continuity photos" of her. Such pics, the lawsuit states, "can include various states of undress during wardrobe changes," adding, "there is no legitimate business purpose for Hanley to have such photographs after filming was concluded and the Hanleys had and have no rights to use such photographs for any proper purpose after filming ended." 
+
+In his lawsuit, the producer also claims Amber also broke contract by refusing to attend the movie's premiere at the Toronto International Film Festival and other promotional events. He said that she was married at the time to Johnny Depp and that as a result, her presence at the festival would have "significantly" enhanced the movie's "marketability and salability" at the event.Amber and Johnny finalized a divorce in January.
+/n

@@ -1,0 +1,45 @@
+Pregnant Sara Gilbert Reveals Her Biggest Baby Bump Yet During Casual Afternoon Out—Take a Look! We spy a growing baby bump! Almost four months after Sara Gilbert announced she was expecting her first child with wife Linda Perry, The Talk co.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/614057/pregnant-sara-gilbert-reveals-her-biggest-baby-bump-yet-during-casual-afternoon-out-take-a-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015012/rs_634x1024-150112134820-634-Sara-Gilbert-JR-11215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sara Gilbert");
+	var imageCaption = encodeURIComponent("Sara Gilbert");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bruce/Javiles/FAMEFLYNET PICTURES
+
+We spy a growing baby bump!Almost four months after Sara Gilbert announced she was expecting her first child with wife Linda Perry, The Talk co-host appears to moving along splendidly in her pregnancy journey.Instead of getting glammed up for any Golden Globes-related functions, the 39-year-old stepped out Sunday afternoon in quite the casual attire while running a few errands.Wearing a striped long-sleeve shirt underneath a basic gray tee, Gilbert couldn't help but show off her growing bump in Studio City, Calif. She completed her outfit with a purple beanie and forest green sweatpants that were missing the drawstrings.Hey, we get it! Any expectant mom needs some flexible maternity wear by her side.
+
+Ever since announcing the happy baby news, Gilbert has experienced plenty of love from her co-workers as well as her fans."I feel funny about people applauding me," she joked on a recent episode of The Talk. "I really didn't do that much. Honestly...so special."She added, "I hoped you guys would be excited, but the level of excitement…Some of you said, 'We feel like this is our baby,' and I really feel like it is your baby too."This is the first child for Gilbert and Perry, who were married back in March 2014.The daytime talk show host also has two children—son Levi, 9, and daughter Sawyer, 7—with ex Allison Adler.
+/n

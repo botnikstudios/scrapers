@@ -1,0 +1,48 @@
+UPDATE! Comedy Icon Phyllis Diller Dead at 95 Phyllis Diller was out to get the first laugh, not the last one. The iconic comic, who more often than not poked fun at herself and her intentionally frazzled looks, died in her sleep Monday morn.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/339375/comedy-icon-phyllis-diller-dead-at-95');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012720/reg_634.diller.mh.082012.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Phyllis Diller");
+	var imageCaption = encodeURIComponent("Phyllis Diller");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Hulton Archive/Getty Images
+
+Phyllis Diller was out to get the first laugh, not the last one.The iconic comic, who more often than not poked fun at herself and her intentionally frazzled looks, died in her sleep Monday morning, her publicist, Milt Suchin, told E! News. She was 95.Diller's housewife-gone-mad routine made her a pop-culture fixture, and, most important, served to remind that comedy and comedy clubs were not the sole domains of men.
+
+Top Gun director Tony Scott Dead at 68 in apparent suicide
+
+Ellen DeGeneres, Whoopi Goldberg and Joan Rivers were among those who paid public tribute Monday to the late pioneer. Rivers sounded a bittersweet note, reminding how Diller came of professional age in a time when "a woman had to look funny in order to be funny." Diller began her stand-up career in San Francisco. It was the 1950s, and she was 37. As the Associated Press put it back in the Mad Men day, the mother of five "broke out of the kitchen."Breaking big in the early 1960s as the "female Bob Hope," Diller costarred alongside Hope in the movies  (Boy, Did I Get a Wrong Number?), and lent her distinctive voice to animated film (Mad Monster Party, A Bug's Life), but mostly made her mark as a guest on TV talk and variety shows. She always made an impression—the cackle, the cigarette holder, the finger-in-the-light-socket hair, the rat-tat-tat jokes about her husband, "Fang," the flouncy clothes that made her "look like an ostrich on a three-day binge."
+
+"I decided that if I was to be an idiot broad," Diller once said, "I might as well make it pay."In the early 1970s, Diller took plastic surgery "out of the closet," as she would once recall for The View,  and talked publicly about a face lift and nose job.  Diller, who professed to not liking modern-day women comics who got "too clinical," was not above being bawdy herself. The title of her autobiography: Like a Lampshade in a Whorehouse.Diller was married and divorced twice. She credited her first husband, the one known in her act as Fang, for urging her to get on stage.No memorial plans have been finalized. The cause of her death has not yet been released. In her 80s, Diller suffered heart failure, and was fitted with a pacemaker, but soon returned to work. "I've outlived everybody," she wrote in her memoir. "And I never look back."
+/n

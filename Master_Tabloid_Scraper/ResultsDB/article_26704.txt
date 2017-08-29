@@ -1,0 +1,42 @@
+Sophia Loren, 81, Gets Her Own Dolce & Gabbana Lipstick Shade, Stuns in the Brand's Latest Ads Being a timeless beauty icon comes with major perks, right Sophia Loren? For the 81-year-old, those perks now include having a namesake D.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/698312/sophia-loren-81-gets-her-own-dolce-gabbana-lipstick-shade-stuns-in-the-brand-s-latest-ads');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015822/rs_634x821-150922092758-_KV_SIGNATURE_INT_SP_300DPI.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dolce & Gabbana Sophia Loren Signature N° 1 Lipstick");
+	var imageCaption = encodeURIComponent("Dolce &amp; Gabbana Sophia Loren Signature N&deg; 1 Lipstick");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dolce & Gabbana
+
+Being a timeless beauty icon comes with major perks, right Sophia Loren?For the 81-year-old, those perks now include having a namesake Dolce & Gabbana lipstick shade…and the modeling job to promote the new beauty good. The lipstick, dubbed Sophia Loren N°1, is a semi-sheer lipstick in Sophia's signature shade of red (really, it's more of a muted cherry color). And as if that weren't enough, the Italian actress—who celebrated her birthday two days ago, no less—is more radiant than ever in the new ads and accompanying campaign video for the lipstick shade, reminding everyone in the biz that she's still an ageless beauty.
+/n

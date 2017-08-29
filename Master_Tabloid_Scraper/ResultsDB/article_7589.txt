@@ -1,0 +1,46 @@
+Robert Pattinson Was Nearly Fired From Twilight In hindsight, Pattinson said, shooting the five Twilight films was "an amazing luxury." It was "amazing luck, as well, to just have fallen into it with the group of people I work.../n
+Try to imagine Twilight without Robert Pattinson.Playing the vampire Edward Cullen made Pattinson a household name, but as he recalled in an interview with The New York Times over the weekend, he was nearly fired while making the first film, released in 2008. His agents intervened, flying to the Canadian set to calm him down. "I didn't have to kiss anybody's [butt] the entire time," he recalled. "I don't think I did, anyway."(The movie star told Yahoo! Movies in 2012 that he took his method acting to so seriously that he "was fighting with everybody in control all the time...to the point where I almost got fired.")
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/857822/robert-pattinson-was-nearly-fired-from-twilight');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012617/634.bd.ls.71712.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Twilight Saga: Breaking Dawn, Part 1, Robert Pattinson, Kristen Stewart Wedding");
+	var imageCaption = encodeURIComponent("Twilight Saga: Breaking Dawn, Part 1, Robert Pattinson, Kristen Stewart Wedding");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Andrew Cooper/Summit Entertainment
+
+In hindsight, Pattinson said, shooting the five Twilight films was "an amazing luxury." It was "amazing luck, as well, to just have fallen into it with the group of people I worked with on it." And if he's forever associated with Edward Cullen, so be it. "I think one of the best things, basically, about being a bit of a sellout, is if you've done five movies in a series, you've had to accept some responsibility for playing the same character," Pattison, 31, told the newspaper.The actor is particularly proud of 2012's Cosmopolis, the first movie he made after Twilight ended. "I think it was the first time when I worked on something that was quite complex," Pattinson said. "I especially love the fact that it came out really at the height of my popularity." It was "the big turning point for me," he added. "I just realized that was what I wanted to do."
+
+Pattinson was a fan of director-producer-writer David Cronenberg's style, which was unlike that of anyone else he had ever worked with before. "I think it's so rare for something to break a pattern," he explained. "I feel like almost everything in the world is designed to be predictable."The Good Time actor, whose next projects include High Life and The Souvenir, is at his best when he's operating outside of his comfort zone. Just don't ask him to watch his work, as it makes him very self-conscious. "I've never seen anyone give themselves such a hard time. I'm beating myself up afterward. And I think there's some weird perverted energy that comes out of when people criticize previous work or think you represent this certain thing; it gives you this energy," Pattinson said, joking that he's "almost scared of anyone saying anything I do is good."
+/n

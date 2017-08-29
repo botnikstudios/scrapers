@@ -1,0 +1,58 @@
+Celebrity Profiles on Lulu: The Good, the Bad, and the Dr. Phil The most surprising thing about Pauly D's review is that apparently he's still alive? Who knew? The Duck Dynasty star got slammed on Lulu. Apparently girls aren't.../n
+Lulu is the newest app craze that allows girls to rate & review guys they've dated. It's a fantastic alternative for those who want to skip over those boring old-fashioned relationship obstacles, like learning about someone by speaking to them.Getting to know people without preconceived notions of who they are based on reviews by their ex-girlfriends is so 2012.We dug around the app and found, to our surprise, a number of celebrities have reviews on there.We think that Adam Levine's score could have been improved if he had been a little less Adam Leviney.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/the_soup/news/454317/celebrity-profiles-on-lulu-the-good-the-bad-and-the-dr-phil');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013730/rs_293x542-130830132329-Lulu_ADAM_LEVINE.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Soup - Lulu 1");
+	var imageCaption = encodeURIComponent("Soup - Lulu 1");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+The most surprising thing about Pauly D's review is that apparently he's still alive? Who knew?
+
+
+
+
+The Duck Dynasty star got slammed on Lulu. Apparently girls aren't into dudes who are into killing ducks.
+
+
+
+
+Dr. Phil didn't make out too well because apparently the "bald faux psychologist megalomaniac" look is going out of style.
+
+
+
+
+Women want him, men want to be him, and he's the only celeb with a perfect score. If you have any interest in dating Beaker, get in line: He's got p*ssy for miles.
+/n

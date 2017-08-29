@@ -1,0 +1,44 @@
+Zooey Deschanel and Jacob Pechenik Name Their Daughter Elsie Otter: Find Out What Inspired Her Moniker Prior to her Today appearance, E! News caught up with the actress at the Rock the Kasbah premiere at AMC Loews Lincoln Square 13 in New Yo.../n
+It's unlikely Zooey Deschanel's baby will share a name with any future classmates.The 35-year-old actress confirmed on NBC's Today Tuesday that her firstborn child is named Elsie Otter Pechenik. "I love otters. My husband [Jacob Pechenik] really loves otters. She better love [otters]" Zooey told Natalie Morales and Tamron Hall. "We don't know yet; she's only 3 months old. She's going to love them."Why the unusual name? "Well, we just really like the name Elsie, and then we both love otters. They're really sweet, they're also smart, they use tools to keep their favorite tools, they hold hands while they sleep," Zooey explained. "There's so many amazing things about otters. They're wonderful animals."In August, E! News exclusively revealed that in addition to welcoming a daughter, Zooey and Jacob got secretly married on June 21. Together since mid-2014, the producer had proposed to the New Girl actress on her birthday in January.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/708194/zooey-deschanel-and-jacob-pechenik-name-their-daughter-elsie-otter-find-out-what-inspired-her-moniker');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015920/rs_634x1024-151020064422-634.Zooey-Deschanel-Jacob-Pechenik-NYC-JR-102015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zooey Deschanel, Jacob Pechenik");
+	var imageCaption = encodeURIComponent("Zooey Deschanel, Jacob Pechenik");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gilbert Carrasquillo/FilmMagic
+
+Prior to her Today appearance, E! News caught up with the actress at the Rock the Kasbah premiere at AMC Loews Lincoln Square 13 in New York City Monday night, where she admitted to suffering from restless nights at home with her mini-me. "Jacob might be more sleep-deprived but better able to function," Zooey said with a laugh. "I'm a better sleeper than Jacob, but I still am sleep deprived nonetheless."Even on date nights, Jacob said, "I hear the baby all the time."In Rock the Kasbah, Zooey plays an aspiring musician whose manager (Bill Murray) decides to take her on a USO tour of Afghanistan. "I was so lucky to watch him work. He's amazing and so much fun. He's kind one of those actors that's always fun to watch," Zooey raved of the comedic actor, adding, "He's the king!"Kate Hudson also stars in the comedy, though she does not share any scenes with Zooey; The same was true of their star-making turns in Cameron Crowe's 2000 comedy-drama Almost Famous. "We also went to high school together, too. She was a year older than me, so we definitely saw each other in high school, but never since then," Zooey told E! News of her co-star. "We are just trying to build up the interest and eventually we'll do a movie where we have a scene together."(E! and NBC are both members of the NBCUniversal family.)
+/n

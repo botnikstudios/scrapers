@@ -1,0 +1,50 @@
+Oscar Isaac Expecting His First Child With Girlfriend Elvira Lind Oscar Isaac is about to tackle his biggest role yet—fatherhood.  The Star Wars actor and his girlfriend, Elvira Lind, appear to be expecting their first child together. While .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/839266/oscar-isaac-expecting-his-first-child-with-girlfriend-elvira-lind');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017228/rs_634x1024-170328081114-634-Oscar-Isaac-Elvira-Lind-JR-032817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Oscar Isaac, Elvira Lind");
+	var imageCaption = encodeURIComponent("Oscar Isaac, Elvira Lind");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto Rodriguez/NBC/NBCU Photo Bank via Getty Images
+
+Oscar Isaac is about to tackle his biggest role yet—fatherhood. The Star Wars actor and his girlfriend, Elvira Lind, appear to be expecting their first child together.While the wildly private pair have not yet confirmed the news themselves, a recent photograph of the two walking in the streets of the Big Apple did all the talking for them.Though she was donning a loose maxi dress, Lind's growing baby bump could not be camouflaged. Congratulations are in order!
+
+
+
+Teach/FAMEFLYNET PICTURES
+
+The duo went public with their romance in 2016 at the Golden Globe Awards, where Isaac planted a kiss on Lind before accepting a statue for his performance in Show Me a Hero.The parents-to-be both share a love of the movie industry. While Isaac is an acclaimed actor, Lind is a passionate filmmaker.Get the cameras ready, you two, because this next chapter is going to be one to never forget. 
+
+Cheers!
+/n

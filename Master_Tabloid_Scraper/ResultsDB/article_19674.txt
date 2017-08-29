@@ -1,0 +1,44 @@
+Fifty Shades of Grey Update: Victor Rasuk Cast as Jose Jamie Dornan, meet your onscreen romance rival—Victor Rasuk. The Lords of Dogtown star has been cast as the other leading man in Anastasia Steele's (Dakota Johnson) life, Jose, for .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/476492/fifty-shades-of-grey-update-victor-rasuk-cast-as-jose');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013931/rs_634x1024-131031185059-634.Victor-Rasuk-Jobs-Screening.ms.103113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Victor Rasuk");
+	var imageCaption = encodeURIComponent("Victor Rasuk");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Jamie Dornan, meet your onscreen romance rival—Victor Rasuk.The Lords of Dogtown star has been cast as the other leading man in Anastasia Steele's (Dakota Johnson) life, Jose, for the adaptation of E L James' erotica novel Fifty Shades of Grey, according to Deadline.Rasuk will portray the aspiring photographer and close friend from college whose relationship with Steele causes a rise of jealousy from her billionaire beau Christian Grey.The 29-year-old actor also starred in HBO's How to Make It In America, as well as Raising Victor Vargas and the Steven Soderbergh-directed Che. Rasuk also recently appeared in Jobs and will be seen in Godzilla.
+
+The casting news arrives shortly after E! News learned that True Blood's Luke Grimes is signed on to play Christian Grey's brother, Elliot, in the highly anticipated and racy film. The 29-year-old most recently appeared as Deborah Ann Woll's boy-toy in the latest season of the hit HBO series.It's also been reported that the filming start date for movie has been pushed back by almost a month. Production on the film was supposed to begin in early November but will now start on Dec. 2.The delay comes after Sons of Anarchy star Charlie Hunnam dropped out of the lead role earlier this month. The movie studio recently announced that hunky actor Jamie Dornan had replaced Hunnam as Christian Grey for the Fifty Shades flick.There's no word on whether or not the push back on production will affect the Aug. 2014 release date.
+/n

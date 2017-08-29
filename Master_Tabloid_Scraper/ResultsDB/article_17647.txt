@@ -1,0 +1,100 @@
+Search Underway for Missing Georgia Teen with Suspected Child Molester: Police/n
+An intense search is underway for a missing 15-year-old Georgia girl who is believed to be with an accused child molester, authorities and the girl’s family tell PEOPLE.
+Calah Waskow was reported missing Monday morning in Evans, Georgia, authorities say. They suspect she is with 37-year-old Jason Johnson, according to the Columbia County Sheriff’s Office. The case is being investigated as a runaway.
+Johnson is wanted for alleged aggravated child molestation, child molestation, enticing a child for indecent purposes and contributing to the delinquency of a minor, according to the sheriff’s office.
+Investigators believe he is driving a tan 1998 Ford Crown Victoria with a South Carolina license plate tag, “KJV240.”
+A Levi’s Call, Georgia’s AMBER Alert, was activated Thursday after authorities looked into the relationship between Waskow and Johnson, who is the father of one of her friends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-3f61fc92e38bddd900c388019f08abb0-59a5407887268');
+				var iframe = document.getElementById('wpcom-iframe-3f61fc92e38bddd900c388019f08abb0-59a5407887268');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-3f61fc92e38bddd900c388019f08abb0-59a5407887268'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Calah’s mother, Nora, tells PEOPLE about the moment Monday she walked into her youngest daughter’s room and noticed she was not there.
+“Complete fear,” she says. “And I got on my phone and started texting and nothing. So that’s when I called the police and had them come to the house.”
+Nora called the Columbia sheriff’s office, which is investigating Waskow’s abduction. According to Major Steve Morris, the sheriff’s office spokesperson, authorities suspect she is with 37-year-old Jason Johnson.
+As of late Friday morning, Columbia sheriff’s spokesman Maj. Steve Morris tells PEOPLE, “Nobody knows where she’s located.”
+“We have received several leads, but none have panned out,” he says. “But as of this moment, we have no idea where she’s located.”
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+Meanwhile, Calah’s entire family has joined together to continue searching for the beloved teen, who her mother says is a honor roll student who “excels in everything she does” — especially drama.
+“She takes drama in school,” Nora says. “She likes acting. She actually was an extra in one of the Billy Crystal movies. And she also did a pilot for a Atlanta TV show called Poetry and Life. She had one of the major roles in it. She’s just a very loving child.”
+In one YouTube video, Calah introduces herself and her character on the kids’ program Poetry and Life and says, “I hope you guys love her and the rest of the cast and the show. Tune in!”
+
+The Missing Girl and the Man
+Nora says Calah met Johnson’s daughter at an annual haunted house called Plantation Blood in Augusta, Georgia, where the two girls were acting as extras. Nora said she first met Johnson in July.
+“Before I let Calah go anywhere, I always make sure to get information from the parents, and he actually came up to my door, him and his daughter. He looked fine,” Nora says. “I didn’t see anything different about him, nothing flagged me. And I questioned him: ‘Where do you work? Exactly what are the girls gonna be doing?’ And he answered everything to my okay.”
+Nora says she had seen Johnson at her home “a couple of times” since their first meeting, as he would occasionally pick Calah up with his daughter.
+“It’s like I woke up from a nightmare, and it’s been going on for the past few days ever since,” she says. “You read about these stories, you see these stories and you always think it’s somebody else. … And my heart’s just broken, and I just want my little girl home safe.”
+• Pick up PEOPLE’s special edition True Crime Stories: Cases That Shocked America, on sale now, for the latest on Casey Anthony, JonBenét Ramsey and more.
+Calah has five half-siblings, and Nora says the entire family is doing whatever they can to bring her home. “I don’t think anybody has gotten any sleep and they’re just constantly riding around trying to find something.”
+“Everybody’s out there,” Nora says. “I’m really, really just shocked at how many people are reaching out and helping us. On Facebook alone.”
+In an interview with WRDW, Calah’s father, Rick Waskow, added to the family’s plea.
+“We just want to get this nightmare over with,” he siad. “Bring her home safe, bring her home today safe and sound. Don’t hurt our baby.”
+Anyone with information about Calah’s whereabouts is urged to call the Columbia County Sheriff’s Office criminal investigation division’s line at 706-541-1044.
+/n

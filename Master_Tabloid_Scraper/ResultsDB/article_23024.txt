@@ -1,0 +1,48 @@
+Is Emma Watson Dating 35-Year-Old Tech Entrepreneur William "Mack" Knight? Has Emma Watson found love with an older man? Romance rumors are circulating around the 25-year-old actress' love life after she was reportedly spotted.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/738057/is-emma-watson-dating-35-year-old-tech-entrepreneur-william-mack-knight');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201618/rs_634x1024-160208135616-634.Emma-Watson-William-Knight-NYC.ms.020816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emma Watson, William Knight");
+	var imageCaption = encodeURIComponent("Emma Watson, William Knight");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+M. Nelson/INFphoto.com 
+
+Has Emma Watson found love with an older man?Romance rumors are circulating around the 25-year-old actress' love life after she was reportedly spotted spending some time with a man who has been identified as 35-year-old tech manager William "Mack" Knight recently.According to reports, the former Harry Potter star and her possible new beau spent a week-long getaway in California's luxurious Big Sur, enjoying the amenities and scenic landscape at the Post Ranch Inn and stopping by the local bakery, where they were said to enjoy a wood-fire pizza together."Mack is just a normal, down-to-earth guy who has nothing to do with Hollywood, and Emma loves that," a source told The Sun. "She was left really hurt by her break-up with Matthew [Janney] and it's taken her more than a year to feel ready to start again with somebody. They're really happy with each other and see each other whenever Emma does not have work commitments."While the news of her speculated romance seems new to the public, it's not the first time these two have been seen out and about together.
+
+
+
+TheImageDirect.com
+
+Back in October, Knight was seen escorting Watson from the Richard Rodgers Theatre on Broadway in New York City after seeing Hamilton, a hip-hop musical about the Founding Fathers. Watson looked casual in a white top with black pants and overcoat, while Knight mirrored her style in jeans and a sweater.Knight, who is known by his middle name Mack, is reportedly a Princeton University graduate after studying ecology and evolutionary biology before attending Columbia Business School in Manhattan. His Instagram, which is now private, reveals that he's a fan of being in the great outdoors, going on regular hikes and running marathons.He's also been working as a senior manager for four years at tech company Medallia, which sells software that processes customer feedback for businesses.Watson was last linked to Janney, whom she'd met while a student at Oxford University. The couple split in December 2014. In an interview with Vogue U.K. for its September 2015 issue, which featured her on the cover, the young celeb recalled her split from Janney, calling the entire experience "horrendous.""I felt really uncomfortable," she said. "Even before my relationship ended, I went on a silent retreat because I really wanted to figure out how to be at home with myself."Watson reportedly spent a week at a private facility in Canada's Rocky Mountains and took a week-long vow of silence.
+/n

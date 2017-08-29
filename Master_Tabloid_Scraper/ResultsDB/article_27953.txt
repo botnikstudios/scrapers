@@ -1,0 +1,52 @@
+Jessica Alba Is Pregnant! Actress and Cash Warren Expecting Baby No. 3 "Some of those milestones or moments, you want to be there for every single one and it's not realistic when you're working, but for me, that's what ge.../n
+Jessica Alba's family is growing!The actress and standout business entrepreneur is expecting her third child with husband Cash Warren, she announced on Instagram Monday. Alba, 36, is also a mom to two daughters, 9-year-old Honor Marie and 5-year-old Haven Garner. "@cash_warren and I are officially going to be outnumbered #babyonboard #herewegoagain #blessed," she captioned an adorable video with her daughters holding up balloons that read "1, 2, 3."The brunette bombshell appeared to showcase her growing baby bump while paddle boarding on a recent family vacation in Hawaii. Jessica sported a fedora and sheer white maxi dress over a printed bikini while out on the open water. An eyewitness told E! News Jessica refrained from sipping alcohol while relaxing on the beach with her longtime husband.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867396/jessica-alba-is-pregnant-actress-and-cash-warren-expecting-baby-no-3');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017615/rs_634x1024-170715092334-634.jessica-alba.cm.71517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jessica Alba");
+	var imageCaption = encodeURIComponent("Jessica Alba");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Pularazzi / FlightRisk / Crocky / BACKGRID
+
+"Some of those milestones or moments, you want to be there for every single one and it's not realistic when you're working, but for me, that's what gets me," Alba shared. "Even the everyday little things like picking them up from school are a big deal, so I drop them off at school most mornings and try to get home for bedtime. But the weekends is really when I get to spend the time with them."Back in 2012, Jessica was the subject of pregnancy rumors, but speculation was quickly shut down by the Sin City star's rep. At the time, she addressed the possibility of welcoming more children during an interview with Access Hollywood.
+
+
+
+Courtesy Pair of Thieves
+
+She called her non-toxic household goods company her "third baby," adding, "I'm happy with my two girls… Down the road in five or 10 years, who knows, but for right now, I'm good."Exactly five years later, and it appears Jessica and Cash are ready to expand! One look at 38-year-old Warren's Instagram page and it's clear he's the most doting dad to his little girls. On Honor's ninth birthday, the business man dedicated a heartfelt post to his daughter. "Having you has taught me how to appreciate the here and now," he wrote in part. I can't afford to wish for tomorrow because I know I'll miss today. You are kind, thoughtful and fair. You are smart, creative and driven. You're not afraid to lead but more importantly you're not afraid to listen. Keep it up my champ! You're doing great."
+
+Congratulations to the entire family!
+/n

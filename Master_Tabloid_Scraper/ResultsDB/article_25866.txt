@@ -1,0 +1,42 @@
+many precious memories. Less than two months after the filmmaker informed his fans that he was taking some time off to be closer to his ailing mom, Willie Maxine Perry has died after a long illness at the age of 64. Willie—the inspiration fo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/157312/tyler-perry-in-mourning-for-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20091209/293.perry.tyler.williemaxine.lc.120909.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tyler Perry, Willie Maxine Perry");
+	var imageCaption = encodeURIComponent("Tyler Perry, Willie Maxine Perry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+At least Tyler Perry is left with many precious memories.Less than two months after the filmmaker informed his fans that he was taking some time off to be closer to his ailing mom, Willie Maxine Perry has died after a long illness at the age of 64.Willie—the inspiration for Madea, the outspoken family matriarch played by Perry who's shown up in seven of his family-friendly movies—passed away last night, according to a brief statement on her son's website."Thank you for all your prayers," the message reads. He did not disclose the cause of death or where she died.Perry attended the Nov. 1 premiere of the Sundance darling Precious, which he coproduced with Oprah Winfrey, before going on self-imposed hiatus.
+/n

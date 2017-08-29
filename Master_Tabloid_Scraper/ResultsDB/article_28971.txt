@@ -1,0 +1,49 @@
+that at some point we will be meeting Chanel's mother and that's just a pocketful of gloriousness we only considered in our dreams. -Chester (Chad and Hester) Is Everything. They could not be more terribly terrible, but the comedy .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/703785/scream-queens-scoop-bomb-emma-roberts-reveals-what-left-her-jaw-on-the-floor');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015828/rs_634x1024-150928171857-634.Scream-Queens-Emma-Roberts.ms.092815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Scream Queens, Emma Roberts");
+	var imageCaption = encodeURIComponent("Scream Queens, Emma Roberts");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Hilary Gayle/FOX
+
+Black. Hairy. Tongue.Hot. Oozy. Corpses.Girl. Power. Punches.Kudos to Scream Queens for shining a light on the real social issues that deserve attention in our time.Of course the greatest issue on any SQ fans' mind is WHO the killer is? And WHO the bathtub baby is? And what the bleeping bloody hell is up with Nasim Pedrad's Gigi??! Did you see that coming?We now know that Gigi is the "Hag of Shady Lane," taking care of the bathtub baby and surrounded by baby dolls and musty furniture (which I smelled in person on set in New Orleans and it sure smelled like a serial killer to me).So what did we learn and what lies ahead? With a little help from Emma Roberts herself? Let's dig in.
+
+WHAT WE LEARNED: -Emma Roberts' performance in the opening, Chanel-O-Ween was perfectly perfect. Flawless and funny. #NeverForget -Oliver Hudson's Wes Is Still Incredibly Suspicious. Obsessed with Texas Chainsaw Massacre? Check. Formerly in love with a Kappa? Check. Super crazy evil looks? Check. He's so suspicious we can't even begin to guess that he actually is the killer. Just too obvious, right?-Grace (Skyler Samuels) Is Probably the Baby. She's the only Kappa without a mother, which makes her prime suspect numero uno. Is Wes lying? Definitely. Also, this means that at some point we will be meeting Chanel's mother and that's just a pocketful of gloriousness we only considered in our dreams.-Chester (Chad and Hester) Is Everything. They could not be more terribly terrible, but the comedy is popping off the screen, and we are all about it. You?
+
+WHAT LIES AHEAD:-The Chad/Chanel/Hester Love Triangle Is Going to Get OUT OF CONTROL. So out of control that next week, someone might even end up behind bars. "It's pretty crazy," Emma Roberts told me while on the Scream Queens set. "I mean, Chanel thinks that the last person she should ever have to worry about getting with her boyfriend is Hester, and then Hester woos him and Chanel finds out and is obviously devastated. So there's definitely some confrontations that happen between Chanel and Hester, which are insane."-Chanel and Hester Are Not Going to Hold Back. "It's been so fun for me and Lea because we're so close," Emma explains. "So to get to do these scenes where we just go all out to each other has been so fun and it's good because she's so talented. So it's so fun to get to do those crazy scenes with her because I never know what she's going to do next, especially with the neck brace, which does come back, the neck brace. In one scene I was like, ‘Can I just grab her by the neckbrace and shake her?' They were like, ‘That might be a little too much.' I was like, ‘Right, right, too much. Sorry, I crossed the line!'"-There Are Two More Halloween Episodes, and Then…The Hamptons. "There's a trip to the Hamptons coming up in their world," reveals Emma, "which gets pretty outrageous. I mean, my jaw was on the floor, and I had to scramble on the floor and put it back on after I read the episode where we go to the Hamptons."-Chanel Could Be the Baby. "I feel like Chanel might be the baby. I feel like that would be a great twist…Just because I don't think she's the killer and I just think Chanel's so important that she has to be the killer or the baby! I also think it would be funny if Chanel's just like none of the above , and was just like, ‘I've been telling you the whole time you bitches are crazy!' And kind of what she's been saying is true that everyone's insane, and she's actually innocent. I think that would be funny."Who's your latest pick for the killer? The bathtub baby? Tweet me your best guesses @kristindsantos and stand by for another incredible Halloween episode next week!
+
+Current ranking of  the top Red Devil Suspects:HesterWesGigiZaydayChanelMunschChadCurrent ranking of the Bathtub Baby Suspects:GraceChadChanelThe Candle Vlogger--just because I love herCurrent Power Ranking of the Couples:Chad and HesterChad and ChanelZayday and Earl GreyGigi and WesChad and MunschChad and Number 2Chad and the cemeteryChad and the whole world, apparentlySee you next Tuesday!
+/n

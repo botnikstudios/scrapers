@@ -1,0 +1,46 @@
+Un escándalo sexual podría costarle el preciado Oscar a Casey Affleck El gran favorito estaría en jaque./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/824384/un-escandalo-sexual-podria-costarle-el-preciado-oscar-a-casey-affleck');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201708/rs_634x834-170108200622-634.Casey-Affleck-Golden-Globes-Mens-Grooming.jl.010917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Men's Grooming, Casey Affleck");
+	var imageCaption = encodeURIComponent("ESC: Men's Grooming, Casey Affleck");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX/Shutterstock
+
+El gran favorito estaría en jaque.
+
+Para ganar un Oscar no solo se necesita una buena actuación. Es bien sabido que aquellos actores que deseen alcanzar la codiciada estatuilla deben emprender una larga, agotadora y costosa campaña para conquistar a la Academia.Todos y cada uno de los pasos que den pueden determinar su triunfo en la gala más importante de Hollywood. Y no solo hablamos de los movimientos que hagan en el presente, en este caso, el pasado también hace parte en ello.ALFOMBRA ROJA > Lista de nominados a los Oscar 2017 ¡Los mayores premios del cine ya tienen a sus elegidos!Alguien que actualmente está siendo perseguido por la sombra de un escándalo es Casey Affleck, quien con su desgarradora interpretación en Manchester by The Sea ha logrado convertirse en uno de los más sonados en la actual temporada de premios. Y sí, tal como se esperaba, Casey fue nominado al Oscar como Mejor Actor.Sin embargo, no importa a cuántos cocteles vaya, cuántas entrevistas dé y con quién se conecte en la industria, todo ese trabajo puede ser en vano si logra arroparlo un escándalo sexual que lo persigue.Se trata de Amanda White y Magdalena Gorka, productora y directora de fotografía del mockumentary (falso documental) I'm Still Here, protagonizado por Joaquin Phoenix, quienes aseguran que fueron acosadas sexualmente por Affleck, quien fungió como director del proyecto.ALFOMBRA ROJA > Te contamos por qué Sylvester Stallone y Casey Affleck se pelearon en los Golden Globes pero no te enteraste.White denunció que Casey Affleck obligó a un asistente de cámara a mostrar su pene en un vuelo a pesar de que ella protestó, y que en otra oportunidad no pudo entrar a su cuarto de hotel en Costa Rica porque Casey y Joaquin estaban teniendo sexo con dos mujeres al otro lado de la puerta. Affleck estaba casado por aquel entonces con la hermana de Phoenix, Summer, y tiene dos hijos con ella.Por su parte, Gorka abandonó el trabajo que calificó como "el más traumático de su carrera", y reveló que el actor y director le pedía constantemente que tuvieran sexo, y que en una oportunidad el equipo se hospedó en Nueva York y despertaban con Casey desnudo y alcoholizado al lado de ellas.
+
+Casey Affleck, quien ganó este año un Globo de Oro, negó y se defendió de las acusaciones en 2010. Él contrató al reconocido abogado de celebridades Marty Singer, y logró cerrar un acuerdo económico nunca hecho público.También, se especuló que las mujeres querían extorsionar al actor, pero eso no se ha confirmado por ninguna de las dos partes.Durante una entrevista a Variety, el hermano de Ben Affleck aseguró que sus  excompañeras buscaban sacar algún tipo de provecho. "La gente dice lo que quiere, muchas veces sin importar cómo respondas". Agregó: "Creo que la gente piensa que porque eres famoso, está perfectamente bien decir lo que sea".
+/n

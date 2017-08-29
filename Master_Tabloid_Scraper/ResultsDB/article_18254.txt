@@ -1,0 +1,50 @@
+as they say, was history! 2. Former FLOTUS in the Building: Can we get an amen? Michelle Obama is heading to the ESPYS! She will posthumously honor Eunice Kennedy Shriver, the founder of Special Olympics, with the Arthur Ashe Courage Award. .../n
+Suit up! It's finally time for the 2017 ESPYS. Scores of your favorite athletes (professional, collegiate, Olympic and beyond) will head to Los Angeles' Microsoft Theater later this evening for the prestigious event honoring standout sports performances from the past year. The best of the best from the highly competitive worlds of football, baseball, hockey, NASCAR, basketball, boxing, golf, tennis and more are vying for your vote in 33 different categories, and let's be honest, it's anyone's game this time around.
+
+And if sports aren't necessarily your cup of tea, have no fear! Plenty of famous faces including Bryan Cranstonand Samuel L. Jackson are expected to turn out for the big event. Plus, given Taylor Swift 's surprise appearance at the 2017 NBA Awards, there's no doubt the ESPYS will merge the best of both worlds for a star-studded show. Check out five things to know about the 2017 ESPY Awards below: 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/865474/2017-espy-awards-5-things-to-know-before-the-year-s-top-athletes-take-center-stage');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014030/rs_634x1024-140130195816-634-peyton-manning.ls.13014_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Peyton Manning");
+	var imageCaption = encodeURIComponent("Peyton Manning");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Leyba/The Denver Post via Getty Images
+
+1. Meet the Man of the Hour: Following in the footsteps of last year's host John Cena is NFL legend, Peyton Manning. It's quite the full circle moment for the since-retired Colts quarterback and two-time Super Bowl champ—back in 1998, Manning took home the Best College Football Player Award. The rest, as they say, was history!2. Former FLOTUS in the Building:Can we get an amen? Michelle Obama is heading to the ESPYS! She will posthumously honor Eunice Kennedy Shriver, the founder of Special Olympics, with the Arthur Ashe Courage Award. Additionally, Jon Stewart will present the Pat Tillman Award for Service to U.S. Air Force Master Sgt. and Invictus Games gold medalist Israel Del Toro. Cranston will recognize legendary L.A. Dodgers announcer Vin Scully with the Icon Award.
+
+3. Welcome to the Winner's Circle:Could the New England Patriots continue their winning streak? One look at this year's nominations pool and the answer is a resounding yes. Thanks to their win at the 2017 Super Bowl, the powerhouse franchise leads the nominations pack with five total nods. Tom Brady is up for Best Championship Performance and Best NFL Player, his team up for Best Game and Best Team, and coach Bill Belichick for Best Record-Breaking Performance.4. Speaking of Nominations...: This ESPYS round of sports talent is completely stacked. Michael Phelps, Russell Westrbook, Sidney Crosby and Kris Bryant will compete for Best Male Athlete; Simone Biles, Serena Williams, Katie Ledecky and Candace Parker rep the Best Female Athlete lineup. 
+
+The 2017 ESPYS broadcasts on ABC and streams online at WatchESPN at 8 p.m. E.T.
+/n

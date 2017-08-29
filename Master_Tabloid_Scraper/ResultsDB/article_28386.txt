@@ -1,0 +1,44 @@
+Rufus Wainwright Marries Partner Jorn Weisbrodt No more sad songs for Rufus Wainwright! The singer married his longtime partner in a ceremony on Thursday, E! News has confirmed. Rufus, 39, and Jorn Weisbrodt, artistic director for Toronto&#x.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/340791/rufus-wainwright-marries-partner-jorn-weisbrodt');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011120/293.rufus.cm.22011.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rufus Wainwright, Jorn Weisbrodt ");
+	var imageCaption = encodeURIComponent("Rufus Wainwright, Jorn Weisbrodt ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Neilson Barnard/Getty Images
+
+No more sad songs for Rufus Wainwright! The singer married his longtime partner in a ceremony on Thursday, E! News has confirmed.Rufus, 39, and Jorn Weisbrodt, artistic director for Toronto's arts and entertainment Luminato Festival, tied the knot in Montauk, N.Y., a beach community which just happens to lend its name to a track off Wainwright's latest record, Out of the Game.Rufus and Jorn were engaged in 2010 and have a daughter, Viva Katherine Wainwright Cohen, together.
+
+The duo wore custom Viktor & Rolf Monsieur suits, People reports, and the ceremony was officiated by friend and fellow artist Justin Vivian Bond. Music was provided courtesy of the Salome Chamber Orchestra, David Aron Carpenter and Wainright's sister, Martha Wainwright.Alan Cumming, Julianne Moore, Yoko Ono, Carrie Fisher and Mark Ronson (who also DJed part of the reception) were some of the notable names that celebrated the happy couple while munching on sea food such as lobster rolls and clams and toasting champagne.Mazel tov, gentlemen! Here's to years of making beautiful music together.
+/n

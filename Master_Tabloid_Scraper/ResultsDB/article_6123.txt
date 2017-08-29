@@ -1,0 +1,52 @@
+Why Viola Davis Decided to Share Her One and Only Childhood Photo Viola Davis took home her very first Oscar trophy for Best Supporting Actress on Sunday, and now she can't help but reflect on just how far she's come. The 51-year-o.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/833777/why-viola-davis-decided-to-share-her-one-and-only-childhood-photo');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201723/rs_634x796-170303170903-634.Viola-Davis-Throwback-Kf.3317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, Instagram, Throwback");
+	var imageCaption = encodeURIComponent("Viola Davis, Instagram, Throwback");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Viola Davis took home her very first Oscar trophy for Best Supporting Actress on Sunday, and now she can't help but reflect on just how far she's come.The 51-year-old took to Instagram to share the only childhood photo she has—a reflection of her impoverished life growing up in Central Falls, Rhode Island. "#FlashbackFriday," she captioned the throwback, sharing a quote from her interview with People magazine. "The only picture I have of my childhood is the picture of me in kindergarten. I have this expression on my face—it's not a smile, it's not a frown. I swear to you, that's the girl who wakes up in the morning and who looks around her house and her life saying, 'I cannot believe how God has blessed me.'"
+
+
+
+Jeff Lipsky/A.M.P.A.S.
+
+But that's not how it always was. "I was one of those kids who were poor and knew it," she said, reflecting on her childhood.Maintaining photos or any kind of meaningful items was difficult, as she recalled, "Our environment, our physical space reflected our income. [At home] the boards were coming off the walls [and there was] shoddy plumbing and no phone and no food and rats and all of that. That very much was visible to me."She further explained to the publication, "I would jump in trash bins with maggots looking for food, and I would steal from the corner store because I was hungry. I never had any kids come to my house because my house was a condemned building, it was boarded up, it was infested with rats. I was one of those kids who were poor and knew it." 
+
+Fast forward nearly 45 years, and she's stepping onto the 2017 Oscars' stage, accepting one of the most prestigious awards in Hollywood.Needless to say, she felt like a princess—and deservingly so!E! News' Zuri Hall caught up with the Fences actress and her husband at the Governors Ball (the official Oscars after-party) where Davis couldn't help but gush over the big win.
+
+"It's wonderful, glorious," she told Zuri. "I felt like a princess. I never feel like a princess you know except for my husband [Julius Tennan] when I got married I felt like a princess. It was just you know a culmination of dreaming big and your dreams being bigger than your circumstances."
+/n

@@ -1,0 +1,43 @@
+The Big Bang Theory Actress Carol Ann Susi Dead at 62 Fans will be missing one distinctive voice on The Big Bang Theory. E! News confirms that actress Carol Ann Susi died after a brief battle with an aggressive cancer. She was 62. Susi playe.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/597184/the-big-bang-theory-actress-carol-ann-susi-dead-at-62');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141011/rs_634x961-141111200759-634.Carol-Ann-Susi.ms.2.111114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carol Ann Susi");
+	var imageCaption = encodeURIComponent("Carol Ann Susi");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Fans will be missing one distinctive voice on The Big Bang Theory.E! News confirms that actress Carol Ann Susi died after a brief battle with an aggressive cancer. She was 62.Susi played the role of Mrs. Wolowitz, Howard's mother, whose face was never shared with viewers, but whose voice would be recognizable from a mile away."The Big Bang Theory family has lost a beloved member today with the passing of Carol Ann Susi, who hilariously and memorably voiced the role of Mrs. Wolowitz," CBS and executive producers Chuck Lorre, Steven Molaro and Bill Prady said in a joint statement."Unseen by viewers, the Mrs. Wolowitz character became a bit of a mystery throughout the show's eight seasons. What was not a mystery, however, was Carol Ann's immense talent and comedic timing, which were on display during each unforgettable appearance. In addition to her talent, Carol Ann was a constant source of joy and kindness to all. Our thoughts and deepest condolences are with her family during this time, and we will miss her greatly."
+
+And it looks like acting was just one of Carol's many talents."A spunky Italian gal from Brooklyn whose passionate interests included Doctor Who, Halloween horror mazes, cooking and the Magic Castle, Carol Ann drew fervent circles of followers," her rep said in a statement released tonight."She was a force of nature who didn't suffer fools and was fiercely loyal to her friends. Known only to a very lucky few, she was a world-class culinary genius who frequently scored blue ribbons at the very competitive cooking competitions at the Los Angeles County Fair."After moving to Los Angeles in the 1970s, Susi was discovered by the casting department at Universal Studios and began building an impressive list of roles.She was cast as Kolchak's secretary, Monique Marmelstein, in the hit ABC series The Night Stalker, and also scored dozens of TV guest appearances, including Cheers, Doogie Howser, M.D., Mad About You, Just Shoot Me, Seinfeld and Six Feet Under, to name a few.Susi is survived by her brother, Michael.
+/n

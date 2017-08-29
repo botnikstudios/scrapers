@@ -1,0 +1,44 @@
+EXCLUSIVE! Ugly Betty: How Will It End? Is Betty Getting Married? Find Out! All the women who are independent, throw your hands up at me! Especially, um, if your name happens to be Betty Suarez. Ugly Betty is coming to an end this season, an.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/165718/ugly-betty-how-will-it-end-is-betty-getting-married-find-out');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20070821/293.ferrera.america.082107.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("America Ferrera");
+	var imageCaption = encodeURIComponent("America Ferrera");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jean-Paul Aussenard/WireImage.com
+
+All the women who are independent, throw your hands up at me! Especially, um, if your name happens to be Betty Suarez.Ugly Betty is coming to an end this season, and sources are spilling that a wedding is in the works. So will it be Betty's? And what's in store for the other characters? Here's what I'm hearing...
+
+Despite previous reports that the writers have been trying to decide whether Betty will end up with Gio, Daniel or Henry, I'm now told that, although nothing has been set in stone, they're leaning toward a Kelly Taylor-esque, "I choose me" ending that may end up sending Betty (America Ferrera) to a foreign land for a fabulous new job. She may even end up with an old friend there.But wait a minute, what about all those cute boys we thought she'd end up with? After all, Betty ended up with Daniel (Eric Mabius) at the end of the original series."They probably aren't going to have Betty end up with Daniel," says one inside source. "Some key people do not want that to happen."Hmph!So then who's in this wedding we're hearing of? I'm not at liberty to say, but I can tell you that someone other than Betty will get hitched. Someone you'll be very happy to see get a happy ending.Also according to inside sources:Betty will get her braces off.Justin will kiss a boy.Amanda will hook up with Daniel's half-brother.Clearly, if you're an Ugly Betty fan, there is plenty to tune in for in the final episodes. So check 'em out, Wednesday nights on ABC.
+/n

@@ -1,0 +1,46 @@
+Mad Men's Vincent Kartheiser and Alexis Bledel Make Their Red Carpet Debut! From TV tryst to real-life romance! Mad Men star Vincent Kartheiser and recent costar Alexis Bledel made their red carpet debut last night at The Macallan Maste.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/353277/mad-men-s-vincent-kartheiser-and-alexis-bledel-make-their-red-carpet-debut');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012911/reg_634.AlexisBledel.VincentKartheiser.jlc.101012.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alexis Bledel, Vincent Kartheiser ");
+	var imageCaption = encodeURIComponent("Alexis Bledel, Vincent Kartheiser ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Astrid Stawiarz/Getty Images
+
+From TV tryst to real-life romance!Mad Men star Vincent Kartheiser and recent costar Alexis Bledel made their red carpet debut last night at The Macallan Masters of Photography collection opening at The Bowery Hotel in NYC.  The two looked content as they posed for photographers and officially confirmed their long-suspected romance.The 31-year-old Alexis looked lovely at the event in a blue and white patterned dress, a leather jacket and pointed-toe heels. Her 33-year-old beau looked dapper in a suit and tie, complemented by his ear-to-ear grin.
+
+Bledel recently did a series of episodes on the hit AMC series, playing a mentally unstable woman—who is the wife of another local businessman—who seduces Kartheiser's seedy Pete Campell.Their two characters engaged in a steamy affair on the show, and their undeniable on-screen chemistry appears to be just as strong in real life.
+
+And what a picture perfect pair!Tell us what you think of this new celeb couple in the comments!
+/n

@@ -1,0 +1,44 @@
+Kelly Clarkson's Wedding Dress Will Be Vera Wang Kelly Clarkson looked simply stunning in her Vera Wang dress at the Grammys on Sunday. But, that was merely a preview of what's to come. The 30-year old bride-to-be killed two birds .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/387763/kelly-clarkson-s-wedding-dress-will-be-vera-wang');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013112/reg_634.KellyC.Vera.mh.021213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kelly Clarkson, Vera Wang");
+	var imageCaption = encodeURIComponent("Kelly Clarkson, Vera Wang");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevork Djansezian/Jemal Countess/WireImage
+
+Kelly Clarkson looked simply stunning in her Vera Wang dress at the Grammys on Sunday. But, that was merely a preview of what's to come.The 30-year old bride-to-be killed two birds with one stone when she visited the famous fashion designer's West Hollywood boutique earlier this month.Not only did the American Idol alum pick the perfect Grammys gown, she also selected her wedding dress!
+
+The singer, who announced her engagement to boyfriend Brandon Blackstock via Twitter on Dec. 15, gushed about the gown to People magazine, saying, "[It] is my personality in a dress. It's sweetly damaged. A little rock and roll. A little tattered. Nothing like a princess thing!"The soon-to-be Mrs. Blackstock joins a long list of celeb brides who wore Vera Wang wedding gowns, including: Khloé Kardashian Odom, Alicia Keys, Brooklyn Decker, Victoria Beckham Mariah Carey(when marrying Tommy Mottola) and Jennifer Lopez(when marrying Marc Anthony).
+/n

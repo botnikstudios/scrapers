@@ -1,0 +1,52 @@
+Patricia Arquette Explains Why She Never Straightened Her Teeth and Why She's Tired of Questions About Her Looks! Patricia Arquette has a lot to smile about these days, but if you look very closely you'll see that the Oscar winner&.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/632436/patricia-arquette-explains-why-she-never-straightened-her-teeth-and-why-she-s-tired-of-questions-about-her-looks');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015011/rs_634x1024-150111185700-634-patricia-arquette-globes.ls.1115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patricia Arquette, Golden Globes");
+	var imageCaption = encodeURIComponent("Patricia Arquette, Golden Globes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paul Drinkwater/NBC
+
+Patricia Arquette has a lot to smile about these days, but if you look very closely you'll see that the Oscar winner's teeth are slightly crooked.The 46-year-old Boyhood star had the option of getting them straightened when she was a kid, but as she tells People, she chose not to do so because "it didn't feel like it would fit who I was inside."She recalls being in ninth grade when one of her male classmates voted her "best looking." This was a backhanded compliment, mind you, because Arquette says the sexist student suggested she straighten her teeth so she could pose for Playboy someday.
+
+"I said, 'Why would I want to be in Playboy?'" she tells People. "I just didn't want to look perfect. I didn't want to have to change myself to be attractive. I didn't think that was my responsibility."The actress, whose new show CSI: Cyber premieres Wednesday on CBS, says that while it was "powerful" to show how she aged over the course of 12 years in Boyhood, she doesn't want to constantly talk about how it is that she appears in front of the camera."I've had so many of these conversations in my life...what I look like on film, what I don't look like on film," she says. "What are we supposed to look like? Men are not having these conversations.""It's like we're trapped in wet wool or something," she continues. "I just want to be free of it so we can move to the next level as equals. Not that I don't love being a woman, not that I don't love the differences between men and women. I just mean, as an actor–why is this a conversation? Why is aging a conversation? It's a one-sided conversation because it's only ever had by women."
+
+
+
+
+Stephen Lovekin/Getty Images
+
+This isn't the first time, either, that Arquette has focused in on the inequalities that, unfortunately, still exist between the genders. She actually used her Academy Award acceptance speech as a platform to demand equal pay for women, and she's passionately continued to advocate for the issue since.During one particular Twitter spree demanding #EqualPay, Arquette wrote: "I don't care if people are pissed...The truth is that wage inequality adversely effects women."As she explained to reporters shortly after winning an Oscar for Best Supporting Actress, she thinks that we "need need federal laws that are comprehensive...""In different states, they have altogether thrown out the Fairness Voting Act," she went on. "People think we have equal rights; we won't until we pass a Constitutional Amendment in the United States of America where we pass the ERA [Equal Rights Amendment] once and for all and women have equal rights in America we won't have anything changed."
+/n

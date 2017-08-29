@@ -1,0 +1,46 @@
+Spider-Man: Homecoming Co-Stars Tom Holland and Zendaya Are Dating "Wait wait...my favorite is when it says we go on vacations together HA! I haven't been on a vacation in years!hbu @TomHolland1996 ???," Zendaya wrote when sho.../n
+With great power comes great responsibility and a great chance of finding love.Less than a week after Spider-Man: Homecoming hit theatres across the country, a source tells E! News co-stars Tom Holland and Zendaya are dating."They got to know each other while on set. They became friends and started getting romantic a few months ago," an insider shared with us. "They both are such great people. It's cool they got together. Everyone gets along with them. They are very well liked on set. Tom is the most down to earth actor."While the pair has been careful about keeping their relationship private—the twosome hasn't made things Instagram official—the talented stars have posed on some Spider-Man red carpet events next to each other giving fans some serious feels. In addition, a source says Zendaya was with Tom when he got his Spider-Man-themed tattoo at Bang Bang Tattoo a few months ago. While the pair has yet to confirm the romance, they did poke fun at the rumors on Twitter earlier today.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866844/spider-man-homecoming-co-stars-tom-holland-and-zendaya-are-dating');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017613/rs_634x1024-170713143819-634-zendaya-tom-holland-spiderman.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tom Holland, Zendaya");
+	var imageCaption = encodeURIComponent("Tom Holland, Zendaya");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gabriel Maseda/NurPhoto via Getty Images
+
+"Wait wait...my favorite is when it says we go on vacations together HA! I haven't been on a vacation in years!hbu @TomHolland1996 ???," Zendaya wrote when showcasing an article about their romance. Tom responded, "Does the press tour count?"As to what made this duo go from co-stars to more than friends, it appears both admire the other's sense of humor."They're both really ambitious and they challenge each other—but, most importantly, they make each other crack up," an insider shared with People. "They seem to have a really similar sense of humor and love joking around together. They have great banter back and forth."
+
+Back in June, some social media followers were whispering about a possible romance. In fact, Zendaya had to sound off on the speculation when responding to a fan."Zendaya and Tom Holland, someone is cooking some sweet romance on Twitter today," our user wrote. The actress later replied, "Right, cause nothing says 'sweet romance' like dragging each other for filth on twitter."Way to throw the Spider-Man fans off you two! Life & Style was first to report the romance.
+/n

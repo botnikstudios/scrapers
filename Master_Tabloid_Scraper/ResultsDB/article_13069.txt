@@ -1,0 +1,44 @@
+Chester Bennington's Cause of Death Revealed The initial news of his death shocked fans, friends and colleagues alike. "Shocked and heartbroken, but it's true. An official statement will come out as soon as we have one," .../n
+Chester Bennington's cause of death has been determined. Just days after the Linkin Park singer was discovered dead inside his home in Los Angeles, the Los Angeles County coroner's office determined Bennington's cause of death as a suicide by hanging. The case is now closed. Police confirmed to E! News on Thursday that they responded to a report about a suicide from a residence in the neighborhood. Bennington was 41 years old. He is survived by wife Talinda Bennington, their son Tyler and twin daughters Lilly and Lila as well as his three children from previous relationships.  
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/868834/chester-bennington-s-cause-of-death-revealed');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017620/rs_634x1024-170720110813-634-chester-Bennington-linkin-park.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Chester Bennington, Linkin Park");
+	var imageCaption = encodeURIComponent("Chester Bennington, Linkin Park");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Loccisano/Getty Images
+
+The initial news of his death shocked fans, friends and colleagues alike. "Shocked and heartbroken, but it's true. An official statement will come out as soon as we have one,"  Linkin Park co-founder Mike Shinoda tweeted at the time. Since his passing, the band's One More Light North American Tour, which was slated to begin on July 27, was canceled. On Monday, Bennington's bandmates released an emotional letter they penned to their late musical brother. "While we don't know what path our future may take, we know that each of our lives was made better by you," the letter concluded. "Thank you for that gift. We love you, and miss you so much."
+/n

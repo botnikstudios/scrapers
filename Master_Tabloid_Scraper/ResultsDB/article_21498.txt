@@ -1,0 +1,44 @@
+Betty White Heartbroken Over Cecil the Lion's Killing as Zimbabwe Begins Extradition Proceedings for Walt Palmer Betty White isn't one to talk to trash. So, when the longtime animal activist was asked to comment on dentist Walt Pal.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/681985/betty-white-heartbroken-over-cecil-the-lion-s-killing-as-zimbabwe-begins-extradition-proceedings-for-walt-palmer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201356/rs_634x1024-130606161834-634.BWhite.ms.060613.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Betty White, Snake, Celebrity Pet Advocates");
+	var imageCaption = encodeURIComponent("Betty White, Snake, Celebrity Pet Advocates");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Livingston/Getty Images
+
+Betty White isn't one to talk to trash.So, when the longtime animal activist was asked to comment on dentist Walt Palmer, who killed Cecil the Lion earlier this month in Zimbabwe, the former Hot in Cleveland actress decided it would be best to bite her tongue. "You don't want to hear some of the things I want to do to that man," the 93-year-old Hollywood legend said Thursday (via Entertainment Weekly). "It's such a heartbreaker. You can't even talk about it, and to see this king of the jungle and personifying it in every way, this gorgeous creature. How can somebody do that?"White is the co-chair of the Greater Los Angeles Zoo Association. She published a book, Betty & Friends: My Life at the Zoo, in 2012, and she currently hosts Betty White's Smartest Animals in America on GAC. She joins a number of stars, including Mia Farrow and Jimmy Kimmel, who have denounced Palmer's actions.Palmer, who paid $55,000 to kill the beloved animal on a hunting trip, released a statement this week apologizing for shooting the lion. The U.S. Fish and Wildlife Service is now investigating the circumstances surrounding the murder of Cecil the Lion, who was lured from a wildlife preserve, CNN reported Thursday.Amid worldwide backlash, the dentist's whereabouts are unknown.
+
+CNN also reported Friday morning that Zimbabwe has started extradition proceedings and hopes the United States will cooperate. Environment minister Oppah Muchinguri said Palmer "had a well-orchestrated agenda which would tarnish the image of Zimbabwe and further strain the relationship between Zimbabwe and the U.S.A. This must be condemned in the strongest possible terms by all genuine, animal-loving conservationists who believe in sustainable utilization of natural resources." She added, "We are taking this issue seriously."A White House petition requesting that Palmer be extradited to Zimbabwe may receive a response from President Barack Obama's administration. It needed to receive 100,000 signatures by Aug. 27 to get a response, and it had more than 160,000 signatures by early Friday. Muchinguri aso told CNN that nearly 500,000 people in Zimbabwe had called via Facebook for Palmer's extradition.
+/n

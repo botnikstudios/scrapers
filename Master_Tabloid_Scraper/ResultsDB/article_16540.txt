@@ -1,0 +1,87 @@
+você com certeza será a gata mais confortável do bloquinho.  Se você é gata ousada, pode se jogar em um body com decote beeem cavado e short de cintura alta.  Short jeans cintura alta é uma peça que voltou pra ficar! Que tal combiná-lo com t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831409/looks-para-curtir-os-bloquinhos-de-carnaval');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201561/rs_634x1024-150701150720-634-kendall-jenner-patriotic.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kendall Jenner, Coachella Music Festival");
+	var imageCaption = encodeURIComponent("Kendall Jenner, Coachella Music Festival");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Carlos Piaggio/AKM-GSI
+
+
+E aguentar esse calor!
+
+O Carnaval está logo aí e para fazer o esquenta da época de maior folia do ano, a gente selecionou os melhores looks para curtir os bloquinhos! Afinal, não é fácil dançar e cantar embaixo de tanto sol, glitter e serpentina, né? Confira abaixo algumas inspirações de looks:QUEM É VOCÊ NOS BLOQUINHOS DE CARNAVAL?
+
+
+
+ AKM-GSI
+
+Shorts + cropped promete ser o combo dos bloquinhos! Se você ama o estilo boho, escolha uma peça com franjas e botinha de cano curto. 
+
+
+
+Elite Images / AKM-GSI
+
+Se você curte uma vibe mais relax, aposte em um conjunto de camiseta de algodão e short de malha. Além de deixar sua pele transpirar numa boa, você com certeza será a gata mais confortável do bloquinho. 
+
+
+
+PacificCoastNews
+
+Se você é gata ousada, pode se jogar em um body com decote beeem cavado e short de cintura alta. 
+
+
+
+Sam Sharma/PacificCoastNews
+
+Short jeans cintura alta é uma peça que voltou pra ficar! Que tal combiná-lo com t-shirt de estampa divertida, boné e tênis?
+
+
+
+Bauer-Griffin/GC Images
+
+A vibe boyish também existe no Carnaval! Tire seu par de oxford do guarda-roupa e o combine com camiseta de listras e chapéu modelo Fedora. 
+
+
+
+Sam White/INSTARimages.com
+
+A gente ama um high low como no look acima! Transparência e tênis de skatista vivendo em plena harmonia no mesmo visual!
+
+
+
+Courtesy Chris Weeks/Getty Images for LACOSTE
+
+Leve, livre e solta de tomara que caia, jeans e tênis. Para incrementar o look, aposte em lenços e faixas na cabeça para segurar os fios nesse calor. 
+/n

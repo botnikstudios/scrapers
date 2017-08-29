@@ -1,0 +1,44 @@
+Turn the Volume Up! Kate Hudson Will Blow You Away With Her Latest A Cappella Performance Party guest Erin Foster also praised her friend's surprise performance on Instagram Stories before saying goodbye to the summer weekend. "Gir.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873327/turn-the-volume-up-kate-hudson-will-blow-you-away-with-her-latest-a-cappella-performance');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017714/rs_634x1024-170814085343-634-kate-hudson2-mv-81417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Hudson");
+	var imageCaption = encodeURIComponent("Kate Hudson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram 
+
+Party guest Erin Foster also praised her friend's surprise performance on Instagram Stories before saying goodbye to the summer weekend."Girl can sing," she wrote. "Also, note that she has a working microphone in her living room."This isn't the first time Kate has demonstrated her singing skills. Whether covering "Hello" by Adele or singing the National Anthem on the Fourth of July, this actress has a voice.
+
+And we can't possibly forget about her performance in How to Lose a Guy in 10 Days when she told Matthew McConaughey's character that you're so vain.Perhaps we will see her talents yet again when she stars in a mystery project with Sia. Just last month, Kate shaved her trademark tresses in preparation for a mystery project that also includes Dance Moms alumna Maddie Ziegler.Sara Foster, Goldie Hawn, Jennifer Meyer and Kate's boyfriend Danny Fujikawa were also in attendance for the weekend celebrations.
+/n

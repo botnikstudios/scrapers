@@ -1,0 +1,54 @@
+Bobby Flay and Helene Yorke Cozy Up on Broadway Date Night Bobby Flay appears to have a new woman in his life! The Food Network star was photographed getting cuddly and cute with Masters of Sex actress Helene Yorke, 31, in New York City earl.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/751613/bobby-flay-and-helene-yorke-cozy-up-on-broadway-date-night');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016225/rs_634x1024-160325092447-634.-bobby-flay-Helene-Yorke-PDA.ls.32516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Bobby Flay, Helene Yorke");
+	var imageCaption = encodeURIComponent("Bobby Flay, Helene Yorke");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+INFphoto.com
+
+Bobby Flay appears to have a new woman in his life!The Food Network star was photographed getting cuddly and cute with Masters of Sex actress Helene Yorke, 31, in New York City earlier this week.It appears Flay, 51, was in attendance at Yorke's Broadway play, American Psycho the Musical. Afterward, the two were spotted getting affectionate in the street while chatting with friends.The actress, wearing a maroon coat and jeans, kept her arms wrapped tightly around the famous chef who leaned in closely to her embrace.
+
+
+
+Larry Marano/Getty Images for amfAR
+
+Flay is coming up on a year since he filed for divorce from his wife, Stephanie March. The pair split in April 2015 after 10 years of marriage as Flay wrote that their relationship had "broken down irretrievably." An insider told us at the time that Flay was "heartbroken [and] still cares about her."The divorce marked the third for Flay and the first for March.
+
+
+
+Peter Kramer/NBC/NBC NewsWire via Getty Images
+
+Following his divorce, Flay was rumored to be dating fellow chef Giada De Laurentiis. However, E! News confirmed the speculation was false.A rep for de Laurentiis told us the rumors were simply "not true," adding, "Back in December [2014], Giada had dinner at Bellato with her agent. Bobby Flay was also having dinner with some friends and dropped by Giada's table to say hi," her rep tells E! News. "They did not have dinner, nor was there any touching going on."De Laurentiis is now seeing producer Shane Farley—a relationship she recently told E! News is "very exciting."
+/n

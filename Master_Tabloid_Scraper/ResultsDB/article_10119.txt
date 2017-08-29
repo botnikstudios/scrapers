@@ -1,0 +1,48 @@
+Sweden's Princess Sofia and Prince Carl Philip Share Adorable Photos of Newborn Son Prince Alexander Well, hello Prince Alexander Erik Hubertus Bertil. The 4-week-old royal has made his official debut today after Princess Sofia and Prin.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/764965/sweden-s-princess-sofia-and-prince-carl-philip-share-adorable-photos-of-newborn-son-prince-alexander');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016413/rs_634x951-160513174944-634.Prince-Alexander-Swden-4.ms.051316.JPG');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Prince Carl Philip, Princess Sofia of Sweden, Prince Alexander");
+	var imageCaption = encodeURIComponent("Prince Carl Philip, Princess Sofia of Sweden, Prince Alexander");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Erika Gerdemark/The Royal Court/Sweden
+
+Well, hello Prince Alexander Erik Hubertus Bertil.The 4-week-old royal has made his official debut today after Princess Sofia and Prince Carl Philip of Sweden shared their picture-perfect portraits of their beautiful family.The photos ranged from scenic park shots alongside their family dog Siri, with the foursome flashing their beaming smiles at the camera, to candids inside of their family home in Drottningholm Palace.The series also included intimate black and white portraits of each parent cradling their baby boy, which are sure to make your heart melt (if it hasn't already)."The family has now left the hospital, and are at home at Drottningholm Palace," Sweden's Royal Palace said in a statement at the time of his birth in April. "Both mother and child are in good health, and the family is looking forward to spending time together."The palace added that he weighed in at 7.9 pounds and measured around 19.3 inches long.
+
+
+
+Erika Gerdemark/The Royal Court/Sweden
+
+"Princess Sofia gave birth to a healthy and prosperous child on Tuesday, April 19 at 6:25 p.m," the Royal Palace revealed in an initial statement. "Princess Sofia gave birth to a son [and] both mother and child are in good health. Prince Carl Philip was present at the hospital throughout the birth."Sweden's young royal couple announced on Facebook last fall that they were expecting their first child together. "We are so happy and excited to announce that we are expecting our first child," they wrote at the time. "We are very much looking forward to it."
+/n

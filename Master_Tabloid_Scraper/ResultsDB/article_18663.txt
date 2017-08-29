@@ -1,0 +1,45 @@
+what you think, the fashion designer really did have a fun time. "Yah, I had my high school reunion. I felt old!" she joked to E! News at the John Frieda Beach Blonde event in New York City. "It's been 10 years?! Good tim.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/623050/lauren-conrad-admits-her-laguna-beach-reunion-was-a-good-time-teases-top-secret-valentine-s-day-plans');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201516/rs_634x1024-150206091724-634-lauren-conrad-frieda.ls.2615.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lauren Conrad");
+	var imageCaption = encodeURIComponent("Lauren Conrad");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dave Kotinsky/Getty Images
+
+Whoever said high reunion reunions have to be awkward or drama-filled clearly didn't attend Laguna Beach High School.Just two months ago, Lauren Conrad and her Laguna Beach co-stars traveled back to the real Orange County to reminisce about those precious teenage years.And regardless of what you think, the fashion designer really did have a fun time."Yah, I had my high school reunion. I felt old!" she joked to E! News at the John Frieda Beach Blonde event in New York City. "It's been 10 years?! Good times!"She added, "We talked about everything, whatever you talk about with girlfriends. It was fun." Lo Bosworth, Jen Bunney and even Conrad's ex Stephen Colletti were in attendance for the Class of 2004 reunion. 
+
+This coming Valentine's Day, Colletti won't have a chance with his former high school sweetheart. Instead, Conrad has plans with her husband William Tell."I do have something planned but I can't tell anybody because I don't want him to know," she shared with a giant smile on her face. "It's a little surprise."Until then, Conrad is soaking up every moment as a newlywed while continuing to expand her empire.Just this week, the former MTV star launched a Cinderella-inspired collection for her LC Lauren Conrad line at Kohls. The items, available online and in stores Feb 22, may just make her youngest fans have their own "happily ever after."Cute stuff, L.C.
+/n

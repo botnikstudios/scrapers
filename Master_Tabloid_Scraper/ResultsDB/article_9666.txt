@@ -1,0 +1,46 @@
+Sam Claflin Speaks Out Against Photoshop Forgery, Jokes He Has a Dad Bod "Firstly, the person who dedicated a lot of time and hard work training and sculpting their body to within an inch of its life. Seriously, well done! Secondly, the.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/813287/sam-claflin-speaks-out-against-photoshop-forgery-jokes-he-has-a-dad-bod');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201693/rs_634x1024-161003152132-634-sam-claflin-fashionweek.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sam Claflin");
+	var imageCaption = encodeURIComponent("Sam Claflin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Pascal Le Segretain/Getty Images
+
+"Firstly, the person who dedicated a lot of time and hard work training and sculpting their body to within an inch of its life. Seriously, well done! Secondly, the person who dedicated a lot of time and effort into resizing and reshaping my face so it fits on that body. I can only assume it's no easy feat, so congratulations must go to you too—for making this look even remotely realistic."He also gave a shout out to his fans for believing that he could ever look this buff.
+
+"And lastly, to everyone who actually believed (if even for a second) that this could be me. Wow. Bless you. Like, really, really thank you. I'm flattered," he continued. "But it isn't me. It never was me. Don't get me wrong, I have worked out before, and I really like it when I do, but to THIS extent? Not something I've done yet. Maybe one day, eh?"Claflin ended his Instagram message on a heartfelt note about becoming a new dad and spending time with his family, letting all his fans know that the last place he'll be this month is pumping iron in the gym. "Right now, I'm enjoying my work, and being a Dad for the first time, and it's getting way too close to Christmas for me to spend any free time I DO have in the gym," he wrote.
+
+"But bless you. #dadbod #imhappyasme #imhappyasmeandyoushouldbetoo #merrychristmas #photoshopphonies."Claflin and his wife Laura Haddock welcomed their first child last December. They never officially announced Haddock's pregnancy, but when the couple walked the red carpet of the London premiere of The Hungergames: Mockingjay—Part 2, they couldn't hide the baby bump.
+/n

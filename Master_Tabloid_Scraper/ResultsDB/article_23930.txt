@@ -1,0 +1,44 @@
+David Schwimmer Shows Off 4-Year-old Daughter Cleo—She's the Spitting Image of Her Beautiful Mom! David Schwimmer and his real-life lobster produced the cutest little critter! The Friends star and wife Zoe Buckman had their 4-year-old d.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/650951/david-schwimmer-shows-off-4-year-old-daughter-cleo-she-s-the-spitting-image-of-her-beautiful-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015327/rs_634x793-150427184551-634.David-Schwimmer-Zoe-Buckman-Cleo-Buckman-Schwimmer.ms.042715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("David Schwimmer, Zoe Buckman, Cleo Buckman Schwimmer");
+	var imageCaption = encodeURIComponent("David Schwimmer, Zoe Buckman, Cleo Buckman Schwimmer");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Imeh Akpanudosen/Getty Images
+
+David Schwimmer and his real-life lobster produced the cutest little critter!The Friends star and wife Zoe Buckman had their 4-year-old daughter, Cleo, with them last night at the John Varvatos 12th Annual Stuart House Benefit—and let's just say, their kid is friggin' adorable. With her head of brown curly hair and blue eyes, Cleo is the spitting image of mom—and yet we see plenty of dad in her smile.The family-friendly event at the John Varvatos boutique in West Hollywood was hosted by honorary chair Chris Pine and raised $957,000 for Stuart House, the UCLA Rape Treatment Center's program for sexually abused children. One of Schwimmer's biggest philanthropic causes over the years has been his work on behalf of victims of sexual violence as a member of board of The Rape Foundation.
+
+Among those making the scene along with the Schwimmer family: Zach Braff, Ben McKenzie, LL Cool J, Beth Behrs, Ray Ramano, Kate Walsh, Adam Shankman, Billy Ray Cyrus, Chad Smith, Eric McCormack, George Kotsiopoulos, Jesse Metcalfe, Lydia Hearst, Maggie Grace, Michael Bolton, Tommy Chong and William Moseley.Kids stayed occupied in the Hasbro Studios tent while the adults shopped, bid at silence auctions, indulged in good food and, as noted, raised almost a million dollars. Bill Bellamy hosted a live auction, Ziggy Marley performed and Nick Simmons and Wade Crescent served as DJs.Next up for Schwimmer, he's playing O.J. Simpson "Dream Team" attorney Robert Kardashian in the ripped-from-the-retro-headlines series American Crime Story.
+/n

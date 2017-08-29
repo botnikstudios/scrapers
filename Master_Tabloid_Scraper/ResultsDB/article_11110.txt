@@ -1,0 +1,52 @@
+Why Kanye West Is Comparing Himself to Vanellope From Wreck-It Ralph "So you know when Penelope puts together her car? And she's like, 'Made it myself,' and everybody that has professional cars, they say, 'Look at yo.../n
+Kanye West received quite a bit of criticism following his Yeezy Season 4 show at New York Fashion Week, but that's something he's grown accustomed to at this point in his career.In fact, the 39-year-old rapper feels like a real-life version of Vanellope from Wreck-It Ralph—per his own words.Yes, he opened up in the royals portfolio issue of W magazine, comparing himself to the cartoon character when it comes to his creative ideas, especially in the fashion world.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/794800/why-kanye-west-is-comparing-himself-to-penelope-from-wreck-it-ralph');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016815/rs_634x824-160915085848-634.Kanye-West-W-2-Magazine-Kf.91516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kanye West, W Magazine");
+	var imageCaption = encodeURIComponent("Kanye West, W Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mario Sorrenti for W Magazine
+
+"So you know when Penelope puts together her car? And she's like, 'Made it myself,' and everybody that has professional cars, they say, 'Look at you with your little car and you're going to do this,' and then they break her car, right?" he asked. "That's basically the fashion world to me."He continued, "I would basically take every dime I had, and I would get overcharged by employees. I would get always looked at like I didn't really have a clue about what I was doing and what I wanted to say."For this reason, he feels like the fashion industry is working against him. "I wouldn't say that anyone in fashion is on my side. I don't think there's anyone on my side."
+
+
+
+Mario Sorrenti for W Magazine
+
+He explained, "To this date they do not understand who I am. They will not understand until after I'm gone. I am misunderstood, and there is no one in fashion that's on my side."Despite everything, the rapper will continue to put his time and money into his collections, no matter what anyone says or thinks."[Yeezy] is one of the leading trendsetting brands now; like top four trendsetting brands," he explained. "And, and that's with little to no support on the apparel side. Meaning, I went and did a deal with Adidas and I basically still had to do the apparel in L.A. and build my own atelier and get consultants and build a team."He added, "Very few people even knew that I have a f--king Ph.D. in art, you know? And not that that would even make the difference, but me saying that makes the difference to the exact people I'm talking to."
+
+"It's like shut the f--k up," he continued. "I made this f--king t-shirt...And it cost me everything I had and I gave everything I had."That's why 'Ye said he wasn't too proud to tweet about being $53 million in debt. Money doesn't symbolize anything to him."For me, money is not my definition of success. Inspiring people is a definition of success," he revealed. "Doing things to the maximum….You know what's my definition of success? Being able to be 39-years-old, a black male, and articulate myself in this way and back it up. My definition of success is dropping a Charlie Sheen-level tweet and being like, 'I am in debt and f--k you.' Now what?"You can read more in his full interview on W magazine.
+/n

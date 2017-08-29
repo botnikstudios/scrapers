@@ -1,0 +1,64 @@
+Philadelphia boasts this incredible work of art which is terrifyingly close to looking like Ron Swanson. In reality, the statue is legendary Philly actor Edwin Forrest. Here's the statue: And here's our good friend Ron: The best di.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/560064/this-marble-statue-looks-just-like-ron-swanson-and-it-reminds-us-of-how-much-we-love-him');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014615/rs_634x1024-140715114951-634.ron-swanson.cm.71514.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ron Swanson statue");
+	var imageCaption = encodeURIComponent("Ron Swanson statue");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Reddit
+
+At some point, we've all wished for a lifelike recreation of ourselves in stone…Right? Half the fun of having a statue look like you is that it actually is you, which is not the case for Nick Offerman, aka the beloved Ron Swanson from one of our favorite TV comedies of all time: Parks and Recreation.The Walnut Street Theater in Philadelphia boasts this incredible work of art which is terrifyingly close to looking like Ron Swanson. In reality, the statue is legendary Philly actor Edwin Forrest. Here's the statue:
+
+
+
+Reddit
+
+And here's our good friend Ron:
+
+The same person, is it not?! But sadly, Swanson is a talented woodworker and could care not less about a marble statue that may or may not be of him. Or that's what we're assuming.Either way, we're so glad someone found this statue because we are all about having a permanent piece of art made of our jazz-loving hero. It would serve as a daily reminder for the many life lessons we have learned from him, such as:Staying true to yourself:
+
+The best dieting rules:
+
+Giving it your all:
+
+Asking for exactly what you want out of life:
+
+How to create an inviting party atmosphere:
+
+How to dance:
+
+And last, but not least, emergency preparedness:
+
+Since this statue actually isn't of him, maybe we should commemorate a day to Ron Swanson instead, in which no one is allowed to drink clear alcohol or eat salads. Just a thought.
+/n

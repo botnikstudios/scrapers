@@ -1,0 +1,48 @@
+Here's the Very Regal Reason Why Prince George Always Wears Shorts He explained, "Not only does The Duchess of Cambridge have to worry about what she is wearing in public, but she has to dress her own children and find a balance be.../n
+We've obsessed over Prince George's cherubic cheeks, contagious smile and hilarious facial expressions since he emerged from the hospital in Kate Middleton's arms in 2013. But now we've all been obsessing over something a bit, er, different...His shorts.Yes, loyal fans who have been following Prince William and the royal family along their tour of Poland and Germany have taken a keen interest in the fact that 4-year-old George is always wearing shorts.Well, thanks to the DailyMail and British etiquette expert William Hanson, we might just have the very regal reason behind his consistent pattern of attire.
+
+According to Hanson, shorts are a type of silent British class marker.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869406/here-s-the-very-regal-reason-why-prince-george-always-wears-shorts');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016826/rs_634x1024-160926105106-634.prince-george.cm.92616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Prince George");
+	var imageCaption = encodeURIComponent("Prince George");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Images
+
+He explained, "Not only does The Duchess of Cambridge have to worry about what she is wearing in public, but she has to dress her own children and find a balance between royal tradition and heritage and more proletariat customs, such as the 'suburban' habit of making young boys wear trousers."Hanson claimed this dates back to the 16th century tradition of "breeching," during which newborn boys would wear a dress for the first few years of their lives as they were being potty trained. Once they were breeched, they would switch to shorts, which signified the very important time in boys' lives. By the age of 8, they would then switch into pants or trousers."Shorts on young boys is one of those silent British class markers that deliberately harks back to a bygone age," Hanson added. "British upper classes—and particularly royals—are especially keen to hold on to tradition so this sartorial one will silently mark them out from 'the rest.'"
+
+The more you know, right?!
+/n

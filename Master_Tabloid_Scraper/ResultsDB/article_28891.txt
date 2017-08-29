@@ -1,0 +1,44 @@
+ 33, teased via Twitter Thursday. She later shared the photo with the rest of her 40.7 million followers. "Here it is as promised! New collection #Elvira from @IntimateBritney will be on sale next week!" Spears tweeted. In the pict.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/622550/britney-spears-legs-look-long-and-lean-in-lingerie-ad');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201516/rs_634x1024-150206042418-634.Britney-Spears-JR-2615.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Britney Spears, Intimate Collection");
+	var imageCaption = encodeURIComponent("Britney Spears, Intimate Collection");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Britney Spears has a leg up in the lingerie business.After all, not many women are the designers and models for their own bra and panty collection. One day after the "Perfume" singer shared the first look at her Spring/Summer 2015 intimates collection, the pop star gave a few fans a sneak peek of a second campaign image. "I've got a new @intimatebritney pic I wanna show you guys! First few to RT I'll DM it to first," the pop star, 33, teased via Twitter Thursday.She later shared the photo with the rest of her 40.7 million followers. "Here it is as promised! New collection #Elvira from @IntimateBritney will be on sale next week!" Spears tweeted.In the picture, the Grammy winner shows off her long, lean legs and strikes a sultry pose in the window. In addition to wearing a fur-lined robe, she rocks a diamond necklace and black pumps. Loose waves and red lipstick complete the look. Jamie Schneider styled Spears, while Glenn Nutley handled her hair and Melanie Inglessis did the pop princess' makeup.According to Nutley's Instagram caption, the shoot's theme was "1940's pin-up girl."Spears and her team nailed it!
+
+This is Spears' second offering; she unveiled her debut lingerie collection in the fall of 2014.The "Toxic" singer conceived the line in 2012. "It's something I'm very passionate about," Spears told E! News. "The colors are very neutral and natural and feminine and very cool."And yes, Spears really wears her own designs. "I feel very empowered," she explained. "I feel sensual and I feel sexy. And it's for all different types of sizes, for big women or small women.""There's a variety," she added."It's stuff that you can wear on your own," she told E! News. "You don't have to be with your boyfriend to wear this kind of stuff. It's the kind of stuff that's so comfortable and so light."
+/n

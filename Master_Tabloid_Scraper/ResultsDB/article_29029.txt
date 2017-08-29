@@ -1,0 +1,46 @@
+the 2015 Emmy Awards So much TV to celebrate, so much TV to look forward to. Jane the Virgin star Gina Rodriguez stunned (what did you expect?!) in Lorena Sarbu and Forevermark Diamonds on the red carpet tonight before the 67th Primetime Emm.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/697769/gina-rodriguez-dishes-on-britney-spears-guest-role-on-jane-the-virgin-at-the-2015-emmy-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015820/rs_634x1024-150920163021-634.gina-rodriguez.cm.92015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Gina Rodriguez, Emmy Awards 2015");
+	var imageCaption = encodeURIComponent("Gina Rodriguez, Emmy Awards 2015");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+So much TV to celebrate, so much TV to look forward to.Jane the Virgin star Gina Rodriguez stunned (what did you expect?!) in Lorena Sarbu and Forevermark Diamonds on the red carpet tonight before the 67th Primetime Emmy Awards, and when she stopped to chat with E!'s Ryan Seacrest, she promised great things to come on the CW hit's second season.Both Kesha and Britney Spears will be guest starring, so of course we wanted to know more!"They're awesome and they've both been very, very humble and very excited to be part of the show, and Britney...we're going to have a lot of great surprises," Rodriguez gushes, though she cut us off at the pass when Ryan asked for spoilers.
+
+"I can't!" she protested.But Britney "plays herself...She's gonna do phenomenal.""She did it again," Ryan quipped.Giggles all around.The Golden Globe winner (shame, Academy, for not nominating Gina tonight) also talked about her upcoming motivational book for teens, to show that they're "awesome and powerful and can do anything they want to do."Darn straight.
+
+Don't miss Fashion Police's 2015 Emmys special tomorrow night at 8 p.m.
+/n

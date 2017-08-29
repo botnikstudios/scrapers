@@ -1,0 +1,46 @@
+Molly Sims Jokes About Being a "Crazy Hormonal Bitch" as She Prepares for Baby No. 3 Molly Sims is more than ready to welcome baby No. 3.  The model-actress, now just a few weeks away from giving birth to her and hubby Scott Stuber's newborn son, sto.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/815024/molly-sims-jokes-about-being-a-crazy-hormonal-bitch-as-she-prepares-for-baby-no-3');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161110/rs_634x1024-161210141724-634.Molly-Sims-March-of-Dimes-Beverly-Hills.kg.121016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Molly Sims, 2016 March of Dimes");
+	var imageCaption = encodeURIComponent("Molly Sims, 2016 March of Dimes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason LaVeris/FilmMagic
+
+Molly Sims is more than ready to welcome baby No. 3. The model-actress, now just a few weeks away from giving birth to her and hubby Scott Stuber's newborn son, stopped for a chat with E! News Friday at the sixth annual March of Dimes Celebration of Babies charity luncheon in Beverly Hills. Sims dished on all things baby, offering some insight into a recent blog post in which she teased herself for becoming a "crazy bitch.""I've just been a little bit irritated I think because I'm tired," Sims explained. "I feel like [the baby's] on my knees about to give, come out of me."As for how the 43-year-old has dealt with her "crazy hormonal" changes, Molly shared that she's kept herself busy with tidying up around the house. "I have been cleaning that effing house; I have thrown everything away," she told us, adding, "My husbands like, 'We're not going to have anything left... I did nine big trash bags of clothes out of my closet last week."
+
+"They're so excited," Molly shared, joking, "They want him to come out just for Christmas and meet Santa then he can just go back with him. They made him a stocking even though we don't have his name yet... So it's sweet!"Sims also explained that adjusting her little ones to the forthcoming arrival has "definitely [gone] better than what I thought." She continued, "I am always worried, especially for Scarlett, but I don't know! I'm like, 'Gosh, [Brooks] has been the oldest for so long and everything revolves around him.' Like a gift came this morning for the baby and he's like, 'Is this for the baby?! He's so lucky!' I'm like, 'Are you OK?'"
+
+Sounds like the countdown to baby is officially on!
+/n

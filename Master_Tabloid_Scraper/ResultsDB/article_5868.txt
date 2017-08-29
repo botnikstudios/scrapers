@@ -1,0 +1,56 @@
+Princess Charlotte Throws a Tantrum During Helicopter Tour in Germany Even royal kids need a minute.  It's been a long five days for Prince William, Duchess of Cambridge Kate Middleton, Prince George and Princess Charlotte, all of whom .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/868447/princess-charlotte-throws-a-tantrum-during-helicopter-tour-in-germany');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017621/rs_634x1024-170721095823-634.Kate-Middleton-Princess-Charlotte-JR-072117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Middleton, Princess Charlotte");
+	var imageCaption = encodeURIComponent("Kate Middleton, Princess Charlotte");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chris Jackson/Getty Images
+
+Even royal kids need a minute. It's been a long five days for Prince William, Duchess of Cambridge Kate Middleton, Prince George and Princess Charlotte, all of whom are finishing up their week-long tour of Poland and Germany. While the royal pair's two children are among the most well-behaved (even shaking hands with officials and accepting bouquets!), the youngsters are not immune from having typical kid moments.Such was the case Friday in Hamburg when the family's youngest, 2-year-old Charlotte, was spotted having a mini tantrum while the family gathered to visit an Airbus training facility, one of the few events on the schedule that included the two children. 
+
+
+
+Samir Hussein/WireImage
+
+However, it seems Charlotte might have wanted a nap instead. According to video captured of the youngster on the tarmac, Charlotte wanted to hold some papers in her mother's hand and when Kate did not give up her grip, the little one stomped her feet in frustration.After some words from the Duchess of Cambridge, they began to walk, but the toddler lost her balance and fell on the floor, so Middleton picked up her daughter, consoled her and carried on. 
+
+
+
+DMC/GC ImagesDominic Lipinski/PA Images via Getty Images
+
+However, Charlotte turned her frown upside down when it came time to tour a EC145 helicopter. Charlotte's older brother clearly was excited about the chance to come close to a real helicopter like the ones his pilot father flies. The tot even got strapped into a helmet and sat in the pilot's seat. Judging by Prince George's expression, fun was had by all.After the visit, the family boarded another plane home and concluded their first family trip to Europe. "Auf Wiedersehen Deutschland! Goodbye Germany!," the Kensington Palace Twitter account read. We had an incredible time in Poland and Germany. Thank you to everyone who made the visit so special!"
+
+Fortunately, they will arrive home just in time for George's fourth birthday on Saturday. What a perfect way to kick off the weekend festivities! 
+/n

@@ -1,0 +1,44 @@
+Sophia Loren Finally Explains That Infamous Pic With Jayne Mansfield (and Her Nipples) Sophia Loren is a timeless beauty, an Oscar winner, a screen legend and the star that gave one of the most famous side eyes ever. The 80-year-old has fina.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/594449/sophia-loren-finally-explains-that-infamous-pic-with-jayne-mansfield-and-her-nipples');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014103/rs_634x816-141103154830-634-sophia-loren-jayne-mansfield.ls.11314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sophia Loren, Jayne Masfield");
+	var imageCaption = encodeURIComponent("Sophia Loren, Jayne Masfield");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX USA/Moviestore Collection/Rex
+
+Sophia Loren is a timeless beauty, an Oscar winner, a screen legend and the star that gave one of the most famous side eyes ever.The 80-year-old has finally opened up to Entertainment Weekly about what prompted her distinct expression upon seeing Jayne Mansfield at a dinner party over 57 years ago."Paramount had organized a party for me," Loren explained over the phone from her home in Switzerland."All of cinema was there, it was incredible. And then comes in Jayne Mansfield, the last one to come. For me, that was when it got amazing. She came right for my table. She knew everyone was watching. She sat down. And now, she was barely…Listen. Look at the picture. Where are my eyes? I'm staring at her nipples because I am afraid they are about to come onto my plate."
+
+The actress continued, "In my face you can see the fear. I'm so frightened that everything in her dress is going to blow—BOOM!—and spill all over the table. There may be other photos, but this is the picture. This is the one that shows how it was. This is the only picture."Loren, whose memoir Yesterday, Today and Tomorrow: My Life will be released tomorrow, added that she chooses not to glorify or capitalize on that moment caught on camera."Many, many times I am given this photo to autograph it. And I never do," she shared."I don't want to have anything to do with that. And also out of respect for Jayne Mansfield because she's not with us anymore."
+/n

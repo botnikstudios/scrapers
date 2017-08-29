@@ -1,0 +1,44 @@
+UPDATE! Samuel L. Jackson and Ava DuVernay Aren't Thrilled With Michael B. Jordan's Omission From Sylvester Stallone's Golden Globes Speech UPDATE: Sylvester Stallone is speaking out after his speech. "Samuel Jackson is u.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/729864/samuel-l-jackson-and-ava-duvernay-aren-t-thrilled-with-michael-b-jordan-s-omission-from-sylvester-stallone-s-golden-globes-speech');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016010/rs_634x1024-160110185407-634.Sylvester-Stallone-Golden-Globes-Winners.ms.011016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sylvester Stallone, Golden Globe Awards, Winners");
+	var imageCaption = encodeURIComponent("Sylvester Stallone, Golden Globe Awards, Winners");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paul Drinkwater/NBCUniversal via Getty Images
+
+UPDATE: Sylvester Stallone is speaking out after his speech. "Samuel Jackson is upset that I foolishly forgot to mention the brilliant Ryan Coogler and MB Jordan," he tweeted Tuesday morning. "He is right. I owe them everything." —————You can't thank everyone, but some think Sylvester Stallone missed a big one or two.As soon as the actor accepted his award for Best Supporting Actor at Sunday night's 2016 Golden Globe Awards, a few familiar faces decided to share their honest opinions about his speech. As we quickly heard on social media, some thought he missed some pretty important co-stars and co-workers."#waitwaitwait, Ryan Coogler & Michael B Jordan, Thanks for acting with me!!!" Samuel L. Jackson shared on Twitter. "Loved Sly but..."Ava DuVernay also spoke out about what she saw and heard. "Well. I'm gonna go ahead and thank RYAN COOGLER + MICHAEL B. JORDAN since no one else is. Thank you, brothers. Good work. #smh #goldenglobes," she explained minutes later. According to THR, Stallone later came back on stage during the commercial break to thank his co-star and director for their contributions. Regardless of the chatter on social media, Stallone was able to express his gratitude for more than a few during his emotional speech.
+
+After receiving a standing ovation from the audience, the former athlete tried to hold back tears when thanking those close to him."I'm gonna try not to get emotional, because I am the sum total of everyone I've ever met and I'm lucky to absorb some of it," he shared. "I just want to say thank you to the Hollywood foreign press, this is incredible. Last time I was here, it was 1977 and I was kind of hit by tumbleweed, a long time ago. Like a different—different situation. And the view is so beautiful."He continued, "I want to thank my wife and my children, Sophia, Scarlet and Sistine because actually having your love is the greatest reward in the world, every day."The speech, however, wouldn't be complete without a special throwback to a memorable film back in 2006. "I want to thank my imaginary friend, Rocky Balboa, for being the best friend I ever had," he joked. "Thank you."(Originally published Sunday, Jan. 10, 2016 at 7:09 p.m. PST)
+/n

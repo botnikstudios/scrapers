@@ -1,0 +1,46 @@
+Goodbye Hester? Lea Michele Is Joining an ABC Pilot As for Scream Queens, Fox hasn't made a decision about whether or not it will be brought back for a third season, but Michele's new gig doesn't mean a third season is less li.../n
+With Hester out hunting tourists on Scream Queens, it's apparently time for Lea Michele to take on a new role. According to Deadline, Michele has been cast in a new untitled pilot for ABC about a hip hop artist named Courtney Rose (Brandon Michael Hall) who runs for mayor to promote his mixtape, and somehow wins. There are no details on Michele's role yet, which is reportedly because the part is being tailored to her, but she was originally cast as Courtney's chief of staff. The pilot is being co-produced by Daveed Diggs, who was part of the original cast of Hamilton on Broadway. Add that to the fact that it the show is about a musician and we would be shocked if there's not some singing involved at some point. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831603/goodbye-hester-lea-michele-is-joining-an-abc-pilot');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017119/rs_634x1024-170219195656-634.Lea-Michele-Hollywood-Beauty-Awards.kg.021917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lea Michele");
+	var imageCaption = encodeURIComponent("Lea Michele");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+As for Scream Queens, Fox hasn't made a decision about whether or not it will be brought back for a third season, but Michele's new gig doesn't mean a third season is less likely to happen. Hester would probably just not appear in the third season, which could make sense, given the fact that at the end of season two, she and Brock (John Stamos) had run away together to the island they bought, in order to hunt tourists in peace. 
+
+But then again, the end of season two also resurrected season one's villain, the Red Devil, of which Hester was one, so who really knows? 
+/n

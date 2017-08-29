@@ -1,0 +1,46 @@
+supermodel ladylove, who flaunted her enviable figure in a caged white dress, at a 2016 pre-Grammy Gala and Salute to Industry Icons party honoring Irving Azoff at the Beverly Hilton Hotel Sunday night. Although this is just the first time t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/740161/miranda-kerr-and-boyfriend-evan-spiegel-make-their-red-carpet-debut-at-pre-grammys-2016-party');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016115/rs_634x1024-160215154439-634.Miranda-Kerry-Evan-Spiegel-GRammy-Party.ms.021516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miranda Kerry, Evan Spiegel, Engaged");
+	var imageCaption = encodeURIComponent("Miranda Kerry, Evan Spiegel, Engaged");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Steve Granitz/WireImage
+
+It's (super-duper) official!We've known that Miranda Kerr has found romance once again with new boyfriend Evan Spiegel, but the pair took their relationship to the next level last night when they made their red carpet debut together.The Snapchat co-founder was all smiles in a black and white suit (sans tie) while cozying up to his supermodel ladylove, who flaunted her enviable figure in a caged white dress, at a 2016 pre-Grammy Gala and Salute to Industry Icons party honoring Irving Azoff at the Beverly Hilton Hotel Sunday night.Although this is just the first time they've made a public appearance together, Kerr wasn't shy when it came to gushing about her new beau to The EDIT last month.
+
+"He's 25, but he acts like he's 50," Kerr said of her boyfriend, whom she'd met at a work dinner for Louis Vuitton. "He's not out partying. He goes to work in Venice [Beach]. He comes home. We don't go out. We'd rather be at home and have dinner, go to bed early.""[But] in some ways he does [feel like a younger man]," she added. "I'm telling you, I've got the best of both worlds..."Things are going so well with Evan that Miranda has introduced him to her young son Flynn—with ex Orlando Bloom's blessing, of course. "[Orlando and I decided] that we had to know the person for six months and feel good about them," the 32-year-old Australian beauty told the mag. "Evan met Flynn, so yeah, things are going well. Orlando thinks he's great. We're just a modern family now!"Speaking of Bloom, Miranda's big night with her man comes on the heels of the actor being spotted out with Katy Perry yet again.
+
+The twosome attended a pre-Grammys 2016 party together in Los Angeles Saturday night, marking the pair's second outing this weekend as they continue to fuel romance rumors.Perry, Missy Elliott, Sia, and Greg Kurstin had teamed up with Spotify to co-host the bash, titled The Creators Party."They seemed to get along great," a source told E! News exclusively about Perry, 31, and Bloom, 39. "They were not all over each other but shared sweet gestures here and there. Orlando gave Katy her space to mingle and speak to her fiends and people she invited to her event. Katy did include Orlando in conversation at times during the evening."The source told E! News the two left the party together. "It was obvious that they are really, really into each other," the source said. Looks like things in the love department are going well for both of these exes.
+/n

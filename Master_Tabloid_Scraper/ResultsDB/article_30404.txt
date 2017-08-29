@@ -1,0 +1,46 @@
+EXCLUSIVE! How Sylvester Stallone's Daughters Are Preparing for the 2017 Golden Globes The 2017 Golden Globes air live on NBC Sunday night, meaning the Stallone sisters will be busy with rehearsals all weekend. They've picked out t.../n
+The big night is almost here!Sistine Stallone, Scarlet Stallone and Sophia Stallone are taking their Miss Golden Globe duties very seriously. Thankfully, this year's Golden Globes host Jimmy Fallon lightened the mood a little when met the sisters during a pre-show event in L.A. Wednesday. "We were all collectively super, super excited to meet him," Sophia, 20, told E! News. "Now that we've met him, he's exactly the person that we thought he was going to be." And, according to Scarlet, 14, Jimmy "was so nice in person, honestly, and he's hilarious. He makes a show out of everything.""This is going to be the best one yet," Sistine predicted. "Absolutely."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/820081/how-sylvester-stallone-s-daughters-are-preparing-for-the-2017-golden-globes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201704/rs_634x1024-170104160011-634.Scarlet-Stallone-Sophia-Stallone-Sistine-Stallone-Jimmy-Fallon.ms.010417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Scarlet Rose Stallone, Sophia Rose Stallone, Sistine Rose Stallone, Jimmy Fallon ");
+	var imageCaption = encodeURIComponent("Scarlet Rose Stallone, Sophia Rose Stallone, Sistine Rose Stallone, Jimmy Fallon ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Tran/FilmMagic
+
+The 2017 Golden Globes air live on NBC Sunday night, meaning the Stallone sisters will be busy with rehearsals all weekend. They've picked out their red carpet looks, meaning they can give the show their full attention. But Scarlet declined to reveal which designer is dressing them, saying, "We're going to keep it a secret before the show." Sistine confirmed they want to keep it a "surprise," but the 18-year-old scion teased their various looks are "kind of the same color.""We can't do pink, purple and [another color]," Sophia said. "We can't clash."Viewers shouldn't expect to see any costume changes during the show."One and done," Sophia said. "It's hard to shop for three girls!"
+
+Rest assured, Sylvester Stallone will be on hand to watch his daughters in action. So, what advice to he give them? "Good posture. Speak clowly—slowly!—and clearly," Scarlet said with a big laugh, adding, "This is what I mean!" After the giggle fest, Sophia added, "I think overall, he just said, 'Really cherish this moment together.' Because it's really rare to have three sisters be with each other and stand onstage at the Golden Globes. Like, no one gets to experience this!"To find out which celebrities the sisters hope to meet, watch the video now.
+/n

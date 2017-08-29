@@ -1,0 +1,110 @@
+So Long, Spicey! Revisit Melissa McCarthy's Best Sean Spicer SNL Moments as the Press Secretary Resigns
+/n
+Spicey’s gum-swallowing and name-takin’ days are officially over.
+White House Press Secretary Sean Spicer resigned from the Trump administration on Friday over disapproval of the new pick for communications director, according to The New York Times.
+The move comes after six months of headline-making behavior from Spicer – which inspired one of this year’s most memorable and hilarious comedic impressions.
+Actress Melissa McCarthy debuted her take on Spicer in February on Saturday Night Live, and has since earned an Emmy-nomination for refusing to “dial it back” (as requested by the subject).
+In the wake of the former press secretary’s departure, here is every, hysterical time McCarthy suited up as Spicey.
+Radical Moose-Lambs
+
+Shocking – and delighting – audiences in her inaugural appearance as Spicer, McCarthy advised the faux press pool, “I’m not here to be your buddy. I’m here to swallow gum and I’m here to take names.”
+McCarthy’s Spicer pulled out a series of props to address Trump’s stance on radical Muslims (aka radical moose-lambs), before super-soaking the press and barreling into them with the podium.
+ 
+Uh Oh, It’s Moana
+
+McCarthy’s Spicer ditched the pack of chewing gum for a super-sized stick in a second SNL appearance, and employed Barbies and a Disney Moana doll to explain the highly controversial travel ban.
+“I’m gonna have to use my dollies,” explained Spicey. “Here’s how it’s going to go down. You’ve got your TSA agent right here, okay? And first you’ve got Barbie coming in. Nice American girl, back from a dream vacation. We know she’s okay because she’s blonde. So she gets in.”
+ 
+RELATED VIDEO: Sean Spicer’s Greatest Hits
+
+Continued Spicer, “Easy, we understand that. Perfect now, who’s up next? Uh oh. Uh oh it’s Moana. Whoa, slow your roll honey.”
+TV Spicer then went on to hawk First Daughter Ivanka Trump‘s clothing and accessories line – and blast Nordstrom for its “light terrorism” move to stop selling the brand.
+Spicey’s Gotta Hippity-Hop
+
+SNL Spicer returned clad in a fluffy white bunny costume to address his very real reference to concentration camps as “Holocaust centers” in a widely criticized press briefing.
+Taking the podium at the White House’s annual Easter Egg Roll, McCarthy’s Spicer said, “Spicey finally screwed up. You got me. I clearly meant to say ‘concentration clubs.’ ”
+Rock and (Literally) Rollin’ Spicey
+
+Ahead of McCarthy’s May SNL hosting gig, she was spotted rolling down Manhattan streets in full Spicer costume – and on the press secretary’s podium.
+The full bit followed faux Spicer as he rode the motorized podium to Trump Tower, before being redirected to a golf course in New Jersey.
+I Have a Wife! I Took Vows
+
+After arriving in New Jersey and finding the president (who was played by Alec Baldwin throughout SNL‘s 42nd season), Spicey got romantically entangled with the commander in chief.
+In fact, the sketch ended with McCarthy’s Spicer and Baldwin’s Trump swapping spit – but only after the former protested, “I can’t, I have a wife! I took vows!”
+Reasoned fake Trump, “I’m famous — it’s okay.”
+Spicey is So Pretty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-57e0aba4094c7523409f85174a232531-59a561c72aa36');
+				var iframe = document.getElementById('wpcom-iframe-57e0aba4094c7523409f85174a232531-59a561c72aa36');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-57e0aba4094c7523409f85174a232531-59a561c72aa36'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Fans got a glimpse of McCarthy’s transformation into Spicer in the promo for her SNL hosting gig, as the actress lip synced along to West Side Story’s classic tune “I Feel Pretty.”
+And boy, was fake-Spicey pretty.
+/n

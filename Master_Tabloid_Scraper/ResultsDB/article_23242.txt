@@ -1,0 +1,45 @@
+carpet season, and already the Room star has impressed both fashion critics and fans at almost every turn. Does her major wardrobe choices reflect her earnest to win the golden statue? Perhaps, but every time she delights us on the red carpe.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/736568/get-ready-brie-larson-s-next-red-carpet-reveal-will-probably-surprise-us');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201613/rs_600x969-160203093917-Style-File-Brie-Larson_0007_PUSH_v2.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC, Brie Larson, Style File");
+	var imageCaption = encodeURIComponent("ESC, Brie Larson, Style File");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Buckner/Variety/REX Shutterstock
+
+She's got a Golden Globe, Critic's Choice and SAG award all under belt—now there's only the Oscar left. Will Brie Larson win? More importantly (to us), what will she wear?We're only half way through red carpet season, and already the Room star has impressed both fashion critics and fans at almost every turn. Does her major wardrobe choices reflect her earnest to win the golden statue? Perhaps, but every time she delights us on the red carpet, we want her to win that much more.
+
+From just looking at her red-carpet gowns from recent past, you will notice Brie has a habit of wearing seemingly simple dresses. On closer look though, there are unexpected details to elevate and amp up the entire ensemble. A sequined gown from the Globes? Been there, done that. But Brie introduces cut-outs to the mix. A Grecian-inspired draped frock for the SAGs? Brie channels her inner sailor, adding twists, knots and ties to the look.What else can you glean about her personal style? Bookmark this page and click through to get all the best sightings of the award-winning actress. Hey, a good study may even tell you what she'll wear to the Oscars!
+/n

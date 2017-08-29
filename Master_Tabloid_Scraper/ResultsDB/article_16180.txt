@@ -1,0 +1,99 @@
+Ferocious Hurricane Harvey Hits Land in Texas Causing Injuries and Several Buildings to Collapse/n
+Hurricane Harvey barreled into the Texas coast Friday night, bringing in torrential rain and powerful winds, sending thousands of residents into evacuation centers.
+Harvey made landfall as a Category 4 storm with winds of 130 mph around 10 p.m. in the small Texas coastal town of Rockport, located about 30 miles outside of Corpus Christi
+According to the National Weather Service, 128 people had to be evacuated from a Fairfield Inn in Rockport after the building was severely damaged.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-c004a1421d47032f54378ba8b4fa7ee9-59a536b4433f7');
+				var iframe = document.getElementById('wpcom-iframe-c004a1421d47032f54378ba8b4fa7ee9-59a536b4433f7');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-c004a1421d47032f54378ba8b4fa7ee9-59a536b4433f7'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Rockport City Manager Kevin Carruth told KIII 3 News that the roof of a senior housing complex collapsed and a number of those people were taken to a makeshift hospital located in a jail.
+Nick Wagner /Austin American-Statesman/AP
+A school building also collapsed, he said.
+Twelve people were rescued from a ship as the hurricane approached the coast earlier in the day according to KHOU.
+A tug ship sent to help the 12-person crew on the 160-foot ship could not reach them. Two Coast Guard aircrews were then sent to aid in the rescue, with efforts beginning a little after 1 p.m. with seven people saved. Five more were lifted off the ship about an hour later, KHOU reports.
+Eric Gay/AP
+“The Coast Guard was relieved to rescue these 12 people before Hurricane Harvey impacted the rescue efforts, making a bad situation worse,” Capt. Tony Hahn told the outlet in a press release. “Our crews did a fantastic job collaborating on this issue.”
+
+
+#BREAKING Harvey damage reports from NWS. #nprnewscast pic.twitter.com/p33r9XQdL3
+— John Stempin (@johnstempinNPR) August 26, 2017
+
+
+
+At the request of the Governor of Texas, I have signed the Disaster Proclamation, which unleashes the full force of government help!
+— Donald J. Trump (@realDonaldTrump) August 26, 2017
+
+As Harvey slammed into the coast more than 100,000 people were without power, according to Electric Reliability Council of Texas company’s Twitter account.
+President Donald Trump issued a disaster proclamation as the hurricane was about to make landfall. He vowed to give the “full force” of the federal government to emergency aid in Texas.
+Joe Raedle/Getty Images
+“At the request of the Governor of Texas, I have signed the Disaster Proclamation, which unleashes the full force of government help!” the president, 71, wrote on Twitter.
+Harvey is the strongest storm to hit the U.S. since Hurricane Charley in 2004, according to the Washington Post. Texas Governor Greg Abbott urged citizens to evacuate low-lying and coastal areas before the storm made landfall, saying it would be “a very major disaster,” the Associated Press reports.
+/n

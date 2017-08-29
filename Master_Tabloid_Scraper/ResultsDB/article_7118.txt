@@ -1,0 +1,79 @@
+Amal & George Share Steamy Public Smooch During Romantic Italian Dinner!/n
+
+					var next_post_url = "http://radaronline.com/photos/kourtney-kardashian-younes-justin-bieber-church/";
+					var prev_post_url = "http://radaronline.com/photos/christine-taylor-no-ring-ben-stiller-divorce/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-23T16:15:08+00:00","caption":"George Clooney and Amal\u2019s love story just keeps on growing as the gorgeous couple was just seen looking fabulous and in love while on yet another romantic candle-lit dinner in Italy, RadarOnline.com has learned. The famous elegantly dressed duo jumped aboard a luxury yacht to travel across the waters and visit their favorite restaurant in Bellagio. Amal rocked her usual red lip and stunned in a vibrant red top, baggy dress pants and heels. George looked handsome in his go-to white dress shirt and jeans. Together with some pals, they enjoyed a bite to eat at Le Darsene and shared a sweet kiss under the gorgeous night sky.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:09+00:00","caption":"The new parents shared a sweet peck while sitting at their secluded table in the Italian hotspot.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:11+00:00","caption":"George held tightly onto his wife\u2019s hand as they walked along the boardwalk to the ritzy dinning spot.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:12+00:00","caption":"A vision in red, the always-stylish Amal leaned on her famous hubby\u2019s shoulder as the sky turned dark.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:19+00:00","caption":"Sipping on tall glasses of red wine, the two could not have looked more at peace.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:14+00:00","caption":"The PDA continued for the charming duo. George planted sweet kisses onto his wife\u2019s forehead as she leaned shyly into his arms.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:14+00:00","caption":"As Radar readers know, Amal and George have been spotted out on glamorous romantic dates all over Italy since the birth of their twins, Ella and Alexander.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:16+00:00","caption":"Love is always in the air for these two.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T16:15:16+00:00","caption":"What do you think of George and Amal\u2019s latest date? Let us know your thoughts in the comments below.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/Amal-clooney-red-top-date-george-04.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Amal & George Share Steamy Public Smooch During Romantic Italian Dinner!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9George Clooney and Amal’s love story just keeps on growing as the gorgeous couple was just seen looking fabulous and in love while on yet another romantic candle-lit dinner in Italy, RadarOnline.com has learned. The famous elegantly dressed duo jumped aboard a luxury yacht to travel across the waters and visit their favorite restaurant in Bellagio. Amal rocked her usual red lip and stunned in a vibrant red top, baggy dress pants and heels. George looked handsome in his go-to white dress shirt and jeans. Together with some pals, they enjoyed a bite to eat at Le Darsene and shared a sweet kiss under the gorgeous night sky.Photo credit: BACKGRID2 of 9The new parents shared a sweet peck while sitting at their secluded table in the Italian hotspot.Photo credit: BACKGRID3 of 9George held tightly onto his wife’s hand as they walked along the boardwalk to the ritzy dinning spot.Photo credit: BACKGRID4 of 9A vision in red, the always-stylish Amal leaned on her famous hubby’s shoulder as the sky turned dark.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Sipping on tall glasses of red wine, the two could not have looked more at peace.Photo credit: BACKGRID6 of 9The PDA continued for the charming duo. George planted sweet kisses onto his wife’s forehead as she leaned shyly into his arms.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9As Radar readers know, Amal and George have been spotted out on glamorous romantic dates all over Italy since the birth of their twins, Ella and Alexander.Photo credit: BACKGRID8 of 9Love is always in the air for these two.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9What do you think of George and Amal’s latest date? Let us know your thoughts in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+George Clooney and Amal’s love story just keeps on growing as the gorgeous couple was just seen looking fabulous and in love while on yet another romantic candle-lit dinner in Italy, RadarOnline.com has learned. The famous elegantly dressed duo jumped aboard a luxury yacht to travel across the waters and visit their favorite restaurant in Bellagio. Amal rocked her usual red lip and stunned in a vibrant red top, baggy dress pants and heels. George looked handsome in his go-to white dress shirt and jeans. Together with some pals, they enjoyed a bite to eat at Le Darsene and shared a sweet kiss under the gorgeous night sky.Photo credit: BACKGRIDThe new parents shared a sweet peck while sitting at their secluded table in the Italian hotspot.Photo credit: BACKGRIDGeorge held tightly onto his wife’s hand as they walked along the boardwalk to the ritzy dinning spot.Photo credit: BACKGRIDA vision in red, the always-stylish Amal leaned on her famous hubby’s shoulder as the sky turned dark.Photo credit: BACKGRIDSipping on tall glasses of red wine, the two could not have looked more at peace.Photo credit: BACKGRIDThe PDA continued for the charming duo. George planted sweet kisses onto his wife’s forehead as she leaned shyly into his arms.Photo credit: BACKGRIDAs Radar readers know, Amal and George have been spotted out on glamorous romantic dates all over Italy since the birth of their twins, Ella and Alexander.Photo credit: BACKGRIDLove is always in the air for these two.Photo credit: BACKGRIDWhat do you think of George and Amal’s latest date? Let us know your thoughts in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

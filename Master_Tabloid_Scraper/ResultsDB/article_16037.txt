@@ -1,0 +1,46 @@
+EXCLUSIVE! Maria Sharapova Talks Preparing for Her Return to Tennis: I've Really Missed Competing Maria Sharapova is getting back into the swing of things.  The all-star tennis player announced yesterday that she will return to the spor.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/821597/maria-sharapova-talks-preparing-for-her-return-to-tennis-i-ve-really-missed-competing');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017011/rs_634x1024-170111123025-634.Maria-Sharapova-Supergoop-Los-Angeles.kg.011117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maria Sharapova, Supergoop!");
+	var imageCaption = encodeURIComponent("Maria Sharapova, Supergoop!");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Rachel Murray/Getty Images for Supergoop!
+
+Maria Sharapova is getting back into the swing of things. The all-star tennis player announced yesterday that she will return to the sport in April at Stuttgart's Porsche Tennis Grand Prix, more than a year after she competed in her last match. E! News recently chatted with Sharapova at the Supergoop! Barre to Bar Beauty Set launch in L.A., where she talked to us exclusively about what goes into preparing for her comeback. "Obviously I've had a long time away from the game so I'm just really excited to get back into the routine of playing tournaments and matches," Maria, 29, shared. The Russian stunner also shared that she's more excited than nervous about stepping back onto the court, and is taking her training slow."It's still a couple of months away and in terms of preparation I think I still have some time to get there," Maria explained. 
+
+She continued, "Obviously from a mind frame point of view, I'm so excited and so looking forward to competing again. It's one of the things I've really missed in the last year so it'll be really great to have that back."One aspect of returning to tennis that Maria won't have to worry about thanks to her partnership with Supergoop!? A painful sunburn! Supergoop! founder Holly Thaggard told us Sharapova has used her sunscreen for years. "Our every day formula is one that she found she could wear on the tennis court and not get in her eyes and sweat and really perform at the level that she performs at," the beauty guru recalled. 
+
+In Maria's own words, "Supergoop! was really the first formula that I tried that was 50 SPF and allowed me to be in the sun for up to 90 minutes without feeling any burning effects, without getting it in my eyes and feeling like it was irritating me."Sounds like a grand slam!
+/n

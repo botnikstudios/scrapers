@@ -1,0 +1,50 @@
+Goldie Hawn: Hollywood Didn't Want Me Back After 15 Years Away According to Schumer, only Hawn was qualified for the role. "I read the script, and as I'm reading it, I pictured Goldie the whole time," Schumer explains. &q.../n
+Hollywood hasn't always been kind to its leading ladies.Goldie Hawn returns to the silver screen May 12, starring opposite Amy Schumer in Snatched. The mother-daughter comedy marks the actress' first film role since 2002's The Banger Sisters.Back in the day, Hawn could do no wrong at the box office; Private Benjamin, Overboard and The First Wives Club were major, career-defining hits. But when Hawn was pitched to star in Snatched, the studio initially balked. "They didn't want me in the beginning," Hawn says with a shrug in Entertainment Weekly's Apr. 21 issue. But Schumer wouldn't accept any substitutes: "I said, 'Over my dead body Goldie is not going to be in this movie,'" she recalls. "I'd die for her."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/843308/goldie-hawn-hollywood-didn-t-want-me-back-after-15-years-away');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017313/rs_634x845-170413070853-634.goldie-hawn-amy-schumer-snatched-entertainment-weekly-cover-ew.41317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Goldie Hawn, Amy Schumer, Entertainment Weekly");
+	var imageCaption = encodeURIComponent("Goldie Hawn, Amy Schumer, Entertainment Weekly");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Trachtenberg/Entertainment Weekly
+
+According to Schumer, only Hawn was qualified for the role. "I read the script, and as I'm reading it, I pictured Goldie the whole time," Schumer explains. "There was never anyone else."A chance encounter made her dream closer to becoming a reality. "Two weeks later Goldie was on the same plane as me. She doesn't remember this: I left her alone the whole flight and then I sort of creepily followed her through the terminal and I said, 'Hi, Goldie, I'm a comedian and there's this script and I really want you to play my mom in the movie.' She was so nice and great and very warm. Six months later we met with the director [Jonathan Levine] to say we really want to make this movie together," Schumer, 35, says. "I think she's the funniest person alive."
+
+Why did Hawn say yes?"It was the right time. I've been working on my foundation for years, but in my mind I always wondered: Will I ever make people laugh again? I remember when I walked in the theater for Private Benjamin...it wasn't about me, it was about everybody in that audience. They were laughing and they were happy. Life is hard. And it only gets harder. So it's an important thing to be able to have that," the living legend, 71, says. "This came around and it was a gift from God."
+
+Being back on set was slightly daunting for Hawn, despite her years of experience. "I think doing the same thing for your entire life can be boring. I always knew that the second half or third or whatever of my life, I'd want to do something different. And so I changed my life around—I was working with children and scientists, and it was amazing. When I came back and I was getting in makeup, I looked at the set and saw the cameras. I saw Amy sitting there and I thought, 'I'm walking backwards,'" Hawn recalls. "I walked out and it was like putting on new dance shoes."
+
+After Snatched hits theaters, expect to see Hawn onscreen more regularly."I've gotten excited thinking about doing more film, but there's also a piece of me that loves the [entertainment] world we're living in now," says Hawn, who got her start on Rowan & Martin's Laugh-In. "I'm thinking of doing something like a limited series. Definitely there's a toe back in.""There's no toe with her!" Schumer jokes. "It's just BOOM!"For more from the two actresses, pick up Entertainment Weekly's Apr. 21 issue, out Friday.
+/n

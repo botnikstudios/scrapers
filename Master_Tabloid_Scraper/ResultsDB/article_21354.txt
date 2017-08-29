@@ -1,0 +1,44 @@
+UPDATE! Teresa Giudice's Mother Antonia Gorga Dies at Age 66 UPDATE: Teresa Giudice took to Instagram late Saturday night with a message for her fans. "Thank you for the love and support during this extremely difficult time. My mot.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/833829/teresa-giudice-s-mother-antonia-gorga-dies-at-age-66');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201724/rs_634x1024-170304142432-634.Teresa-Giudice-Antonia-Gorga.kg.030417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Teresa Giudice, Antonia Gorga");
+	var imageCaption = encodeURIComponent("Teresa Giudice, Antonia Gorga");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gilbert Carrasquillo/Getty Images
+
+UPDATE:Teresa Giudice took to Instagram late Saturday night with a message for her fans."Thank you for the love and support during this extremely difficult time. My mother was a very cherished part of our family and she'll be deeply missed. Each and every one of your messages of love & support are so appreciated. Give her eternal rest O Lord and may your light shine on her forever," she wrote alongside a photo collage of her family.—The Real Housewives of New Jersey cast member Teresa Giudice and brother Joe Gorga are mourning the death of their mother Antonia Gorga.The matriarch passed away at age 66 of natural causes Friday, E! News has learned. Teresa and Joe have not commented.Antonia is survived by Teresa, Joe, their father Giacinto Gorga and seven grandchildren—Teresa and husband Joe Giudice's four daughters and Joe and RHONJ cast member Melissa Gorga's two sons and daughter, who is named after Antonia.
+
+"Happy Birthday to my beautiful MAMA!" she wrote in October, when she celebrated Antonia's birthday. "I am the person I am because of you love you with all my heart."(This story was originally published on Saturday, March 4, 2017 at 2:51 p.m.)
+/n

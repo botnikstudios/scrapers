@@ -1,0 +1,48 @@
+first child with wife Danielle, cohosted the event—which marked his first public appearance since the Jonas Brothers officially broke up—with actress Jeanette McCurdy, who took to Twitter to gush over Kevin's kind demeanor. "Litera.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/482133/kevin-jonas-makes-first-public-appearance-since-the-jonas-brothers-breakup-at-teennick-halo-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131018/rs_634x1024-131118083045-634-jonas-111913.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kevin Jonas");
+	var imageCaption = encodeURIComponent("Kevin Jonas");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mark Davis/Getty Images for Nickelodeon
+
+Well, hello there, Kevin Jonas!The 26-year-old musician stepped out on Sunday, Nov. 17 for the 2013 TeenNick Halo Awards held at the Hollywood Palladium in Los Angeles, Calif. The soon-to-be father, who is expecting his first child with wife Danielle, cohosted the event—which marked his first public appearance since the Jonas Brothers officially broke up—with actress Jeanette McCurdy, who took to Twitter to gush over Kevin's kind demeanor."Literally the last 4 texts I sent to friends are: "Kevin Jonas is the nicest person ever." @kevinjonas," she wrote.
+
+In late October, the Jonas Brothers unanimously decided to call it quits less than three weeks after they canceled their fall tour due to "a deep rift within the band." "It's over for now," Kevin told People on Tuesday, Oct. 29. "We're closing a chapter, for sure," Nick added.Despite the break up, a source exclusively told E! News at the time that "there were no personal issues" between the siblings."They just all wanted different things. They love each other. They always will," the insider explained. "Kevin wants to focus on being a dad. He can't wait for Danielle to have their baby. His priorities have changed."
+
+Since the split, Nick, 21, performed a solo show on Nov. 3 in Napa Valley, Calif., where he wowed the crowd with an intimate performance, singing  Avicii's hit "Wake Me Up," and he also performed with his older brother Joe, 24, in Mexico City.Kevin was not present for the performance, which took place at the Telehit Awards Concert on Wednesday, Nov. 13."Kevin is focusing on his business ventures," a source close to the musical trio told E! News of the expectant father's absence. "As announced earlier, the band is no longer together. However, the guys had made a commitment to Telehit and wanted to keep that commitment."The oldest JoBro most recently celebrated his 26th birthday and received sweet wishes from his wife, who took to Instagram to write."Happy Birthday to my Daddy to be. [You're] the love of my life and my best friend. I love you more then you will ever no. Love dani and baby girl."
+
+PHOTOS: Jonas Brothers through the years
+/n

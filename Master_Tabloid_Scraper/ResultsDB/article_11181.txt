@@ -1,0 +1,48 @@
+Ed Skrein Gives Up Role in Hellboy Reboot After Whitewashing Backlash Ed Skrein is saying goodbye to the new Hellboy before it ever began... Days after it was announced that the Deadpool actor would be starring in Lionsgate and Millennium’s .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876461/ed-skrein-gives-up-role-in-hellboy-reboot-after-whitewashing-backlash');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201639/rs_634x1024-160409184512-634.Ed-Skrein-MTV-Movie-Awards-tt-040916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ed Skrein, MTV Movie Awards 2016");
+	var imageCaption = encodeURIComponent("Ed Skrein, MTV Movie Awards 2016");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+Ed Skrein is saying goodbye to the new Hellboy before it ever began...Days after it was announced that the Deadpool actor would be starring in Lionsgate and Millennium’s Hellboy reboot, the Brit revealed that he's dropping out of the film after a whitewashing backlash broke out on the Internet following his casting news.Skrein, who also is known for his role in Game of Thrones, was set to play Major Ben Daimio, a member of the Bureau for Paranormal Research and Defense who can turn into a jaguar when angered or in pain. In the original Dark Horse comic, Major Daimio was Asian, a fact that Skrein says he did not know.In the days since the announcement, a huge outcry erupted online over the casting news, many claiming that Hollywood was once again whitewashing a character.Skrein quickly addressed the public's ire and revealed in a lengthy Twitter post that he was stepping away from the film in hopes of his role going to an actor that better fit the character who is of mixed Asian heritage.
+
+"It is clear that representing this character in a culturally accurate way holds significance for people, and that to neglect this responsibility would continue a worrying tendency to obscure ethnic minority stories and voice in the arts. I feel it is important to honor and respect that. Therefore I have decided to step down so the role can be cast appropriately," the actor wrote in a statement that he posted earlier today.He added, "Representation of ethnic diversity is important, especially to me as I have a mixed heritage family. It is our responsibility to make moral decisions in difficult times and to give voice to inclusivity. It is my hope that one day these discussions will become less necessary and that we can help make equal representation in the arts a reality."The 34-year-old also wrote, "I am sad to leave Hellboy but if this decision brings us closer to that day, it is all worth it. I hope it makes a difference."
+
+The film, which is based on Mike Mignola's demonic comic book character, will star Stranger Things' David Harbour.Additionally, Harbour took to Twitter to thank fans for their words and Skrein for his actions. He tweeted, "Hey internet. Thank you for your voices. An injustice was done and will be corrected. Many thanks to @edskrein for doing what is right."
+
+Producers Larry Gordon, Lloyd Levin, Millennium and Lionsgate also released the following statement after the actor's announcement: "Ed came to us and felt very strongly about this. We fully support his unselfish decision. It was not our intent to be insensitive to issues of authenticity and ethnicity, and we will look to recast the part with an actor more consistent with the character in the source material."Deadwood actor Ian McShane will be playing Hellboy's adoptive father, Professor Bloom. The Fifth Element's Milla Jovovich is playing Nimue the Blood Queen, a medieval sorceress set on destroying humanity. The movie will be directed by Game of Thrones director Neil Marshall.
+/n

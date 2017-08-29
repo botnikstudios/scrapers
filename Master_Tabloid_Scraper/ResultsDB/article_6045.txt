@@ -1,0 +1,56 @@
+Ruth Wilson Explains Relationship With Jake Gyllenhaal, Wonders Why It's Always Her ''Orgasm Face'' on Display in Sex Scenes Ruth Wilson just won a Golden Globe for her spot-on portrayal of a grieving, unfaithful spo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/617049/ruth-wilson-explains-relationship-with-jake-gyllenhaal-wonders-why-it-s-always-her-orgasm-face-on-display-in-sex-scenes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015021/rs_634x824-150121084426-634.Ruth-Wilson-The-Edit.jl.012115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ruth Wilson, The Edit");
+	var imageCaption = encodeURIComponent("Ruth Wilson, The Edit");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Photograph by Steven Pan courtesy of The EDIT
+
+Ruth Wilson just won a Golden Globe for her spot-on portrayal of a grieving, unfaithful spouse with a secret in The Affair. A role that also involves a fair amount of nudity and graphic-for-cable-TV sex.But the British beauty, who previously was best known for playing a stone-cold psycho with a soft spot for Idris Elba in Luther and is now starring on Broadway in Constellations, doesn't sound like one to do something just because the script calls for it."I argue this stuff all the time; that these scenes need to be real and they need to have narrative as much as any other scene," Wilson says in the latest issue of Net-a-Porter's The Edit. "They can't be purely titillation."
+
+
+
+Photograph by Steven Pan courtesy of The EDIT
+
+"So for Dominic and myself," she continued, referring to co-star Dominic West, the other half of The Affair's damned duo, "every time it came up we asked, 'Do we need this? What are we saying with it? And how can we choreograph it so that it has something to say, so that we can act within it?'"About those intense scenes, Wilson said, "I kept insisting, 'Why have I always got to do the orgasm face?' There should be a male orgasm face. Why is always the woman who's orgasming? Let's analyze the male orgasm. Why aren't we thinking about that a bit more? It's hard to make good sex scenes work—there are so many crap ones out there."(Not that all is so direly serious on set—Wilson did compliment West's butt as "something of great beauty" during her Golden Globes speech.)
+
+But the over-utilized female O-face isn't the only thing on Wilson's mind, either."I have a big concern about how women are treated in the industry generally and how they have to provide the titillation because penises can't be seen on screen but breasts can," she also told The Edit. "It's assumed that women will get their breasts out, and have to get their breasts out, and I balk at that. It's unnecessary and it's unfair."Making it even dicier for many a leading lady, even in films and plays where there's no need for breasts to be out, it seems practically impossible these days for an actress to not end up as half of a rumored couple with her co-star.Asked about an old tale about her and Johnny Depp hooking up after they were both in The Lone Ranger, Wilson answered rather gleefully.
+
+
+
+Photograph by Steven Pan courtesy of The EDIT
+
+"I have [the Us Weekly story] hanging up at home," she revealed. "I was like, 'This is brilliant. If only they know I talked to him once on set."More pressing (to some, anyway) is the now rampant speculation that she and her Constellations love interest Jake Gyllenhaal are more than friends off stage."He's adorable, a really good guy," Wilson raved about her co-star. But, not to dash anyone's dreams..."We've become like brother and sister a little bit," she added. "We spend so much time together. We trust that even if we have a little [disagreement]—which is going to happen because we're in a tense environment that demands a lot from us—we'll make up and we'll be fine. I trust him implicity."Sounds like a rather platonic affair in this case.
+/n

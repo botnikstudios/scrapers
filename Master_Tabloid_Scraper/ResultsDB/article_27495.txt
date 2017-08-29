@@ -1,0 +1,87 @@
+Arnold Schwarzenegger Tells America’s Neo-Nazis: ‘Your Heroes Are Resting in Hell’/n
+
+Arnold Schwarzenegger is throwing another jab at Donald Trump, this time calling out the president for not taking a stronger stance against racism following the violence in Charlottesville.
+“The only way to beat the loud, angry voice of hate is to meet them with louder, more reasonable voices that includes you, President Trump,” the Governator said in the fourth installment of his ATTN: video series, which was shared on Facebook Thursday.
+“In fact, as president of this great country, you have a moral responsibility to send an unequivocal message that you won’t stand for hate and racism,” the former New Celebrity Apprentice host continued.
+In addition to Trump, Schwarzenegger had some choice words for neo-Nazis, white nationalists and neo-Confederates.
+Jason Merritt/Getty; Gary Gershoff/Getty
+“Your heroes are losers. You are supporting a lost cause. And believe me, I knew the original Nazis, because you see, I was born in Austria in 1947, shortly after the Second World War,” the former governor of California stated.
+“And growing up, I was surrounded by broken men, men who came home from a war filled with shrapnels and guilt, men who were misled into a losing ideology. And I can tell you: that these ghosts you idolize spent the rest of their lives living in shame and right now, they’re resting in hell,” Schwarzenegger said.
+A woman was killed and at least 19 people were injured Saturday after a “Unite the Right” white nationalist rally drew attendees and counter-demonstrators into confrontation on the streets of Charlottesville, Virginia.
+The violent incident followed a Friday night march through the University of Virginia’s campus by hundreds of torch-bearing white supremacists who witnesses said chanted “white lives matter” and anti-Semitic slurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-05bf240a13be93c3078f694525b3f61e-59a5803d8cdae');
+				var iframe = document.getElementById('wpcom-iframe-05bf240a13be93c3078f694525b3f61e-59a5803d8cdae');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-05bf240a13be93c3078f694525b3f61e-59a5803d8cdae'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Immediately after the aftermath, Trump spoke out against the violence in Charlottesville in his first remarks that immediately drew rebuke. During a Saturday press event in Bedminster, New Jersey, the commander-in-chief did not explicitly lay blame on the white supremacists — instead insisting that “bigotry and hatred” was coming from “many sides.”
+Schwarzenegger previously lashed out at Trump in March, poking fun at the president’s low approval rating. One month prior, Trump continued his rant against Schwarzenegger regarding low Apprentice ratings at the National Prayer Breakfast on Feb. 2.
+Before Trump’s presidential bid and Schwarzenegger’s takeover of The New Celebrity Apprentice, the two were actually pals. But in March, it was revealed that Schwarzenegger was leaving The New Celebrity Apprentice due in part to Trump’s “baggage.”
+/n

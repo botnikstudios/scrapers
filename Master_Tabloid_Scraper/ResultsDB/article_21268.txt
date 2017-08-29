@@ -1,0 +1,42 @@
+Feeling much more virginal than B-babe’s felt in a while was... Virginia Madsen, lighting up the premiere of Pray the Devil Back to Hell in Bev Hills. Virgie, her hair pulled back while wearing a white, flower-patterned frock, was gorgeous a.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/69409/seen-it-britney-spears-eats-it');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080916/293.spears.britney2.091608.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Britney Spears");
+	var imageCaption = encodeURIComponent("Britney Spears");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Fame Pictures
+
+Britney Spears, chilling at swanky sushi restaurant Nobu in WeHo on a Sunday night, relaxing with some buddies. Brit, dressed way casual in jeans and a sweater, gulped down sushi, but stayed away from sake or anything alcoholic—way to go, B. Is this the same gal who passed out last New Year's from partying too much? We barely recognized that dead look in her eyes. Feeling much more virginal than B-babe’s felt in a while was...Virginia Madsen, lighting up the premiere of Pray the Devil Back to Hell in Bev Hills. Virgie, her hair pulled back while wearing a white, flower-patterned frock, was gorgeous and gracious, ‘course, can’t imagine this lovely lady ever being a be-yotch. Also feeling some inspiration at the screening was...Dana Delaney, lookin’ fab while feting the film. The vivacious redhead donned a black leather jacket and a black-and-white striped shirt. How very Elvis’ “Jailhouse Rock” of D2. She checked out the inspirational flick, which made the shortlist of documentaries in line for an Oscar nom, about the women of Liberia protesting for peace during their country’s civil war by withholding sex from their men. Maybe Jen Aniston should do similarly—John Mayer might start behaving like a better boyfriend.
+/n

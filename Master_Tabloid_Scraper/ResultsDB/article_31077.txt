@@ -1,0 +1,44 @@
+UPDATE! Emile Hirsch Seeking Plea Deal in Sundance Film Festival Assault Case UPDATE: Emile Hirsch pleaded guilty to misdemeanor assault in Salt Lake City Monday, TMZ reported. He will spend 15 days in jail, pay a $4,750 fine and do 50 hours of commu.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/664216/emile-hirsch-seeking-plea-deal-in-sundance-film-festival-assault-case');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015718/rs_634x793-150818095331-Emile_Hirsch_Booking_Photo.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emile Hirsch Mugshot");
+	var imageCaption = encodeURIComponent("Emile Hirsch Mugshot");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Summit County Sheriff's Office
+
+UPDATE: Emile Hirsch pleaded guilty to misdemeanor assault in Salt Lake City Monday, TMZ reported. He will spend 15 days in jail, pay a $4,750 fine and do 50 hours of community service. His booking photo was made public Tuesday.——————Emile Hirsch was back in court today just over four months after he allegedly attacked a woman during the 2015 Sundance Film Festival in Park City, Utah.The 30-year-old actor faced judge Paige Peterson Monday morning with his lawyer Neil Kaplan in the latest hearing on charges of aggravated assault and intoxication, E! News has confirmed.During the short hearing, Kaplan told the court he and his client have been talking to the state about a potential plea deal that would allow Hirsch to possibly avoid jail time, although nothing is set in stone yet. Unless Hirsch and the state settle on a deal in the coming months, Hirsch is scheduled to be back in court on Aug. 17 for a preliminary hearing."In Utah, a defendant charged with a class A misdemeanor or felony level offense may request a preliminary hearing," Ryan Stack, Prosecuting Attorney of the Summit County Attorney's Office, tells E! News. "This requires the state to present sufficient evidence showing probable cause that the charged offenses occurred and the defendant is the one who committed them."Hirsch's alleged assault occurred on Jan. 25 at Tao nightclub when he appeared to be drunk and grabbed at studio executive Daniele Bernfeld, according to a criminal complaint obtained by E! News earlier this year.
+
+According to the docs, "Hirsch came up from behind Bernfeld and wrapped his arm around her to put her in a chokehold. Hirsch pulled Bernfeld across the table and onto the floor, where he landed on top of her. While Hirsch was on top of Bernfeld he wrapped his hands around her neck. Bernfeld said she felt as though the front and back of her throat were touching and she remembers things going dark. Bernfeld reported that she may have momentarily blacked out."After news of the alleged assault broke, the Into the Wild star checked into rehab. "Emile consumed an enormous amount of alcohol on the evening in question and he has no memory of what happened," Hirsch's lawyer said in a statement back in February. "Emile takes these allegations very seriously, and is devastated that any of this has occurred. A few days after the incident, Emile sought help and checked himself into an alcohol rehabilitation facility, where he remains today, to ensure nothing like this ever happens again."Hirsch made his first court appearance in the case back in March, about one month after he was officially charged with assault and intoxication.—Reporting by Lindsay Good(Originally published June 8, 2015 at 10:47 a.m. PST)
+/n

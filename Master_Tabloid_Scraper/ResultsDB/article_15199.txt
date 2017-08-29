@@ -1,0 +1,46 @@
+Marion Cotillard Breaks Silence on Alleged Involvement in Brad Pitt and Angelina Jolie's Divorce Question as to whether or not Pitt was unfaithful with his Allied co-star sprung into people's minds after Page Six reported that Ange.../n
+The Brad Pitt and Angelina Jolie divorce shocked many, especially when other stars' names were thrown into the mix when the question of why the heck did this happen came up.Actress Marion Cotillard found herself in the center of speculation when rumors started to swirl that there may have been something going on between her and co-star Pitt, which led to the pair splitting. Well, instead of letting the public go about their numerous explanations, she decided to address it head-on.Cotillard released a lengthy statement on Instagram denying any involvement in the Jolie-Pitt decision to split, and reassuring her love for Guillaume Canet, the father of her soon-to-be two kids (yes, she also confirmed her second pregnancy while trumping affair rumors)."This is going to be my first and only reaction to the whirlwind news that broke 24 hours ago and that I was swept up into. I am not used to commenting on things like this nor taking them seriously but as this situation is spiraling and affecting people I love, I have to speak up," she began."Firstly, many years ago, I met the man of my life, father of our son and of the baby we are expecting. He is my love, my best friend, the only one that I need. Secondly to those who have indicated that I am devastated, I am very well thank you. This crafted conversation isn't distressing. And to all the media and the haters who are quick to pass judgment, I sincerely wish you a swift recovery. Finally, I do very much wish that Angelina and Brad, both whom I deeply respect, will find peace in this very tumultuous moment. With all my love Marion"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/796743/marion-cotillard-breaks-silence-on-alleged-involvement-in-brad-pitt-and-angelina-jolie-s-divorce');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016820/rs_634x1024-160920122757-634-7angelina-jolie-brad-pitt-pda-divorce.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Brad Pitt, Angelina Jolie");
+	var imageCaption = encodeURIComponent("Brad Pitt, Angelina Jolie");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Amanda Schwab/Startraksphoto.com
+
+Question as to whether or not Pitt was unfaithful with his Allied co-star sprung into people's minds after Page Six reported that Angelina hired a private investigator to spy on him on set, which led her to believe he'd been cheating.A "well-placed" source told the publication, "She hired a private eye because she felt that he was fooling around with her on the set, and it turns out, he was. And that was the final straw." However, a source told E! News at the time that these rumors are not true.A number of other reasons to explain Hollywood's big split were thrown into the mix as well, including their varying views of the future and alleged differences in parenting styles of their six children, Maddox, Pax, Zahara, Shiloh, and twins Knox and Viviene. Regardless of the reason, both stars remain adamant on focusing on their children during this process.
+
+"Angelina will always do what's in the best interest of taking care of her family," her manager, Geyer Kosinski, told E! News yesterday. "She appreciates everyone's understanding of their need for privacy at this time."Meanwhile, Pitt released a statement about the divorce saying, "I am very saddened by this, but what matters most now is the well-being of our kids. I kindly ask the press to give them the space they deserve during this challenging time."
+/n

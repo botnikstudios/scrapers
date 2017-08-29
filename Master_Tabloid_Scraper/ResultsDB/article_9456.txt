@@ -1,0 +1,44 @@
+Ivanka Trump Kisses Newborn Son Joseph Frederick—See the Precious Pic! Prince George isn't the only famous baby celebrating an important religious milestone. Ivanka Trump shared a precious photo of her newborn son, Joseph Frederick Kush.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/473425/ivanka-trump-kisses-newborn-son-joseph-frederick-see-the-precious-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013923/rs_634x1024-131023094503-634.ivanka-joseph-twit-pic-bris.mh.102313.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ivanka Trump, Joseph Frederick Kushner");
+	var imageCaption = encodeURIComponent("Ivanka Trump, Joseph Frederick Kushner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Prince George isn't the only famous baby celebrating an important religious milestone.Ivanka Trump shared a precious photo of her newborn son, Joseph Frederick Kushner, on her Tumblr account on Wednesday, Oct. 23.The fashion designer is planting a sweet kiss on her newborn son's forehead at his bris, the Jewish ceremony that is held when the baby boy is eight days old."One week old. Thanks to all of you for your kind words and best wishes," the Celebrity Apprentice star captioned the delightful snapshot.
+
+The 31-year-old looks classic chic, propping up her son and sitting cross-legged. She is wearing a black ensemble, while her blond locks are in a chignon under a matching hat. She completed the look with sparkly and eye-catching earrings and dark pumps.Joseph is wearing a long (for him!) white robe.Trump has been documenting her newborn son's first week with plenty of awww-worthy photos."Jared hasn't lost his touch with a newborn I'm so in love with these two boys!" she wrote accompanying a photo of father and son cuddling together.Ivanka also witnessed her 2-year-old daughter, Arabella Rose, checking up on her new sibling…literally. "Joseph's first doctor's appointment," she tweeted with a photo of Arabella holding a kids stethoscope close to his heart. What a protective (and adorable) sister!Trump and Jared Kushner welcomed their second child on Oct. 14.
+/n

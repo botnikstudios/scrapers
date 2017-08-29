@@ -1,0 +1,89 @@
+Mom Who Exposed 'Monster' Pedophile Jared Fogle Warns: 'There Are More Victims'/n
+
+					var next_post_url = "http://radaronline.com/photos/creepy-totally-lame-mariah-carey-tara-reid-celebs-halloween-costumes-revealed/";
+					var prev_post_url = "http://radaronline.com/photos/lamar-odom-dad-joe-odom-hospitalized-health-problems/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-10-31T18:26:45+00:00","caption":"The mother of two who bravely exposed Subway spokesman Jared Fogle as a predatory pedophile said she fears he has other victims who are still too scared to go to the police and is speaking to RadarOnline.com to tell them not to be afraid to come forward.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-pp1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:11+00:00","caption":"\"I do believe there are more victims of his out there,\" Rochelle Herman-Walrond told Radar in an exclusive interview from her Florida home. \"I believed that throughout the whole of his trial. I encourage them to come forward, it's how the healing begins.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:12+00:00","caption":"Herman-Walrond \u2014 whose secret recordings of Fogle telling her how he wanted to have sex with youngsters led to the child sex offender being caged for 15 years \u2014 also expressed her disgust that Fogle has yet to show remorse for his sickening crimes.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:14+00:00","caption":"As Radar reported, Fogle, who appeared in numerous Subway ads from 2000 to 2015 after boasting of losing 245lbs since eating twice a day at their restaurants, pleaded guilty to child pornography charges and paying for sex with minors. \"I didn't know the signs to look out for before and now I do. Of course I'm worried there are more out there like him,\" 48-year-old Herman-Walrond said.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:16+00:00","caption":"Herman-Walrond noted she hasn't been in contact with investigators since 38-year-old Fogle's conviction and that a new book she is writing about her experience is helping her cope with the lasting effects of the investigation. \"I haven't had any contact with the FBI since the trial,\" she told Radar. \"If the same circumstances came up again or I had the chance to do it again, I would. But I won't lie; it was mentally anguishing.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:17+00:00","caption":"\"It tears your heart out,\" said Herman-Walrond of the ordeal, \"but at least I have my husband and children and we can move forward.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:18+00:00","caption":"She also revealed she is dedicating her life to protecting and helping abused kids and she's set to become spokeswoman for an as-yet-unnamed organization helping to save and protect trafficked kids, as well as penning a book on her experience.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:20+00:00","caption":"\"Writing the book is a wonderful outlet for me \u2014 it helps me deal with everything. It helps me get through,\" said Herman-Walrond.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:22+00:00","caption":"\"Fogle's a monster,\" Herman-Walrond blasted of her former colleague. \"I'm not sure there is a way of monitoring the Internet for people like him, but at least his conviction shows people like him, famous people, can and will be caught if they do something as hideous as pedophilia.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:23+00:00","caption":"Talking about how she triggered the investigation into Fogle, she added: \"I sent Subway an email, an online complaint, about the comments he had made about myself and my two young children. It should have been investigated immediately but it slipped through the cracks, but eventually he was arrested.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:24+00:00","caption":"\"It's been a difficult experience for me,\" said Herman-Walrond. \"It's taken its toll, but I have been able to move on. I did it for the better good and I would do it all over again.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-31T17:56:26+00:00","caption":"As Radar reported, Fogle won't be eligible for parole until 2029. A Subway spokesperson denied in a statement any prior knowledge that Fogle was a sex offender: \"Our investigation into this matter concluded back in 2015 and no evidence was found to support claims of any prior knowledge of issues surrounding our former spokesman.\"\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/rochelle-herman-walrond-jared-fogle-interview-11.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Mom Who Exposed ‘Monster’ Pedophile Jared Fogle Warns: ‘There Are More Victims’
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 12 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 12rochelle-herman-walrond-jared-fogle-interview-pp1The mother of two who bravely exposed Subway spokesman Jared Fogle as a predatory pedophile said she fears he has other victims who are still too scared to go to the police and is speaking to RadarOnline.com to tell them not to be afraid to come forward.Photo credit: Coleman-Rayner2 of 12The Woman responsible for Jared Fogle’s pedophile arrest"I do believe there are more victims of his out there," Rochelle Herman-Walrond told Radar in an exclusive interview from her Florida home. "I believed that throughout the whole of his trial. I encourage them to come forward, it's how the healing begins."Photo credit: Coleman-Rayner3 of 12The Woman responsible for Jared Fogle’s pedophile arrestHerman-Walrond — whose secret recordings of Fogle telling her how he wanted to have sex with youngsters led to the child sex offender being caged for 15 years — also expressed her disgust that Fogle has yet to show remorse for his sickening crimes.Photo credit: Coleman-Rayner4 of 12The Woman responsible for Jared Fogle’s pedophile arrestAs Radar reported, Fogle, who appeared in numerous Subway ads from 2000 to 2015 after boasting of losing 245lbs since eating twice a day at their restaurants, pleaded guilty to child pornography charges and paying for sex with minors. "I didn't know the signs to look out for before and now I do. Of course I'm worried there are more out there like him," 48-year-old Herman-Walrond said.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 12The Woman responsible for Jared Fogle’s pedophile arrestHerman-Walrond noted she hasn't been in contact with investigators since 38-year-old Fogle's conviction and that a new book she is writing about her experience is helping her cope with the lasting effects of the investigation. "I haven't had any contact with the FBI since the trial," she told Radar. "If the same circumstances came up again or I had the chance to do it again, I would. But I won't lie; it was mentally anguishing."Photo credit: Coleman-Rayner6 of 12The Woman responsible for Jared Fogle’s pedophile arrest"It tears your heart out," said Herman-Walrond of the ordeal, "but at least I have my husband and children and we can move forward."Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 12The Woman responsible for Jared Fogle’s pedophile arrestShe also revealed she is dedicating her life to protecting and helping abused kids and she's set to become spokeswoman for an as-yet-unnamed organization helping to save and protect trafficked kids, as well as penning a book on her experience.Photo credit: Coleman-Rayner8 of 12The Woman responsible for Jared Fogle’s pedophile arrest"Writing the book is a wonderful outlet for me — it helps me deal with everything. It helps me get through," said Herman-Walrond.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 12The Woman responsible for Jared Fogle’s pedophile arrest"Fogle's a monster," Herman-Walrond blasted of her former colleague. "I'm not sure there is a way of monitoring the Internet for people like him, but at least his conviction shows people like him, famous people, can and will be caught if they do something as hideous as pedophilia."Photo credit: Coleman-Rayner10 of 12The Woman responsible for Jared Fogle’s pedophile arrestTalking about how she triggered the investigation into Fogle, she added: "I sent Subway an email, an online complaint, about the comments he had made about myself and my two young children. It should have been investigated immediately but it slipped through the cracks, but eventually he was arrested."Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 12The Woman responsible for Jared Fogle’s pedophile arrest"It's been a difficult experience for me," said Herman-Walrond. "It's taken its toll, but I have been able to move on. I did it for the better good and I would do it all over again."Photo credit: Coleman-Rayner12 of 12The Woman responsible for Jared Fogle’s pedophile arrestAs Radar reported, Fogle won't be eligible for parole until 2029. A Subway spokesperson denied in a statement any prior knowledge that Fogle was a sex offender: "Our investigation into this matter concluded back in 2015 and no evidence was found to support claims of any prior knowledge of issues surrounding our former spokesman."
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+rochelle-herman-walrond-jared-fogle-interview-pp1The mother of two who bravely exposed Subway spokesman Jared Fogle as a predatory pedophile said she fears he has other victims who are still too scared to go to the police and is speaking to RadarOnline.com to tell them not to be afraid to come forward.Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrest"I do believe there are more victims of his out there," Rochelle Herman-Walrond told Radar in an exclusive interview from her Florida home. "I believed that throughout the whole of his trial. I encourage them to come forward, it's how the healing begins."Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrestHerman-Walrond — whose secret recordings of Fogle telling her how he wanted to have sex with youngsters led to the child sex offender being caged for 15 years — also expressed her disgust that Fogle has yet to show remorse for his sickening crimes.Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrestAs Radar reported, Fogle, who appeared in numerous Subway ads from 2000 to 2015 after boasting of losing 245lbs since eating twice a day at their restaurants, pleaded guilty to child pornography charges and paying for sex with minors. "I didn't know the signs to look out for before and now I do. Of course I'm worried there are more out there like him," 48-year-old Herman-Walrond said.Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrestHerman-Walrond noted she hasn't been in contact with investigators since 38-year-old Fogle's conviction and that a new book she is writing about her experience is helping her cope with the lasting effects of the investigation. "I haven't had any contact with the FBI since the trial," she told Radar. "If the same circumstances came up again or I had the chance to do it again, I would. But I won't lie; it was mentally anguishing."Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrest"It tears your heart out," said Herman-Walrond of the ordeal, "but at least I have my husband and children and we can move forward."Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrestShe also revealed she is dedicating her life to protecting and helping abused kids and she's set to become spokeswoman for an as-yet-unnamed organization helping to save and protect trafficked kids, as well as penning a book on her experience.Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrest"Writing the book is a wonderful outlet for me — it helps me deal with everything. It helps me get through," said Herman-Walrond.Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrest"Fogle's a monster," Herman-Walrond blasted of her former colleague. "I'm not sure there is a way of monitoring the Internet for people like him, but at least his conviction shows people like him, famous people, can and will be caught if they do something as hideous as pedophilia."Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrestTalking about how she triggered the investigation into Fogle, she added: "I sent Subway an email, an online complaint, about the comments he had made about myself and my two young children. It should have been investigated immediately but it slipped through the cracks, but eventually he was arrested."Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrest"It's been a difficult experience for me," said Herman-Walrond. "It's taken its toll, but I have been able to move on. I did it for the better good and I would do it all over again."Photo credit: Coleman-RaynerThe Woman responsible for Jared Fogle’s pedophile arrestAs Radar reported, Fogle won't be eligible for parole until 2029. A Subway spokesperson denied in a statement any prior knowledge that Fogle was a sex offender: "Our investigation into this matter concluded back in 2015 and no evidence was found to support claims of any prior knowledge of issues surrounding our former spokesman."
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Coleman-Rayner 
+
+
+
+
+
+
+
+
+
+/n

@@ -1,0 +1,157 @@
+California Mom Who Attended Every Class With Quadriplegic Son Surprised with Honorary MBA at His Graduation/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e5fe5f83bfdfa77d4f0de6e8a33c8ea0-59a4f0b2e71a7');
+				var iframe = document.getElementById('wpcom-iframe-e5fe5f83bfdfa77d4f0de6e8a33c8ea0-59a4f0b2e71a7');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e5fe5f83bfdfa77d4f0de6e8a33c8ea0-59a4f0b2e71a7'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Judy O’Connor had accompanied her quadriplegic son, Marty, to every class at Chapman University for the past two years as his note-taker and caregiver.
+And on May 20, the mother-son pair proudly attended the 29-year-old student’s MBA graduation in Orange, California. But there was also a very special surprise.
+As the O’Connors stopped to take a graduation photo on the main stage, an emotional announcement was heard over the loudspeaker.
+“We now have a special individual who the faculty, the administration, and the board of trustees have decided to honor with an honorary MBA degree,” the speaker tearfully said. “Mrs. Judith O’Connor has attended all the classes with her son, Marty, who just received his MBA. She has taken notes and worked with Marty throughout his academic career. At the suggestion of her son, and with the support of all the relevant bodies we are honored to award an honorary MBA to Mrs. O’Connor.”
+Mindy Schauer/The Orange County Register via ZUMA
+Judy, a retired elementary school teacher with a business degree from Notre Dame, relocated from Florida to California in 2013 to care for her son, who was paralyzed after falling down a flight of stairs in August 2012.
+“It was a wonderful privilege to be able to do this for him,” Judy said minutes after the ceremony, according to The Orange County Register. “You get a spinal cord injury — I couldn’t fix it, but I could do this for him.”
+Marty, who was a former competitive snowboarder and volleyball player, wanted to honor and thank his mother so asked the university to keep it a secret until graduation day. “She’s been instrumental in the past two years,” he told the OC Register. “There’s no way I would have achieved my level of success without her.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-502d03fb9b741f48056a22ab54ceb446-59a4f0b2e73bc');
+				var iframe = document.getElementById('wpcom-iframe-502d03fb9b741f48056a22ab54ceb446-59a4f0b2e73bc');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-502d03fb9b741f48056a22ab54ceb446-59a4f0b2e73bc'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+During classes, Marty found it difficult to take notes and tests, though the University of Colorado alum worked with an iPad, laptop, voice recognition software and a special stylus.
+“The last two years have been a whirlwind, it’s been extremely challenging but even more so, rewarding,” Marty recalled in a recent feature shared on Chapman’s blog.
+“I’m a geek. I love being in school. I’m not going to lie. I’ve enjoyed every minute of it,” Judy gushed.
+/n

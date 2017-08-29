@@ -1,0 +1,44 @@
+Sam Smith Delivers Dreamy Performance at Oscars 2016 Way to slay, Sam Smith. The singer delivered a smashing performance during Oscars 2016. Smith was nominated for Best Original Song for "Writing's on the Wall," performing th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/744048/sam-smith-delivers-dreamy-performance-at-oscars-2016');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016128/rs_634x1024-160228182319-634-sam-smith-2016-oscars-academy-awards.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sam Smith, 2016 Oscars, Academy Awards, Show");
+	var imageCaption = encodeURIComponent("Sam Smith, 2016 Oscars, Academy Awards, Show");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Way to slay, Sam Smith. The singer delivered a smashing performance during Oscars 2016. Smith was nominated for Best Original Song for "Writing's on the Wall," performing the hit on a dreamy stage in a Dunhill suit. The song is from the James Bond film, Spectre, starring Daniel Craig. This is the singer's very first Oscar nomination. "I am sitting in a coffee shop with my mum and just found out I have an Oscar Nomination," Smith noted recently upon hearing about the news. "Feeling very overwhelmed and just can't believe it. Better pick out a gown. Thank you to The Academy for this incredible honor and recognition." 
+
+The singer admitted he is in no rush to make music post-Oscars saying, "When I go to these big events it's amazing, but you know, this year for me is my time to just pretend like all of that never happened and then walk back into it." In an interview with Ryan Seacrest at the 2016 Grammys, Smith, winner of four awards, told Ryan he needed a little something to ease those Oscars nerves. "An English cup of tea with some British milk," Sam said. "That's all I want." The singer looked anything but nervous during his performance. Congrats, Sam Smith!What did you think of Sam Smith's performance tonight? Share your thoughts in the comments and don't forget to check out all of our Oscars 2016 coverage! 
+/n

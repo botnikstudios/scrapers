@@ -1,0 +1,46 @@
+The Finding Dory star went on to quote two notable public figures, both past and present. "At times like this, it's important to remember what Eleanor Roosevelt said: 'It is better to light a candle than curse the darkness,&#x.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/808391/ellen-degeneres-continues-to-give-americans-hope-for-a-better-tomorrow');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161010/rs_634x1024-161110081656-634.Ellen-DeGeneres-JR-111016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ellen DeGeneres");
+	var imageCaption = encodeURIComponent("Ellen DeGeneres");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Rozman / Warner Bros.
+
+The Finding Dory star went on to quote two notable public figures, both past and present. "At times like this, it's important to remember what Eleanor Roosevelt said: 'It is better to light a candle than curse the darkness,'" she started, before adding, "And I think that is a beautiful thing and I believe you should also remember what Kanye West once said: 'Blocka, blocka, blocka, blocka/ Pour a little champagne, cranberry vodka.'" After all, laughter is the best medicine. Ellen then calls upon that now-viral video starring a heroic baby iguana. She explained, "So if you're feeling a little anxious or scared, I'm here to tell you that things can still turn out to be okay. There is a video that I saw yesterday that might make you feel better. It's from the new documentary, Planet Earth II. It's a baby iguana on a beach. And the beach is filled with iguana-eating snakes. This will make you feel better. Enjoy."
+
+After playing the video, Ellen said, "I'm not gonna show you sad stuff. He got away. What kind of hope would that be for me to show you an iguana that does not [get away?] Doubting that I would show you something that feels good. He made it. That little baby iguana got away! And that's what we're gonna do. We're all gonna do that. If you feel like there's snakes coming at you from every direction."
+
+DeGeneres ended her monologue with words of encouragement: "The snakes may be the fact that you don't feel heard. Or nobody's on your side. Or that you don't like what's on the Starbucks Holiday Cups this year. No matter what your snake is, there is hope for your little iguana."Who knew lizards could be so comforting?!
+/n

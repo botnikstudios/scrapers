@@ -1,0 +1,46 @@
+were probably expecting today! E! News has exclusively learned that Zach Galifianakis and Quinn Lundberg welcomed their second child, a baby boy named Rufus Emmanuel Lundberg on November 7, 2016. The comedic actor and his wife of four years .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/818234/surprise-zach-galifianakis-welcomes-baby-no-2-with-wife-quinn-lundberg');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012710/634.zach.ls.81012_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zach Galifianakis, Quinn Lundberg");
+	var imageCaption = encodeURIComponent("Zach Galifianakis, Quinn Lundberg");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Loccisano/Getty Images
+
+Now this wasn't the baby news you were probably expecting today!E! News has exclusively learned that Zach Galifianakis and Quinn Lundberg welcomed their second child, a baby boy named Rufus Emmanuel Lundberg on November 7, 2016.The comedic actor and his wife of four years are also parents to a 3-year-old son. During a 2014 appearance on the Tonight Show Starring Jimmy Fallon, Zach finally revealed their firstborn's gender an entire year after Lundberg had given birth. "We have a boy!" he shared, adding, "I think fatherhood is just the greatest thing, it really really is."The Between Two Ferns host has kept most of the details surrounding his life off screen extremely private. (And he certainly knows how to keep a secret!)
+
+But earlier this year, Galifianakis stopped by Conan with a little bit more insight into his experience as a father. "I'm strict. He's 2 and right now I have him on a strict exercise routine. When he gets out of the crib it's 50 push-ups right away," the funnyman joked to Conan O'Brien. "To have a really fit 2-year-old and to show that he can kick other 2-year-old's butts is really important."Zach also shared a particular hilarious anecdote about a time his son recognized his dad's face on the side of a bus billboard. The 47-year-old explained, "I didn't know what to say because I hadn't really thought about it. He goes, 'Who's that?' and I don't know why but I said, 'Oh, some idiot.' Thirty seconds later I hear him mumbling to himself, 'Some idiot.'" LOL!
+
+As for whether or not Zach and Quinn hope to welcome even more little ones into their fam, he shared, "I'd like to have 10 kids." Congratulations, you two!
+/n

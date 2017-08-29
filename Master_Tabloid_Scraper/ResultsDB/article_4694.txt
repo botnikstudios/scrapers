@@ -1,0 +1,58 @@
+EXCLUSIVE! Sadie Robertson Spills on DWTS Semi-Finals: Has She Ever Felt Pressure to Sex Up Her Costumes?! As for how the Duck Dynasty star is feeling ahead of tonight's competition?  "I'm a little nervous," the reality s.../n
+The competition is heating up! After wowing viewers and defying dad Willie Robertson in the costume department, Sadie Robertson and partner Mark Ballas are preparing to compete in the semi-finals on tonight's episode of Dancing With the Stars—and the duo is already gunning for that coveted Mirrorball trophy."Hopefully! That's the plan," Robertson told E! News when asked if the two are going to take home the top prize. "It's going to be a little bit hard, but that is definitely the plan." 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/598498/sadie-robertson-spills-on-dwts-semi-finals-has-she-ever-felt-pressure-to-sex-up-her-costumes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141011/rs_634x1024-141111081122-634-2sadie-robertson-dwts.ls.111114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sadie Robertson, Mark Ballas, Dancing with the Stars, DWTS");
+	var imageCaption = encodeURIComponent("Sadie Robertson, Mark Ballas, Dancing with the Stars, DWTS");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC/Adam Taylor
+
+As for how the Duck Dynasty star is feeling ahead of tonight's competition? "I'm a little nervous," the reality star revealed. "Everybody asks, ‘Are you not as nervous now cause you're used to it' and I think that I actually get more nervous as the weeks go on because it's more pressure,  but hey, it's just another Monday." In addition to her skills on the dance floor, Robertson has also been making headlines this season for her sexy costumes, which must always get the seal of approval from the teen's father, Willie Robertson. But has Sadie herself, coming from a conservative Christian background, ever felt uncomfortable with the revealing outfits or choreography? 
+
+
+
+ABC/Adam Taylor
+
+"I have full say in what I wear in my costumes…" the 17-year-old beauty explained. "The wardrobe's great and they do anything that you say or that you want. Everybody on the show has full say on their costumes. So it's not really like Dancing With the Stars has to be a sexy costume if you're on it, it's just that's what they choose and that's what I choose to wear…so everybody has full say in what they wear and so I've never felt any pressure or any hate."As for whether Mark, whose past partners include Bristol Palin and Candace Cameron Bure has ever had trouble creating appropriate choreography? "To be honest not at all…" Ballas, who will be heading on the Dancing With the Stars Live tour beginning Dec. 27, said, referring to Robertson as his "little princess". "I don't really put my girls in overtly sexy costumes anyway...It's been absolutely awesome with Sadie and I've been able to do everything I've wanted to do. We've been very conscious about her costuming, making sure she's comfortable…I'm very sensitive to her needs and whatever she wants she gets. My little princess over here, so it's not been a problem at all. 
+
+NEWS: Sorry, dad! Sadie Robertson's DWTS costume couple be her raciest yet
+
+
+
+ABC/Adam Taylor
+
+On tonight's show, Robertson will be wearing a modest teal number while dancing the Argentine tango to the tune of Ariana Grande's hit song "Problem," competing against the remaining couples, which include Pretty Little Liars' Janel Parrish and Val Chmerkovskiy, Tommy Chong and Peta Murgatroyd, YouTube star Bethany Mota and Derek Hough as well as Whitney Carson and Alfonso Ribiero (who may not be able to compete due to a serious injury). But has Ballas, who joined the show in season five, ever thought about leaving the series as he continues to develop new projects? Watch the clip to find out! 
+/n

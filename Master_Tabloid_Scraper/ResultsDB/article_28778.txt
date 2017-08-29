@@ -1,0 +1,108 @@
+ Life's Still A Beach! From Cindy Crawford To Pam Anderson—20 Scorching Hot Older Ladies.../n
+Who says that growing older means having to put away that sexy little swimsuit for good? Check out RadarOnline.com’s gallery of 20 sexy stars who are growing older — and hotter — as they continue to rock their bikini bodies on beaches all over the world.
+
+					var next_post_url = "http://radaronline.com/photos/kardashian-jenner-feud-divides-family-photos/";
+					var prev_post_url = "http://radaronline.com/photos/bruce-jenner-sex-change-surgery-plans-preparations-discharge-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2015-03-09T17:04:26+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-99.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:25:21+00:00","caption":"Cindy Crawford proved exactly why she became a supermodel superstar when she showed off her fit figure on the beach.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-68.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:13:58+00:00","caption":"Model Nicole Murphy&nbsp;was white hot on a recent beach vacation in Miami.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-19.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:13:59+00:00","caption":"Top Chef host Padma Lakshmi got her day sizzling when she showed off her tone bikini body.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-18.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:00+00:00","caption":"Heather Graham took a dip to cool off during her recent getaway to Rio de Janeiro.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-17.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:00+00:00","caption":"Kelly Bensimon showed off her rock-hard body at the Seminole Hard Rock Hotel and Casino in Hollywood, Florida.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-16.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:01+00:00","caption":"Ramona Singer is proof that age is just a number. Here, the Bravo reality star did a little bikini ditty on the boardwalk in Miami Beach.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-15.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:02+00:00","caption":"Teresa Giudice is currently behind bars, but she undoubtedly dreams about being able to hit the beach in her bikini in 2016.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-14.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:03+00:00","caption":"Hotwives of Orlando star Angela Kinsey was perfectly cast, judging from her day frolicking in the waters off Santa Monica.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-13.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:04+00:00","caption":"Kate Walsh goes for the gold in Miami Beach.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:05+00:00","caption":"Bethenny Frankel creates waves both on and off the small screen.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:06+00:00","caption":"Julia Roberts is clearly still a pretty woman now that she&rsquo;s in her upper-40s.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:07+00:00","caption":"Despite trying to keep under wraps, Halle Berry and her bikini body were the center of attention during one trip to Hawaii.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-9.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:08+00:00","caption":"Teri Hatcher has other women her age seeing green.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-8.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:10+00:00","caption":"Comedian Kathy Griffin&rsquo;s body is no joke!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:10+00:00","caption":"Elle \"The Body\" Macpherson looks just as hot as she did when she was first hitting the runways.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:11+00:00","caption":"Helen Mirren hits 70 years old in July 2015, but she still knows how to make a splash.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:12+00:00","caption":"Lisa Rinna, wearing a cowboy hat and sunglasses, knows how to strut her flawless figure along the beach.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:13+00:00","caption":"Camille Grammer puts her fellow housewives to shame in this bikini.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:14+00:00","caption":"Former Baywatch beauty Pamela Anderson may need to dust off her first aid skills if she continues to rock barely-there bikinis, like this one, in front of awed beachgoers.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-03-06T13:14:15+00:00","caption":"Life is coming up roses for Stephanie Seymour and her sexy floral bikini.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/03\/cindy-crawford-bikini-body-more-older-women-0.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Life’s Still A Beach! From Cindy Crawford To Pam Anderson—20 Scorching Hot Older Ladies Who Rock Amazing Bikini Bodies
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 21 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 21cindy-crawford-bikini-body-more-older-women-992 of 21cindy-crawford-bikini-body-more-older-women-68Cindy Crawford proved exactly why she became a supermodel superstar when she showed off her fit figure on the beach.Photo credit: S3 of 21cindy-crawford-bikini-body-more-older-women-19Model Nicole Murphy was white hot on a recent beach vacation in Miami.Photo credit: S4 of 21cindy-crawford-bikini-body-more-older-women-18Top Chef host Padma Lakshmi got her day sizzling when she showed off her tone bikini body.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 21cindy-crawford-bikini-body-more-older-women-17Heather Graham took a dip to cool off during her recent getaway to Rio de Janeiro.Photo credit: A6 of 21cindy-crawford-bikini-body-more-older-women-16Kelly Bensimon showed off her rock-hard body at the Seminole Hard Rock Hotel and Casino in Hollywood, Florida.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 21cindy-crawford-bikini-body-more-older-women-15Ramona Singer is proof that age is just a number. Here, the Bravo reality star did a little bikini ditty on the boardwalk in Miami Beach.Photo credit: S8 of 21cindy-crawford-bikini-body-more-older-women-14Teresa Giudice is currently behind bars, but she undoubtedly dreams about being able to hit the beach in her bikini in 2016.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 21cindy-crawford-bikini-body-more-older-women-13Hotwives of Orlando star Angela Kinsey was perfectly cast, judging from her day frolicking in the waters off Santa Monica.Photo credit: S10 of 21cindy-crawford-bikini-body-more-older-women-12Kate Walsh goes for the gold in Miami Beach.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 21cindy-crawford-bikini-body-more-older-women-11Bethenny Frankel creates waves both on and off the small screen.12 of 21cindy-crawford-bikini-body-more-older-women-10Julia Roberts is clearly still a pretty woman now that she’s in her upper-40s.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 21cindy-crawford-bikini-body-more-older-women-9Despite trying to keep under wraps, Halle Berry and her bikini body were the center of attention during one trip to Hawaii.14 of 21cindy-crawford-bikini-body-more-older-women-8Teri Hatcher has other women her age seeing green.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+15 of 21cindy-crawford-bikini-body-more-older-women-6Comedian Kathy Griffin’s body is no joke!16 of 21cindy-crawford-bikini-body-more-older-women-26Elle "The Body" Macpherson looks just as hot as she did when she was first hitting the runways.Photo credit: F 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-7'] = {"tag_id":"dfp-tag-mobile_box-7", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+17 of 21cindy-crawford-bikini-body-more-older-women-4Helen Mirren hits 70 years old in July 2015, but she still knows how to make a splash.Photo credit: F18 of 21cindy-crawford-bikini-body-more-older-women-3Lisa Rinna, wearing a cowboy hat and sunglasses, knows how to strut her flawless figure along the beach.Photo credit: F 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-8'] = {"tag_id":"dfp-tag-mobile_box-8", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+19 of 21cindy-crawford-bikini-body-more-older-women-2Camille Grammer puts her fellow housewives to shame in this bikini.Photo credit: A20 of 21cindy-crawford-bikini-body-more-older-women-1Former Baywatch beauty Pamela Anderson may need to dust off her first aid skills if she continues to rock barely-there bikinis, like this one, in front of awed beachgoers.Photo credit: A 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-9'] = {"tag_id":"dfp-tag-mobile_box-9", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+21 of 21cindy-crawford-bikini-body-more-older-women-0Life is coming up roses for Stephanie Seymour and her sexy floral bikini.Photo credit: A 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+cindy-crawford-bikini-body-more-older-women-99cindy-crawford-bikini-body-more-older-women-68Cindy Crawford proved exactly why she became a supermodel superstar when she showed off her fit figure on the beach.Photo credit: Scindy-crawford-bikini-body-more-older-women-19Model Nicole Murphy was white hot on a recent beach vacation in Miami.Photo credit: Scindy-crawford-bikini-body-more-older-women-18Top Chef host Padma Lakshmi got her day sizzling when she showed off her tone bikini body.Photo credit: Scindy-crawford-bikini-body-more-older-women-17Heather Graham took a dip to cool off during her recent getaway to Rio de Janeiro.Photo credit: Acindy-crawford-bikini-body-more-older-women-16Kelly Bensimon showed off her rock-hard body at the Seminole Hard Rock Hotel and Casino in Hollywood, Florida.Photo credit: Scindy-crawford-bikini-body-more-older-women-15Ramona Singer is proof that age is just a number. Here, the Bravo reality star did a little bikini ditty on the boardwalk in Miami Beach.Photo credit: Scindy-crawford-bikini-body-more-older-women-14Teresa Giudice is currently behind bars, but she undoubtedly dreams about being able to hit the beach in her bikini in 2016.Photo credit: Scindy-crawford-bikini-body-more-older-women-13Hotwives of Orlando star Angela Kinsey was perfectly cast, judging from her day frolicking in the waters off Santa Monica.Photo credit: Scindy-crawford-bikini-body-more-older-women-12Kate Walsh goes for the gold in Miami Beach.Photo credit: Scindy-crawford-bikini-body-more-older-women-11Bethenny Frankel creates waves both on and off the small screen.cindy-crawford-bikini-body-more-older-women-10Julia Roberts is clearly still a pretty woman now that she’s in her upper-40s.Photo credit: Scindy-crawford-bikini-body-more-older-women-9Despite trying to keep under wraps, Halle Berry and her bikini body were the center of attention during one trip to Hawaii.cindy-crawford-bikini-body-more-older-women-8Teri Hatcher has other women her age seeing green.Photo credit: Scindy-crawford-bikini-body-more-older-women-6Comedian Kathy Griffin’s body is no joke!cindy-crawford-bikini-body-more-older-women-26Elle "The Body" Macpherson looks just as hot as she did when she was first hitting the runways.Photo credit: Fcindy-crawford-bikini-body-more-older-women-4Helen Mirren hits 70 years old in July 2015, but she still knows how to make a splash.Photo credit: Fcindy-crawford-bikini-body-more-older-women-3Lisa Rinna, wearing a cowboy hat and sunglasses, knows how to strut her flawless figure along the beach.Photo credit: Fcindy-crawford-bikini-body-more-older-women-2Camille Grammer puts her fellow housewives to shame in this bikini.Photo credit: Acindy-crawford-bikini-body-more-older-women-1Former Baywatch beauty Pamela Anderson may need to dust off her first aid skills if she continues to rock barely-there bikinis, like this one, in front of awed beachgoers.Photo credit: Acindy-crawford-bikini-body-more-older-women-0Life is coming up roses for Stephanie Seymour and her sexy floral bikini.Photo credit: A 
+
+
+
+
+
+
+
+
+
+/n

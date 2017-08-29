@@ -1,0 +1,46 @@
+Teen Mom 2 Star Briana DeJesus Shares First Photo of Daughter Stella DeJesus has not yet confirmed who Stella's father is, but it is expected to be a subject of Teen Mom 2's upcoming season, which premieres on July 17 on MTV.  As f.../n
+A star is born!While fans were enjoying the Fourth of July fireworks, Teen Mom 2 castmate Briana DeJesus unveiled the first photo of someone who's been lighting up her world—her newborn daughter, Stella. "My StellyBelly girl," the reality star captioned the shot of her baby swaddled in a blanket with a hat affixed with a bow atop her head. The photograph comes just days after DeJesus gave birth to her second child on July 2. She welcomed little Stella at 1:57 p.m. on Sunday in Florida and the baby weighed in at 6 pounds and 11.6 ounces. At the time, she was 19.5 inches long. DeJesus is also mom to 5-year-old daughter Nova, who she welcomed with ex Devoin Austin. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864953/teen-mom-2-star-briana-dejesus-shares-first-photo-of-daughter-stella');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201765/rs_634x793-170705062608-BrianaDeJesus-Stella.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Briana DeJesus, Stella");
+	var imageCaption = encodeURIComponent("Briana DeJesus, Stella");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+DeJesus has not yet confirmed who Stella's father is, but it is expected to be a subject of Teen Mom 2's upcoming season, which premieres on July 17 on MTV. As for the 23-year-old mom of two, Briana has been counting down the days to Stella's arrival and chronicling her growing baby with ultrasound photos shared on Instagram. "God, was today such a hectic day. I had about a million break downs but I'm glad I was able to spend my 23rd birthday celebrating my daughter's baby shower and pulling this off!" she wrote on social media in May. She continued, "Thank you for everyone who came out of their way to make it special for me. I feel so huge and I am so uncomfortable in my skin but that only means that the time is coming! Stella, you will be loved and everybody can't wait to meet you!"
+
+Welcome to the world, Stella!
+/n

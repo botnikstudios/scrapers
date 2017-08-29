@@ -1,0 +1,44 @@
+Caitlyn Jenner Returns to the ESPYs 1 Year After Receiving Arthur Ashe Courage Award Last year, Caitlyn wowed in a form-fitting white Atelier Versace gown, but it wasn't just her dress that made headlines. Cait gave an emotional and mov.../n
+Caitlyn Jenner just made her return to the 2016 ESPY Awards!One year after receiving the Arthur Ashe Courage Award, the I Am Cait star returned to the show in a stunning white off the shoulder dress with floor-length sleeves. She completed her super-chic outfit with silver heels and a diamond bracelet.Prior to hitting the carpet, Kim Kardashian shared a few Snapchats which showed Cait trying on three different gowns in the same style. "Alright guys, we're at Caitlyn's getting her ready for the ESPYs with none other than Michael Costello and he's sewing up my top," Kim said in one Snapchat video with the designer.Costello also posted a pic with Cait and Kim on Instagram with the caption, "Was so fun helping @caitlynjenner getting ready for the @espys today along side with my friend @kimkardashian glam @robscheppy . #espys #caitlynjenner #kimkardashian."After helping Caitlyn get ready for the show, Kim did a live-stream where she said that she approves of Caitlyn's overall ESPYs look, but she just isn't into her shoes.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/i_am_cait/news/779801/caitlyn-jenner-returns-to-the-espys-1-year-after-receiving-arthur-ashe-courage-award');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015615/rs_634x1024-150715195102-634-2caitlyn-jenner-espys-awards.ls.71515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caitlyn Jenner, ESPY Awards");
+	var imageCaption = encodeURIComponent("Caitlyn Jenner, ESPY Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Last year, Caitlyn wowed in a form-fitting white Atelier Versace gown, but it wasn't just her dress that made headlines. Cait gave an emotional and moving speech while accepting the Arthur Ashe Courage Award in front of a packed house of her peers. Kim, Khloe Kardashian, Kourtney Kardashian, Kendall Jenner and Kylie Jenner were also in the audience cheering on their dad, as was Caitlyn's mom Esther.
+/n

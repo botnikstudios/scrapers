@@ -1,0 +1,57 @@
+Bridal Fashion Week Spring 2016: Best Looks From Theia, Lela Rose & More! We've asked Keija Minor, editor in chief at Brides (you've met her before!), to be our guest writer for Bridal Fashion Week, which kicked off yesterday i.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/647472/bridal-fashion-week-spring-2016-the-best-shows-from-day-1');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015317/rs_634x1024-150417071421-634Aurora-Theia-Bridal.jl.041715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("THEIA, Spring 2016 Bridal");
+	var imageCaption = encodeURIComponent("THEIA, Spring 2016 Bridal");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy THEIA
+
+We've asked Keija Minor, editor in chief at Brides (you've met her before!), to be our guest writer for Bridal Fashion Week, which kicked off yesterday in New York City. Keep reading as Keija breaks down the biggest trends and most stunning looks of the spring 2016 collections.  It's Bridal Fashion Week! Huh? Yes, that's right. Every April and October, bridalistas—dress designers, boutique owners, engaged celebs, tastemakers and editors—descend on NYC to see the new crop of wedding dresses from designers like Carolina Herrera, Monique Lhuillier and Vera Wang. For seven days, we editors live out of an SUV (stocked with Kind bars and back-up cell-phone chargers), bopping from one show to the next. In a sea of white and ivory, it takes a uniquely talented artist to design a collection that stands out, and over the next few days, I'll bring you those highlights here. Starting with…drum roll, please…
+
+Angel SanchezAngel, whose eveningwear has adorned everyone from Taylor Swift  to Eva Longoria, took 3-D flowers to the next level. Backstage after the show, Angel showed me exactly how he created these new embellishments. The 100+ tiny upright blooms on the shoulders of a high-low gown were made from plastic straws that were individually cut, peeled into petals and embellished with a single crystal. (How much patience did that take to make?!) Other standouts included a new spin on the capelet, where it was built into a dress with a whole lotta cleavage, a textured wide-leg-pants look, and a classic lace gown given a modern twist with appliquéd flowers. Well done, Angel!
+
+
+
+Courtesy THEIA
+
+TheiaInspired by a Victorian artist who illustrated fairy tales, Theia designer Don O'Neill brought whimsy and fantasy to his latest collection. A skirt and crop top were swarmed by butterflies—in a good way!—with appliquéd and embroidered insects covering both. For the Bianca Jagger-wannabe bride, a white silk tux was perfectly proportioned. And another crop-top-and-skirt look featured lace with gorgeous art-nouveau macro blooms. Love!
+
+
+
+Thomas Concordia/Getty Images
+
+Lela RoseAt Lela Rose it was all about the details. Anyone can do a matelassé gown, but one with the subtlest hint of sparkle here and there among the textured flowers? Genius. Or what about a simple sheath in front with sheer lace cutout sides that run over the entire back? Or an organza gown with the coolest corded lace patterns I've ever seen? From a designer who can be counted on to wow every season, this was one of her best collections yet.It's been quite a day—so what's the best way to end it? With a cocktail at the exclusive Brides preview of One World Observatory's special event space on the 102nd floor of the World Trade Center. Lucky for me, that's only about 70 stories above my own office. Check in tomorrow for more from the Bridal Fashion Week runways.
+/n

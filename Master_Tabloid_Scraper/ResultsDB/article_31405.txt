@@ -1,0 +1,58 @@
+Lizzie McGuire's Ethan Craft, Clayton Snyder, Is Super-Hot Now—See Photos and Find Out What He's Been Up To! Lizzie McGuire was definitely onto something when she lusted after Ethan Craft... ...because that boy turned into a fox! I.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/682037/lizzie-mcguire-s-ethan-craft-clayton-snyder-is-super-hot-now-see-photos-and-find-out-what-he-s-been-up-to');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015630/rs_634x843-150730131751-634.Ethan-Craft-Lizzie-McGuire.ms.073015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Clayton Snyder, Ethan Craft, Lizzie McGuire");
+	var imageCaption = encodeURIComponent("Clayton Snyder, Ethan Craft, Lizzie McGuire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney
+
+Lizzie McGuire was definitely onto something when she lusted after Ethan Craft......because that boy turned into a fox!It's been more than 10 years since the hit Hilary Duff series went off the air (!!!) and Clayton Snyder, who played the high school hottie, is now 27. He's traded in his floppy, amazing and "glowing" honey brown locks (rinse, lather, but don't repeat) for a shorter, darker 'do and is even more studly now.So what's he been up to this whole time?1. Still actingIn recent years, Snyder has appeared on shows such as Rules of Engagement and NCIS.
+
+2. Rocking out...turn it up!
+
+3. Splash!The actor attended Pepperdine University in Malibu, California and was a member of the water polo team. In 2011, after he graduated, he competed in the World University Games in China and came in fourth place.
+
+4. Facing challenges
+
+5. Doing improv
+
+6. Being a really cool boyfriendSorry ladies, it appears he's taken...and smitten.
+
+7. Working to better himself
+
+8. Making new friends...with his hair pushed back.
+
+9. Reuniting with old friendsHere he is with Lalaine, who played Lizzie's BFF Miranda, and Jake Thomas, who played Lizzie's younger brother Matt.We're just going to leave these here.
+/n

@@ -1,0 +1,60 @@
+UPDATE! Jim Carrey Challenges Mother of Late Girlfriend Cathriona White Over Wrongful Death Lawsuit UPDATE: Earlier today, Brigid Sweetman, the mother of Jim Carrey's late Irish girlfriend Cathriona White, and Mark Burton, White's .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/817462/jim-carrey-challenges-mother-of-late-girlfriend-cathriona-white-over-wrongful-death-lawsuit');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015829/rs_634x754-150929163151-634-jim-carrey-cathriona-white.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jim Carrey, Cathriona White");
+	var imageCaption = encodeURIComponent("Jim Carrey, Cathriona White");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+MaxNY/FAMEFLYNET PICTURES 
+
+UPDATE: Earlier today, Brigid Sweetman, the mother of Jim Carrey's late Irish girlfriend Cathriona White, and Mark Burton, White's estranged ex-husband, have filed a formal amended, consolidated complaint against the actor for the wrongful death of his ex-girlfriend.In documents obtained by E! News, Sweetman's second amended complaint against the 55-year-old actor calls for Burton and Sweetman's separate lawsuits to be combined into one joint wrongful death lawsuit. White's mother and her estranged husband are listed as co-petitioners against the star.Michael Avenatti, attorney for Sweetman and Burton, told E! News: "We look forward to Mr. Carrey being required to explain to a Los Angeles jury why he gave Ms. White three STD's, lied to her about it, demeaned her and then ultimately provided her with the drugs she used to take her own life."Avenatti says the legal team anticipates the trial, which is slated for April 26, 2018, lasting 20 days.The lawyer said that the next big event in the Truman Show actor's case will be his deposition in August. His video-taped deposition will take place in Los Angeles attorney's office.—————Jim Carrey has dropped his request for the mother of his late ex-girlfriend to pay $372,000 in the wrongful death case. In court documents obtained by E! News, the actor withdrew his motion with prejudice. We've also learned that the parties are not working on a settlement. In fact, the case is expected to go to trial in April 2018 with Jim possibly testifying.—————Jim Carrey is firing back at allegations made in a wrongful death lawsuit filed against him by the mother of Cathriona White, his late Irish girlfriend.The hair and makeup artist, who dated the actor on and off since 2012, committed suicide last year by overdosing on prescription medications his lawyer says she had stolen from him.In October, White's mother Brigid Sweetman sued Carrey, blaming him for her daughter's death. She claimed he "knowingly" gave her "three sexually transmitted diseases" "without warning her," then "lying to her about it, dumping her out of concern for saving his own public image, calling her a 'whore' and shaming her, and then using his high-priced Hollywood lawyers and 'fixers' to intimidate and threaten her in an effort to silence her."This week, Carrey filed papers in response to Sweetman's lawsuit, seeking to strike "numerous irrelevant, false and improper" allegations she had made.
+
+Carrey calls Sweetman's lawsuit a "shameful shakedown for money" and accuses her of seeking to "profit from the suicide-death of her long-estranged daughter" who "chose to end her own life in 2015 on the third anniversary of her beloved father's death.""The false, irrelevant and improper allegations were inserted for the sole purpose of harassing, embarrassing and humiliating Carrey in an effort to shame him into an unmerited settlement and should be stricken in their entirety," Carrey's filing states.
+
+
+
+JosiahW/AKM-GSI
+
+The documents state Carrey met White at a Guns N' Roses concert in 2012 and then spent "substantial time together as a couple at his house in Los Angeles," broke up in mid-2013 "amid White's unfounded accusations that he gave her STDs, which Carrey denied." They say in November 2014, White "reached out to Carrey to rekindle their relationship, apologizing to Carrey for her prior accusations" and that the two "remained a loving couple" until her death.White was found dead in her Los Angeles home on Sept. 28, 2016. According to a coroner's report included in Carrey's filing, she died of suicide by overdosing on Propranolol, used to treat hypertension, chest pain or migraines, Zolpidem, used to treat insomnia, and the painkillers Oxycodone and Oxymorphone. 
+
+In his filing, Carrey says he did not illegally obtain or provide White with the drugs that killed her, as Sweetman claims."Indeed, no facts whatsoever are alleged as to how Carrey purportedly furnished drugs to White and the Complaint merely parrots the conclusory language of the Drug Dealer Liability Act, alleging no facts at all," the filing states."White loved Carrey, viewed him (and not Sweetman) as her family; and White was not upset with him at the time she took her own life by overdosing on prescription medication," the filing says, adding that White had "sought out and stole Carrey's prescription medication from his home without his knowledge." 
+
+
+
+JosiahW/AKM-GSI
+
+The lawsuit said White left two suicide notes to Carrey, in which she told him she loved him, asked him to "forgive" her and called him her "family." White also asked the actor to divide her possessions and make her funeral arrangements.Carrey had attended her burial in her native Ireland, even helping carry her coffin. Her mother claims the actor had offered to pay for the funeral expenses and "then reneged."Carrey's attorney wants the court to strike that claim as well, as well as another claim she made, that the actor owns a private jet, which he does not. He dubbed both allegations "irrelevant" and "improper." 
+
+White's estranged husband, Mark Burton, had also filed a wrongful death lawsuit against Carrey in September, also claiming the actor had illegally obtained the medications White had overdosed on and had provided them to her and also accusing him of giving White STDs."I will not tolerate this heartless attempt to exploit me or the woman I loved," the actor had said in response to the lawsuit. "Cat's troubles were born long before I met her and sadly her tragic end was beyond anyone's control. I really hope that some day soon people will stop trying to profit from this and let her rest in peace."Originally published December 21, 2016 at 12:08 p.m. PST
+/n

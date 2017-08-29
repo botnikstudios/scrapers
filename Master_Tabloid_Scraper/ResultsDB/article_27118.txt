@@ -1,0 +1,42 @@
+Millions in Mad Money for Madge In recent years the Material Girl seemed to have moved to a higher spiritual plane, what with the whole Ray of Light thing and the odd bits of tabla and other Eastern touches tossed into her tracks. But appare.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/184/millions-in-mad-money-for-madge');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20070708/293.Madonna2.070809.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Madonna");
+	var imageCaption = encodeURIComponent("Madonna");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jon Furniss/WireImage.com
+
+In recent years the Material Girl seemed to have moved to a higher spiritual plane, what with the whole Ray of Light thing and the odd bits of tabla and other Eastern touches tossed into her tracks. But apparently Madonna has not entirely shed this worldly vale or totally refrained from worshipping the almighty dollar. Whew! We were worried there for sec.According to reports, at the end of her current tour, Madonna will play two private parties in Dubai for a whopping $25 million. You go, girl, but don't spend it all on gym memberships. Get out and enjoy.Madge is reportedly getting $15 mill for one 90-minute private show, while a second bash will pony up a paltry $10. Boy, that first guy is really getting screwed.—via New York Daily News
+/n

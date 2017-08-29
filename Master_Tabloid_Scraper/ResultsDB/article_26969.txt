@@ -1,0 +1,45 @@
+Patricia Arquette: "I Paid More Money to My Babysitter and My Dog Walker Than I Made on Boyhood" Patricia Arquette's performance in Boyhood earned her a Golden Globe nomination and an Oscar nod, but signing on for the role did.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/615115/patricia-arquette-i-paid-more-money-to-my-babysitter-and-my-dog-walker-than-i-made-on-boyhood');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015011/rs_634x1024-150111152141-634-golden-globes-patricia-arquette-.ls.11115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patricia Arquette, Golden Globes");
+	var imageCaption = encodeURIComponent("Patricia Arquette, Golden Globes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Patricia Arquette's performance in Boyhood earned her a Golden Globe nomination and an Oscar nod, but signing on for the role didn't exactly bring in the big bucks.In fact, the 46-year-old actress told WENN she "paid more money to my babysitter and my dog walker than I made on Boyhood, and to be in Boyhood!"Her commitment to the film, now a Best Picture nominee, was significant, too. Filming began in 2002 and required Arquette and her co-stars, including Ethan Hawke, to shoot for one week a year for 12 years."It's important to me as an actor to be able to make a living," she clarified. Arquette is grateful, too, for her roles on shows like CSI and Medium. As she put it, "Television allows you to make a living, feed your children and send them to college. And to have the luxury to make choices of doing what you think matters."
+
+"It blows my mind [we won a Golden Globe for Best Picture] because we didn't even know if people would even accept this movie and then to find at first that people were moved by the movie," she told WENN. "Winning totally blew our minds. I'm so happy for Rick [Richard Linklater, Boyhood's director] and so happy for the producers, because they gave four million dollars. They gambled on a movie with no safety net, no contracts past seven years…You could've ended up with nothing."Big risk, big reward! In the meantime, Arquette has returned to television and will star in CSI: Cyber this year. "I want to work in whatever way I want to work," she told the New York Times, "and I don't want it dictated to me by any society.""The idea of network TV is you could entertain old people at home, people living in a trailer court, people who don't have money to go to movies and get a babysitter,"she said. "There's something very snobby about the way the film and theater community used to look at television. I love small weird art movies, and I love free mass entertainment."
+/n

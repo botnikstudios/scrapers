@@ -1,0 +1,56 @@
+EXCLUSIVE! Vanderpump Rules' Scheana Marie Reveals the Moment She Knew Her Marriage Was Over After their friends Katie Maloney and Tom Schwartz tied the knot in August 2016, Scheana suggested to Mike that they go on a second honeymoon i.../n
+Scheana Marie didn't want to give up on Mike Shay.But, had she stayed with him, she would have given up on herself. After the season finale of Vanderpump Rules aired Monday (the three-part reunion kicks off at 9 p.m. Apr. 3 on Bravo), E! News' Will Marfuggi interviewed Scheana to find out why her two-year marriage really ended."There were a lot of things from the beginning of our marriage that kind of tainted the whole relationship. Three months in I found out he had a pill problem. Right before our one-year anniversary, I saw some inappropriate text messages," said Scheana, who married Mike Shay in 2014. "Then, fast forward to our second anniversary, and I'm just trying to pretend like everything's fine, because in my mind, we're married—for better or for worse."
+
+"'This is the worse part, but we have the rest of our lives to figure it out. This is a temporary rough patch.'"But wishful thinking wasn't enough to save the former couple's marriage. "I kept telling myself, 'It'll get better. It'll get better.' And it did. In the beginning of 2016, everything was genuinely good. Then the cameras turned on again, and then he changed. That's when I found out he started using again. I didn't know that at the time," said Scheana, who is now dating Robert Valletta. "My mom and other people around me had noticed a change in his behavior. I was either oblivious to it or I just didn't want to believe what I was seeing right in front of my face."
+
+Whenever friends or family would question Mike's behavior, Scheana would make excuses to protect him—and to keep up the façade that everything was A-OK. "In hindsight, I'm like, 'Oh, my God!'" the reality star admitted. "All of these things are plain as day and I just didn't see it."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/839651/vanderpump-rules-scheana-marie-reveals-the-moment-she-knew-her-marriage-was-over');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017227/rs_634x846-170327072627-634.scheana-marie-1.32717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Scheana Shay");
+	var imageCaption = encodeURIComponent("Scheana Shay");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tommy Garcia/Bravo
+
+After their friends Katie Maloney and Tom Schwartz tied the knot in August 2016, Scheana suggested to Mike that they go on a second honeymoon in Hawaii to start over. The romantic getaway was "fine," but after they returned home to L.A., Mike "was always in the studio and I was always at home by myself. We were growing apart more and more," she said. "Towards the end of October, he just didn't come home one day." The timing couldn't have been worse, as Scheana was dealing with a death in the family. "During those two weeks I found out he was buying pills again. That's when I was like, 'I'm going to give him one more chance to tell me the truth.'"
+
+When she finally spoke to Mike, "I looked him in the eyes and he lied to me. That's when I was like, 'Now I don't have another choice. I know I fully cannot trust you ever again.'"While it wasn't what she wanted, Scheana said, "A divorce was the only thing we could do."
+
+"I had never considered getting a divorce whatsoever, because I took our vows very seriously. This was the 'for worse' part. I just thought that we would be able to get through it, because he was still my best friend. We had so much fun together. I felt like all of those things would outweigh the bad, and eventually, we'd pick ourselves back up and be fine," she told E! News. "During those two weeks, I was still willing to forgive him for leaving me the day someone passed away and taking all of this money out of my account and all of these things. I'm like, 'I can get past pretty much anything.' I'm a very forgiving person—as we see on the show."
+
+Two days before her on-camera reunion with Mike, Scheana joined her fellow cast members for a Vanderpump Rules premiere viewing party at Kristen Doute's apartment. In the midst of their excitement, Scheana was told her husband was buying pills again—and that flipped the switch."I was like, 'I'm now done. I'm done. I'm done. Nothing at all can change my mind. I was willing to forgive you after you left me, and try and move past that, and work through it and start over and become best friends again and do all of this.' I was still willing to try," Scheana said. "The second I found out he was still lying to me—and had been for six to eight months—I was done."
+
+The divorce "completely" took Mike by surprise. "How can we ever have a real future when I can't trust you? You're lying. You're stealing. It was just one thing after another that I kept forgiving, but then something worse would happen. It became just unforgivable at that point," Scheana shared. "I couldn't ever move forward with him when so much trust had been broken."To see what Mike has to say, watch the Vanderpump Rules reunion, beginning Apr. 3 at 9 p.m.(E! and Bravo are both members of the NBCUniversal family.)
+/n

@@ -1,0 +1,45 @@
+on Feb. 26, is an action-packed thriller about a group of dirty cops and ex-military men (Reedus, Chiwetel Ejiofor, Aaron Paul, Anthony Mackie and Clifton Collins Jr.) who are forced by a Russian mob boss (Kate Winslet) have to pull off one .../n
+Fighting zombies does the body good.But The Walking Dead's Norman Reedus insists he doesn't overdue it at the gym."I try and stay in somewhat shape for The Walking Dead but I think it would be stupid if I took off my shirt on The Walking Dead and had a six-pack," the actor told me while promoting his new movie Triple 9. "It just doesn't work. You would look at it and go, 'Ponce! Phony actor working on his abs. You know what I mean?"But what about his rather impressive biceps on the cover of the new Men's Fitness?
+
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/740998/norman-reedus-reveals-secret-to-his-enormous-biceps-on-the-cover-of-men-s-fitness');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016117/rs_634x836-160217101157-634-norman-reedus-mens-fitness.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Norman Reedus, Men's Fitness");
+	var imageCaption = encodeURIComponent("Norman Reedus, Men's Fitness");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Men's Fitness
+
+"This is how it works—they give you sandbags and you have to stand in front of thirty people and go like this until you feel like you are going to pee in your pants," Reedus explains as he moves his arms as if he's doing bicep curls. "And then they take a picture and you do it some more…That's how they jack you up. It's all done with sandbags."Reedus isn't exactly comfortable with his sex symbol status."The first time I ever saw my name in print was for 8MM, and it was a quote from [director] Joel Schumacher that said, 'You know, Norman's not good-looking. He's really interesting looking, but he's not good-looking at all,'" he says in his Men's Fitness interview. "And I was like, 'Thanks jerk.' So I'm not that guy. I'm not People's sexiest guy. Never ever going to be that guy. I don't try to be like that, and I don't even want to be like that."Triple 9, in theaters on Feb. 26, is an action-packed thriller about a group of dirty cops and ex-military men (Reedus, Chiwetel Ejiofor, Aaron Paul, Anthony Mackie and Clifton Collins Jr.) who are forced by a Russian mob boss (Kate Winslet) have to pull off one last heist. Rounding out the cast are Casey Affleck, Woody Harrelson, Gal Gadot and Teresa Palmer.
+/n

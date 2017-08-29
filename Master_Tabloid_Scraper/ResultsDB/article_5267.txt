@@ -1,0 +1,44 @@
+Betty Cleans Up Good at ALMA Awards Ugly Betty had a beautiful night at the 2008 ALMA Awards. Not only did the recently relocated series take home the award for best Latino-led ensemble cast at the Sunday ceremony, but star America Ferrera w.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/24211/betty-cleans-up-good-at-alma-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080818/293.Ferrera.America.081808.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("America Ferrera");
+	var imageCaption = encodeURIComponent("America Ferrera");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Shearer / Getty Images 
+
+Ugly Betty had a beautiful night at the 2008 ALMA Awards.Not only did the recently relocated series take home the award for best Latino-led ensemble cast at the Sunday ceremony, but star America Ferrera walked away with the top prize of the night, Entertainer of the Year.Ferrera earned the accolade not only for her work on the ABC hit, but for her offscreen efforts to encourage youth to become politically active.The 24-year-old star also brought her magic awards touch to La Misma Luna, an indie film in which she had a small part. The movie took home the Special Achievement Award for a Spanish-language motion picture.
+
+Plenty of other big names got big props during the Eva Longoria Parker-hosted ALMA ceremony, honoring the top Latino performers in the arts.Two and a Half Men's Charlie Sheen and Scrubs' Judy Reyes scored the lead TV comedy acting prizes, while Battlestar Galactica's Edward James Olmos and Without a Trace's Roselyn Sanchez owned the drama side.In the supporting TV acting categories, Lost's Jorge Garcia and Eli Stone's Julie Gonzalo reigned.Shakira was given the Humanitarian Award for her efforts in the area of children's education, while Linda Ronstadt took home the Trailblazer Award for her contribution to music.And, as no award show is complete without a Zac Efron red carpet appearance, the HSM crew was on hand to support High School Musical 2 director Kenny Ortega, who won the Special Achievement Award for the made-for-TV movie.A two-hour version of the show, featuring performances from the Black Eyed Peas and the Cheetah Girls, will air Sept. 12 on ABC.Here's the complete list of winners:Entertainer of the Year: America FerreraHumanitarian Award: ShakiraTrailblazer Award: Linda RonstadtPerformance by a Latino Ensemble in a TV Series: Ugly BettyActor in a TV Series, Drama: Edward James Olmos, Battlestar GalacticaActress in a TV Series, Drama: Roselyn Sanchez, Without A TraceActor in TV Series, Comedy: Charlie Sheen, Two and a Half MenActress in a TV Series, Comedy: Judy Reyes, ScrubsSupporting Actor in a TV Series, Drama: Jorge Garcia, LostSupporting Actress in a TV Series, Drama: Julie Gonzalo, Eli StoneDirector of a TV Series: Linda Mendoza, Ugly BettyWriting for a TV Series: Gloria Calderon Kellett, How I Met Your MotherComedy Special: George Lopez: America's MexicanMade-for-TV Documentary: American Experience: Roberto ClementeCareer Achievement Award: David Wader, stage managerSpecial Achievement in Fashion: Narciso RodriguezSpecial Achievement Award: Spanish-Language Motion Picture: La Misma LunaSpecial Achievement Award: Director of a Made-for-TV movie: Kenny Ortega, High School Musical 2
+/n

@@ -1,0 +1,84 @@
+Kate Upton Looks Flawless During Studio Svedka Party In LA/n
+
+					var next_post_url = "http://radaronline.com/photos/corinne-olympios-walking-dog-bachelor-in-paradise-investigation-pics/";
+					var prev_post_url = "http://radaronline.com/photos/pierce-brosnan-wife-keely-shaye-rekindle-romance-italian-vacation-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-16T11:27:15+00:00","caption":"Thursday night in Los Angeles, actress and model Kate Upton attended STUDIO SVEDKA, celebrating SVEDKA Vodka\u2019s bold new flavor, Blue Raspberry.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-attends-studio-svedka-party-la-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:46+00:00","caption":"Upton enjoyed a performance by Real Housewives of Beverly Hills star Erika Jayne and a DJ set by actress and singer Rumer Willis.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:47+00:00","caption":"The model looked flawless in a blue Roland Mouret dress with YSL shoes, while Willis opted for a bright pink Styland blazer, Zac Posen top, Naked Wardrobe skirt and Louboutin shoes.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:48+00:00","caption":"The singer was also joined by sister Tallulah Willis.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:49+00:00","caption":"Throughout the night, guests sipped on signature SVEDKA Blue Raspberry cocktails, snacked on treats passed by electro-retro roller girls and indulged in bright blue and pink SVEDKA-spiked ice cream.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:50+00:00","caption":"In between Jayne\u2019s performance, guests also enjoyed the Overheard LA photo booth and shared their custom @overheardla memes.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:52+00:00","caption":"The two have even bought a home together!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:51+00:00","caption":"As readers know, 25-year-old Upton is still planning her wedding to longtime boyfriend Justin Verlander, after getting engaged in 2016.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:53+00:00","caption":"There's no doubting this curvy bombshell is more than ready to walk down the aisle.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T14:13:54+00:00","caption":"How do you think the bride-to-be looked at the SVEDKA party? Sound off in the comment section.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/kate-upton-summer-body-at-studio-svedka-party-photos09.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Kate Upton Looks Flawless During Studio Svedka Party In LA
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 10 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10Thursday night in Los Angeles, actress and model Kate Upton attended STUDIO SVEDKA, celebrating SVEDKA Vodka’s bold new flavor, Blue Raspberry.Photo credit: INSTAR Images2 of 10Upton enjoyed a performance by Real Housewives of Beverly Hills star Erika Jayne and a DJ set by actress and singer Rumer Willis.Photo credit: INSTAR Images3 of 10The model looked flawless in a blue Roland Mouret dress with YSL shoes, while Willis opted for a bright pink Styland blazer, Zac Posen top, Naked Wardrobe skirt and Louboutin shoes.Photo credit: INSTAR Images4 of 10The singer was also joined by sister Tallulah Willis.Photo credit: INSTAR Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 10Throughout the night, guests sipped on signature SVEDKA Blue Raspberry cocktails, snacked on treats passed by electro-retro roller girls and indulged in bright blue and pink SVEDKA-spiked ice cream.Photo credit: INSTAR Images6 of 10In between Jayne’s performance, guests also enjoyed the Overheard LA photo booth and shared their custom @overheardla memes.Photo credit: INSTAR Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 10The two have even bought a home together!Photo credit: INSTAR Images8 of 10As readers know, 25-year-old Upton is still planning her wedding to longtime boyfriend Justin Verlander, after getting engaged in 2016.Photo credit: INSTAR Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 10There's no doubting this curvy bombshell is more than ready to walk down the aisle.Photo credit: INSTAR Images10 of 10How do you think the bride-to-be looked at the SVEDKA party? Sound off in the comment section.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: INSTAR Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Thursday night in Los Angeles, actress and model Kate Upton attended STUDIO SVEDKA, celebrating SVEDKA Vodka’s bold new flavor, Blue Raspberry.Photo credit: INSTAR ImagesUpton enjoyed a performance by Real Housewives of Beverly Hills star Erika Jayne and a DJ set by actress and singer Rumer Willis.Photo credit: INSTAR ImagesThe model looked flawless in a blue Roland Mouret dress with YSL shoes, while Willis opted for a bright pink Styland blazer, Zac Posen top, Naked Wardrobe skirt and Louboutin shoes.Photo credit: INSTAR ImagesThe singer was also joined by sister Tallulah Willis.Photo credit: INSTAR ImagesThroughout the night, guests sipped on signature SVEDKA Blue Raspberry cocktails, snacked on treats passed by electro-retro roller girls and indulged in bright blue and pink SVEDKA-spiked ice cream.Photo credit: INSTAR ImagesIn between Jayne’s performance, guests also enjoyed the Overheard LA photo booth and shared their custom @overheardla memes.Photo credit: INSTAR ImagesThe two have even bought a home together!Photo credit: INSTAR ImagesAs readers know, 25-year-old Upton is still planning her wedding to longtime boyfriend Justin Verlander, after getting engaged in 2016.Photo credit: INSTAR ImagesThere's no doubting this curvy bombshell is more than ready to walk down the aisle.Photo credit: INSTAR ImagesHow do you think the bride-to-be looked at the SVEDKA party? Sound off in the comment section.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: INSTAR Images 
+
+
+
+
+
+
+
+
+
+/n

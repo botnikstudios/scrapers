@@ -1,0 +1,44 @@
+Barbara Walters Returning to The View as a Guest Well, that didn't take very long: Barbara Walters is returning to The View on Friday, June 27, ABC announced. This will be Walters' first time back as guest on the long-running talk .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/553517/barbara-walters-returning-to-the-view-as-a-guest');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014416/rs_634x1024-140516085414-634.Barbara-Walters-The-View-Final-Episode.jl.051614.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Barbara Walters, The View");
+	var imageCaption = encodeURIComponent("Barbara Walters, The View");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC
+
+Well, that didn't take very long: Barbara Walters is returning to The View on Friday, June 27, ABC announced. This will be Walters' first time back as guest on the long-running talk show she created and recently retired from.Walters' episode will tape on Wednesday, June 25. During her appearance, the legendary broadcaster will discuss her interview with Peter Rodger, the filmmaker father of Elliot Rodger. Elliot Rodger is suspected of killing six people and injuring 13 before taking his own life near the University of California, Santa Barbara last month. Walters interviewed Peter Rodger for a special edition of 20/20 airing on Friday, June 27.
+
+Walters said farewell to The View on May 16 after 17 seasons and close to 4,000 shows. However, she still remains active on the program as executive producer alongside Bill Geddie. Walters' final episode as a regular cohost in May had 5.2 million viewers and was the show's No. 4 most-watched telecast in its 17-year history.The panel for The View currently consists of Whoopi Goldberg, Sherri Shepherd and Jenny McCarthy. The show celebrated Walters' tenure with a celebration honoring her career on and off the series.The View airs weekdays at 11 a.m. on ABC.
+/n

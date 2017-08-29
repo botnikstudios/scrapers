@@ -1,0 +1,52 @@
+Queen Latifah a Best Supporting Actress Oscar nomination for the 2002 film adaptation (co-star Catherine Zeta-Jones won for her role as jailhouse vixen Velma Kelly).  Check out the top seven reasons Leakes will absolutely dominate below: 1. .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/709211/nene-leakes-will-return-to-broadway-in-chicago-5-reasons-she-ll-kill-at-as-matron-mama-morton');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015624/rs_634x1024-150724093436-634.NeNe-Leakes-Craigs-JR-72415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("NeNe Leakes");
+	var imageCaption = encodeURIComponent("NeNe Leakes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+EDO/AKM-GSI
+
+Broadway just can't get enough of NeNe Leakes. The Real Housewives of Atlanta alum will return to the Big Apple just a year after making her stage debut in Cinderella, this time as the infamous Matron "Mama" Morton in the Tony-winning revival of Chicago. Leakes is the latest major name to join the celeb-friendly production. Rumer Willis is currently nearing the end of her run as star murder defendant Roxie Hart and will take her final bow on Nov. 1.NeNe will take center stage starting Nov. 23. The sassy star celebrated the great news on Twitter, writing, "I'm so excited to say I am headed back to BROADWAY in CHICAGO as Matron Mama Morton #neneismama."There's no doubt Leakes, 47, will bring down the house as the sexy, power-flaunting matriarch of the Cook County Jail, a role that scored Queen Latifah a Best Supporting Actress Oscar nomination for the 2002 film adaptation (co-star Catherine Zeta-Jones won for her role as jailhouse vixen Velma Kelly). Check out the top seven reasons Leakes will absolutely dominate below:
+
+1. NeNe has major experience on the dance floor: Though Leakes admitted she was, "totally out of [her] comfort zone" on Season 18 of Dancing With the Stars, her seven weeks on the reality competition show were full of highlights. We're betting she breaks out some of the killer moves partner Tony Dovolani taught her for "When You're Good to Mama."
+
+2. She's witnessed her fair share of drama: For Chicago, NeNe has to keep a sharp eye on the wild antics of her inmate charges. Not to worry, though, since drama almost always followed Leakes on RHOA, making this celeb one tough cookie that won't go down without a fight. 
+
+3. Playing a villain is her forte:"Mama" is known for presiding over the cell block with a corrupt "I'll scratch your back if you scratch mine" attitude, and Leakes has a little experience in the master-manipulator department. In Cinderella, Leakes played the evil stepmother, and for Glee she played a rival cheer coach and arch nemesis to Sue Sylvester.
+
+4. She keeps it real: When it comes to NeNe, she always wears any and every emotion on her sleeve. Broadway attendees can surely expect to see some Tony-worthy emoting in Chicago.
+
+5. Friends and family support her:Where would a successful Broadway star be without a few built-in fans in the audience?! Just prior to reporting to prison, BFF Teresa Giudice took her daughters to see NeNe in Cinderella and it's safe to predict that hubby Gregg Leakes will be there on opening night—hopefully with a few dozen roses for his leading lady. We can hear the "bravos" now...What do you think of Chicago's latest casting coup? Sound off in the comments! 
+/n

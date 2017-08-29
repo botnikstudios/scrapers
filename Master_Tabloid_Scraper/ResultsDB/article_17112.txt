@@ -1,0 +1,42 @@
+M.I.A. Samples The Lion King in "OLA," New Song About Immigration MIA takes on Disney with her newest song, "OLA," but apparently without permission from The Mouse. In the track, released Thursday, the 40-year-old British.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/749637/m-i-a-samples-the-lion-king-in-ola-new-song-about-immigration');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016217/rs_634x1024-160317130759-634.M.I.A.-Simba.ms.031716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("M.I.A., Simba");
+	var imageCaption = encodeURIComponent("M.I.A., Simba");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dave Benett/Getty Images, Disney
+
+MIA takes on Disney with her newest song, "OLA," but apparently without permission from The Mouse.In the track, released Thursday, the 40-year-old British rapper raps about U.S. immigration, a controversial topic that has become a major issue in the campaigns of the 2016 presidential candidates.The song contains bits of "The Circle of Life" from Disney's 1994 movie The Lion King."Pirates! Throw that s--t on DJ sites WORLDWIDE no borders - b 4 Disney shut it down!" M.I.A. wrote on Twitter Thursday.Sample lyrics include, "At the border I see the patroller cruising past in their car / Creeping in my socks and slippers, Mexicans say "hola!" / At the border I see the patroller cruising past in their car / Hiding in my Toyota Corolla / everybody say "Y.A.L.A.!"
+/n

@@ -1,0 +1,46 @@
+Joaquin Phoenix, 39, Dating DJ Allie Teilz, 20—Get the Details! Now we know who the mystery blonde is that Joaquin Phoenix was seen cozying up to over the weekend. The 39-year-old actor stepped out on Saturday in Rome with his newest ladylov.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/480557/joaquin-phoenix-dating-19-year-old-dj-allie-teilz-get-the-details');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131012/rs_634x1024-131112124955-634.joaquin-phoenix-rome-blonde-mystery-girl.mh.111213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joaquin Phoenix, Girlfriend");
+	var imageCaption = encodeURIComponent("Joaquin Phoenix, Girlfriend");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+VENTURINI/bauergriffinonline.com
+
+Now we know who the mystery blonde is that Joaquin Phoenix was seen cozying up to over the weekend.The 39-year-old actor stepped out on Saturday in Rome with his newest ladylove, 20-year-old DJ Allie Teilz, as he visited Italy as part of a press tour for his latest film, Her. The pair were photographed walking arm in arm after reportedly lunching at Il Matriciano, a restaurant near the Vatican. They then paid a visit to San Pietro and Gianicolo hill with filmmaker James Gray and his family. The latter directed Joaquin in 2000's The Yards and 2007's We Own the Night and Phoenix is starring in his next drama, The Immigrant.A source tells us that Joaquin met Allie while she was deejaying at Hollywood club No Vacancy and they've been dating since May.
+
+So who is Teilz?An August interview she gave to Bullet reveals that the Arizona native got her start DJing in New York City at age 16 and has since become a fixture on the Hollywood party scene, spinning with the likes of Radiohead's Thom Yorke and actor Elijah Wood.She also described herself as a bit of a loner in high school—an "old lady inside of a teenager"—who didn't have many friends and led a "double life" working production for arena shows in Las Vegas and Palm Springs and doing artist relations for pop stars.Teilz also admits to being a huge fan of R. Kelly and said she'd like to be "his bitch."A source close to the cutie told E! News that Teilz attended an all-girls private high school in the Grand Canyon State and was "very emo" and "went to local shows in Arizona," including promoting local bands and deejaying.
+
+"People thought she was really cool," said the source.Another insider close to the situation said Allie admitted last month that she and Phoenix were sleeping together, but the source didn't know if they were dating.No word on whether she was a fan of her beau's mock-foray into hip-hop, but one thing's for certain: They both share a passion for music.—Reporting by Sara Kitnick
+/n

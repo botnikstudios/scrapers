@@ -1,0 +1,44 @@
+Leslie Jones' Website Goes Offline After Hacker Posts Her Personal Information and Nude Photos Leslie Jones' personal website is offline following a hack which revealed sensitive personal documents and what appeared to be nude phot.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/789803/leslie-jones-website-goes-offline-after-hacker-posts-her-personal-information-and-nude-photos');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201445/rs_634x1024-140505082212-634.Leslie-Jones-jmd-040514_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leslie Jones");
+	var imageCaption = encodeURIComponent("Leslie Jones");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+Leslie Jones' personal website is offline following a hack which revealed sensitive personal documents and what appeared to be nude photos of the Ghostbusters star.Prior to going dark on Wednesday, JustLeslie.com was plastered with copies of Jones' driver's license and passport. That website also featured several purportedly stolen naked photos of the Saturday Night Live star.Jones, who was previously a victim of online abuse and succeeded in getting a racist Twitter troll suspended, has yet to comment publicly on the hack. E! News reached out to Jones for comment but did not receive an immediate response. Twitter does not comment on individual accounts for privacy and security reasons.
+
+As a way of showing their support for the star, some fans are utilizing the #LoveForLeslieJ hashtag they previously used in solidarity with the comedian against online bullies.A number of celebrities have also voiced their support for Jones on Twitter.
+/n

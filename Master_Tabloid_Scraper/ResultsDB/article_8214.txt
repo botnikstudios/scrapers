@@ -1,0 +1,44 @@
+Iman Shares Rare Photo of Her and David Bowie’s 17-Year-Old Daughter Alexandria in Honor of Her Birthday Alexandria's famous father passed away from liver cancer in January 2016, when she was only 15-years-old. Iman has stayed relativel.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874403/iman-shares-rare-photo-of-her-and-david-bowie-s-17-year-old-daughter-alexandria-in-honor-of-her-birthday');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016010/rs_634x1024-160110231004-634-8-iman-ziggy-stardust-david-bowies-cancer-dead-69.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("David Bowie, Iman");
+	var imageCaption = encodeURIComponent("David Bowie, Iman");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ron Galella/WireImage
+
+Alexandria's famous father passed away from liver cancer in January 2016, when she was only 15-years-old. Iman has stayed relatively out of the spotlight since, but still pays tribute to her husband through social media every now and again. In June of this year she shared a tender photo paired with the words "I would walk forever, just to be in your arms again." It has been almost two years without the musical icon.However, as one fan pointed out online, his memory lives on in his daughter's face. As the follower commented, "She has her Dads eyes."
+
+Bowie and the iconic model wed in 1992 and waited 8 years before having their first and only child together. Alexandria is also half-sister to Bowie's son Duncan Jones with ex-wife Angie Bowie and Iman's daughter Zulekha Haywood with ex-husband Spencer Haywood. 
+/n

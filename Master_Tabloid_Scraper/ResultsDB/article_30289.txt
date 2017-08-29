@@ -1,0 +1,52 @@
+Calvin Klein Reveals Latest Campaign Starring the Men of Moonlight One Day After Their Oscars Big Picture Win Now this is what we call a Best Picture win.  The male castmates of Moonlight star in Calvin Klein's latest campaign, released.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832514/calvin-klein-reveals-latest-campaign-starring-the-men-of-moonlight-one-day-after-their-oscars-big-picture-win');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017127/rs_731x1024-170227122414-634b.Moonlight-Cast-Calvin-Klein-Underwear-Campaigne.ms.022717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Moonlight Cast, Calvin Klein Underwear Campaign ");
+	var imageCaption = encodeURIComponent("Moonlight Cast, Calvin Klein Underwear Campaign ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy Calvin Klein
+
+Now this is what we call a Best Picture win. The male castmates of Moonlight star in Calvin Klein's latest campaign, released just one day after the drama won three awards during Sunday's 2017 Oscars, including Best Picture. Best Supporting Actor winner Mahershala Ali, Trevante Rhodes and Ashton Sanders all appear shirtless (and undeniably hot, hot, hot) while the always adorable Alex R. Hibbert, 12, also makes a cameo.And while the three eldest Moonlight co-stars can't help but make us swoon, we have to give a special shout out to Trevante's jaw-dropping physique. In his solo shot, the former track and field sprinter poses on a chair in his underwear. We won't blame you for staring.
+
+Then there's Ali, who made history as the first-ever Muslim to win an Academy Award, making something as simple as taking off a black T-shirt look steamy. Safe to say Mahershala spent plenty of time in the gym prepping his washboard abs and gym-toned biceps for the photo shoot, which took place in January.Ahead of the Oscars, he spoke to E! News exclusively about welcoming his newborn daughter just days before the big event. "I'm a special kind of tired right now," he revealed to Ryan Seacrest. "It's amazing though. I'm very grateful. It's been a good time."
+
+Sanders' photo feature sees the 21-year-old actor relaxing on a couch in a pair of black boxer briefs. Hibbert, who plays the kids version of Sanders' character in Moonlight, flashes an oh-so precious tough guy face as he raises his T-shirt to show off his muscles. Despite the stunning snafu involving Moonlight and La La Land's Best Picture announcement, the cast couldn't be more excited to be recognized with the evening's top honor. "At first, I thought they were joking with us," Hibbert told E! News' Zuri Hall at the Governors Ball. 
+
+
+
+Courtesy Calvin Klein
+
+Naomie Harris added, "I'm still in shock to be quite honest with you. It's going to take me awhile to process."But for Rhodes, he was just grateful to experience such an unforgettable moment. "I feel great. We won Best Picture at the Oscars," he stated matter of factly. Congratulations again, Moonlight!
+/n

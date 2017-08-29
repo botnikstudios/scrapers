@@ -1,0 +1,46 @@
+Frank Ocean's First Interview in Three Years Was All Too Brief This interview with Frank Ocean might have left fans feeling a little lost.  The Grammy winner was walking into the White House Tuesday evening to attend President Barack Ob.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/803398/frank-ocean-s-first-interview-in-three-years-was-all-too-brief');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016919/rs_634x1024-161019091238-634.frank-ocean.cm.101916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Frank Ocean, Katonya Breaux, Kenneth Bennett");
+	var imageCaption = encodeURIComponent("Frank Ocean, Katonya Breaux, Kenneth Bennett");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ZACH GIBSON/AFP/Getty Images
+
+This interview with Frank Ocean might have left fans feeling a little lost. The Grammy winner was walking into the White House Tuesday evening to attend President Barack Obama's final state dinner when he was pulled into an impromptu interview with the press after posing for photographs. Having recently dropped his first album in four years, some may have expected the reporters to ask Ocean about his new tunes, particularly since he hasn't given an interview in three years. However, the minute-long conversation focused on the singer's footwear—black and white checkered Vans—and whether a Hillary Clinton benefit concert was in his near future.When one journalist asked him about the shoe choice, he said with a grin, "First time doing it, probably because it's my first time here."While reporters fished for a reason behind the fashion statement, Ocean kept his response simple. "You can't think," he advised. "You just have to do things."
+
+Next in the concise chat, Ocean was asked what he was most looking forward to for the evening held in honor of the Italian prime minister. "Asking Obama if he had fun these last eight years—just congratulate him also," he said. Had he ever expected to be at a state dinner? "No, I didn't. It kind of explains the vans," he answered. Then the chat turned to politics, particularly the prospect of ever performing in honor of the Democratic presidential candidate. "Concerts probably not," Ocean responded honestly. 
+
+The simple answer was a logical one. "We're running out of time—I think I might have to catch her in four years."
+/n

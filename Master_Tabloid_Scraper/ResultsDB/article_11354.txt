@@ -1,0 +1,44 @@
+celebrity porn broker Kevin Blatt after a clip of a sex tape he made with a former girlfriend was posted on the celebrity-gossip site. Troyer attorney Edwin McPherson said Friday that his client never plans on selling the tape, but Blatt and.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/3216/troyer-settles-sex-tape-suit');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080716/293.troyer.verne.071608.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Verne Troyer");
+	var imageCaption = encodeURIComponent("Verne Troyer");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo/Matt Sayles
+
+Maybe all Verne Troyer ever wanted was a little more say in the matter.The diminutive actor has settled the $20 million lawsuit that he filed last month against TMZ.com, an adult film distributor and celebrity porn broker Kevin Blatt after a clip of a sex tape he made with a former girlfriend was posted on the celebrity-gossip site.Troyer attorney Edwin McPherson said Friday that his client never plans on selling the tape, but Blatt and online renter SugarDVD signed agreements requiring the Love Guru sidekick's permission before they are ever allowed to further promote or profit from the video.
+
+McPherson said he will also try to amend the suit Monday to include Troyer's ex, Ranae Shrider, among those who need to check with the actor first before peddling the tape. Other individuals or companies might end up finding themselves at the wrong end of a lawsuit, as well, to further ensure that this X-rated romp remains under wraps, McPherson added.After granting Troyer a temporary restraining order on June 27 to halt the airing of his sexcapades, a federal judge allowed TMZ to repost the footage after Shrider, an aspiring actress, admitted to leaking the home movie.The order against SugarDVD and Blatt was extended about a week later at Troyer's request as settlement talks kicked off between the opposing sides."We achieved our goal," McPherson told reporters today.While Shrider apparently wasn't fazed by the idea of a little indecent exposure, Troyer exclusively told E! News this week that it was the invasion of privacy that had him fighting so hard to get this tape under wraps."Just because people are seeing something that was meant to be between me and  her. That's the biggest reason that I'm, you know, trying to stop the tape from  being released."I broke up with her in the middle of June; it was something probably to do with  that. It was basically when she decided to give the tape away. I highly doubt  that she thought that would get me back with her. Ransom or something," he said.
+/n

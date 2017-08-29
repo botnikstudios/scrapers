@@ -1,0 +1,58 @@
+" Natalie Portman and Ruth Negga are also featured in the issue—Portman for her role as Jackie Kennedy in Jackie and Negga for her performance as Mildred Loving in Loving. The women pose together on one of the covers, looking into each .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/819263/emma-stone-poses-in-bed-with-no-pants-for-w-magazine-reveals-why-she-can-t-believe-she-got-the-role-in-la-la-land');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201703/rs_634x845-170103084604-634.W-Magazine-Best-Performances-Kf.1317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Best Performances, W Magazine");
+	var imageCaption = encodeURIComponent("Best Performances, W Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Craig McDean for W Magazine
+
+Emma Stone has had quite the year.The actress is looking at a nod for Best Performance in a Musical or Comedy ahead of the Golden Globes this weekend, thanks for her role in La La Land, which she still can't believe she got.Chatting with W magazine for their "Best Performances" issue—which she covers beside Casey Affleck who was nominated for Manchester by the Sea—she opened up about how director Damien Chazelle attended one of her worst performances of Caberet. "Well, Damien came to see me when I was doing Cabaret, and he saw me on a night that I was on a lot of cold medicine, which was a lot of nights because I was sick a lot during the run," she recalled. "And, I didn't know that he had come with the composer, Justin Hurwitz. After the fact I heard he had seen it and I was really upset, because I was like, 'I don't think I was even in my body for that entire show.'"
+
+
+
+Craig McDean for W Magazine
+
+Stone—who also poses pantsless while staring at what appears to be a nude woman inside the publication—thinks that was her "unofficial" audition for the musical beside Ryan Gosling, which has taken Hollywood by storm for awards season.She joked Chazelle made a poor decision to make her the lead based upon her performance he watched. "I think he has bad taste, because if he thought that was a good show, I mean, he was wrong," she laughed.Aside from revealing she wore braces for seven years and sucked her thumb until she was 11-years-old, Stone also opened up about how she took on the stage name "Emma.""My real name is Emily Stone, but when I started acting, that name was already taken by another actress, so I had to come up with a different one," she recalled. "For a 16-year-old, picking a new name is an interesting prospect."
+
+
+
+Craig McDean for W Magazine
+
+Natalie Portman and Ruth Negga are also featured in the issue—Portman for her role as Jackie Kennedy in Jackie and Negga for her performance as Mildred Loving in Loving. The women pose together on one of the covers, looking into each other's eyes as though they're about to kiss. They also open up about their individual performances."Playing Jackie Kennedy is scary," Portman explained. "I was nervous at first, and I started by doing a lot of research. The biographies on her are all a little bit trashy, but the transcripts of her interviews with the historian Arthur Schlesinger were really helpful. He taped everything, and you can hear Jackie's voice. Her intellect and her wit and what she's bitter about are immediately apparent."
+
+She continued, "At the same time, I was going to costume fittings and makeup tests. When I put on the Jackie wig, the physical and emotional sides came together. The hair itself is so iconic that once you have it right, you can start to see Jackie. I don't really look like her, but I felt like I was in her skin."Negga also explains how she had to dive head-first into her role as Mildred Loving from the very start.
+
+"When I auditioned for the part of Mildred Loving, I had to sort of disappear into her character," she said. "Usually, I don't create a costume for an audition, but this time I wore a summer dress. I knew that coming in the door looking like this woman would have an impact. A year later, I learned I got the part."See more of the W magazine "Best Performances" covers here.
+/n

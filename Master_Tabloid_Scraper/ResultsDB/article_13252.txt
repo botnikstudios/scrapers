@@ -1,0 +1,44 @@
+name names. Carey's close pal Da Brat was previously reported to have been present, but no word yet on who the other boldface type was. Meanwhile, Henrietta White, who works for the island's Eleuthera Florist, told E! News: "M.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/656/mariah-wedding-date-details-revealed');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080501/293.Carey.Mariah.Cannon.Nick.050108.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mariah Carey, Nick Cannon");
+	var imageCaption = encodeURIComponent("Mariah Carey, Nick Cannon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Shearer/WireImage.com
+
+Turns out, Mariah Carey's one sweet day was April 30.E! News has confirmed that the surprise bride and new hubby Nick Cannon tied the knot on the Bahamian island of Eleuthera on Wednesday.A local clerk for the island's leading wedding officiant verified the date of the vow swap and revealed that two other celebrities were in attendance, although she declined to name names. Carey's close pal Da Brat was previously reported to have been present, but no word yet on who the other boldface type was.Meanwhile, Henrietta White, who works for the island's Eleuthera Florist, told E! News: "My son did the flowers for the wedding."
+
+Adding to the impromptu nature of the nuptials, another source revealed that the bouquets were only prepared the day of the ceremony.The ceremony took place on Carey's private estate on Windermere Island, just off Eleuthera. As for a potential honeymoon, a source tells E! News that as of Thursday night, Carey and Cannon were still on the island.It's unclear when the couple of less than two months first arrived in the tropical paradise. Cannon appeared live on MTV Monday afternoon.But per Bahamian law, couples are required to have spent at least one day in the island nation before they can get a marriage license, and bride and groom are required to show  birth certificates or passports, as well as fork over the requisite $40.On Thursday, the 27-year-old's relative Linda Cannon confirmed to E! News that the union had taken place."Yes, we know," she said. "He called us and told us all about it. We are happy for him. If that is what he wants then we are happy for him."It's the first marriage for Cannon, who called off his engagement to model Selita Ebanks last fall, and the second for the 39-year-old Carey, who split from Tommy Mottola in 1998 after a five-year union.
+/n

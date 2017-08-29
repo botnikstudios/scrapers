@@ -1,0 +1,46 @@
+Nicolle Wallace Is Leaving The View After One Season Another face is leaving The View. Nicolle Wallace is departing the all-female talk show after one season. She opened up about her decision on Thursday's episode, telling her co-hosts .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/683866/nicolle-wallace-is-leaving-the-view-after-one-season');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015616/rs_634x1024-150716084351-634-Nicolle-Wallace-the-view.ls.71615.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nicolle Wallace, The View");
+	var imageCaption = encodeURIComponent("Nicolle Wallace, The View");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC/Lorenzo Bevilaqua
+
+Another face is leaving The View.Nicolle Wallace is departing the all-female talk show after one season. She opened up about her decision on Thursday's episode, telling her co-hosts and the audience that she has thoroughly enjoyed her time on the show and the women she got to work with."I love you guys, and you know I never thought I would get this job in a million years. I was more surprised to get it than I would have been to not get it," she explained. "I would have been more surprised if they had  kept me around because I am the original political nerd. 'Hell On Hells' was the name of that song which we joke that's what they call all of us, right?She continued, "I have loved being a part of this table I have loved sitting in this chair and it was never mine, but I'm lucky I got to occupy it for a little bit."
+
+Wallace went around the table and addressed each one of her female co-anchors, but got especially emotional when it came time to address Whoopi Goldberg and the rest of the crew."...When I tested last season I said I don't know if I want to work there, I could never talk about my vagina on live television. Look how far I've come!" she joked. "But I am going to keep going back until I get Whoopi's email. We've had such a good time, and this show only gets on the air because of the producers they are extraordinary, they're exquisite, they're resilient, they're hilarious and all the wisdom lies in them, ask them. The hair and makeup and wardrobe people perform miracles every morning I will never look like this again, so take a picture."
+
+Wallace's departure comes on the heels of Rosie Perez's announcement that she also wouldn't be returning to the talk show. Perez opened up to E! News exclusively about her decision to leave."Be happy for me," Perez told E! News at the New York premiere of Southpaw. "I feel like I made the right decision to move on and I'm going to miss the girls and I'm going to miss the audience, but it's going to be OK." 
+/n

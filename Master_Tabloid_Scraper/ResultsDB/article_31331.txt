@@ -1,0 +1,44 @@
+Dan + Shay Singer Dan Smyers Engaged to Longtime Girlfriend Abby Law Dan Smyers is officially an engaged man! Member of country music duo Dan + Shay asked his longtime girlfriend Abby Law to marry him while on vacation in Hawaii. The soon-to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/810608/dan-shay-singer-dan-smyers-engaged-to-longtime-girlfriend-abby-law');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161019/rs_634x800-161119080130-634.dan.cm.111916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dan Smyers Instagram");
+	var imageCaption = encodeURIComponent("Dan Smyers Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Dan Smyers is officially an engaged man!Member of country music duo Dan + Shay asked his longtime girlfriend Abby Law to marry him while on vacation in Hawaii. The soon-to-be newlyweds announced the exciting news on Instagram Friday with a few sweet photos of the pair looking more in love than ever. "There are few words to fully convey this feeling of complete happiness," Abby wrote alongside a photo of her smooching her fiancé. "Daniel Smyers, knowing and loving you has been the most rewarding part of my life thus far and continuing our journey together as your wife will be an honor. I love you so much my heart could explode!!! Y'all WE'RE ENGAGED!!!!!"After all, ain't nothing like a country love story. 
+
+Shortly after his bandmate's engagement news, Smyers told People about his own plans to propose, "I'll get on it soon enough."Congratulations to the happy couple!
+/n

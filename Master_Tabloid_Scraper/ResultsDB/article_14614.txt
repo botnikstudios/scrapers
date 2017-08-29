@@ -1,0 +1,46 @@
+Leona Lewis Laughs Off Headline That Says She "Likes to Get Drunk and Trash Hotel Rooms" Don't read too much into Leona Lewis' off-the-cuff remarks in Metro UK. In the Tuesday, Dec. 3, edition of the daily newspaper, the .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/487290/leona-lewis-laughs-off-headline-that-says-she-likes-to-get-drunk-and-trash-hotel-rooms');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013227/rs_293x473-130327102620-634.LeonaLewis.Beauty.mh.032713.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leona Lewis ");
+	var imageCaption = encodeURIComponent("Leona Lewis ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ben A. Pruchnie/Getty Images
+
+Don't read too much into Leona Lewis' off-the-cuff remarks in Metro UK. In the Tuesday, Dec. 3, edition of the daily newspaper, the singer joked about how she deals with road rage—and her quippy quotes inspired a bold (but inflated) headline."Men always feel like they can take the micky out of women on the road and I don't like it," Lewis said.She then joked that one particular incident sent her into a tizzy. "I smashed up [my] hotel room [because] I was angry. I gave a table a kick and I didn't actually think it would fall over. I [normally] do it so that it won't damage things but things got smashed. Champagne glasses broke. I had bad road rage."
+
+The British songbird tweeted a picture of the issue's front page on Wednesday, Dec. 4. The headline read, "Leona: I Like to Get Drunk and Trash Hotel Rooms." She added a cheeky response of her own, writing, "Haha talk about taking a joke out of context! Excuse me while I throw my hotel television out the window."
+
+Gotta love a girl with a sense of humor!In her Metro UK article, Lewis also talked about how much she loves to party with her pals. "They are the kind of friends I can get roaring drunk around and let loose. They have seen my worst side 150 times! They have been there through the ups and downs, the hair holding when I'm so drunk I'm sick."Lewis cast those friends in her "One More Sleep" music video, which serves as the first single from her holiday album. "They wanted me to cast a bunch of actors but that wasn't happening because I wanted it to be realistic," she recalled. "I feel like they are a handsome bunch!"
+/n

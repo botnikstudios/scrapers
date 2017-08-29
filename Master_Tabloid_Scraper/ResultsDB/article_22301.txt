@@ -1,0 +1,50 @@
+How to Get a Sexy Six Pack for Summer, Plus 11 Belly-Blasting Tips from Celebrity Fitness Trainer Jeanette Jenkins With summer around the corner, there's no better time than now to tone up those abs. Among the many New Year's resol.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/525497/how-to-get-a-sexy-six-pack-for-summer-plus-11-belly-blasting-tips-from-celebrity-fitness-trainer-jeanette-jenkins');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014226/rs_634x1024-140326160856-634.-jeanette-jenkins-six-pack.ls.32614.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jeanette Jenkins");
+	var imageCaption = encodeURIComponent("Jeanette Jenkins");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Heisler
+
+With summer around the corner, there's no better time than now to tone up those abs.Among the many New Year's resolutions that our readers tweeted us, one of the most popular was wanting to get healthy, tone up and lose weight this year. Fathima Zahra (@fazamehtar), for example, tweeted she wanted to "get a 6 pack with @AmyM1_."Although the road to a six pack isn't overnight, with the right tools, drive and hard work, your enviable abs won't be too far away.To find out the best way to get a six pack, we chatted with celebrity fitness trainer Jeanette Jenkins, who has worked with some of Hollywood's hottest bodies, including Pink, Kelly Rowland, Alicia Keys, LL Cool J, and E!'s own Terrence Jenkins (remember our "Road to Shirtless" series?) and many more stars. In addition to her famed skills as a trainer, Jenkins is also an author, nutritionist and has created 17 top-selling workout DVDs including two with the former Destiny's Child singer, called "Sexy Abs" & "Sexy Abs Cardio Sculpt! (Check it out her website here)."Check out Jeanette Jenkins top 10 tips to get a sexy six pack just in time for summer!
+
+1. Eat Healthy:  According to Jenkins, nutrition is key when it comes to building up your abs. "You must eat healthy and follow a meal plan that is at least 500 calories lower than the calories you burn each day to make sure you are burning fat," she said. To calculate this, use a metabolic calculator to figure out your proper caloric intake (find it here).2. Use an 80/20 Rule for Nutrition: Eighty percent of the time, or Monday through Friday, you should stick to a healthy, balanced meal plan composed of fresh fruit, vegetables, grains, beans, lean cuts of meat and healthy fat, she says. The other 20 percent of the time, or on one cheat day, you can have a treat or a meal that is off of your healthy meal plan. Need some ideas for healthy eating? Check out Jenkins' 7-day balanced healthy meal plan she created, which is based on eating quality organic whole foods. The plan consists of 40 percent carbohydrates (fruits, vegetables, grains), 30 percent protein (eggs, lean cuts of meat, fish, low fat dairy) and 30 percent healthy fat (cold water fish, avocados, nuts, seeds and oils)…and it's yummy.
+
+3. Just Say ‘No' to Late Night Snacking: "Stop eating two hours before bed to maximize fat burning through the night," she said. That way there will be no sugar in your blood stream and you will use more fat as a fuel source through the night while you sleep.4. Mix Up Your Training: "Do at least 2-3 various methods of training to challenge your body: cardio kickboxing, bootcamp, yoga, running/jogging, weight training, sculpting, etc.," she says. "If your workout doesn't challenge you, then it won't change you." You also need to create a workout schedule that includes 5-6 workouts a week for 30-60 minutes. For example: Monday--cardio kickboxing; Tuesday--3mile run/walk and 20 minutes of sexy abs exercises; Wednesday – boot camp;  Thursday--total body weight training; Friday—one mile jog & power yoga; Saturday--30 minute sprint intervals and 20 minutes of Pilates. Sunday--rest and recover. "Schedule your workouts into your weekly agenda just like any other important meeting or appointment," she added.5. Do Focused Ab Work: Get to work on this by doing the exercises in Jenkins' Sexy Abs & Sexy Abs Cardio Sculpt with Kelly Rowland DVDs, which work all of the ranges of motion of the core and all of muscles of the core to maximize tone and definition.
+
+6. Drink Your Water: You should be consuming half your body weight in ounces of water a day, she says. For example, "if you weigh 150lbs, drink 75oz of water." You not only need water to burn fat, but it is essential for proper digestion and elimination. These are two very important functions of the weight-loss and fat burning process. If you are dehydrated, it is very difficult and sometimes impossible for your body to digest and eliminate food.7. Don't Forget Those Greens:  "Focus on eating a serving of green vegetables with every meal, three times a day," she says. "[This] will help you burn more fat because they are low calorie and high in fiber. Greens are also alkaline so they strengthen your immune system and decrease you risk of getting sick."8. Drink Green Tea: "Sip on two to three cups of green tea to increase your fat burning ability and decrease your risk of all cancers," Jenkins added. "Green Tea also strengthens your immune system."9. Consume Enough Protein to Build Muscle: "It is important to have 25-30 grams of protein in the first 30 minutes after you finish your weight training sessions," she advised. "The more active muscle you have, the more calories and fat you can burn while you are doing cardio and while at rest."
+
+10. Decrease Your Sugar Intake and Eliminate Processed Foods: Cut both from your weekly meal plan. "Processed foods and processed sugars are cheat foods and they should only be eaten on your cheat day," she said. "Many people don't realize that the body's preferred fuel source is sugar, so every time you eat or drink sugar you decrease your fat burning so your body can burn the sugar you just consumed. The more sugar you eat, the less fat you burn."11. Plan Your Meals and Snacks in Advance: Planning ahead will give you a better chance of sticking to your meal plan, she said. For example, rather than grab food on the go, "bring it to work so you don't decide what to eat at the last minute when you have low blood sugar. The mistakes happen when you're hungry, you haven't created a plan, and you grab the quickest food available. That is not always a healthy option.  If you create a plan then you will be successful."*Bonus Tip*: Depending on the timeline for ab sculpting, Jenkins also suggests a 2-day fast she's been using for over eight years  called "Cleanse for Life" by Isagenix. It includes a vitamin/mineral drink supplement and water.And don't forget to try these five total body Sexy Abs & Sexy ABs Cardio Sculpt with Kelly Rowland exercises to get your abs in tip-top shape: Plank Up Downs with Core Rotation, Total Body V-Ups, Ballerina or Sumo Squat with a Twist, Ultimate Oblique Toner and Tricep Star Planks.
+/n

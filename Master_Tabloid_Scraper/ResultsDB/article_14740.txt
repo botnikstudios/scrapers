@@ -1,0 +1,95 @@
+4-Year-Old Boy Dies of 'Dry Drowning' Almost a Week After Swimming Trip – Here's How to Spot the Symptoms
+/n
+
+A four-year-old boy from Houston, Texas has died of “dry drowning” almost a week after he last went swimming.
+Francisco Delgado Jr. told ABC 13 his family went swimming at the Texas City Dike with his son Frankie, 4, on Memorial Day weekend.
+About a week later, Frankie complained of shoulder pain and woke up a few hours later.
+“Out of nowhere, he just woke up. He said, ‘Ahhh,” Delgado told the news outlet. “He took his last breath and I didn’t know what to do no more.”
+Frankie’s mother, Tara, said paramedics and doctors tried to save her son.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-0b1843da6edf08eca79b60ff2eacb291-59a52e326dcf1');
+				var iframe = document.getElementById('wpcom-iframe-0b1843da6edf08eca79b60ff2eacb291-59a52e326dcf1');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-0b1843da6edf08eca79b60ff2eacb291-59a52e326dcf1'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“I walked in. I could see him lying there,” she recalled. “They were still working on him. I’m screaming, ‘Let me just touch my baby. Maybe he needs his mama’s touch.’ ”
+Tara said a paramedic explained what had happened to her son, according to WSB-TV.
+“When she came in, she told us it’s what’s called ‘dry drowning,’ ” she continued. “His lungs were full of fluid. There was nothing else they could do for him.”
+Desiree Sosa/Facebook
+What is Dry Drowning?
+Dry drowning occurs after a child inhales water through the nose or mouth and the liquid gets into the lungs, Purva Grover, with Cleveland Clinic Children’s, told USA Today. The lungs can then become irritated from the water and fill with fluid resulting in respiratory problems, brain damage or even death, according to the publication.
+Symptoms or fatal results of dry drowning could occur hours or even days after a child inhales the water.
+Dry drowning (also known as secondary drowning) is rare: “I’ve only seen one of these cases every couple of years,” Dr. Mark Morocco, with the Ronald Reagan UCLA Medical Center, told NBC. However, other dry drowning incidents have made headlines in recent years.
+In 2015, a 10-year-old boy died more than an hour after returning home from a trip to the pool, according to NBC.
+How to Spot Dry Drowning — and How to Prevent it
+Symptoms of dry drowning can include coughing, fever, vomiting, mood swings and struggling for breath, USA Today reports. Symptoms could appear 24 to 48 hours after inhaling water, according to the publication.
+Dr. Ray Pitetti, with the Children’s Hospital of Pittsburgh, told NBC that there is no way to predict which children will experience secondary drowning, although kids with respiratory issues, like asthma, are more susceptible to lung problems.
+“If a kid chokes or sputters after going under water but seems fine, he doesn’t need to go to the hospital,” Pitetti said. “But if several hours later he starts breathing faster and is finding it harder to breathe and starts coughing a lot, then you want to bring him in.”
+The Delgado family created a GoFundMe page to help them raise money for funeral expenses. Frankie’s funeral will be held Saturday at Compean Funeral Home, ABC 13 reports.
+/n

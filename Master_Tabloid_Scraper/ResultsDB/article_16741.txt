@@ -1,0 +1,46 @@
+BREAKING! Rosie Huntington-Whiteley and Jason Statham Welcome Their First Baby It seems the couple that frequently exercises together stays together as they have been by each other's side for seven years—and having a family together is .../n
+Rosie Huntington-Whiteley and Jason Statham have officially become parents!The model revealed their son arrived on Wednesday by sharing a black and white photo of their newborn's tiny hand. "Our little man arrived! Jack Oscar Statham 8.8lbs on Saturday June 24th."The Mad Max: Fury Road star broke the news of her pregnancy also on Instagram in February. "Very happy to share that Jason and I are expecting!! Lots of love Rosie x Photo by @jasonstatham," she captioned the post that revealed the model had a growing baby bump while relaxing on the beach.On May 20th, Rosie was surrounded by around 40-50 family and friends for her beautiful baby shower. "Everyone was really chill and the spotlight was Rosie," a source told E! News at the time adding that the mama-to-be looked absolutely "flawless" during the bash.According to our insider, guests dined on healthy snacks and were treated to neutral-themed decor so as not to reveal the baby's sex—but both Jason and Rosie knew whether they were having a boy or a girl well before the shower.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/850029/rosie-huntington-whiteley-and-jason-statham-welcome-their-first-baby');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013615/rs_634x1024-130715163444-634.RosieHW.Jason.mh.071513.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jason Statham, Rosie Huntington-Whiteley");
+	var imageCaption = encodeURIComponent("Jason Statham, Rosie Huntington-Whiteley");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+RACHPOOT/XPOSUREPHOTOS.COM
+
+It seems the couple that frequently exercises together stays together as they have been by each other's side for seven years—and having a family together is something that has been on the couple's mind for some time."Having a family is something I think about for sure, and whether I'd live here in America or in England," the model told Esquire magazine in 2015. "But it's not always as simple as that…I have no idea what will happen, but it'll be interesting to find out, right? And nothing will be perfect, I'm sure."
+
+Congratulations on your new bundle of joy, you two!
+/n

@@ -1,0 +1,50 @@
+attention to her natural cat eye shape. Get the Look: To get Angie's perfect bedhead, start by spraying a volume-building heat spray to hair like John Frieda Luxurious Volume Fine to Full Blowout Spray and then give your hair a smooth b.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/511752/beauty-police-angelina-jolie-slays-the-bafta-red-carpet-with-i-just-got-out-of-bed-with-brad-hair');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014117/rs_634x1024-140217123845-634-Angelina-Jolie-JR-21714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Angelina Jolie");
+	var imageCaption = encodeURIComponent("Angelina Jolie");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David M. Benett/Getty Images
+
+Oh, how we've missed seeing Angelina Jolie on the red carpet... How pissed were the other star attendees when they saw Brangelina saunter onto the red carpet in all their gorgeous gloriousness? Let's face it… it's practically impossible to compete with that level of perfection.Check out Angie's hair… Is it just us or do those tresses look like they got that tousle from some pre-award show fun with Brad Pitt? Not fair. Even though her locks are on the thin side, she used every trick in the book to give her hair natural volume and movement without adding extensions.And that makeup! This mother of six knew she didn't need to mess with perfection.  Forget the gimmicky trends and bright colors… Angie went straight for the classic black eyeliner, which brought more attention to her natural cat eye shape.
+
+
+
+Press Association via AP Images
+
+Get the Look: To get Angie's perfect bedhead, start by spraying a volume-building heat spray to hair like John Frieda Luxurious Volume Fine to Full Blowout Spray and then give your hair a smooth blowout with a large barrel round brush for added volume.Next, wrap sections of hair around a large barrel curling iron, leaving out at least two inches at the ends to ensure movement. Then, break up curls with your fingers and spray a dry shampoo at your roots and tousle and lift hair.To get Angie's voluminous front swoop, take a medium barrel round brush and wrap the front section of hair around it, pulling away from the face, and blast with the hairdryer.  Finish by spraying hair with a light hold hairspray.To get Angie's classic eye makeup, start by prepping upper eye area with primer or concealer. This ensures that your makeup doesn't absorb into your eyelids.  Next, apply an ivory-colored powder eye shadow to entire area.
+
+Then, make a line along your upper lash line with black gel or black pencil eyeliner that gets thicker as you get to the outer corners. Make a very thin line with the eyeliner along your lower lash line.Next, apply a black matte powder eye shadow in the outer corners of your eyes in a V-shape and blend like crazy. Highlight the brow bone with a light shimmer eye shadow, or, if your eyelids are puffy opt for a matte highlighter pencil like Anastasia Beverly Hills Matte Highlighter. Complete the eyes by applying your 2-3 coats of your favorite volume-building mascara.Instead of a nude lip, could Angie have gotten away with a statement lip in a bright crimson? Um, obviously. But when your lips look like hers, that's enough of a statement in itself.  And that statement says, "Brad Pitt is the father of my children." Enough said.If you're a beauty addict, Janna will be your enabler. Just an occasional user? She'll be your bad influence. Visit her blog at mybeautybinge.com and indulge!
+/n

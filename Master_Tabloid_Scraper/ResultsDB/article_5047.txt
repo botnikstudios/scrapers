@@ -1,0 +1,50 @@
+Seeing Double! Kate Middleton Sports Similar Coat Dresses in Belgium If it ain't broke, don't fix it! It seems Duchess of Cambridge Kate Middleton is sticking to that mantra considering she's been on a coat dress kick for the .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870297/seeing-double-kate-middleton-sports-similar-coat-dresses-in-belgium');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017631/rs_634x1024-170731080636-634.kate-middleton.cm.731172.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Middleton");
+	var imageCaption = encodeURIComponent("Kate Middleton");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Chris Jackson/Getty Images; Andrew Matthews/PA Images/INSTARimages.com
+
+If it ain't broke, don't fix it!It seems Duchess of Cambridge Kate Middleton is sticking to that mantra considering she's been on a coat dress kick for the past two days. Ever the fashionable outfit recycler, the royal stepped out on Sunday in Belgium sporting the Alexander McQueen coat dress she first wore at daughter Princess Charlotte's christening in 2015. A day later, the mother of two is back in the silhouette, rocking a new coat dress by Catherine Walker with a print embellishing the hem. The Melrose coat retails for roughly $8,571. Her ruffled fascinator also made its debut on Monday and fashion blogs suspect the design is by Jane Taylor.  
+
+
+
+Andrew Matthews/PA Images/INSTARimages.com
+
+Middleton spent the day with her husband, Prince William, at Tyne Cot cemetery, where more than 5,000 World War I servicemen are buried. The couple met with Commonwealth War Graves Commission interns, who typically share stories of the buried servicemen with visitors. During their trip, the Duchess of Cambridge took a moment to lay a posey at the Grave of the Unknown Soldier while Prince William recited the inscription on the grave, "A Soldier of The Great War Known Unto God." 
+
+Their visit is part of ongoing commemorations planned to mark the centenary of the Battle of Passchendaele.
+/n

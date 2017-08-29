@@ -1,0 +1,96 @@
+Watch Conor McGregor Celebrate After Losing to Floyd Mayweather: ‘We Can Still Party Like’ I Won/n
+
+ 
+Conor McGregor might not have come out on top in Saturday night’s match against Floyd Mayweather, but it didn’t stop him from celebrating.
+In a video posted by TMZ, the 29-year-old Irish pro fighter is in high spirits at Las Vegas’ Encore Beach Club at Night, dressed in a festive suit with his home country’s flag proudly draped over his shoulders.
+“It didn’t go our way, but we [can] still party like it did go our way,” McGregor addressed the cheering crowd while tunes like Fat Joe‘s “All the Way Up” and Notorious B.I.G.‘s “Hypnotize” play in the background.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e827681ff823e47aa3dd43ff068f136b-59a4f14751831');
+				var iframe = document.getElementById('wpcom-iframe-e827681ff823e47aa3dd43ff068f136b-59a4f14751831');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e827681ff823e47aa3dd43ff068f136b-59a4f14751831'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+RELATED GALLERY: J-Rod, Leo, Charlize and More! See All the Stars Who Attended the Mayweather vs. McGregor Fight
+“May have lost this battle, but the world goes on,” he added.
+McGregor kicked off a two-year Wynn Nightlife residency at multiple locations throughout the Wynn Las Vegas, first enjoying dinner at Asian spot Andrea’s before hitting up Encore Beach Club — where he was presented with a trophy welcoming him to the Wynn Nightlife family.
+
+
+FROM PEN: Game Of Thrones‘ Iain Glen On Brutal Fight Scenes: “It’s Not Just Meaningless Violence”
+
+ 
+RELATED: Floyd Mayweather Defeats Conor McGregor by 10th-Round TKO
+The night of partying came after Mayweather, 40, defeated the UFC lightweight champion by TKO after 10 rounds in the latter’s debut boxing match. Mayweather’s win gives him an incredible 50-0 undefeated career — a record the boxing legend came out of retirement yet again to clinch.
+The highly anticipated fight came after a four-day press tour in which both competitors had some choice words for each other, including accusations of racism and various other personal insults.
+Held at the T-Mobile Arena in Las Vegas, the match was attended by quite the bevy of big names, including power couple Jennifer Lopez and Alex Rodriguez, Leonardo DiCaprio and Charlize Theron.
+
+With reporting by MELODY CHIU
+
+/n

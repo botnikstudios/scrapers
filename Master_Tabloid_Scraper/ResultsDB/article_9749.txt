@@ -1,0 +1,44 @@
+Rachel Roy Custody Drama: Warrant Out for Damon Dash's Arrest for Failure to Pay Nearly $350,000 in Child Support Damon Dash is a wanted man. A warrant is out for the music and fashion mogul's arrest for failure to pay nearly $350,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/651796/rachel-roy-custody-drama-warrant-out-for-damon-dash-s-arrest-for-failure-to-pay-nearly-350-000-in-child-support');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015321/rs_634x1024-150421074954-634.Damon-Dash-Rachel-Roy.jl.042115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Damon Dash, Rachel Roy");
+	var imageCaption = encodeURIComponent("Damon Dash, Rachel Roy");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Hal Horowitz/WireImage
+
+Damon Dash is a wanted man.A warrant is out for the music and fashion mogul's arrest for failure to pay nearly $350,000 in child support to ex-wife Rachel Roy , a source confirms to E! News. The drama comes a week after Roy obtained full custody (with visitation rights for Dash) of their two daughters and secured a three-year restraining order against him. They divorced in 2009 after roughly four years of marriage.Since the warrant is civil and not criminal, it's only enforceable in New York, where the custody issues are playing out. So if police catch up with Dash in the state, he can be arrested and compelled to appear in court, where he'll face a possible six months in jail if he doesn't pay up.
+
+Dash can completely avoid the possibility of jail time if he pays the $341,999.16 he owes Roy.Reps for Dash, who has not been responsive to requests for comment regarding these legal matters, could not be reached. The Roca-A-Fella Records co-founder also did not show up to hear the judge's custody ruling in person earlier this month. Roy is being represented by attorney Donnell Suares.Bossip was first to report on the latest divorce drama.A couple of weeks ago, Roy and her girls, 15-year-old Ava and 8-year-old Tallulah, made the stylish scene at the Los Angeles premiere of the documentary Dior & I, about the creation of creative director Raf Simon's first haute couture collection for the famed fashion house.
+/n

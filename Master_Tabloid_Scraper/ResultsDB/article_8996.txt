@@ -1,0 +1,48 @@
+What Will Smith Learned the Night Willow Smith Shaved Her Head Will said he now understands where he went wrong and why his father's parenting techniques weren't suited for his children. "For me, it was that soldier that was pushing and wasn't paying.../n
+Willow Smith got the world talking after she shaved her head in 2012 at just 11-years-old...but it didn't gain anyone's attention more than her own father, Will Smith.The actor joined famous men like Chris Rock and Mahershala Ali for Jay-Z's new "Footnotes of Adnis" video during which they discussed the lessons they learned from their fathers as well as the lessons their children have helped teach them.Will recalled the moment his daughter shaved her head in the middle of her "Whip My Hair" tour. He had been pushing her to continue the tour despite the fact that she had expressed her desire to go home.
+
+"We came downstairs and she had shaved her head bald," he remembered. "She shaved her head bald in the middle of her 'Whip My Hair' tour. I was like, 'Oh, s--t.'"He continued, "I'm looking at that girl and I'm like, 'Got it. I understand. You will not have this trouble out of me ever again. Let's go, baby. We can go.'"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870606/what-will-smith-learned-the-night-willow-smith-shaved-her-head');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015429/rs_634x849-150529165351-634.willow-smith-pink-hair-052915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Pink Hair, Willow Smith");
+	var imageCaption = encodeURIComponent("Pink Hair, Willow Smith");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Will said he now understands where he went wrong and why his father's parenting techniques weren't suited for his children."For me, it was that soldier that was pushing and wasn't paying any attention whatsoever to what was going on emotionally with this beautiful little creature in front of me," Will admitted. "That was the first part of the collapsing of my father's suit that I was wearing that wasn't mine."Will and wife Jada Pinkett Smith have previously opened up about Willow's decision to cut her hair and what it meant for them to accept it as her parents."When you have a little girl, it's like how can you teach her that you're in control of her body? She can't cut my hair but that's her hair," he told Parade in 2012. "She has got to have command of her body."
+
+Jada reiterated that sentiment in a Facebook post, writing, "The question why I would let Willow cut her hair, first the let must be challenged. This is a world where women [and] girls are constantly reminded that they don't belong to themselves — that their bodies are not their own, nor their power or self-determination. I made a promise to endow my little girl with the power to always know that her body, spirit and her mind are her domain."
+/n

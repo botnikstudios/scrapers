@@ -1,0 +1,83 @@
+Princess Charlene Perfectly Channels a Glam Bond Girl in Stunning Video for Monaco’s 75th Grand Prix/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-21f4f886760ffd800509bf484c0bbc48-59a58941bc5b0');
+				var iframe = document.getElementById('wpcom-iframe-21f4f886760ffd800509bf484c0bbc48-59a58941bc5b0');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-21f4f886760ffd800509bf484c0bbc48-59a58941bc5b0'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Princess Charlene is going Bond!
+In honor of Monaco’s 75th Grand Prix, held last weekend, Prince Albert and Princess Charlene took part in a special tribute, a brief 7-minute video, boasting all the romance and glamour of a Bond film.
+With Charlene (who stuns in a chic halter top and glamorous shades!) arriving by boat and Albert in a helicopter, the couple joined past Monaco Grand Prix winners David Coulthard and Mark Weber at the Monaco Yacht Club. There, in a rare and captivating glimpse, the relaxed royal couple shared memories of the world’s most prestigious auto race in a video directed by Richard Gort, courtesy the Prince’s Palais.
+Princess CharleneRichard Gort, courtesy the Prince's Palais
+Along for the ride was Irish racing legend Eddie Jordan, Steve Jones, sports journalist for Britain’s Channel 4 and, of course, gorgeous scenery of Monaco.
+Marc Piasecki/WireImage/Getty Images
+Prince Albert, who has grown up around the race, mentions former greats Graham Hill and Ayrton Senna, while Princess Charlene taunts one of her guests concerning his arrival by water bike, in advance of a charity race she’s sponsoring in July.
+Marc Piasecki/WireImage/Getty Images
+This year’s race — won by the Ferrari stable — drew record crowds to the principality this past weekend. Among those drawn to watch the race were Leonardo DiCaprio, Bella Hadid, Matt Damon, Chris Hemsworth, George Lucas and more.
+/n

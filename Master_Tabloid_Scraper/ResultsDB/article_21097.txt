@@ -1,0 +1,44 @@
+EXCLUSIVE! Geena Davis So Not Into a Thelma & Louise Remake: "Leave It the Hell Alone!" Hollywood sure loves a remake. And it seems like every couple of months we're hit with another rumor that producers are looking to rem.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/702254/geena-davis-so-not-into-a-thelma-louise-remake-leave-it-the-hell-alone');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201591/rs_634x1024-151001155828-634-thelma-louise.l.s10115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Thelma and Louise, Geena Davis, Susan Sarandon");
+	var imageCaption = encodeURIComponent("Thelma and Louise, Geena Davis, Susan Sarandon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Sony Pictures
+
+Hollywood sure loves a remake.And it seems like every couple of months we're hit with another rumor that producers are looking to remake Thelma & Louise.That doesn't sit well with Geena Davis, who starred alongside Susan Sarandon in the 1991 film."Leave it the hell alone," Davis told me earlier today on her way to the San Diego Film Festival, where she was set to receive this year's Reframed Humanitarian Award. "I mean, come on! People can do whatever they want but it doesn't seem like it needs to be remade."People are still watching it the same amount as they ever did," the Oscar winner said. "It's hard to meet someone who hasn't seen the movie. I think it holds up."
+
+For the record, Sarandon is also against a remake. "I'm not in favor of a remake, and I'm not sure what the idea behind it would be," the Dean Man Walking star told Vulture in 2012 after Lindsay Lohan tweeted she wanted to star in a remake with Jennifer Lawrence. "It's a great story that could maybe be redone in a different context, with perhaps two guys. But re-creating it similarly to the way it was already done doesn't make sense to me."Davis, however, is excited that a Beetlejuice sequel is finally going to be made—even if she doesn't think she'll be back. In the 1988 film, she and Alec Baldwin play married ghosts who ask a "bio-exorcist" to rid the house they haunt of the family that's just moved in."They haven't talked to me about it, but I'm assuming ghosts don't age so what would they do?" Davis said, laughing. "It's been almost 30 years!"That's not all the Geena we have for you. Come back tomorrow to find out what she said about the very simple thing Hollywood could do to finally end its gender inequality problem.And check out the video below to hear what Sarandon told E! News about working with then-newcomer Brad Pitt in Thelma & Louise.
+/n

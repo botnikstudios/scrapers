@@ -1,0 +1,103 @@
+X Factor UK Alum James Arthur Set to Perform on The Tonight Show: 'It Feels Kind of Like Redemption'
+/n
+After a complicated past few years, British singer-songwriter James Arthur is ready to make his comeback.
+The X Factor UK season 9 winner is set to perform his single, “Say You Won’t Let Go,” on The Tonight Show on Tuesday.
+“I am terrified, but it’s a milestone in my career,” Arthur, who’s a “super fan” of the show, told PEOPLE ahead of his performance. “It’s one of the biggest things anyone can do in their career.”
+He adds: “I feel like I’ve been working for years and years building up to this moment, getting my chance to introduce myself to the American public. I’m both excited and s—ting myself.”
+The single, which Arthur describes as a “conversational love song,” has been in the Top 10 on iTunes since early January and just recently entered the Top 20 on Billboard‘s Hot 100.
+“I wanted to try and make it not corny, but say all the things that you want to say to somebody that you really love and that you want to spend the rest of your life with,” he explains.
+When he takes the Tonight Show stage, the 29-year-old will perform an acoustic version of his hit—like in the exclusive video below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-16ef54cd164481c10e754752388ce499-59a509bd6f525');
+				var iframe = document.getElementById('wpcom-iframe-16ef54cd164481c10e754752388ce499-59a509bd6f525');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-16ef54cd164481c10e754752388ce499-59a509bd6f525'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“I perform very differently,” Arthur says of doing acoustic performances. “It’s more intimate and more emotional, I think. There’s just more space, and more freedom. You can do whatever you like, and a lot of it’s improvised when I do acoustic stuff.”
+With that, Arthur hopes this take on the song will “create a moment” on the NBC talk show. “We’re going to use that time to reach people in a good way,” he says.
+In 2014, Arthur was in a far different place in his life. Following controversial lyrics, he was dropped by Simon Cowell‘s record label, Syco. He re-signed with them two years later. Then, that same year, Arthur opened up about his struggle with mental health issues and drug use.
+“I’m in a better place,” he says of his life today. “But I think I’m always going to have those struggles.”
+“Unfortunately, from a young age I’ve had this nervous disposition and music’s the way that I’ve always channeled that energy,” he explains. “If not, then I’d have got myself into trouble. I’ve spoken out of turn and I’ve gotten myself into addiction. It’s something that’s tormented me throughout my life—my struggle with anxiety, which has led to depression I guess.”
+Looking back on his journey, Arthur admits that it’s been a “funny one.”
+“Where I’m from, I did lots of gigs and tried very hard to make a living off of music and I struggled,” he says. “Out of nowhere my X Factor journey happened, basically because I needed some money to put some electricity on. I asked my mom if she would loan me some money, and she said, ‘Yeah, I will if you go audition for the X Factor.'”
+Initially, Arthur didn’t want to go on the reality singing competition series. “I did it basically for my mum,” he says. Fast-forward six months later and not only is Arthur the winner of The X Factor UK, but he’s also “one of the most famous men in Britain.”
+Following his sudden fame, Arthur “pressed the self-destruct button because the pressure was too much.”
+“I wasn’t really cut out,” he explains. “At that time, I don’t think I was prepared. Two years went by without a record deal because of my behavior and things I did through immaturity and mental illness and drug addiction. Then I got myself together.”
+Although Arthur says he’s “by no means rehabilitated fully,” he notes that he doesn’t “live that lifestyle anymore.”
+“I don’t punish myself as much as I used to. I’m very focused on my music now and inspiring other people with my story,” he says. “I’m about to do the Jimmy Fallon show and it feels kind of like redemption for me on a personal level. I feel like I’ve climbed to the top of a very big mountain—one that felt like it was unreachable.”
+Olaf Heine
+Arthur credits his desire to inspire others for helping him keep going.
+“I know when I was at my lowest, other people’s music inspired me and their stories of overcoming adversity,” he says. “I wanted to create my own. I wanted to help other people with my story.”
+As for his relationship with Cowell today, Arthur says it’s “very good.”
+“We were just misunderstanding each other for a moment,” explains Arthur. “I was in a place where nobody could really communicate with me, so I guess from the outside Simon probably thought I was a bit of a lost cause at one point.”
+“But credit to him, when I was ready to talk to him properly, he heard me out,” says Arthur. “He gave me a lot of respect and he believed in me and he had faith in me and I’m very grateful for that.”
+Looking forward, Arthur says that the Tonight Show is going to be a “special moment” for him.
+“[People] are going to be witnessing probably the highlight of my career so far,” he says, adding that he wants to “encourage anybody that’s going through the stuff that [he’s] gone through—anxiety and mental health issues—to speak out, speak about it, and be open and honest with people.”
+“It can really help,” he says.
+/n

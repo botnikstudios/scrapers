@@ -1,0 +1,46 @@
+EXCLUSIVE! Viola Davis Only Knows One Thing About Her Potential 2017 Oscars Speech: ''It Will Come From My Heart'' Perhaps her lack of preparation is a bit of a superstition. Davis has previously lost the Best Supporting .../n
+If she wins, Viola Davis hasn't thoroughly thought out her 2017 Oscars speech, but she can promise it will be heartfelt and uplifting.The actress stopped by E!'s Live From the Red Carpet and opened up toRyan Seacrest about what she would say if she ended up winning Best Supporting Actress for her role in Fences."Top of mind would just be [playwright] August Wilson and the universal message of humanity that he gives to people," she dished. "I don't know what it's going to be. I'm trying to come up with something wonderful, but it will come from my heart."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832163/viola-davis-only-knows-one-thing-about-her-potential-2017-oscars-speech-it-will-come-from-my-heart');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017126/rs_1080x1350-170226165527-1080.Viola-Davis-Oscars-Hollywood.kg.022617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, 2017 Oscars, Academy Awards, Instagram");
+	var imageCaption = encodeURIComponent("Viola Davis, 2017 Oscars, Academy Awards, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+Perhaps her lack of preparation is a bit of a superstition.Davis has previously lost the Best Supporting Actress award for Doubt in 2008 and the Best Actress award for The Help in 2011, even when the odds were in her favor.In fact, in an interview with Jimmy Kimmel earlier this month, she admitted, "I've been the odds on favorite to win before and did not. It's devastating; it makes it worse. You're sitting there and you're like, 'OK, I'm the odds-on favorite.' And then your name is not called."To further illustrate her point, the How to Get Away With Murder actress said, "It's like falling from a 100-story building...If you know you're losing, it's like falling from a one-story building."
+
+We wish her all the luck that she doesn't fall from any metaphorical buildings this year!
+/n

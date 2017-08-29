@@ -1,0 +1,83 @@
+Harrison Ford Flies Plane With Wife Calista & Son Liam After Near Crash/n
+
+					var next_post_url = "http://radaronline.com/photos/jennifer-lopez-tight-leather-skirt-date-alex-rodriguez-pics/";
+					var prev_post_url = "http://radaronline.com/photos/scheana-marie-reunion-drama-vanderpump-rules-romantic-trip-new-man/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-03-26T14:08:41+00:00","caption":"&nbsp;\n\nBack to the not-so-friendly skies! Just one month after he nearly crashed into a commercial airliner, Harrison Ford was spotted boarding his private jet with wife Calista Flockhart and 16-year-old son Liam.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-pp-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:16+00:00","caption":"Ford, 74, and Flockhart, 52, prepared to take off from Santa Monica Airport on March 25. Teen Liam also came along for the ride.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-7.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:17+00:00","caption":"But is the family safe in the Star Wars actor's hands?","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:18+00:00","caption":"On February 13, the star accidently landed his plane on a taxiway instead of a runway at John Wayne Airport in Orange County, California, putting the lives of 116 people on a nearby American Airlines flight at risk.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:19+00:00","caption":"The shocking incident was caught on camera.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:20+00:00","caption":"In March 2015, Ford nearly lost his life when he crash-landed his plane onto a Los Angeles golf course after experiencing engine failure. He suffered various injuries, but made a full recovery.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:21+00:00","caption":"Sources told Radar that Flockhart demanded he stop flying after the scare \u2014 but he kept doing what he loved.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:22+00:00","caption":"She reportedly spent hours by his bedside in the hospital.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-26T13:31:23+00:00","caption":"Should Harrison stop playing pilot? Sound off in the comments.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/harrison-ford-calista-flockhart-son-liam-board-plane-after-incident-8.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Harrison Ford Flies Plane With Wife Calista & Son Liam After Near Crash
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9 
+
+Back to the not-so-friendly skies! Just one month after he nearly crashed into a commercial airliner, Harrison Ford was spotted boarding his private jet with wife Calista Flockhart and 16-year-old son Liam.2 of 9Ford, 74, and Flockhart, 52, prepared to take off from Santa Monica Airport on March 25. Teen Liam also came along for the ride.Photo credit: FameFlynet3 of 9But is the family safe in the Star Wars actor's hands?Photo credit: FameFlynet4 of 9On February 13, the star accidently landed his plane on a taxiway instead of a runway at John Wayne Airport in Orange County, California, putting the lives of 116 people on a nearby American Airlines flight at risk.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9The shocking incident was caught on camera.Photo credit: FameFlynet6 of 9In March 2015, Ford nearly lost his life when he crash-landed his plane onto a Los Angeles golf course after experiencing engine failure. He suffered various injuries, but made a full recovery.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Sources told Radar that Flockhart demanded he stop flying after the scare — but he kept doing what he loved.Photo credit: FameFlynet8 of 9She reportedly spent hours by his bedside in the hospital.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Should Harrison stop playing pilot? Sound off in the comments.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+ 
+
+Back to the not-so-friendly skies! Just one month after he nearly crashed into a commercial airliner, Harrison Ford was spotted boarding his private jet with wife Calista Flockhart and 16-year-old son Liam.Ford, 74, and Flockhart, 52, prepared to take off from Santa Monica Airport on March 25. Teen Liam also came along for the ride.Photo credit: FameFlynetBut is the family safe in the Star Wars actor's hands?Photo credit: FameFlynetOn February 13, the star accidently landed his plane on a taxiway instead of a runway at John Wayne Airport in Orange County, California, putting the lives of 116 people on a nearby American Airlines flight at risk.Photo credit: FameFlynetThe shocking incident was caught on camera.Photo credit: FameFlynetIn March 2015, Ford nearly lost his life when he crash-landed his plane onto a Los Angeles golf course after experiencing engine failure. He suffered various injuries, but made a full recovery.Photo credit: FameFlynetSources told Radar that Flockhart demanded he stop flying after the scare — but he kept doing what he loved.Photo credit: FameFlynetShe reportedly spent hours by his bedside in the hospital.Photo credit: FameFlynetShould Harrison stop playing pilot? Sound off in the comments.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+
+/n

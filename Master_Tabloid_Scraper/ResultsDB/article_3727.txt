@@ -1,0 +1,50 @@
+anniversary, ladies! "You'll have to excuse my mother; she suffered a slight stroke a few years ago, which rendered her totally annoying."—Dorothy Blanche: "I treat my body like a temple." Sophia: "Yeah, open to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/695734/22-golden-girls-insults-that-never-go-out-of-style');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141111/rs_634x1024-141211174129-634.The-Golden-Girls-Betty-White.ms.121114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Golden Girls, Betty White, Bea Arthur, Rue McClanahan");
+	var imageCaption = encodeURIComponent("The Golden Girls, Betty White, Bea Arthur, Rue McClanahan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+CBS via Getty Images
+
+Thank you for being a friend.Travel down the road and back again. Your heart is true, you're a pal and a confidant... And now the Golden Girls theme song is stuck in your head! Probably forever. And you'll never get it out again! Mwuahahaha!Sure, that was evil of us, but if you were going to get that little ditty stuck in your head, today is the best day for it. Because 30 years ago today, The Golden Girls premiered on NBC. Happy anniversary, ladies!
+
+So thank you, Dorothy, Rose, Sophia and Blanche, for always being a friend and for giving us insults, shade and jabs that are still completely relevant to this day. Sometimes, we all need a little Dorothy sass in our lives to tell off that annoying neighbor who doesn't ever shut up about her new line of vegan dog food.
+
+"You'll have to excuse my mother; she suffered a slight stroke a few years ago, which rendered her totally annoying."—DorothyBlanche: "I treat my body like a temple." Sophia: "Yeah, open to everyone, day or night." "I'm jumpier than a virgin at a prison rodeo."—Blanche"You know what they say: you can lead a herring to water, but you have to walk really fast or he'll die."—Rose"Why do blessings wear disguises? If I were a blessing, I'd run around naked."--Sophia Rose: "Well, I'm here if you want to pick my brain."Dorothy: "Rose, honey. Maybe we should leave it alone and let it heal." "There is a fine line between having a good time and being a wanton slut. I know. My toe has been on that line."—Blanche
+
+"Look, you didn't ask me for my opinion, but I'm old, so I'm giving it anyway."—Sophia"Oh please, it's bad enough hearing all those snickers as you walk down the aisle, but me in white, even I couldn't keep a straight face."—Blanche"Jealousy is a very ugly thing, Dorothy! And so are you, in anything backless."—Sophia"Must you always be so cheerful, you empty headed Mary Poppins knockoff?'—BlancheDorothy: "Oh c'mon, Blanche. Age is just a state of mind. "Blanche: "Tell that to my thighs.""What? Are you out of what is left of your mind?!"—Blanche"You're a furry little gnome and we feed you too much."—Dorothy
+
+"My mother always used to say: ‘The older you get, the better you get, unless you're a banana.'"—Rose"Excuse me, have I given you any indication at all that I care?"—Sophia "Eat dirt and die, trash."—Blanche "Go to sleep, sweetheart. Pray for brains."—DorothyBlanche: "My life is like an open book."  Sophia: "Your life is like an open blouse.""Fasten your seatbelt, slut puppy. This ain't gonna be no cakewalk!"—Sophia"Well, nobody ever believes me when I'm telling the truth. I guess it's the curse of every devastating beautiful woman."—BlancheBlanche: "Do you know what I hate doing most after a party?" Rose: "Trying to find your undies in the big pile?"Happy anniversary, Golden Girls! May Hollywood never think to reboot you.
+/n

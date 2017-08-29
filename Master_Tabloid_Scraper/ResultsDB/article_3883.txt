@@ -1,0 +1,56 @@
+How Ellen DeGeneres Easily Forgave Her Enemies in Hollywood Ellen DeGeneres is one of the most beloved people in Hollywood, but that wasn't always the case. In fact, after she publicly came out of the closet on the cover of TIME in 1997.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872743/how-ellen-degeneres-easily-forgave-her-enemies-in-hollywood');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017710/rs_634x873-170810103224-634.ellen-degeneres-good-housekeeping-2.81017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ellen DeGeneres, Good Housekeeping");
+	var imageCaption = encodeURIComponent("Ellen DeGeneres, Good Housekeeping");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Doug Inglish/Good Housekeeping
+
+Ellen DeGeneres is one of the most beloved people in Hollywood, but that wasn't always the case. In fact, after she publicly came out of the closet on the cover of TIME in 1997, it seemed as if everyone had turned against her. "I moved out of L.A., went into a severe depression, started seeing a therapist and had to go on antidepressants for the first time in my life. It was scary and lonely," she recalls. "All I'd known for 30 years was work, and all of a sudden I had nothing. Plus, I was mad. It didn't feel fair; I was the same person everyone had always known."DeGeneres, who graces cover of Good Housekeeping's September issue, eventually started exercising, meditating and writing again. "I slowly started to climb out of it," the comedian tells the magazine. "I can't believe I came back from that point. I can't believe where my life is now."While she "definitely" remembers who abandoned her, DeGeneres has since "forgiven them."
+
+
+
+Doug Inglish/Good Housekeeping
+
+"I understand it. I wish it was different. Show business is a business, and what I did was controversial at the time. There were sitcoms before and after mine showing people making out and having sex, and yet my show suddenly got an 'Adult Content' warning. Nobody told me that was going to happen," she says of her ABC sitcom, which ended after five seasons in 1998. "I couldn't believe it the first time I saw it. It was so insulting! Now, though, when I see those people at functions, there's definitely an unspoken 'I made a mistake' on their part and also an unspoken 'I accept your apology' on mine. Anger and aggression weaken you, because they take so much energy to hold in place. But kindness is a strength [that] makes you more serene."And if for some reason people still don't like her, the daytime talk show host isn't worried. "I don't know what people are saying about me, and I don't want to know, because I don't care," DeGeneres tells Good Housekeeping. "My motto is, 'I do my best. You can be with me or not.'"It's a mantra DeGeneres adopted early on in her career.
+
+
+
+Doug Inglish/Good Housekeeping
+
+"When I was coming out, someone gave me the Martha Graham quote, 'There is only one of you in all time. You're unique, and you're supposed to be,'" DeGeneres says, paraphrasing the late dancer and choreographer. "It's not up to you to try to change it or question it. You're supposed to be exactly who you are. I took in that message. I always remember it. It's not up to me to question why, who or how I am. I just accept who I am, and I don't judge myself."As an example, the comedian recalls, "Early on in stand-up, people told me to be edgier and curse, but that's just not who I am. It's not my style of humor, and that held me back for a while. I was neither the girl next door nor the ingénue, so nobody knew what to do with me."
+
+DeGeneres stayed true to herself, and she appreciated when other people encouraged that decision, as she believes in the Golden Rule: "Do unto others as you'd have them do unto you.""It's just the way we should live," DeGeneres says. "If we don't, it's chaos.""When you don't understand something, it becomes a battle," she adds. "Fear makes people defensive, aggressive and judgmental. But if you can see that while we're all different, our basic needs are the same—we all want love, safety and understanding—then it's easy to be kind."
+/n

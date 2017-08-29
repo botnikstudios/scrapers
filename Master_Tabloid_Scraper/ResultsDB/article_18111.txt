@@ -1,0 +1,89 @@
+Watch Chris Cornell's Daughter Toni, 12, Sing 'Hallelujah' on GMA as Tribute to Her Late Dad
+/n
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e7d975b5a63d401c54ea3a7ad283bfb5-59a54370cc1c5');
+				var iframe = document.getElementById('wpcom-iframe-e7d975b5a63d401c54ea3a7ad283bfb5-59a54370cc1c5');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e7d975b5a63d401c54ea3a7ad283bfb5-59a54370cc1c5'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+ABC Breaking News | Latest News Videos
+Chris Cornell‘s 12-year-old daughter Toni is honoring her father through the language he understood best: music.
+Toni, Cornell’s younger daughter, sported all white on Friday as she belted out Leonard Cohen’s “Hallelujah” alongside OneRepublic frontman Ryan Tedder to honor her late father and his close friend Chester Bennington during a Good Morning America appearance.
+“It’s an honor to perform this for my dad and Chester and to sing for them,” Toni said, according to ABC News.
+Members of the large crowd began to cry as the little girl delivered the lyrics in a somber tone similar to her father’s. The emotional tribute comes less than three months after Toni lost her dad, and just weeks after Bennington died.
+Courtesy Vicky Cornell
+Cornell was found dead on May 18 in his Detroit hotel room from suicide. He was 52. About two months later, on July 20, Bennington, 41, was found dead in an apparent suicide in his California home. Bennington’s body was found on what would have been Cornell’s 53rd birthday.
+A month after Cornell’s death, Toni and her sister, Lillian Jean, 17, wrote letters to the late Soundgarden and Audioslave frontman in observance of Father’s Day.
+“Let me start by saying how much I love you and how much you mean to me,” Toni’s wrote alongside a photo collage of herself with Cornell through the years. “You are my idol, someone I’ve always looked up to. You were always there for me. You pushed me forward every day, and you still do.”
+EXCLUSIVE: Chris Cornell’s Wife, Vicky, Opens Up About The Rocker’s Death: ‘He Didn’t Want To Die’
+
+“Whenever I cry or feel like there’s no way I can go on, I hear your voice, ‘Don’t sit worrying peanut. Worry is a waste of time, I’m ok,’ ” she continued. “I always took what you said to heart. Probably because everything you said was so smart.”
+This is not the first time Toni has shown off her inherited vocal skills. In 2015, she sang with her father during a show at New York City’s Beacon Theatre, video footage shows.
+If you or someone you know is showing warning signs of suicide, consider contacting the National Suicide Prevention Lifeline at 800-273-TALK, texting the Crisis Text Line at 741741 or seeking help from a professional.
+/n

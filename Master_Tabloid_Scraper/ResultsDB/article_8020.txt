@@ -1,0 +1,80 @@
+ Last Laugh! Inside The Garry Shandling Memorial: Kathy Griffin & Friends Say Goodbye.../n
+
+					var next_post_url = "http://radaronline.com/photos/david-backham-victoria-backham-divorce-rumors-separate-lives-pics/";
+					var prev_post_url = "http://radaronline.com/photos/chelsea-handler-fat-bikini-photos-weight-gain-mexico/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-03-28T14:57:45+00:00","caption":"Garry Shandling died on March 24 at age 66 and his friends \u2013 including Kathy Griffin, Judd Apatow, Sarah Silverman, Ryan Phillippe and Albert Brooks \u2013 gathered at the late comedian's L.A. home for a star-studded memorial on Sunday, where they played basketball and shared their favorite memories. Click through eight sad photos as RadarOnline.com exclusively reveals details of their final goodbye.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/garry-shandling-dead-funeral-kathy-griffin-albert-brooks.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-28T12:33:29+00:00","caption":"Griffin and her boyfriend Randy Bick were photographed leaving Shandling's home yesterday. According to a close friend of Griffin's, \"Garry was one of the only people that could make Kathy laugh and he helped her tremendously with her career.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/garry-shandling-dead-funeral-kathy-griffin-albert-brooks-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-28T12:33:31+00:00","caption":"\"Kathy and Garry have been friends since the 90's and, of course, she is devastated by his loss,\" the insider said.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/garry-shandling-dead-funeral-kathy-griffin-albert-brooks-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-28T12:33:32+00:00","caption":"The memorial service, which was attended by roughly 40 close friends, \"was more of a celebration than it was a super sad thing. They were all a very tight group and will always be, but Garry was kind of the glue that kept them together,\" said the source.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/garry-shandling-dead-funeral-kathy-griffin-albert-brooks-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-28T12:33:34+00:00","caption":"The group that gathered at Shandling's L.A. mansion included Griffin, 55, Apatow, 48, Silverman, 45, Phillippe, 41, Breckin Meyers, 41, Bill Maher, 60, Jeffrey Tambor, 71, and more. Nothing like a star-studded goodbye!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/garry-shandling-dead-funeral-kathy-griffin-albert-brooks-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-03-28T12:33:36+00:00","caption":"Brooks looked somber as he left the memorial for man he reportedly considered to be one of his best lifelong friends.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/03\/garry-shandling-dead-funeral-kathy-griffin-albert-brooks-05.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Last Laugh! Inside The Garry Shandling Memorial: Kathy Griffin & Friends Say Goodbye
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9garry-shandling-dead-funeral-kathy-griffin-albert-brooksGarry Shandling died on March 24 at age 66 and his friends – including Kathy Griffin, Judd Apatow, Sarah Silverman, Ryan Phillippe and Albert Brooks – gathered at the late comedian's L.A. home for a star-studded memorial on Sunday, where they played basketball and shared their favorite memories. Click through eight sad photos as RadarOnline.com exclusively reveals details of their final goodbye.Photo credit: Splash/Getty2 of 9EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.Griffin and her boyfriend Randy Bick were photographed leaving Shandling's home yesterday. According to a close friend of Griffin's, "Garry was one of the only people that could make Kathy laugh and he helped her tremendously with her career."Photo credit: Splash News3 of 9EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California."Kathy and Garry have been friends since the 90's and, of course, she is devastated by his loss," the insider said.Photo credit: Splash News4 of 9EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.The memorial service, which was attended by roughly 40 close friends, "was more of a celebration than it was a super sad thing. They were all a very tight group and will always be, but Garry was kind of the glue that kept them together," said the source.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.The group that gathered at Shandling's L.A. mansion included Griffin, 55, Apatow, 48, Silverman, 45, Phillippe, 41, Breckin Meyers, 41, Bill Maher, 60, Jeffrey Tambor, 71, and more. Nothing like a star-studded goodbye!Photo credit: Splash News6 of 9EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.Brooks looked somber as he left the memorial for man he reportedly considered to be one of his best lifelong friends.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9    #rip #garyshandling an amazing showing for a man who was not only a part of the  Thursday's boys dinner, he may be the reason this amazing group of friends has been meeting for close to 500 Thursdays in a row. Great respect for a kind and incredibly talented man #zachschiller @ryanphillippe @jessestern @jessebradford @bwash @cremdon @tyleramitchell @breckinmeyer @sarahkatesilverman @therealjeffreyross A post shared by Craig's Restaurant (@craigsla) on Mar 24, 2016 at 11:53pm PDT
+On Friday, just days after Shandling died of a massive heart attack, friends gathered at dinner and posted this photograph on Instagram. The caption read, "An amazing showing for a man who was not only a part of the Thursday's boys dinner, he may be the reason this amazing group of friends has been meeting for close to 500 Thursdays in a row. Great respect for a kind and incredibly talented man."8 of 9    Yesterday we lost our most brilliant comic mind & I lost the most generous loving mentor & friend. Who will I guard? A post shared by @sarahkatesilverman on Mar 25, 2016 at 12:14pm PDT
+The source told Radar, "The hardest thing for everyone to understand is why Garry had to go first. He was such a light in so many lives and that is how everyone wanted to remember him." 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9    I'm 1 of many comics that can say it- he made us feel special til we believed it. My teacher my friend my Garry A post shared by @sarahkatesilverman on Mar 28, 2016 at 7:00am PDT
+"After one last game of basketball at his house, which was a tradition, they went around and shared the one funniest moment that they will remember Garry by. There was a lot of laughing and a lot of tears, but everyone got the closure that they wanted from this," said the source. 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+garry-shandling-dead-funeral-kathy-griffin-albert-brooksGarry Shandling died on March 24 at age 66 and his friends – including Kathy Griffin, Judd Apatow, Sarah Silverman, Ryan Phillippe and Albert Brooks – gathered at the late comedian's L.A. home for a star-studded memorial on Sunday, where they played basketball and shared their favorite memories. Click through eight sad photos as RadarOnline.com exclusively reveals details of their final goodbye.EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.Griffin and her boyfriend Randy Bick were photographed leaving Shandling's home yesterday. According to a close friend of Griffin's, "Garry was one of the only people that could make Kathy laugh and he helped her tremendously with her career."EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California."Kathy and Garry have been friends since the 90's and, of course, she is devastated by his loss," the insider said.EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.The memorial service, which was attended by roughly 40 close friends, "was more of a celebration than it was a super sad thing. They were all a very tight group and will always be, but Garry was kind of the glue that kept them together," said the source.EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.The group that gathered at Shandling's L.A. mansion included Griffin, 55, Apatow, 48, Silverman, 45, Phillippe, 41, Breckin Meyers, 41, Bill Maher, 60, Jeffrey Tambor, 71, and more. Nothing like a star-studded goodbye!EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY***NO TV until 8pm PST*Kathy Griffin looks sombre as she leaves a memorial for Garry Shandling held at his home in Los Angeles, California.Brooks looked somber as he left the memorial for man he reportedly considered to be one of his best lifelong friends.On Friday, just days after Shandling died of a massive heart attack, friends gathered at dinner and posted this photograph on Instagram. The caption read, "An amazing showing for a man who was not only a part of the Thursday's boys dinner, he may be the reason this amazing group of friends has been meeting for close to 500 Thursdays in a row. Great respect for a kind and incredibly talented man."The source told Radar, "The hardest thing for everyone to understand is why Garry had to go first. He was such a light in so many lives and that is how everyone wanted to remember him.""After one last game of basketball at his house, which was a tradition, they went around and shared the one funniest moment that they will remember Garry by. There was a lot of laughing and a lot of tears, but everyone got the closure that they wanted from this," said the source. 
+
+
+
+
+
+
+
+
+
+/n

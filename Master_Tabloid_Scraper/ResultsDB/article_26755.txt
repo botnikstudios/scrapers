@@ -1,0 +1,43 @@
+Shelf Life: What’s in Constance Zimmer’s Beauty Cabinet Another week, another peek into the beauty closet of a Hollywood stunner.  Actress Constance Zimmer—star of UnREAL on Lifetime—is not only beautiful, but eco-conscious when it comes to .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/671461/shelf-life-what-s-in-constance-zimmer-s-beauty-cabinet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015529/rs_464x749-150629114436-634.constance-zimmer-shelfMirror.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Shelf Life: Constance Zimmer");
+	var imageCaption = encodeURIComponent("Shelf Life: Constance Zimmer");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Another week, another peek into the beauty closet of a Hollywood stunner. Actress Constance Zimmer—star of UnREAL on Lifetime—is not only beautiful, but eco-conscious when it comes to her skincare must-haves, too: One of her favorite product lines is Alaffia, which includes sustainable, handcrafted beauty fare from Olympia, Washington. Zimmer also loves her some dry shampoo (and goes for the best in the business). As far as eye treatments, she opts for what's Fresh (literally).Read on for more of Constance's beauty faves below—you might find your new cabinet staple.
+
+1. Usana Pure Rest Melatonin Vitamins: "Because getting a good night's sleep is the best kind of beauty regimen."2. Alaffia Authentic African Black Soap: "Fair Trade, non GMO, no synthetic fragrances. I love to support companies that are using natural ingredients to create an amazing product while supporting empowerment projects."3. Fresh Lotus Eye Gel: "Fresh makes many things I love, but right now I am addicted to their Lotus Eye Gel for puffiness and dark circles. I also love their Sugar Lip Treatment in Honey."4. Mario Badescu Drying Lotion: "To calm those breakouts before they get out of control."5. Renee Rouleau Anti-Cyst treatment: "Renee Rouleau makes an anti-cyst treatment that—hate to admit it!—I've been needing a lot these days."6. Renee Rouleau Pro Remedy Oil: "With all the traveling I've been doing, Renee's Pro Remedy Oil has been keeping my skin hydrated and glowing."7. Le Labo Santal 33 Perfume: "I have my husband to thank for finding this for me. It's a little earthy, mixed with a nice combination of sweet. I can't leave the house without it on and everyone always asks what I'm wearing."8. Alaffia Coffee & Shea Cafe au Lait Body Lotion: "I also love the lotion from the brand—I use it every day."9. Trader Joe's Tahitian Paradise Brown Sugar Body Scrub: "This scrub is a great exfoliant and moisturizer at the same time."10. Colorescience Pro Sunforgettable Very Water Resistant Powder Sun Protection SPF 50: "I use it every day for extra sunscreen even when I don't wear makeup."11. Drybar Detox Dry Shampoo: "I don't go anywhere without dry shampoo!"12. Oribe Dry Texturizing Spray: "This has also been my go-to lately."—Additional reporting by Dina Sansing & Cinya Burton
+/n

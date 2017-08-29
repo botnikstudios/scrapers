@@ -1,0 +1,82 @@
+June Foray, Voice of Rocky and Natasha from The Bullwinkle Show, Dies at 99
+/n
+June Foray, the voice of Rocky the Flying Squirrel and Natasha Fatale from The Bullwinkle Show, died Thursday. She was 99.
+Foray, known as the first lady of acting, played various characters on the screen from the Looney Tunes‘ Witch Hazel, Nell from Dudley Do-Right, Granny in Tweety and Sylvester, and Cindy Lou Who in Chuck Jones’ How the Grinch Stole Christmas.
+A close friend of Foray’s, Dave Nimitz, confirmed her death on Facebook, writing, “With a heavy heart again I want to let you all know that we lost our little June today at 99 years old.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-9591ca9c924127a1e11fc3385bc29914-59a57ce13db51');
+				var iframe = document.getElementById('wpcom-iframe-9591ca9c924127a1e11fc3385bc29914-59a57ce13db51');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-9591ca9c924127a1e11fc3385bc29914-59a57ce13db51'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Foray won a Daytime Emmy for The Garfield Show in 2012, in which she played Mrs. Cauldron. She received a Grammy Award for voicing Cindy Lou Who in 1968 and received the Television Academy’s Governors Award in 2013.
+She was approached to voice character in The Bullwinkle Show in the late 1950s, telling the Los Angeles Times in 2011 that she was excited by the idea.
+“My agent called and said there is a man named Jay Ward who wants to meet you for lunch,” she said. “He has an idea for a TV show. I said, ‘Why not?’… [Jay] and Bill Scott started telling me about this idea they had about a moose and a squirrel. I thought it was a cockeyed idea, but after the second martini, I thought it was wonderful.”
+“A week later we did a demo, and then I forgot about it. Then about a year later my agent called and said, ‘Remember those guys that you had lunch with that had the idea of a moose and a squirrel? They are ready to go.'”
+/n

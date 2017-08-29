@@ -1,0 +1,56 @@
+EXCLUSIVE! Janet Jackson Goes on a Shopping Spree After Confirming Her Separation Janet Jackson was on a spree.    The new mom hit the streets of London Thursday to shop for her newborn son, Eissa Al Mana. However, the star didn't go ju.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848525/janet-jackson-goes-on-a-shopping-spree-after-confirming-her-separation');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201744/rs_634x1024-170504112609-634-Janet-Jackson-EXCL-JR-050417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Janet Jackson, EXCLUSIVE");
+	var imageCaption = encodeURIComponent("Janet Jackson, EXCLUSIVE");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID
+
+Janet Jackson was on a spree.  The new mom hit the streets of London Thursday to shop for her newborn son, Eissa Al Mana. However, the star didn't go just anywhere to buy for her baby. Jackson stepped into Blue Almonds, a shop Duchess of Cambridge Kate Middleton also frequents for her royal tots. Among the items she took home to her son were a white collared onesie and a cashmere gray jumper.  Sporting an oversized black Givenchy coat, loose black pants, sneakers and a cap, the 50-year-old kept cozy and comfortable as she walked the streets clutching a black Hermès purse. However, her left hand was noticeably missing an engagement or wedding ring. 
+
+
+
+BACKGRID
+
+After perusing the children's store, Jackson headed into a furniture store next door. Fortunately, she was able to take a look around in privacy as both shops locked their doors while she was inside. As one source said, Jackson "looked relaxed and happy."She seemed equally in good spirits just days ago when the triple threat took to the Internet to confirm the news of her split from her husband of five years, Wissam Al Mana."Yes, I separated from my husband," she said into the camera during a YouTube video. "We are in court and the rest is in God's hands."The new mom also gushed about her baby boy for the first time publicly. "I thank God for him you guys," Janet shared. "He's so healthy. He's so beautiful, so loving, such a happy baby."
+
+
+
+BACKGRID
+
+While she raises her son, Jackson also has another big project on the calendar—her rescheduled world tour. "I'm continuing my tour as I promised. I'm so excited you guys. I decided to change the name of the tour: The State of the World tour," she told fans in the video."It's not about politics. It's about people, the world, relationships and just love."
+
+She ended on a grateful note. "I want to thank you guys for your patience, for all your support throughout the years. I cannot wait to see you on stage September 7." 
+/n

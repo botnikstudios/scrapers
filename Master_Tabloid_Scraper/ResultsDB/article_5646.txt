@@ -1,0 +1,59 @@
+Kate Moss' Lookalike Little Sister Lottie Moss Takes to the Runway at Paris Fashion Week—See the Pic, Do a Double Take! Lottie Moss is looking a lot like big sis these days! Kate Moss' younger sister made her runway debut at Paris .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/634062/kate-moss-lookalike-little-sister-lottie-moss-takes-to-the-runway-at-paris-fashion-week-see-the-pic-do-a-double-take');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015210/rs_634x1024-150310120327-634-Lottie-Moss-paris-fashion-week.jw.31015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lottie Moss, Paris Fashion Week");
+	var imageCaption = encodeURIComponent("Lottie Moss, Paris Fashion Week");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX USA
+
+Lottie Moss is looking a lot like big sis these days!Kate Moss' younger sister made her runway debut at Paris Fashion Week in the Sonia Rykiel fall-winter 2015 show, where she modeled a printed velvet dress, black booties and gunmetal minaudière. Yeah, we had to double take too: With her long blond locks, strong cheek bones and green eyes, Lottie is, well, like the second coming of her famous supermodel sibling.And the 17-year-old is no stranger to modeling: In 2014, she was featured in a Teen Vogue editorial, which noted as her "first proper job." (The eager teen mentioned she'd love to work for the mag.) She also talked about Kate's influence on her career path: "It kind of runs in the family," she quipped. "Kate was a massive part of why I started."
+
+And in July, Lottie starred in a sexy black-and-white pictorial for Calvin Klein's nine-item exlusive line with Mytheresa.com, in which she modeled jeans, sports bras and baggy tees. The model's first major campaign came just months after she signed with modeling agency Storm, under the same management team that represents Kate.
+
+
+
+
+Calvin Klein
+
+(And, ahem, you might remember the Calvin Klein shoot with Kate and Mark Wahlberg that made jaws drop in the '90s.)
+
+
+
+
+David M. Benett/Getty Images
+
+Lottie is one of a few famous model siblings dominating the catwalk in Paris (the league of extraordinary teen supermodels includes Kendall Jenner and Gigi Hadid.)It looks like Lottie is well on her way to a major career in fashion and, let's be real, being a Moss doesn't hurt!
+/n

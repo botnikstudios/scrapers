@@ -1,0 +1,46 @@
+Family Even If Her Kids "Don't Get It" Yet "They don't get it. They really don't," she said. "Maybe one day." Kerry who is the mom to three-year-old Isabelle and eight month Caleb said there isn&#.../n
+Kerry Washington showed up to the Cars 3 premiere with a heart full of love.The actress and mommy-of-two told E! News just how excited she was to be part of the iconic Disney Pixar family."I love being part of the Cars franchise," she shared with Sibley Scoles. "It's one of my favorite film series. And I just love being a part of this family."The actress voices new character Natalie Certain in the upcoming third installment of the film series. And while she may seem head over heels about joining the well-renowned animated film franchise, she says her kids couldn't care less.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860518/kerry-washington-loves-being-part-of-the-pixar-family-even-if-her-kids-don-t-get-it-yet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017512/rs_634x920-170612114240-634.cars-3.61217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Armie Hammer, Cristela Alonzo, Kerry Washington, Owen Wilson");
+	var imageCaption = encodeURIComponent("Armie Hammer, Cristela Alonzo, Kerry Washington, Owen Wilson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jesse Grant/Getty Images for Disney
+
+"They don't get it. They really don't," she said. "Maybe one day."Kerry who is the mom to three-year-old Isabelle and eight month Caleb said there isn't much you can teach them about Cars when they are that young."You just read your bedtime stories and let the world take care of the rest. You just got to stay in mom mode," she said. Nevertheless, the star who graced the red carpet with an Oscar de le Renta pop of pink and Sophia Webster clutch thinks her time of being "cool" is on the horizon.
+
+"One day I'll be cool. Probably not in my own home ever, but one day, somewhere, I'll be cool," she joked. Cars 3 hits theaters this Friday.
+/n

@@ -1,0 +1,44 @@
+Emile Hirsch Caught Peeing on a Cactus (No, Really) Nature calls! And apparently Emile Hirsch received an urgent call, given that he was caught peeing on a potted cactus outside Bootsy Bellows nightclub Tuesday night in West Hollywood. The 27-year-ol.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/369186/emile-hirsch-caught-peeing-on-a-cactus-no-really');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012116/reg_634.EmileHirsch.Peeing.Cactus.mh.120612.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emile Hirsch");
+	var imageCaption = encodeURIComponent("Emile Hirsch");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ROLO/AKM-GSI
+
+Nature calls!And apparently Emile Hirsch received an urgent call, given that he was caught peeing on a potted cactus outside Bootsy Bellows nightclub Tuesday night in West Hollywood.The 27-year-old actor had no shame as he relieved himself in the wee hours of the night and let it all hang out in front of unsuspecting clubgoers. 
+
+Based on Emile's stunned stare and wide-eyed expression, the Into the Wild actor looks like he didn't expect (or appreciate) it when paps snapped a pic of his late-night gaffe.No word yet if there were any adult beverages consumed prior to the incident.We'll just chalk it up to an average night in Hollyweird. 
+/n

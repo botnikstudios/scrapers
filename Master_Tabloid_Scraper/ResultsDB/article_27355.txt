@@ -1,0 +1,105 @@
+T.J. Maxx and 5 Other Stores That May Actually Survive the Death of Retail/n
+
+With the rise of e-commerce, news of massive store closures and bankruptcies for legacy retail brands have become business as usual in today’s economy.
+But according to experts in the industry, the retail apocalypse will not lead to the desolate and abandoned brick-and-mortar landscape that many expect will come as a result of Amazon and other digitally native retailer’s continued dominance.
+In fact, a number of retailers have not only survived the impact of a changing retail industry, they’ve thrived. These stores, which include the mega-discount retailer and Amazon’s greatest competitor Walmart, have found alternative approaches to growing their consumer base and catering to a digital-first world.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-572c7fda5736d8b30c65b2d0dac377f8-59a57f9fb91f8');
+				var iframe = document.getElementById('wpcom-iframe-572c7fda5736d8b30c65b2d0dac377f8-59a57f9fb91f8');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-572c7fda5736d8b30c65b2d0dac377f8-59a57f9fb91f8'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The National Retail Federation saw a 3.6% growth in retail sales in 2016, and they expect that number to grow this year, said NRF President and CEO Matthew Shay.
+“There are dozens of retailers that have announced plans to add new stores and have robust growth,” Shay said. “While some of these stores are closing, many, many stores are also going to be opened this year.”
+Thriving retailers have a number of qualities that best suite their consumers. For many, that includes attracting millennial and Gen-Z shoppers and selling discounted items that can compete with Amazon, said Jeff Roster, vice president of retail strategy at IHL, a research firm for the retail and hospital industries.
+“It’s a retail apocalypse if you’re in one of those pockets that did not recreate themselves,” Roster said. “Depending on your outlook, it could be catastrophic — or this is the ebbs and flows of business. And I think it’s that.”
+For both brick-and-mortar and digitally native retailers to thrive, Shay said, they must find common ground between the two platforms — and they must adapt to the needs of their customers.
+And some retailers have already done that. Check out six of the retailers that are bucking the apocalyptic trend:
+
+Zara
+The Spanish retailer known for fast fashion has had a stunning performance in recent months, with a reported $733.3 million in net profit for the first quarter. That’s a 18% jump from the same period last year.
+
+T.J. Maxx
+The discount retailer saw its sales increase by 3% to $7.8 billion in the first quarter of the year. Known for its marked down prices on high-end brands, T.J. Maxx has also opened 65 new stores in 2017, according to an IHL analysis.
+RELATED PHOTOS: The Shoes Fashion Girls Can’t Stop Wearing This Summer
+
+Dollar General
+The variety stores chain had $5.61 billion in sales during the first quarter of 2017 — that’s more than $5.27 billion during the same time last year. The brand also has opened 1,000 stores in 2017 — the most stores of any retailer. And Dollar General hasn’t had to change its model to survive the trying times, according to Roster of IHL. “They’re growing dramatically,” he said.
+
+Sephora
+The make-up chain is continuing “a record revenue growth,” according the company’s latest quarterly report. In the U.S., the store has opened 70 stores this year.
+
+Walmart
+The largest employer in the U.S., Walmart has continued to find ways to reinvent its consumer strategy to adapt and thrive in a digitally dominate industry. The store saw a 1.4% increase in sales this last quarter, and has opened 59 more stores so far this year. The company has also launched a number of new initiatives like a free two-day delivery service for orders $35 and under as well as a home delivery service that enlists its store’s employees.
+
+Nordstrom
+Unlike its competitors like Macy’s and JCPenney, Nordstrom has grown amid a difficult time for shopping mall-bound retailers. The company saw a 2.7% increase in sales last quarter and has opened 17 new stores since the start of the year.
+What stores do you regularly shop? Share in the comments below.
+This article originally appeared on Time.com
+/n

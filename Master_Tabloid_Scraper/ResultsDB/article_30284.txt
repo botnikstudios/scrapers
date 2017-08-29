@@ -1,0 +1,44 @@
+Calvin Harris Announces Star-Studded New Album Featuring Katy Perry, Nicki Minaj and John Legend Big Sean, Nicki Minaj and Snoop Dogg are some of the rappers set to appear. Pop superstars Ariana Grande and Katy Perry are also slated to colla.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/849755/calvin-harris-announces-star-studded-new-album-featuring-katy-perry-nicki-minaj-and-john-legend');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201554/rs_634x1024-150604122450-634.katy-perry-calvin-harris-rita-ora-ellie-goulding.jw.6415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ellie Goulding, Katy Perry, Calvin Harris, Rita Ora");
+	var imageCaption = encodeURIComponent("Ellie Goulding, Katy Perry, Calvin Harris, Rita Ora");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Mazur/WireImage
+
+Big Sean, Nicki Minaj and Snoop Dogg are some of the rappers set to appear. Pop superstars Ariana Grande and Katy Perry are also slated to collaborate on tracks.And before fans begin to speculate that it's shade towards Taylor Swift , we have to remind you that Calvin and Katy have been friendly for years.Let us rewind to 2013 when the pair met up at the MTV EMAs in Amsterdam with Ellie Goulding and Rita Ora. In other words, the music industry is a small place after all.
+
+Funk Wav Bounces Vol. 1 is Calvin's first full-length album since 2014's Motion. The album featured hit songs and collaborations with artists ranging from Tinashe and Gwen Stefani to HAIM and Ellie.In January, Calvin teased the fact that he would be releasing 10 new songs in 2017. Back in February, fans got an early taste with the release of "Slide" featuring Frank Ocean and Migos.One month later and the arrival of "Heatstroke" with Ariana, Pharrell Williams and Young Thug became public. The question now remains: Will Calvin have the song of the summer? Stay tuned! 
+/n

@@ -1,0 +1,46 @@
+Miss Missouri Sophia Dominguez-Heithoff Crowned Miss Teen USA 2017 Ladies and gentlemen, meet your new Miss Teen USA! Out of 51 beautiful contestants, Miss Missouri Sophia Dominguez-Heithoff wowed the judges like nobody else with her brains,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870152/miss-missouri-sophia-dominguez-heithoff-crowned-miss-teen-usa-2017');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017629/rs_634x953-170729104428-634-miss-teen-usa-miss-missouri-2-072817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sophia Dominguez-Heithoff, Miss Missouri Teen USA 2017, Preliminary Competition, Evening Gown");
+	var imageCaption = encodeURIComponent("Sophia Dominguez-Heithoff, Miss Missouri Teen USA 2017, Preliminary Competition, Evening Gown");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ Patrick Prather / The Miss Universe Organization
+
+Ladies and gentlemen, meet your new Miss Teen USA!Out of 51 beautiful contestants, Miss Missouri Sophia Dominguez-Heithoff wowed the judges like nobody else with her brains, talent and beauty Saturday night at the annual beauty pageant.There were plenty of reasons to celebrate in the final moments of the telecast streamed live online, as Sophia and all the finalists went through quite a weekend before a winner was crowned. In fact, Miss Missouri's toughest task may have come during the Q&A portion. During her impressive question and answer segment, the 17-year-old explained that during her Girl Scouts project she lobbied the Missouri legislature to pass a law to help adults with developmental disabilities.Sophia is a Kansas City native, who is slated to attend the University of Kansas. 
+
+The pageant, which was hosted by Heidi Powell and E! News' Erin Lim,  started off with 51 young ladies ages 14-19 competing from all 50 states, including the District of Colombia. However, in tonight's ceremony—which took place at the Phoenix Symphony Hall in Phoenix, Ariz.—only the top fifteen went on to compete in the athletic wear category as well as evening gown.After that, the group was paired down to a mere five. Then, the top five contestants, Miss Oregon Vanessa Matheson, Miss Nevada Alexis Smith, Miss California Jaanu Patel, Miss Indiana Paige Robinson and Miss Missouri joined on-stage for the final interview questions.Finally, last year's winner Karlie Hay handed over the crown during the popular competition.Check out the 51 young women who were vying for the top honor...
+
+In addition to winning Miss Teen USA pageant, the winner will receive a $10,000 scholarship and a $5,000 cash reward.
+/n

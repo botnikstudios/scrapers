@@ -1,0 +1,41 @@
+NAACP Image Awards 2017 Red Carpet Arrivals: See Tracee Ellis Ross, Regina Hall and More Famous Faces The 2017 NAACP Image Awards is off to quite a star-studded start! As the red carpet rolled out in front of Los Angeles's Pasadena Civi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/828584/naacp-image-awards-2017-red-carpet-arrivals-see-tracee-ellis-ross-regina-hall-and-more-famous-faces');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017111/rs_634x1024-170211171210-634.Tracee-Ellis-Ross-NAACP-Pasadena.kg.021117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tracee Ellis Ross, 48th NAACP Image Awards");
+	var imageCaption = encodeURIComponent("Tracee Ellis Ross, 48th NAACP Image Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paras Griffin/Getty Images
+
+The 2017 NAACP Image Awards is off to quite a star-studded start!As the red carpet rolled out in front of Los Angeles's Pasadena Civic Auditorium on Saturday evening, plenty of famous faces arrived to celebrate people of color's most outstanding achievements in film, television, music and literature across the past year. Anthony Anderson is set to host the 48th Annual NAACP Image Awards for the fourth consecutive year, while Taraji P. Henson, Sterling K. Brown, Octavia Spencer, Tracee Ellis Ross, Mandy Moore, Janelle Mon&#/n

@@ -1,0 +1,46 @@
+2018, and air as season three.  Focusing on the 2005 hurricane and its devastating aftermath, Katrina will star Annette Beningas Louisiana governor Kathleen Blanco, Matthew Broderick as FEMA director Michael D. Brown, and Dennis Quaid as Pre.../n
+FX is switching things around a bit when it comes to American Crime Story. Hurricane Katrina was originally announced as the follow up to the wildly successful first season of the anthology series, with the third season set to cover Andrew Cunanan's murder of Gianni Versace. Now, plans have changed, and FX has made a swap. The Assassination of Gianni Versace will now air as season two in 2018, E! News has confirmed, starring Edgar Ramirez as Gianni Versace, Penélope Cruz as Donatella Versace, and Darren Criss as Andrew Cunanan. Max Greenfield and Ricky Martin will also star. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860859/american-crime-story-switcheroo-the-assassination-of-gianni-versace-will-now-air-before-katrina');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017412/rs_698x1024-170512164402-634.Edgar-Ramirez-Filming-Miaimi.ms.051217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Edgar Ramirez, Versace: American Crime Story");
+	var imageCaption = encodeURIComponent("Edgar Ramirez, Versace: American Crime Story");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+INSTARimages.com
+
+Katrina will now begin production in early 2018, and air as season three. Focusing on the 2005 hurricane and its devastating aftermath, Katrina will star Annette Beningas Louisiana governor Kathleen Blanco, Matthew Broderick as FEMA director Michael D. Brown, and Dennis Quaid as President George W. Bush. Originally, the two seasons were supposed to film somewhat simultaneously and then air nearly back to back next year. No premiere dates have been announced for either installment. 
+
+The Assassination of Gianni Versace: American Crime Story will air sometime in 2018. Filming is currently underway in Miami Beach, and you can see comparison photos of the main cast members in our gallery. 
+/n

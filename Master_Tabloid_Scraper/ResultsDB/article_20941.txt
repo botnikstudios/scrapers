@@ -1,0 +1,46 @@
+Caitlyn Jenner Responds to President Donald Trump's Transgender Military Ban Caitlyn Jenner is speaking out hours after President Donald Trump announced a military ban on transgender people. In a blog post on her personal website, the I.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869602/caitlyn-jenner-responds-to-president-donald-trump-s-transgender-military-ban');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016326/rs_634x1024-160426201655-634.Caitlyn-Jenner-Time-100-Gala.ms.042616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caitlyn Jenner, Time 100 Gala");
+	var imageCaption = encodeURIComponent("Caitlyn Jenner, Time 100 Gala");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Larry Busacca/Getty Images for Time
+
+Caitlyn Jenner is speaking out hours after President Donald Trump announced a military ban on transgender people.In a blog post on her personal website, the I Am Cait star expressed her disapproval on the decision that remains a hot topic amongst Americans."Studies estimate there are as many as 15,000 transgender people already serving this country—and for those brave people fighting for our nation, Trump's early morning tweets must be devastating. I believe every American should be outraged by the disrespect shown to those people wearing our country's uniform," Caitlyn shared online. "Furthermore, this half-baked idea puts all of our service members in harm's way."She continued, "Does President Trump intend to just pull 15,000 people out of every critical position to which they are currently assigned? That would disrupt core military missions around the world and needlessly endanger our troops."
+
+Early this morning, President Trump announced on Twitter that the "United States Government will not accept or allow transgender individuals to serve in any capacity in the U.S. Military."He also argued that the military "cannot be burdened with the tremendous medical costs and disruption that transgender in the military would entail."For Caitlyn, who is a vocal Republican who supported Trump in his presidential campaign, she couldn't help but express her appreciation for transgender people who have served their country.
+
+"Studies show that transgender people are more likely to enlist in the military than the general population — and it's estimated there are approximately 134,000 transgender veterans in the U.S. today," she wrote. "Veterans who have made sacrifices for this country deserve all of the support we can give them, from thanking them for their service to ensuring they are treated with respect when they go to the Veterans Administration."In her letter, Caitlyn went on to ask President Trump to reverse his position "immediately." She also shared organizations that are fighting for transgender equality."Over the past two years I have met the most inspiring trans people, and I can testify to the trans community's incredible resilience and perseverance in the face of enormous discrimination and hate. We are strong, we are beautiful, and we will win," she wrote. "America's 15,000 trans service members and 134,000 veterans are much braver than you, Mr. Trump; my allegiance is with them and our country, not you."
+/n

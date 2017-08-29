@@ -1,0 +1,42 @@
+The Walking Dead Star Norman Reedus Bitten by Fan at Zombie Convention Sometimes fans become a little overeager. The Walking Dead star Norman Reedus had a pretty big scare over the weekend when a zealous fan decided to bite him at a Walker S.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/722182/the-walking-dead-star-norman-reedus-bitten-by-fan-at-zombie-convention');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015910/rs_634x965-151010082515-634.reedus2.cm.101015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Walking Dead Premiere, Norman Reedus");
+	var imageCaption = encodeURIComponent("Walking Dead Premiere, Norman Reedus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images
+
+Sometimes fans become a little overeager.The Walking Dead star Norman Reedus had a pretty big scare over the weekend when a zealous fan decided to bite him at a Walker Stalker event. Yes, bite the actor. A source tells E! News that the incident happened while the woman in question was taking a photo with Reedus and co-star Michael Rooker. But after the time to "say cheese" passed, she leaned in to bite Reedus on the chest!Apparently her idea of a souvenir was more than just the photo op.Fortunately police and event security were nearby and jumped in to help Reedus. They escorted the woman from the event and since has been banned from all Walker Stalker conventions and sponsored events where Reedus is present.Reedus declined to press charges against his attacker because it was "only a nibble" and didn't break the skin, the source adds. 
+/n

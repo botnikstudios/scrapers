@@ -1,0 +1,44 @@
+joined by his cousin Nicole Palladino, performance artist Anna Hafner, singer Alicia Solombrino, blogger Nicolette Mason and friends Lisa Graham and Geneva Simms./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/778939/christian-siriano-brad-walsh-wear-black-at-their-gorgeous-white-wedding');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016610/rs_634x1024-160710201850-634-christina-siriano-mv-71016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Christian Siriano, Brad Walsh ");
+	var imageCaption = encodeURIComponent("Christian Siriano, Brad Walsh ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Brides / Itswetpaint photography  
+
+Here come the men in black!Designer and Project Runway alum Christian Siriano wed partner Brad Walsh at their summer home in Danbury, Connecticut Saturday in front of family and friends, including celebs such as Alicia Silverstone, Mad Men alum Christina Hendricks, Veep's Anna Chlumsky, Orange Is the New Black stars Jackie Cruz and Danielle Brooks, who served as a groomswoman and also sang at the outdoor ceremony, and Third Rock From the Sun and The Exes star Kristen Johnston, who officiated it.The grooms wore David Hart black suits, as seen in pics posted by Brides.com and by wedding guests."Well we did it @bradwalsh! We are married!" Siriano wrote on Instagram Sunday, alongside a photo of him, Walsh and their groomswomen, featured on Brides.com. "It was such a magical evening with all the people I love!"
+
+While the grooms wore black, the wedding party and guests wore white. And Christian designed each of the couple's 12 groomswomen's custom white gowns."Since there was no bride, we wanted our best friends to wear white gowns, all from Christian Siriano, of course, as they stood by our sides during the ceremony," the grooms said in a statement to Brides.com. "Then it became a fun idea for the whole event to be a white wedding."In addition to Brooks, the designer's groomswomen were his sister Shannon Greenwood, models Anna Schilling and Jasmine Poulton and friends Elizabeth Ferguson and Sarah Roffee, while Walsh was joined by his cousin Nicole Palladino, performance artist Anna Hafner, singer Alicia Solombrino, blogger Nicolette Mason and friends Lisa Graham and Geneva Simms.
+/n

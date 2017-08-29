@@ -1,0 +1,46 @@
+Game of Thrones' Sophie Turner Has a Warning About the Jon Snow and Daenerys Targaryen Team Up As Turner tells it, however, so long as Dany stay away from Sansa's main priority, all will be well. "I don't know how Sansa f.../n
+After six years of anticipation, Game of Thrones is finally ready to put Jon Snow and Daenerys Targaryen in the same room.While fans of the HBO hit may be thrilled that the King of the North has accepted Khaleesi's invitation and embarked on a trek to Dragonstone, the move certainly didn't help ease the growing tension between Jon (Kit Harington) and his sister Sansa (Sophie Turner). He may have left her in charge of Winterfell in his absence, but it stands to reason that an alliance with Dany (Emilia Clarke) would only further diminish her influence on her half-brother in the future. And if we've learned one thing about Sansa, it's that she's not too keen on being ignored.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869204/game-of-thrones-sophie-turner-has-a-warning-about-the-jon-snow-and-daenerys-targaryen-team-up');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017619/rs_634x1024-170719113157-634.game-of-thrones-stormborn-1.ch.071917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Game of Thrones");
+	var imageCaption = encodeURIComponent("Game of Thrones");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Helen Sloan/HBO
+
+As Turner tells it, however, so long as Dany stay away from Sansa's main priority, all will be well. "I don't know how Sansa feels about Daenerys getting closer and closer. I think Sansa—as long as she has power over Winterfell, that's the struggle that she's dealing with at the moment," the actress told E! News at Comic-Con over the weekend. "As long as Daenerys doesn't interfere with that, she's happy because Winterfell is her home. It's like her haven. That's kind of her baby and that's what she's looking to look after at the moment."And should the Mother of Dragons come for her home, Turner admitted Sansa would be driven to action—however futile it may be. "If Daenerys threatens that, she's gonna come at her with wolves," she said with a laugh. "Not that they'd beat dragons. That's optimistic."
+
+For more from Turner, as well as her co-stars Gwendoline Christie and Liam Cunningham, on the Jon-Sansa tension, be sure to check out the video above!Game of Thrones airs Sundays at 9 p.m. on HBO.
+/n

@@ -1,0 +1,46 @@
+Goldie Hawn Approved of Kate Hudson's Fling With Nick Jonas—and Would Have Even Cooked for Him Goldie Hawn finally set the record straight.  After months of speculation over whether or not Kate Hudson and Nick Jonas were an item in 2015.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/851034/goldie-hawn-approved-of-kate-hudson-s-fling-with-nick-jonas-and-would-have-even-cooked-for-him');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201647/rs_634x1024-160507133834-634.Goldie-Hawn-Kate-Hudson-love-for-kids.tt.050716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Goldie Hawn, Kate Hudson, Wyatt Russell, Annual Goldie's Love In For Kids");
+	var imageCaption = encodeURIComponent("Goldie Hawn, Kate Hudson, Wyatt Russell, Annual Goldie's Love In For Kids");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+Goldie Hawn finally set the record straight. After months of speculation over whether or not Kate Hudson and Nick Jonas were an item in 2015 and 2016, the Academy Award winner and Hudson's famous mama let the truth run free Thursday night during an appearance on Watch What Happens Live With Andy Cohen. A fan called into the show and said, "I want to know what your first reaction was when you heard Kate and Nick Jonas were dating."While Hawn was caught off guard, the query was all in good fun. "Oh, that's so funny!" she began. "Let me tell you something—as long as the kids are having fun, I don't care." 
+
+"He was so handsome that I didn't know if my eyes would burn inside my head if I looked at him long enough," she said. While they worked on Dollars in 1971, she said they even had a "moment"—or rather, more than a moment."I can't tell you what kind of moment, but I did meet his mom and dad—that's a moment," Hawn teased. 
+
+It seemed virtually no subject was off limits for the actress, including stories of her son Oliver Hudson's circumcision. "The doctor came out and said, 'You'll be happy to know I have to get a bigger clamp.' I was thrilled," the proud mom remembered. "Of course, I was crying, too, because I knew he was going to cry," she continued. "It was a double-edged sword, so to speak."
+/n

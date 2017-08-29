@@ -1,0 +1,44 @@
+BREAKING! Maria Menounos Is Engaged to Longtime Boyfriend Keven Undergaro E! News host Maria Menounos is engaged! Keven Undergaro, her boyfriend of almost 19 years, popped the big question shortly after the New York Times bestseller's i.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/747180/maria-menounos-is-engaged-to-longtime-boyfriend-keven-undergaro');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201628/rs_634x968-160308190913-634.Maria-Menounos-Keven-Undergaro.ms.030816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Maria Menounos, Keven Undergaro, Engaged");
+	var imageCaption = encodeURIComponent("Maria Menounos, Keven Undergaro, Engaged");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Barry King/FilmMagic
+
+E! News host Maria Menounos is engaged!Keven Undergaro, her boyfriend of almost 19 years, popped the big question shortly after the New York Times bestseller's interview on Howard Stern's SiriusXM radio show today. The 37-year-old has been in the middle of a book tour for her third book, The EveryGirl's Guide to Cooking, which was released Tuesday.Before Keven came on, Howard asked Maria whether she ever wanted to date anyone else. She said no, explaining, "At the end of the day, Keven and I are partners in life." But, when they first began dating, Maria said her dad "was a little upset" since Keven "wasn't Greek." It didn't take long for Maria's parents—who were in another room during the interview—to embrace the love of her life."Let me bring in Keven," Howard said."It's time for me to suffer," Maria joked.After some chatter about their home life and Dancing With the Stars, Howard asked Maria why she hadn't pressured Keven to propose. "Howard, I'm the one who's telling him now, 'We have to do this,'" she said. "He's like, 'No! I want a big affair. Kris Jenner says she's going to be the godmother and throw the big party.'" Howard responded, "I think Keven should marry you."When Keven was handed the microphone, Maria got suspicious. "Are you about to propose to me? I'm going to die," she said. "Oh my God, it felt like he was about to propose right now."And then, the time came for Keven to pop the question. "It was so emotional to hear you say everything, because listening to everything you said there, back when were in the green room talking about what you've been through, I've been through, too...when we wanted to be together, we couldn't because people didn't want us together. And then it was literally like the last 17 or 18 years of us fighting together, and me defending her as best I could...It reminds me just how much I do love you, and although I said that this isn't a proposal, I want to ask you something," he said. "Would you make me the happiest man on earth and would you marry me?"Maria was taken aback. "Are you friggin' kidding me right now?" she asked. "Is this a joke?"Robin Quivers noted, "It's a big ring!"
+
+"It's not a joke," Keven assured her. "This I wouldn't joke about. I love you so much, and this show's meant so much to both of us." Indeed, when the couple used to listen to The Howard Stern Show together "on a mattress" many years ago, Keven recalled telling Maria, "'One day you will be on that show and you will be a star and here you are'...Why not make it official now? Will you honey? Will you accept?""Oh, my God!" Maria said. "Are you kidding me right now?"Keven said he'd only told Howard, Beth Stern, his mother and her father."Yes, yes, yes! Oh, my gosh! Of course!" Maria told him. "I can't believe this is happening!""Oh, my God! This isn't happening right now!" the E! News host said through happy tears. "Honey, are you serious right now? Oh, my God! I love it. Oh, my God! It's amazing. Thank you. Oh, my god!""Did I do OK?" Keven asked."You did amazing!" Maria replied."Oh, my God! This is so beautiful, and I hate engagement rings!" Maria said with a laugh. "I think they're so ugly—for me!" Howard then brought in Maria's parents, who just so happened to be celebrating their 41-year anniversary.
+/n

@@ -1,0 +1,44 @@
+saying after checking out Mad Men's totally groovy new artwork for the upcoming 7th and final season, which was created by renowned graphic designer Milton Glaser. The AMC hit's new poster is loud, colorful and exuberant, totally c.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/518780/mad-men-s-season-7-poster-is-totally-groovy-check-it-out-here');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201427/rs_634x923-140307111123-634.Mad-Men-Season-Seven-Key-Art.jl.030714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mad Men, Season Seven");
+	var imageCaption = encodeURIComponent("Mad Men, Season Seven");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Milton Glaser/AMC
+
+In the immortal words of Austin Powers: Yeah, baby!That's what we're saying after checking out Mad Men's totally groovy new artwork for the upcoming 7th and final season, which was created by renowned graphic designer Milton Glaser.The AMC hit's new poster is loud, colorful and exuberant, totally capturing the style of the late '60s that Glaser helped to create.Mad Men creator Matthew Weiner has been a longtime fan of Glaser's work (he even had a poster of his work in his home growing up) and has always wished to collaborate with the artist. We're guessing this poster may find a spot on Weiner's wall, too!
+
+"There is a dreamlike quality to it, and believe it or not, it is related to the show, and not because it's psychedelic," Weiner told The New York Times of the poster. "That's not what it's about. What it's about is the material and the immaterial world, and that's what I loved."The new poster comes just a day after the first teaser trailer season seven was released, featuring Don Draper (Jon Hamm) disembarking from a plane in slow-motion. The slick 15-second teaser ended with a simple message: "Mad Men Takes Off Sunday April 13 10/9C."Taking a cue from Breaking Bad, Mad Men's final season will be expanded and divided into two parts. The first run of seven episodes will kick off on Sunday, April 13, while the final seven outings (titled "The End of an Era") will air spring 2015."We plan to take advantage of this chance to have a more elaborate story told in two parts, which can resonate a little bit longer in the minds of our audience," Weiner said in a statement. "The writers, cast and other artists welcome this unique manner of ending this unique experience."Mad Men returns Sunday, April 13 on AMC.
+/n

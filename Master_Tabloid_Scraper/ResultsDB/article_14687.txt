@@ -1,0 +1,44 @@
+Emily Blunt Steps Out for the First Time Since Hazel's Birth, Looks Super Slim With John Krasinski It's hard to believe that Emily Blunt gave birth just over a month ago. The Five-Year Engagement star, 31, stepped out Tuesday for t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/522680/emily-blunt-steps-out-for-the-first-time-since-hazel-s-birth-looks-super-slim-with-john-krasinski');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014219/rs_634x1024-140319064900-634.Emily-Blunt-John-Krasinski-JR-31914.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Blunt, John Krasinski");
+	var imageCaption = encodeURIComponent("Emily Blunt, John Krasinski");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dean/MRM/NPG.com
+
+It's hard to believe that Emily Blunt gave birth just over a month ago.The Five-Year Engagement star, 31, stepped out Tuesday for the first time since welcoming daughter Hazel on Feb. 16. Blunt held hands with husband John Krasinski, 34, while running errands in L.A. The British beauty's post-baby body appears to be back, as she rocked skinny jeans and a printed top.It was Krasinski who announced their baby's arrival, tweeting, "Wanted to let the news out directly. Emily and I are so incredibly happy to welcome our daughter Hazel into the world today! Happy bday!"
+
+This is the first child for the actors, who got married in July 2010 and announced they were expecting in September 2013. The stars have been keeping a low-profile since their daughter's birth last month.However, Blunt will soon begin promotional duties for The Edge of Tomorrow, co-starring Tom Cruise. The movie premieres on June 6. After that, she appears in Into the Woods, which hits theaters Dec. 25.In 2011, the actress said her husband is "well-practiced" in the childcare department. "I grew up with a younger brother and sister who are quite a bit younger than me," Blunt told The Daily Beast. "So, at 8 years old, I was sitting there with a baby, probably really pissed off [because] he was puking on me."
+/n

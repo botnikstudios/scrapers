@@ -1,0 +1,44 @@
+Haters & Really Hungry Celebs Jennifer Aniston is so finished! Why doesn't she stop smoking, have a baby (anybody's baby) and give it up already?! —Mamie Well reer. Bad news, too, you acidic little gorgon. Jennifer Aniston has .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/30581/burning-q-s-aniston-haters-really-hungry-celebs');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080827/293.aniston.jennifer.082708.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Aniston");
+	var imageCaption = encodeURIComponent("Jennifer Aniston");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Fame Pictures
+
+Jennifer Aniston is so finished! Why doesn't she stop smoking, have a baby (anybody's baby) and give it up already?! —MamieWell reer. Bad news, too, you acidic little gorgon. Jennifer Aniston has a slew of projects in her future, as both a producer and an actress. That's what happens when your films make bank. (The Break-Up made more than double its budget in the U.S. alone.) Aniston already has three more films in the can and is attached to no less than six upcoming projects—all as a producer.Oh, and just in case your waxy, stale peanut of a heart is still beating, Mamie: The L.A. Times is already buzzing about an Emmy for Aniston, for her yet-to-be-aired guest spot in the upcoming season of 30 Rock.When skinny celebs say they don't diet or exercise, are we supposed to think they were born that way? Or does not eating count as a nondiet? —Aligato
+
+Too many double negatives there, son. But according to one top tummy-tuck surgeon I spoke with just today, "The celebrities in my clientele, anyone who is on camera, they are never full. They are always hungry."Dr. Will Kirby on Dr. 90210...his girlfriend Erin...why is her face so familiar? Who is she? —Nate and KimThat's Erin Brodie, who competed on the reality show For Love or Money.Last week you said that you attended Madonna's Blond Ambition tour in 1990. I was wondering, will you be attending her Sticky & Sweet tour when it comes to the U.S. starting Oct. 4?  —Abe from ArizonaAs much as I would love to peep Madonna in that black druid robe, I'll pass. Stevie Nicks did it first.Got a question about Hollywood? ASK IT!Oh, and be my fan on Facebook, 'K?
+/n

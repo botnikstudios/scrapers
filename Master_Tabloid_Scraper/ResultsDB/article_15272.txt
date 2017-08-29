@@ -1,0 +1,55 @@
+A Timeline of Leonardo DiCaprio and Nina Agdal's Romantic Year May 2016: The duo get their party on at Up & Down in the Big Apple, raising eyebrows over whether or not they are a couple.  June 2016: According to a Page Six report, t.../n
+After 12 months of a low-key romance, Leonardo DiCaprio and Nina Agdal have called it quits. The 42-year-old Oscar winner and his 25-year-old model girlfriend recently split, E! News confirmed Thursday. The breakup comes a full year after they started sparking headlines with rumors of a blossoming fling. While they were initially linked as early as 2014, it wasn't clear that they were dating until last May after they were spotted together at Up & Down in New York City. While they aren't still together 365 days later, the stars consider each other pals. "They remain in touch and remain friends," a source close to the former couple revealed to E! News. "It's an amicable split, and they're moving forward."While they focus on the future, we're recapping the past. Here's a look back on their romantic year filled with globetrotting, beachside PDA and plenty of partying: 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/854200/a-timeline-of-leonardo-dicaprio-and-nina-agdal-s-romantic-year');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017418/rs_634x1024-170518124802-rs_634x1024-160717130943-634.nina-agdal-leonardo-dicaprio.cm.71716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nina Agdal, Leonardo DiCaprio");
+	var imageCaption = encodeURIComponent("Nina Agdal, Leonardo DiCaprio");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+DOBN/RMBI/AKM-GSI 
+
+
+May 2016: The duo get their party on at Up & Down in the Big Apple, raising eyebrows over whether or not they are a couple. June 2016: According to a Page Six report, they are spotted together at a bagel shop in Montauk, N.Y.July 2016: A month later, they exchange smooches on the shore in Malibu while simultaneously clearing up any doubts. "They are dating," a source tells E! News. "She really likes him and hopes she doesn't get hurt. They have a great chemistry and laugh a lot. She just got out of a very serious relationship, so she is just trying to not rush into anything too serious this summer, but when Nina falls for a guy, she really falls."That same month, they meet up in Ibiza, according to People, where they get their party on with Tobey Maguire on a yacht. 
+
+
+
+BlayzenPhotos/BACKGRID
+
+August 2016: By the end of the summer, they're still going strong and are spotted at the Soho House in Malibu, the actor's arm around his gal. However, during a drive in the Hamptons, they get into a minor car accident after DiCaprio's Range Rover is rear-ended. Fortunately, no one is hurt. September 2016: The duo pop up in New York City's Greenwich Village for dinner with a group. However, they treat it like their personal date night with some table side kissing, according to People. October 2016: While in the Halloween spirit, the pair head to a dinner at Catch in Los Angeles with friends like Jonah Hill and Tobey Maguire. "Leo and Nina were super affectionate all night," a source tells E! News at the time. "The two were very sweet with one another and were seen kissing and taking selfies at the table." November 2016: In celebration of his 42nd birthday, DiCaprio takes Agdal and his mom, Irmelin, to French Polynesia, Page Six reports. 
+
+December 2016: Before ringing in the new year, a source tells E! News they "are just dating each other."January 2017: They breeze into the first month of the new year with plenty of award season celebration. DiCaprio and Agdal show up together at a Golden Globes pre-party hosted at Catch. "They were very much a couple and were seen in a booth seated with friends," a source tells E! News. "At one point, Leo leaned over and gave Nina a kiss."
+
+April 2017: "Nina and Leo are definitely still together and going strong," a source tells E! News. May 2017: However, a month later, they amicably call it quits. 
+/n

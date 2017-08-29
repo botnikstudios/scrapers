@@ -1,0 +1,50 @@
+Princess Charlotte Is Cashing In With Adorable Pink and Purple Merchandise Princess Charlotte should open a savings account! The Historic Royal Palaces Shop, an independent charity that looks after the Tower of London, Hampton Court Palace, .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/841578/princess-charlotte-is-cashing-in-with-adorable-pink-and-purple-merchandise');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161125/rs_634x1024-161225170241-634-kate-middleton-princess-charlotte-christmas.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Middleton, Princess Charlotte");
+	var imageCaption = encodeURIComponent("Kate Middleton, Princess Charlotte");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Andrew Matthews/PA Images via Getty Images
+
+Princess Charlotte should open a savings account!The Historic Royal Palaces Shop, an independent charity that looks after the Tower of London, Hampton Court Palace, the Banqueting House, Kensington Palace, Kew Palace and Hillsborough Castle, has released a new set of merchandise depicting a fictional Princess Charlotte. No, this isn't Kate Middleton and Prince William's daughter, but rather a made-up princess that coincidentally has the same name.The Princess Charlotte line contains lip balms, tiaras and dresses, all in pink and purple hues. Customers can also buy magnets, glitter cups and pendants that all have "Princess Charlotte" imagery on them. The line's most expensive item, a princess fairy dress, rings in at around $44.
+
+
+
+Samir Hussein/Samir Hussein/WireImage
+
+The Princess Charlotte Georgian dress-up dress allows youngsters to "imagine yourself gliding down the corridors of Kensington Palace like Princess Charlotte with this delightful princess fancy dress. The Princess Charlotte dress is a sumptuous gown in shades of rich purple and gold in the style of a true Georgian princess."Not wanting to create confusion about the real Princess Charlotte's involvement, Historic Royal Palaces Shop released a statement about the pink-and-purple line: 
+
+"We stock a variety of gifts, products and souvenirs inspired by the history of the palaces in our shops and online. This particular range features a number of fictional princesses inspired by Kensington Palace's 300-year history and has been on sale since early 2015—before Princess Charlotte was born," the statement read. "It is entirely coincidental that one of the imaginary characters in the Palace Princesses range shares the same name."You may not be able to be Princess Charlotte, but you certainly can dress (kind of) like her!
+/n

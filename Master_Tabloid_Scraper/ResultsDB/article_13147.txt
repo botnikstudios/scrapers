@@ -1,0 +1,52 @@
+5 Things to Know About Caitlyn Jenner's Lovable Mom Esther Jenner As Caitlyn Jenner begins an exciting new chapter in life, there's one woman who has her back 100 percent. Yes, we're talking about her wonderful mother Esther J.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/680216/5-things-to-know-about-caitlyn-jenner-s-lovable-mom-esther-jenner');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015615/rs_634x1024-150715200725-600.mom-sister.caitlyn-jenner-espys-awards.ls.71515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caitlyn Jenner, Esther Jenner, Pam Mettler, ESPY Awards");
+	var imageCaption = encodeURIComponent("Caitlyn Jenner, Esther Jenner, Pam Mettler, ESPY Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Mazur/WireImage
+
+As Caitlyn Jenner begins an exciting new chapter in life, there's one woman who has her back 100 percent. Yes, we're talking about her wonderful mother Esther Jenner.While fans have met the 89-year-old before on episodes of Keeping Up With the Kardashians, viewers are getting a whole new perspective of the open and honest family member this season on I Am Cait.In Sunday's premiere, Esther opened up about being the mother of a transgender woman while also proving her love has not gone away in any way. "I love him with all my heart," she shared. "And I certainly love her with all my heart."In honor of Sunday's premiere, we compiled some of Esther's greatest moments in the public eye. We have a feeling you will be very touched by her experiences thus far.  
+
+1. Proud Mama Alert: Sure, it was great to see your child stand tall on the Olympic podium to accept a gold medal. But Esther "couldn't be prouder" when it comes to Caitlyn's decision to share her story with the world. "I was so proud of Bruce when he stood on that podium receiving that gold medal in Montreal. I had tears and the American flag was going up in the middle and I thought that I could never be more proud of him," she admitted in I Am Cait. "And you know, I was wrong. Because I am more proud of him for the courage that he has shown." 
+
+2. What's In a Name: While Esther is more than supportive of Caitlyn's life decision, she still finds herself using the word Bruce to describe her family member. "I still have to call him Bruce. His father and I named him that," she told Access Hollywood shortly after the Vanity Fair cover was released. "It's going to be a struggle for me to get used to the change, but happily so…I'm very happy for him—or her!" 
+
+3. More Money, More Problems?: Before Caitlyn underwent her surgeries, Esther admitted to waking up one night and wondering if the transition had everything to do with money. "Why is it necessary to go through all these surgeries?" she explained in Vanity Fair. "Is this all about making money? And that was bothering me." But as we all discovered, the journey is much more than a few dollars. 
+
+4. Best Date: When Caitlyn attended the 2015 ESPY Awards earlier this month, she kept her mom close to the hip at all times. Before accepting the Arthur Ashe Courage Award, the Olympic athlete wanted her mom sitting next to her. Caitlyn also admitted in her speech that much of her courage and determination can be credited to her mother figure.
+
+ 5. Come Together: While it has already been a wild journey, Caitlyn's transition has made it possible for Esther to get closer to the family. In the premiere of I Am Cait, Esther had a rare meeting with Kanye West. In addition, she was able to gift her granddaughter Kylie Jenner with a special gift: A picture of her younger self at 17. As the Kardashians and Jenners like to say, family over everything!Watch new episodes of I Am Cait Sunday nights at 8 p.m. only on E! 
+/n

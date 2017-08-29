@@ -1,0 +1,50 @@
+Ed Sheeran Is "Not Engaged" to Girlfriend Cherry Seaborn Contrary to reports, Ed Sheeran has not popped the question to girlfriend Cherry Seaborn. The engagement rumors came courtesy of Russell Crowe, who mistakenly referred to the.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/856256/ed-sheeran-is-not-engaged-to-girlfriend-cherry-seaborn');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201584/rs_634x1024-150904133753-634.Ed-Sheeran-Cherry-Seaborn-NYCms.090415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ed Sheeran, Cherry Seaborn");
+	var imageCaption = encodeURIComponent("Ed Sheeran, Cherry Seaborn");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Felipe Ramales/Splash News
+
+Contrary to reports, Ed Sheeran has not popped the question to girlfriend Cherry Seaborn.The engagement rumors came courtesy of Russell Crowe, who mistakenly referred to the hockey player as the singer's "fiancée" during a recent Facebook Live chat. "[Ed] was on tour here and he was getting a bit burned out, so he came up and stayed at the farm for a couple of days to get some sleep and then we became conversational mates," the Oscar winner said. "He has subsequently gone back to the farm with his fiancée for more time."Sheeran was asked about the alleged engagement Tuesday on Australia's Fitzy & Wippa radio show. "You know, he's only met Cherry once and I didn't introduce her. I didn't say anything," the "Shape of You" singer told the hosts. "I think he just assumed. But no, we're not engaged."
+
+
+
+INFphoto.com
+
+The engagement may not have happened, but settling down is something that Sheeran has openly admitted that he's been looking forward to for awhile.In January, he told Zane Lowe on Beats 1 that he was able to fall in love during his break from music. "This has been the first time I've ever actually had the time to fall in love properly," he said. "'I've always got into relationships very passionately. I'm a redhead and also Irish.''
+
+In the interview he also said he wants kids ASAP. "I wanted to be a dad, like, last year. I'm ready, let's go—tour bus babies, little fat, chubby babies that just walk around," said the "Galway Girl" singer.The redhead also told Lowe that his romance with Seaborn is the reason he took a year off of music."The catalyst of taking a year off was also the fact that my partner quit her job in New York—which she’s now got back in London, which really cool—but we were just basically like, let’s quit our jobs and have a year of forming a tight bond. So we went traveling and spent every day for a year together."
+/n

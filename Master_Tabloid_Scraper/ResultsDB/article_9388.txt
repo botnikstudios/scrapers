@@ -1,0 +1,46 @@
+Five Things to Know About Natalie Portman's New Husband, Benjamin Millepied Ah, l'amour. There was plenty of that in the air last night when Natalie Portman married dancer Benjamin Millepied, whom she met when he choreographed her .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/218000/five-things-to-know-about-natalie-portman-s-new-husband-benjamin-millepied');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012410/reg_634.ab.portman.051012.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Natalie Portman, Benjamin Millepieds ");
+	var imageCaption = encodeURIComponent("Natalie Portman, Benjamin Millepieds ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Humberto Carreno/startraksphoto.com
+
+Ah, l'amour.There was plenty of that in the air last night when Natalie Portman married dancer Benjamin Millepied, whom she met when he choreographed her every graceful, albeit self-destructive, move in Black Swan.Aside from the fact that it didn't take long for the pair to become more than dance partners and that they are parents to 13-month-old son Aleph, here are five things to know about the Frenchman whose grand jetés proved irresistible to the Oscar-winning actress:
+
+1. What's in a name: Millepied is as French as he sounds. The 35-year-old, whose last name fittingly means "a thousand feet," was born in Bordeaux.2. Parallel paths: Just as his future wife was winning raves for her knockout debut in The Professional (opposite Frenchman Jean Reno, incidentally) in 1994, Millepied was winning the Prix de Lausanne (an international competition for dancers ages 15-18). He won the School of American Ballet's Mae L. Wien Award for Outstanding Promise the following year.3. He's more than a pretty face and powerful legs: Just because the blue-eyed hunk teaches, it doesn't mean he can't do. Born to a dancing mum, Millepied started studying ballet at the age of 8, then headed for the Conservatoire National in Lyon when he was 13. Famed choreographer Jerome Robbins took him under his wing while he trained at the School of American Ballet and he originated roles in Robbins' Brandenburg and Les Noces. Other major players he's worked with include Helgi Tomasson, Christopher d'Amboise and Christopher Wheeldon. He joined the New York City Ballet's corps de ballet in 1995, was promoted to soloist in 1998 and became a principal dancer in 2002. He has choreographed pieces for NYCB and has appeared on PBS both as a dancer and in New York City Ballet's Diamond Project: Ten Years of New Choreography, part of the Live From Lincoln Center series. This year he choreographed the musical Hands on a Hardbody—based on a documentary about a contest where the last person to take his hand off a truck wins the vehicle—which premiered at San Diego's La Jolla Playhouse in April and could end up on Broadway.
+
+4. He does more than dance: Millepied signed on to Black Swan as choreographer. Playing Portman and Mila Kunis' dance partner came after he volunteered himself for the role, in which he convinced audiences that he didn't want to sleep with his costar (as Portman gleefully pointed out in her Golden Globes speech). "He wasn't alien like a lot of people I found in the dance world," director Darren Aronofsky told Details of Millepied. The Frenchman again flexed his acting muscles in Time Doesn't Stand Still, a romantic short he created with director Asa Mader. In addition to acting, dance and choreography, he paints and considers himself an amateur photographer. "I do urban photography, pictures of people with some element of choreography," he told the Los Angeles Times last month. "That's one reason I'm so crazy about L.A.—the visual richness I find here: the Deco buildings, the architecture, the light, all those clichés." Speaking of which...5. He's gone Hollywood: Millepied stopped dancing with the NYCB in January 2011 and officially announced his retirement last October, thanking the company for letting him "run two careers simultaneously over the last six years." And he's not kidding—we knew he probably didn't sleep much last year as the father of a new baby, but apparently he never planned on sleeping anyway. Since relocating, he has founded the L.A. Dance Project, which has been awarded a permanent residency at the Los Angeles Theatre Center, to begin in 2013. Framework, created by and costarring Milliepied, premiered at the Museum of Contemporary Art in downtown L.A. on July 19 and he has a new work debuting at Walt Disney Concert Hall on Sept. 22. "I've danced for a major ballet company for so long—dancing other people's work while I was making my own, that this year and a half was really a cleansing for me and my body," he told theTimes. "I needed to start with a clean slate."
+/n

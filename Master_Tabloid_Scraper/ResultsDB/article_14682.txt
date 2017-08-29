@@ -1,0 +1,54 @@
+Emily Blunt Reveals Daughter Hazel's Surprising Feelings About Becoming a Big Sister "…There was one occasion where I slapped [Felicity] in the face and that was like, a big moment…we both ended up weeping on the bathroom floor, of.../n
+Emily Blunt just got real about sibling rivalry.The red carpet premiere of The Huntsman: Winter's War happened to occur on the heels of National Sibling Day, and when the film's heroine—who plays the literally icy sister of Charlize Theron's terrifying Queen Ravenna—stopped by to chat with E! News' Zuri Hall, she asked if Blunt had ever experienced any sibling drama in real life.Asked about the worst fight she and sister Felicity Blunt have ever had, Emily candidly told E! News that she and her sis (they have another sister and a brother as well) have indeed gotten into it.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/756209/emily-blunt-reveals-daughter-hazel-s-surprising-feelings-about-becoming-a-big-sister');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016312/rs_634x1024-160412133340-634.Emily-Blunt-The-Huntsman-Premiere-tt-041216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Blunt, The Huntsman: Winter's War");
+	var imageCaption = encodeURIComponent("Emily Blunt, The Huntsman: Winter's War");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gregg DeGuire/WireImage
+
+"…There was one occasion where I slapped [Felicity] in the face and that was like, a big moment…we both ended up weeping on the bathroom floor, of course I don't remember why, but I remember she came upstairs through the door and we slapped each other, like, badly in the face…and it was really traumatic and we were both so upset by it!"The endearingly honest actress (and presumably Felicity too) can laugh about it now, of course.
+
+Meanwhile, Blunt and hubby John Krazinski's daughter, Hazel, is about to get a little sibling of her own—but is the 2-year-old ready?Normally this is where the actress or actor gushes that their existing child can't wait to be a big brother or sister, but... Out came that honesty we appreciate so much!"She's sort of coming around to it," the English actress professed. "She sort of dismissed the idea initially and she just responded with, 'Nope.'"'Nope,' flat out!" Blunt exclaimed. "We've bought her every single 'I'm a big sister' book that's out there and she's a bookworm, so she's coming around."
+
+
+
+Bryan Bedder / Getty Images for FIJI Water
+
+Hazel was born in February 2014 and Blunt and Krazinski confirmed there was another little one on the way in January.
+
+In The Huntsman, Blunt's highly anticipated portrayal of Freya the Ice Queen comes to life, and she has slightly more violent sibling rivalry issues with sister Ravenna.In August, Blunt opened up to E! News' Marc Malkin about joining the cast."It was so much fun," she said. "I play Charlize's evil younger sister and it was a total queen-off. There were two crowns on set—you don't want that! It was awesome," she gushed. "I love working with all those people."The Huntsman: Winter's War is hits U.S. theaters on April 22.(E! and Universal Pictures are both members of the NBCUniversal family.)
+/n

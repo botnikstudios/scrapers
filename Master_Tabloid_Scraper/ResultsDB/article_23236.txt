@@ -1,0 +1,205 @@
+Rachel Lindsay's Final 3 Men Meet Her Family — Which Smooth-Talking 'Charmer' Has Them Questioning His 'Sincerity'?
+/n
+
+ 
+Happy Monday, Bachelor Nation.
+On tonight’s episode, Rachel Lindsay brought the final three guys home to meet her family. Now generally, after hometowns, the finalists are permanently separated (presumably to avoid awkward interactions as the season approaches its conclusion), while the lead’s family will fly to the exotic final destination to meet their potential future in-laws. But this season, because Rachel’s sister was eight months pregnant at the time and couldn’t travel, Peter, Bryan and Eric flew to Dallas, Rachel’s hometown, to meet the family there instead. Spoiler alert? Not everyone made a glowing first impression.
+From left: Peter Kraus, Eric Bigger, Bryan AbasoloCraig Sjodin/ABC
+PETER MEETS THE FAMILY
+First up was Peter, who was eager to reunite with Rachel considering that the last time they saw each other, he pretty much dropped the ball on expressing his feelings, landing him in the bottom two at the rose ceremony. After doing some gift shopping for Rachel’s expectant sister, Peter and Rachel made their way to her family home. But before they went inside, he pulled her aside to clarify where his head was at.
+“You do mean the world to me,” he said. “I want you to have so much confidence going into this in us and in me, and know that you’re introducing a good person who is here for you. And I am falling in love with you.”
+With a newfound glow, Rachel ushered Peter inside to meet her mom Kathy, her aunt Connie, her uncle Jeff, her sister Constance, and Constance’s husband Alex. (No explanation was provided as to why Rachel’s dad was absent, but he is a federal judge, so that might explain why he opted out of appearing on a reality show.)
+Overall, Peter was well-mannered and honest with Rachel and her family. Now, while he certainly has feelings for Rachel, he’s also made it abundantly clear that he’s not quite ready to get down on one knee at the end of this — which has become a major sticking point in their relationship, since Rachel has been adamant that she wants to be engaged. But when he voiced his hesitation to Rachel’s mother, choosing to ask not for her blessing to propose but rather for her blessing to simply “pursue a relationship” with her daughter, Kathy was actually appreciative of his sincerity.
+FROM PEN: Rachel Lindsay on Making History as First African American (& ‘Oldest’) Bachelorette — ‘All Eyes Are on Me’
+
+ 
+ERIC MEETS THE FAMILY
+Up next was Eric, who went into the day with the appropriate amount of nerves considering the last time he met a girl’s family was back in college six or seven years ago. But back at the hotel, things were getting pretty uncomfortable between Peter, Bryan and the giant elephant in the room.
+After Bryan found out Peter hadn’t asked Rachel’s parents for their blessing to propose to her, he made it a point to inform Peter that he would be asking for that particular blessing — something Peter later admitted was a “little ballsy,” a “little arrogant” and honestly, just plain annoying. The good thing about Peter is that you can always count on him to keep it real.
+“What’s awkward is having to sit here with her other boyfriend, knowing that her other boyfriend is home with her family right now,” he told Bryan. “I don’t want to be sitting here with you right now, I’m not going to lie.”
+But back to Eric. Eric’s meeting with Rachel’s family, overall, went well, but he did raise a few eyebrows when he admitted his longest relationship lasted just eight months — and that he had never been in love.
+“I don’t know if they are on the same playing field, relationship-wise,” said Rachel’s sister. “Is he really emotionally ready?”
+But as the day went on, Eric’s earnestness seemed to win everyone over, and when he asked Rachel’s mother for her blessing to propose, she gave it to him.
+“Today was good,” said Kathy. “I was pleasantly surprised again at Rachel’s choice. I like the fact that Eric appears very honest, and has a desire to get married and raise a family. I can understand why this is going to be a tough decision for her.”
+FROM PEN: Rachel Lindsay on Meeting Her Dream Man on the Show — ‘I Found My Forever Love’
+
+ 
+BRYAN MEETS THE FAMILY
+Last but not least was Bryan, who went into the day feeling pretty great about himself: “You only get one chance to make a first impression,” he said. “I’m going in there with confidence, to show her family who I am, and I think they’ll definitely be impressed.”
+But before going home, Rachel took Bryan to meet two close girlfriends of hers. (Fun fact: They were the ones who actually signed her up for The Bachelor in the first place.)
+“Let’s just be real: I thought he was a douchebag,” she confessed to them with a laugh. “I really did. I was waiting for the charm to [wear] off and he was like: ‘Look, I’m not going to let you mess this up.’ ”
+And right on cue, in swept Bryan to charm the pants right off of Rachel’s friends — but unfortunately, that same smooth-talking didn’t go over quite so well with Rachel’s family. From the moment they walked into the house, something about the vibe was very, very off.
+Upon hearing that Bryan is incredibly close with his mother, Rachel’s mom decided to hit him with a tough question: If his wife and his mother just couldn’t get along, whose side would he choose? Smile faltering, hedging his words, Bryan said what he knew he was supposed to say: that his loyalty would ultimately always lie with his wife.
+Live footage of Bryan’s mother Olga watching this scene unfold:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-bca989075121e2f9df0bb9ed1cb52c39-59a565746693f');
+				var iframe = document.getElementById('wpcom-iframe-bca989075121e2f9df0bb9ed1cb52c39-59a565746693f');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-bca989075121e2f9df0bb9ed1cb52c39-59a565746693f'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Unconvinced, Kathy asked Bryan to repeat his answer, and Rachel, clearly irked, stepped in to defend him. As the day progressed, Bryan just couldn’t seem to get on the right foot with Rachel’s family, and Rachel grew increasingly frustrated as everyone fired questions at him from all sides.
+“I was very excited to introduce Bryan to my family, but I felt like my excitement wasn’t reciprocated by my family,” she said. “I’m irritated at this point. The energy is totally different than it was the other two days with Peter and Eric.”
+Later, when Rachel told her mother she was falling in love with Bryan, she didn’t exactly get the reaction she was hoping for.
+“Love? Really? In this short amount of time?” said Kathy. “I’m really uncomfortable with the word love at this point.”
+And Rachel’s mom wasn’t the only one raising concerns: When Rachel’s sister sat down with Bryan, she openly voiced her skepticism about how quickly he claimed to have fallen in love with Rachel — and how he seemed to have “an answer for everything.”
+“My gut is telling me Bryan is a charmer,” she said. “He’s direct and he’s open, but I don’t think there’s the sincerity factor in it. My guard was up.”
+But despite the tense atmosphere, Bryan had come there determined to ask Rachel’s mother for her blessing, and he wasn’t leaving without it. Ultimately, Kathy gave it to him, though it’s safe to say she wasn’t jumping for joy, either.
+“Because I trust her judgment, you have my blessing to take this initial love,” she said. “And just build on that.”
+OVERNIGHT DATE WITH ERIC
+After meeting Rachel’s family, the final three men flew to La Rioja, Spain, where Eric landed the first overnight date. After braving his fear of heights for a stunning helicopter ride around the region, it was time for the evening portion of their date — and Rachel needed Eric, who had only ever danced around the word “love,” to finally express his feelings. Spoiler alert: He delivered.
+“I don’t know if you understand how much you challenge me emotionally, making me feel vulnerable and open — it feels amazing,” he said. “Everything about this feels right. You embody everything I would want in a wife. Nothing else matters. I’m just here to say that I’m in love with you. I tried to run … but this is it. I’m here. I’m here for you. I’m just a happy man. I’ve never felt this way about a girl, ever. Rachel Lindsay, I love you.”
+Rachel:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-62caf0f660f9bc8068b707e3d72f5e59-59a5657466bf1');
+				var iframe = document.getElementById('wpcom-iframe-62caf0f660f9bc8068b707e3d72f5e59-59a5657466bf1');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-62caf0f660f9bc8068b707e3d72f5e59-59a5657466bf1'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Obviously she offered him a night in the Fantasy Suite and obviously he said yes. Three cheers for Eric.
+FROM PEN: Why Rachel Lindsay Might Not Be Able to Resist the Fantasy Suites
+
+ 
+OVERNIGHT DATE WITH PETER
+Up next was Peter, and after a gorgeous day touring a local vineyard, it was time for these two to hash out the real issue at hand: the fact that Peter, despite claiming to be “falling in love” with Rachel, was not ready to commit to a proposal should he be the last man standing.
+“I didn’t come this far and put my life on hold and sacrifice everything I had to do this to just have a boyfriend at the end of it — that’s not what I want,” said Rachel, explaining that in her eyes, an engagement didn’t mean they’d be jumping right into a marriage.
+“Unfortunately, my opinions are different: I believe an engagement is marriage,” said Peter. “I want to do it just as many times as I get married, which is hopefully once in my life. I want to be truly certain that this is the person for me at that time, and for the rest of time. So my hopes of pursuing a relationship with you beyond this point is with the thought that that would lead to an engagement, and that engagement means marriage.”
+“You’re on one end, and I’m on the other — and if you’re the person at the end, I don’t know …” said Rachel, trailing off. “If we really want this and we want each other, then somebody’s got to bend.”
+But it would appear that neither of them could bend, and Rachel started crying as the realization dawned on her.
+“I don’t want you to give up on what you believe and what you need in your life,” said Peter. “We talked about trying to find the common ground — I just don’t know what that is with something that is so polar opposite. I don’t know how to get through that.”
+And neither did Rachel, who admitted that Peter’s words were “absolutely devastating.”
+“I don’t know what to do,” she told the camera. “I was hopeful for what Peter and I could be, and then just like that, I didn’t see it. Tonight, for the first time ever, I’m thinking Peter and I might not work out.”
+Stay tuned to find out how that shakes out.
+The Bachelorette airs Mondays (8 p.m. ET) on ABC.
+/n

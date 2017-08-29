@@ -1,0 +1,44 @@
+name has surfaced in a police investigation concerning an illegal drug and prostitution ring at two Milan nightclubs. According to Italy's Corriere della Sera newspaper, Karima Menad, a 26-year-old Parisian model-turned-escort, told Ita.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/192770/george-clooney-s-italian-ladylove-linked-to-cocaine-scandal');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20100307/293.canalis.clooney.lc.030710.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Elisabetta Canalis, George Clooney");
+	var imageCaption = encodeURIComponent("Elisabetta Canalis, George Clooney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+George Clooney's super-hot Italian amore, Elisabetta Canalis, has one super-hot mess to deal with.The 31-year-old model and TV host's name has surfaced in a police investigation concerning an illegal drug and prostitution ring at two Milan nightclubs.According to Italy's Corriere della Sera newspaper, Karima Menad, a 26-year-old Parisian model-turned-escort, told Italian prosecutors about how she and Canalis partied at hotspot The Club in 2007."I remember taking cocaine with Elisabetta Canalis and two others," Menad told investigators in 2008, according to documents obtained by the newspaper, considered one of Italy's most reputable dailies.
+
+Menad testified that she was among a bevy of beauties hired by The Club to entertain guests in the VIP room."Their job was to encourage these customers to drink alcohol as to increase the table's bill, followed up by sex off premises," prosecutor Frank Di Maio stated in the documents.At the time, Canalis had not yet hooked up with Hollywood's perennial bachelor, who was dating Sarah Larson."We were in The Club and it was December 2007," Menad added. "We had been at a party of some famous, rich celebrity whose name I cannot remember. I don't remember who brought the drugs but we all took it."Canalis met Clooney in 2009.Menad's testimony enabled Italian authorities to shut down the nightclubs on July 26 and place its five owners under house arrest.Reps for both Canalis and Clooney have so far remained mum on the matter. However, the model denied allegations of drug use to Vanity Fair's Italian edition in a 2008 interview."Obviously whoever is putting these rumors out there succeeded in his intention to discredit me," she said at the time. "I've never used any drug. I've never even smoked weed. But in the entertainment business, if you ignore the phone call of some powerful character you will have to pay for it and nothing works better than a mean gossip."
+/n

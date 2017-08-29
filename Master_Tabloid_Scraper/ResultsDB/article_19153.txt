@@ -1,0 +1,61 @@
+Kerry Washington Says Baby Isabelle Looks ''Just Like Her Dad,'' Talks Defying Working-Mom ''Guilt'' and That Belly-Baring Prada Gown Kerry Washingtonwill never be able to do it "all." And th.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/622433/kerry-washington-says-baby-isabelle-looks-just-like-her-dad-talks-defying-working-mom-guilt-and-that-belly-baring-prada-gown');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201515/rs_634x881-150205133859-634.kerry-washington-instyle2.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kerry Washington, InStyle");
+	var imageCaption = encodeURIComponent("Kerry Washington, InStyle");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+InStyle
+
+Kerry Washingtonwill never be able to do it "all." And that's OK with her."Women use this 'guilt' word a lot, but I'm not sure how I feel about it," the Scandal star and InStyle's March cover girl tells the magazine in a new interview when asked about the difficulties of balancing career and family."I know why it's the word that keeps coming up, but I can't co-sign on it yet. There has got to be a better way. You can't be all things to all people all the time. You have to experience your humanity, you have to know you are a limited vessel and can only do so much."
+
+
+
+InStyle
+
+And yet, Washington doesn't much give off a "limited vessel" vibe...
+
+
+
+InStyle
+
+The mother of 11-month-old daughter Isabelle Amarachi (Amarachi being Igbo for "God's grace") with retired-football-player husband Nnamdi Asomugha has become a fast TV icon thanks to her role as the fierce yet hopelessly flawed fixer Olivia Pope on the Shonda Rhimes-created Scandal, a lot of that iconography having to do with Olivia's polished style.Which, Washington admits, she doesn't take particular pains to replicate.
+
+
+
+InStyle
+
+Meanwhile, she credits both her own and Olivia's fit bod to "Pilates, Tracy Anderson pregnancy DVDs, hiking, the elliptical machine and yoga."And speaking of staying in shape post-baby...how is little Isabelle doing these days?Washington is notoriously, er, mum about her private life (she did manage to get secretly married after all), but she did show off baby pictures during her InStyle interview, noting that Isabelle looks "just like her dad." Finally, a clue!The March issue of InStyle will be on newsstands and available for digital download on Feb. 13.
+/n

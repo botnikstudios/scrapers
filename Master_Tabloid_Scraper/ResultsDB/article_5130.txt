@@ -1,0 +1,48 @@
+Susan Boyle Diagnosed With Asperger's Syndrome Susan Boyle hopes revealing a diagnosis she received last year will help people understand her better. The Britain's Got Talent alum told the UK Observer she was diagnosed with Asperge.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/488611/susan-boyle-diagnosed-with-asperger-s-syndrome');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201361/rs_634x1024-130701144624-634.SBoyle2.ms.070113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Susan Boyle");
+	var imageCaption = encodeURIComponent("Susan Boyle");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Matt Kent/WireImage
+
+Susan Boyle hopes revealing a diagnosis she received last year will help people understand her better.The Britain's Got Talent alum told the UK Observer she was diagnosed with Asperger's Syndrome last year, after going to see a specialist in Scotland about a diagnosis she received when she was a child.The specialist not only told her she had Asperger's, a form of autism, but also that she had an above-average IQ."It was the wrong diagnosis when I was a kid. I was told I had brain damage," Boyle told the paper. "I always knew it was an unfair label. Now I have a clearer understanding of what's wrong and I feel relieved and a bit more relaxed about myself."
+
+
+
+Sandy Young/Getty Images
+
+Boyle struggled with learning difficulties in school when she was younger, according to ABC, and was also bullied by other kids."I would say I have relationship difficulties, communicative difficulties, which lead to a lot of frustration," she went on. "If people were a bit more patient, that would help.""Asperger's doesn't define me. It's a condition that I have to live with and work through, but I feel more relaxed about myself. People will have a much greater understanding of who I am and why I do the things I do."The 52-year-old Scottish singer rose to fame when she sang "I Dreamed a Dream" on Britain's Got Talent in 2009, and went on to sell 8 million copies of her debut album I Dreamed a Dream globally.
+/n

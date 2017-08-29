@@ -1,0 +1,42 @@
+Lourdes Leon Debuts More Mature Look at Material Girl Event Who's that girl? Why, it's none other than Lourdes Leon. Yes, it's hard to believe that Madonna's daughter is 14 years old now and, what's more, she's .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/257246/lourdes-leon-debuts-more-mature-look-at-material-girl-event');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011710/293.lourdes.lc.081011.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lourdes Leon");
+	var imageCaption = encodeURIComponent("Lourdes Leon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Material Girl
+
+Who's that girl? Why, it's none other than Lourdes Leon.Yes, it's hard to believe that Madonna's daughter is 14 years old now and, what's more, she's becoming quite the mini-mogul in the fashion world.Having already launched the Material Girl clothing line with her mom, the not-so-little Lourdes was in New York City last week sans Madge for the launch of Material Girl Beauty, a new collection which includes body lotions, lip glosses and nail polishes.The products will be available exclusively at Macy's and Macys.com beginning mid-August.In other words, just in time to, er, express yourself when the new school year starts.
+/n

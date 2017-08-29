@@ -1,0 +1,82 @@
+ Teen Text Killer ‘Caused The Death’ Of Conrad Roy, Prosecutor Argues One Last Time.../n
+
+					var next_post_url = "http://radaronline.com/photos/bethenny-frankel-new-boyfriend-mystery-man-pics/";
+					var prev_post_url = "http://radaronline.com/photos/tamra-judge-estranged-daughter-sidney-barney-graduation-rhoc-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-13T17:42:59+00:00","caption":"Michelle Carter sat silently as the attorneys gave their closing arguments in her involuntary manslaughter case and RadarOnline.com has the shocking last evidence, including photos of a gun and a noose Conrad Roy III sent to his girlfriend before he committed suicide. Click through the gallery to see the haunting pictures and to find out the judge\u2019s last comments in the case.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-2-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:54:02+00:00","caption":"\u201cShe knew the recklessness of her actions,\u201d the prosecutor told the judge during her closing arguments on June 13, 2017. Carter, 20, was only 17 when she was texting her her boyfriend, Roy, 18, before he used a generator to commit suicide in a Kmart parking lot on July 12, 2014.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:54:04+00:00","caption":"\u201cShe covered it up,\u201d the prosecutor told the judge about the alleged crime. Carter waived her right to a jury trial. 20,000 text messages between the couple were entered into evidence, with many showing Carter encouraging Roy to kill himself.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:43+00:00","caption":"\u201cHer actions on July 12, 2014 caused the death of Conrad Roy,\u201d the prosecutor stated. \u201cThey were reckless and she knew it. She was 18. It was a felony\u00a0and she caused serious bodily harm.\u201d Roy sent Carter a selfie of himself looking morose before his death, which was entered into evidence in the case. \u201cI\u2019m crazy oh so crazy,\u201d he captioned the picture.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-007.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:44+00:00","caption":"He sent Carter a series of photographs, one of a noose hanging from a tree. The defense argued that Carter was not responsible for Roy\u2019s death, a decision they said he spent a significant amount of time planning, including sending the photos to her with a plan for his suicide.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-000.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:45+00:00","caption":"\u201cIf you only knew what\u2019s inside my head,\u201d was the caption on another photo Roy sent to Carter. Her defense attorney argued during his closing statements that he \u201cdragged\u201d her into the situation.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-001.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:46+00:00","caption":"Carter\u2019s attorney told the judge that Roy was subjected to domestic violence issues and refused to be hospitalized for his mental health issues, all of which contributed to his desire to commit suicide. \u201cI was on the phone with him and he got out of the car because it was working and he got scared and I f***ing told him to get back in Sam,\u201d was a text Carter sent to her friend Samantha Boardman describing his death after the fact.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-002.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:47+00:00","caption":"Roy\u2019s mother stormed out of the courtroom during Carter\u2019s attorney\u2019s final arguments. \"This was a suicide, not a homicide. This is somebody who eventually wanted to take his life,\u201d he said as Lynn Roy stormed out.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-003.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:48+00:00","caption":"Carter\u2019s defense attorney continued his argument for a \u201cnot guilty\u201d verdict, saying: \u201cIt is sad, it is tragic but it is just not a homicide.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-004.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:49+00:00","caption":"\u201cShe doesn\u2019t threaten him with bodily harm, doesn't inflict bodily harm,\u201d her attorney said. He also told the judge \u201cShe was confused, she thought she was doing the right thing,\u201d but Roy told her: \u201cThere is nothing anyone can do to make me want to live.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-005.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-13T15:50:51+00:00","caption":"The judge told the court he would take the evidence, including a photograph of a gun that Roy sent to Carter before his death. I am not unmindful of the fact that the lives of two families have been immutably changed by the evidence we have seen.\u201d Stay with Radar for updates to the story. We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/teen-text-killer-trial-closing-arguments-michelle-carter-gun-evidence-006.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Teen Text Killer ‘Caused The Death’ Of Conrad Roy, Prosecutor Argues One Last Time
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11Michelle Carter sat silently as the attorneys gave their closing arguments in her involuntary manslaughter case and RadarOnline.com has the shocking last evidence, including photos of a gun and a noose Conrad Roy III sent to his girlfriend before he committed suicide. Click through the gallery to see the haunting pictures and to find out the judge’s last comments in the case.2 of 11“She knew the recklessness of her actions,” the prosecutor told the judge during her closing arguments on June 13, 2017. Carter, 20, was only 17 when she was texting her her boyfriend, Roy, 18, before he used a generator to commit suicide in a Kmart parking lot on July 12, 2014.3 of 11“She covered it up,” the prosecutor told the judge about the alleged crime. Carter waived her right to a jury trial. 20,000 text messages between the couple were entered into evidence, with many showing Carter encouraging Roy to kill himself.4 of 11“Her actions on July 12, 2014 caused the death of Conrad Roy,” the prosecutor stated. “They were reckless and she knew it. She was 18. It was a felony and she caused serious bodily harm.” Roy sent Carter a selfie of himself looking morose before his death, which was entered into evidence in the case. “I’m crazy oh so crazy,” he captioned the picture. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11He sent Carter a series of photographs, one of a noose hanging from a tree. The defense argued that Carter was not responsible for Roy’s death, a decision they said he spent a significant amount of time planning, including sending the photos to her with a plan for his suicide.6 of 11“If you only knew what’s inside my head,” was the caption on another photo Roy sent to Carter. Her defense attorney argued during his closing statements that he “dragged” her into the situation. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Carter’s attorney told the judge that Roy was subjected to domestic violence issues and refused to be hospitalized for his mental health issues, all of which contributed to his desire to commit suicide. “I was on the phone with him and he got out of the car because it was working and he got scared and I f***ing told him to get back in Sam,” was a text Carter sent to her friend Samantha Boardman describing his death after the fact.8 of 11Roy’s mother stormed out of the courtroom during Carter’s attorney’s final arguments. "This was a suicide, not a homicide. This is somebody who eventually wanted to take his life,” he said as Lynn Roy stormed out. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11Carter’s defense attorney continued his argument for a “not guilty” verdict, saying: “It is sad, it is tragic but it is just not a homicide.”10 of 11“She doesn’t threaten him with bodily harm, doesn't inflict bodily harm,” her attorney said. He also told the judge “She was confused, she thought she was doing the right thing,” but Roy told her: “There is nothing anyone can do to make me want to live.” 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11The judge told the court he would take the evidence, including a photograph of a gun that Roy sent to Carter before his death. I am not unmindful of the fact that the lives of two families have been immutably changed by the evidence we have seen.” Stay with Radar for updates to the story. We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Michelle Carter sat silently as the attorneys gave their closing arguments in her involuntary manslaughter case and RadarOnline.com has the shocking last evidence, including photos of a gun and a noose Conrad Roy III sent to his girlfriend before he committed suicide. Click through the gallery to see the haunting pictures and to find out the judge’s last comments in the case.“She knew the recklessness of her actions,” the prosecutor told the judge during her closing arguments on June 13, 2017. Carter, 20, was only 17 when she was texting her her boyfriend, Roy, 18, before he used a generator to commit suicide in a Kmart parking lot on July 12, 2014.“She covered it up,” the prosecutor told the judge about the alleged crime. Carter waived her right to a jury trial. 20,000 text messages between the couple were entered into evidence, with many showing Carter encouraging Roy to kill himself.“Her actions on July 12, 2014 caused the death of Conrad Roy,” the prosecutor stated. “They were reckless and she knew it. She was 18. It was a felony and she caused serious bodily harm.” Roy sent Carter a selfie of himself looking morose before his death, which was entered into evidence in the case. “I’m crazy oh so crazy,” he captioned the picture.He sent Carter a series of photographs, one of a noose hanging from a tree. The defense argued that Carter was not responsible for Roy’s death, a decision they said he spent a significant amount of time planning, including sending the photos to her with a plan for his suicide.“If you only knew what’s inside my head,” was the caption on another photo Roy sent to Carter. Her defense attorney argued during his closing statements that he “dragged” her into the situation.Carter’s attorney told the judge that Roy was subjected to domestic violence issues and refused to be hospitalized for his mental health issues, all of which contributed to his desire to commit suicide. “I was on the phone with him and he got out of the car because it was working and he got scared and I f***ing told him to get back in Sam,” was a text Carter sent to her friend Samantha Boardman describing his death after the fact.Roy’s mother stormed out of the courtroom during Carter’s attorney’s final arguments. "This was a suicide, not a homicide. This is somebody who eventually wanted to take his life,” he said as Lynn Roy stormed out.Carter’s defense attorney continued his argument for a “not guilty” verdict, saying: “It is sad, it is tragic but it is just not a homicide.”“She doesn’t threaten him with bodily harm, doesn't inflict bodily harm,” her attorney said. He also told the judge “She was confused, she thought she was doing the right thing,” but Roy told her: “There is nothing anyone can do to make me want to live.”The judge told the court he would take the evidence, including a photograph of a gun that Roy sent to Carter before his death. I am not unmindful of the fact that the lives of two families have been immutably changed by the evidence we have seen.” Stay with Radar for updates to the story. We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+
+
+
+
+
+
+
+
+/n

@@ -1,0 +1,48 @@
+hit theaters next month. The film tells the story of the late jazz singer's rise to fame as well as her relationship with her nurse-turned-manager, Clifton Henderson (played by David Oyelowo). News of Saldana's casting for the role.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/745296/zoe-saldana-s-controversial-biopic-nina-releases-first-trailer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201622/rs_634x1024-160302083810-634.Zoe-SAldana-Nina-Trailer-Kf.3216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zoe Saldana, Nina");
+	var imageCaption = encodeURIComponent("Zoe Saldana, Nina");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+After years of controversy and production issues, the biopic, Nina—in which Zoe Saldana plays singer Nina Simone—has finally released its first trailer and will hit theaters next month.The film tells the story of the late jazz singer's rise to fame as well as her relationship with her nurse-turned-manager, Clifton Henderson (played by David Oyelowo).News of Saldana's casting for the role was announced in 2012, and people immediately began criticizing the decision, questioning why producers would choose an actress of Dominican and Puerto Rican descent to represent Simone, who was of African American descent and whose darker skin played a major role in her success and impact on society.
+
+
+
+Jason Kempin/Getty Images
+
+Saldana also suggested critics and fans alike see the movie before making any conclusions about the casting decision."People are going to want to outcast you and put you someplace and it's like, you can have any opinion about it, and that is fine, as long as you understand that it's going to come second to how I feel about myself," she told Latina magazine at the time of her casting.She continued, explaining why she refused to give up the role despite her critics: "I was already a part of this project and my priority was Nina, and the love that I feel for this woman, for her music and what she left us. Let's all give ourselves a chance to watch it and then make a decision."Nina will be released in theaters April 22.
+/n

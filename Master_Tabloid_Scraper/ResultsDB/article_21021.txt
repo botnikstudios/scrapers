@@ -1,0 +1,44 @@
+Happy Birthday, Doris Day! Actress Turns 90 and Admits, "I've Had an Amazing Life" Happy birthday, Doris Day! Believe it or not, the legendary actress turns 90 years old today and she's more alive now than ever! "Oh,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/528264/happy-birthday-doris-day-actress-turns-90-and-admits-i-ve-had-an-amazing-life');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201433/rs_634x1024-140403134759-634.doris-day.cm.4314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Doris Day");
+	var imageCaption = encodeURIComponent("Doris Day");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Hulton Archive/Getty Images
+
+Happy birthday, Doris Day!Believe it or not, the legendary actress turns 90 years old today and she's more alive now than ever!"Oh, I have my little aches and pains now and then, like everyone," Day revealed in a special interview with Closer celebrating her big 9-0. "But I've truly been blessed with good health."These days, the Calamity Jane actress says she likes spending her time reading the hoards of fan mail she still gets. "I'm still floored by all the beautiful, heartwarming letters from people all over the world, telling me that my work somehow touched their lives," she said.
+
+"I love to be outside, walking along the beach or working in my garden," she added. "Those things are all quite enjoyable for me. I have everything I could ever want right here in Carmel [Calif.]!"As for how she's going celebrate her big 90th birthday, Day will host a dog fashion show tonight to "showcase local rescues that need a home." The event will also raise money for her Doris Day Animal Foundation."I've never been a fan of celebrating my own birthdays," Day admitted to the mag."All I ever wanted in my life was to get married, have kids, keep house and cook, and even though I did all these things, I still ended up in Hollywood," Day said while looking back on her life. "It was a great trip. I've had an amazing life and wonderful times. And I'm happy!"
+/n

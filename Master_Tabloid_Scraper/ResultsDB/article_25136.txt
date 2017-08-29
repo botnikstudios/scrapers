@@ -1,0 +1,50 @@
+Saturday Night Fever coda: The Bee Gees' Robin Gibb died Sunday, his rep said in a statement to E! News. He was 62, and had been battling colon cancer. Maurice Gibb, Robin's twin and bandmate, passed away in 2003. "I think Rob.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/308869/bee-gees-singer-robin-gibb-dead-at-62');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012420/reg_634.barry.cm.52012.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Robin Gibb");
+	var imageCaption = encodeURIComponent("Robin Gibb");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo/Tracy Brand
+
+Another Saturday Night Fever coda: The Bee Gees' Robin Gibb died Sunday, his rep said in a statement to E! News. He was 62, and had been battling colon cancer.Maurice Gibb, Robin's twin and bandmate, passed away in 2003."I think Robin, obviously, took Maurice's death very badly," a manager for the performer told London's Guardian in 2005.
+
+Along with Maurice and older brother Barry, Robin sang and co-wrote the biggest hits of the disco era.Born Dec. 22, 1949, Robin Gibb was the elder twin by 35 minutes. While still a teenager, he and his British-born, Australian-raised brothers scored their breakthrough hit, "New York Mining Disaster 1941," a Beatles-esque tune penned by Robin and Barry. Robin and Barry had a rocky relationship at times, and in 1969, one rough patch led Robin to leave the family act. "He went into his own world, became a recluse," Barry would later say. On his own, Robin scored the U.K. hit, "Saved By the Bell."If Robin and Barry fought like brothers do, then they also made up like brothers do. In 1971, the duo wrote the Bee Gee's first No. 1 song in the United States, "How Can You Mend a Broken Heart."The brothers were together for the biggest success of their careers: the Saturday Night Fever soundtrack. Robin Gibb said he and his brothers were given two weeks to produce new songs for the John Travolta movie, sight unseen. 
+
+"We always write better quickly, when we're under pressure," he told the Associated Press in 1978.Decades later, Robin Gibb would confess to still never having seen the iconic disco drama that featured several Bee Gees classics, including "Stayin' Alive," "How Deep Is Your Love," "Night Fever," "More Than a Woman," and "If I Can't Have You," which was written by the brothers, but performed by Yvonne Elliman."It's not that I can't watch it," Robin Gibb told the BBC. "It's just that I'm restless."When disco crashed, the Bee Gees didn't get away unscathed. The group was marked by, Robin said, "the stain of the era." The brothers' big-screen musical misfire, Sgt. Pepper's Lonely Hearts Club Band, didn't help, either. Ultimately, the group's wealth of hits won out, and the band was inducted into the Rock and Roll Hall of Fame in 1997.In 1988, the Gibbs' youngest brother, Andy Gibb, who'd had his own chart-topping success as a solo act, died at age 30 of heart inflammation. Maurice Gibb's death, at 53, came following surgery for an intestinal blockage. 
+
+The years after Maurice's death saw Robin and Barry run hot and cold, sometimes returning to the stage together, sometimes keeping their distance."I think we got afraid of each other," Robin told CBS in 2010.Robin Gibb made tabloid headlines in 2009 when the married man had a child with his housekeeper.Robin Gibb's health problems began to mount in 2010, with hospitalizations and surgery that seemed eerily reminiscent of Maurice's woes. Early this year, in London's Daily Mail, Robin confirmed he was battling colon cancer that had spread to his liver, but noted that he "mostly felt great." 
+
+Emergency surgery followed, as did canceled appearances. Most telling, he missed the London premiere of his first classical work, The Titanic Requiem, commemorating the 100th anniversary of the ship disaster.In April, he slipped into a coma after contracting pneumonia, but rallied, a development his doctor called "remarkable." In a 2010 Q-and-A with the Guardian, Robin was asked what music he'd like to have played at his funeral.Some Mozart, he replied, and also "How Deep Is Your Love."
+/n

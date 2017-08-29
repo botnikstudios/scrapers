@@ -1,0 +1,90 @@
+Luann D'Agostino Said She and Tom 'Earned' Happiness 3 Weeks Before Divorce: 'We Just Love Being Together'
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e8bbce3d279f4b6c39d8a0cc3ed992bc-59a5142c45414');
+				var iframe = document.getElementById('wpcom-iframe-e8bbce3d279f4b6c39d8a0cc3ed992bc-59a5142c45414');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e8bbce3d279f4b6c39d8a0cc3ed992bc-59a5142c45414'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Three weeks before Luann D’Agostino and husband Tom D’Agostino filed for divorce, she was gushing about their love on The Real Housewives of New York City reunion — and telling her castmates that she and Tom had worked hard to be happy together.
+“I’ve earned it, though, right? We’ve earned it,” the 52-year-old former countess said in a clip from part 2 of the reunion, which airs Wednesday.
+Her comment came after Cohen asked Luann to tell the audience the things about Tom that she loves — “that maybe people don’t get from seeing the show.”
+It was a good question, as the 50-year-old hasn’t been seen in the best light during his time on the series — between being caught by a friend of costar Bethenny Frankel’s kissing a mysterious blonde at The Regency Hotel the day before his engagement party to his numerous “hot mic” moments while flirting with his ex girlfriends (including a scene in which he referred to his married self as a “dog with a collar”).
+Luann and Tom D’AgostinoChance Yeh/FilmMagic
+Luann was happy to oblige Cohen’s request. “He’s not a TV person so he might come off a little awkward because he’s probably nervous as most people would be in that situation. Especially with what happened,” Luann said. “Tom is actually a great guy who loves me. And together we just love being together and married.”
+But her praises were not blindly supported, especially when Luann explained that they like to travel, ski and play tennis together.
+“That’s all lifestyle stuff,” Frankel said. “I always say you can make a lifestyle out of a life but you can’t make a life out a lifestyle.”
+FROM PEN: Take a Look at Some of the Highlights of Luann de Lesseps & Tom D’Agostino Jr.’s Wedding
+
+On Aug. 3, Luann announced on Twitter that she and Tom were divorcing after only seven months of marriage. “It’s with great sadness that Tom & I agreed to divorce,” she wrote. “We care for each other very much, hope you respect our privacy during this sad time!”
+Days later, she denied allegations that Tom had been unfaithful.
+“I do not think Tom cheated on me, definitely not,” Luann told Page Six on Aug. 3 when asked the reasons for their divorce. “God knows he’s got himself in some trouble in the past, but I don’t believe that continued [while we were married].”
+She continued, “It was impossible, we were having problems and we tried really hard to fix things, and we finally came to the conclusion it was just not going to work. It was a tough decision and we are both very sad about it. But the truth is we just weren’t getting along.”
+Part 2 of The Real Housewives of New York City airs Wednesday at 9 p.m. ET on Bravo.
+/n

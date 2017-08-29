@@ -1,0 +1,137 @@
+ Carrie Underwood, Reba McEntire & More — Hot Red Carpet Fashion Photos From The.../n
+The biggest stars of country music hit the red carpet at Nashville’s Music City Center for the first-ever American Country Countdown Awards on Dec. 15. Hosted by Florida Georgia Line, the inaugural show celebrated the best in country music this year. Click through RadarOnline.com’s collection of photos to see the night’s best red carpet looks.
+
+					var next_post_url = "http://radaronline.com/photos/leah-messer-daughters-ali-aleeah-birthday-without-jeremy-calvert/";
+					var prev_post_url = "http://radaronline.com/photos/kim-kardashian-sexiest-magazine-covers-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2014-12-15T17:55:33+00:00","caption":"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-PP.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T18:02:16+00:00","caption":"Dustin Lynch","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-37.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T18:02:17+00:00","caption":"Brittany Kerr","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-35.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T18:02:17+00:00","caption":"Katie Armiger","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-34.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T18:02:18+00:00","caption":"Cole Swindell","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-32.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T18:02:19+00:00","caption":"Miranda Lambert","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-36.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:56:54+00:00","caption":"Dave Haywood, Hillary Scott and Charles Kelley of Lady Antebellum.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-31.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:00+00:00","caption":"Kelsea Ballerini","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-26.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:01+00:00","caption":"Vince Vaughn","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-25.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:01+00:00","caption":"Randy Houser","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-24.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:02+00:00","caption":"Meghan Linsey","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-27.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:02+00:00","caption":"Cassadee Pope","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-30.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:03+00:00","caption":"Ray Scott","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-29.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:55:04+00:00","caption":"Caroline Boyer&nbsp;and husband&nbsp;Luke Bryan.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-28.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:12+00:00","caption":"Reba McEntire","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-19.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:13+00:00","caption":"Melissa Fumero","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-17.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:14+00:00","caption":"Justin Moore&nbsp;and wife&nbsp;Kate Moore.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-16.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:14+00:00","caption":"Sara Evans","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-33.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:15+00:00","caption":"Scott Borchetta","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-14.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:15+00:00","caption":"Chase Rice","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-13.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:16+00:00","caption":"Kip Moore","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:16+00:00","caption":"Emily Kinney","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:18+00:00","caption":"\n\n\nBrian Kelley and Brittney Marie Cole; Tyler Hubbard and Hayley Stommel\n\n\n","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:17+00:00","caption":"Carrie Underwood","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:18+00:00","caption":"RaeLynn; Chelsea Cannell","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:19+00:00","caption":"Katie Armiger","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:20+00:00","caption":"John W. Dickey; Haley Dickey","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:20+00:00","caption":"Chase Bryant","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:21+00:00","caption":"Kira Kazantsev","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:22+00:00","caption":"Chuck Wicks","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-15T16:40:22+00:00","caption":"Emily West","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/american-country-countdown-awards-2014-01.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Carrie Underwood, Reba McEntire & More — Hot Red Carpet Fashion Photos From The American Country Countdown Awards
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 31 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 31american-country-countdown-awards-2014-PP2 of 312014 American Country Countdown Awards – ArrivalsDustin LynchPhoto credit: G3 of 312014 American Country Countdown Awards – ArrivalsBrittany KerrPhoto credit: G4 of 312014 American Country Countdown Awards – ArrivalsKatie ArmigerPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 312014 American Country Countdown Awards – ArrivalsCole SwindellPhoto credit: G6 of 312014 American Country Countdown Awards – Red CarpetMiranda LambertPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 312014 American Country Countdown Awards – Red CarpetDave Haywood, Hillary Scott and Charles Kelley of Lady Antebellum.Photo credit: G8 of 312014 American Country Countdown Awards – ArrivalsKelsea BalleriniPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 312014 American Country Countdown Awards – ArrivalsVince VaughnPhoto credit: G10 of 312014 American Country Countdown Awards – ArrivalsRandy HouserPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 312014 American Country Countdown Awards – ArrivalsMeghan LinseyPhoto credit: G12 of 312014 American Country Countdown Awards – ArrivalsCassadee PopePhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 312014 American Country Countdown Awards – ArrivalsRay ScottPhoto credit: G14 of 312014 American Country Countdown Awards – ArrivalsCaroline Boyer and husband Luke Bryan.Photo credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+15 of 312014 American Country Countdown Awards – ArrivalsReba McEntirePhoto credit: G16 of 312014 American Country Countdown Awards – Red CarpetMelissa FumeroPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-7'] = {"tag_id":"dfp-tag-mobile_box-7", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+17 of 312014 American Country Countdown Awards – Red CarpetJustin Moore and wife Kate Moore.Photo credit: G18 of 312014 American Country Countdown Awards – ArrivalsSara EvansPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-8'] = {"tag_id":"dfp-tag-mobile_box-8", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+19 of 312014 American Country Countdown Awards – Red CarpetScott BorchettaPhoto credit: G20 of 312014 American Country Countdown Awards – Red CarpetChase RicePhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-9'] = {"tag_id":"dfp-tag-mobile_box-9", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+21 of 312014 American Country Countdown Awards – Red CarpetKip MoorePhoto credit: G22 of 312014 American Country Countdown Awards – Red CarpetEmily KinneyPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-10'] = {"tag_id":"dfp-tag-mobile_box-10", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+23 of 312014 American Country Countdown Awards – Red Carpet
+Brian Kelley and Brittney Marie Cole; Tyler Hubbard and Hayley Stommel
+Photo credit: G24 of 312014 American Country Countdown Awards – Red CarpetCarrie UnderwoodPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-11'] = {"tag_id":"dfp-tag-mobile_box-11", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+25 of 312014 American Country Countdown Awards – Red CarpetRaeLynn; Chelsea CannellPhoto credit: G26 of 312014 American Country Countdown Awards – Red CarpetKatie ArmigerPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-12'] = {"tag_id":"dfp-tag-mobile_box-12", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+27 of 312014 American Country Countdown Awards – Red CarpetJohn W. Dickey; Haley DickeyPhoto credit: G28 of 312014 American Country Countdown Awards – Red CarpetChase BryantPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-13'] = {"tag_id":"dfp-tag-mobile_box-13", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+29 of 312014 American Country Countdown Awards – Red CarpetKira KazantsevPhoto credit: G30 of 312014 American Country Countdown Awards – Red CarpetChuck WicksPhoto credit: G 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-14'] = {"tag_id":"dfp-tag-mobile_box-14", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+31 of 312014 American Country Countdown Awards – Red CarpetEmily WestPhoto credit: G 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+american-country-countdown-awards-2014-PP2014 American Country Countdown Awards – ArrivalsDustin LynchPhoto credit: G2014 American Country Countdown Awards – ArrivalsBrittany KerrPhoto credit: G2014 American Country Countdown Awards – ArrivalsKatie ArmigerPhoto credit: G2014 American Country Countdown Awards – ArrivalsCole SwindellPhoto credit: G2014 American Country Countdown Awards – Red CarpetMiranda LambertPhoto credit: G2014 American Country Countdown Awards – Red CarpetDave Haywood, Hillary Scott and Charles Kelley of Lady Antebellum.Photo credit: G2014 American Country Countdown Awards – ArrivalsKelsea BalleriniPhoto credit: G2014 American Country Countdown Awards – ArrivalsVince VaughnPhoto credit: G2014 American Country Countdown Awards – ArrivalsRandy HouserPhoto credit: G2014 American Country Countdown Awards – ArrivalsMeghan LinseyPhoto credit: G2014 American Country Countdown Awards – ArrivalsCassadee PopePhoto credit: G2014 American Country Countdown Awards – ArrivalsRay ScottPhoto credit: G2014 American Country Countdown Awards – ArrivalsCaroline Boyer and husband Luke Bryan.Photo credit: G2014 American Country Countdown Awards – ArrivalsReba McEntirePhoto credit: G2014 American Country Countdown Awards – Red CarpetMelissa FumeroPhoto credit: G2014 American Country Countdown Awards – Red CarpetJustin Moore and wife Kate Moore.Photo credit: G2014 American Country Countdown Awards – ArrivalsSara EvansPhoto credit: G2014 American Country Countdown Awards – Red CarpetScott BorchettaPhoto credit: G2014 American Country Countdown Awards – Red CarpetChase RicePhoto credit: G2014 American Country Countdown Awards – Red CarpetKip MoorePhoto credit: G2014 American Country Countdown Awards – Red CarpetEmily KinneyPhoto credit: G2014 American Country Countdown Awards – Red Carpet
+Brian Kelley and Brittney Marie Cole; Tyler Hubbard and Hayley Stommel
+Photo credit: G2014 American Country Countdown Awards – Red CarpetCarrie UnderwoodPhoto credit: G2014 American Country Countdown Awards – Red CarpetRaeLynn; Chelsea CannellPhoto credit: G2014 American Country Countdown Awards – Red CarpetKatie ArmigerPhoto credit: G2014 American Country Countdown Awards – Red CarpetJohn W. Dickey; Haley DickeyPhoto credit: G2014 American Country Countdown Awards – Red CarpetChase BryantPhoto credit: G2014 American Country Countdown Awards – Red CarpetKira KazantsevPhoto credit: G2014 American Country Countdown Awards – Red CarpetChuck WicksPhoto credit: G2014 American Country Countdown Awards – Red CarpetEmily WestPhoto credit: G 
+
+
+
+
+
+
+
+
+
+/n

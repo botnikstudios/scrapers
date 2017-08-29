@@ -1,0 +1,48 @@
+build any schools at all—just classrooms. "She has built classrooms at existing schools...really it's a difference in terminology," Education Minister, Eunice Kazembe, told the BBC. /n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/404517/madonna-school-controversy-malawi-education-minister-says-she-s-building-classrooms-not-schools');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201333/rs_293x473-130403093246-634.madonna.ls.4313.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Madonna ");
+	var imageCaption = encodeURIComponent("Madonna ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AMOS GUMULIRA/AFP/Getty Images
+
+Maybe Madonna needs some vocab lessons?After changing her original plan to build a multimillion-dollar all-girls school in Malawi to instead creating 10 primary school and continuing to face obstacles, it turns out Madge didn't build any schools at all—just classrooms."She has built classrooms at existing schools...really it's a difference in terminology," Education Minister, Eunice Kazembe, told the BBC. 
+
+"They have said they have built 10 schools in Malawi and on our side, what we know is that she [Madonna] has built classrooms. These are not schools from our side and really that's the essence of the difference between her side and the Malawi government," Kazembe added.However, Trevor Neilson, president of the Global Philanthropy Group which is now managing the star's Raising Malawi projects, argued that regardless of what exactly the singer has funded, it's still making an impact for Malawi children.Neilson said that $400,000 had been spent on building the 10 school blocks, allowing some 4,000 children to be taught in classrooms as opposed to sitting under the shade of the trees. 
+
+NEWS: Madonna's worth $1 billion!
+
+It's not that Kazembe is not grateful for Madonna's contributions, she just states that "protocol must be observed.""She promised an academy and we agreed on standards but she just changed her mind on the project without consulting us," Kazembe said. "We'd like them to work with us so that they can be absorbed into the strategy of Malawi's education and that goes not just for Madonna—any group that comes to Malawi to assist us in education."
+/n

@@ -1,0 +1,48 @@
+Vestiaire, Dior and Kunza Corsetorium. Stephane Marais did her makeup and Yusef Williams styled her hair to make Rihanna look like a modern-day Marie Antoinette. "I wanted to show that she is not just a villain to be despised or a muse .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/792874/rihanna-grabs-her-boob-in-sexy-cr-fashion-book-photo-shoot');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201687/rs_634x850-160907112232-634.rihanna-cr-fashion-book.9616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rihanna, CR Fashion Book");
+	var imageCaption = encodeURIComponent("Rihanna, CR Fashion Book");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Terry Richardson/CR Fashion Book
+
+Rihanna has her hands full in CR Fashion Book's Fall/Winter issue.Photographed by Terry Richardson and styled by Carine Roitfeld, the "Love on the Brain" singer modeled provocative designs by Dilara Findikoglu, Le Vestiaire, Dior and Kunza Corsetorium. Stephane Marais did her makeup and Yusef Williams styled her hair to make Rihanna look like a modern-day Marie Antoinette. "I wanted to show that she is not just a villain to be despised or a muse to be channeled," Roitfield said of the fashion-forward photo shoot. "She is neither, actually. She is a prototype for contemporary fame, body, beauty, celebrity and femininity."No kidding. In one of the photos, Rihanna grabbed her right boob—something readers don't often see in more commercial fashion magazines. But then again, the 28-year-old singer has always played by her own rules, both in music and in fashion. "Everything done by her and to her has influenced society's concept of womanhood," Roitfeld explained, "for better or worse."
+
+
+
+Terry Richardson/CR Fashion Book
+
+The theme is carried throughout the entire edition. "In this issue, I wanted to capture that sense of attraction and repulsion: the fantasy of glamour but also the poison and prison of femininity and society. The magazine is crafted around key elements of [Marie Antoinette's] life—her exuberant sense of fashion, her elaborate hairdos, her intense sexuality—almost like a modern biography through fashion imagery," the editor explained. "And on the cover is Rihanna, who shares with Marie Antoinette an air of royalty that I, and the world it seems, find intoxicating."CR Fashion Book (Issue 9) will be on newsstands Sept. 15.
+/n

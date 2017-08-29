@@ -1,0 +1,46 @@
+Janet Hubert on Jada Pinkett Smith's Oscars Boycott: It's "Self-Contrived" Because Will Smith Was Not Nominated You didn't think Janet Hubert was going to hold back, did you? The actress posted a video to her Faceboo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/732878/janet-hubert-on-jada-pinkett-smith-s-oscars-boycott-it-s-self-contrived-because-will-smith-was-not-nominated');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016021/rs_634x1024-160121045234-634.Will-Smith-Jada-Pinkett-Smith-Janet-Hubert-JR-012116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Will Smith, Jada Pinkett Smith, Janet Hubert");
+	var imageCaption = encodeURIComponent("Will Smith, Jada Pinkett Smith, Janet Hubert");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gabe Ginsberg/WireImage, Paul Drinkwater/NBCU Photo Bank
+
+You didn't think Janet Hubert was going to hold back, did you?The actress posted a video to her Facebook page Monday, where she criticized Jada Pinkett Smith over her decision to boycott the 2016 Oscars in response to this year's all-white nominees. "I was looking at this ridiculousness people called a historic moment and I was annoyed," said Janet, who had once played Aunt Viv on The Fresh Pince of Bel-Air opposite Jada's husband, Will Smith. "I was annoyed because it dilutes the movement when you only stand up for yourself.""I'm a real freedom fighter. I'm not a pretend freedom fighter. I stand up for other actresses, other people. The Smiths just irked me because they are such pretenders, and everything is a photo op," she continued. "It's just self-contrived because her hubby didn't get a nomination."As Janet told The Los Angeles Times Wednesday, "nobody cares" about their decision to skip the show. "This is my way of letting loose what I feel inside as an actress who's been blocked," she said. "The wonderful thing about the Internet is that nobody can stop you." In her video, she argued calls to boycott the show are "not that deep." Asked to elaborate, she said, "We are not brain surgeons. We are not curing cancer. We are not finding the next cure for Alzheimer's. We are simply and merely entertainment. We take on and wear the masks of characters. That's what we're paid to do. Someone like Will Smith has not come up through the ranks like most actors, so for him to be complaining the most is the most ridiculous thing I have ever seen."
+
+While she acknowledged that there is a diversity issue in Hollywood—not to mention "colorism within the black community Hollywood"—Janet also argued other issues are being overlooked as a result. "The Oscars were never designed for us. There are actors who have never gotten an Oscar and have done amazing work. If you are waiting for an award of a little...gold statue and that's supposed to validate you, then you're not in this business for the right reasons," the TV star told the paper. "We do the work. It's about the work. It's about taking the pages of a script and bringing them to life. It ain't that deep. We get paid a lot of money to do very little work."To illustrate her point, Janet pointed to a former Real Housewives of Atlanta star that has made a name for herself as an actress in recent years despite not having the credentials some of her peers do. "I think the black community has a lot to work on internally with what they deem successful. Did you know NeNe Leakes made it on Broadway before Janet Hubert? Something's wrong with the whole system of bad behavior being rewarded," the actress explained. "I think in the black community, ratchet has became the new black, ghetto has become the new black."According to Janet, talk is cheap—and the Smiths should take action. "Everyone is struggling to get to where Mr. Smith and where Mrs. Jada Pinkett Smith are," she said. "I have more respect for her because she's come through the ranks. [But] y'all are at your mansion in a gilded cage standing up there with billions of dollars in the bank. You could do more for the industry and for black Hollywood than anyone could. You could be mentoring young screenwriters. You could be setting up a program. You have the ability to do so much. You could become the new Tyler Perry. Tyler Perry is not going, 'I want an Oscar.' He found his niche and we love him for that."
+
+Many people believed Will was snubbed in the Best Actor category for his role in Concussion, but Janet is not among them. "If you're going to take on a role with a dialect, you have got to understand the phonetics of what you're doing. Maybe they just didn't think it was good enough. Get over it. You got a Golden Globe nomination. You should be happy," she said. "As actors, we know that every job you get could be your last and you're only as good as the last job you did. You don't ask people to step out on a limb to hang themselves. That's what I felt like he was doing. That's why I put the video out. That's my truth. There is no bitterness." Regarding her feelings toward Will, 47, and Jada, 44, today, she said, "They have got to get over [themselves]. You ain't all that. You're not kings and queens. You're not royalty. You're simply entertainers."Janet—who explained that she is "not afraid to speak the truth" and is "going to look out for my fellow actor"—argued that accolades are meaningless, anyway. "Why do people need awards? Don't you know your value and your worth? I don't need anybody's award or acceptance. We have a bigger problem. There needs to be huge changes in the system, but it's not our system," she told The Los Angeles Times. "Let's make our own system. But I don't want to hear those two. When you don't stand up for the people who helped you get your start and now you're asking people to stand up with you, it's ironic to me. And it's suspect."The Smiths, for their part, have not commented on Janet's interview.
+/n

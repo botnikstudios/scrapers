@@ -1,0 +1,50 @@
+A Thank You to Queer as Folk On Its 15th Anniversary I was 14 in the winter of 2000. A freshman at a performing arts high school, puberty was nudging me ever closer to the doors of a closet I hadn't even realized I was living in. Growing up in a subu.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/720903/a-thank-you-to-queer-as-folk-on-its-15th-anniversary');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015112/rs_634x805-151202160525-634.queer-as-folk.cm.12215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Queer As Folk Cast");
+	var imageCaption = encodeURIComponent("Queer As Folk Cast");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Showtime
+
+I was 14 in the winter of 2000. A freshman at a performing arts high school, puberty was nudging me ever closer to the doors of a closet I hadn't even realized I was living in. Growing up in a suburb just outside of Los Angeles, the thought of coming out wasn't cause for the life-threatening concern it certainly is elsewhere in the country, but I certainly wasn't spared the fear that has no doubt plagued many of my LGBT brethren, regardless their circumstances.It didn't help that our representation in popular culture, TV especially, was at best, limited (and at worst, harmful) at this point. Sure, Roseanne introduced as many LGBT characters as ABC would allow in the mid-'90s, we had met the true Ellen DeGeneres (and quickly lost her fictional counterpart thereafter) and Will & Grace's Will Truman and Jack McFarland had just come into our lives two years prior, but there was no gay character powerfully standing front and center. No one who felt like less of a joke and more of an authentic human, with an unapologetic sex life celebrated as normally as a straight character.And then Queer as Folk came along.
+
+I remember the night the Showtime series (adapted from a UK series by the same name) premiered, 15 years ago today, vividly. I was still deeply confused about myself, but I'd heard about a new drama about gay men that was guaranteed to raise more than a few eyebrows. Thankful my parents paid for Showtime, I was resolved to watch this thing in secrecy someway, somehow.That night, a Sunday, I was my grandma's date to my great-uncle's jazz concert. Anxious to get home in time, I rushed her out of that auditorium immediately after, though not before overhearing an older couple talking about getting home to watch the damn thing themselves. I felt a weird rush of excitement and, oddly, jealousy. That was my show, one I'd only thought about in the safety of my own head, but other people, strangers even, knew about it. It somehow gave the show, and myself, a sense of legitimacy. I didn't have to just be some secret if I chose not to.
+
+I watched the premiere that night just as I would for many Sundays to come: with the volume down low and a nervous eye on the door, with one finger on the remote ready to change the channel should anyone enter the room. But in that hour, I was transported to a world that excited me, scared me, and turned me on—and didn't expect me to feel bad about any of those feelings. I identified with Justin (Randy Harrison), who was experiencing a sexual and identity awakening not unlike my own. I dreamed of the day I'd visit a club like Babylon, which remained central in the series as a safe haven night out for the main characters—though the thought of a place with a hedonistic backroom free-for-all terrified me a little, too (and still does, to be honest). I stood in awe of Brian Kinney (Gale Harold), who took Justin's virginity and was the object of poor Michael's (Hal Sparks) unrequited obsession.
+
+Brian's in-your-face sexuality, and the show's graphic sex scenes, were, in their own way, a profound political statement. They instilled a belief in me that there was power in accepting myself. No one f--ked with Brian, and the idea that I could one day reach a level of self-acceptance that would protect me from people who find my very existence repulsive was the real turn-on.And then there was Debbie, Michael's mom. Sharon Gless brought to life this fiercely proud—and fiercely protective—den mother, a woman who treated all of Michael's friends like they were her own children, giving them the maternal love they needed and, sadly, weren't always getting from their own mothers. As a proud member of PFLAG (Parents, Families and Friends of Lesbians and Gays), she introduced me to a real-life organization of LGBT allies that I never even knew existed. Debbie gave us hope that we too might have a fiercely protective parent just waiting for us to find the strength to be honest. She was a reminder that not everyone hated us.
+
+Since QAF went off the air in 2005, the television landscape has felt its impact. Certainly, the steamy gay sex scenes on How to Get Away With Murder were made possible, in some small part, by QAF doing its thing over a decade ago. But nothing's come close to recapturing the spirit of the show—and maybe nothing should. HBO gave us two seasons of Looking that was either met with the criticism that it was too boring in this post-QAF world (which wasn't exactly fair) or that it was too white (which, well, that was a little more fair, though diversity definitely wasn't QAF's strong suit, either).TV may have moved past what Queer as Folk was doing, but at the time, it was a wickedly fun soap that was a powerful political statement for just daring to exist. As Michael said in the final moments of the series: "So the 'thumpa thumpa' continues. It always will. No matter what happens. No matter who's president. As our lady of Disco, the divine Miss Gloria Gaynor has always sung to us: We will survive."Thank you, Queer as Folk. Thank you for promising a closeted teen that he would survive. And thank you for showing him how to not only survive, but thrive.
+/n

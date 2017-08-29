@@ -1,0 +1,44 @@
+Nicole Scherzinger and Lewis Hamilton No Longer Speak Nicole Scherzinger is no longer in contact with Lewis Hamilton, but that doesn't mean the exes are at odds. The former couple ended their eight-year, on-and-off relationship in 2015,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/805442/nicole-scherzinger-and-lewis-hamilton-no-longer-speak');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016928/rs_634x1024-161028083239-634.Nicole-Scherzinger-JR-102816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nicole Scherzinger");
+	var imageCaption = encodeURIComponent("Nicole Scherzinger");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Brian J Ritchie/Hotsauce/REX/Shutterstock
+
+Nicole Scherzinger is no longer in contact with Lewis Hamilton, but that doesn't mean the exes are at odds. The former couple ended their eight-year, on-and-off relationship in 2015, and Scherzinger, 38, rebounded with dating tennis player Grigor Dimitrov, 25, in July 2016. Lewis, meanwhile, has been linked to a number of models since calling it off with the "Poison" singer.In Saturday's episode of ITV's The Jonathan Ross Show, Scherzinger explains why it's for the best that she keeps her distance from the Formula 1 racer, 31. "I don't see anything negative; I think it's quite natural when people separate and go their own ways. You just have to be adult about it and just always wish the other person happiness, success and love—like, sincerely—and I do," she admits. "We don't, like, talk."
+
+Scherzinger, who appears as a guest on The Jonathan Ross Show alongside Gino D'Acampo, Shawn Mendes and Stephen Merchant, says the realization came with "experience and age."After her relationship with Hamilton ended, Scherzinger did some soul searching. In time, the "Wet" singer finally figured out who she is and what she loves. "I think it's really important if you are in a relationship, no matter who you are," she says. "You have to be happy first and love yourself first and be whole before you can really give your everything in a relationship."The Jonathan Ross Show airs Saturday at 9:50 p.m. on ITV.
+/n

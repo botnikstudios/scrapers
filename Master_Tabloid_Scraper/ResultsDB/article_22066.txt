@@ -1,0 +1,73 @@
+Inside Grungy Gentleman’s Spring/Summer 2018 NYFW: Men's Runway Show/n
+Jace Lipstein, designer and founder of Grungy Gentleman, debuted his Spring/Summer 2018 collection during his NYFW: Men’s runway show at Dream Downtown on Thursday, July 13th.  Along with the Spring/Summer ‘18 collection, Lipstein also showcased the Grungy Gentleman x Indiana University collection as an Indiana University Alumni, which will be available this coming August 2017.
+
+					var next_post_url = "http://radaronline.com/photos/jeremy-meeks-friends-girlfriend-chloe-green/";
+					var prev_post_url = "http://radaronline.com/photos/bethenny-frankel-films-bikini-shirtless-fredrik-eklund/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":" Jace Lipstein, designer and founder of\u00a0Grungy Gentleman, debuted his Spring\/Summer 2018...","image":[{"@type":"ImageObject","datePublished":"2017-07-17T13:21:08+00:00","caption":"Models donned\u00a0Maui Jim\u00a0sunglasses and looks included\u00a0Grungy Gentleman x Timberland\u00a0&amp;\u00a0Grungy Gentleman x iSlides\u00a0footwear,\u00a0Grungy Gentleman x Mitchell &amp; Ness\u00a0hats.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/043_ZH5_0762.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-17T13:21:09+00:00","caption":"DJ Juanyto\u00a0of\u00a0Hot 97\u00a0spun a\u00a0playlist of mixed genres while guests sipped on\u00a0Glennfiddich\u00a0cocktails.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/BFA_20320_2554858.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-17T13:21:10+00:00","caption":"Meanwhile, backstage, the models prepared for the catwalk as their hair and makeup was done by\u00a0New York Institute of Beauty.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/BFA_20320_2554903.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-17T13:21:11+00:00","caption":"NBA Denver Nuggets forward\u00a0Kenneth Faried opened and closed the show in what was\u00a0Grungy Gentleman\u2019s\u00a07th menswear runway show.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/187_ZH5_3128.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-17T13:21:12+00:00","caption":"Notable guests including NFL cornerback\/Superbowl Champion\u00a0Darelle Revis, NY Knicks forward\u00a0Lance Thomas, NFL running back\u00a0Rashad Jennings, Former NY Giant running back\/Superbowl Champion\u00a0Rodney Hampton,\u00a0actor\u00a0James Martinez\u00a0(House of Cards), actor\u00a0Elijah Boothe\u00a0(Netflix Luke Cage),\u00a0singer\/producer\u00a0Bobby Brackins,\u00a0and the cast of\u00a0Bravo\u2019s Summer House\u00a0sat front row to experience the collection.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/BFA_20320_2554938.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-17T13:21:13+00:00","caption":"NIVEA Men\u00a0provided gift bags for front row guests.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/BFA_20320_2554933.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-17T13:41:31+00:00","caption":"After the show, everyone headed downstairs of Dream to\u00a0Electric Room\u00a0nightclub for the after-party to celebrate\u00a0Grungy Gentleman\u00a0and the Spring\/Summer 2018 collection.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/199_ZH5_3285.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Inside Grungy Gentleman’s Spring/Summer 2018 NYFW: Men’s Runway Show
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 7 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 7Models donned Maui Jim sunglasses and looks included Grungy Gentleman x Timberland & Grungy Gentleman x iSlides footwear, Grungy Gentleman x Mitchell & Ness hats.Photo credit: BFA2 of 7DJ Juanyto of Hot 97 spun a playlist of mixed genres while guests sipped on Glennfiddich cocktails.Photo credit: BFA3 of 7Meanwhile, backstage, the models prepared for the catwalk as their hair and makeup was done by New York Institute of Beauty.Photo credit: BFA4 of 7NBA Denver Nuggets forward Kenneth Faried opened and closed the show in what was Grungy Gentleman’s 7th menswear runway show.Photo credit: BFA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 7Notable guests including NFL cornerback/Superbowl Champion Darelle Revis, NY Knicks forward Lance Thomas, NFL running back Rashad Jennings, Former NY Giant running back/Superbowl Champion Rodney Hampton, actor James Martinez (House of Cards), actor Elijah Boothe (Netflix Luke Cage), singer/producer Bobby Brackins, and the cast of Bravo’s Summer House sat front row to experience the collection.Photo credit: BFA6 of 7NIVEA Men provided gift bags for front row guests.Photo credit: BFA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 7After the show, everyone headed downstairs of Dream to Electric Room nightclub for the after-party to celebrate Grungy Gentleman and the Spring/Summer 2018 collection.Photo credit: BFA 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Models donned Maui Jim sunglasses and looks included Grungy Gentleman x Timberland & Grungy Gentleman x iSlides footwear, Grungy Gentleman x Mitchell & Ness hats.Photo credit: BFADJ Juanyto of Hot 97 spun a playlist of mixed genres while guests sipped on Glennfiddich cocktails.Photo credit: BFAMeanwhile, backstage, the models prepared for the catwalk as their hair and makeup was done by New York Institute of Beauty.Photo credit: BFANBA Denver Nuggets forward Kenneth Faried opened and closed the show in what was Grungy Gentleman’s 7th menswear runway show.Photo credit: BFANotable guests including NFL cornerback/Superbowl Champion Darelle Revis, NY Knicks forward Lance Thomas, NFL running back Rashad Jennings, Former NY Giant running back/Superbowl Champion Rodney Hampton, actor James Martinez (House of Cards), actor Elijah Boothe (Netflix Luke Cage), singer/producer Bobby Brackins, and the cast of Bravo’s Summer House sat front row to experience the collection.Photo credit: BFANIVEA Men provided gift bags for front row guests.Photo credit: BFAAfter the show, everyone headed downstairs of Dream to Electric Room nightclub for the after-party to celebrate Grungy Gentleman and the Spring/Summer 2018 collection.Photo credit: BFA 
+
+
+
+
+
+
+
+
+
+/n

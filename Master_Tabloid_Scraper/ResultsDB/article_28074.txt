@@ -1,0 +1,83 @@
+The Odd Couple! Spencer Pratt Frolics With Far-Right InfoWars Host Alex Jones/n
+
+					var next_post_url = "http://radaronline.com/photos/american-murder-mysteries/";
+					var prev_post_url = "http://radaronline.com/photos/taylor-swift-mtv-vma-encounter-katy-perry-calvin-harris/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-23T14:40:20+00:00","caption":"Spencer Pratt and far-right InfoWars radio host Alex Jones met up recently while on vacation in Hawaii. Click through RadarOnline.com\u2019s gallery to see photos from their strange bromantic getaway.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:21+00:00","caption":"The pair, who happened to be staying at the same resort, donned swimsuits and grabbed snorkels for their guys day out.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:22+00:00","caption":"Pratt, 34, and Jones, 43, searched the Hawaiian beach for the perfect place to snorkel.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:23+00:00","caption":"\u201cI asked him if he does his rants on purpose or if it\u2019s an act. I thought that was some good journalism,\u201d Pratt said of his interaction with the infamous conspiracy theorist. \u201cI asked him about his opinion on being spoofed on Homeland.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:25+00:00","caption":"\u201cWe covered all the important subjects,\u201d Pratt said about hanging out with Jones. \u201cBlack helicopters, the Matrix, AI bot wars, China taking over, Trump. You know, just normal 7:30 a.m. beach conversations\u2014super chill.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:26+00:00","caption":"Pratt and his wife, Heidi Montag, are both proud republicans.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:27+00:00","caption":"\"We're behind America and America's decision,\" Pratt has said.\n","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-23T14:40:28+00:00","caption":"Spencer and Montag first met Jones when they sat for a 2009 InfoWars interview with him. \u201cI think he appreciates that when we had the juice we risked it all and lost it all going on his show!\u201d said Pratt. \u201cSo he owes at least one buffet breakfast for taking our careers from us.\u201d\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/spencer-pratt-alex-jones-beach-hawaiian-vacation-01.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+The Odd Couple! Spencer Pratt Frolics With Far-Right InfoWars Host Alex Jones
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Spencer Pratt and far-right InfoWars radio host Alex Jones met up recently while on vacation in Hawaii. Click through RadarOnline.com’s gallery to see photos from their strange bromantic getaway.Photo credit: BACKGRID2 of 8The pair, who happened to be staying at the same resort, donned swimsuits and grabbed snorkels for their guys day out.Photo credit: BACKGRID3 of 8Pratt, 34, and Jones, 43, searched the Hawaiian beach for the perfect place to snorkel.Photo credit: BACKGRID4 of 8“I asked him if he does his rants on purpose or if it’s an act. I thought that was some good journalism,” Pratt said of his interaction with the infamous conspiracy theorist. “I asked him about his opinion on being spoofed on Homeland.”Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8“We covered all the important subjects,” Pratt said about hanging out with Jones. “Black helicopters, the Matrix, AI bot wars, China taking over, Trump. You know, just normal 7:30 a.m. beach conversations—super chill.”Photo credit: BACKGRID6 of 8Pratt and his wife, Heidi Montag, are both proud republicans.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8"We're behind America and America's decision," Pratt has said.
+Photo credit: BACKGRID8 of 8Spencer and Montag first met Jones when they sat for a 2009 InfoWars interview with him. “I think he appreciates that when we had the juice we risked it all and lost it all going on his show!” said Pratt. “So he owes at least one buffet breakfast for taking our careers from us.”
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Spencer Pratt and far-right InfoWars radio host Alex Jones met up recently while on vacation in Hawaii. Click through RadarOnline.com’s gallery to see photos from their strange bromantic getaway.Photo credit: BACKGRIDThe pair, who happened to be staying at the same resort, donned swimsuits and grabbed snorkels for their guys day out.Photo credit: BACKGRIDPratt, 34, and Jones, 43, searched the Hawaiian beach for the perfect place to snorkel.Photo credit: BACKGRID“I asked him if he does his rants on purpose or if it’s an act. I thought that was some good journalism,” Pratt said of his interaction with the infamous conspiracy theorist. “I asked him about his opinion on being spoofed on Homeland.”Photo credit: BACKGRID“We covered all the important subjects,” Pratt said about hanging out with Jones. “Black helicopters, the Matrix, AI bot wars, China taking over, Trump. You know, just normal 7:30 a.m. beach conversations—super chill.”Photo credit: BACKGRIDPratt and his wife, Heidi Montag, are both proud republicans.Photo credit: BACKGRID"We're behind America and America's decision," Pratt has said.
+Photo credit: BACKGRIDSpencer and Montag first met Jones when they sat for a 2009 InfoWars interview with him. “I think he appreciates that when we had the juice we risked it all and lost it all going on his show!” said Pratt. “So he owes at least one buffet breakfast for taking our careers from us.”
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

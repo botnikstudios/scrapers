@@ -1,0 +1,84 @@
+Special Report: Sex, Booze & Fakery — The REAL STORY Behind TV's The Bachelor/n
+
+					var next_post_url = "http://radaronline.com/photos/kim-kardashian-north-west-preschool-photos-kanye-west-30000-year-tuition/";
+					var prev_post_url = "http://radaronline.com/photos/lisa-marie-presley-divorce-michael-lockwood-fathers-day-kids-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-15T17:40:07+00:00","caption":"Bachelor in Paradise came under fire when DeMario Jackson was accused of alleged sexual assault after a raunchy pool hookup with co-star Corinne Olympios. But former contestants are claiming the incident has been a long time coming! Jamie Otis and Josh Seiter reveal The Bachelor\u2019s sleazy secrets on sex, booze, fakery and more exclusively to RadarOnline.com.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:11+00:00","caption":"Jamie Otis, who appeared on Ben Flajnik\u2019s season of The Bachelor and Bachelor Pad, claims there is \u201ca lot of pressure from producers\u201d when it comes to storylines. \u201cThey're constantly in your ear about what is going on and what you should do about it,\u201d she said.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:14+00:00","caption":"\u201cI don't know I'd go as far to say they pressure you to have sex, but they definitely encourage you to \u2018open up,\u2019\u201d she claimed. \u201cWhich is more or less saying make out and get personal together!\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:12+00:00","caption":"The contestants get help \u201copening up\u201d from an endless amount of booze! \u201cThe alcohol is always flowing,\u201d she said. \u201cIf they happen to run out of your favorite drink of choice, there's a production assistant sent out pronto to get that beverage. Alcohol is definitely encouraged for breakfast, lunch and dinner.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:09+00:00","caption":"Seiter, who appeared on Kaitlyn Bristowe\u2019s season of The Bachelorette, claims the amount of alcohol available was \u201cover the top.\u201d \u201cIt must have been $100,000 in alcohol,\u201d he said. \u201cThey encouraged you to drink.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:13+00:00","caption":"Seiter claims producers \u201cinstigate things\u201d to increase ratings. \u201cThey take a piece of clothing from someone else and set it up to frame another cast member even though it was a producer,\u201d he said. \u201cLittle things like that to create drama. It\u2019s non-stop action. At the end of the day, the bottom line is viewership.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:15+00:00","caption":"He continued that they even forced him to strip on-camera! \u201cI didn\u2019t want to strip, they forced me,\u201d he said. \"They came to my hotel the night before and then two more producers came after I rejected the idea. They were like, \u2018It\u2019s going to get you far on the show.\u2019 They put pressure on me in uncomfortable ways like coming to my hotel room. I ended up getting sent home the first night.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:16+00:00","caption":"Seiter claims they have \u201ccomplete disregard\u201d for their contestants. \u201cThey used me and threw me to the side because all they cared about was ratings,\u201d he said. \u201cThey do that to everybody. At the end of the day, the bottom line is viewership. You as a person are subjected to their bottom line of making money.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:10+00:00","caption":"Olympios released a statement promising to take legal action against the show. \u201cI am a victim and have spent the last week trying to make sense of what happened on June 4,\u201d Olympios said through publicist Stan Rosenfield. \u201cAlthough I have little memory of that night, something bad obviously took place, which I understand is why production on the show has now been suspended and a producer on the show has filed a complaint against production.\u201d She added, \u201cI have retained a group of professionals to ensure that what happened on June 4 comes to light and I can continue my life,\u201d she said. \u201cIncluding hiring an attorney to obtain justice.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:08+00:00","caption":"Jackson responded in a statement to E!, \u201cIt\u2019s unfortunate that my character and family name has been assassinated this past week with false claims and malicious allegations. I will be taking swift and appropriate legal action until my name is cleared and, per the advice of legal counsel, will be seeking all available remedies entitled to me under the laws.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-15T17:40:18+00:00","caption":"What do you think of the secrets? Tell us in the comments.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/bachelor-contestants-tell-all-on-sex-alcohol-fakery-09.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Special Report: Sex, Booze & Fakery — The REAL STORY Behind TV’s The Bachelor
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11Bachelor in Paradise came under fire when DeMario Jackson was accused of alleged sexual assault after a raunchy pool hookup with co-star Corinne Olympios. But former contestants are claiming the incident has been a long time coming! Jamie Otis and Josh Seiter reveal The Bachelor’s sleazy secrets on sex, booze, fakery and more exclusively to RadarOnline.com.Photo credit: Getty Images2 of 11Jamie Otis, who appeared on Ben Flajnik’s season of The Bachelor and Bachelor Pad, claims there is “a lot of pressure from producers” when it comes to storylines. “They're constantly in your ear about what is going on and what you should do about it,” she said.Photo credit: Getty Images3 of 11“I don't know I'd go as far to say they pressure you to have sex, but they definitely encourage you to ‘open up,’” she claimed. “Which is more or less saying make out and get personal together!”Photo credit: Getty Images4 of 11The contestants get help “opening up” from an endless amount of booze! “The alcohol is always flowing,” she said. “If they happen to run out of your favorite drink of choice, there's a production assistant sent out pronto to get that beverage. Alcohol is definitely encouraged for breakfast, lunch and dinner.”Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11Seiter, who appeared on Kaitlyn Bristowe’s season of The Bachelorette, claims the amount of alcohol available was “over the top.” “It must have been $100,000 in alcohol,” he said. “They encouraged you to drink.”Photo credit: Twiter6 of 11Seiter claims producers “instigate things” to increase ratings. “They take a piece of clothing from someone else and set it up to frame another cast member even though it was a producer,” he said. “Little things like that to create drama. It’s non-stop action. At the end of the day, the bottom line is viewership.”Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11He continued that they even forced him to strip on-camera! “I didn’t want to strip, they forced me,” he said. "They came to my hotel the night before and then two more producers came after I rejected the idea. They were like, ‘It’s going to get you far on the show.’ They put pressure on me in uncomfortable ways like coming to my hotel room. I ended up getting sent home the first night.”Photo credit: Getty Images8 of 11Seiter claims they have “complete disregard” for their contestants. “They used me and threw me to the side because all they cared about was ratings,” he said. “They do that to everybody. At the end of the day, the bottom line is viewership. You as a person are subjected to their bottom line of making money.” 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11Olympios released a statement promising to take legal action against the show. “I am a victim and have spent the last week trying to make sense of what happened on June 4,” Olympios said through publicist Stan Rosenfield. “Although I have little memory of that night, something bad obviously took place, which I understand is why production on the show has now been suspended and a producer on the show has filed a complaint against production.” She added, “I have retained a group of professionals to ensure that what happened on June 4 comes to light and I can continue my life,” she said. “Including hiring an attorney to obtain justice.”Photo credit: Getty Images10 of 11Jackson responded in a statement to E!, “It’s unfortunate that my character and family name has been assassinated this past week with false claims and malicious allegations. I will be taking swift and appropriate legal action until my name is cleared and, per the advice of legal counsel, will be seeking all available remedies entitled to me under the laws.”Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11What do you think of the secrets? Tell us in the comments.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Bachelor in Paradise came under fire when DeMario Jackson was accused of alleged sexual assault after a raunchy pool hookup with co-star Corinne Olympios. But former contestants are claiming the incident has been a long time coming! Jamie Otis and Josh Seiter reveal The Bachelor’s sleazy secrets on sex, booze, fakery and more exclusively to RadarOnline.com.Photo credit: Getty ImagesJamie Otis, who appeared on Ben Flajnik’s season of The Bachelor and Bachelor Pad, claims there is “a lot of pressure from producers” when it comes to storylines. “They're constantly in your ear about what is going on and what you should do about it,” she said.Photo credit: Getty Images“I don't know I'd go as far to say they pressure you to have sex, but they definitely encourage you to ‘open up,’” she claimed. “Which is more or less saying make out and get personal together!”Photo credit: Getty ImagesThe contestants get help “opening up” from an endless amount of booze! “The alcohol is always flowing,” she said. “If they happen to run out of your favorite drink of choice, there's a production assistant sent out pronto to get that beverage. Alcohol is definitely encouraged for breakfast, lunch and dinner.”Photo credit: Getty ImagesSeiter, who appeared on Kaitlyn Bristowe’s season of The Bachelorette, claims the amount of alcohol available was “over the top.” “It must have been $100,000 in alcohol,” he said. “They encouraged you to drink.”Photo credit: TwiterSeiter claims producers “instigate things” to increase ratings. “They take a piece of clothing from someone else and set it up to frame another cast member even though it was a producer,” he said. “Little things like that to create drama. It’s non-stop action. At the end of the day, the bottom line is viewership.”Photo credit: Getty ImagesHe continued that they even forced him to strip on-camera! “I didn’t want to strip, they forced me,” he said. "They came to my hotel the night before and then two more producers came after I rejected the idea. They were like, ‘It’s going to get you far on the show.’ They put pressure on me in uncomfortable ways like coming to my hotel room. I ended up getting sent home the first night.”Photo credit: Getty ImagesSeiter claims they have “complete disregard” for their contestants. “They used me and threw me to the side because all they cared about was ratings,” he said. “They do that to everybody. At the end of the day, the bottom line is viewership. You as a person are subjected to their bottom line of making money.”Olympios released a statement promising to take legal action against the show. “I am a victim and have spent the last week trying to make sense of what happened on June 4,” Olympios said through publicist Stan Rosenfield. “Although I have little memory of that night, something bad obviously took place, which I understand is why production on the show has now been suspended and a producer on the show has filed a complaint against production.” She added, “I have retained a group of professionals to ensure that what happened on June 4 comes to light and I can continue my life,” she said. “Including hiring an attorney to obtain justice.”Photo credit: Getty ImagesJackson responded in a statement to E!, “It’s unfortunate that my character and family name has been assassinated this past week with false claims and malicious allegations. I will be taking swift and appropriate legal action until my name is cleared and, per the advice of legal counsel, will be seeking all available remedies entitled to me under the laws.”Photo credit: Getty ImagesWhat do you think of the secrets? Tell us in the comments.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

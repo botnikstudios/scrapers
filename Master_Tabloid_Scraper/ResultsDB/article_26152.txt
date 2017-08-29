@@ -1,0 +1,95 @@
+What's Eating Gilbert Grape Star Darlene Cates Dies
+/n
+
+ 
+What’s Eating Gilbert Grape star Darlene Cates has died.
+The actress died Sunday morning in her sleep. She was 69.
+Cates sister, Sheri Cates Morgan, shared the news on Facebook. 
+“It is with a bitter-sweet heart that we share that our precious wife, mother, and Gaga, Darlene Guthrie Cates, was called Home, somewhat unexpectedly, peacefully in her sleep Sunday morning, March 26th,” she wrote. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-dd5b2d51de810610782ddaa9e32abea4-59a578595e504');
+				var iframe = document.getElementById('wpcom-iframe-dd5b2d51de810610782ddaa9e32abea4-59a578595e504');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-dd5b2d51de810610782ddaa9e32abea4-59a578595e504'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Cates famously played Johnny Depp and Leonardo DiCaprio‘s obese, housebound mother in the iconic film.
+Paramount/REX/Shutterstock 
+Gilbert Grape author and screenwriter Peter Hedges discovered Cates after seeing a tape of the actress on a 1985 episode of  Sally Jessy Raphael titled “Too Heavy to Leave Their House.” On the show, Cates spoke candidly about her battle with obesity and the pelvic infection that caused her to gain nearly 150 lbs.
+
+ 
+After the seeing the show, Hedges reached out to Cates and offered her the role, for which she earned critical acclaim.
+After years of health problems, Cates dropped nearly 250 lbs. with the hope of acting again.
+“I can do moms real well. I don’t have to delve very deep to find Mom in there,” the Forney, Texas, resident told the Dallas Morning News in an interview.
+
+ 
+And DiCaprio agreed. The film earned the star his first Oscar nomination when he was just 19, and he later wrote Cates a note praising her acting.
+“I’m not really the best in expressing my words in writing but you are the most special person I have ever [met],” he wrote. “I’ll always remember you as the best acting mamma I ever had. You triumphed in your role.”
+TMZ was the first to report her death.
+While Gilbert Grape is her best-known performance, Cates went on to appear in several TV shows including Picket Fences in 1994 and Touched by an Angel in 1996. She also had a small role in the 2001 film Wolf Girl.
+/n

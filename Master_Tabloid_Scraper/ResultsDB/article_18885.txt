@@ -1,0 +1,44 @@
+Jimmy Fallon Affectionately Kisses Baby Daughter Winnie—See the Precious Pic! Talk about adorable. Late Night host Jimmy Fallon was spotted giving baby daughter Winnie a loving kiss while out and about with wife Nancy Juvonen in New York Cit.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/466728/jimmy-fallon-affectionately-kisses-baby-daughter-winnie-see-the-precious-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201393/rs_293x473-131003114306-634.jimmy-fallon-winnie.ls.10313.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jimmy Fallon, Nancy Juvonen, Winnie Rose");
+	var imageCaption = encodeURIComponent("Jimmy Fallon, Nancy Juvonen, Winnie Rose");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+Talk about adorable.Late Night host Jimmy Fallon was spotted giving baby daughter Winnie a loving kiss while out and about with wife Nancy Juvonen in New York City on Thursday, Oct. 3.Seriously, it really doesn't get much sweeter than this, right?Of course, such an affectionate sight doesn't come as a complete surprise seeing how Fallon has been gushing about his girl and posting precious pics of her ever since she entered the world back in July.
+
+After Winnie's arrival, Fallon revealed on Today that he and Juvonen used a surrogate."It wasn't really a secret, but my wife and I have been trying for a while to have a baby," he said. "And so we've tried a bunch of things. And so we had a surrogate."The couple also wanted to keep things hush hush in the beginning."This time, we just said we're not telling anybody," he added. "It'd just be more fun if it was just private between me and my wife, and we get to introduce her to everybody. When it happened, we were shocked!"And clearly very happy.
+/n

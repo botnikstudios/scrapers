@@ -1,0 +1,44 @@
+House of Cards star Sakina Jaffrey is set to join the cast of Sleepy Hollow in a major season two role, E! News has exclusively learned. Look away, Irving (Orlando Jones)! Jaffrey will take on the recurring guest gig of Leena Reyes, Sleepy H.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/545773/sleepy-hollow-casting-scoop-house-of-cards-star-is-the-new-sheriff-in-season-2');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014427/rs_634x1024-140527120748-634.Sakina-Jaffrey-.ls.52714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sakina Jaffrey");
+	var imageCaption = encodeURIComponent("Sakina Jaffrey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Theo Wargo/Getty Images
+
+It's time to meet the new sheriff. House of Cards star Sakina Jaffrey is set to join the cast of Sleepy Hollow in a major season two role, E! News has exclusively learned.Look away, Irving (Orlando Jones)! Jaffrey will take on the recurring guest gig of Leena Reyes, Sleepy Hollow's new sheriff, who is smart, forceful, highly trained and commanding. But Leena also has a warm and maternal side. Atfter working for the U.S. Border Patrol in Texas, Leena is returning to Sleepy Hollow to fill the recently vacated Sheriff's position. You know, 'cause Irving ended season one behind bars. 
+
+"There's a new sheriff in town. Obviously, Irving has been discredited and now he's been taken upstate, so the Sleepy Hollow Police Department still has to be run by somebody and that person may not be as open as Irving was by the end of the season with Abbie and Crane," executive producer Roberto Orci recently spilled to E! News. "So somebody may be making their life very difficult."Of course, before we meet the new sheriff, Sleepy Hollow must first deal with its multiple finale cliffhangers. "We obviously left people in a bit of a bind next season, so I think one of the things we felt pretty strongly about was not coming up with cheap ways out of that problem," executive producer Alex Kurtzman previewed for us, while Orci added, "We're not cutting to a year later."In addition to playing Linda Vasquez, the meticulous White House chief of staff on Netflix's hit drama House of Cards, Jaffrey has made guest appearances on Girls, Heroes and Blue Bloods, and played Dr. Hickman on NBC's Third Watch.Sleepy Hollow returns for its second season in the fall and Fox is giving Sleepyheads even more episodes, upping the order from 13 to 18. 
+/n

@@ -1,0 +1,46 @@
+Drew Barrymore's Daughter Olive Has a Meltdown at Disney World Seth Meyers' son Ashe Meyers is only 10 months old, so Drew gave the host a warning: "If you've ever taken your kid to Disneyland or Disney World, it all ends.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/828196/drew-barrymore-s-daughter-olive-has-a-meltdown-at-disney-world');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017017/rs_772x1024-170117130330-1024.Drew-Barrymore-Disney.ms.011717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Drew Barrymore, Disney");
+	var imageCaption = encodeURIComponent("Drew Barrymore, Disney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Roark/Disney
+
+Seth Meyers' son Ashe Meyers is only 10 months old, so Drew gave the host a warning: "If you've ever taken your kid to Disneyland or Disney World, it all ends at some point in mayhem."To prove her point, she offered photographic evidence of Olive throwing a tantrum in Tomorrowland. "That is a legitimate picture of my daughter just losing it on the floor," she said. "In this case, she wanted to chase a duck or an Egret—it was Florida, so some interesting bird. Maybe a Disney employee, maybe not—maybe wild. But Olive was determined to catch it.""In hindsight, as a parent you have these revelations like, 'I should have let her catch it,'" the actress said. "Because she either would have and been satisfied, or she wouldn't have [caught it] and been mad at the duck—and not her mom, who tried to stop her from chasing the bird."
+
+Drew added, "I say just let 'em chase it and see what happens."Olive also had a meltdown at Disneyland in Anaheim, Calif., and Drew once again showed proof. "This is her losing it at Disneyland—because it all ends up there," she said. "You push it enough, because you're like, 'I'm here! Let's skip the nap! Let's go, go, go!' You want to maximize it. This is how it always ends for me." Children's tantrums "come at the most interesting times," the actress added. "You cannot predict [when they will be]. I think you should have 10 consistent tools in your arsenal. It's either the tender loving approach or the 'I'm very serious' approach."
+
+Seth joked, "I like your approach which is, 'A photo op.'"Jokes aside, she thanked Disney World "for making dreams come true" by sharing an Instagram picture of herself with Cinderella. "My daughters were on a cloud. A big puffy princess cloud."
+/n

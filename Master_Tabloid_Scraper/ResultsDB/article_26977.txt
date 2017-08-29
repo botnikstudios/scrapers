@@ -1,0 +1,52 @@
+Patricia Arquette Elaborates on Her Oscars Acceptance Speech Backstage, Says "Equal Means Equal!" After bringing the audience—but more importantly, Meryl Streep—to its feet when she called for women's equality, Patricia Arquet.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/628554/patricia-arquette-elaborates-on-her-oscars-acceptance-speech-backstage-says-equal-means-equal');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015122/rs_634x1024-150222210103-634-patricia-arquette-oscar-winner.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patricia Arquette, 2015 Academy Awards, Winner");
+	var imageCaption = encodeURIComponent("Patricia Arquette, 2015 Academy Awards, Winner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+After bringing the audience—but more importantly, Meryl Streep—to its feet when she called for women's equality, Patricia Arquette took her new golden Oscar and made her way backstage where she continued to elaborate on her powerful words.Talking to reporters at the Dolby Theatre, the Boyhood star further explained herself and why now is the time for women to be treated equally. She also acknowledged Meryl's epic response, pretty much fan-girling the way we all did when we watched her shriek with excitement."I heard about [Meryl's reaction], and I hugged her afterwards," the Oscar winner said. "She's the queen of all actresses—patron saint of actresses. So, it's amazing, but it is time for us. It is time for women. Equal means equal.""The truth is," she continued, "the older women get, the less money they make...the highest percentage of children living in poverty are female-headed households, and it's inexcusable that we go around the world and we talk about equal rights for women in other countries and we don't...have equal rights for women in America and we don't because when they wrote the Constitution, they didn't intend it for women."
+
+
+
+
+Jason Merritt/Getty Images
+
+Calling for wage equality and other equal rights for women, Arquette pleaded with her colleagues, fans, friends, viewers, etc., to take action so that there could be more of an even playing field among the sexes."The truth is: even though we sort of feel like we have equal rights in America, right under the surface, there are huge issues that are applied that really do affect women," she mused. "And it's time for all the women in America and all the men that love women, and all the gay people, and all the people of color that we've all fought for to fight for us now."But she didn't just stop at her call to actions. The Oscar winner became even more political when she revealed exactly what needs changing from Congress, proving that not only is she passionate about the issue but also that she is well informed!
+
+"I think we need federal laws that are comprehensive; in different states, they have altogether thrown out the Fairness Voting Act," she noted. "People think we have equal rights; we won't until we pass a Constitutional Amendment in the United States of America where we pass the ERA [Equal Rights Amendment] once and for all and women have equal rights in America we won't have anything changed."If only Meryl heard her now! Instead of jumping out of her seat again she would probably tackle Arquette.  
+/n

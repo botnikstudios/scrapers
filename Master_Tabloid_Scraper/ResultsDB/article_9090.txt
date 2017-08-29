@@ -1,0 +1,84 @@
+Move Over Kail & Jenelle! The Top 9 Celebrity Teen Moms Revealed/n
+
+					var next_post_url = "http://radaronline.com/photos/jonathan-cheban-kim-kardashian-bestie-beverly-hills/";
+					var prev_post_url = "http://radaronline.com/photos/janet-jackson-weight-loss-unbreakable-tour-baby-thin-fat-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-09T10:44:45+00:00","caption":"Jenelle Evans and Kailyn Lowry aren't the only Teen Moms! Click through these slides to see what other celebrities had babies \u2014 while they were babies.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:27+00:00","caption":"Solange Knowles, 31, gave birth to Daniel Julez J. Smith Jr. when she was 17-years-old.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-02GettyImages-488292311.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:28+00:00","caption":"Britney Spears' sister Jamie Lynn, 26, gave birth to Maddie Briann Aldridge when she was just 16-years-old. Maddie was involved in a near-fatal ATV accident in February 2017, but has since made a full recovery and celebrated her ninth birthday in June.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-01GettyImages-453611078.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:29+00:00","caption":"Tamra Judge, 49, gave birth to her son Ryan Vieth shortly after her 1985 prom. She was 18-years-old at the time. She went on to have three kids (Sidney, Spencer and Sophia) with ex-husband Simon Barney, and is now estranged from her eldest daughter .","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-07GettyImages-169028270.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:30+00:00","caption":"Kim Zolciak, 39, was a 19-year-old nursing student when she gave birth to Brielle Biermann, 20. Brielle recently confessed that she wants to get engaged to her 21-year-old boyfriend, Michael Kopech, and have her own reality show about their lives.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-09GettyImages-614378128.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:31+00:00","caption":"Sheree Whitfield, 47, gave birth to Tierra Fuller when she was just 15-years-old. She occasionally appears on RHOA alongside her siblings Kairo and Kaleigh Whitfield.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-04GettyImages-592598758.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:32+00:00","caption":"Sofia Vergara, 45, was just 19-years-old when she had her son, Manolo, with ex-husband Joe Gonzalez. She is currently in a battle over her frozen embryos with ex-fianc\u00e9 Nick Loeb.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-03GettyImages-801661086.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:33+00:00","caption":"Bristol Palin, 26, gave birth to Tripp Johnston when she was 18-years-old. She then welcomed Sailor Grace when she was 25 and announced she was pregnant with daughter Atlee Bay the following year. She gave birth to Atlee in 2017.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-08GettyImages-170147908.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:34+00:00","caption":"Kardashian pal and model Jourdan Dunn, 26, welcomed her son Riley when she was 19-years-old. Riley was diagnosed with sickle cell anemia when he was a baby.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-10GettyImages-823704110.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:35+00:00","caption":"Bachelorette alum Emily Maynard, 31, was just 19-years-old when she had her daughter, Ricki. She welcomed her son Jennings with Tyler Johnson in 2015 ten years later when she was 29.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-06GettyImages-159260763.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T10:24:36+00:00","caption":"Do these celebrity teen moms shock you? Sound off in the comments!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/celebrity-teen-moms-sofia-vergara-kim-zolciak-jamie-lynn-spears-05GettyImages-146188367.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Move Over Kail & Jenelle! The Top 9 Celebrity Teen Moms Revealed
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11Jenelle Evans and Kailyn Lowry aren't the only Teen Moms! Click through these slides to see what other celebrities had babies — while they were babies.Photo credit: Getty Images2 of 11Solange Knowles, 31, gave birth to Daniel Julez J. Smith Jr. when she was 17-years-old.Photo credit: Getty Images3 of 11Britney Spears' sister Jamie Lynn, 26, gave birth to Maddie Briann Aldridge when she was just 16-years-old. Maddie was involved in a near-fatal ATV accident in February 2017, but has since made a full recovery and celebrated her ninth birthday in June.Photo credit: Getty Images4 of 11Tamra Judge, 49, gave birth to her son Ryan Vieth shortly after her 1985 prom. She was 18-years-old at the time. She went on to have three kids (Sidney, Spencer and Sophia) with ex-husband Simon Barney, and is now estranged from her eldest daughter .Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11Kim Zolciak, 39, was a 19-year-old nursing student when she gave birth to Brielle Biermann, 20. Brielle recently confessed that she wants to get engaged to her 21-year-old boyfriend, Michael Kopech, and have her own reality show about their lives.Photo credit: Getty Images6 of 11Sheree Whitfield, 47, gave birth to Tierra Fuller when she was just 15-years-old. She occasionally appears on RHOA alongside her siblings Kairo and Kaleigh Whitfield.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Sofia Vergara, 45, was just 19-years-old when she had her son, Manolo, with ex-husband Joe Gonzalez. She is currently in a battle over her frozen embryos with ex-fiancé Nick Loeb.Photo credit: Getty Images8 of 11Bristol Palin, 26, gave birth to Tripp Johnston when she was 18-years-old. She then welcomed Sailor Grace when she was 25 and announced she was pregnant with daughter Atlee Bay the following year. She gave birth to Atlee in 2017.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11Kardashian pal and model Jourdan Dunn, 26, welcomed her son Riley when she was 19-years-old. Riley was diagnosed with sickle cell anemia when he was a baby.Photo credit: Getty Images10 of 11Bachelorette alum Emily Maynard, 31, was just 19-years-old when she had her daughter, Ricki. She welcomed her son Jennings with Tyler Johnson in 2015 ten years later when she was 29.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11Do these celebrity teen moms shock you? Sound off in the comments!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Jenelle Evans and Kailyn Lowry aren't the only Teen Moms! Click through these slides to see what other celebrities had babies — while they were babies.Photo credit: Getty ImagesSolange Knowles, 31, gave birth to Daniel Julez J. Smith Jr. when she was 17-years-old.Photo credit: Getty ImagesBritney Spears' sister Jamie Lynn, 26, gave birth to Maddie Briann Aldridge when she was just 16-years-old. Maddie was involved in a near-fatal ATV accident in February 2017, but has since made a full recovery and celebrated her ninth birthday in June.Photo credit: Getty ImagesTamra Judge, 49, gave birth to her son Ryan Vieth shortly after her 1985 prom. She was 18-years-old at the time. She went on to have three kids (Sidney, Spencer and Sophia) with ex-husband Simon Barney, and is now estranged from her eldest daughter .Photo credit: Getty ImagesKim Zolciak, 39, was a 19-year-old nursing student when she gave birth to Brielle Biermann, 20. Brielle recently confessed that she wants to get engaged to her 21-year-old boyfriend, Michael Kopech, and have her own reality show about their lives.Photo credit: Getty ImagesSheree Whitfield, 47, gave birth to Tierra Fuller when she was just 15-years-old. She occasionally appears on RHOA alongside her siblings Kairo and Kaleigh Whitfield.Photo credit: Getty ImagesSofia Vergara, 45, was just 19-years-old when she had her son, Manolo, with ex-husband Joe Gonzalez. She is currently in a battle over her frozen embryos with ex-fiancé Nick Loeb.Photo credit: Getty ImagesBristol Palin, 26, gave birth to Tripp Johnston when she was 18-years-old. She then welcomed Sailor Grace when she was 25 and announced she was pregnant with daughter Atlee Bay the following year. She gave birth to Atlee in 2017.Photo credit: Getty ImagesKardashian pal and model Jourdan Dunn, 26, welcomed her son Riley when she was 19-years-old. Riley was diagnosed with sickle cell anemia when he was a baby.Photo credit: Getty ImagesBachelorette alum Emily Maynard, 31, was just 19-years-old when she had her daughter, Ricki. She welcomed her son Jennings with Tyler Johnson in 2015 ten years later when she was 29.Photo credit: Getty ImagesDo these celebrity teen moms shock you? Sound off in the comments!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

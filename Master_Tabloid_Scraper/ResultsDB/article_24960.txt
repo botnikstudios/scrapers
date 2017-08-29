@@ -1,0 +1,46 @@
+EXCLUSIVE! Adele Hosts Private Despicable Me 3 Screening for Children Impacted by Grenfell Tower Fire Adele is using her fame and fortune to help others. On Thursday evening, the big-voiced singer hosted a private movie screening of Despicab.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871685/adele-hosts-private-despicable-me-3-screening-for-children-impacted-by-grenfell-tower-fire');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201775/rs_634x1024-170805170032-634.Adele-Instagram.kg.080517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Adele, Instagram");
+	var imageCaption = encodeURIComponent("Adele, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Adele is using her fame and fortune to help others.On Thursday evening, the big-voiced singer hosted a private movie screening of Despicable Me 3 for children affected by the Grenfell Tower fire in an attempt to lift up their spirits after the devastating blaze that killed around 80 people in June. The "Rolling in the Deep" singer treated the young victims to the private showing of the animated film at London's Whiteley's cinema on Thursday evening,A source who attended the event said that Adele's presence was quite the surprise. "It was very intimate. All we knew as we boarded the fancy coach that there was a special screening just for us. We didn't even know there was a special guest," said the attendee. 
+
+The source added that the invite came through The ClementJames Centre, an educational charity that has been helping the survivors of Grenfell. The charity, which became a central hub for donations, supplies and help for victims, hosts a free summer camp for local kids and this special outing was part of it.The insider added that no one knew Adele was going to be there and said, "Adele was lovely and she sat with a few of the kids in the row in front of us, chatting away....Adele made time for everyone and mingled with the kids."
+
+And that wasn't all the children who were affected by the fire got treated too. "Snacks were provided: popcorn in the foyer and Smarties [chocolates] and water in each seat arm," said the movie goer.The mother of one of the young kids, a boy named Boulevard, Instagramed a photo of the Grammy winner and her son from the screening. Adele appeared to be makeup free, wearing a casual ensemble for the evening outing.In addition to a big voice, she's got a big heart! 
+/n

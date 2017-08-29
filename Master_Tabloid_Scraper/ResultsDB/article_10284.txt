@@ -1,0 +1,44 @@
+Ron Howard, Henry Winkler and More Co-Stars Remember Late Happy Days Star Erin Moran Former Happy Days star Erin Moran passed away from unknown causes earlier today at the age of 56.  Moran became a household name in 1974 when she landed the.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/845433/ron-howard-henry-winkler-and-more-co-stars-remember-late-happy-days-star-erin-moran');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017322/rs_634x1024-170422192056-634.Erin-Moran-Burbank.kg.042217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Erin Moran");
+	var imageCaption = encodeURIComponent("Erin Moran");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gregg DeGuire/FilmMagic
+
+Former Happy Days star Erin Moran passed away from unknown causes earlier today at the age of 56. Moran became a household name in 1974 when she landed the role of Ron Howard's outspoken younger sister, Joanie Cunningham, on Garry Marshall's iconic sitcom, Happy Days, which ran for 10 years.The actress is also widely remembered for the playing the same role in Happy Days' short-lived spin-off Joanie Loves Chachie, alongside Scott Baio.Despite her initial fame, Moran's time in the limelight has waned; she hasn't starred in anything since 2010. However, she will still be missed by fans and friends alike for her childhood roles on Gunsmoke, her sitcom days and her time aboard the Love Boat. Some of her former co-stars have taken to social media to pay tribute to the former teen star by remembering some happier days...
+
+"I am so incredibly sad," Don Most, who played Ralph on Happy Days, said in a statement to E! News. "Erin was a wonderful, sweet, caring, talented woman. As I write this I can't really comprehend it. A very painful loss. It gives me some comfort to know that she's with Tom, Al, Pat and Garry. Rest In Peace, sweet Erin."Marion Ross tells E! News, "I'm just heartbroken about Erin. She was a wonderful smart young girl on Happy Days...so talented! My heart aches for this loss."
+/n

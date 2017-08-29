@@ -1,0 +1,44 @@
+EXCLUSIVE! Leona Lewis: Making More "Bleeding Love" Magic If it ain't broke, don't fix it. Just ask Leona Lewis. The British songbird is teaming up once again with One Republic frontman Ryan Tedder for her next album. Ted.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/99380/leona-lewis-making-more-bleeding-love-magic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090210/293.lewis.tedder.lc.021009.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leona Lewis, Ryan Tedder");
+	var imageCaption = encodeURIComponent("Leona Lewis, Ryan Tedder");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Lester Cohen/ WireImages.com; Jim Spellman/Getty images
+
+If it ain't broke, don't fix it. Just ask Leona Lewis. The British songbird is teaming up once again with One Republic frontman Ryan Tedder for her next album.Tedder, who produced and cowrote Lewis' international breakout hit, "Bleeding Love," tells me that he and Lewis recently spent a week in a recording studio together."We did about two and a half songs, and we already have something that everybody's extremely happy about," Tedder reveals.
+
+He also says Lewis is writing for this album, which will probably be recorded stateside instead of in her native England. "We're going to do a lot of it in L.A.," Tedder says. "But I'm going to try to get her out to Denver for a week. We'll see if she'll do that."It's also "very possible" the two will record a duet together, he says.Tedder's current roster also includes Kelly Clarkson. He produced four tracks on her upcoming album, All I Ever Wanted. "I think this album is going to be as big as two albums ago," he predicts.And Lewis isn't his only British collaboration. Tedder is behind James Morrison's "Please Don't Stop the Rain." "I love James," he says. "He has a great voice."
+/n

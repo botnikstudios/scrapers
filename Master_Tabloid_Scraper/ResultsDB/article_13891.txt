@@ -1,0 +1,44 @@
+Nine days after surviving a fiery, deadly plane crash, former Blink-182 drummer Travis Barker has been released from Joseph M. Still Burn Center in Augusta, Ga. "He was discharged this morning at 10 a.m.," hospital spokeswoman Beth.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/31422/travis-barker-released-from-hospital');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080920/293.barker.travis.092008.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Travis Barker");
+	var imageCaption = encodeURIComponent("Travis Barker");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo
+
+Here's to a speedy recovery.Nine days after surviving a fiery, deadly plane crash, former Blink-182 drummer Travis Barker has been released from Joseph M. Still Burn Center in Augusta, Ga."He was discharged this morning at 10 a.m.," hospital spokeswoman Beth Frits told E! News.The 32-year-old rocker was admitted, along with Adam "DJ AM" Goldstein, following the Sept. 19 takeoff crash of their Learjet, a mishap that left the four others onboard dead.
+
+Barker and Goldstein suffered second- and third-degree burns but are expected to make full, albeit potentially lengthy, recoveries.Goldstein was released from the hospital on Friday and made his way back to Los Angeles via plane. Barker, too, is en route to the West Coast—on a bus—along with his constant companion for the past week, ex-wife Shanna Moakler.Just last week, Barker's friend and fashion partner Jermaine Dupri made the media rounds, estimating the drummer would be in the hospital for two more weeks.Apparently not all good things require a wait.
+/n

@@ -1,0 +1,54 @@
+York's Sunninghill Park home, noting, "It looks like a tart's bedroom." 2002: The family of Stephen Menary, a teenage army cadet who was blinded in an IRA bombing, was invited to meet the Queen and her husband at a tree p.../n
+Prince Philip couldn't retire without one final joke on Thursday.Just an hour after announcing he is stepping down from his royal duties, the 95-year-old Duke of Edinburgh got attendees laughing with his always irreverent humor.Mathematician Sir Michael Atiyah was one of the first to approach the prince after his announcement. He couldn't help but tell the royal, "I'm sorry to hear you're standing down," to which Philip replied, "I can't stand up much longer!" LOL!But this type of humor is exactly what the Duke became known for over his years in the monarchy. In fact, sometimes it got him into a bit of trouble...Let's look back at 22 of his biggest gaffes and most memorable one-liners below:
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848493/prince-philip-s-22-biggest-gaffes-and-most-shocking-one-liners-over-the-years');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201744/rs_634x1024-170504055945-634-philip-MK050417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Prince Philip, Duke of Edinburgh");
+	var imageCaption = encodeURIComponent("Prince Philip, Duke of Edinburgh");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Stillwell/WPA Pool /Getty Images
+
+1969: After Tom Jones performed at the 1969 Royal Variety Performance, the Duke shared a joke with the singer, asking, "What do you gargle with, pebbles?" LOL!1976: During a trip to Canada, he bluntly stated, "We don't come here for our health—we can think of other ways of enjoying ourselves."1981: During the recession, unemployment rose from about 5% to 11%. Philip's response? "Everybody was saying we must have more leisure. Now they are complaining they are unemployed." Oh dear...1986: While visiting a British student in China in 1986, he quipped, "If you stay here much longer, you'll go home with slitty eyes."His controversial remarks were taken a bit further that same year during a World Wildlife Fund meeting when he said, "If it has got four legs and it is not a chair, if it has got two wings and it flies but is not an airplane, and if it swims and it is not a submarine, the Cantonese will eat it."1988: He provided some interesting commentary upon seeing the Duke and Duchess of York's Sunninghill Park home, noting, "It looks like a tart's bedroom."
+
+1994: During a trip to Belize in 1994, the Duke interrupted a conversation between the Queen and her hosts, yelling from the deck of the Britannia, "Yak, yak, yak! Come on, get a move on." We're sure he got an earful for that one!1997: When welcoming German Chancellor Helmut Kohl at the trade fair that year, he referred to him as "Reichskanzler." The last German leader to use that title was Adolf Hitler.During that same year, he also called an elderly park attendant a "bloody, silly fool" when he did not recognize the Duke.1999: While meeting British politician John Taylor—whose parents are from Jamaica—the Duke asked, "And what exotic part of the world do you come from?" Just so you know, Taylor replied that he was from Birmingham.2001: A 13-year-old boy expressed his dreams of traveling to space one day to which Philip responded, "You're too fat to be an astronaut."At Sir Elton John's Royal Variety Performance that same year, he was heard muttering, "I wish he'd turn the microphone off."
+
+
+
+Jeff Spicer/Getty Images
+
+2002: The family of Stephen Menary, a teenage army cadet who was blinded in an IRA bombing, was invited to meet the Queen and her husband at a tree planting event in Hyde Park. After the Queen asked the 15-year-old how much sight he had left, the Duke of Edinburgh responded: "Not a lot, judging by the tie he's wearing." Oof!That same year, he asked Australian aboriginal leader William Brin, "Do you still throw spears at each other?"2003: The Queen and Philip attended a Commonwealth Heads of Government meeting in Abuja, Nigeria, which marked the Queen's first visit in 47 years. They were greeted by Nigeria's President Olusegun Obasanjo, who was wearing a traditional robe. Philip quipped: "You look like you're ready for bed."2009: During a Buckingham Palace reception to honor 400 influential British Indians, he told an Indian executive named Atul Patel, "There's a lot of your family here tonight," after seeing his name badge.
+
+2012: The Duke met David Miller, a disabled man who was driving a mobility scooter at the Valentine Mansion in Redbridge in March 2012. He asked Miller, "How many people have you knocked over this morning on that thing?"2013: He met Malala Yousafzai, who survived an assassination attempt by the Taliban due to her desire to gain an education and has now dedicated her life to promoting girls attending school without fear. Despite her history, Philip told her,  "[Children] go to school because their parents don't want them in the house." Cringe.2017: He paid a visit to the Charterhouse almshouse for elderly men earlier this year, and when he met one pensioner, he quipped, "You look starved."On Marriage: Finally, one of his undoubtedly most famous quotes was about marriage in which he stated, "When a man opens a car door for his wife, it's either a new car or a new wife."Needless to say, Prince Philip will go down in history as one of the most shockingly outspoken royals of all time.
+/n

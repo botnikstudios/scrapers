@@ -1,0 +1,46 @@
+Marriage From Her Parents Like mother and father, like daughter. Miley Cyrus weathered some storms when it comes to love, as did her parents, Billy Ray Cyrus and Tish Cyrus. In an interview published in Cosmopolitan's September 2017 iss.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870843/what-miley-cyrus-learned-about-marriage-from-her-parents');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201772/rs_634x875-170802070757-634-miley-cyrus-cosmopolitan-cover-080217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus, Cosmopolitan, September 2017");
+	var imageCaption = encodeURIComponent("Miley Cyrus, Cosmopolitan, September 2017");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ellen Von Unwerth / Cosmopolitan
+
+Like mother and father, like daughter.Miley Cyrus weathered some storms when it comes to love, as did her parents, Billy Ray Cyrus and Tish Cyrus. In an interview published in Cosmopolitan's September 2017 issue (on newsstands on Aug. 8), the pop star, who is engaged for the second time to Liam Hemsworth, recalls what her mom and dad have taught her about marriage."One thing I've learned about marriage from my parents: Nothing and no one stays the same," Miley told the outlet. "Grow, evolve, change with each other and celebrate your love's journey!"
+
+Miley and Liam began dating in 2009 after meeting on the set of the film The Last Song. They got engaged in 2012 and split a year later. In January 2016, it was revealed that they rekindled their romance and got re-engaged.
+
+"People that break up and get back together, I think that's awesome because you know it's true," Miley said in May on the SiriusXM show Hits 1 in Hollywood. "But also you get time to be yourself. You get time to grow up."
+/n

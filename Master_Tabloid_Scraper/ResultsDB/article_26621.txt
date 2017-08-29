@@ -1,0 +1,50 @@
+Janet Jackson and Wissam Al Mana Split: What's at Stake? Obviously Jackson has a successful career and income on her own, but that doesn't necessarily mean she won't get money in the divorce, especially considering Al Mana is .../n
+Janet Jackson and Wissam Al Mana have separated after five years of marriage, and while this might just sound like another celebrity divorce, it's far from it.The pair is one of the wealthiest couples in the world, and both are financial entities in their own right. The Qatari businessman racks up a net worth of about $1 billion dollars, while the singer and Jackson family member reaches about $175 million.So what does this mean in terms of their divorce? E! News discussed the many factors at stake with celebrity divorce attorney Vikki Ziegler who is also the host of Bravo's Untying the Knot and CEO of divorcedating.com.
+
+First and foremost, she says it's important to note that the pair hasn't filed for divorce just yet. They've only formally separated at this point. "Oftentimes in a prenup there are triggering events, so it could be the formal separation of the parties or it could be filing a complaint for divorce," Ziegler told us, assuming the couple setup a prenuptial agreement. "This is extremely notable because this will end the term of the marriage which could trigger less money for Janet or nothing for her."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/842781/janet-jackson-and-wissam-al-mana-split-what-s-at-stake');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013125/634.JanetWissam.mh.022513.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Janet Jackson, Wissam al Mana");
+	var imageCaption = encodeURIComponent("Janet Jackson, Wissam al Mana");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Venturelli/WireImage
+
+Obviously Jackson has a successful career and income on her own, but that doesn't necessarily mean she won't get money in the divorce, especially considering Al Mana is a billionaire.In fact, there have been reports that Jackson could get up to $200 million in the divorce, which Ziegler says wouldn't be all that much for someone like Al Mana."$200 million tax-free would be a huge chunk of money, but for someone that's worth $1 billion it may not be as big of impact," Ziegler told us. "When people are entering into prenuptial agreements they need to consider what their net worth is at the time, and then in the event of divorce, if they can be self-supporting. I think here Janet has enough money to take care of herself, so there's definitely no alimony."However, as you probably recall, Jackson gave birth to a baby boy, Eissa Al Mana, with Al Mana in January. A source says the baby will stay with his mother, which means child support will likely be on the table.
+
+"In this case with such high net-worth individuals, this child's lifestyle will be nothing short of royalty," Ziegler explained. "The cost associated with raising a child can be between $50,000 and $100,000 per month with nannies, around-the-clock nurses, top-of-the-line clothing, food preparation, drivers and the like."Thus, the attorney told us, "Expect to see a high price tag on the child support award, which is not taxable to either party, so it's a net amount each month. Assuming Janet is the primary parent in decision-making over the child's day-to-day health welfare and education, she would receive the chunk of money on behalf of the child."
+
+Ziegler further explained, "When it comes to a child/children, when one spouse is wealthier, he or she will have a legal responsibility as the parent. Because, presumably, Wissam will not spend as much time with the child to pay for the child's day-to-day costs, he will have to cough up the big bucks to support his child."Meanwhile, E! News confirmed the couple's separation over the weekend. A source told The Mail on Sunday, who was first to report the news, that it was an amicable split."They're both busy people but determined to be good parents, even if they're apart. It's amicable and Eissa will stay with his mother, who is basing herself in London."
+/n

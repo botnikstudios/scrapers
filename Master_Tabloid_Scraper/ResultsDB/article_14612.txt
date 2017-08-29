@@ -1,0 +1,44 @@
+Leona Lewis' Attacker Not Bleeding Fit for Trial The man who threw a punch at Leona Lewis' book signing is apparently not up to the task of having the book thrown at him. The lawyer for 29-year-old Peter Kowalcyzk told London Magis.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/150652/leona-lewis-attacker-not-bleeding-fit-for-trial');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20091015/293.lewis.leona.lc.101509.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leona Lewis");
+	var imageCaption = encodeURIComponent("Leona Lewis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Danny Martindale/Getty Images
+
+The man who threw a punch at Leona Lewis' book signing is apparently not up to the task of having the book thrown at him.The lawyer for 29-year-old Peter Kowalcyzk told London Magistrates Court this morning that his client has been deemed unfit to stand trial just yet: He was sectioned under Britain's Mental Health Act shortly after the Oct. 14 hook-throwing incident and is currently undergoing psychiatric evaluations.As Kowalcyzk's inability to voluntary leave the psychiatric ward puts something of a damper on his requirement to appear in court, the case against him has been rescheduled for Nov. 23.Meanwhile, as for the other man in Lewis' life—the one she actually wants there—the "Bleeding Love" singer has lashed out at the exceedingly class-conscious British press's upturned noses that, despite her international success, she remains happily coupled up with her longtime electrician (gasp!) boyfriend Lou Al-Chamaa.
+
+"I find it very offensive," she told the Guardian. "It's offensive to him—implying he's not good enough for you anymore—but also to you, saying you're so shallow you'd dump him when you became successful."It's like, seriously? This is real life, it isn't make-believe. For people to think that you should leave someone because, all of a sudden, you're a singer and you have opportunities. I feel very sorry for them."And she didn't stop there."It does make me angry. Because he's a great person. And it doesn't matter what you do in life, what your job is, where you come from. None of that matters to me, what matters is who you are as a person—nothing else."
+/n

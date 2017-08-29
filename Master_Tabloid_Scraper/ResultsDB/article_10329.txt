@@ -1,0 +1,84 @@
+Gwyneth Paltrow & Ex-Husband Chris Martin Reunite For French Yacht Bash/n
+
+					var next_post_url = "http://radaronline.com/photos/scott-disick-bella-thorne-party-la/";
+					var prev_post_url = "http://radaronline.com/photos/pamela-anderson-date-adil-rami-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-06-23T09:53:31+00:00","caption":"Gwyneth Paltrow was spotted cozying up to ex-husband Chris Martin while aboard a yacht in Cannes, RadarOnline.com has learned.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:32+00:00","caption":"The bombshell star basked in the sun as her son Moses, 11, and ex-hubby splashed around on an inflatable slide.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:34+00:00","caption":"Martin looked playful while in the water.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:33+00:00","caption":"The former pair seemed to share a few laughs while enjoying the shade aboard the luxury yacht.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:35+00:00","caption":"Paltrow was then seen getting her hair done by several on-board stylists, and exiting the boat in a sexy white dress with a mystery man.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:36+00:00","caption":"As Radar previously reported, Paltrow, 44, and Martin, 40, finalized their divorce in 2014, after ten years of marriage.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:37+00:00","caption":"After \u201cconsciously uncoupling,\u201d the pair has continued to co-parent their children, daughter Apple, 12, and Moses.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:38+00:00","caption":"She has since been dating producer Brad Falchuk, 46, with whom she started a romance in 2014.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T10:53:03+00:00","caption":"The former couple seem to remain on good terms \u2013 they may just be Hollywood\u2019s friendliest exes!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-06-23T09:53:39+00:00","caption":"Do you think they should get back together? Let us know in the comments below.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/06\/Gwyneth-paltrow-and-chris-martin-reunite-in-cannes-08.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Gwyneth Paltrow & Ex-Husband Chris Martin Reunite For French Yacht Bash
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 10 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10Gwyneth Paltrow was spotted cozying up to ex-husband Chris Martin while aboard a yacht in Cannes, RadarOnline.com has learned.Photo credit: BACKGRID2 of 10The bombshell star basked in the sun as her son Moses, 11, and ex-hubby splashed around on an inflatable slide.Photo credit: BACKGRID3 of 10Martin looked playful while in the water.Photo credit: BACKGRID4 of 10The former pair seemed to share a few laughs while enjoying the shade aboard the luxury yacht.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 10Paltrow was then seen getting her hair done by several on-board stylists, and exiting the boat in a sexy white dress with a mystery man.Photo credit: BACKGRID6 of 10As Radar previously reported, Paltrow, 44, and Martin, 40, finalized their divorce in 2014, after ten years of marriage.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 10After “consciously uncoupling,” the pair has continued to co-parent their children, daughter Apple, 12, and Moses.Photo credit: BACKGRID8 of 10She has since been dating producer Brad Falchuk, 46, with whom she started a romance in 2014.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 10The former couple seem to remain on good terms – they may just be Hollywood’s friendliest exes!Photo credit: BACKGRID10 of 10Do you think they should get back together? Let us know in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Gwyneth Paltrow was spotted cozying up to ex-husband Chris Martin while aboard a yacht in Cannes, RadarOnline.com has learned.Photo credit: BACKGRIDThe bombshell star basked in the sun as her son Moses, 11, and ex-hubby splashed around on an inflatable slide.Photo credit: BACKGRIDMartin looked playful while in the water.Photo credit: BACKGRIDThe former pair seemed to share a few laughs while enjoying the shade aboard the luxury yacht.Photo credit: BACKGRIDPaltrow was then seen getting her hair done by several on-board stylists, and exiting the boat in a sexy white dress with a mystery man.Photo credit: BACKGRIDAs Radar previously reported, Paltrow, 44, and Martin, 40, finalized their divorce in 2014, after ten years of marriage.Photo credit: BACKGRIDAfter “consciously uncoupling,” the pair has continued to co-parent their children, daughter Apple, 12, and Moses.Photo credit: BACKGRIDShe has since been dating producer Brad Falchuk, 46, with whom she started a romance in 2014.Photo credit: BACKGRIDThe former couple seem to remain on good terms – they may just be Hollywood’s friendliest exes!Photo credit: BACKGRIDDo you think they should get back together? Let us know in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

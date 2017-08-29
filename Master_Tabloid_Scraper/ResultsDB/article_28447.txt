@@ -1,0 +1,98 @@
+Kylie Jenner's 'Never Had a Drink,' Her Celeb Crush Is 'Sexy' Bill Nye & 4 More Surprising Revelations
+/n
+
+If you think you know everything about Kylie Jenner, think again.
+In a new BuzzFeed video, the Life of Kylie star and her bestie Jordyn Woods got together to cuddle puppies and spill some tea about their lives, starting with a bombshell that will probably send Kylie’s Kingdom reeling: Her celebrity crush is none other than Bill Nye the Science Guy.
+“I love Bill Nye the Science Guy!” she gushed. “For real, he is sexy, lemme tell you. If I had to say someone else, probably … No — it’s only Bill Nye.”
+An even juicier tidbit of information is the fact that Jenner and Woods actually once approached Nye for a photo on the street — and he turned them down.
+“We tried to take a picture with him once,” she explained. “He said no. I totally understand when you just want to say no, but, like, we were really upset.”
+As for what she’s most looking forward to about being in her 20s, Jenner (who just rang in her 20th birthday) said she’s itching for the big 2-1.
+“Probably turning 21 — I feel like that’s fun. You know, I’ve never had a drink before,” she said as the two dissolved into giggles. “I just wanna know what it’s like!”
+RELATED VIDEO: Kylie Jenner Gets a Buxom Ice Sculpture from Her Sisters at Her Surprise 20th Birthday Party
+
+ 
+The reality star also dished on who her favorite sister is right now, which she says “changes every day.”
+“I’m gonna say Kim [Kardashian West],” she said. “I feel like I go to different sisters for different problems, and right now me and Kim have just been relating a lot and talking.”
+“Tomorrow it’ll probably be somebody new,” she added. “But Kim right now is my fave.”
+Kardashian West, 36, is also one of Jenner’s style icons — unsurprisingly, she gets most of her style inspo from her famous family and friends.
+“Kendall [Jenner]‘s killing it,” she said. “Bella Hadid is killing it. Kim. … Just pretty much my friends and family [are who] I look at for style.”
+FROM COINAGE: The Lavish Lifestyle of the Kardashian Kids
+
+ 
+And while it’s not exactly news, Jenner also touched on one of the most glorious moments in Keeping Up with the Kardashians history: That time Kardashian West lost her $75,000 diamond earring after her ex-husband Kris Humphries pushed her in the ocean. As fans of the show know, Jenner, who was 14 at the time, later recovered it in a stroke of pure luck.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-9ffebf11b0469fccfd24f969c708c5cb-59a58555ab8d6');
+				var iframe = document.getElementById('wpcom-iframe-9ffebf11b0469fccfd24f969c708c5cb-59a58555ab8d6');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-9ffebf11b0469fccfd24f969c708c5cb-59a58555ab8d6'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“It was pretty deep, but there [weren’t] a lot of waves,” recalled Jenner to BuzzFeed. “And Kim kind of like, threw a tantrum immediately when she found out that she lost it and I was like, ‘No — this is fine!’ “
+“I went under there and it was saltwater, so it kind of hurt to open my eyes, but I just looked around and I saw something shining,” she continued. “Swam all the way down there — it was like 10 ft. — picked it up, and it was the shining diamond! I literally found it in two minutes.”
+Well, good to know she’s still scoring diamonds to this very day.
+/n

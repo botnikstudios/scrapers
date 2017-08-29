@@ -1,0 +1,50 @@
+UPDATE! Natalie Portman Marries Benjamin Millepied Natalie Portman has married her dashing dancer. Though she's been wearing a very suspect ring for months now, the Oscar winner formally swapped vows with Black Swan choreographer Benjam.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/335262/natalie-portman-marries-benjamin-millepied');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012519/reg_634.portman.cm.61912.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Natalie Portman, Benjamin Millepied");
+	var imageCaption = encodeURIComponent("Natalie Portman, Benjamin Millepied");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+Natalie Portman has married her dashing dancer.Though she's been wearing a very suspect ring for months now, the Oscar winner formally swapped vows with Black Swan choreographer Benjamin Millepied in a Jewish ceremony Saturday evening in front of family and friends in the coastal California region of Big Sur, E! News confirms.We imagine that their first dance as husband and wife was a doozy.
+
+A source confirms the ceremony was super hush-hush, but that the event was "amazing." The source adds, "the beauty of the weekend was that it was kept a secret, and everyone was relaxed and had a great time because of it."It was so much of a secret that guests couldn't bring their phones or take pictures at the event. The source said it was "totally off the grid," and guests were transported by shuttle with incredibly tight security.
+
+Portman and Millepied are parents to 1-year-old son Aleph, who while still in utero was his mom's constant companion as she accepted award after award for Black Swan, the whole time never failing to mention the "beautiful love" she found working on the film.Upon accepting her Oscar in February 2011, the quite pregnant Portman credited Millepied for giving her "the most important role of [her] life."And then there was her more jocular Golden Globes speech the month before.
+
+"Benjamin choreographed the film, and also you might remember him in the movie as the guy when they ask, 'Would you sleep with that girl?' And he's like, 'Pfft, no,'" the Best Actress winner recalled of his character's reaction to her guarded, superserious (and delusional!) Nina. "He's the best actor. It's not true—he totally wants to sleep with me!"Sure enough, Portman, 31, pulled a double-whammy when she revealed in December 2010 that she was both engaged to and expecting a child with the now 35-year-old French dancer. That June, Millepied had referred to her as his "girlfriend" in an interview with Details, adding, "We just want to keep things to ourselves."But try doing that with a baby bump!
+
+The couple and their little boy have been splitting their time between New York and Los Angeles, with the occasional jaunt around the world, ever since.Portman, who since Black Swan has appeared in more light-hearted fare like No Strings Attached and Your Highness, shared an intimate family dinner with her parents and Aleph at the Long Island restaurant Prime on July 27—and witnesses told E! News they appeared to be in celebration mode.The happy foursome enjoyed a vegetarian—what else?—feast created specially for the bride to be.(Originally published Aug. 5, 2012, at 9:43 a.m. PT)—Additional reporting by Brandi Chang
+/n

@@ -1,0 +1,81 @@
+Ben Affleck And Lindsay Shookus Share Saturday Morning PDA/n
+
+					var next_post_url = "http://radaronline.com/photos/scott-disick-meets-corey-gamble-to-discuss-kourtney-kardashian/";
+					var prev_post_url = "http://radaronline.com/photos/floyd-mayweather-and-conor-mcgregor-their-biggest-secrets-and-scandals/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-26T17:19:35+00:00","caption":"Ben Affleck continued to flaunt his new girlfriend Lindsay Shookus and the pair looked all shook up in their usual casual kick back style. The Argo actor seems to be settling into his new life with Shookus after he split from estranged wife Jennifer Garner, the mother of his three kids. Scroll through Radar's gallery for more!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:29+00:00","caption":"Not looking like an A-lister, Affleck wore a sloppy black tee shirt paying tribute to \"Detroit Motor City,\" black jeans and pale tennis shoes. Shookus appeared ready for a skateboard park in shorts and a grey tee shirt tied at the waist to show off her midriff.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-808.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:30+00:00","caption":"The two were spotted leaving breakfast together at a restaurant in Santa Monica, Calif. on Saturday morning.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-719.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:31+00:00","caption":"Shookus clung to Affleck's arm as they faced the photographers together.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-606.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:32+00:00","caption":"Oscar winning star\/director Affleck married Garner in 2005. They announced their split in 2015 but haven't finalized the divorce. Still, Affleck is constantly out and about with Shookus these days and she's allegedly terrified of meeting his family.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-518.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:33+00:00","caption":"Just days ago, Affleck and Shookus continued their love fest with a dinner date \u00a0in New York after a shopping spree.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-405.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:34+00:00","caption":"Affleck has been described as following SNL producer Shookus around like a puppy and pampering her.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-303.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:35+00:00","caption":"Affleck's actor brother Casey has hung out with the PDA pair recently on a comedy club date.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-201.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-26T16:08:36+00:00","caption":"Sources have told Radar that Affleck would like his new lady to get a makeover, but as the new photos show, Shookus still looks like she just rolled out of bed!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/ben-affleck-Saturday-pda-with-lindsay-shookus-113.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Ben Affleck And Lindsay Shookus Share Saturday Morning PDA
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9Ben Affleck continued to flaunt his new girlfriend Lindsay Shookus and the pair looked all shook up in their usual casual kick back style. The Argo actor seems to be settling into his new life with Shookus after he split from estranged wife Jennifer Garner, the mother of his three kids. Scroll through Radar's gallery for more!Photo credit: BACKGRID2 of 9Not looking like an A-lister, Affleck wore a sloppy black tee shirt paying tribute to "Detroit Motor City," black jeans and pale tennis shoes. Shookus appeared ready for a skateboard park in shorts and a grey tee shirt tied at the waist to show off her midriff.Photo credit: BACKGRID3 of 9The two were spotted leaving breakfast together at a restaurant in Santa Monica, Calif. on Saturday morning.Photo credit: BACKGRID4 of 9Shookus clung to Affleck's arm as they faced the photographers together.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Oscar winning star/director Affleck married Garner in 2005. They announced their split in 2015 but haven't finalized the divorce. Still, Affleck is constantly out and about with Shookus these days and she's allegedly terrified of meeting his family.Photo credit: BACKGRID6 of 9Just days ago, Affleck and Shookus continued their love fest with a dinner date  in New York after a shopping spree.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Affleck has been described as following SNL producer Shookus around like a puppy and pampering her.Photo credit: BACKGRID8 of 9Affleck's actor brother Casey has hung out with the PDA pair recently on a comedy club date.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Sources have told Radar that Affleck would like his new lady to get a makeover, but as the new photos show, Shookus still looks like she just rolled out of bed!
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Ben Affleck continued to flaunt his new girlfriend Lindsay Shookus and the pair looked all shook up in their usual casual kick back style. The Argo actor seems to be settling into his new life with Shookus after he split from estranged wife Jennifer Garner, the mother of his three kids. Scroll through Radar's gallery for more!Photo credit: BACKGRIDNot looking like an A-lister, Affleck wore a sloppy black tee shirt paying tribute to "Detroit Motor City," black jeans and pale tennis shoes. Shookus appeared ready for a skateboard park in shorts and a grey tee shirt tied at the waist to show off her midriff.Photo credit: BACKGRIDThe two were spotted leaving breakfast together at a restaurant in Santa Monica, Calif. on Saturday morning.Photo credit: BACKGRIDShookus clung to Affleck's arm as they faced the photographers together.Photo credit: BACKGRIDOscar winning star/director Affleck married Garner in 2005. They announced their split in 2015 but haven't finalized the divorce. Still, Affleck is constantly out and about with Shookus these days and she's allegedly terrified of meeting his family.Photo credit: BACKGRIDJust days ago, Affleck and Shookus continued their love fest with a dinner date  in New York after a shopping spree.Photo credit: BACKGRIDAffleck has been described as following SNL producer Shookus around like a puppy and pampering her.Photo credit: BACKGRIDAffleck's actor brother Casey has hung out with the PDA pair recently on a comedy club date.Photo credit: BACKGRIDSources have told Radar that Affleck would like his new lady to get a makeover, but as the new photos show, Shookus still looks like she just rolled out of bed!
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

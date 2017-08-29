@@ -1,0 +1,44 @@
+Melissa Joan Hart Was High on Ecstasy for 1999 Maxim Cover Shoot—See it Now Well, this must have had Aunt Hilda and Aunt Zelda's tempers boiling! Back in 1999, Sabrina the Teenage Witch star Melissa Joan Hart posed naked on the cover of.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/463756/melissa-joan-hart-was-high-on-ecstasy-for-1999-maxim-cover-shoot-see-it-now');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013826/rs_634x880-130926114253-634.melissa-joan-hart-maxim-1999.092613.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Melissa Joan Hart, Maxim 1999");
+	var imageCaption = encodeURIComponent("Melissa Joan Hart, Maxim 1999");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Maxim
+
+Well, this must have had Aunt Hilda and Aunt Zelda's tempers boiling!Back in 1999, Sabrina the Teenage Witch star Melissa Joan Hart posed naked on the cover of Maxim. Now 14 years later with her tell-all book Melissa Explains It All hitting shelves Oct. 29, Hart is revealing that she was high on Ecstasy when she posed for the racy spread."I experimented with weed, Ecstasy, mushrooms and mescaline for about a year and a half," the 37-year-old mother of three tells Life & Style. To quote the tabloid, Hart, then age 23, "[took] Ecstasy at the Playboy Mansion in 1999…[made] out with a girl in the limo ride home — and then [headed] to a Maxim photo shoot while still high!" According to Hart, this was her "third or fourth time on Ecstasy."
+
+She claims she refused cocaine offered to her by Paris Hilton (which Paris' rep adamantly denied in a statement to E! News) and says despite "running with a bad crowd," she "just didn't enjoy taking drugs."This is a whole new side of Sabrina, huh? Magic won't make those books fly off the shelves, but dragging some skeletons out of the closet just might!
+/n

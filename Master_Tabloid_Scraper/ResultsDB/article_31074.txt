@@ -1,0 +1,58 @@
+Emile Hirsch Candidly Talks Sundance Film Festival Assault Charges and Subsequent Rehab: "I'm Just So Much More Present" Emile Hirsch has avoided interviews since being charged with misdemeanor assault after choking a woman at the Sundance Film Festi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/815893/emile-hirsch-candidly-talks-sundance-film-festival-assault-charges-and-subsequent-rehab-i-m-just-so-much-more-present');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131012/rs_634x1024-131112194753-634.Emile-Hirsch-AFI-Festival-Lone-Survivor.ms.111213.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emile Hirsch");
+	var imageCaption = encodeURIComponent("Emile Hirsch");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Valerie Macon/Getty Images
+
+Emile Hirsch has avoided interviews since being charged with misdemeanor assault after choking a woman at the Sundance Film Festival in 2015, but now he's opening up Josh Horowitz on his podcast Happy Sad Confused.The Into the Wild star, 31, checked into rehab immediately after and also had to spend 15 days in jail. Since seeking help, Hirsch said his entire life has turned around for the better."I'm still just so sorry for what happened and still just shocked even that it happened. Also, grateful in a way that you know it gave me an opportunity to make my life a lot better and to do some of the things that helped me in finding ways of just clarity," Hirsch candidly told Horowitz.
+
+"I went to rehab. I was able to really clean that side of myself up. Just discovering that you know problems with alcohol and bingeing on alcohol and other drugs. These are problems that I was able to see a lot of people face, and maybe I didn't quite realize that before or identify that in that way."Despite what happened to the woman he allegedly assaulted and the aftermath, Hirsch is thankful in some ways that he was able to realize he needed help because now he can be a better father to his 3-year-old son Valor Hirsch.
+
+"Just getting that handled in my life just improved my life in so many ways as difficult as the and the unfortunate as that whole thing was, I'm grateful that I was able to really move forward and improve my life for my son," he said. "I'm just so much more present and there for him and that means so much to me. And the quality of just days and not waking up hungover and not knowing what happened or something like that. The stuff is strong."By going to rehab and seeing that there were others who struggled the same way he did, Hirsch said he felt like he wasn't alone. 
+
+"I've talked to a lot of people and there's a lot of people who struggle with addiction," he continued. "And if anything positive can come of it, it would just be getting a little bit more awareness because sometimes you need to hear someone say something about it and be like, 'Your life doesn't have to be this way. You don't have to be like, oh yeah everyone's going out drinking and I have to too because that's the way it is.' But I'm different why do I drink so much more than everyone else? Why does it get to that place? I just have to deal with those consequences." 
+
+
+
+Rodrigo Gaya/ WorldRedEye.com
+
+While dealing with them, however, Hirsch learned that addiction affects everyone. "Being in rehab and then jail afterwards I was able to see that it didn't matter if you were an actor or a bar hand or whatever," he said, "A lot of people would have problems in that world. It's sort of an equalizer you could say."Horowitz commended Hirsch for his amount of candor especially given that it was one of his first interviews since the assault, but it was the Girl Next Door star who felt honored.
+
+"It means a lot to me to be able to sit here and to really know how much more improved that I've been able to make my life, not just for myself but for my son but for the rest of my family and my friends," he gushed. "I put friends and family and people like that I put them first in my life and I'm able to do that so much more now."Sobriety has made Hirsch appreciate his career so much more. "When I found that kind of clarity it really improved the quality of my work and the experience of making films," he admitted. "It was so much more fun." 
+
+Even though Hirsch and Horowitz's conversation took a serious tone, Hirsch was able to recall an accidentally drug-filled story about his time on the set of Into the Wild that still leaves him a bit shaken, but now he can laugh about it."There was one night on Into the Wild where I had one drink and then the crew member who gave it to me freaked out," Hirsch recalled. "I'm pretty sure the dude dosed me with MDMA because I was like freaking out and the AD had to sit and talk to me all night. This was on the river bank all night where we're tenting out."The next day Hirsch had to film the rapids scene, and suffice it to say, it didn't end well.Listen to Horowitz's full Happy Sad Confused podcast on iTunes.
+/n

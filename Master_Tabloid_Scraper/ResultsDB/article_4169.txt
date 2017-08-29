@@ -1,0 +1,48 @@
+a decade before Kerry Washington became synonymous with "handling" White House relations, she celebrated an early role as Ray Charles' devoted wife Della Bea Robinson in the 2004 biopic Ray. Starring alongside Jamie Foxx in th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/742107/kerry-washington-reunites-with-ray-co-stars-jamie-foxx-and-regina-king-for-best-reunion-ever');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016122/rs_634x947-160222074723-634.Kerry-Washington-Jamie-Foxx-Regina-King-Reunion.jl.022216..jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kerry Washington, Regina King, Jamie Foxx");
+	var imageCaption = encodeURIComponent("Kerry Washington, Regina King, Jamie Foxx");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Unchain our hearts! In a year of epic film and television reunions, here's a silver screen gem to add to the list. Almost a decade before Kerry Washington became synonymous with "handling" White House relations, she celebrated an early role as Ray Charles' devoted wife Della Bea Robinson in the 2004 biopic Ray.Starring alongside Jamie Foxx in the titular role and Regina King as his on-the-road lover Margie Hendricks, the trio went on to win over the box office and garnered Foxx his first Oscar.The musical stars have aligned 12 years later when all three were brought together on the same red carpet at the American Black Film Festival Sunday where King was a featured speaker. 
+
+
+
+Universal Pictures
+
+The trio looked as if no time had passed, especially not a decade. Just check out those beautiful shining faces! Clad in picture-perfect black tie attire, the three actors posed for photographers and incited a social media frenzy in the process. Even Washington couldn't help but gush over their get-together. "Best reunion ever!!!" she tweeted to her fans Sunday while taking a moment to praise her Emmy-winning friend. "Yes. @ReginaKing just gave a brilliant speech at #abff about love life art opportunity & #blacklivesmatter LOVE YOU MAMA!"They've certainly come along way since the early 2000s. Washington has dominated Thursday night television with her reoccurring role as Olivia Pope on Scandal. King was nominated for and won her first Primetime Emmy Award for her standout performance on American Crime and Foxx just finished recording a duet with Grammy winner Barbra Streisand, according to his Twitter account.Talk about a standout résumé! Looks like these three haven't been messin' around since their Ray days—they've got their eyes on every Hollywood prize. 
+/n

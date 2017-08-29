@@ -1,0 +1,46 @@
+Leslie Jones Finds the Humor in Her Hacking Scandal and Turns It Into a Stand-Up Joke Leslie Jones really knows how to turn lemons into lemonade. During one of her stand-up performances at Carolines in New York City Thursday, Jones turned he.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831723/leslie-jones-finds-the-humor-in-her-hacking-scandal-and-turns-it-into-a-stand-up-joke');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016830/rs_634x910-160930101422-634.leslie-jones.93016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leslie Jones, Saturday Night Live, SNL");
+	var imageCaption = encodeURIComponent("Leslie Jones, Saturday Night Live, SNL");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mary Ellen Matthews/NBC
+
+Leslie Jones really knows how to turn lemons into lemonade.During one of her stand-up performances at Carolines in New York City Thursday, Jones turned her hacking scandal into the perfect series of jokes. Over the summer Jones' personal website was hacked and explicit, personal images hit the Internet. Photos of her license and other personal information were also released, putting the Ghostbusters actress into hiding.Eventually, Jones resurfaced and opened up about her terrible experience. She resumed life as usual and returned to Saturday Night Live. But it wasn't until Thursday night that Jones really talked about it."Now I got to explain this to my aunties," said 49-year-old Jones during her set, per the New York Times. "They old, and they from civil rights. They just now getting computers."
+
+Imitating one of her aunts, Jones continued, "She was like, 'Was it the Klu Klux Klan?'" She examined her niece's anatomy and added, "I didn't raise you like that."The comedienne said she answered, "Just got back to sleep, auntie. Don't turn the computer on."Jones, who also has been subjected to ruthless Twitter trolls, thanked her friends and fans for supporting her during that turbulent time and promised she would "always be funny." She obviously kept her promise and even told the crowd she "laughed" at the hacking incident. 
+
+"I was like, they don't understand how many people I've actually tried to show that to," she added. "You really just helped a sister out. Thank you for the distribution."Jones also made light of her Internet scandals at the Emmy Awards, where she appeared onstage and jokingly asked the Ernst & Young employees for online protection."Y'all over here using your skills to protect best voice-over in a French sitcom," she said at the time. "Meanwhile, I'm butt-naked on CNN."
+/n

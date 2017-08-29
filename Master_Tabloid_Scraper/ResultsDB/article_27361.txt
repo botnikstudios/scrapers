@@ -1,0 +1,46 @@
+EXCLUSIVE! Wait, Max Greenfield Lost How Much Weight for AHS: Hotel?! Find Out How He Did It and If It Was Worth It According to Greenfield, it wasn't the weight loss regimen that was the hard part. (Lucky him.) Rather, it was getting b.../n
+American Horror Story is only supposed to be scary for the viewers, right?For guest star Max Greenfield, the nightmare almost followed him home thanks to the massive slim down required for the fifth season role—which just so happened to coincide with wife Tess Sanchez's final days of pregnancy."It was a real problem. Oh, we were almost divorced," Greenfield joked with E! News at the recent AHS: Hotel premiere event. "We were really close. We would've been the first people to ever get a divorce because of a diet. 'What ended the relationship?' 'I went on a diet and she couldn't take it and I personally don't blame her!'"
+
+"It was towards the very end too and Tess was like, 'Things are happening to my body that I don't understand it feels like it's betraying me. This is too much. Things are happening to my body that I've never experience before,'" he continued. "And I'm like, 'I know, me too.' I was like, 'I totally hear you,' and she was like—I said it a couple of times not even thinking…I was like, 'I shouldn't be saying this but I'm having the same experience!'"Greenfield shed all the weight to bring to life Hollywood junkie Gabriel, who checks into the sexy and sinister Hotel Cortez in the premiere episode, airing tonight on FX, where he quickly runs afoul the building's colorful inhabitants, including Kathy Bates' Iris, Sarah Paulson's Hypodermic Sally and, of course, Lady Gaga's hemophiliac The Countess.As for how much weight the New Girl actor actually lost to transform into Gabriel? He admitted an earlier report from creator Ryan Murphy may have been a bit exaggerated. "Ryan said I lost 30 pounds, which I appreciated. I would like to stick [with] that, but I don't know if I lost that much," he said. "I think at my lightest, I dropped like 24, 25. I was so happy to gain it back. What a treat!"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/703556/wait-max-greenfield-lost-how-much-weight-for-ahs-hotel-find-out-how-he-did-it-and-if-it-was-worth-it');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201589/rs_634x953-150909100656-AHS_501_0114d.JPG');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("American Horror Story: Hotel, Max Greenfield");
+	var imageCaption = encodeURIComponent("American Horror Story: Hotel, Max Greenfield");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Suzanne Tenner/FX
+
+According to Greenfield, it wasn't the weight loss regimen that was the hard part. (Lucky him.) Rather, it was getting back to normal that proved to be a challenge. "Losing it was not that bad, it was going back into a regular routine of eating was actually a tough transition," he said. "It was tougher than I thought, re-entering eating like a normal human being."For more from Max, including the reveal of what his first post-diet meal was, be sure to press play on the video above!American Horror Story: Hotel premieres tonight at 10 p.m. on FX.
+/n

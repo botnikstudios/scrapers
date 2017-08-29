@@ -1,0 +1,48 @@
+Ann Curry Rescued by Boy Scouts After Breaking Her Ankle on a Hike: "Boy Am I Glad They Found Me" What a way to earn a merit badge! When Ann Curry broke her ankle during a hike through New York's Harriman State Park last month.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/540939/ann-curry-rescued-by-boy-scouts-after-breaking-her-ankle-on-a-hike-boy-am-i-glad-they-found-me');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014412/rs_634x1024-140512065845-634.Ann-Curry-JR-51214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ann Curry");
+	var imageCaption = encodeURIComponent("Ann Curry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Angela Weiss/Getty Images for The Lourdes Foundation
+
+What a way to earn a merit badge!When Ann Curry broke her ankle during a hike through New York's Harriman State Park last month, Boy Scout troops from Berkeley Heights, New Jersey's Troop 368, came to her aid. On Friday, professional firefighter and EMT Rick Jurgens detailed the experience in Scouting magazine's blog."We were hiking along, and we came to a trail intersection and a lady was sitting on the ground with her one leg out. We didn't think anything of it, but one of the guys asked if everything is okay. She said, 'No, not really. I think I broke my ankle,'" he recalled. "She told us to keep going, but the guys refused.""They splinted it up perfectly," Jurgens added. "Just like in the pictures."The scouts splinted the NBC News journalist's leg, but she still needed to get down the mountain.
+
+"The guys on their own, with no direction from me, start running into the woods," Jurgens said. "And she didn't know what was going on, and I didn't know what was going on either." The scouts gathered pieces of wood to build a makeshift stretcher. They also found two strong sticks and tied on a tarp.From there, they carried her down the mountain. According to Jergens, the broadcaster "was in a good mood, asking us about our Philmont trip. She wanted to hear what brought us to Harriman State Park."Curry's family went ahead to get their SUV and drive it to the trailhead. The scouts helped Curry into the front seat of the car, and before they left for the hospital, Curry's husband thanked the Scouts. "He told us, 'You guys are the best,'" Jurgens recalled. "'I don't know what I would do without you guys.'"
+
+Once Curry's family drove away, forest rangers arrived on the scene. It was then that Jurgens revealed just who the scouts had helped: "I said, 'Do you know who that woman was? That was Ann Curry.'"Some of the scouts remained skeptical until a few weeks later. Curry called Jurgens to thank him and to praise the troop. The former Today co-anchor got the addresses of everyone who was there that day and sent each member a hand-signed letter thanking them for their "skill and professionalism.""I feel enormously lucky you came along at just the right moment, and were so willing to help a stranger in need," Curry, 57, wrote. "You are a credit to the Boy Scouts and to your families, and I want you to know I am deeply grateful for your kindness and skill." She also tweeted about it Friday, writing, "If you break a leg on a mountain, I hope Boy Scout Troop 368 finds you. Boy am I glad they found me."
+
+As one might expect, Jurgens is proud of troops Christopher Friedlander, Peter Krasny, Joe McLaughlin, Devon McLean, Michael Middlebrook, Chris Pirone, Andrew Stecher, Mark Trella and Chris Tribuna."No matter who that was, we would've done the same exact thing," he said. "The guys didn't know this was a special person at first and treated her with the most dignified respect. It was all on the guys."(E!, NBC News and Today are both part of the NBCUniversal family.)
+/n

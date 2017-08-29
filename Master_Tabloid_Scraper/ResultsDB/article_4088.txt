@@ -1,0 +1,48 @@
+episode count was announced. The CW's Dynasty hails from Gossip Girl and The O.C. veterans Josh Schwartz and Stephanie Savage and executive producers Sallie Patrick of Revenge, Esther and Richard Shapiro, the creators of the original Dy.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/850233/dynasty-reboot-officially-coming-to-the-cw');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016830/rs_634x868-160930160011-634-dynasty.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dynasty");
+	var imageCaption = encodeURIComponent("Dynasty");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+20th Century Fox Television 
+
+Dynasty is returning to television. The CW has ordered Dynasty to series for the 2017-2018. The reboot of the classic primetime soap starring Joan Collins will now star Grant Show, Elizabeth Gillies, Nathalie Kelley, James Mackay, Alan Dale, Sam Adegoke, Robert Christopher Riley and Rafael de la Fuente.No premiere date or episode count was announced.The CW's Dynasty hails from Gossip Girl and The O.C. veterans Josh Schwartz and Stephanie Savage and executive producers Sallie Patrick of Revenge, Esther and Richard Shapiro, the creators of the original Dynasty, and Jane the Virgin's Brad Siberling.
+
+The original Dynasty ran for 220 episodes on ABC from 1981-1989. Over the years it starred Linda Evans, Heather Locklear, John Forsythe, Diahann Carroll, Jack Coleman, Michael Nader and many other famous faces.This is The CW's latest revival of a primetime soap. After successfully launching 90210, a sequel series to Beverly Hills, 90210, The CW tried its hand at Melrose Place, but lightning didn't strike twice.
+
+News The CW was working on a Dynasty reboot first broke in September 2016. At the time, this was the plot description: "The Rolls Royce of all primetime soaps, returns in a modernized reboot that follows two of America's wealthiest families, the Carringtons and the Colbys, as they feud for control over their fortune and their children. The series will be told primarily through the perspectives of two women at odds: Fallon Carrington—daughter of billionaire Blake Carrington—and her soon-to-be stepmother, Cristal—a Hispanic woman marrying into this WASP family and America's most powerful class. In an age where dynasties appear everywhere—from reality TV to the polling booths—this epic drama features the one percent in all its glitz and gloss, while exposing the dark underbelly: a corrupt world built on backroom deals, betrayal, and, in some cases, murder."
+
+Dynasty joins The CW's 2017-2018, which already includes Arrow, Crazy Ex-Girlfriend, Supergirl, The Flash, Legends of Tomorrow, Jane the Virgin and Supernatural. The network pulled the plug on freshman shows No Tomorrow and Frequency.Stay up to date on the rest of the new fall shows right here with E! News.
+/n

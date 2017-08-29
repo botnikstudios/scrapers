@@ -1,0 +1,47 @@
+Norman Bridwell, Creator of Clifford the Big Red Dog Books, Dies at Age 86 Norman Bridwell, creator of the beloved children's book character Clifford the Big Red Dog and author of more than 75 books in the series, recently died at age 8.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/607276/norman-bridwell-creator-of-clifford-the-big-red-dog-books-dies-at-age-86');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141117/rs_634x1024-141217074515-634.Norman-Bridwell-Clifford-The-Big-Red-Dog.jl.121714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Norman Bridwell, Clifford The Big Red Dog");
+	var imageCaption = encodeURIComponent("Norman Bridwell, Clifford The Big Red Dog");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Slaven Vlasic/Getty Images
+
+Norman Bridwell, creator of the beloved children's book character Clifford the Big Red Dog and author of more than 75 books in the series, recently died at age 86.The writer and artist passed away on Friday at Oak Bluffs, Massachusetts, on Martha's Vineyard, after battling prostate cancer and following a recent fall at his family home, The New York Times reported. He is survived by two adult children, Emily Elizabeth and Timothy, three grandchildren and his wife of 56 years, Norma. She was the person who came up for the name of the pooch."I was going to call him Tiny," Bridwell said in a video interview posted by Scholastic in 2009. "And she said, "But you can't call him that.' So I said, 'Well, you name the dog.' And she went back to her childhood and took the name of an imaginary playmate."
+
+Bridwell was born in Kokomo, Indiana in 1928. He went to art school in Indianapolis and New York City and worked as a commercial artist before he published his first book, Clifford the Big Red Dog, in 1963. He named the dog's owner after his daughter, who was 1 years old at the time."When I was a little boy, I used to daydream about having a dog as big as a horse," Bridwell told second grade students at Bruce Drysdale Elementary School in Hendersonville, North Carolina in 1993, according to The Times-News newspaper.It took him three days to write the first Clifford book. Bridwell has also penned other children's books such as A Tiny Family and The Wizard Next Door.For more than 50 years, millions of children around the world have fallen in love with Clifford, a loveable, oversized and often clumsy male mixed-breed dog. In addition to a book series, which has been translated into 13 languages, the franchise has been adapted for TV and film, with the late John Ritter providing the voice of the character, computer games and mobile apps."A lot of times children write letters to Clifford instead of to me and want to know things about him," The Daily Gazette newspaper in Cobleskill, New York quoted Bridwell as saying in 1990, when he met with kids at Ryder Elementary School. "Like, how big he really is, how much he eats, whether he has a girlfriend."
+
+The author explained in the Scholastic video interview why he chose to make Clifford red."When I did the painting, I pained the sky blue and the grass green and the little girl's dress and I had a jar of white red blazing poster paint sitting on the drawing table," he said. "And I thought, 'Well, maybe being big wasn't enough. Maybe if he looked like a fire engine, that might be a little special.' So I put my brush in the red paint and I made him bright red.""I exaggerated his size because I started thinking of the story. I thought, 'Well, if he's funny being a little bigger than as a horse, what if he's as big as a house?'" he added. "And I made him a gigantic, red dog."Bridwell said in another interview that Scholastic had published more than a decade years ago, carried out when he was 75 years old, that he hoped to "keep writing for another three or four years at least." He would go on to publish eight more Clifford books over the next eight years, until 2011. Two more, Clifford Goes to Kindergarten and Clifford Celebrates Hanukkah, are set to be published in 2015.Former Kokomo Tribune reporter Lisa Fipps, who had interviewed Bridwell in the past, talked to the newspaper about the author after his passing."He was the most kind, gentle, soft-spoken person you would ever meet," she said. "He was very excited and almost felt honored that I wanted to talk to him, which just cracked me up. He just talked to me like a regular person and didn't try to impress me at all."
+/n

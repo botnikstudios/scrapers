@@ -1,0 +1,48 @@
+even offers a color perfectly dubbed "Buff," a favorite of Sarah and, of course, many a celebrity. Deborah Lippmann Smooth Operator Buffer File, $12; Essie Apricot Cuticle Oil, $8.50; Butter London Horse Power Nail Strengthener, $1.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/694277/buffing-fall-s-low-key-nail-trend-actually-takes-more-work-than-you-think');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201589/rs_634x1024-150909163110-634-margot-robie-nails.ls.9915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Margot Robie, Buff Nail Trend");
+	var imageCaption = encodeURIComponent("Margot Robie, Buff Nail Trend");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevork Djansezian/Getty Images
+
+If the fall 2015 ready-to-wear runway shows were any indication, we should see a bounty of buffed nails—or colors that are just as natural—this autumn season. Manicurists behind brands like Rag & Bone and BCBG Max Azria left models' digits almost naked, buffing away until they naturally shined.Of course, Hollywood followed suit, and in the months following, celebrities like Jennifer Aniston, Margot Robbie and even over-the-top pop princess Katy Perry dialed down the nail art for the subtle, less-is-more effect. But is constantly buffing—or polishing—your nails actually good for you?
+
+Compared to getting acrylics and gel manis, buffing is a healthy alternative, noted Sarah Gibson Tuttle, owner of celeb hot spot Olive & June in Beverly Hills. In fact, during the Depression Era, when people didn't have the resources to keep up with aspirational beauty standards, buffed nails were a sign of good health, celeb manicurist Michelle Saunders told Harper's Bazaar.Just like why you exfoliate your skin, buffing clears the nails of excess layers. However, limit polishing to once a week and use a four-sided buffer, which offers different surface textures rather than an abrasive nail filer.
+
+Yep, this may seem like a low-maintenance nail trend, but getting perfectly buffed nails requires work. While polish usually can camouflage typical cuticle growth, dryness and damaged nails, this trend exposes everything. To maintain Mani Cam-worthy nails, keep your cuticles hydrated and nails strong by applying nourishing oils to those digits every day. "One of our client favorites is Horse Power Nail Strengthener by Butter London," Sarah recommended.
+
+If the maintenance seems overwhelming, fake until you make it with the many neutral polish shades that mimic the color of shiny, naturally buffed nails. Brand RGB Cosmetics even offers a color perfectly dubbed "Buff," a favorite of Sarah and, of course, many a celebrity.Deborah Lippmann Smooth Operator Buffer File, $12; Essie Apricot Cuticle Oil, $8.50; Butter London Horse Power Nail Strengthener, $19; Nails Inc. London Vitamin E Oil Slick Pen, $10; RGB Nail Color in Buff, $18; Zoya in Chantal, $9; Jin Soon in Nostalgia, $18
+/n

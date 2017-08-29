@@ -1,0 +1,100 @@
+actriz de New Girl y su esposo Jacob Pechenik anunciaron que están a la espera de su bebé número dos apenas seis meses después del nacimiento de su hija Elsie Otter, quien nació en julio./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/828420/11-celebridades-que-daran-a-luz-este-2017-fotos');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201712/rs_634x956-170202044725-634.beyonce-2.2217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Beyonce");
+	var imageCaption = encodeURIComponent("Beyonce");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Beyonce
+
+Hollywood tiene la fiebre de los bebés.
+
+En el 2016 vimos la llegada de muchos tiernos bebés como Luna, de Chrissy Teigen y John Legend, Dusty Rose de Behati Pirnsloo y Adam Levine, y Dream de Rob Kardashian y Blac Chyna, solo por nombrar algunos.Sin embargo, este 2017 también viene con un montón de bebés estrella en camino, y a continuación haremos un recuento de las madres famosas que darán a luz en los próximos meses.E! NEWS > OMG! Beyoncé compartió más fotos desnuda celebrando su embarazo (+ Fotos)BeyoncéDespués de mucho tiempo intentándolo, Beyoncé y Jay-Z recibieron la bendición de un par de mellizos justo cuando ya habían perdido las esperanzas.
+
+
+
+ Todd Williamson/Getty Images for MPTF
+
+Amal ClooneyAl igual que los Carter, Amal y George Clooney se preparan para recibir a un par de mellizos en Junio.
+
+Rosie Huntington-WhiteleyEsta semana la sensual modelo también reveló a través de cuenta de Instagram que ella y su guapo esposo Jason Statham esperan a su primer hijo.
+
+
+
+Osvaldo/FAMEFLYNET PICTURES
+
+Amanda SeyfriedLa actriz confirmó su embarazo al asistir a una fiesta de Givenchy mostrando su creciente pancita.E! NEWS > Amanda Seyfried se sinceró acerca de cómo es vivir con una enfermedad mental (+ Fotos)
+
+
+
+AKM-GSI
+
+Irina ShaykLa modelo de Victoria's Secret hizo historia a desfilar con su pancita en el famoso show anual de la marca de lencería. Aunque trató de ocultarla estratégicamente, quedó bastante claro que ella y Bradley Cooper están a la espera de su primer hijo.
+
+
+
+Emma McIntyre/Getty Images for AOL
+
+CiaraLa cantante anunció su embarazo a través de Instagram el pasado mes de octubre, diciendo, "En este cumpleaños especial recibí abundancia de amor de mis amigos y familia… y estoy emocionada por finalmente compartir uno de los regalos más grandes que Dios podría dar".
+
+
+
+Jordan Strauss/Invision/AP
+
+Natalie PortmanLa nominada a los Premios de la Academia debutó su pancita en el Festival de Cine de Venecia usando un magnífico vestido blanco de Dior, y a lo largo de la alfombra roja ha mostrado su embarazo en su máximo esplendor.E! NEWS > WTF! Jimmy Kimmel ayudará a Natalie Portman a dar a luz en los Oscar (+ Video)
+
+
+
+Frazer Harrison/Getty Images
+
+Gal GadotEl pasado mes de noviembre la estrella de La Mujer Maravilla anunció su segundo embarazo, también a través de su cuenta de Instagram.
+
+
+
+Dimitrios Kambouris/Getty Images
+
+Marion CotillardEn medio de los rumores de su supuesta aventura con Brad Pitt, la estrella de Allied escribió en Instagram: "No estoy acostumbrada a realizar comentarios sobre cosas así, o a tomármelas en serio, pero esta situación se está saliendo de control y afectando a personas a las que quiero, por lo que me veo obligada a actuar. Primero de todo, hace muchos años conocí al hombre de mi vida, el padre de mi hijo y del niño que estamos esperando. Es mi amor, mi mejor amigo y el único que necesito en mi vida".Y finalizó: "Finalmente, espero que Angelina y Brad, dos personas a las que respeto profundamente, encuentren la paz en este momento tan complicado. Con todo mi cariño".
+
+
+
+TheImageDirect.com
+
+Cheryl ColeTras meses de rumores, resultó ser que Cheryl Cole sí estaba embarazada de Liam Payne. La confirmación llegó cuando ambos aparecieron en público y la cantante mostró su inocultable pancita.E! NEWS > Niall Horan habla sobre el bebé de Liam Payne y Cheryl Cole y te derretirá el corazón.
+
+
+
+Jason Merritt/Getty Images
+
+Zooey DeschanelLa actriz de New Girl y su esposo Jacob Pechenik anunciaron que están a la espera de su bebé número dos apenas seis meses después del nacimiento de su hija Elsie Otter, quien nació en julio.
+/n

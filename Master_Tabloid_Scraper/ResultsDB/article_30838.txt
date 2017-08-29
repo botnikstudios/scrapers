@@ -1,0 +1,44 @@
+Bitch Stole My Look! Blake Lively vs. Taylor Schilling in Roland Mouret It's bold enough to steal a style from the great Blake Lively, but for Taylor Schilling to take the look the Preserve website honcho wore in a recent viral video is.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/565855/bitch-stole-my-look-blake-lively-vs-taylor-schilling-in-roland-mouret');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201474/rs_634x1024-140804102111-634.Taylor-Blake-jmd-080414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Blake Lively, Taylor Schilling");
+	var imageCaption = encodeURIComponent("Blake Lively, Taylor Schilling");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images/Vogue
+
+It's bold enough to steal a style from the great Blake Lively, but for Taylor Schilling to take the look the Preserve website honcho wore in a recent viral video is extra ballsy. Maybe the Orange Is the New Black star is more similar to her tough TV character than we thought?Probably not. What she pilfered is a pastel pink-based cocktail dress that any fashion lover would kill to wear, so we won't call this a full-on affront.
+
+Given the fact that both beauties are rocking carefree blonde locks, this comes down to a battle of footwear and accessories...or just shoes, because neither celeb is wearing any accessories.Our research beyond this shot confirms that Mrs. Ryan Reynolds rocked a pair of candy dot-covered white pumps that she called "Everlasting Gobstopper shoes," while the Netflix star chose a simple Stuart Weitzman 'Nudist' blue sandal.Since the dress is already so busy, it seems the multicolored choice would make for a mess, resulting in Taylor as our winner...although we can't help but factor her overly intense blue eye shadow into the look.Once again, Blake does no wrong on the fashion front. Agree or disagree?Tune-in to an all new Fashion Police this Friday, 9/8c on E!
+/n

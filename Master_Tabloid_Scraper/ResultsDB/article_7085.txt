@@ -1,0 +1,54 @@
+Dream Casting Feud's Prince Charles and Princess Diana Season: Who Will Bring the Royals to Life? Theirs was a romance that captivated the world and, now that Ryan Murphy is tackling Prince Charles and Princess Diana of Wales for his ju.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832781/dream-casting-feud-s-prince-charles-and-princess-diana-season-who-will-bring-the-royals-to-life');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012731/634.ab.4.diana.083112.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Princess Diana, Prince Charles");
+	var imageCaption = encodeURIComponent("Princess Diana, Prince Charles");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Sipa 
+
+Theirs was a romance that captivated the world and, now that Ryan Murphy is tackling Prince Charles and Princess Diana of Wales for his just-announced second installment of Feud, they have just become some of the most coveted roles in Hollywood, as well.Ahead of the highly-anticipate series premiere of Feud: Bette and Joan, chronicling the infamous feud between Bette Davis and Joan Crawford, FX has revealed that season two will focus on the 1981-1996 marriage that fueled the tabloid industry through the '90s thanks to admissions of infidelity by both parties. While very few details about the installment, which will be written by Murphy and Brothers and Sisters vet Jon Robin Baitz, have been announced, expect to see Queen Elizabeth II, Camilla Parker Bowles (Prince Charles' current wife) and James Hewitt (the British Army officer who Diana carried on a five-year affair with) in the mix.
+
+With that in mind, you know what time it is. Let's dream-cast this thing!
+
+Princess DianaWhile the easy choice here, considering this is a Ryan Murphy production and all, would be Sarah Paulson with a great wig, we're going to go out on a limb and say that we actually wouldn't prefer that. (We still love you, Sarah!) Instead, we're hoping that Murphy will look overseas for actresses from the late Princess of Wales' homeland. High on our list are Gone Girl star Rosamund Pike and Sienna Miller. And though she may be a little too young, we can't shake the feeling that Soairse Ronan just might be fantastic if given the chance. And then there's Emily Blunt. Never count out Emily Blunt!
+
+Prince CharlesAs Queen Elizabeth II's eldest child, and the man who was 13 years older than his princess, our mind immediately went to Jude Law—and given his own tumultuous history with Miller, if the pair were cast in the project, they'd certainly have no trouble tapping into the animosity that plagued Charles and Diana all those years. Runner-up? Again, a bit too young, but take one look at Harry Potter alum Matthew Lewis and tell us he wasn't born to play Charles at some point in his life. Nicholas Hoult is another contender who may be too young for the gig, but certainly has the chops. The Good Wife and Downton Abbey veteran Matthew Goode has the chops and enough of the look to pull it off...
+
+Queen Elizabeth IIWe're certain that Jessica Lange is testing out QEII wigs as we speak, so no need to speculate here. The role's basically hers, right? Never forget perpetual queen player Helen Mirren. Can you imagine Helen Mirren tearing it up? Or another veteran of Murphy's acting troupe: Kathy Bates. Maybe Maggie Smith wants another go at the Emmys.
+
+Camilla Parker BowlesIf we don't get Paulson as Princess Di, what about the other woman? Murphy's working with Catherine Zeta-Jones on Feud: Bette and Joan, might she join the troupe? Downton Abbey veterans Laura Carmichael and Joanne Frogatt would also be good for the gig.
+
+James HewittWhat's Eddie Redmayne up to these days? Tom Hiddleston dipped his toe into TV with The Night Manager and got an Emmy nomination, maybe this role could net him a win. Kingsman standout Taron Egerton is certainly swoon-worthy. Andrew Garfield would be a welcome sight too. Murphy could bring Scream Queens veteran Glen Powell into the mix here.Feud: Charles and Diana premieres in 2018.
+/n

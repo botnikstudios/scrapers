@@ -1,0 +1,50 @@
+Katherine Heigl présente son premier fils, Joshua Bishop Kelly Jr, au monde La photo fait partie d'un article qui fait la couverture du magazine People. "Pour plus de photos et toute l'histoire exclusive, lisez le magazine @pe.../n
+Un mois après avoir accouché de son troisième enfant, Katherine Heigl présente le petit garçon au monde !L'actrice est allée sur Instagram pour partager une adorable photo de son premier fils, Joshua Bishop Kelley Jr, aux côtés de son mari, Josh Kelley, et a partagé un charmant message pour l'accompagner."@joshbkelley et moi sommes aux anges d'enfin partager l'arrivée de notre petit homme Joshua Bishop Kelley Jr né le 20 décembre, pesant 3,6 kilos", a-t-elle écrit. "Nous sommes tous heureux, en bonne santé et très reconnaissants !"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/824546/katherine-heigl-presente-son-premier-fils-joshua-bishop-kelly-jr-au-monde');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017025/rs_634x842-170125085134-634.Katherine-Heigl-People-Kf.12517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Katherine Heigl, People");
+	var imageCaption = encodeURIComponent("Katherine Heigl, People");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Cheyenne Ellis for People Magazine
+
+La photo fait partie d'un article qui fait la couverture du magazine People. "Pour plus de photos et toute l'histoire exclusive, lisez le magazine @people (qui sort vendredi), que je remercie infiniment de nous avoir aidés à annoncer l'heureuse nouvelle de façon belle, honnête et affectueuse !", a-t-elle continué. "Je veux aussi envoyer mon affection à ma meilleure amie @cheyenneellis pour les magnifiques photos, dont celle-ci ! Un autre ÉNORME merci à vous tous pour les merveilleux mots de soutien, d'amour et tous ces vœux magnifiques ! Comme toujours, je suis tellement reconnaissante d'avoir des fans si merveilleux !"Katherine et Josh sont déjà parents de deux petites filles adoptées. Ils ont adopté Naleigh, 8 ans, de Corée du Sud en 2009, et ont aussi adopté Adalaide, 4 ans, aux États-Unis en 2012.
+
+Le couple a décidé d'annoncer aux filles l'arrivée de leur petit frère quand Katherine était enceinte de 12 semaines."J'étais si soulagée de leur dire", a-t-elle expliqué, n'en ayant parlé qu'à son mari et à sa mère, Nancy, avant les filles.Cela va sans dire, ses filles avaient des questions. Elle s'est souvenue : "[La nouvelle] était un peu déroutante pour les filles, car elles ont demandé : « J'ai grandi dans ton ventre ? » Et j'ai dû expliquer : « En fait, vous n'avez pas grandi dans mon ventre, mais votre père et moi sommes vos parents. »"
+
+D'ailleurs, la mère de Katherine — qui a adopté sa grande sœur, Meg, trois ans avant la naissance de l'actrice — lui a toujours dit : "Peu importe comment il arrive dans ta vie, dès le moment où on met un enfant dans tes bras, que tu viennes d'en accoucher ou qu'il arrive de Corée, il est à toi."Katherine sait que ses filles finiront par remettre en question les différences dans leur famille. Mais elles n'en sont pas encore là."À leurs âges, je ne crois pas qu'elles réalisent vraiment combien on a tous une apparence différente", a-t-elle dit. "Je ne pense pas qu'elles en soient conscientes pour l'instant. En grandissant, elles le réaliseront : « Attends un peu, on a tous l'air différents. Qu'est-ce que ça signifie pour moi ? »"
+
+Quoi qu'il arrive, explique-t-elle : "On est là pour les soutenir en tant que parents. Tout est question de communiquer ouvertement et de les aider à accéder à ce dont les enfants ont besoin pour se sentir 100 % sûrs de qui ils sont", a-t-elle dit. "Qu'il s'agisse de leur histoire, leur héritage, leur race, leurs souvenirs... on est là."
+/n

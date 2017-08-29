@@ -1,0 +1,48 @@
+Ivanka Trump Brings Home Newborn Son Joseph Frederick—See the Pic! Awww! The always stylish Ivanka Trump brought home her newborn son, Joseph Frederick Kushner, from the hospital on Friday, Oct. 18. The 31-year-old jewelry designer looked fi.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/471817/ivanka-trump-brings-home-newborn-son-joseph-frederick-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013918/rs_634x1024-131018105238-634.Ivanka-Trump-Joseph-Frederick-Kushner.ms.101813.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ivanka Trump, Joseph Frederick Kushner");
+	var imageCaption = encodeURIComponent("Ivanka Trump, Joseph Frederick Kushner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+Awww!The always stylish Ivanka Trump brought home her newborn son, Joseph Frederick Kushner, from the hospital on Friday, Oct. 18.The 31-year-old jewelry designer looked fierce as she made her way into her New York City abode, wearing skinny black jeans, a black coat with fur trim, black patent leather heels and sunglasses.Her precious bundle of joy appeared very cozy in his mama's arms and was wrapped in a baby blue blanket. And while we can't see Joseph's sweet face, we did get a glimpse of his adorable fuzz-filled head!
+
+
+
+http://theartofivankatrump.tumblr.com/
+
+"Having a baby is definitely easier the second time around. #Iknowhowtoswaddle," Donald Trump's daughter tweeted shortly after she was photographed with her little boy.The Celebrity Apprentice star and her husband Jared Kushner welcomed their second child on Monday, Oct. 14. He joins 2-year-old sister Arabella Rose in the proverbial family trust. Ivanka shared a stunning photo showing off her second born from her hospital bed, several hours after she gave birth.Joseph looks comfortable in his swaddle with his rosy cheeks and open eyes while Ivanka looks gorgeous with her big and proud smile."Please join in our joy as we welcome Joseph Frederick Kushner, named after each of our paternal grandfathers, both master builders of their generation and inspiring patriarchs of their families," Ivanka wrote on Tumblr on Tuesday, Oct. 15.
+/n

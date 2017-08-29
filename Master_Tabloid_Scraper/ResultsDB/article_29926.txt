@@ -1,0 +1,46 @@
+Maya Rudolph Cast in A Christmas Story Live Musical on Fox Now this is a gift everybody can enjoy: Maya Rudolph will star in Fox's A Christmas Story live musical event. The Saturday Night Live veteran will play mom to little Ralphie Par.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872140/maya-rudolph-cast-in-a-christmas-story-live-musical-on-fox');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014330/rs_634x1024-140430074929-634.Maya-Rudolph-Kristen-Bell.jl.043014.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Maya Rudolph Show");
+	var imageCaption = encodeURIComponent("The Maya Rudolph Show");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NBC
+
+Now this is a gift everybody can enjoy: Maya Rudolph will star in Fox's A Christmas Story live musical event. The Saturday Night Live veteran will play mom to little Ralphie Parker in the musical event airing Sunday, December 17 on Fox.Fox's latest take on live musical hails from Grease: Live's Marc Platt with new songs from La La Land's Oscar-winning duo Benj Pasek and Justin Paul. The duo also took home a Tony for Dear Evan Hansen.A Christmas Story: The Musical was nominated for three Tonys after opening in 2012. The musical was based on the movie and novel by Jean Shepherd and featured music and lyrics from Benj Pasek and Justin Paul.
+
+Rudolph's other credits include Maya and Marty, Bridesmaids, Up All Night, Brooklyn Nine-Nine, and recently Unbreakable Kimmy Schmidt."A Christmas Story is one of the most beloved holiday films of all time—audiences have made a yearly ritual of re-watching it—and we are so thrilled to have Marc leading the charge in bringing the musical version of that film to television," David Madden, president of entertainment at Fox Broadcasting Company, said in a statement when the event was announced. "The extraordinarily gifted Pasek and Paul were instrumental in transposing the movie to the stage, and we believe the transition to live television event will be just as entertaining for viewers."
+
+A Christmas Story will air Sunday, Dec. 17 from 7-10 p.m. on Fox.
+/n

@@ -1,0 +1,83 @@
+Relish Watching Gordon Ramsay Suffer as He Eats Pineapple Pizza: ‘This Is an Italian Tragedy’/n
+Gordon Ramsay has made it clear that he’s not a fan of the polarizing combination of pineapple and pizza. And yet. To raise money for a children’s hospital he supports, he agreed he would chomp down on a slice — if he could get 500 donations to his charity campaign with Omaze.
+Well, the fans came through to see Ramsay suffer, and so he had to face his fear of fruit and cheese on pie, which he did via Facebook Live on Wednesday evening. In signature style, Ramsay did not hold back with his commentary on the dish.
+Want the latest celebrity food news, plus exclusive recipes, videos and more? Click here to subscribe to the PEOPLE Food newsletter. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-6300cd6c9a295f5cfb4462232c5eacc7-59a5835292484');
+				var iframe = document.getElementById('wpcom-iframe-6300cd6c9a295f5cfb4462232c5eacc7-59a5835292484');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-6300cd6c9a295f5cfb4462232c5eacc7-59a5835292484'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“First of all, I’m going to apologize to every top chef out there,” he prefaced his approach. “Pineapple is a fruit that deserves to be roasted with vanilla and served with the most amazing coconut ice cream.” He then, cringing, cut into the prepared pie with fork and knife.
+“Not good. This isn’t a pizza, this is a mistake,” he said after taking a bite. “This is an Italian tragedy. At least Romeo and Juliet had a happy ending. The only happy ending for me will be on the toilet tonight. This is gross!” He also noted that he found the texture problematic to consume: “No offense to Canadians, but it’s like eating moose turds.”
+RELATED: Bon Appétit! Gordon Ramsay Teaches a Frantic Katy Perry How to Cook Meatballs
+He then quickly whipped out a bottle of Listerine to wash his mouth of the flavors he found so offensive to his culinary sensibilities.
+Interested parties can still donate to his campaign, which includes entrance into a VIP experience at his The F Word show in L.A. and a meet-and-greet.
+This article originally appeared on Time.com
+/n

@@ -1,0 +1,58 @@
+Frederick's Sexy, Star-Studded Closet! Ooh la la! As promised, here are snaps from last night's well-attended charity bash from Frederick's of Hollywood benefiting Clothes off Our Back. It's a slow Thursday, so we thought.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/61997/frederick-s-sexy-star-studded-closet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20071025/293.von.teese.dita.102507.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dita Von Teese");
+	var imageCaption = encodeURIComponent("Dita Von Teese");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paul Fenton/ZUMA Press
+
+Ooh la la! As promised, here are snaps from last night's well-attended charity bash from Frederick's of Hollywood benefiting Clothes off Our Back. It's a slow Thursday, so we thought we'd tighten your corset with some eye candy, starting with the luscious Dita Von Teese, above, in this teasing teal number...
+
+Check out curious trio Cheri Oteri (remember, from SNL?), Jessica Simpson and tress master Ken Paves. Which one of these is not like the others?
+
+And further head-scratching photo-op darlings Zac Efron, Janet Jackson and Jermaine Dupri... 
+
+
+
+John Shearer/WireImage.com
+
+Meanwhile, little Ashley Olsen is out working the fashion crowd now that her sis is a big TV star. Just last week, Ash was spotted solo at a bash for celeb shoemaker Christian Louboutin.
+
+
+
+Paul Fenton/ZUMA Press
+
+The cherry on top: Amanda Bynes. Guess she's ignoring our cues to lose the rouge—and ditch the hairspray. For more party deets from Freddy’s, check out Hollywood Party Girl.
+/n

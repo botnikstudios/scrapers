@@ -1,0 +1,94 @@
+See the Terrifying Moment Kim Zolciak-Biermann Learned About Her Son’s Dog Attack/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-3ec81b80a2f7d13ae734830266a2dbea-59a55146368f5');
+				var iframe = document.getElementById('wpcom-iframe-3ec81b80a2f7d13ae734830266a2dbea-59a55146368f5');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-3ec81b80a2f7d13ae734830266a2dbea-59a55146368f5'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+It’s every parents’ nightmare, and watching Kim Zolciak-Biermann experience it is heartbreaking.
+In April, the mother of six revealed her 5-year-old son Kash was hospitalized and in danger of losing sight in his left eye after being bitten by a dog.
+Four months and multiple surgeries later, the young boy is healthy and healed — even getting a pit bull puppy last week for his birthday. But watching back the footage of the moment Kim learned of the attack will send shivers down the spines of Bravo viewers everywhere.
+Kroy Biermann and Kim Zolciak-BiermannDimitrios Kambouris/Bravo/NBCU Photo Bank via Getty
+The moment comes in the season 6 trailer of Don’t Be Tardy… — Bravo’s hit reality series that follows the Real Housewives of Atlanta star, her husband Kroy Biermann and their six children as they navigate family life.
+“We got to go to the hospital!,” Kim screams in the clip, which PEOPLE is premiering exclusively — the Biermanns’ home security footage capturing Kash wrapped in his mother’s arms as she races through their house for the car.
+“Kroy, there’s a major problem!” she yells, later shouting in the hospital, “Somebody better take care of my son!”
+Kash BiermannSource: Kim Zolciak Biermann/Instagram
+It’s a tough scene, but just some of the drama coming for viewers this season.
+Daughters Brielle, 20, and Ariana, 15 have their own blow-ups — Brielle fighting with her father over wanting to move in with baseball player boyfriend Michael Kopech. “You now you Kroy is, he’s f—— crazy,” Brielle tells her 21-year-old beau. “I’m 20, they don’t control what I can do.”
+Kroy seems to think otherwise, telling Brielle, “You don’t need to be moving in with Michael. I’m done playing your game.”
+Ariana is in trouble too after being caught on security cameras sneaking out of the house. “We have to be able to trust you,” Kroy tells her as she tears up. “I don’t know how you’re going to earn that back.”
+If that weren’t enough, things get really tense when Brielle attempts to reconnect with Kim’s estranged parents, whom she hasn’t seen in six years. “I don’t like hating these people,” she says.
+kimzolciakbiermann/Instagram
+RELATED VIDEO: Andy Cohen’s Pick For The Most Absurd Real Housewives’ Business Ever
+
+There will be happy moments too, of course. Chef Tracey is still cooking up amusing antics while getting her house remodeled thanks to the Biermanns.
+And showing they’re forever in love, Kim and Kroy decide to renew their vows on a tropical vacation with the whole family, including KJ, 6, and twins Kaia and Kane, 3.
+“From laughter to tears, I can honestly say that I’ve loved you every step of the way,” Kroy says in his vows.
+Don’t Be Tardy…‘s double episode season 6 premiere airs Oct. 6 (8 p.m. ET) on Bravo.
+/n

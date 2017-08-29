@@ -1,0 +1,92 @@
+ Blasting Bullies & Feuding With Betty White! 'I Am Jazz' Star Jazz Jennings' Top 13.../n
+
+					var next_post_url = "http://radaronline.com/photos/orange-is-the-new-black-hottest-nude-scenes/";
+					var prev_post_url = "http://radaronline.com/photos/julia-roberts-bikini-body-beach-hawaii-marriage-woes-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-06-15T17:54:38+00:00","caption":"Jazz Jennings may seem like an average high school student, but she's friends with Oprah Winfrey and Jennifer Lawrence! The famous 15-year-old spills her secrets in her new memoir, Being Jazz.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:49+00:00","caption":"The public was so interested in the young Jazz, who has identified as trans since birth and began transitioning from male to female at just 5 years old, Barbara Walters and her 20\/20 news program repeatedly asked to speak with her for ten months. Jazz and her family sat down with the star journalist in a feature that aired in 2007, when she was 7.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:49+00:00","caption":"But Jazz's parents Greg and Jeanette insisted the Florida family retain their privacy, and invented fake names to use publicly. Jazz, who was born with the name Jaron, chose Jazz after Disney princess Jasmine, and her father chose Jennings in honor of late news reporter Peter Jennings.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:50+00:00","caption":"As a trans elementary school student, Jazz says she faced heartbreaking discrimination. She was kicked off her town's traveling soccer team by the sport's state association. Her parents approached the United States Soccer Federation, and she was eventually allowed to play on her old team again.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:51+00:00","caption":"She also wasn't allowed to use the girls' bathroom at school. Jazz refused to use the boys' room, since she did not identify as male, so she often was forced to wet her pants.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:52+00:00","caption":"In 6th grade, Jazz fell into a deep depression. \"I stopped talking to all my friends and would find myself banging my head repeatedly against walls, usually in the bathroom at school,\" she wrote. \"These new feelings scared me.\" She began undergoing hormone therapy, which helped lift her spirits.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:53+00:00","caption":"The following year, Jazz was honored at the GLAAD Media Awards, and finally met her idol, trans actress Laverne Cox. \"She was everything you'd imagine her to be \u2014 sweet, kind and funny,\" Jazz dished.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:54+00:00","caption":"She also met Bill and Chelsea Clinton, but the introduction was full of \"awkward silence,\" she recalled. And one legendary star almost squashed the opportunity to speak with the father\/daughter pair. \"We actually almost didn't end up getting to meet them because Betty White pushed ahead of us in the line of people waiting to say hi!\" she alleged.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:55+00:00","caption":"At the same event, Jazz befriended superstar Jennifer Lawrence. She \"told me she thought it was cool how my mom was supportive of me, and when we started talking about The Hunger Games, she told me she was nothing like Katniss Everdeen in real life,\" she wrote.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:56+00:00","caption":"Too much fun at camp! While attending the Trans-Health Conference in Philadelphia, Jazz made out with two girls during a game of spin the bottle.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:56+00:00","caption":"Now, Jazz stars in TLC reality show, I Am Jazz. But she's upfront about the fakery. \"Here's a fun little secret about reality TV: Anytime there's a scene that's happening over a meal, you're not supposed to actually eat!\" she spilled. \"The sound of the chewing gets picked up by all the microphones and ruins any conversations that are happening\u2026.We learned fast that whenever we needed to film a lunch or dinner scene, we'd need to really eat beforehand.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-13.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:57+00:00","caption":"Star struck! Though she initially shut down an interview with the media mogul, Jazz and her family agreed to speak with Oprah Winfrey for an OWN special. \"I've done thousands of interviews, but you're a special one,\" she claimed the icon told her. \"You did a great job.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:58+00:00","caption":"Then, in June 2015, Jazz met the biggest celebrity of all: President Barack Obama! She had to go to the bathroom so desperately during their brief introduction, she almost wet her pants!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-06-15T17:11:59+00:00","caption":"When she finishes school, Jazz says she would love to work in digital animation, or become a fantasy book author. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/06\/jazz-jennings-secrets-scandals-14.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Blasting Bullies & Feuding With Betty White! ‘I Am Jazz’ Star Jazz Jennings’ Top 13 Secrets & Scandals
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 14 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 14jazz-jennings-secrets-scandals-ppJazz Jennings may seem like an average high school student, but she's friends with Oprah Winfrey and Jennifer Lawrence! The famous 15-year-old spills her secrets in her new memoir, Being Jazz.Photo credit: TLC/ABC/Getty Images2 of 14jazz-jennings-secrets-scandals-12The public was so interested in the young Jazz, who has identified as trans since birth and began transitioning from male to female at just 5 years old, Barbara Walters and her 20/20 news program repeatedly asked to speak with her for ten months. Jazz and her family sat down with the star journalist in a feature that aired in 2007, when she was 7.Photo credit: ABC3 of 14The Ackerman Institute’s Gender & Family Project’s “A Night of a Thousand Genders”But Jazz's parents Greg and Jeanette insisted the Florida family retain their privacy, and invented fake names to use publicly. Jazz, who was born with the name Jaron, chose Jazz after Disney princess Jasmine, and her father chose Jennings in honor of late news reporter Peter Jennings.Photo credit: Getty Images4 of 14The 2015 ESPYS at Microsoft Theater – Red Carpet ArrivalsAs a trans elementary school student, Jazz says she faced heartbreaking discrimination. She was kicked off her town's traveling soccer team by the sport's state association. Her parents approached the United States Soccer Federation, and she was eventually allowed to play on her old team again.Photo credit: WENN 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 14jazz-jennings-secrets-scandals-11She also wasn't allowed to use the girls' bathroom at school. Jazz refused to use the boys' room, since she did not identify as male, so she often was forced to wet her pants.Photo credit: TLC6 of 14The 24th Annual GLAAD Media Awards – Los Angeles, CaliforniaIn 6th grade, Jazz fell into a deep depression. "I stopped talking to all my friends and would find myself banging my head repeatedly against walls, usually in the bathroom at school," she wrote. "These new feelings scared me." She began undergoing hormone therapy, which helped lift her spirits.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 14WE Day CaliforniaThe following year, Jazz was honored at the GLAAD Media Awards, and finally met her idol, trans actress Laverne Cox. "She was everything you'd imagine her to be — sweet, kind and funny," Jazz dished.Photo credit: Getty Images8 of 14Dinner and Show – 27th Annual GLAAD Media AwardsShe also met Bill and Chelsea Clinton, but the introduction was full of "awkward silence," she recalled. And one legendary star almost squashed the opportunity to speak with the father/daughter pair. "We actually almost didn't end up getting to meet them because Betty White pushed ahead of us in the line of people waiting to say hi!" she alleged.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 14Transgender teen and media personality, Jazz Jennings, leaves HuffPost Live in NYC with her mother Jeanette JenningsAt the same event, Jazz befriended superstar Jennifer Lawrence. She "told me she thought it was cool how my mom was supportive of me, and when we started talking about The Hunger Games, she told me she was nothing like Katniss Everdeen in real life," she wrote.Photo credit: Splash News10 of 14Transgender activist and media personality Jazz Jennings visits ‘The View’ in NYCToo much fun at camp! While attending the Trans-Health Conference in Philadelphia, Jazz made out with two girls during a game of spin the bottle.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 14jazz-jennings-secrets-scandals-13Now, Jazz stars in TLC reality show, I Am Jazz. But she's upfront about the fakery. "Here's a fun little secret about reality TV: Anytime there's a scene that's happening over a meal, you're not supposed to actually eat!" she spilled. "The sound of the chewing gets picked up by all the microphones and ruins any conversations that are happening….We learned fast that whenever we needed to film a lunch or dinner scene, we'd need to really eat beforehand."Photo credit: TLC12 of 14jazz-jennings-secrets-scandals-10Star struck! Though she initially shut down an interview with the media mogul, Jazz and her family agreed to speak with Oprah Winfrey for an OWN special. "I've done thousands of interviews, but you're a special one," she claimed the icon told her. "You did a great job."Photo credit: TLC 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 14jazz-jennings-secrets-scandals-09Then, in June 2015, Jazz met the biggest celebrity of all: President Barack Obama! She had to go to the bathroom so desperately during their brief introduction, she almost wet her pants!Photo credit: OWN14 of 14Jazz Jennings Book Signing For “Being Jazz: My Life As A (Transgender) Teen”When she finishes school, Jazz says she would love to work in digital animation, or become a fantasy book author. Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+jazz-jennings-secrets-scandals-ppJazz Jennings may seem like an average high school student, but she's friends with Oprah Winfrey and Jennifer Lawrence! The famous 15-year-old spills her secrets in her new memoir, Being Jazz.Photo credit: TLC/ABC/Getty Imagesjazz-jennings-secrets-scandals-12The public was so interested in the young Jazz, who has identified as trans since birth and began transitioning from male to female at just 5 years old, Barbara Walters and her 20/20 news program repeatedly asked to speak with her for ten months. Jazz and her family sat down with the star journalist in a feature that aired in 2007, when she was 7.Photo credit: ABCThe Ackerman Institute’s Gender & Family Project’s “A Night of a Thousand Genders”But Jazz's parents Greg and Jeanette insisted the Florida family retain their privacy, and invented fake names to use publicly. Jazz, who was born with the name Jaron, chose Jazz after Disney princess Jasmine, and her father chose Jennings in honor of late news reporter Peter Jennings.Photo credit: Getty ImagesThe 2015 ESPYS at Microsoft Theater – Red Carpet ArrivalsAs a trans elementary school student, Jazz says she faced heartbreaking discrimination. She was kicked off her town's traveling soccer team by the sport's state association. Her parents approached the United States Soccer Federation, and she was eventually allowed to play on her old team again.Photo credit: WENNjazz-jennings-secrets-scandals-11She also wasn't allowed to use the girls' bathroom at school. Jazz refused to use the boys' room, since she did not identify as male, so she often was forced to wet her pants.Photo credit: TLCThe 24th Annual GLAAD Media Awards – Los Angeles, CaliforniaIn 6th grade, Jazz fell into a deep depression. "I stopped talking to all my friends and would find myself banging my head repeatedly against walls, usually in the bathroom at school," she wrote. "These new feelings scared me." She began undergoing hormone therapy, which helped lift her spirits.Photo credit: Splash NewsWE Day CaliforniaThe following year, Jazz was honored at the GLAAD Media Awards, and finally met her idol, trans actress Laverne Cox. "She was everything you'd imagine her to be — sweet, kind and funny," Jazz dished.Photo credit: Getty ImagesDinner and Show – 27th Annual GLAAD Media AwardsShe also met Bill and Chelsea Clinton, but the introduction was full of "awkward silence," she recalled. And one legendary star almost squashed the opportunity to speak with the father/daughter pair. "We actually almost didn't end up getting to meet them because Betty White pushed ahead of us in the line of people waiting to say hi!" she alleged.Photo credit: Getty ImagesTransgender teen and media personality, Jazz Jennings, leaves HuffPost Live in NYC with her mother Jeanette JenningsAt the same event, Jazz befriended superstar Jennifer Lawrence. She "told me she thought it was cool how my mom was supportive of me, and when we started talking about The Hunger Games, she told me she was nothing like Katniss Everdeen in real life," she wrote.Photo credit: Splash NewsTransgender activist and media personality Jazz Jennings visits ‘The View’ in NYCToo much fun at camp! While attending the Trans-Health Conference in Philadelphia, Jazz made out with two girls during a game of spin the bottle.Photo credit: Splash Newsjazz-jennings-secrets-scandals-13Now, Jazz stars in TLC reality show, I Am Jazz. But she's upfront about the fakery. "Here's a fun little secret about reality TV: Anytime there's a scene that's happening over a meal, you're not supposed to actually eat!" she spilled. "The sound of the chewing gets picked up by all the microphones and ruins any conversations that are happening….We learned fast that whenever we needed to film a lunch or dinner scene, we'd need to really eat beforehand."Photo credit: TLCjazz-jennings-secrets-scandals-10Star struck! Though she initially shut down an interview with the media mogul, Jazz and her family agreed to speak with Oprah Winfrey for an OWN special. "I've done thousands of interviews, but you're a special one," she claimed the icon told her. "You did a great job."Photo credit: TLCjazz-jennings-secrets-scandals-09Then, in June 2015, Jazz met the biggest celebrity of all: President Barack Obama! She had to go to the bathroom so desperately during their brief introduction, she almost wet her pants!Photo credit: OWNJazz Jennings Book Signing For “Being Jazz: My Life As A (Transgender) Teen”When she finishes school, Jazz says she would love to work in digital animation, or become a fantasy book author. Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

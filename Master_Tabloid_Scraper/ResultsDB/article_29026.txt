@@ -1,0 +1,44 @@
+and baring her décolletage all in one fell swoop. This romantic number is certainly a change from her past glittering Zuhair Murad gowns or bombshell Lorena Sarbu designs—but who cares? Carrie's poised ensemble pretty much left everybod.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/713092/carrie-underwood-cuts-a-stylish-figure-in-plunging-coral-dress-at-the-2015-cma-awards-take-a-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015104/rs_634x1024-151104150126-634.Carrie-Underwood-CMA-Orange-Dress.jl.110415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carrie Underwood, 2015 CMA Awards, Red Carpet");
+	var imageCaption = encodeURIComponent("Carrie Underwood, 2015 CMA Awards, Red Carpet");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Shearer/WireImage
+
+For Carrie Underwood, we have three words: One hot mama!The new mother and co-host of the 2015 CMA Awards hit the red carpet this evening donning one of her usual stunning confections. But instead of a sparkling fishtail gown or an itty-bitty mini, the 32-year-old took the ultra-elegant route in a plunging, peplum dress by Gauri+Nainika. The coral-colored number perfectly hugged her figure, showcasing her toned physique and baring her décolletage all in one fell swoop.This romantic number is certainly a change from her past glittering Zuhair Murad gowns or bombshell Lorena Sarbu designs—but who cares? Carrie's poised ensemble pretty much left everybody speechless.
+
+Of course, don't expect this to be the only head-turning moment the "Storyteller" singer has tonight—last year, she managed a marathon 10 wardrobes changes, and she's already hinted that this year she may try for 12 different ensembles through her evening co-hosting the show with Brad Paisley.Bear in mind, the country music bombshell made her first post-baby red carpet debut back in June for the 2015 CMT Awards. And having just given birth nearly four months ago at the time, Carrie blew everyone away with her perfectly toned physique in a trim white Thomas Wylde bodycon with ample crystal embellishments.Seriously Carrie, this is just lovely—bravo!
+/n

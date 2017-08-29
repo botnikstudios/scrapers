@@ -1,0 +1,50 @@
+Inside Ben Affleck and Lindsay Shookus' Big Date in the Big Apple The summer of love continues... Jet-setting new couple Ben Affleck and Lindsay Shookus were all over New York City on Sunday. After doing some shopping during the day tim.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874707/ben-affleck-and-lindsay-shookus-big-date-in-the-big-apple');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017720/rs_634x1024-170820190226-634-ben-affleck-lindsay-shookus-dinner-new-york.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben Affleck, Lindsay Shookus");
+	var imageCaption = encodeURIComponent("Ben Affleck, Lindsay Shookus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID
+
+The summer of love continues...Jet-setting new couple Ben Affleck and Lindsay Shookus were all over New York City on Sunday. After doing some shopping during the day time, the 45-year-old Oscar winner and his new girlfriend were spotted exiting trendy eatery Mas (farmhouse) in Manhattan on Sunday night.According to the hotspot's website, "Mas (farmhouse) is a French-American restaurant located in the heart of New York City's Greenwich Village."For their date night, a scruffy Ben donned a blue sport coat, red t-shirt and corduroy pants. Lindsay opted for a chic black top, skinny jeans and nude wedges.
+
+
+
+NPEx / Splash News
+
+Earlier in the day, the pair was dressed down when they made a trip to upscale department store Barney's New York a source tells E! News and appeared to do some window shopping—looks like Lindsay had her eye on some jewelry!While out on the streets of NYC, Ben also stopped to sign autographs and take selfies with his legion of fans. The two then made their way back to Ben's hotel.For their daytime outing, the Saturday Night Live producer was outfitted in a striped shirt and jean cut-offs which showcased her slim pins, while Ben looked more casual, wearing the same fire engine red shirt, paired with a different blue jacket.
+
+While they've yet to make an official red carpet appearance since first going public on July 6, the pair are certainly not hiding their love from the world.A source previously told E! News that the two, who met years ago during one of Ben's stints on SNL, are taking their time. "It's a new relationship. They are taking things slow," an insider said. "Lindsay is very happy. She's at a good place in her life."Back in April of this year, Jennifer Garner and Ben filed for divorce nearly two years after they announced that they were separating following 10 years of marriage.According to court documents, the exes filed for joint legal and physical custody of their three children, Violet, Seraphina and Samuel.A source at the time told E! News that the two "were co-parenting" and that the "most important thing in all of this are their kids."Ben was in Los Angeles celebrating his 45th birthday with his three kids last week—so that seems to be true!
+A source previously told E! News that the two, who met years ago during one of Ben's stints on SNL, are taking their time. "It's a new relationship. They are taking things slow," an insider said. "Lindsay is very happy. She's at a good place in her life."Back in April of this year, Jennifer Garner and Ben filed for divorce nearly two years after they announced that they were separating following 10 years of marriage.According to court documents, the exes filed for joint legal and physical custody of their three children, Violet, Seraphina and Samuel.A source at the time told E! News that the two "were co-parenting" and that the "most important thing in all of this are their kids."Ben was in Los Angeles celebrating his 45th birthday with his three kids last week—so that seems to be true!/n

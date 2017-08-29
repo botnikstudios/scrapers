@@ -1,0 +1,44 @@
+Julianne Hough Looks Just Like Wilma Flintstone With Her Modern Take on Stone Age Attire We've revisited the '60s, the '70s and the '80s...but is the Stone Age back in fashion for 2014? Julianne Hough reminded us of our f.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/541104/julianne-hough-looks-just-like-wilma-flintstone-with-her-modern-take-on-stone-age-attire');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014412/rs_634x829-140512133403-634.hough.cm.51214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Julianne Hough, Wilma, Flintstones");
+	var imageCaption = encodeURIComponent("Julianne Hough, Wilma, Flintstones");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Angela Weiss/Getty Images, Hanna-Barbera Productions
+
+We've revisited the '60s, the '70s and the '80s...but is the Stone Age back in fashion for 2014?Julianne Hough reminded us of our favorite prehistoric cartoon character mom, Wilma Flintstone, at the Open Hearts Foundation Gala in Los Angeles as she walked the red carpet wearing an asymmetrical ivory-colored top, matching pencil skirt and stilettos. Her lack of accessories only emphasized the "bare" factor of this look. While we're all about understated elegance, this outfit lacked creativity and could have benefitted from a colorful clutch, chandelier earrings or a statement necklace (even Wilma was never to be seen with a bare neck and always rocked her signature white necklace!)
+
+The Safe Haven star's hair is what confused us the most, however. It looked like Julianne was trying to mimic 1940s pincurls but left the house in a hurry and forgot to remove the bobby pins entirely!If she could have at least taken a moment to let her hair down for some dramatic curls, that could have potentially saved her look and helped hide the fact that she didn't have any jewelry on.We can't help but wonder...what time period is Julianne's next outfit going to be inspired by? The Ice Age?
+/n

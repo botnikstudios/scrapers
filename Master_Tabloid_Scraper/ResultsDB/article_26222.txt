@@ -1,0 +1,42 @@
+spreading it to your town, provided you live in one of the following cities. Catch him at the Comedy Connection in Chicopee, Mass., on Dec. 30, then at the Wilbur Theater in Boston on Dec. 31. McHale brings the chuckles to the Murat Theater .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/72617/cutup-mchale-hits-the-road');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20081023/293.mchale.joel2.lc.102308.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joel McHale");
+	var imageCaption = encodeURIComponent("Joel McHale");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+E! Networks
+
+As the saying goes, laughter is contagious, which makes Joel McHale the Typhoid Mary of hilarity. Once again, tireless McHale is taking his disease on the road and spreading it to your town, provided you live in one of the following cities.Catch him at the Comedy Connection in Chicopee, Mass., on Dec. 30, then at the Wilbur Theater in Boston on Dec. 31. McHale brings the chuckles to the Murat Theater in Indianapolis on Jan. 16, and on Jan. 17, he'll be at the Fillmore in Detroit, and on Jan. 18, the Taft Theater in Cincinnati. Then our man rounds out the month with two shows in Miami at the Lincoln Theater during the South Beach Comedy Festival.
+/n

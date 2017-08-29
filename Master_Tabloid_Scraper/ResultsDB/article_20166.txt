@@ -1,0 +1,47 @@
+Nail Artist Madeline Poole Predicts New York Fashion Week's Hottest Polish Colors Yep, it's that time again—New York Fashion Week is here! And it's not just new clothing trends we're looking forward to seeing on the runwa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/573695/nail-artist-predicts-new-york-fashion-week-s-hottest-polish-colors');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014727/rs_634x790-140827101856-634.madeline-poole-nyfw.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Madeline Pool, NYFW");
+	var imageCaption = encodeURIComponent("Madeline Pool, NYFW");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Yep, it's that time again—New York Fashion Week is here! And it's not just new clothing trends we're looking forward to seeing on the runways; it's the hot new beauty looks. And for us, it's all about the manicures this year.We got all the scoop straight from Sally Hansen Global Color Ambassador Madeline Poole on this fall's hottest nail polish colors. So which fall colors should you be running out to buy? And what will the next big nail art trend be? Read on to find out!
+
+What has been the coolest part about being a Sally Hansen Global Color Ambassador? I've really enjoyed conceptualizing looks and environments for tutorials and videos. I love taking photographs and picking backdrops and I'm happy I'm able to have some creative input in these categories. I also love being on photo shoots that are all about the nails.What color do you think everyone will be wearing in the fall? Bell bottoms! Or do you mean nail color? I think for nails, navy, eggplant, hunter green. I like Complete Salon Manicure™ in Dark Huemoor, Pat On the Black, On Pines And Needles and Jungle Gem.What do you think the next big nail trend will be? I'm hoping for floral prints! I also really like the dirty pastels and grays. Miracle Gel™ has a great collection of Street Pastels.
+
+What is your personal go-to everyday nail color? My favorite colors to wear are sheers, bubblegum pink, red, navy blue, deep jewel tones and periwinkle. I like to wear something durable like Miracle Gel™ colors Pink Cadillaquer, Red Eye and Sugar Fix.Do you have any pointers for people who struggle to paint their own nails? I try to paint my nails when I really have the time, not when I'm in a rush to go somewhere, you need to be in an un-rushed state of mind to paint your nails well. I like to use Complete Salon Manicure™ because the brush is wider and easier to paint with your non-dominant hand. 
+
+How does someone at home make their at-home manicure last longer? I believe manicure longevity has more to do with application and prep than anything else. I like to buff the top of the nail and rub it with nail polish remover before starting the painting process. The full-proof product for a lasting manicure is anything from the Complete Salon Manicure™ line. The built-in base and top coat and thin application are key.  Miracle Gel™ is a great polish to use because it mimics the benefits of a gel manicure and has up to 14 days of color and shine.What is your feeling on the accent nail? Love it or leave it? Personally I don't love the ring finger accent nail, but I do like the concept of an accent finger. I just don't think it always needs to be on the ring finger, I like an accent pinkie nail or every other nail an accent. 
+/n

@@ -1,0 +1,46 @@
+Game of Thrones Star Peter Dinklage and Wife Erica Schmidt Expecting Second Child And another baby makes a family of four! Peter Dinklage and wife Erica Schmidt are expecting their second child. The couple walked the red carpet of The New Gr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/833339/game-of-thrones-star-peter-dinklage-and-wife-erica-schmidt-expecting-second-child');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201722/rs_634x1024-170302102211-634-peter-dinklage-Erica-Schmidt.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Peter Dinklage, Erica Schmidt");
+	var imageCaption = encodeURIComponent("Peter Dinklage, Erica Schmidt");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bruce Glikas/FilmMagic
+
+And another baby makes a family of four!Peter Dinklage and wife Erica Schmidt are expecting their second child. The couple walked the red carpet of The New Group's All the Fine Boys, an off-Broadway play Schmidt wrote and directed, in New York City Wednesday evening. Schmidt's growing baby bump stole the show as it made its debut in a flowing dress. Dinklage, 47, and Schmidt, 41, are already parents to their 5-year-old daughter, Zelig Dinklage, whom they welcomed in 2011.The cast of Schmidt's play, which includes Abigail Breslin, celebrated the couple's big news by cradling her bump as they posed for photos.E! News has reached out to Dinklage's rep for comment.
+
+The Game of Thrones star and Schmidt tied the knot in 2005. Shortly before welcoming Zelig into their lives, Dinklage won an Emmy Award for his portrayal of Tyrion Lannister in the mega-hit HBO series and gave his wife and mom-to-be an emotional shout out during his acceptance speech."I love you, Erica. You're amazing," said Dinklage from the stage.
+
+Congratulations to the growing family!Game of Thrones is set to return later this year.People was the first to report the news.
+/n

@@ -1,0 +1,48 @@
+Gisele Bündchen Jet-Sets With Baby Vivian Gisele Bündchen and baby Vivian are read for takeoff! The Brazilian supermodel was seen carrying her bundle of joy through Los Angeles International Airport on Tuesday. Gisele wore a black leather ja.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/411342/gisele-bundchen-jet-sets-with-baby-vivian');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013324/rs_293x473-130424100617-634.GiseleBundchen.mh.042413.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Gisele Bundchen");
+	var imageCaption = encodeURIComponent("Gisele Bundchen");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+TROV/AKM-GSI
+
+Gisele Bündchen and baby Vivian are read for takeoff!The Brazilian supermodel was seen carrying her bundle of joy through Los Angeles International Airport on Tuesday. Gisele wore a black leather jacket, dark skinny jeans, black wedge sneakers and a special personal carry-on: her adorable 4-month-old daughter.Viv's 32-year-old mama kept her securely and stylishly under wraps in a green Ergobaby carrier. 
+
+PHOTO: Gisele Bündchen's baby girl is adorable in animal ears
+
+While the beauty makes a living being photographed, she began snapping some of her own pics when she officially joined the Instagram community last week. Gisele christened her new social media page with some stunning selfies, tweeting "É sempre tão bom estar em casa. Obrigado por todo o amor e apoio, estou contando as horas para voltar," which translates in English to: "It is always so good to be home. Thank you for all the love and support. I can't wait to be back!"Neither can we. Safe travels, Gis and Viv!
+
+PHOTOS: See more celebs' airport style
+/n

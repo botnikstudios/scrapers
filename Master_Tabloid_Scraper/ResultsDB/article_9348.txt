@@ -1,0 +1,82 @@
+Benjamin McKenzie & Morena Baccarin Flaunt Their Happy Pregnancy/n
+
+					var next_post_url = "http://radaronline.com/photos/farrah-abraham-bikini-plastic-surgery-breast-implants-teen-mom-pics/";
+					var prev_post_url = "http://radaronline.com/photos/whos-the-hunk-bethenny-frankel-steps-out-with-mystery-man-in-nyc/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2015-11-12T11:09:53+00:00","caption":"These lovebirds didn't waste any time flaunting their relationship! After Morena Baccarin revealed she was pregnant with Gotham costar Benjamin McKenzie's baby&mdash;just weeks after her split from ex Austin Chick&mdash;the pair hit the red carpet to flaunt the actress' baby bump.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T11:09:53+00:00","caption":"These lovebirds didn't waste any time flaunting their relationship! After Morena Baccarin revealed she was pregnant with Gotham costar Benjamin McKenzie's baby&mdash;just weeks after her split from ex Austin Chick&mdash;the pair hit the red carpet to flaunt the actress' baby bump.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:21+00:00","caption":"Nothing to hide! ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:27+00:00","caption":"Gotham stars Benjamin McKenzie and Morena Baccarin hit the red carpet at the Sierra Club's Act In Paris on Wednesday, looking more in love than ever. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:23+00:00","caption":"As Radar previously reported, Baccarin revealed plans to marry her baby daddy once her divorce from ex Austin Chick was finalized. ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:24+00:00","caption":"According to recent legal documents concerning their split, the 36-year-old explicitly stated: \"Today, I am in a new committed relationship.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:26+00:00","caption":"\"I am planning to re-marry,\" she added. \"Also, I am 3 1\/2 months pregnant.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:29+00:00","caption":"Ouch! That's got to hurt. But Baccarin's estranged husband isn't going down without a fight. According to his court filings, 44-year-old Chick claims that the actress became pregnant while they were still \"working on their marriage.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:30+00:00","caption":"Chick also alleged that he discovered a \"freshly showered\" McKenzie playing with his son in the couple's home one morning.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-11-12T10:24:32+00:00","caption":"Tough luck for Austin Chick! The cookie may not crumble in his favor this time around.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/11\/benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpet-08.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Benjamin McKenzie & Morena Baccarin Flaunt Their Happy Pregnancy
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 10 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpetThese lovebirds didn't waste any time flaunting their relationship! After Morena Baccarin revealed she was pregnant with Gotham costar Benjamin McKenzie's baby—just weeks after her split from ex Austin Chick—the pair hit the red carpet to flaunt the actress' baby bump.2 of 10benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpetThese lovebirds didn't waste any time flaunting their relationship! After Morena Baccarin revealed she was pregnant with Gotham costar Benjamin McKenzie's baby—just weeks after her split from ex Austin Chick—the pair hit the red carpet to flaunt the actress' baby bump.3 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionNothing to hide! Photo credit: Getty Images4 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionGotham stars Benjamin McKenzie and Morena Baccarin hit the red carpet at the Sierra Club's Act In Paris on Wednesday, looking more in love than ever. Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionAs Radar previously reported, Baccarin revealed plans to marry her baby daddy once her divorce from ex Austin Chick was finalized. Photo credit: Getty Images6 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionAccording to recent legal documents concerning their split, the 36-year-old explicitly stated: "Today, I am in a new committed relationship."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate Action"I am planning to re-marry," she added. "Also, I am 3 1/2 months pregnant."Photo credit: Getty Images8 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionOuch! That's got to hurt. But Baccarin's estranged husband isn't going down without a fight. According to his court filings, 44-year-old Chick claims that the actress became pregnant while they were still "working on their marriage."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionChick also alleged that he discovered a "freshly showered" McKenzie playing with his son in the couple's home one morning.Photo credit: Getty Images10 of 10Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionTough luck for Austin Chick! The cookie may not crumble in his favor this time around.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpetThese lovebirds didn't waste any time flaunting their relationship! After Morena Baccarin revealed she was pregnant with Gotham costar Benjamin McKenzie's baby—just weeks after her split from ex Austin Chick—the pair hit the red carpet to flaunt the actress' baby bump.benjamin-mckenzie-morena-baccarin-dating-pregnant-red-carpetThese lovebirds didn't waste any time flaunting their relationship! After Morena Baccarin revealed she was pregnant with Gotham costar Benjamin McKenzie's baby—just weeks after her split from ex Austin Chick—the pair hit the red carpet to flaunt the actress' baby bump.Sierra Club’s Act In Paris, A Night Of Comedy And Climate ActionNothing to hide! Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate ActionGotham stars Benjamin McKenzie and Morena Baccarin hit the red carpet at the Sierra Club's Act In Paris on Wednesday, looking more in love than ever. Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate ActionAs Radar previously reported, Baccarin revealed plans to marry her baby daddy once her divorce from ex Austin Chick was finalized. Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate ActionAccording to recent legal documents concerning their split, the 36-year-old explicitly stated: "Today, I am in a new committed relationship."Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate Action"I am planning to re-marry," she added. "Also, I am 3 1/2 months pregnant."Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate ActionOuch! That's got to hurt. But Baccarin's estranged husband isn't going down without a fight. According to his court filings, 44-year-old Chick claims that the actress became pregnant while they were still "working on their marriage."Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate ActionChick also alleged that he discovered a "freshly showered" McKenzie playing with his son in the couple's home one morning.Photo credit: Getty ImagesSierra Club’s Act In Paris, A Night Of Comedy And Climate ActionTough luck for Austin Chick! The cookie may not crumble in his favor this time around.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

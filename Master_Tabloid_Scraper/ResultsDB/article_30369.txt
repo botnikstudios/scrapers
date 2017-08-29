@@ -1,0 +1,83 @@
+ Male Plastic Surgery Disasters! 10 Photos Of Bruce Jenner, Sylvester Stallone & More.../n
+Many of our aging male stars have resorted to going under the knife and have the scary scars to prove it. From Bruce Jenner to Sylvester Stallone and eight more, here is a gallery of Hollywood’s leading men and top plastic surgeons, who have not treated these faces, critiquing their changed faces.
+
+					var next_post_url = "http://radaronline.com/photos/kate-gosselin-boyfriend-bankruptcy-photos/";
+					var prev_post_url = "http://radaronline.com/photos/miley-cyrus-toluca-lake-home-for-sale-photos/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2015-01-21T04:09:10+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-PP.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:33+00:00","caption":"Sylvester Stallone: When Rocky said, \"Cut me, Mick!\" we never thought it'd come to this! Now 68, Sly's face is a mess, said Dr. James Marotta, who hasn&rsquo;t treated the actor, told The National ENQUIRER. \"The eyelid lift is overdone and his nose doesn't look better, it looks fatter!\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:34+00:00","caption":"Burt Reynolds: Now 78, the former box office stud tried to turn back the clock, and broke it instead. \"He's obviously had facelifts, but skin gets looser with age and his is as tight as drum,\" said Dr. David Shafer, who has not treated the actor.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-00.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:34+00:00","caption":"Clay Aiken: The 36-year-old American Idol runner-up's bid to upgrade his look hit a sour note. \"He looks like he's way overdone it on the Botox and filler,\" suggested Shafer, who has not treated Aiken. \"Not very subtle.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:35+00:00","caption":"Barry Manilow: The 71-year-old singer's skin looks like it's been molded with putty. \"He seems to have had multiple facelifts and fat transferred to his now dramatically pronounced cheeks,\" Dr. Ramtin Kassir, who has not treated Manilow, told The National ENQUIRER.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:35+00:00","caption":"Kenny Rogers: The Gambler, 76, bet on eye lifts and lost. \"I'm not happy about it,\" Kenny Roger&rsquo;s said. Dr. James Marotta, who did not treat Rogers, agreed: \"Too much fat was removed from his lids and left him with a strange, feminized look.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:36+00:00","caption":"Wayne Newton: While the Vegas lounge lizard, 72, has never copped to surgery, Wayne Newton&rsquo;s face looks as flexible as Formica. \"He's likely had facelift[s], eyelid surgery, Botox, fillers and skin resurfacing,\" claimed Shafer, who has not treated him, to The National ENQUIRER.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:36+00:00","caption":"Mickey Rourke: The Wrestler star, 69, looks like he took a beating on the operating table. \"He's likely had a facelift and eye surgery, but they were hardly enhancements,\" said Kassir, who hasn&rsquo;t treated Mickey Rourke.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:37+00:00","caption":"David Gest: Liza Minnelli's ex, David Gest, 61, reportedly regrets the work performed on his now ceramic skull in the '80s. \"The vast majority of people look better after surgery,\" said Shafer, although he has not treated Gest. \"That's not the case here.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:37+00:00","caption":"Jermaine Jackson: Jermaine, 60, carved out a string of hits to his increasingly unrecognizable face. \"His brows are higher, his nose is narrower and his features are different from his family's,\" Shafer surmised about the man, whom he has not treated.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-01-20T17:21:38+00:00","caption":"Bruce Jenner: Bruce Jenner&rsquo;s bizarre surgeries that are making him look more and more like a woman have turned into a living nightmare, inside sources have told The National ENQUIRER. &ldquo;A botched rhinoplasty can lead to facially disfiguring results,&rdquo; Dr. Kathy Rumer, a Philadelphia-based aesthetic and reconstructive plastic surgeon who has not treated Bruce said. &ldquo;You can have permanent redness of the nose and, if the undermining of the soft tissue is too severe, you can have skin death. There can also be functional problems that lead to difficulty in breathing.&rdquo;","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/01\/male-plastic-surgery-disasters-bruce-jenner-experts-07.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Male Plastic Surgery Disasters! 10 Photos Of Bruce Jenner, Sylvester Stallone & More Cosmetic Calamities!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 11 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 11male-plastic-surgery-disasters-bruce-jenner-experts-PPPhoto credit: S2 of 11Sylvester Stallone spotted leaving an Italian restaurant after having dinner with friends in Philadelphia, PASylvester Stallone: When Rocky said, "Cut me, Mick!" we never thought it'd come to this! Now 68, Sly's face is a mess, said Dr. James Marotta, who hasn’t treated the actor, told The National ENQUIRER. "The eyelid lift is overdone and his nose doesn't look better, it looks fatter!"Photo credit: S3 of 11Burt ReynoldsBurt Reynolds: Now 78, the former box office stud tried to turn back the clock, and broke it instead. "He's obviously had facelifts, but skin gets looser with age and his is as tight as drum," said Dr. David Shafer, who has not treated the actor.Photo credit: A4 of 11The Flawsome Ball For The Tyra Banks TZONE At The Lower Eastside Girls ClubClay Aiken: The 36-year-old American Idol runner-up's bid to upgrade his look hit a sour note. "He looks like he's way overdone it on the Botox and filler," suggested Shafer, who has not treated Aiken. "Not very subtle."Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 11EXCLUSIVE: Barry Manilow leaves Scott’s Restaurant in LondonBarry Manilow: The 71-year-old singer's skin looks like it's been molded with putty. "He seems to have had multiple facelifts and fat transferred to his now dramatically pronounced cheeks," Dr. Ramtin Kassir, who has not treated Manilow, told The National ENQUIRER.Photo credit: S6 of 11Kenny Rogers seen in concert in AtlantaKenny Rogers: The Gambler, 76, bet on eye lifts and lost. "I'm not happy about it," Kenny Roger’s said. Dr. James Marotta, who did not treat Rogers, agreed: "Too much fat was removed from his lids and left him with a strange, feminized look."Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 11Wayne NewtonWayne Newton: While the Vegas lounge lizard, 72, has never copped to surgery, Wayne Newton’s face looks as flexible as Formica. "He's likely had facelift[s], eyelid surgery, Botox, fillers and skin resurfacing," claimed Shafer, who has not treated him, to The National ENQUIRER.Photo credit: A8 of 11EXCLUSIVE: Mickey Rourke seen dipping tobacco instead of smokingMickey Rourke: The Wrestler star, 69, looks like he took a beating on the operating table. "He's likely had a facelift and eye surgery, but they were hardly enhancements," said Kassir, who hasn’t treated Mickey Rourke.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 11The Jacksons dinner partyDavid Gest: Liza Minnelli's ex, David Gest, 61, reportedly regrets the work performed on his now ceramic skull in the '80s. "The vast majority of people look better after surgery," said Shafer, although he has not treated Gest. "That's not the case here."Photo credit: S10 of 11INF – Jermaine Jackson and Wife Leave the Verizon StoreJermaine Jackson: Jermaine, 60, carved out a string of hits to his increasingly unrecognizable face. "His brows are higher, his nose is narrower and his features are different from his family's," Shafer surmised about the man, whom he has not treated.Photo credit: I 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 11Bruce Jenner seen with a band on his ring finger and his hair down while getting coffee from StarbucksBruce Jenner: Bruce Jenner’s bizarre surgeries that are making him look more and more like a woman have turned into a living nightmare, inside sources have told The National ENQUIRER. “A botched rhinoplasty can lead to facially disfiguring results,” Dr. Kathy Rumer, a Philadelphia-based aesthetic and reconstructive plastic surgeon who has not treated Bruce said. “You can have permanent redness of the nose and, if the undermining of the soft tissue is too severe, you can have skin death. There can also be functional problems that lead to difficulty in breathing.”Photo credit: S 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+male-plastic-surgery-disasters-bruce-jenner-experts-PPPhoto credit: SSylvester Stallone spotted leaving an Italian restaurant after having dinner with friends in Philadelphia, PASylvester Stallone: When Rocky said, "Cut me, Mick!" we never thought it'd come to this! Now 68, Sly's face is a mess, said Dr. James Marotta, who hasn’t treated the actor, told The National ENQUIRER. "The eyelid lift is overdone and his nose doesn't look better, it looks fatter!"Photo credit: SBurt ReynoldsBurt Reynolds: Now 78, the former box office stud tried to turn back the clock, and broke it instead. "He's obviously had facelifts, but skin gets looser with age and his is as tight as drum," said Dr. David Shafer, who has not treated the actor.Photo credit: AThe Flawsome Ball For The Tyra Banks TZONE At The Lower Eastside Girls ClubClay Aiken: The 36-year-old American Idol runner-up's bid to upgrade his look hit a sour note. "He looks like he's way overdone it on the Botox and filler," suggested Shafer, who has not treated Aiken. "Not very subtle."Photo credit: SEXCLUSIVE: Barry Manilow leaves Scott’s Restaurant in LondonBarry Manilow: The 71-year-old singer's skin looks like it's been molded with putty. "He seems to have had multiple facelifts and fat transferred to his now dramatically pronounced cheeks," Dr. Ramtin Kassir, who has not treated Manilow, told The National ENQUIRER.Photo credit: SKenny Rogers seen in concert in AtlantaKenny Rogers: The Gambler, 76, bet on eye lifts and lost. "I'm not happy about it," Kenny Roger’s said. Dr. James Marotta, who did not treat Rogers, agreed: "Too much fat was removed from his lids and left him with a strange, feminized look."Photo credit: SWayne NewtonWayne Newton: While the Vegas lounge lizard, 72, has never copped to surgery, Wayne Newton’s face looks as flexible as Formica. "He's likely had facelift[s], eyelid surgery, Botox, fillers and skin resurfacing," claimed Shafer, who has not treated him, to The National ENQUIRER.Photo credit: AEXCLUSIVE: Mickey Rourke seen dipping tobacco instead of smokingMickey Rourke: The Wrestler star, 69, looks like he took a beating on the operating table. "He's likely had a facelift and eye surgery, but they were hardly enhancements," said Kassir, who hasn’t treated Mickey Rourke.Photo credit: SThe Jacksons dinner partyDavid Gest: Liza Minnelli's ex, David Gest, 61, reportedly regrets the work performed on his now ceramic skull in the '80s. "The vast majority of people look better after surgery," said Shafer, although he has not treated Gest. "That's not the case here."Photo credit: SINF – Jermaine Jackson and Wife Leave the Verizon StoreJermaine Jackson: Jermaine, 60, carved out a string of hits to his increasingly unrecognizable face. "His brows are higher, his nose is narrower and his features are different from his family's," Shafer surmised about the man, whom he has not treated.Photo credit: IBruce Jenner seen with a band on his ring finger and his hair down while getting coffee from StarbucksBruce Jenner: Bruce Jenner’s bizarre surgeries that are making him look more and more like a woman have turned into a living nightmare, inside sources have told The National ENQUIRER. “A botched rhinoplasty can lead to facially disfiguring results,” Dr. Kathy Rumer, a Philadelphia-based aesthetic and reconstructive plastic surgeon who has not treated Bruce said. “You can have permanent redness of the nose and, if the undermining of the soft tissue is too severe, you can have skin death. There can also be functional problems that lead to difficulty in breathing.”Photo credit: S 
+
+
+
+
+
+
+
+
+
+/n

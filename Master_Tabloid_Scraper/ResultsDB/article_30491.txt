@@ -1,0 +1,46 @@
+EXCLUSIVE! Joan Rivers' Legacy Lives on While Starring in Posthumous PETA Campaign Over the years, Joan lobbied alongside PETA (People for the Ethical Treatment of Animals) to increase licensing fees for unneutered animals and protect d.../n
+Joan Riversis gone, though never forgotten. The red carpet icon, comedienne and member of the E! family stars in PETA's latest ad campaign advocating for animal adoption, a cause near and dear to the late star's heart. Joan's daughter Melissa Rivers supplied the photo of Joan and a precious pooch to the world-famous animal rights organization, which shared exclusively with E! News."A study says owning a dog makes you 10 years younger," Joan's signature quip reads. "My first thought was to adopt two more, but I don't want to go through menopause again."Rivers long credited her dog Spike for helping her through her husband's suicide in 1987. She told People in 2010, "I love rescues and runts. It's always the one that gets pushed aside that needs the love and will love you back that much more."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/858805/joan-rivers-legacy-lives-on-while-starring-in-posthumous-peta-campaign');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201752/rs_791x1024-170602182608-634.Joan-Rivers-PETA.kg.060217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joan Rivers, PETA");
+	var imageCaption = encodeURIComponent("Joan Rivers, PETA");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of PETA
+
+Over the years, Joan lobbied alongside PETA (People for the Ethical Treatment of Animals) to increase licensing fees for unneutered animals and protect dogs from being chained outside for long periods of the day. She also supported PETA's vegan Passover-related cause in 2014. She treated her own furry friends like her children, once explaining, "I fly through the night so I can be there for them in the morning. My dogs must sleep with me or I'll get hurt. The best part about dogs at this age is you can blame your farts on them. So if it's a noisy fart you can go 'Oh Max! Naughty boy.'"Joan tragically passed away at the age of 81 in 2014 after undergoing a throat procedure at a New York City clinic. In 2016, Melissa reached a settlement with the endoscopy clinic over a malpractice lawsuit she filed one year prior.
+
+For more information, please visit PETA.org.
+/n

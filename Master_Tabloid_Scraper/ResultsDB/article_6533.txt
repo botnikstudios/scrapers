@@ -1,0 +1,46 @@
+EXCLUSIVE! Emily Blunt Says She Had a ''Nerdgasm'' First Time She Put on Mary Poppins Returns Costume During the event, Blunt, who has two daughters with funnyman John Krasinski, added that she wanted to pay tribute to th.../n
+What does Emily Blunt think about her costume for Mary Poppins Returns? That it's practically perfect in every way!While attending Disney's D23 Legends event over the weekend, the Brit, who is suiting up to take on the role of the iconic nanny, dished to E! News about having a pretty intense reaction the first time she put on the fashionable ensemble, which consists of a tailored blue coat and jaunty red hat.The look was designed by famed costume designer Sandy Powell, known for her work on Gangs of New York, The Aviator, The Wolf of Wall Street and Mary Poppins Returns."I think I did have a nerdgasm when I put on the costume," confessed the actress. "Sandy Powell designed the costumes, which are stunning."The 34-year-old added, "I love that Mary Poppins is vain and stylish and into herself...so it was enjoyable to sashay around in Sandy Powell's creations."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867446/emily-blunt-says-she-had-a-nerdgasm-first-time-she-put-on-mary-poppins-returns-costume');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017615/rs_634x791-170715134307-634-emily-blunt-mary-poppins-returns-071517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Blunt, Mary Poppins Returns");
+	var imageCaption = encodeURIComponent("Emily Blunt, Mary Poppins Returns");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Walt Disney Pictures
+
+During the event, Blunt, who has two daughters with funnyman John Krasinski, added that she wanted to pay tribute to the original classic, but make sure that the role was her own."I needed to try to pay homage to Julie Andrews but carve out a new space for myself. And we were very loyal to the books," said Blunt.During the Disney expo, the film's director Rob Marshall said The Devil Wears Prada actress is "stunning" and was "born to play this part." Streep said that Mary Poppins Returns was a "gift to the world."Meanwhile, Van Dyke said being on the set felt the same as it did in the '60s—the "highest level of joy."The movie is set 25 years after the original film, which came out in 1964, and catches up with the magical nanny in Depression-era London.In March, the first image of Blunt in costume was released.
+
+Mary Poppins Returns also stars Meryl Streep as Mary's cousin Topsy, Angela Lansbury as a balloon lady and original cast member Dick Van Dyke plays a banker. The Newsroom's Emily Mortimer takes on the role of an adult Jane Banks. Hamilton's Lin-Manuel Miranda plays chimney sweep Jack.Mary Poppins Returns is slated for release on Christmas Day 2018.
+/n

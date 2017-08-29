@@ -1,0 +1,81 @@
+Katie Holmes And Suri Cruise Go For A Stroll In New York  - See The Pics/n
+
+					var next_post_url = "http://radaronline.com/photos/jerry-lewis-dead-secrets-and-scandals/";
+					var prev_post_url = "http://radaronline.com/photos/smiling-jennifer-garner-takes-daughter-seraphina-to-the-doctor/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-20T16:08:32+00:00","caption":"Katie Holmes and her daughter Suri Cruise went on a fun summer stroll in New York. Suri has not been seen with her famous father Tom Cruise in a long time and RadarOnline.com has all the details \u2013 Click through the images.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:34:56+00:00","caption":"Katie and Suri, 11, looked in good spirits as they went for a walk in the Big Apple.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-08MEGA69812_007.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:34:57+00:00","caption":"The actress dressed in denim overalls and a yellow top for her stroll \u2013 wearing sandals with her hair up and a little make-up.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-01MEGA69812_008.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:34:58+00:00","caption":"Suri wore a pink dress and flip-flops while carrying an umbrella in case of a summer rain shower.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-02MEGA69812_009.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:34:59+00:00","caption":"Her famous father was recently injured on a film set and has been recovering after a stunt went wrong but he is seldom photographed with Suri these days.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-03MEGA69812_006.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:35:00+00:00","caption":"The 38-year-old former Dawson's Creek star is now dating Jamie Foxx, 49, with the couple's relationship is reportedly going well.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-04MEGA69812_001.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:35:01+00:00","caption":"Cruise, 54, and Holmes were married for six years between 2006 and 2012 before their union ended amid reports she could not handle his Scientology beliefs.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-05MEGA69812_003.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-20T15:35:02+00:00","caption":"RadarOnline.com reported how Holmes was upset that Cruise had offered their daughter a movie role despite rarely seeing her.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/katie-holmes-and-suri-cruise-go-for-a-stroll-in-new-york-06MEGA69812_004.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Katie Holmes And Suri Cruise Go For A Stroll In New York  – See The Pics
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Katie Holmes and her daughter Suri Cruise went on a fun summer stroll in New York. Suri has not been seen with her famous father Tom Cruise in a long time and RadarOnline.com has all the details – Click through the images.Photo credit: MEGA2 of 8Katie and Suri, 11, looked in good spirits as they went for a walk in the Big Apple.Photo credit: MEGA3 of 8The actress dressed in denim overalls and a yellow top for her stroll – wearing sandals with her hair up and a little make-up.Photo credit: MEGA4 of 8Suri wore a pink dress and flip-flops while carrying an umbrella in case of a summer rain shower. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8Her famous father was recently injured on a film set and has been recovering after a stunt went wrong but he is seldom photographed with Suri these days.Photo credit: MEGA6 of 8The 38-year-old former Dawson's Creek star is now dating Jamie Foxx, 49, with the couple's relationship is reportedly going well.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8Cruise, 54, and Holmes were married for six years between 2006 and 2012 before their union ended amid reports she could not handle his Scientology beliefs.Photo credit: MEGA8 of 8RadarOnline.com reported how Holmes was upset that Cruise had offered their daughter a movie role despite rarely seeing her.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Katie Holmes and her daughter Suri Cruise went on a fun summer stroll in New York. Suri has not been seen with her famous father Tom Cruise in a long time and RadarOnline.com has all the details – Click through the images.Photo credit: MEGAKatie and Suri, 11, looked in good spirits as they went for a walk in the Big Apple.Photo credit: MEGAThe actress dressed in denim overalls and a yellow top for her stroll – wearing sandals with her hair up and a little make-up.Photo credit: MEGASuri wore a pink dress and flip-flops while carrying an umbrella in case of a summer rain shower.Her famous father was recently injured on a film set and has been recovering after a stunt went wrong but he is seldom photographed with Suri these days.Photo credit: MEGAThe 38-year-old former Dawson's Creek star is now dating Jamie Foxx, 49, with the couple's relationship is reportedly going well.Photo credit: MEGACruise, 54, and Holmes were married for six years between 2006 and 2012 before their union ended amid reports she could not handle his Scientology beliefs.Photo credit: MEGARadarOnline.com reported how Holmes was upset that Cruise had offered their daughter a movie role despite rarely seeing her.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: MEGA 
+
+
+
+
+
+
+
+
+
+/n

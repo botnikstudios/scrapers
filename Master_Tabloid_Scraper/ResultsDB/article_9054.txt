@@ -1,0 +1,50 @@
+Jesse James on Sandra Bullock: Cheating Is a "Part of Life" The public largely sided with Sandra, which forced Jesse to do some soul-searching. "You learn what's important—that that whole fame thing is not really...It.../n
+Jesse James doesn't miss being married to Sandra Bullock.Seven years after multiple women came forward to share their stories of their affairs with Jesse, the West Coast Choppers owner—who describes himself as a "glorified welder"—is looking back at his five-year marriage to the Oscar-winning actress, which ended in early 2010."Yeah, I did cheat on my wife," Jesse, 47, tells The Daily Mail. "Yeah, I stood up and took accountability for it and apologized. And that's end of story. Everything else was just…The easy [potshot] is like, 'Oh, well you cheated on Sandra Bullock.' That's the world's easiest comeback.""In general, both women and men cheat," Jesse adds. "It's part of life."
+
+Jesse felt vilified after Michelle "Bombshell" McGee and other discussed his indiscretions in the tabloids. "It's like people love to see you fall. And the farther you get, the higher you get, the more they love it. I look at myself now and I look at how I was feeling then, and I think I was completely overreacting as far as letting it really get to me. I think it was having 50 or 60 or paparazzi outside my house for five or six months," Jesse says. "That was not a good feeling.""I'm a fighter, man; I come from the tradition of if you do something I don't like, I'm going to punch you. There's no lawsuits—nothing. We're just going to fight it out," the former Monster Garage host adds. "It's hard for me to bite my cheeks and not say anything and just look down."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/835996/jesse-james-on-sandra-bullock-cheating-is-a-part-of-life');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013728/rs_634x1024-130828121556-634.jesse-james-sandra-bullock.ls.82813.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jesse James, Sandra Bullock");
+	var imageCaption = encodeURIComponent("Jesse James, Sandra Bullock");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeffrey Mayer/Getty Images
+
+The public largely sided with Sandra, which forced Jesse to do some soul-searching. "You learn what's important—that that whole fame thing is not really...It's meaningless when your quality of life goes to zero," he says. Jesse "always felt more relaxed" in Dripping Springs, Texas, where he currently lives, so he "opened a shop, started doing projects" and eventually found "more and more" work. "Finally, in 2010, I was like, 'I'm out of here.' I got sick of L.A. I went through a bunch of B.S. I thought, 'It's time to go.' Get a better life for my kids, you know? A lot of good happened out of [the split]...It helped me focus on being a dad more. It helped me focus on doing the right thing and being myself...getting out of L.A. and getting a better life for my kids."
+
+In 2013, Jesse married his fourth wife drag racer Alexis DeJoria, 39."It's just a different deal this time, and it just happened," Jesse says of marrying Alexis. "I was like, 'I'm just going to be that old dude who's single now and never find anybody else,' and then it's like, 'There she is.' We like the same stuff, the same music, the same everything. We like all these things. It makes me look back at other relationships and be like, 'I was an idiot! What was I thinking? That was never going to work.' But I guess that's how you learn, you know?"
+
+Jesse says his 11-year marriage to Karla James "doesn't count," as he was 10 years her junior when they tied the knot in 1991. "I was 20 when I got with her and she was 30. Isn't that kind of bad?" he asks The Daily Mail. "Like, my daughter's 22 right now, and I imagine if some 30-year-old dude came round, I'd be like, 'No, no, no.' That was kind of scandalous. No ill will [towards Karla], but by the time I was 30 and she was 40, we had nothing—nothing—in common."
+/n

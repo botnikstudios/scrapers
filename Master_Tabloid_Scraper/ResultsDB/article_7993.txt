@@ -1,0 +1,138 @@
+Twins on the Way for Million Dollar Listing New York's Fredrik Eklund: See the Emotional Moment He Found Out
+/n
+
+Fredrik Eklund is feeling like a million bucks!
+On the season finale of Million Dollar Listing New York, Eklund and husband Derek Kaplan revealed that they are expecting twin babies via surrogate this fall.
+“It’s the biggest thing that could ever happen to us,” Eklund, 40, tells PEOPLE exclusively. “It’s a boy and a girl, and it’s just beyond.”
+
+
+
+
+
+ We've been blessed two times over – we're six months pregnant with twins, a boy and a girl! It was important for us to take the time to keep the news for ourselves, but now we are ready to celebrate all the love. We thank you for supporting us in this journey and your well wishes…. We are finally going to be dads! Finally! #grateful 👨‍👨‍👧‍👦
+A post shared by Fredrik Eklund (@fredrikeklundny) on Aug 10, 2017 at 7:15pm PDT
+
+
+“We’ve been blessed two times over – we’re six months pregnant with twins, a boy and a girl! It was important for us to take the time to keep the news for ourselves, but now we are ready to celebrate all the love,” they posted on Instagram late Thursday. “We thank you for supporting us in this journey and your well wishes…. We are finally going to be dads! Finally! #grateful 👨‍👨‍👧‍👦”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-bc2fa712e428c65e33856092cb6d6320-59a50a6ea37fe');
+				var iframe = document.getElementById('wpcom-iframe-bc2fa712e428c65e33856092cb6d6320-59a50a6ea37fe');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-bc2fa712e428c65e33856092cb6d6320-59a50a6ea37fe'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Want all the latest pregnancy and birth announcements, plus celebrity mom blogs? Click here to get those and more in the PEOPLE Babies newsletter.
+
+
+
+
+
+ I believe.
+A post shared by Fredrik Eklund (@fredrikeklundny) on Jul 20, 2017 at 7:00pm PDT
+
+
+The couple learned the good news in April while celebrating Eklund’s 40th birthday in Paris. “That was probably the biggest moment of my life,” he says. “I felt like it was meant to be, which is hard for me to say because it’s been so difficult.”
+After their surrogate suffered multiple miscarriages, Eklund began feeling discouraged about the in vitro fertilization process. “It felt like every time I went onto Facebook or Instagram, all that I could see were these smiling babies on my feed,” he says. “I was reminded constantly that there was this gap between me and where I wanted to be.”
+
+
+
+
+
+ Best week of my life. 🙏
+A post shared by Fredrik Eklund (@fredrikeklundny) on Apr 29, 2017 at 6:40am PDT
+
+
+
+
+
+
+
+ Happy 4th of July ❤️🇺🇸
+A post shared by Fredrik Eklund (@fredrikeklundny) on Jul 3, 2017 at 2:08pm PDT
+
+
+RELATED: Fredrik Eklund Reveals Miscarriage: “We’ve Had a Failed Pregnancy”
+Although he says he “did regret sharing so much,” on the show during the last pregnancy, Eklund found inspiration from those who reached out because of it. “A lot of people were sharing their experiences, and they just said, ‘You’ve got to continue. Do not give up. It is going to happen,’ ” he says.
+The Sweden-born, New York-based star also attributes his ability to persist through their struggles to his husband. “Derek was the best,” he says. “He’s much more calm than I am.”
+Kaplan is already a dad to son Kai; about eight years ago, he donated his sperm to a couple he met in London, where the 7-year-old now lives full-time with his moms.
+
+
+
+
+
+ Mini Derek 😍
+A post shared by Fredrik Eklund (@fredrikeklundny) on Jul 19, 2017 at 4:49pm PDT
+
+
+FROM PEN: Property Brother Drew Scott Gives The Details On His Wedding Proposal
+
+RELATED: Million Dollar Listing New York’s Fredrik Eklund Just Dropped a Single and You’ll Be Singing It All Summer
+Kaplan and Eklund visit Kai often, and are looking forward to sharing this journey with him. “He’s very excited,” Eklund says of the little boy.
+It’s been a difficult road, but the luxury real estate broker says he is now ready to move forward and focus on preparing for two new family members. “I feel so much gratitude that this is happening. I feel so much love for them.”
+Million Dollar Listing New York airs Thursdays at 9 p.m. EST/8 p.m. CST on Bravo.
+/n

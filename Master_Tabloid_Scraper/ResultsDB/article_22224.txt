@@ -1,0 +1,90 @@
+Little Big Town’s Kimberly Schlapman Welcomes Daughter Dolly Grace/n
+Little Big Town just got a little bigger!
+The country group’s member Kimberly Schlapman and husband Stephen have welcomed their second child, daughter Dolly Grace, a rep for Little Big Town confirms to PEOPLE.
+“Kimberly and Steve were able to welcome home a baby girl in this new year with a successful domestic adoption,” the rep tells PEOPLE. “Their daughter Daisy Pearl asked Santa for a baby for Christmas.”
+“The New Year brought our family new love. We’re so excited to introduce you to Daisy’s little sister, Dolly Grace,” Schlapman, 47, wrote on Facebook next to a photo of the family of four, including the proud big sister, 9.
+Want all the latest pregnancy and birth announcements, plus celebrity mom blogs? Click here to get those and more in the PEOPLE Babies newsletter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-f5adb2f89417725ddf62683b7aba2129-59a55ea6bccee');
+				var iframe = document.getElementById('wpcom-iframe-f5adb2f89417725ddf62683b7aba2129-59a55ea6bccee');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-f5adb2f89417725ddf62683b7aba2129-59a55ea6bccee'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The band took to Instagram to congratulate the family on their new addition, as well.
+“Little Big Town just got a little bit bigger. Introducing baby Dolly. We love you angel,” read the caption next to the same photo posted by Schlapman on the band’s Instagram post.
+“Dolly Grace, you don’t even know how much you are already loved,” Schlapman’s bandmate Karen Fairchild captioned her own post.
+RELATED VIDEO: The Yummy Way Country Star Kimberly Schlapman is Giving Back This Holiday Season
+
+The Schlapmans recently celebrated their 10th wedding anniversary — and her Little Big Town support is no surprise, considering how close the band has grown in the 18 years since their inception.
+“We’ve lived so much together that we really are family and always will be,” Schlapman told PEOPLE in 2015.
+Aside from her musical talents, Schlapman is known for her kitchen skills and hosts Kimberly’s Simply Southern on the Cooking Channel. Her Oh Gussie! kitchenware line is available at Cracker Barrel.
+
+With reporting by SARAH MICHAUD
+
+/n

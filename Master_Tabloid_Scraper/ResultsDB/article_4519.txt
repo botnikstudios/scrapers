@@ -1,0 +1,162 @@
+Nude Selfies and Regrettable Tattoos? Amy Schumer and Goldie Hawn Play a Revealing Game of Never Have I Ever
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-11a9fb48acc4b2d56a6e0825a26bb9fd-59a4f6465aded');
+				var iframe = document.getElementById('wpcom-iframe-11a9fb48acc4b2d56a6e0825a26bb9fd-59a4f6465aded');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-11a9fb48acc4b2d56a6e0825a26bb9fd-59a4f6465aded'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Nude selfies and regrettable tattoos? Check.
+Amy Schumer and Goldie Hawn stopped by The Ellen DeGeneres Show on Thursday, where they played a revealing game of never have I ever — and they didn’t hold back.
+“Never have I ever taken a nude selfie,” prompted host Ellen DeGeneres.
+And while Schumer quickly copped to taking a racy photo, Hawn wasn’t sure if her photo counted.
+“Wait a minute, Kurt [Russell] took it,” she explained. “I was being funny. It wasn’t like that sexy, weird picture. I was pretending I was a strong man.”
+When asked about any regretful tattoos, Schumer not only turned her paddle to “I have” but she also placed it on her lower back. “I should put it where it is,” she said.
+So who got caught by the police having sex?
+“I swear to god this sounds terrible but that was Kurt too,” said Hawn laughing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-93893509f0870026f487e19da001bb8f-59a4f6465afef');
+				var iframe = document.getElementById('wpcom-iframe-93893509f0870026f487e19da001bb8f-59a4f6465afef');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-93893509f0870026f487e19da001bb8f-59a4f6465afef'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+And Russell proved to be a regular source of trouble for Hawn. Later in the interview, Schumer recalled meeting the Guardians of the Galaxy Vol. 2 actor for the first — and second — time.
+“So Kurt opens the door, and it’s the most beautiful place I’ve ever seen. He says, ‘Amy, it is so meaningful to meet you. I love Goldie so much and you’re so important to her,’ ” she says of going to the couple’s home for dinner. “I’m looking at him just thinking, ‘We sat next to each other through the whole Golden Globes. Umm…’ I mean, just the warmest greeting! And again, today I posted a video of us all over drinking and dancing — and what did he ask you?”
+RELATED VIDEO: Say What?! You Won’t Believe What Amy Schumer Said She’d Do to Have Goldie Hawn as Her Movie Mama!
+
+
+“I showed it to him earlier this morning, and he said, ‘Where was that?'” Hawn interjected. “I said, ‘That was our house, honey. Should I be scared?’ He lives in the moment, you know? That’s what I love about Kurt. And then he forgets about it a moment later.”
+
+/n

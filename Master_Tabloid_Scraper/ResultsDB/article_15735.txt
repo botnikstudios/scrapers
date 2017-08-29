@@ -1,0 +1,44 @@
+Bruce Willis and Emma Heming Welcome Daughter Evelyn Penn—All the Details! Bruce Willis is still man of the house! The actor and his wife, Emma Heming, welcomed daughter Evelyn Penn in L.A. Monday, E! News confirms. The newborn weighed 8 lbs.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/539465/bruce-willis-and-emma-heming-welcome-daughter-evelyn-penn-all-the-details');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090911/293.willis.hemming.lr.091109.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Bruce Willis, Emma Hemming");
+	var imageCaption = encodeURIComponent("Bruce Willis, Emma Hemming");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Eric Weiss 
+
+Bruce Willis is still man of the house!The actor and his wife, Emma Heming, welcomed daughter Evelyn Penn in L.A. Monday, E! News confirms. The newborn weighed 8 lbs., 10oz. "Both mother and baby are healthy and doing beautifully," a rep for the couple says. Willis, 59, and Hemming, 35, got married in 2009. They have another daughter, Mabel Ray. Per the rep, the 2-year-old "is delighted to have a new baby sister."Heming's pregnancy was first reported in December 2013. Willis has three more daughters—Rumer Willis, 25, Scout Willis, 22, and Tallulah Willis, 20—with his ex-wife, actress Demi Moore, 51.How does the Die Hard star feel about being surrounded by so many women? "It's all good. I haven't found a time yet that's bad," he said in the summer of 2013. "I get to learn a lot more about women than most men do—because it's just me and 20 women around me."
+
+Congratulations to the happy family!
+/n

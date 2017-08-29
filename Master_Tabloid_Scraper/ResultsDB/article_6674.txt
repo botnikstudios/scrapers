@@ -1,0 +1,48 @@
+tumultuous relationship and a few affairs, they officially broke things off in 2006.  AP Photo/Mark J. Terrill Jim Carrey & Renee Zellweger in Me, Myself & Irene You probably forgot that these two were engaged for a brief period.../n
+Talk about a pizza party to dig in to!In true millennial form, Riverdale's sexy stars Camila Mendes, KJ Apa and Charles Melton had one fun-filled Saturday, hanging out, chowing down on some pizza pie and taking Instagram pics. Mendes, who plays New York City transplant Veronica Lodge on the hit show based on the Archie comics, took to her Insta to post a pic of the goofy trio getting rowdy together. In the image posted, Mendes rocks a sleeveless shirt and jeans, and holds a strategically placed piece of pizza atop her nether regions, while she's flanked by her shirtless co-stars.Along with the silly snap, the actress wrote, "Domino's Resort 2017 Collection."Did the 23-year-old just inadvertently invent the pizza bikini?
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870209/riverdale-stars-kj-apa-and-camila-mendes-just-had-the-sexiest-pizza-party-of-all-time');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017630/rs_816x1024-170730135408-634.KJ-Apa-Instagram.kg.073017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Camila Mendes, Charles Menton, KJ Apa, Instagram");
+	var imageCaption = encodeURIComponent("Camila Mendes, Charles Menton, KJ Apa, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+On the show, Apa plays Archie, the hunky lead caught between Veronica and Betty (played by Lili Reinhart).If Charles Melton doesn't look familiar to you, that's because he shouldn't...yet.In season two of The CW show, Melton will be taking over the role of football star Reggie Mantle, which was played by 13 Reasons Why star Ross Butler in season one.In May, E! News reported that the actor was unable to come back to Riverdale due to his commitment to the second season of 13 Reasons Why.
+
+Earlier in the week, E! News set the Internet on fire when we reported that Riverdale co-stars and on-screen flames Reinhart and Cole Sprouse, who plays Jughead, were dating in real life.Multiple eyewitnesses confirmed that the actors "could not keep their hands off of one another" during 2017 Comic-Con weekend. While it's unknown how serious their relationship is, they "were very open with their PDA at parties during the event, and close friends did not seem surprised."And check them out and other co-stars who became couples...
+
+The CW's Riverdale returns Oct. 11.
+/n

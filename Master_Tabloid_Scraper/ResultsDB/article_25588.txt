@@ -1,0 +1,98 @@
+Game of Thrones: Nathalie Emmanuel on that 'vulnerable' nude scene
+/n
+This story contains spoilers about episode 2 of Game of Thrones‘ seventh season, “Stormborn”
+Two Game of Thrones characters consummated their long-simmering romantic interest in the second episode of season 7, “Stormborn.” Dany’s savvy advisor Missandei (Nathalie Emmanuel) and the stoic commander of her Unsullied army Grey Worm (Jacob Anderson) broke their duty-focused restraint to share a single blissful night together. Grey Worm is being dispatched to seize the Lannister stronghold of Casterly Rock, a mission that could easily lead to his death.
+“We’ve seen them show their interest in each other, we’ve seen them in a round about way express it for each other, but not really say it,” Emmanuel tells EW. “This point is the climax and they physically act upon it.”
+Faced with the prospect of never seeing each other again, Grey Worm took the initiative, overcoming his reluctance to engage in physical intimacy given that he’s a eunuch.
+“There’s something unique about it purely because of Grey Worm’s situation — his brutal history of being mutilated — there’s a real sense of trust here and that really plays out in this lovely scene where they physically act upon their love,” Emmanuel says. “For him to do that is a really big deal and Missandei knows that and doesn’t really care. She just loves him and that intimacy they’ve shared comes to a head. Missandei is always so official and straight and poised so to be vulnerable and see her human side of her, a little off balance, is kind of great and fun to play. She’s kept things very together to stay composed but this scene is the opposite of that. She’s quite clear about what she wants because she fears she’ll never have the chance to have that with him again.”
+RELATED: Sophie Turner Explains that Game of Thrones Sibling Rivalry
+
+To stay up to date on everything Game of Thrones, follow our all-encompassing Facebook page and sign up for our exclusive newsletter
+There was also some real-life courage on the set for Emmanuel, who did her first nude scene on the show. “When I read the script the first thing I thought was that it’s a big deal for these two characters and also it’s a nude scene and you can’t help but think about that,” she says. “You’re like, ‘Okay, I’m getting naked.’ And that was really strange for Jacob and I because we’ve danced around that scenario and we’ve become good mates and now we got to be naked around each other. But it was fine and, obviously, done really respectfully. Whether you’ve done it many times, or none at all, it’s a big deal. You feel like you’re giving something quite vulnerable and, yes, it’s hard.”
+Emmanuel notes that her fellow actors helped by giving her anecdotes about shooting their first nude scenes. “It’s never a comfortable thing to do but if you trust your director and actors and the people on set, it’s fine,” she says. “It was treated very well and very respectfully and I feel like we had a really great day showing these two characters being completely vulnerable with each other. And it sort of helps the scene to actually feel very vulnerable and exposed. It’s good to use that energy and it made it so much better.”
+RELATED: EW’s Game of Thrones Weekly podcast dissects ‘Stormborn’ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-a7f67b41ac009ca7e9d9bed12685c7c5-59a573f305993');
+				var iframe = document.getElementById('wpcom-iframe-a7f67b41ac009ca7e9d9bed12685c7c5-59a573f305993');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-a7f67b41ac009ca7e9d9bed12685c7c5-59a573f305993'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+Kept vague in the scene is what exactly goes down given that Grey Worm is, after all, missing some equipment. “The scene keeps everybody guessing about certain things,” she says.
+The Fast and the Furious franchise actress hopes fans are moved by the scene and see it for what it’s meant to represent — that amid all the violent horrors and political ambition in Westeros, there’s still room for love and light.
+“Amongst this chaos they’re like this beacon of something sweet and pure and beautiful,” she says. “There’s love displayed in this show in so many ways but it’s normally so tragic. They have tragedy in their past but they found something useful from that and I love how the showrunners have decided to preserve that. It doesn’t happen often but when it does it really resonates.”
+And as for the endangered couple’s future … well, that’s obviously rather uncertain.
+“You hope those two have a happy ending,” she says. “But you try not even say it out loud.”
+More Game of Thrones “Stormborn” coverage:
+— Maisie Williams on that long-awaited Nymeria reunion
+— Indira Varma and Gemma Whelan say their kiss was improvised
+— Sand Snake actress on that brutal episode ending
+— “Stormborn” our deep dive recap
+— Actor on Hot Pie’s surprise return: ‘It was a big shock’
+Game of Thrones airs Sundays on HBO.
+/n

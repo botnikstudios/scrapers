@@ -1,0 +1,46 @@
+WWE Hall of Famer Mae Young Dies at 90 The world of wrestling is mourning the loss of one of its great female pioneers today after learning of the death of Johnnie Mae Young. The World Wrestling Entertainment Hall of Fame star passed away on.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/500133/wwe-hall-of-famer-mae-young-dies-at-90');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014016/rs_634x1024-140116085126-634.mae-young-wrestler-rip.ls.11614_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mae Young");
+	var imageCaption = encodeURIComponent("Mae Young");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+KMazur/WireImage
+
+The world of wrestling is mourning the loss of one of its great female pioneers today after learning of the death of Johnnie Mae Young.The World Wrestling Entertainment Hall of Fame star passed away on Tuesday, Jan. 14 at the age of 90, according to a representative of the organization."There will never be another Mae Young," Vince McMahon, the chairman and chief executive of WWE, said in a statement."Her longevity in sports entertainment may never be matched, and I will forever be grateful for all of her contributions to the industry. On behalf of WWE, I extend out sincerest condolences to her family and friends."
+
+WWE.com also released a statement about the professional star, saying, "Johnnie Mae Young was truly one of the greatest competitors to ever lace up a pair of boots. A proud competitor for three quarters of a century and valued part of WWE to her last day, Young truly blazed a path for future female grapplers beginning in the 1940s."The entire WWE Universe offers a standing ovation to a true queen of the canvas and bids Mae Young a heartfelt farewell."Dwayne "The Rock" Johnson shared his thoughts about Young in a tweet early Thursday morning, writing, "She's a wrestling pioneer. I truly had deep affection & respect for "Aunty Mae" Young. RIP #IMissUMae"
+
+Young died at her home in South Carolina, where she had been under hospice care, a WWE spokesperson confirmed.Young, who was known as "The Great Mae Young," first began in the sport at the age of 15 as a member of the high school boys' wrestling team in Tulsa, Okla.She then entered the professional world of wresting in 1939 and was the third female member of the WWE's Hall of Fame after being inducted in 2008.
+/n

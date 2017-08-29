@@ -1,0 +1,46 @@
+Jim Carrey's Latest Selfie Will Make You Do a Double Take The 55-year-old's new 'do also inspired comparison's to Tom Hanks' character in Castaway. In response to all the ribbing, some loyal fans stood up for him and.../n
+Jim Carrey is letting it all grow out. Thanks to a newly shared selfie, the comedian revealed a relaxed new look to fans in honor of Easter and Passover. While the actor snapped a photo of himself holding an adorable bunny rabbit, it was his long locks and gray beard that got the Internet talking. "I HAD TO LOOK AT THIS PICTURE FOR FIVE MINUTES BEFORE MY BRAIN UNDERSTOOD THAT THIS WAS JIM CARREY," one stunned fan tweeted, caps lock and all. "This mans beard is so glorious it makes me feel warm and fuzzy," another follower wrote.  
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844212/jim-carrey-s-latest-selfie-will-make-you-do-a-double-take');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201678/rs_634x1024-160808163411-634-jim-carrey-lax-tom-bradley.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jim Carrey");
+	var imageCaption = encodeURIComponent("Jim Carrey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+PacificCoastNews.com
+
+The 55-year-old's new 'do also inspired comparison's to Tom Hanks' character in Castaway. In response to all the ribbing, some loyal fans stood up for him and thanked him for bringing sunshine to their day. "That beard and bunny combo is my motivation for life," someone wrote. "I will be that cool one day."Meanwhile, Carrey issued a sweet message of his own to his 15 million followers. "Happy Easter or Passover or whatever reason you can find to feel warm and fuzzy," he penned. The star has been keeping a low profile in recent years, with two films since 2015. While this is not the first time the actor has rocked facial hair, in an upcoming project called The Bad Batch, slated for release in June, the star dons a full gray beard as a grungy nomad in a Texas wasteland. 
+
+As film reviewer Eric Kohn described, "Jim Carrey is virtually unrecognizable" in the film. Hey—they don't call it acting for nothing!
+/n

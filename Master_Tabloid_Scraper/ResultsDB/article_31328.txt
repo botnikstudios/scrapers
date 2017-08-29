@@ -1,0 +1,46 @@
+Imagine Dragons' Dan Reynolds Pays Tribute to Chris Cornell at 2017 Billboard Music Awards The tribute comes as several rock bands continue to pay tribute to the singer in various concerts across the country. According to Rolling Stone,.../n
+Chris Cornell may be gone, but he is not forgotten in the music industry.During Sunday night's 2017 Billboard Music Awards, Dan Reynolds from Imagine Dragons took to the stage and delivered a touching tribute to the Soundgarden and Audioslave singer who passed away last week at just 52."Although tonight is a time to celebrate the music and artists of the past year, it's also a time to remember someone we lost this week. Soundgarden and Audioslave's Chris Cornell was a true innovator, a musical architect and a pioneer on the cutting edge of the Seattle grunge movement," Dan shared. "He was a prolific songwriter, a legendary performer, a singer who had a voice for the ages and a philanthropic whose Chris and Vicky Cornell Foundation helped so many children around the world."He continued, "Even though Chris is gone, his legacy endures. We send our respects as well as our love to Chris' family at this time."Before leaving the stage, Dan asked the audience to join in on a moment of silence before going to a commercial break.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/855692/imagine-dragons-dan-reynolds-pays-tribute-to-chris-cornell-at-2017-billboard-music-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017421/rs_634x1024-170521194543-634.Dan-Reynolds-Billboard-Music-Awards.kg.052117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dan Reynolds, 2017 Billboard Music Awards");
+	var imageCaption = encodeURIComponent("Dan Reynolds, 2017 Billboard Music Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ethan Miller/Getty Images
+
+The tribute comes as several rock bands continue to pay tribute to the singer in various concerts across the country.According to Rolling Stone, Ryan Adams, U2, Metallica were just some of the artists who delivered special performances over the weekend.At KROQ 106.7's Weenie Roast in Los Angeles Saturday evening, Incubus and Cage the Elephant came together to sing "Black Hole Sun" at the Stubhub Center.
+
+The tributes continue to pour out as E! News confirmed that Chris will be laid to rest in Los Angeles this coming Friday. A private funeral service at Hollywood Forever Cemetery is being planned for the late rock vocalist.Until then, fans will continue to share their memories of a rock star who left the world too soon."This is the guitar that Chris Cornell and Soundgarden gave to me the night we did SNL together," Jim Carrey shared on Twitter. "A very special man."
+/n

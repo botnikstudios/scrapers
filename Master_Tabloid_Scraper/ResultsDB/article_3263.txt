@@ -1,0 +1,50 @@
+Unforgettable's Simon Kassianides Dishes on His Upcoming Thriller With Rosario Dawson and Katherine Heigl For Simon Kassianides, shooting Unforgettable was an experience he'll always remember. The Agents of S.H.I.E.L.D. actor is no.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/843490/unforgettable-s-simon-kassianides-dishes-on-his-upcoming-thriller-with-rosario-dawson-and-katherine-heigl');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017313/rs_634x1024-170413171816-634.Simon-Kassianides-Los-Angeles.kg.041317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Simon Kassianides");
+	var imageCaption = encodeURIComponent("Simon Kassianides");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ Vincent Sandoval/WireImage
+
+For Simon Kassianides, shooting Unforgettable was an experience he'll always remember.The Agents of S.H.I.E.L.D. actor is no stranger to action, but after taking one look at this thriller, it's safe to say he's never done anything quite like this! Starring alongside actors like Rosario Dawsonand Katherine Heigl, the actor turned director plays a mysterious villain from one character's past. E! News caught up with Simon, who opened up about working on the film, getting star struck, and doing his own stunts.
+
+Unforgettable follows Julia, played by Dawson, who is stalked and harassed by her new fiancé's ex-wife, played by Heigl. Though the actor couldn't reveal much about his part in the film, he did share that he's from Julia's past, and describes his character, Michael Vargas, as "a wealthy guy from Silicon Valley" who is "not the nicest person."Nice or not, the Nikita actor revealed his mother will still be there, right by his side. In fact, she was even there for his audition!After initially auditioning for a smaller part in Unforgettable, he was asked to read for the role he has now. In a hurry, he offered to read that moment, and was told to come back on Monday. As Simon told E! News,"I said 'No, my mum's in the car downstairs and I've got a wedding to go to—let's do it now!'"Obviously, things turned out for the best.
+
+Maybe his character isn't very nice, but the Zoo actor has nothing but kind words for his costars and director.The actor revealed that he is a huge fan of the work Rosario and Katherine have done, but what surprised him the most was how dedicated they are to truthful acting. Kassianides says he feels this way with a lot of A-listers - even saying he felt that way with Daniel Craig on the set of the James Bond film Quantum of Solace."It was the same feeling—a different film on a similar scale in terms of being a studio film—and it came down to that: they were very much after the truth of what was happening in front of them," the actor shared.
+
+So how did they manage to make such a dark film feel so real? According to the actor, it all had to do with collaboration between the actors and director, Denise Di Novi."It felt great to be in a position where once we were on set, we were allowed with Denise to really flesh it out in the most believable and effective way," the Burn Notice actor said, adding "The best directors I have worked with to date have been female directors...there was less ego on set, and it was definitely a lot more of a collaborative approach to the work."Of course, it's also easier to make things feel real when they literally are. As the actor told E! News, everyone on set did their own stunts!When asked about doing his own stunts, the actor joked "Well, yeah but it's not like Batman (laughs). So luckily I didn't have to fly in through Gotham."
+
+So how does the Agents of S.H.I.E.L.D. villain feel about playing another bad guy? "I mean, you go into a room like, 'Hi, my name is Simon, would you like a cup of tea?' And then within moments you're this absolute lunatic. But I love it. I love what I do."Unforgettable will be in theaters everywhere tomorrow.
+/n

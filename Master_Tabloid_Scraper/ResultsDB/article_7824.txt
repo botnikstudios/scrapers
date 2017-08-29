@@ -1,0 +1,54 @@
+4 Juicy Stories Barbara Walters Recalled About The View in Audition: A Memoir For the women who made "hot topics" famous, they certainly had a few of their own behind closed doors.  As The View approaches its 20th anniversary on Friday, the nostalgia.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872605/4-juicy-stories-barbara-walters-recalled-about-the-view-in-audition-a-memoir');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013413/rs_634x1024-130513093111-634.BWalters.mh.051313.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Barbara Walters, The View");
+	var imageCaption = encodeURIComponent("Barbara Walters, The View");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Lou Rocco/ABC
+
+For the women who made "hot topics" famous, they certainly had a few of their own behind closed doors. As The View approaches its 20th anniversary on Friday, the nostalgia is hitting about the nearly two-dozen women that have graced the ABC talk show's signature table. While they're certainly encouraged to disagree on the air, thanks to the show's co-creator Barbara Walters' 2008 memoir, Audition, we also know the ladies couldn't keep the drama from leaking into their dressing rooms—and beyond. From secret weight loss surgery to a well-timed job offer, here are a few stories that shaped the inner workings of The View straight from the co-creator herself.
+
+1. A Scale Situation With StarWhile it's well known now that Star Jones underwent gastric bypass surgery during her time on The View, originally it was the entire panel's secret to keep."We expected her, when she felt well, to talk about the procedure on the air as it was such an important aspect of her life and could hardly be kept secret—or so we thought," Walters wrote. "After the operation Star said she didn't want to become what she called a 'poster chid' for the procedure and have to answer a lot of questions. I understood that, but it put us all in a terrible position. It meant we virtually had to lie for Star, especially when she said again and again on the air that her weight loss was due primarily to portion control and Pilates."It wasn't until 2007—four years after the procedure and a year after leaving The View—that she publicly admitted to the surgery. 
+
+2. Pulling a Live TV Fast OneAccording to Walters, Jones wanted a lavish wedding to Al Reynolds and used the show to promote businesses in exchange for their free services. While they eventually stopped them on The View, Jones allegedly continued the strategy with other public appearances.Eventually, Star and the fixation on the wedding became ongoing material for tabloid fodder and the bad press began to affect Jones' likability and, in turn, the show's ratings. When ABC did not renew her contract, Walters wrote that she told Star she could use any excuse she wanted for why she was leaving to protect her career. Meanwhile, Vieira was also leaving to join Today and executives had offered Rosie O'Donnell a 1-year contract as a replacement.  
+
+Jones, who allegedly did not get along with O'Donnell at the time, picked a day to make her exit announcement. However, two days earlier, she surprised the entire panel when "she said that after much 'prayer and counsel,' she had decided to leave the program. Her announcement took us totally by surprise," Walters recalled."Thinking she had just decided to move up her announcement date, I asked the audience to rise and give her a standing ovation. But, as it turned out to our astonishment, Star had, over the previous weekend, given an interview to People magazine. In the magazine, which was about to hit the newsstands, she announced that she had been fired. It was not the drop in her popularity among viewers that had caused her dismissal, Star insisted, but the 'new direction' the show wanted to take—that is, Rosie."
+
+3. Millionaire Saves the ShowWhile Meredith Vieiraultimately spent 11 years hosting Who Wants to Be a Millionaire?, it wasn't her original offer. As Walters claimed in her memoir, "In the spring of 2002, CBS News came after Meredith offering her a lot more money to join a new early-morning lineup that was planning yet another View-like panel. Meredith was tempted. But she didn't really want to chance her future on a brand-new show, and she was very happy on The View."So, in an effort to secure the star, Walters spoke to ABC about Vieira hosting Millionaire, which was about to be syndicated for daytime. "We breathed a sigh of relief when she turned down the CBS offer," Walters added. 
+
+4. A Rough Time for RosieAfter O'Donnell famously called Donald Trump a "snake oil salesman" and falsely claimed that he had filed bankruptcy on the air, Walters apparently had to go into damage control. After Trump threatened to sue, Walters and co-creator Bill Geddie got on a conference call with him and said they would work to clear up the bankruptcy error. While O'Donnell was still on vacation, Walters issued remarks on the air about O'Donnell's inaccurate statement and sang her praises after Trump criticized her publicly. As Walters claims in her book, however, "when Rosie finally returned to The View, to my amazement she angrily berated me in the dressing room for not defending her enough. She said I had told Donald Trump during the conference call from the yacht that I didn't want her on the program. Bill and I insisted that I never said any such thing. She refused to believe us."
+
+Fortunately, as Walters added, things eventually returned to a "calmer state" between the two women. 
+/n

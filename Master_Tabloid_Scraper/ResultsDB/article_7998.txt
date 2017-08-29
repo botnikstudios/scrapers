@@ -1,0 +1,44 @@
+Limp Bizkit Frontman Fred Durst Developing TV Drama for The CW Fred Durst will soon be the inspiration behind his own television series. The Limp Bizkit frontman is developing an hour-long drama with The CW based on his life, according to TV.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/476578/limp-bizkit-frontman-fred-durst-developing-tv-drama-for-the-cw');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013101/rs_293x473-131101075223-634.Fred-Durst-Headshot.jl.110113_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Fred Durst ");
+	var imageCaption = encodeURIComponent("Fred Durst ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Brad Barket/Getty Images for Tribeca Film Festival
+
+Fred Durst will soon be the inspiration behind his own television series.The Limp Bizkit frontman is developing an hour-long drama with The CW based on his life, according to TV Guide.The Noise will tell the story and "chronicles the rise of a young artist in the 1990s who escapes a tumultuous home life and forms a wildly popular band with a unique sound."Sound familiar?Durst is known for his days with the Nu-metal band, which formed in 1994 and is known for their smash hits "Nookie," "Rollin" and their cover of George Michael's "Faith." The band released the music video for their latest tune, "Ready to Go," featuring Lil Wayne, in July and their next album is expected to drop in January 2014.
+
+This is the second time Durst has been behind-the-scenes on a show, taking ideas from his own experiences. Two years ago, CBS developed the sitcom Douchebag with the rocker and the Tannenbaums, which featured a musician balancing "his wild ways and his young family," according to the website.In recent years, Durst took a brief hiatus from music and focused more on production projects in film and television.According to IMDb, Durst directed the drama The Education of Charlie Banks, starring Jesse Eisenberg and Jason Ritter, in 2007 and The Longshots, featuring Ice Cube in 2008.Earlier this year, he executive produced Pawn Shop Chronicles.
+/n

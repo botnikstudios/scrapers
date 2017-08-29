@@ -1,0 +1,56 @@
+Gomez volverá a la televisión con Wizards of Waverly Place? Parece que el 2017 también será el año de los reboots, ¡y nos encanta! Todo esto generó una ola de esperanzas ante la posibilidad de verlos nuevamente reunidos frente a las cámaras .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/821537/omg-selena-gomez-volvera-a-la-television-con-wizards-of-waverly-place');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016114/rs_634x1024-161204091855-634.selena-gomez.cm.12416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Selena Gomez");
+	var imageCaption = encodeURIComponent("Selena Gomez");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+INSTARimages.com
+
+Parece que el 2017 también será el año de los reboots, ¡y nos encanta!
+
+Recientemente Selena Gomez tuvo un nostálgico y divertido reencuentro con David Henrie, su compañero de reparto en Wizards of Waverly Place, la genial serie de magos y hechiceras que Disney Channel transmitió entre 2007 y 2012.E! NEWS > Si estás teniendo problemas con tus amistades entonces debes leer estas palabras de Selena Gómez (+ Videos)La intérprete de Hands To Myself compartió parte de su reunión en Instagram Stories, y ahí ambos comenzaron a imaginar como sería la vida actual de sus viejos personajes, Alex y Justin.Según Gomez, Alex continuaría soltera después de todo este tiempo, mientras que Justin seguramente tendría unos "15 hijos".
+
+
+
+Instagram
+
+Todo esto generó una ola de esperanzas ante la posibilidad de verlos nuevamente reunidos frente a las cámaras para un reboot de Wizards of Waverly Place. Después de todo, los grandes clásicos están regresando y uno más no le haría daño a nadie.E! NEWS > ¿Celos por Maluma? Niall Horan comenta una foto de Selena Gómez y oficialmente es hora de perder la cordura (+ Fotos)Por si esto fuera poco, las recientes palabras del creador de la serie, Todd J. Greenwald, no hicieron más que encender aun más las esperanzas de todos. "Estoy pensando una versión teatral adulta de #wowp, sería algo genial. #reboot", dijo Greenwald insinuando que le gusta más la idea de hacer una película.
+
+
+
+Disney Channel
+
+E! NEWS > Selena Gómez y Maluma están haciendo que sus fans pierdan la cabeza ¿Qué ocurre entre estos dos?Además, María Canals-Barrera, quien interpretó a la madre de Alex y Justin (Selena y David respectivamente), también le echó más fuego a la conversación al dejar ver en Twitter que amaría volver a ser Theresa Russo.Y por su parte, Jake T. Austin, quien hacía las veces de, Max Russo, el adorable hermano menor de la familia, también usó sus redes para anotarse en el plan del posible regreso de Wizards of Waverly Place. "¿Debería haber una reunión de Wizards of Waverly Place en 2017?", escribió Austin junto a una encuesta en la que el 89% de las personas respondieron "sí".
+/n

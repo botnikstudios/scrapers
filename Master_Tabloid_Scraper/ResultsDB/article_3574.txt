@@ -1,0 +1,50 @@
+This High School Musical 4 Trailer May Be Fake But We're Still Shook From the looks of it, the former high school sweethearts haven't spoken much since graduation, and there seems to be some emotions still attached to their teenage.../n
+Essentially, the story focuses on the difficulties of growing up, especially when it comes to love, marriage and relationships.Ryan admits he "took the fast-track to marriage and kids," while Sharpay appears to be doing well in her career, but it's really Troy and Gabriella that got us down.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875634/this-high-school-musical-4-trailer-may-be-fake-but-we-re-still-shook');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201696/rs_713x1024-161006134330-634.Zac-Efron-Vanessa-Hudgens.kg.1006116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Zac Efron, Vanessa Hudgens, Disney Couples");
+	var imageCaption = encodeURIComponent("Zac Efron, Vanessa Hudgens, Disney Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney/ABC
+
+From the looks of it, the former high school sweethearts haven't spoken much since graduation, and there seems to be some emotions still attached to their teenage relationship.In fact, Gabrielle can't help but wonder if she should think about settling down as she approaches 30, while Troy admits he can't stop thinking about what she's doing.At one point, Taylor even appears to be talking with Gabriella, asking, "Are you going to hold onto this...forever?"Needless to say, it's got us a little emotional...and that seems to be the common feeling.
+
+Tisdale tweeted out the trailer noting how "funny" and "creative" it was, but fans were not having it, responding, "funny??? What about my feelings? This is sad af."The actress ended up apologizing, writing, "Sorry for making you guys cry! Just wanted to give a shout out to whoever made it!
+
+The YouTube creator hsmutube actually explained the purpose behind the fake trailer, writing, "We're living in a time of reboots and remakes and so I thought it would be fun to see what Troy and Gabriella have been doing these past 10 years. Still wishing that one day they all come back to do a reunion movie."As HSM fans know, a High School Musical 4 is definitely in the works. However, it won't feature Efron or Hudgens.
+
+Rather, the film will focus on Sharpay and Ryan's cousin, who is an accomplished athlete as well as a talented musical theater star.
+/n

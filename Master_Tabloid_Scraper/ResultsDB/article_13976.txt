@@ -1,0 +1,46 @@
+EXCLUSIVE! Rita Ora Turns Heads While Channeling Cher in a Black Thong at 2017 Billboard Music Awards Perhaps the outfit could have some bachelors wondering about the singer's relationship status. Hey fellas, this woman is totally singl.../n
+Nothing to see here, ladies and gentlemen!As Rita Ora walked the red carpet Sunday night at the 2017 Billboard Music Awards, fans couldn't help but comment on the singer's outfit. And by outfit, we definitely mean her backside.While appearing on Live From the Red Carpet, the singer revealed that Cher was her inspiration behind the look."She's 71, you guys. That's amazing," she told E! News' Jason Kennedy. "So that is probably why I have this situation going on. She has the black thong on. I need to be inspired so I was just rocking it and moving it. Why not?"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/855576/rita-ora-turns-heads-while-channeling-cher-in-a-black-thong-at-2017-billboard-music-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017421/rs_634x1024-170521174149-634.Rita-Ora-Billboard-Music-Awards-Las-Vegas.kg.052117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Rita Ora, 2017 Billboard Music Awards");
+	var imageCaption = encodeURIComponent("ESC: Rita Ora, 2017 Billboard Music Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Richard Shotwell/Invision/AP
+
+Perhaps the outfit could have some bachelors wondering about the singer's relationship status. Hey fellas, this woman is totally single."I'm not going to close my eyes shut, you know what I mean, but I'm definitely not focusing on it," Rita shared. "We'll see what happens."For now, Rita is focused on her new ABC series titled Boy Band. In the reality show premiering June 22, Rita, Nick Carter and Emma Bunton are searching for the next great boy band or girl group."We're trying to find the next One Direction because they're taking a break," she shared. "Let's find some good-lookin lads that we can turn into superstars. I'm really just looking for someone who can change the tone of the room. You know what I mean?"
+
+And in between hosting, Rita also has her first global single coming out Friday that just so happened to be written by the one and only Ed Sheeran."I'm just happy to be making tunes that I like and that I love," she proclaimed. "He is fantastic. He is really like a normal down to Earth guy. He is so music, he just oozes it. It was an amazing collaboration."
+/n

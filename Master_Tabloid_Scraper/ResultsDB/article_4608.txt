@@ -1,0 +1,90 @@
+See Towering Michelle and Barack Obama Alongside Prince and Harriet Tubman in Massive New D.C. Mural/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-b2e0bacbe74537feacb87166758fb5ff-59a4f6b2dfa77');
+				var iframe = document.getElementById('wpcom-iframe-b2e0bacbe74537feacb87166758fb5ff-59a4f6b2dfa77');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-b2e0bacbe74537feacb87166758fb5ff-59a4f6b2dfa77'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Former President Barack Obama and First Lady Michelle Obama are among the prominent black figures, politicians and celebrities covering the outside walls of famed D.C. restaurant Ben’s Chili Bowl in a new mural unveiled Wednesday.
+The former first couple’s portrait looms larger than life at the popular restaurant located on U Street in Washington, D.C., and joins images of comedian Dave Chapelle, late musician Prince, rapper Wale, actress Taraji P. Henson, Muhammad Ali, Harriet Tubman and former city mayor Marion Barry, among others.
+According to The Washington Post, the mural was commissioned by the city and painted by artist Aniekan Udofia. Udofia painted the building’s previous mural in 2012, which featured now disgraced comedian Bill Cosby.
+
+In the wake of numerous sexual assault allegations against Cosby, there was pressure to paint over his image, said the Post. He is no longer featured in the mural, and those included were chosen through an online poll.
+RELATED VIDEO: Backstage With Michelle And Barack Obama! PEOPLE Exclusive Photos from Their ‘Afterlife’
+
+Initially opened in 1958 by Ben and Virginia Ali, the restaurant later had a prominent role in the 1968 civil rights riots that shook the city following Martin Luther King, Jr.’s assassination, reported the Post. During that time, the restaurant remained open past curfew to feed and provide shelter for those leading the efforts to stop the rioting.
+
+Though the Obamas were not in attendance for the unveiling, Chapelle was, telling those gathered, “I’m honored to be home and that this means an enormous amount to me and my family. I’m very proud of it.”
+
+
+Thanks to @DaveChappelle for joining the #MuralsDC reveal featuring him and other greats today! #FirstDayOfSummer #dcstatehood pic.twitter.com/82m2yMGqZa
+— DC Parks &Recreation (@DCDPR) June 21, 2017
+
+Other speakers at the unveiling included civil rights activist Dick Gregory – whose likeness is in the mural – and longtime NBC Washington news anchor Jim Vance.
+/n

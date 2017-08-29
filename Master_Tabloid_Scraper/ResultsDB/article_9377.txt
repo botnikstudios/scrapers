@@ -1,0 +1,46 @@
+Benjamin McKenzie Marries Morena Baccarin in New York City Benjamin McKenzie and Morena Baccarin are officially husband and wife! that the  E! News can confirm that the Gotham co-stars tied the knot in New York City on Friday, June 2, nearly.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859662/benjamin-mckenzie-marries-morena-baccarin-in-new-york-city');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161029/rs_634x1024-161129113633-634-ben-mckenzie-morena-baccarin.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben McKenzie, Morena Baccarin");
+	var imageCaption = encodeURIComponent("Ben McKenzie, Morena Baccarin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Michael Loccisano/Getty Images
+
+Benjamin McKenzie and Morena Baccarin are officially husband and wife! that the E! News can confirm that the Gotham co-stars tied the knot in New York City on Friday, June 2, nearly seven months after news of their engagement broke.It wasn't just a wedding though; the ceremony doubled as a celebration for Morena's 38th birthday! A source close to the couple says the newlyweds gathered their closest family and friends at the Brooklyn Botanical Gardens for the big day.McKenzie, 38, and Baccarin met in 2014 on the set of the Fox crime drama. One year later, the couple took their romance public and in March 2016, the actors welcomed daughter Frances Laiz Setta Schenkkan.
+
+And while most of the details surrounding their relationship have been kept quiet, The O.C. alum can't help gushing about their little girl whenever asked. As Baccarin (fittingly) debuted her engagement sparkler at the 2016 Gotham Independent Film Awards, E! News caught up with Frances' proud papa on the red carpet."She's about to crawl. We're dreading that," McKenzie teased. "But she's great, and it's wonderful to have family around and celebrate the holidays together."The brunette bombshell seemingly celebrated her bachelorette party during a "girls' weekend" to the desert in May. Morena and her gal pals noshed on fast food from In-N-Out and took in the picturesque sights on their road trip, which were later shared to Instagram. 
+
+This marks the first marriage for McKenzie and the second for Baccarin. The actress and her ex-husband, Austin Chick, split in 2015 and share joint custody of their 3-year-old son, Julius Chick.Congratulations to the happy couple!People was first to report the news.
+/n

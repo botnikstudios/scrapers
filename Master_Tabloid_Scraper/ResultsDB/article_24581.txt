@@ -1,0 +1,44 @@
+Vincent Kartheiser Shows Off Crazy Shaved Hairline at Mad Men Premiere—What's Going On?! Kartheiser, who plays Pete Campbell, first got the odd haircut and gained 25 pounds in 2012. "At the beginning of the season, [creator Matt We.../n
+If you don't watch Mad Men, Vincent Kartheiser's hairline might look a little, well, mad.The 34-year-old actor suited up for the AMC series' season-seven premiere party at ArcLight Cinemas in Hollywood Wednesday, where he walked the red carpet alongside his well-dressed co-stars Alison Brie, Jon Hamm, Christina Hendricks, January Jones, Elisabeth Moss, Jessica Paré and Kiernan Shipka.Will the thespian miss his unique 'do?"It doesn't bother me, one way or the other," he told E! News.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/528125/vincent-kartheiser-shows-off-crazy-shaved-hairline-at-mad-men-premiere-what-s-going-on');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201433/rs_634x1024-140403103151-634.Vincent-Karthesiser-mad-men-premiere-040214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vincent Kartheiser");
+	var imageCaption = encodeURIComponent("Vincent Kartheiser");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alberto E. Rodriguez/Getty Images
+
+Kartheiser, who plays Pete Campbell, first got the odd haircut and gained 25 pounds in 2012. "At the beginning of the season, [creator Matt Weiner] said I was gonna have my hair shaved back and he said, you know, 'Would you mind putting on some weight?'" he told Vulture. "And I said, 'Absolutely not.' And I just started eating like a pig." In the final episode of Season 6, he said, "They were really prominently displaying my bald spot."The actor said his hairline is "not receding," despite how it looks on TV. "Most of my friends were like, 'Dude, don't do that, it might never come back in!'" he recalled. "But luckily I have a good head of hair."Mad Men returns Apr. 13. The final seven episodes, "The End of an Era," will air in 2015.
+/n

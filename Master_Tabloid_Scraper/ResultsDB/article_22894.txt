@@ -1,0 +1,44 @@
+UPDATE! Deadliest Catch Captain Phil Harris Dies Not the sort of finale we had hoped for. Phil Harris, the salty skipper of the Cornelia Marie on the Discovery Channel's Deadliest Catch, has died. He was 53. The deep-sea fisherman suffe.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/166504/deadliest-catch-captain-phil-harris-dies');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20100201/293.deadlistcatch.harris.phil.lc.020110.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Phil Harris, Deadliest Catch");
+	var imageCaption = encodeURIComponent("Phil Harris, Deadliest Catch");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Discovery Channel
+
+Not the sort of finale we had hoped for.Phil Harris, the salty skipper of the Cornelia Marie on the Discovery Channel's Deadliest Catch, has died. He was 53.The deep-sea fisherman suffered a stroke on Jan. 29 and, although both his immediate and TV families were clinging to small signs of a recovery, he ultimately succumbed to the trauma on Tuesday."It is with great sadness that we say goodbye to our dad," Harris' sons, Jake and Josh, said in a statement. "Dad has always been a fighter and continued to be until the end. For us and the crew, he was someone who never backed down. We will remember and celebrate that strength. Thanks to everyone for their thoughts and prayers."Talking about his life at sea recently, Harris said there are certain superstitions he always abided by.
+
+"I don't leave on a Friday, ever," he said, "because the last two times I did I blew up the main engine. So I just don't do it."Harris was unloading his latest catch when he suffered his stroke on a Friday."We had a season once where we filled the boat up in three days—that was phenomenal fishing," he said. "And then there's days you can't find a crab. It's just back and forth."You've got to be a little bit twisted to do this job," Harris admitted. "You know, you got to live right on the edge...It can get dicey."The Discovery Channel, which counts Deadliest Catch among its biggest hits, will also miss its accidental star."Discovery mourns the loss of dear friend and colleague Captain Phil Harris," the network said Tuesday night."He was more than someone on our television screen. Phil was a devoted father and loyal friend to all who knew him. We will miss his straightforward honesty, wicked sense of humor and enormous heart. We share our tremendous sadness over this loss with the millions of viewers who followed Phil's every move. We send our thoughts and prayers to Phil's sons Josh and Jake and the Cornelia Marie crew."Sig Hansen, captain of the Northwestern, changed his website's homepage to read: "Phil Harris was called home and will forever be remembered..."(Originally published Feb. 9, 2010, at 8:41 p.m. PT)
+/n

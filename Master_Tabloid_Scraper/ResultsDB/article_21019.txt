@@ -1,0 +1,50 @@
+Doris Roberts Dead at 90: Everybody Loves Raymond Co-Stars Remember Beloved TV Mom One of TV's most beloved moms has passed away. Doris Roberts died Sunday in Los Angeles, TMZ reported. She was 90 years old. Fans will easily remember th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/757850/doris-roberts-reportedly-dead-at-90-everybody-loves-raymond-co-stars-remember-beloved-tv-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016318/rs_634x1024-160418160937-634.everybody-loves-raymond.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Doris Roberts, Everybody Loves Raymond");
+	var imageCaption = encodeURIComponent("Doris Roberts, Everybody Loves Raymond");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+CBS
+
+One of TV's most beloved moms has passed away.Doris Roberts died Sunday in Los Angeles, TMZ reported. She was 90 years old.Fans will easily remember the actress from her role as Marie Barone on the long-running CBS comedy Everybody Loves Raymond. From 1996 to 2005, the star brought the laughs as Ray Barone's (Ray Romano) mom and Debra Barone's (Patricia Heaton) mother-in-law. As soon as the news broke, her co-stars expressed their condolences to the family."Doris Roberts had an energy and a spirit that amazed me.  She never stopped," Romano said in a statement to E! News. "Whether working professionally or with her many charities, or just nurturing and mentoring a green young comic trying to make it as an actor, she did everything with such a grand love for life and people and I will miss her dearly.""Truly the end of an era. My wonderful TV mother-in-law and ELR nemesis Doris Roberts was a consummate professional from whom I learned so much," Heaton also wrote on Twitter after the news broke. "She was funny and tough and loved live, living it to the fullest. Nothing gave her greater joy than her three wonderful grandchildren, of whom she was so proud. It truly was a privilege Doris. I love you and miss you."Show creator Phil Rosenthal also tweeted with the message, "We loved our mom, the great #DorisRoberts. A wonderful, funny, indelible actress and friend." 
+
+The unforgettable role would land Roberts four Primetime Emmy Awards for Outstanding Supporting Actress in a Comedy Series. She would also earn a separate trophy for her performance in St. Elsewhere.During a 2014 interview with Parade, Roberts was asked why so many fans identify with her. Almost immediately, the actress expressed her gratitude at being able to make people laugh."I'm not a bull artist. I tell it like it is. I'm not some celebrity thinking I'm greater than anybody else," she explained to the publication. "I'm one of the people. And they know that. It's wonderful when they say to me ‘Thank you for the humor you've brought us all these years.' I am a lucky son of a gun. I get paid for it."Before scoring roles in big TV shows like Everybody Loves Raymond, The Middle, Melissa & Joey and many others, Roberts grew up in New York City where she attended New York University. She later left school to act on Broadway where she succeeded for 20 years. Ultimately, a move to Los Angeles would make her a house-hold name. 
+
+
+
+George Pimentel/WireImage.com
+
+"They kept giving me work," Roberts joked when asked why she stayed on the West Coast for so long. "First, I did Angie. Then Remington Steele. And Mary Hartman, Mary Hartman. I just kept getting all these wonderful comedies. And the money was a lot better than Broadway."Roberts is survived by her son Michael Cannata Jr., who she had with her first husband, and three grandchildren.Our thoughts and prayers go out to her entire family during this time.
+/n

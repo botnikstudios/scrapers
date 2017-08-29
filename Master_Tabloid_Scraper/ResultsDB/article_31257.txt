@@ -1,0 +1,52 @@
+few celebrities to open up about their arrests and how they've affected their lives. The anthology, which is written by LaBeouf's Man Down co-star Clifton Collins Jr. and Gustavo "Goose" Alvarez, also features recipes fro.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/712282/shia-labeouf-details-his-arrest-history-in-new-book-prison-ramen-it-s-freeing-to-f-k-up-and-recover');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015910/rs_634x793-151010082714-634-shia-labeouf-mug-shot-100915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Shia LaBeouf, Mug Shot, Austin Police Department");
+	var imageCaption = encodeURIComponent("Shia LaBeouf, Mug Shot, Austin Police Department");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Austin Police Department
+
+Shia LaBeouf is no stranger to run-ins with the law, but now he's getting candid about his rap sheet.In a new book titled Prison Ramen, the Transformers alum, 29, is one of a few celebrities to open up about their arrests and how they've affected their lives. The anthology, which is written by LaBeouf's Man Down co-star Clifton Collins Jr. and Gustavo "Goose" Alvarez, also features recipes from behind bars.LaBeouf's essay, Error Breeds Sense, talks about how his jail time, including his incarceration from the Cabaret incident, have helped his creativity. "I have been incarcerated five times. The first time I was only nine years old. It was in Pacoima, California. I was arrested for stealing a pair of Nike Cortezes from a local shop and held for six hours," he writes."The second time I was eleven, in the city of Tujunga, California. I was arrested for stealing a Gameboy Pokémon from Kmart. That time, too, I was in a substation for about six hours," he continues.But it wasn't until he actually spent time in the can did he realize that prison life isn't so great.
+
+
+
+Workman Publishing
+
+"The third time I was twenty, in Van Nuys, California. I tried to stab my neighbor and spent two days in jail. While I was there, I at least understood that being in jail is not the move," he admits. "It sucks ass."His revelation however, didn't prevent the Fury actor from acting up again."The fourth time I was in Chicago and I wouldn't leave Walgreen's, so I was taken to spend the night in jail. For some reason, I had the best sleep ever," he writes. "The most recent time was 2014, when I was twenty-eight and in New York City. I went to see the play Cabaret. I didn't behave very well during the performance and ended up spending twenty-five hours or so behind bars..."
+
+He adds that during the most recent incarceration he had a "terrific egg sandwich," hence his Egg Ramen Salad Sandwich recipe inclusion. Even though he explains that he realized early on how awful jail could be, each of his past mistakes helps him get through present dilemmas."When I'm nervous in my creativity, I think of my failures in life and in art," he admits. "Thinking about my screwups loosens the grip of fear. It's freeing to f--k up and to recover."
+
+Take a look back at Shia LaBeouf in 2007.
+/n

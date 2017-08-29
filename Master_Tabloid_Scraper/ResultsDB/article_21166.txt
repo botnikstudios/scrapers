@@ -1,0 +1,46 @@
+Michael Moore Files for Divorce From Producer-Wife Kathleen Glynn After 21 Years The awful truth about Michael Moore's marriage is that it's not working. The firebrand filmmaker has filed a petition to divorce from his producer-wif.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/440796/michael-moore-files-for-divorce-from-producer-wife-kathleen-glynn-after-21-years');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013619/rs_293x473-130719125232-634.KathleenMichael.ms.071913_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kathleen Glynn, Michael Moore");
+	var imageCaption = encodeURIComponent("Kathleen Glynn, Michael Moore");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stephen Lovekin/Getty Images for Overture Films
+
+The awful truth about Michael Moore's marriage is that it's not working.The firebrand filmmaker has filed a petition to divorce from his producer-wife Kathleen Glynn seeking to end their 21-year union.According to Michigan's Mlive.com, which obtained a copy of the June 17 complaint filed in Antrim County, Mich., the 59-year-old Moore said "there remains no reasonable likelihood that the marriage can be preserved" after a "breakdown" in the relationship.The famed documentarian revealed that the couple separated sometime prior to the filing and have no children.
+
+He's asking a court for a restraining order barring his estranged missus from selling any of their joint assets until such time as they reach an agreement on the division of those possessions. That includes Moore and Glynn's $2 million home on the state's picturesque Torch Lake, north of Green Bay.The left-leaning director's wealth is estimated at least $50 million as of 2010, according to CelebrityNetwork.com, thanks to the blockbuster success of such documentaries as Bowling for Columbine, Fahrenheit 9/11, and Sicko.The pair first met in his hometown of Flint, Mich. and tied the knot on Oct. 19, 1991.
+
+Glynn became Moore's principle producing partner thereafter starting with his 1994 tube series, TV Nation, followed by his little-seen stab at fiction filmmaking with the 1995 comedy Canadian Bacon.The duo's other notable credits include the 1999 Bravo show The Awful Truth as well as such big-screen docs as 1997's The Big One and 2009's Capitalism: A Love Story. They also co-wrote the tome Adventures in a TV nation based on his NBC news magazine show.While Moore embarks on life as a single man, the helmer has stuck to producing other documentaries the last couple of years including Occupy Los Angeles and 10%: What Makes a Hero as opposed to making his own. No word yet on his next project.
+/n

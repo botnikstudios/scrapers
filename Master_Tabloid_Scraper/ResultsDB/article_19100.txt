@@ -1,0 +1,52 @@
+drive home the point with an eye makeup look that stuns and sparkles. Because boring, this neutral is not. Enza Costa Exclusive Military Romper, $298; Freda Salvador Cage Sandals, $332.50; Urban Decay Moondust Eyeshadow in Zodiac, $20; Marc .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/661973/olive-is-the-new-black-how-to-wear-hollywood-s-favorite-neutral-all-summer-long');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201551/rs_634x1024-150601121923-634.esc-olive-trends.jw.52915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC, Olive Trends");
+	var imageCaption = encodeURIComponent("ESC, Olive Trends");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Getty Images
+
+Sometimes the most effective wardrobe staples are the least obvious. Whether you want to emphasize a statement piece or keep an overall look simple and subtle, neutrals are closet champions. In this league of extraordinary classics, you already know the power of fail-proof beiges, on-the-mark navys and go-to blacks, but let's reintroduce ourselves to perhaps the most underestimated neutral of them all—one beloved by celebs like Elle Fanning, Nicole Scherzinger and Rosie Huntington-Whiteley—olive.For those unfamiliar with the stylistic powers of the yellowish-green hue, we bring you inspiration for every level of wearer.
+
+TIPS: 5 surprising ways to wear gingham
+
+The NoviceFor the beginner, it's all about integrating olive add-ons that complement an existing outfit. The best way to introduce the neutral into your wardrobe is through the utilitarian army jacket. Lightweight, timeless and appropriate for all season, the closet staple will keep you warm on your next flight or on a chilly movie night in the park. In any starter kit, you should equip yourself with a pair of polarized sunnies and green-tinged booties, which will add a little depth to any breezy outfit.Chic Nova Army Jacket, $32.93; H&M Sleeveless Tank Top, $12.95; Rag & Bone 'Boyfriend' Distressed Denim Shorts, $210; Joe's Jeans Avryl Boots, $79.99; Vicoria Beckham Modern Aviator Sunglasses, $550
+
+The SophomoreYou already know the olive game, sporting core pieces in the neutral hue du jour. To elevate your solid foundation, contrast the slouch of your olive pants or billowy blouse with a structured layer on top. Opt for an edgy leather jacket or beat the summer heat with a cooler long vest. Emphasize your bottom layer with smoky green eyes everyone would envy.Rag & Bone Francois Vest, $346; Vince Jersey Tank, $57; NLST Cropped Cotton Cargo Pants, $162.50; Ellis Faas Creamy Eyes E124, $36; Rachel Zoe Clover Pumps, $206.50  
+
+POLL: Are you into culottes?
+
+The ExpertYou're not afraid to sport the color from head to toe. While a cute summer frock is appropriate, opt for a short romper that's at both times super comfortable and on-trend. Break up the utilitarian look with feminine design details like fringe or dainty jewelry. Come nighttime, drive home the point with an eye makeup look that stuns and sparkles. Because boring, this neutral is not.Enza Costa Exclusive Military Romper, $298; Freda Salvador Cage Sandals, $332.50; Urban Decay Moondust Eyeshadow in Zodiac, $20; Marc by Marc Jacobs Long Pendant Necklace, $78; Rebecca Minkoff Rylan Fringed Tote, $395
+/n

@@ -1,0 +1,46 @@
+This Friends Twitter Thread May Finally Prove That Rachel and Joey Should Have Ended Up Together It's a debate that Friends fanatics may never agree on: Was Rachel (Jennifer Aniston) supposed to end up with Ross (David Schwimmer) or Joe.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872595/this-friends-twitter-thread-may-finally-prove-that-rachel-and-joey-should-have-ended-up-together');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014819/rs_634x1024-140919135358-634.Friends-Best-Couples-Rachel-Joey.jl.091914.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rachel and Joey, Friends Couples");
+	var imageCaption = encodeURIComponent("Rachel and Joey, Friends Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NBC
+
+It's a debate that Friends fanatics may never agree on: Was Rachel (Jennifer Aniston) supposed to end up with Ross (David Schwimmer) or Joey (Matt LeBlanc)?In the show's series finale, viewers heard a few words that proved which couple likely ended up happily ever after.Yes, that famous phrase of "I got off the plane" suggests Rachel really did want her happily ever after to be with Ross.But more than 13 years after that final episode, Twitter user Claire Willett—who identifies herself online as @KaneandGriffin—decided to speak up and present not one, not two, but 100 posts for why Rachel and Joey deserved to be together.Let's just say more than a few people are having their minds blown. Shall we go to the evidence?
+
+Some are humble like the fact that Joey always made Rachel laugh and that he always has great, free advice for his friend. Others, however, get pretty real, real quick."Joey's feelings for Rachel were born out of genuine friendship. They were roommates. SHE WAS PREGNANT," the Twitter thread stated. "He never blames her and he doesn't let it impact the rest of the group. The friendship stays intact. ROSS GELLER WHAT'S GOOD."Okay, you may be onto something. What else you got Claire?"Joey knows what it feels like to be grasping for your big break. But name ONE THING Ross ever did to unselfishly help Rachel's career," one post stated. "Rachel has been uptight all her life and Joey teaches her how to chill the f--k out. He brings out a sillier side of her."
+
+If you're not totally convinced, the writer tries to bring it home with one final revelation."Ross fell in love with A PICTURE OF HIMSELF AS THE KIND OF MAN WHO COULD DATE A RACHEL and on some level that was always what he wanted," Claire argued. "Whereas Joey fell in love with a bright, funny, competent single mother he'd been friends with for 7 years and knew inside-out already."She added, "Ross and Rachel were endgame because they were considered INEVITABLE, and I don't dispute that that's where the show was always heading. But a S10 surprise twist where Rachel and Joey end up realizing THEY were each other's lobster all along WOULD HAVE CHANGED SITCOM TV."So no one told us Rachel and Joey could be like this. Consider us persuaded!
+/n

@@ -1,0 +1,41 @@
+The Big Bang Theory Paid Tribute To Leonard Nimoy After Tonight's Episode And It Was Beautiful Leonard Nimoy, also known as Star Trek's incomparable Mr. Spock, always did have a presence on The Big Bang Theory, even when he only ev.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/632741/the-big-bang-theory-paid-tribute-to-leonard-nimoy-after-tonight-s-episode-and-it-was-beautiful');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201525/rs_634x821-150305194151-634.Leonard-Nimoy-Big-Bang-Theory-Vanity-Card.ms.030515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent(" Leonard Nimoy, Big Bang Theory Vanity Card");
+	var imageCaption = encodeURIComponent(" Leonard Nimoy, Big Bang Theory Vanity Card");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Leonard Nimoy, also known as Star Trek's incomparable Mr. Spock, always did have a presence on The Big Bang Theory, even when he only ever appeared on the show as a voice in Sheldon's head.It could be argued that Sheldon Cooper wouldn't be Sheldon Cooper without Spock's influence, given the fact that Sheldon related to him more than anyone else. Sheldon dressed up as Spock, he wrote plays about Spock, and once, Nimoy appeared in Sheldon's dream as the voice of a Spock action figure that Sheldon had accidentally broken.Tonight, the series paid tribute to Nimoy with creator Chuck Lorre's vanity card, usually famously reserved for rambling bits of advice or jokes. The image following the end of tonight's episode featured a picture of Nimoy and the words, "The impact you had on our show and on our lives is everlasting."After news of Nimoy's death spread on Friday, some of the Big Bang Theory cast also tweeted their respects. 
+/n

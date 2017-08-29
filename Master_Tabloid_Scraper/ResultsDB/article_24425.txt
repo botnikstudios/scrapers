@@ -1,0 +1,48 @@
+fashion show this week," she continued. He's got a lot of work to do. He wishes he could be here." Yeezy Season 4's show took place on Franklin D. Roosevelt Four Freedoms Park Roosevelt Island, a location far removed from.../n
+Are you ready for Kanye West's newest fashion show?The rapper-designer will be unveiling Yeezy Season 5 on Wednesday at 3 p.m. for Fashion Week, but details about the show have been shrouded in mystery. But during E! News' Grammys pre-show Sunday, Kris Jenner gave some tiny details to Ryan Seacrest, Brad Goreski and Kristin Cavallari about what fans can expect from Kanye (especially in terms of celebrity appearances)."There's been a rumor that he's not coming [to the Grammys] for various reasons, but the truth is he's got a big fashion show in New York because it's New York Fashion Week right now," Kris explained. "And my entire family is back there. Kim [Kardashian] and some of the kids—Khloe [Kardashian]— are on their way tomorrow. And Kendall [Jenner] and Kylie [Jenner] and a few others are there I can't even count anymore.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/829396/everything-we-know-about-kanye-west-s-yeezy-season-5-fashion-show');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017111/rs_634x1024-170211120221-634.kanye-west.cm.21117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kanye West, Blond Hair");
+	var imageCaption = encodeURIComponent("Kanye West, Blond Hair");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+JosiahW / AKM-GSI
+
+"Kanye's back in New York City preparing for his big fashion show this week," she continued. He's got a lot of work to do. He wishes he could be here."Yeezy Season 4's show took place on Franklin D. Roosevelt Four Freedoms Park Roosevelt Island, a location far removed from Fashion Week's typical locales. Yeezy Season 3 debuted at Madison Square Garden. Yeezy Season 5's show tomorrow, however, will take place at Pier 59, a more traditional Fashion Week venue, indicating that it will probably be a more low-key affair than his Roosevelt Island show that sparked controversy when its casting call requested "multiracial women only."
+
+Tomorrow will also be a big day in that it marks one of Kanye's first official public appearances since canceling his Saint Pablo Tour and entering the hospital for exhaustion. Although rumors started to swirl about his marriage to Kim, a source told E! News that they're doing just fine."They are working on getting stronger and more solid as a married couple," the source said. "This is an exciting time for Kanye and he is really looking forward to this presentation. The Kardashians will be there to support him, including his leading lady Kim. Kylie and Kendall will also be there."
+
+Part of Kanye's preparations includes dyeing his hair platinum blond. He's been playing with his hair color since he was released from the hospital, first choosing a darker shade of blond in December and then opted for a more rainbow-style 'do. But come Wednesday, the "Famous" rapper could unveil something entirely different.
+/n

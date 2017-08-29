@@ -1,0 +1,52 @@
+Sara Gilbert and Wife Linda Perry Attend Family Fun Day With 6-Month-Old Son Rhodes—See the Pic! Sunday was a family affair for Sara Gilbert and Linda Perry.  The 40-year-old actress, who gave birth to son Rhodes Emilio Gilbert Perry in Marc.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/695612/sara-gilbert-and-wife-linda-perry-attend-family-fun-day-with-6-month-old-son-rhodes-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015814/rs_634x1024-150914125157-634-sara-gilbert-linda-perry-baby.AT.091415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sara Gilbert, Linda Perry");
+	var imageCaption = encodeURIComponent("Sara Gilbert, Linda Perry");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of Chris Weeks/Getty Images for Amazon
+
+Sunday was a family affair for Sara Gilbert and Linda Perry. The 40-year-old actress, who gave birth to son Rhodes Emilio Gilbert Perry in March, attended Amazon Video's Tumble Leaf Family Fun Day hosted by Au Fudge on Sunday in Los Angeles, where the happy couple toted along their six-month old tot and posed for pics in the elaborate kid-friendly photo booth. The lovebirds, who wed in March 2014, also brought along Sara's two kids from a previous relationship, son Levi and daughter Sawyer. Perry and Gilbert doted on their son while smiling for the camera and were later seen noshing on the kid-friendly food, including grilled cheese sandwiches, french toast sticks and watermelon slices, at the event, which was held at the home of Au Fudge co-founder Estee Stanley.  
+
+PHOTOS: Cutest celeb kids on Instagram
+
+
+
+Jason Merritt/Getty Images for MTV
+
+Perry carried little Rhodes in a baby sling throughout the entire bash and their bundle of joy looked happier than ever, flashing a giant smile at the fellow guests. Since the birth of her son, Gilbert has kept a relatively low profile, although she and Perry recently announced their plans to release a children's album titled Deer Sounds, out Sept. 18. "These songs just started to show up when he was born and then it just got really exciting because we were all in the house and all a part of it, all throwing in ideas and making artwork," Gilbert told People. "It was a very sweet experience​."She added: "[Rhodes] would stand on the piano and make all these sounds. We put it on the album and his little voice. Everybody contributed whatever they could — such a special part of it."
+
+PHOTOS: Take a look back at Sara Gilbert's pregnancy pics
+/n

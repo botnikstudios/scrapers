@@ -1,0 +1,44 @@
+Orange Is the New Black Star Lorraine Toussaint Joins Forever Cast Orange Is the New Black star Lorraine Toussaint is going straight for ABC's Forever. Toussaint, who joined the cast of OITNB for season two as the villain Vee, will play.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/557627/orange-is-the-new-black-star-lorraine-toussaint-joins-forever-cast');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201468/rs_634x1024-140708060346-634.Lorraine-Toussaint-JR-7814.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lorraine Toussaint");
+	var imageCaption = encodeURIComponent("Lorraine Toussaint");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images
+
+Orange Is the New Black star Lorraine Toussaint is going straight for ABC's Forever. Toussaint, who joined the cast of OITNB for season two as the villain Vee, will play a cop on the new ABC drama, E! News has confirmed.Toussaint has joined Forever as Lieutenant Joanna Reece the new boss of Alana de la Garza's Detective Jo Martinez. She's described as a weathered cop who "has seen it all." Forever follows Ioan Gruffudd as a medical examiner who can't be killed. Judd Hirsch plays his friend and confidant.Orange Is the New Black fans, we know what you're thinking. Is this it for Vee? Well, spoilers: The character was last seen escaping from prison. Once she was out, she made it to the side of the road where she was run over by Miss Rosa (Barbara Rosenblat) who had also escaped Litchfield. Vee looked dead. Maybe. But stranger things have happened on Orange Is the New Black!
+
+"We're not sure if Vee is dead," Toussaint told BuzzFeed in June. "She could be dead, she could not be dead. That's an open-ended question still. Isn't that a scary proposition? She might need to be dead. I don't know."Fellow Orange Is the New Black star Matt McGorry is pulling double duty, filming Orange Is the New Black season three and appearing on How to Get Away With Murder, ABC's new fall drama from Shonda Rhimes.TVLine first reported Toussaint's casting.Forever airs Tuesdays at 10 p.m. on ABC.
+/n

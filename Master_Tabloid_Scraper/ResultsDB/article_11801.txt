@@ -1,0 +1,94 @@
+Dennis Rodman Stands by ‘Friend’ Kim Jong Un After Otto Warmbier’s Death, and Claims He Asked for Student’s Release/n
+ 
+
+ 
+Former NBA star Dennis Rodman says he and his representatives begged North Korean leader Kim Jong Un three times to release American college student Otto Warmbier — who died just days after being released from captivity in the country — but is still friends with the controversial figure.
+In a joint interview with ABC News, Rodman’s agent credited Warmbier’s release to Rodman’s brief visit to Pyongyang earlier this month.
+The news comes as North Korea claims its officials did not torture the 22-year-old American student – and said the hostile dictatorship was the “biggest victim” in Warmbier’s release and tragic death days later.
+“I asked on behalf of Dennis for [Warmbier’s] release three times,” Chris Volo told ABC as Rodman stood beside him. He added: “I addressed … Otto Warmbier. I said to them, ‘we … would need his … you know, a release, some type of good faith’ … They said they understood.”
+KIM WON-JIN/AFP/Getty
+Warmbier, 22, died on Monday after returning home to Cincinnati, Ohio, on June 13 – the day of Rodman’s visit – in a coma and with severe brain damage. He spent more than a year in a North Korean prison after being sentenced to 15 years of prison and hard labor for allegedly stealing a political propaganda poster from his Pyongyang hotel in January 2016.
+GMA co-host Michael Strahan asked Rodman how he could be friends with the North Korean leader after what happened to Warmbier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-821ce1022db52bdef919bb351709e17e-59a51dbf1b60a');
+				var iframe = document.getElementById('wpcom-iframe-821ce1022db52bdef919bb351709e17e-59a51dbf1b60a');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-821ce1022db52bdef919bb351709e17e-59a51dbf1b60a'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Rodman initially tried to downplay their bond — “I’m not saying I would die for him” — and then said: “He’s a friend of mine, okay, great. I don’t look at the political side about him. I look at the friendship about him.”
+Rodman also insisted to ABC that he did not know Warmbier was sick at the time of his release.
+“I was just so happy to see the kid released,” Rodman said. “Later that day, that’s when we found out he was ill, no one knew that. We jumped up and down … Some good things came of this trip.”
+Kyodo
+The family announced Warmbier’s death in a statement, saying that the “awful torturous mistreatment our son received at the hands of the North Koreans ensured that no other outcome was possible beyond the sad one we received today.”
+North Korea reportedly told a U.S. official that Warmbier contracted botulism and slipped into the coma after taking a sleeping pill – they claimed to have released the student on “humanitarian grounds.”
+Thousands of Mourners Gather for North Korea Detainee Otto Warmbier’s Funeral at His Ohio High School
+
+In the days following his death, North Korea’s state media claimed Warmbier’s death was a “mystery,” according to CNN. Officials also denied allegations that Warmbier had been tortured during his time in the prison.
+“The fact that Warmbier died suddenly in less than a week after his return to the U.S. in his normal state of health indicators is a mystery to us as well,” a spokesman, quoted by North Korean state-run media, said. “To make it clear, we are the biggest victim of this incident.”
+/n

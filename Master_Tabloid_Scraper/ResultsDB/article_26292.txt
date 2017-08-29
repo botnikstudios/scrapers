@@ -1,0 +1,44 @@
+EXCLUSIVE! Source: Jamie Lee Curtis Written Out of Father's Will It was known by many personal friends to Jamie Lee Curtis and her late father, Tony Curtis, that they were not at all close. Occasionally, Jamie Lee spoke about the rift i.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/207198/source-jamie-lee-curtis-written-out-of-father-s-will');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2010615/293.crutis.tony.jamie.lc.071510.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tony Curtis, Jamie Lee Curtis");
+	var imageCaption = encodeURIComponent("Tony Curtis, Jamie Lee Curtis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jim Smeal/WireImage.com
+
+It was known by many personal friends to Jamie Lee Curtis and her late father, Tony Curtis, that they were not at all close.Occasionally, Jamie Lee spoke about the rift in interviews. But, now Jamie Lee's really driven the family dysfunction point home, thanks to her appearance today on The Talk. She let drop a few daughter-dearest bombs such as, "He was not a father. He was not interested in being a father." Wonder if that opinion was formed before or after Curtis became aware she was not included in Tony's will?
+
+According to sources intimately involved in the legal maneuverings of the elder Curtis, who died last month, Jamie Lee was written out of several wills Tony had drafted throughout the latter years of his life.Man. That's pretty nasty. Wonder what was behind it?A rep for Curtis said she refused to even ask her client about the will, as "it's really no one's business.""They were not close," said source who knew both Curtises. "Ever."Curtis explained to Joy Behar on last month that her father was just "not around" after her parents divorced when she was three.The curvy 51-year-old star of Freaky Friday, the Halloween franchise and Beverly Hills Chihuahua, was much tighter with her mother, Janet Leigh, who passed away six years ago.Jamie Lee defended her tough stance on The Talk:"[Tony] was very clear. He did what he was supposed to do from a financial standpoint, which was honorable for him to do. Buts he was not an involved father and, therefore, I look at him much more from the perspective of being like all of you: a fan of him."That much is true. When Curtis spoke at her dad's funeral earlier this month, she joked warmly about him for several minutes, admitting she got her "desperate need for attention" straight from her dad.Just not his money, apparently.
+/n

@@ -1,0 +1,51 @@
+Amal Clooney Enjoys Dinner Date in Italy With George Clooney and Her Mom New parents George Clooney and Amal Clooney are keeping the romance alive. As their twins continue to grow, the famous pair is finding time to sneak in a little adults-.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871983/amal-clooney-enjoys-dinner-date-in-italy-with-george-clooney-and-her-mom');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201777/rs_1080x1350-170807132927-1080.George-Clooney-Amal-Clooney-Lake-Como.ms.080717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("George Clooney, Amal Clooney");
+	var imageCaption = encodeURIComponent("George Clooney, Amal Clooney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID 
+
+
+
+
+
+
+New parents George Clooney and Amal Clooney are keeping the romance alive.As their twins continue to grow, the famous pair is finding time to sneak in a little adults-only time in Italy.Sunday night was no different as the couple headed to Il Gatto Nero for a quiet dinner out.In photos obtained by E! News, George and Amal were seen holding hands as they left the restaurant. The human rights attorney wore a black-and-white striped jumpsuit with shoulder-length earrings and a Sarah's Bag Pins Classic Clutch.As for George, he kept it casual with a crisp white button-down and denim jeans.        
+
+"They were very friendly with the staff and greeted everyone with warm handshakes and hugs," an eyewitness shared with E! News. "They were seated at one of the best tables in the restaurant along the railing overlooking the water."Our source added, "Amal looked amazing and seems to have lost all of the baby weight." Amal's mom was also able to join in on the dinner. We're told the group drank Pellegrino and shared many pasta dishes. And when it was time to leave and get in the car, George immediately shared something with Amal on his phone."They both laughed together and seemed very close," our eyewitness added. "They went straight back to their house."
+
+Ever since welcoming their twins back in June, the famous pair has been soaking up the baby bliss. And while both parents aren't ready to share pictures of Ella and Alexander Clooney, things are more than a-okay with this famous family."Amal is not working, and they both have the summer off and are enjoying Lake Como," a source previously shared with E! News. "They are very happy to be in Italy."Our insider added, "They have had a lot of friends visit and Amal's family is often around. There is always someone who can give a helping hand. That's given George and Amal an opportunity to be together and have some one-on-one time, too."
+/n

@@ -1,0 +1,44 @@
+Olivia Wilde Says Her and Jason Sudeikis' Son Otis, 1, Is "Absolutely in Love" With Beyoncé Beyoncé has found herself the cutest fan ever: Otis Sudeikis, the 22-month-old son of Olivia Wilde and fiancé Jason Sudeikis. The actr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/747555/olivia-wilde-says-her-and-jason-sudeikis-son-otis-1-is-absolutely-in-love-with-beyonce');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016210/rs_634x1024-160310072337-634.Jason-Sudeikis-Otis-Sudeikis-Beyonce-Clippers-Game-JR-020116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jason Sudeikis, Otis Sudeikis, Beyonce");
+	var imageCaption = encodeURIComponent("Jason Sudeikis, Otis Sudeikis, Beyonce");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+GC Images-Photo taken at a public event
+
+Beyoncé has found herself the cutest fan ever: Otis Sudeikis, the 22-month-old son of Olivia Wilde and fiancé Jason Sudeikis.The actress, who stars in the new HBO series Vinyl, talked about the boy's fondness for the pop star in an interview on The Ellen DeGeneres Show Thursday, Wilde's 32nd birthday."His love for Beyoncé has really hit a fever pitch and I approve of course, but it's intense," she said.The actress said Otis even got to see his idol in person."Jason was at a Clippers game recently and had Otis there and Beyoncé walked in and was sitting like, very far away on the other side of the Staples Center, court side," Wilde said. "And Jason said, 'Otis do you see who that is?' And he sat up and he's like, 'Beyoncé, Beyoncé.' And he stood on Jason's knees and just started going, 'Beyoncé!' And all these people were like, 'What is this 2-year-old doing?' And, you know, maybe one day she'll hear him." 
+
+You can credit the actress for introducing her son to the singer's music."You know how a lot of Mom's have on their iPads, like, a kid's show, like, an appropriate-for-kids program like an Elmo and such? I didn't and we were on an airplane and I needed, as many of you know, a distraction tool immediately and all I had was all of Beyoncé's videos from her last album," Wilde said. "And so, I just put those on for him and he was really taken and he really zoned in on one in particular, that's the one, 'Yonce,' which is arguably the most sexually explicit video ever made and he was like, 'Oh, yeah, yeah.'"Otis has also developed a nickname for the singer."And from that point on, he called her 'Beyoncé Boobies,' which I think is great. Because most people, if you're gonna call her, you call her, like, 'Beyoncé booty'...but he right now is still here, he's still thinking in this zone," Wilde said, moving her arms down her torso. "And he is absolutely in love with her."
+/n

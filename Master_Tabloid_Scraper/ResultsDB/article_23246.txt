@@ -1,0 +1,50 @@
+new parent gave birth to the couple's first child, daughter Cleo, just days ago, but quickly learned the hurt would not stop there.  "Gotta be an earnest mom real quick—breastfeeding is hard. No one warned me my breasts would quadr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/804510/nev-schulman-s-wife-breastfeeds-her-newborn-on-instagram-here-s-why-she-was-uncontrollably-crying');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016925/rs_634x773-161025110241-Nev-Schulman-Breastfeeding.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nev Schulman, Laura Perlongo, Breastfeeding");
+	var imageCaption = encodeURIComponent("Nev Schulman, Laura Perlongo, Breastfeeding");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Motherhood comes with plenty of pain—just ask Nev Schulman's girlfriend and first-time mom, Laura Perlongo. The new parent gave birth to the couple's first child, daughter Cleo, just days ago, but quickly learned the hurt would not stop there. "Gotta be an earnest mom real quick—breastfeeding is hard. No one warned me my breasts would quadruple in size, turn into painful rocks and send me into a total meltdown days after giving birth," she described on Instagram.Along with a photo of her breastfeeding the baby next to Schulman, Perlongo also explained why she had been uncontrollably crying and how Birth Day Presence, a child birth education service, came to the rescue.
+
+"Thank god nev remembered someone had reached out to offer help in this arena which, weeks ago, we sort of brushed off... now i know we were very naive. I couldn't be more grateful to Jada Shapiro @birthdaypresence for coming over and teaching us how to deal these first few days and putting us on a path to success. I want to encourage new moms to get help BEFORE they need it and avoid the hopeless, uncontrollable crying you can still detect on my face in this picture," she wrote. "Apologies if this tmi but it felt important to share. im cool now. ily. #breaststart #birthdaypresence"
+
+Perlongo has been candidly unfiltered in her first days as a mom, sharing photos and videos of herself breastfeeding since welcoming Cleo into the world, including right after she was born. "I don't remember this photo being taken or anything about the last 24 hours but bb girl has finally arrived. Completely enamored with 6lb 10oz Cleo James born this morning at 6:01," Perlongo wrote on Instagram on Friday. "She's everything."
+
+Perlongo certainly isn't the only celebrity mom in the midst of a breastfeeding struggle. After Coco welcomed baby Chanel nearly a year ago, she immediately addressed an unexpected side effect of the age-old process. "They told me, 'Breastfeed, breastfeed, breastfeed,' but the first week, they're like, 'The first week is hard, but once you make it over that first week, it's gonna be great,'" she told People in an interview posted Wednesday. "In that first week, my nipples were bleeding, and they were scabbing over and I was like, 'No one tells you that your nipples bleed!'"Jersey Shore star Nicole "Snooki" Polizzi also commented on the physical toll breastfeeding takes on a mother's body. 
+
+"My boobs are killing me," she told her  Podcast One listeners. "I feel like my nipples are going to fall off.""With Lorenzo, I didn't actually latch on. I just did the pump, so it didn't hurt that bad. But with Giovanna, I tried to latch on at the hospital and she latched on right away. So I said, 'You know what? Let me just do this until I get my milk in and then I'll just go straight to pumping, but Giovanna has been on my boob every single hour for the past four days, and my nipple is going to fall off. I can't feel it!"
+/n

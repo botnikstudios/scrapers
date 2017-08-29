@@ -1,0 +1,44 @@
+Vera Farmiga's Goth Gown: Gotta Have It or Make It Stop? There's something dark and twisty about Vera Farmiga's gown, and it's not just the dark fabric that twists at the waist. Maybe it's the Up In The Air star'.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/439527/vera-farmiga-s-goth-gown-gotta-have-it-or-make-it-stop');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013616/rs_634x1024-130716103938-634.VeraFarmiga.mh.071613.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vera Farmiga");
+	var imageCaption = encodeURIComponent("Vera Farmiga");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeffrey Mayer/WireImage
+
+There's something dark and twisty about Vera Farmiga's gown, and it's not just the dark fabric that twists at the waist.Maybe it's the Up In The Air star's new bleached blonde 'do, but she looks like a punk rock high schooler headed to prom in a look that's totally mortifying her mother. This is making us wonder what the Viktor & Rolf design team wore to their own proms...
+
+Visions of high school aside, this look still feels like a poor fit for the Bates Motel actress—in both style and size. The leather bustier is both too dark against her new, pale locks and also feels like it's cinched a bit too tight, while the scaly-patterned skirt is suffering the opposite problem, too much fabric that fits too big.Clearly we'd place this in, "make it stop," territory, but what's your take?
+/n

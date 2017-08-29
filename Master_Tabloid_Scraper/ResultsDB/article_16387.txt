@@ -1,0 +1,42 @@
+Fifth Harmony's Ally Brooke Hernandez Attacked Onstage During Concert Fifth Harmony's upheaval continues. The girl group was performing in Monterrey, Mexico Thursday when a fan rushed Ally Brooke Hernandez onstage. Fifth Harmony was performing at the.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/799011/fifth-harmony-s-ally-brooke-hernandez-attacked-onstage-during-concert');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016830/rs_634x1024-160930125805-634.Ally-Brooke-Hernandez-Nashville.kg.093016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ally Brooke Hernandez");
+	var imageCaption = encodeURIComponent("Ally Brooke Hernandez");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Photo by Rick Diamond/Getty Images for CMT
+
+Fifth Harmony's upheaval continues.The girl group was performing in Monterrey, Mexico Thursday when a fan rushed Ally Brooke Hernandez onstage. Fifth Harmony was performing at the Auditorio Banamex when a male ran onto the stage and knocked her over. Security promptly removed him from the concert, and Hernandez resumed her performance with the rest of the group.This has been a crazy week for Hernandez, who was also attacked at the airport earlier this week when the group arrived in Monterrey. Another male jumped out from an airport crowd in what appears to be an attempt to take a selfie with the songstress. "Just to let you know, I am okay after the airport incident," she wrote on social media, adding, "Please be careful and gentle so nobody gets hurt. That was scary. Thank you!"
+/n

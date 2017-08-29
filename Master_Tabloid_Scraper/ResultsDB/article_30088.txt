@@ -1,0 +1,46 @@
+Tony Awards 2017 Red Carpet Arrivals: See Kevin Spacey, Josh Groban and More Broadway Stars Kevin Spacey is giving his regards to Broadway as he hosts the 71st Annual 2017 Tony Awards tonight live from Radio City Music Hall in New York City..../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/860374/tony-awards-2017-red-carpet-arrivals-see-kevin-spacey-josh-groban-and-more-broadway-stars');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017511/rs_634x1024-170611154533-634.Kevin-Spacey-Tony-Awards-New-York.kg.061117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kevin Spacey, 2017 Tony Awards, Arrivals");
+	var imageCaption = encodeURIComponent("Kevin Spacey, 2017 Tony Awards, Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dimitrios Kambouris/Getty Images for Tony Awards Productions
+
+Kevin Spacey is giving his regards to Broadway as he hosts the 71st Annual 2017 Tony Awards tonight live from Radio City Music Hall in New York City.In addition to the House of Cards actor, several of Hollywood's biggest names turned out for the Great White Way, including Uma Thurman, Orlando Bloom, Sally Field, Scarlett Johansson and many more. During tonight's ceremonies, which are presented by The Broadway League and the American Theatre Wing, viewers will be treated to performances from the very best productions on Broadway in the past year."I was their second choice for Usual Suspects, fourth choice for American Beauty and 15th choice to host this year's Tony Awards," Kevin said in a press release. "I think my career is definitely going in the right direction."From War Paint and Hello Dolly! to Dear Evan Hansen and Come From Away, your favorite productions have been nominated. There's a slew of standing ovation worthy performances scheduled and we're sure your favorite entertainers will even pick up some awards along the way.Without further ado, take a look at our growing gallery featuring your favorite stars' looks below...
+
+While most people know Spacey for his roles in films, the actor he has actually won a Tony himself. The American Beauty actor won Best Featured Actor in a Play in 1991 for Lost in Yonkers. He was also nominated for Best Lead Actor in Play in 1999 for The Iceman Cometh.
+
+James Earl Jones will receive the Special Tony Award for Lifetime Achievement in the Theatre. The actor, who was recognized in 1969 for The Great White Hope and in 1987 for Fences, has also performed in Broadway productions of The Best Man, Cat on a Hot Tin Roof, Driving Miss Daisy, The Gin Game, On Golden Pond and You Can't Take It With You. Actress, choreographer and director Baayork Lee, meanwhile, will be honored with the Isabelle Stevenson Tony Award.The 71st Annual Tony Awards will air live from Radio City Music Hall on CBS June 11 at 8 p.m. ET.
+/n

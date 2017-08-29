@@ -1,0 +1,46 @@
+Jerry Lewis Dies at Age 91 Iconic Hollywood comedy star Jerry Lewis has passed away. He was 91. Lewis died Sunday morning at his home in Las Vegas, NBC News confirmed. Las Vegas Review-Journal columnist John Katsilometes tweeted a statement .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874653/jerry-lewis-dies-at-age-91');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017720/rs_634x1024-170820105255-634.jerry-lewis.cm.82017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jerry Lewis");
+	var imageCaption = encodeURIComponent("Jerry Lewis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gabe Ginsberg/Getty Images
+
+Iconic Hollywood comedy star Jerry Lewis has passed away. He was 91.Lewis died Sunday morning at his home in Las Vegas, NBC News confirmed. Las Vegas Review-Journal columnist John Katsilometes tweeted a statement from Lewis' family that read, "Legendary entertainer Jerry Lewis passed away peacefully today of natural causes at 91 at his home w/ family by his side."Lewis rose to fame in the '50s as a comedian and slapstick comic actor and as the sidekick of iconic singer Dean Martin. He went on to star in movies such as The Bellboy and The King of Comedy and in the original The Nutty Professor film in 1963. Throughout his career, he was especially popular among the people of France, who nicknamed him "Le Roi du Crazy." In 1984, Lewis received the French Legion of Honor.Lewis was also famous for hosting the annual Labor Day telethon benefiting the Muscular Dystrophy Association, of which he served as chairman, from 1952 to 2011. More than $2.7 billion was raised during that time. Lewis was nominated for a Nobel Peace Prize in 1977 for his efforts and received the Jean Hersholt Humanitarian Award at the 2009 Oscars.
+
+"We will miss Jerry so much. I can't believe I got to meet him and spend time with him," tweeted Penn Jillette‏."One of the greatest of all time," tweeted Josh Gad. "A legend. A showman. A comedic icon. A movie star. An activist. A one of a kind. RIP #jerrylewis."
+
+The actor had in recent years battled various health scares, including heart attacks and prostate cancer. He was most recently hospitalized in June for a urinary tract infection, ahead of a movie shoot.Lewis married twice; He and ex-wife and former singer Patti Palmer had six sons, of whom died in 2009. Lewis is survived by his second wife, SanDee Pitnick, with whom he shares an adopted daughter.
+/n

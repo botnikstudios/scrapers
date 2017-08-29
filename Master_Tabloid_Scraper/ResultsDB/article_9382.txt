@@ -1,0 +1,48 @@
+Morena Baccarin and Benjamin McKenzie Welcome Daughter Frances Laiz Setta Schenkkan Major congratulations are in store for Morena Baccarin and Benjamin McKenzie! The couple welcomed their baby into the world...and it's a girl! The actre.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/745093/morena-baccarin-and-benjamin-mckenzie-welcome-daughter-frances-laiz-setta-schenkkan');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201619/rs_634x1024-160209151803-634-ben-mckenzie-morena-baccarin-deadpool-020916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben McKenzie, Morena Baccarin");
+	var imageCaption = encodeURIComponent("Ben McKenzie, Morena Baccarin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Nicholas Hunt/Getty Images
+
+Major congratulations are in store for Morena Baccarin and Benjamin McKenzie! The couple welcomed their baby into the world...and it's a girl!The actress gave birth to their daughter, Frances Laiz Setta Schenkkan, on March 2. "All are happy and healthy and appreciate the well-wishes," Baccarn's rep tells E! News in a statement, reiterating that the couple is "so happy."This is the second child for the actress—who already has a 2-year-old son with her estranged husband, Austin Chick—and the first for McKenzie.The Gotham couple originally confirmed their pregnancy to E! News in September, and in February, Baccarin was already prepared to give birth."My water could break right now," the actress told us at a special fan screening of her new flick Deadpool in New York City. In fact, walking a red carpet was definitely not her idea of a good time. Baccarin admitted she felt "like crap" at the event. "I want to sleep all day and not be in a dress and heels," she candidly told us.Meanwhile, due to Baccarin's "high-risk" pregnancy, she was forced to postpone her deposition needed to finalize her divorce. 
+
+
+
+Evan Agostini/Invision/AP
+
+The Brazilian-born actress—who split from Chick in July 2015—declared in court documents, "I am now almost eight months pregnant, and I continue to have a high risk pregnancy. My physician, who I last saw on Jan. 29, 2016, has advised me to have as  much bed rest as possible and limited activities."Baccarin continued, "She further advised that sitting (as to answering questions) for a deposition, regardless of length of time, is unduly and unnecessarily stressful to me at this time. Such stress will affect my personal well-being and potentially cause harm to the health of my unborn child."We're glad the rest of her pregnancy and the birth of her child ended up going well! Congrats to the new parents!
+/n

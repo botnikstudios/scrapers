@@ -1,0 +1,46 @@
+2012 Kate took home her third Golden Globe when she won Best Performance by an Actress in a Mini-Series or Motion Picture Made for TV for her work in Mildred Pierce./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/729868/kate-winslet-wins-best-supporting-actress-in-a-movie-for-steve-jobs-at-2016-golden-globe-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016010/rs_634x1024-160110165401-634.kate-winslet.cm.11016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Winslet, Golden Globe Awards");
+	var imageCaption = encodeURIComponent("Kate Winslet, Golden Globe Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Kate Winslet took home the award for Best Performance by an Actress in a Supporting Role in a Motion Picture at the 2016 Golden Globes on Sunday for her performance in Steve Jobs.The actress beat out Ex Machina's Alicia Vikander, Youth's Jane Fonda, The Hateful Eight's Jennifer Jason Leigh, Trumbo's Helen Mirren to win the award.This is Kate's fourth Golden Globe, back in 2009 Kate took home her first two awards when she won for both Best Supporting and Best Actress.Then in 2012 Kate took home her third Golden Globe when she won Best Performance by an Actress in a Mini-Series or Motion Picture Made for TV for her work in Mildred Pierce.
+
+Channing Tatum and Jonah Hill presented the award to a very surprised Kate, who looked around in disbelief.It appears that she mouthed "I'm so sorry" to fellow nominee Alicia, who was sitting at her table.When she got on stage Kate revealed that she was "extremely surprised" and "overwhelmed" to win the award."Is this really happening?" Kate questioned. "OK I just want to start by saying what an incredible year for women in film and these categories are so crowded and ground with incredible skill and integrity and I feel prouder than ever this year to included I really truly do."
+
+Kate then went on to thank the Hollywood Foreign Press and her Steve Jobs co-star Michael Fassbender."You are a legend," Kate said. "I would watch you every day, I don't know I still don't know how you did it. We were all so impressed by you and overwhelmed by your talent. You set the bar so high for everybody. Thank you for being such an incredible colleague and friend."Kate also gave a shout-out to her "wonderful" husband, Ned Rocknroll, who she called "my everything" and said he makes it "all possible."Don't miss the Fashion Police Golden Globes special, Monday at 8 p.m., only on E!
+/n

@@ -1,0 +1,44 @@
+Steve Carell on Being a "Silver Fox": "My Wife Finally Said She's in Love With Me" Steve Carell is looking a touch different these days—and the entire country has noticed.  The Despicable Me star and famed comedian h.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/863772/steve-carell-on-being-a-silver-fox-my-wife-finally-said-she-s-in-love-with-me');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017521/rs_634x951-170621095821-634-Steve-Carell-Silver-Fox-JR-062117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Steve Carell");
+	var imageCaption = encodeURIComponent("Steve Carell");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+BACKGRID
+
+Steve Carell is looking a touch different these days—and the entire country has noticed. The Despicable Me star and famed comedian has been rocking silver locks as of late and has since acquired a new label: "silver fox." While visiting The Tonight Show Tuesday night, Jimmy Fallon couldn't let the moment to bring up the recent media attention pass him by."You're a studmuffin," Fallon complimented the star as the audience cheered. "It's not just me—look at this." The host whipped out a list of recent headlines about Carell, praising him as "insanely hot" among other digital admiration. One headline urged George Clooney to move over, insinuating that he has officially been replaced. "Shove aside," Carell joked. 
+
+Lookin' good, Steve!
+/n

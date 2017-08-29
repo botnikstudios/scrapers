@@ -1,0 +1,44 @@
+Oh No! Leona Lewis Wears Unflattering Mom Jeans on Set—See the Pics! Say it ain't so! Leona Lewis made a fashion faux pas while on the set of her upcoming flick in East London. The X Factor stunner wore a pair of mom jeans that did abso.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/473034/oh-no-leona-lewis-wears-unflattering-mom-jeans-on-set-see-the-pics');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013922/rs_634x1024-131022132151-634.leona-lewis-jeans.ls.102213_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leona Lewis ");
+	var imageCaption = encodeURIComponent("Leona Lewis ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FameFlynetUK/FAMEFLYNET PICTURES
+
+Say it ain't so!Leona Lewis made a fashion faux pas while on the set of her upcoming flick in East London.The X Factor stunner wore a pair of mom jeans that did absolutely nothing for her figure.We can't tell if it's the cut of the pant or the overall outfit that pushed her straight into the fashion victim category. And between the crochet bolero, ill-fitting tank or ankle boots, we can't tell what part of the outfit is worse.It's OK, girl, if at first you don't succeed…
+
+Lewis is currently overseas filming the flick Holiday!, an '80s-inspired musical that features music from the likes of Cyndi Lauper, Wham! and of course, Madonna. Because really, let's be honest, what would a film about that decade be without the incomparable pop diva?OK, so since the ensemble is for a movie set in the eighties, we will let this one slide a bit.Later on in the day, Lewis was seen entering her trailer wearing an overcoat on top of the outfit.Let's just say that little number was significantly better option.
+/n

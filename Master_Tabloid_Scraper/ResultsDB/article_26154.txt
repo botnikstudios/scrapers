@@ -1,0 +1,46 @@
+Paramore's Hayley Williams and Chad Gilbert Announce Split It's over for Hayley Williams and Chad Gilbert. After 16 months of marriage, the Paramore singer and New Found Glory guitarist have called it quits. "We want to public.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864560/paramore-s-hayley-williams-and-chad-gilbert-announce-split');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016121/rs_634x1024-160221093844-634.hayley-williams-chad-gilbert.cm.22116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hayley Williams, Chad Gilbert");
+	var imageCaption = encodeURIComponent("Hayley Williams, Chad Gilbert");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Christopher Polk/Getty Images
+
+It's over for Hayley Williams and Chad Gilbert.After 16 months of marriage, the Paramore singer and New Found Glory guitarist have called it quits."We want to publicly state—plainly, and only this time—that we are splitting up," the two wrote in a statement posted on their Instagram pages Saturday. "We also feel it's important to state that we are going to be okay and in fact, we remain close friends who are good in each other's eyes. That's something we are deeply thankful for. Even though situations like these can feel defeating. We will continue to encourage and support each other personally and professionally.""Hopefully, you'll understand that the personal aspects of what we are going through are not for anyone else to carry. Only us," the statement said. "To allow people any further into this moment in our lives would be to dishonor our history together and our ability to move forward with integrity. Thank you to fans of both of our bands and for all the kindness you've shown to both of us for so many years. Thanks to our families for loving us in all our seasons. Hayley and Chad."
+
+Williams and Gilbert got engaged in December 2014 after dating for several years and wed in February 2016 at the Franklin Theater in Nashville. They have no children together.
+
+"The two of us have been together for the better part of 10 years," their statement said. "We've grown up together and we've been beside each other through a lot of goodness and a lot of challenges. There is a challenge to trying to understand your own heart in the context of a relationship. There is goodness in considering another heart, even in spite of your own.""Marriage is not for the faint of heart," they said. "Love is an absolute risk. And it's up to each of us to stay hopeful even when the outcome isn't what we'd originally hoped for."
+/n

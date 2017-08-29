@@ -1,0 +1,46 @@
+Hayley Atwell Gets Stuck in the Airport Watching Captain America, Dresses as Peggy Carter for Driver's License—See the Pi Hayley Atwell had to experience that awkward moment when she was forced to watch herself onscreen while stuck at t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/651040/hayley-atwell-gets-stuck-in-the-airport-watching-captain-america-dresses-as-peggy-cater-for-driver-s-license-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015328/rs_634x1024-150428070010-634.Hayley-Atwell-Twitter-JR-42815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hayley Atwell, Twitter");
+	var imageCaption = encodeURIComponent("Hayley Atwell, Twitter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+Hayley Atwell had to experience that awkward moment when she was forced to watch herself onscreen while stuck at the airport. The lounge was airing Captain America: The First Avenger, so she had no choice but to watch her character, Peggy Carter, on the big screen.She took to Twitter to express her, er, discomfort. "Captain America is playing in the airport Lounge," she tweeted. "I'm hiding behind my plate of sandwiches." Although she hid from the people so they wouldn't notice her, she couldn't help but play a little game of hypotheticals with her followers."Can you imagine if I just stood up right now and was all, 'ladies and gentlemen, it is I..,'" she joked. But the Agent Carter actress kept to herself, and even posted a selfie hiding among the people. Unfortunately (or fortunately), they didn't notice her."Look, they couldn't care less..." she noted on Twitter.
+
+It seems Atwell can never escape her Avengers: Age of Ultron character, as she revealed to her followers that she also had to get a new license dressed as her fictional persona! "So I told people I had to go to the dmv dressed as Peg. Wearing a harness, mic and Spanx. Anyone wanna see the pic?"Of course we do!Thankfully, she shared the amazing picture of her license, and it definitely takes ID photos to another level. Really dressed as Peggy, Atwell rocked her old-Hollywood hair, red lipstick and signature costume. We can only imagine what the employee who took the photo was thinking.
+
+Although Atwell kicks butt on both the large and small screen, she told E! News that playing the same role in both mediums allows for different opportunities (and maybe a chance to change out of her costume LOL). "...Because we have more time on television, we dig much deeper and we'll see Peggy much darker. We'll see her flaws and vulnerabilities and also more importantly we see her sense of humor."She must not have to act too hard to portray a sense of humor because based on her Twitter account it seems that Atwell really knows how to have some fun.
+/n

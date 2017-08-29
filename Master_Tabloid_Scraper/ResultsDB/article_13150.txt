@@ -1,0 +1,44 @@
+Caitlyn Jenner's Mom Esther Applauds Her ''Courage''—''She's Happy. That's All That Matters'' One person who couldn't be happier for Caitlyn Jenner? Her mother Esther Jenner. ".../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/663279/caitlyn-jenner-s-mom-esther-applauds-her-courage-she-s-happy-that-s-all-that-matters');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201551/rs_634x890-150601092053-634.2vf-cover-caitlyn-bruce-jenner-july-2015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Caitlyn Jenner, Bruce Jenner, Vanity Fair, Magazine, Iconic Celeb Photos");
+	var imageCaption = encodeURIComponent("Caitlyn Jenner, Bruce Jenner, Vanity Fair, Magazine, Iconic Celeb Photos");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Annie Leibovitz for Vanity Fair
+
+One person who couldn't be happier for Caitlyn Jenner? Her mother Esther Jenner."It was a wonderful day," Esther recently told People magazine. "It takes so much courage to do what she's doing."Esther met Caitlyn just recently when she traveled to the 65-year-old's Malibu home. "When I first saw [Caitlyn] all I wanted to do was give her a big hug. It was such new information," Esther says."It takes some time getting used to," she added. "I've called [Caitlyn] Bruce since the day he was born. It's going to take some time, but I will adjust."
+
+Regardless, Esther says she supports whatever the Keeping Up With the Kardashians star wants. "I love her," says Esther. "And she's happy. That's all that matters."Caitlyn made her big debut on Monday on the cover of Vanity Fair. In the accompanying interview, Caitlyn anticipated meeting her mother as a woman. "My mom is, for 89 years old, is extraordinarily open-minded," she said, adding, "Once they meet you and they spend five minutes with you, they go, 'Oh, OK. I get it. Big deal. Let's go on with life...And I think my mom will kind of be the same way."Caitlyn recalled a conversation she had with Esther in which her mother told her, "You know what? I think I can have a better relationship with Caitlyn than I can with Bruce."It sure sounds like it.Tune in to the premiere of the new E! docu-series I Am Cait on June 26.
+/n

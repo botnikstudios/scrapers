@@ -1,0 +1,84 @@
+'I Have Chills': Janice Dickinson Connects with Late Friend John Belushi on Hollywood Medium with Tyler Henry
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-756dbd4d5964c58b946560e04245e9b0-59a50786d11a6');
+				var iframe = document.getElementById('wpcom-iframe-756dbd4d5964c58b946560e04245e9b0-59a50786d11a6');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-756dbd4d5964c58b946560e04245e9b0-59a50786d11a6'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Janice Dickinson was looking to get in touch with an old friend.
+In a sneak peek at Wednesday’s episode of Hollywood Medium with Tyler Henry, the former supermodel and America’s Next Top Model judge attends a reading with Henry where he seems to channel her good friend and late Saturday Night Live star John Belushi.
+“I have chills,” Dickinson, 62, tells Henry in the clip after he alludes to the fact she was away when Belushi died. “I have chills on my chills.”
+RELATED VIDEO: After Janice Dickinson Details Alleged Sexual Assault by Bill Cosby, His Attorney Denies
+
+ 
+Dickinson says she was away on a shoot for American Bazaar when the comedian died of a drug overdose at the Chateau Marmont Hotel in West Hollywood, California, in 1982.
+“I’m blown away,” Dickinson says of 21-year-old Henry, who calls himself a “clairvoyant medium.”
+Season 2 of Hollywood Medium with Tyler Henry airs Wednesdays (9 p.m. ET) on E!
+/n

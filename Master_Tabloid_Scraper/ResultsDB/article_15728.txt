@@ -1,0 +1,50 @@
+EXCLUSIVE! Evelyn Lozada Reveals the Real Reason Why This Is Her "Most Challenging" Season on Vh1's Basketball Wives Evelyn Lozada is back in Vh1's Basketball Wives game. After taking a couple of seasons off to focus on f.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844359/evelyn-lozada-reveals-the-real-reason-why-this-is-her-most-challenging-season-on-basketball-wives');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017318/rs_634x1024-170418132707-634.evelyn-losado-2.cm.41817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Evelyn Lozada, Basketball Wives");
+	var imageCaption = encodeURIComponent("Evelyn Lozada, Basketball Wives");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+VH1
+
+Evelyn Lozada is back in Vh1's Basketball Wives game.After taking a couple of seasons off to focus on family and other opportunities including her OWN docu-series Livin' Lozada, the reality star is back and ready to prove she is a changed person."I will say this is one of the hardest seasons for me because like of course I'm coming in, people are going to want me to react. People are going to want me to do certain things because they want to prove to the world that I'm still the same person," Evelyn shared with E! News exclusively. "I really don't want to disappoint anybody, but I will say that this season was the most challenging out of all seasons."In the season premiere alone, Evelyn faced drama involving her co-stars Tami Roman and Jackie Christie. During a ‘70s-themed party, the ladies confronted Evelyn for some of her actions both online and in interviews from years ago."[Tami] had cursed me out and I was trying to communicate.. Seasons ago, that could've been very very ugly. I wanted to do the show again. Everything doesn't need to be an argument. We don't have to call each other bitches and hoes every five minutes," Evelyn shared. "We can actually do better and co-exist and respect each other even if we have some differences. That's my overall goal this season and I think you will see that."
+
+
+
+David Livingston/Getty Images
+
+It may be easier said than done. If you thought Monday night's episode was dramatic, hold on for more throughout the season."There were certain things that were said. We do this show, I get it, you say things about each other when you're angry, or upset, but there's just certain things, this is probably the first season where I feel like… that one cast member went way below the belt and you will see my reaction to that," Evelyn teased.One things viewers won't be seeing is a wedding involving Evelyn and her fiancé Carl Crawford. While the couple got engaged in 2013, there are no plans for a televised wedding or public spectacular."Carl has no social network. He's very private. What I do is a whole other world to him. He's supportive but does he want to be on the show? No. So I think that when we do get married, and you guys hear about it, we probably would be married for a couple of months at that point," she explained. "I don't broadcast that part of my life because I've learned my lesson."
+
+Ultimately, Evelyn is grateful her friend and co-star Shaunie O'Neal invited her back to VH1's hit series. And while many members of her family were "side-eyeing a little bit" when news broke of her return, the Inner Circle author feels a sense of loyalty to the franchise."Nobody understands. I am connected to this show. I'm emotionally connected. I was the first person that Shaunie called to do the show," she shared with us. "I do feel a really, really personal connection to the franchise. I want to see it do well. I want to see it evolve and take things to another level."Basketball Wives airs Monday nights at 9 p.m. on VH1.
+/n

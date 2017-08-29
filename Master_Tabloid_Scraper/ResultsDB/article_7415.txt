@@ -1,0 +1,60 @@
+Isaiah Thomas Bares His Booty for ESPN The Magazine's Annual BODY Issue Isaiah Thomas is stripping down! The Boston Celtics star is featured in ESPN The Magazine's ninth edition of The Body Issue for which he not only bared his boo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/862965/isaiah-thomas-bares-his-booty-for-espn-the-magazine-s-annual-body-issue');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017523/rs_634x740-170623095116-634.Isaiah-Thomas-Body-Image-Kf.62317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESPN Body Image, Javier Baez, Isaiah Thomas");
+	var imageCaption = encodeURIComponent("ESPN Body Image, Javier Baez, Isaiah Thomas");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ESPN The Magazine
+
+Isaiah Thomas is stripping down!The Boston Celtics star is featured in ESPN The Magazine's ninth edition of The Body Issue for which he not only bared his booty, but also opened up about his personal struggle with his height as an NBA player.Measuring at 5'9" (on a good day, he jokes), Thomas feels he's never really been given a fair opportunity, and therefore, he's always had to work a little harder."I mean, the things that I'm doing—if I were 6'5" or 6'6"—it would be magnified even more, talked about even more. And that's how it's been my whole career—my whole life," he told the publication. "I've never been given a fair shake, even to this day."
+
+But that never stopped him. He was confident in obtaining his goals no matter who stood in the way—taller or not!
+
+
+
+Elsa/Getty Images
+
+"I always say nothing's been given to me; I always took what I believe is mine, and I always took advantage of the opportunity that I've got," he said. "And not to put anything against the bigger guys, but for the most part, they're handed a lot. Us little guys in the gutter, we're not handed anything. We're not given the benefit of the doubt. They always overlook us."However, he warned people not to be mistaken. Being smaller doesn't mean he's any less talented."Being the smallest guy on the court has actually been to my advantage. When I tell people that, they always look at me like I'm crazy. But Gary Payton, years ago, told me that 'the guy that's lowest to the ground usually always wins.' All of the small guys who played before me and who've played during my time, they've been special in their own way."
+
+He continued, "I think that's the difference between the small guys and the giants out there: When you're small, you've got to be special in some way, somehow."
+
+
+
+ESPN The Magazine
+
+Along with Thomas, Chicago Cubs infielder Javier Baez is also featured in The Body Issue. In fact, he was featured on the publication's very first cover to be shot with an iPhone."Going into this, our 9th year of producing BODY, we wanted to do something creatively that we have never done before," editor-in-chief Alison Overholt explained. "We wanted fans to have that moment of awe again where they say, 'Wow. How did they do that?'"She continued, "We were seeing the incredible images iPhone users post on social media tagged with #shotoniphone and our team said, 'That's it. How about we do a BODY shoot on iPhone?' With Javier on board with us, this cover—and the entire shoot—turned out as beautifully as we imagined."
+
+Photographer Dylan Coulter added, "While this was very different from any shoot I had ever done, it was both creatively challenging and rewarding, and I was incredibly impressed with the capabilities of iPhone 7 Plus."Check out more from ESPN The Magazine's new Body Issue here.
+/n

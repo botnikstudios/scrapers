@@ -1,0 +1,46 @@
+Melissa Gilbert Owes Over $360,000 to the IRS in Unpaid Taxes Melissa Gilbert, the actress who is best known for her role on the television series Little House on the Prairie, owes over $360,000 in taxes to the IRS.  E! News has obtained an .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/666286/melissa-gilbert-owes-over-360-000-to-the-irs-in-unpaid-taxes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201507/rs_634x1024-150107093312-634.Melissa-Gilbert.jl.010715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Melissa Gilbert");
+	var imageCaption = encodeURIComponent("Melissa Gilbert");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John M. Heller/Getty Images
+
+Melissa Gilbert, the actress who is best known for her role on the television series Little House on the Prairie, owes over $360,000 in taxes to the IRS. E! News has obtained an IRS Tax Lien against the 51-year-old actress, which was filed in January 22, 2015. According to the docs, the Register of Deeds in Livingston County claims Gilbert has unpaid taxes over the course of the past three years. The notice states that Gilbert owes $219,989.09 for the 2011 tax period, $99,404.94 for 2012 and $41,156.69 for 2013, all totaling $360,550.72."Like so many people across the nation, the recession hit me hard," Gilbert said in a statement to E! News via her rep. "That, plus a divorce and a dearth of acting opportunities the last few years, created a perfect storm of financial difficulty for me. I've set up an installment plan to fully pay off my debt and will continue to work as hard as I can to erase this debt and dig myself out of this hole."
+
+READ: Robert Di Niro didn't mean to not pay $6.4 million in taxes!
+
+PHOTOS: Stars who've had tax troubles
+/n

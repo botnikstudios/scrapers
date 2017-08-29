@@ -1,0 +1,48 @@
+EXCLUSIVE! Scream Queens' Chances For a Second Season Could Ride on Jamie Lee Curtis Winning at the 2016 Golden Globes No pressure HFPA, but if Jamie Lee Curtis doesn't win tonight you are officially on our no-good, very-bad list. .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/729796/scream-queens-chances-for-a-second-season-could-ride-on-jamie-lee-curtis-winning-at-the-2016-golden-globes');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016010/rs_634x1024-160110151332-634-jamie-lee-curtis-Golden-Globe-Awards.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jamie Lee Curtis, Golden Globe Awards");
+	var imageCaption = encodeURIComponent("Jamie Lee Curtis, Golden Globe Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevork Djansezian/NBC/NBCU Photo Bank via Getty Images
+
+No pressure HFPA, but if Jamie Lee Curtis doesn't win tonight you are officially on our no-good, very-bad list.The original Hollywood scream queen is nominated for Best Actress in a Comedy at the 2016 Golden Globes for her hilarious work as Dean Cathy Munsch on Fox's breakout hit Scream Queens, which has yet to be picked up for a second season. (For real. We would know, we've been holding daily prayer circles!) And Jamie knows just how important her win in the stacked category is for the Ryan Murphy-created show. "A win would mean a second season for Scream Queens," Jamie told Giuliana Rancic about her dress on E!'s Live From the Red Carpet. "So I want to make it altruistic. I want it for the crew, the cast and all the hundreds of people who worked so hard to make this so funny and great. That's what would happen for me."
+
+APP: Download the E! Online app to get the latest Golden Globes news on the go!
+
+She then stressed, "If I won it would be a guaranteed second season for Scream Queens and I would feel really good."Again, no pressure, Hollywood Foreign Press Association!But if Jamie does win AND Scream Queens is picked up for season two, would Dean Munsch actually appear? Ryan Murphy has said that he planned to have four or five characters stick around, and the main cast was split into two groups at the end of season one, so it remains to be seen which stars would come back. (For what it's worth, both Emma Roberts and Lea Michele have said they want to return.)
+
+The 2016 Golden Globe Awards air live on NBC at 8 p.m. ET / 5 p.m. ET.E!'s Live From the Red Carpet gets underway Sunday at 6 p.m. ET/3 p.m. PT. E! Online's livestream begins at 5:55 p.m. ET/2:55 p.m. PT.Plus, watch E! After Party: The 2016 Golden Globes at 11 p.m. ET/8 p.m. PT and the Fashion Police Golden Globes special, Monday at 8 p.m., only on E!
+/n

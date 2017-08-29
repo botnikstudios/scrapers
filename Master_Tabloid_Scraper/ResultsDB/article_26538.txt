@@ -1,0 +1,48 @@
+Angelina Jolie and Brad Pitt's Divorce Is Not Moving Forward: ''A Lot Has Changed'' "A lot has changed since Angelina filed," the source notes, adding that Pitt's sobriety has "really changed".../n
+Angelina Jolie and Brad Pitt have pressed pause on their divorce proceedings. Nearly a year after the A-list actress and humanitarian filed for divorce from her husband of two years and partner of 12, a source tells E! News things have come to a stand still. "It's true that the divorce is not moving forward right now. They are taking a breather and seeing what happens," the insider explains. Both Angelina and Brad have discussed the fallout of their bombshell split in separate interviews, including the negative impact on their six children (ages 16-9) as well as their personal lives. The Maleficent star recently moved her family into a $25 million Los Angeles home, an adjustment she described to Vanity Fair as a "big jump forward for us," while Brad is now sober."I was a professional. I was good," the actor told GQ Style in reference to his drinking habits. "[But I didn't] want to live that way anymore."It's these shifts, we're told, that has led the exes to reconsider. Our source says, "They don't take divorce lightly and want to make sure they are doing the right thing."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872841/angelina-jolie-and-brad-pitt-s-divorce-is-not-moving-forward-a-lot-has-changed');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016820/rs_634x1024-160920095623-634-angelina-jolie-brad-pitt-divorce.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Brad Pitt, Angelina Jolie");
+	var imageCaption = encodeURIComponent("Brad Pitt, Angelina Jolie");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX/Shutterstock
+
+"A lot has changed since Angelina filed," the source notes, adding that Pitt's sobriety has "really changed" their relationship. A separate insider adds, "Brad has been working on self-improvement."So is an official reconciliation just over the horizon? Not necessarily, as the insider says Brad and Angelina's future is "up in the air" for the time being. "Things can change quickly," the source adds, "but they aren't pursuing the divorce at this time."In Angelina's original divorce filing from last September, the U.N. Goodwill Ambassador cited "irreconcilable differences" and requested sole physical custody of their kids, allowing Pitt visitation rights. In Pitt's response to the filing, he asked a judge to grant joint physical custody of Maddox Jolie-Pitt, 16, Pax Jolie-Pitt, 13, Zahara Jolie-Pitt, 12, Shiloh Jolie-Pitt, 11, and twins Knox Jolie-Pitt and Vivienne Jolie-Pitt, 9.In December, a temporary custody agreement was reached that granted Angelina custody of the kids and Brad "therapeutic visitation" rights. He also agreed to partake in weekly individual therapy sessions and participate in random drug and alcohol testing.
+
+Well into the new year, the Mr. & Mrs. Smith co-stars had taken a positive step toward a more amicable relationship. "Things have settled between Brad and Angelina," a source told E! News in March. "It's not as tense as it had been... They recently started talking again and it's a significant step. Up until now, everything was through lawyers and assistants."It was also revealed that the War Machine actor intermittently joined Angelina and the kids while filming First They Killed My Father in Cambodia, and spent Father's Day in L.A. with them. 
+
+"The whole family needs to heal," a source previously shared with us. "Thankfully both parents are committed to making sure that happens."
+/n

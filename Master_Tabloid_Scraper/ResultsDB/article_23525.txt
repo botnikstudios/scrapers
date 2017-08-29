@@ -1,0 +1,50 @@
+UPDATE! Did Viola Davis and Julius Tennon Renew Their Wedding Vows? All the Clues That Point to a Special Day UPDATE: Viola Davis confirmed her special ceremony with one romantic Instagram picture. "'We are most alive when we'.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/739820/did-viola-davis-and-julius-tennon-renew-their-wedding-vows-all-the-clues-that-point-to-a-special-day');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016030/rs_634x1024-160130165206-634.Viola-Davis-Julius-Tennon-SAG-Awards.ms.013016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, Julius Tennon, SAG Awards 2016, Couples");
+	var imageCaption = encodeURIComponent("Viola Davis, Julius Tennon, SAG Awards 2016, Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeff Vespa/WireImage
+
+UPDATE: Viola Davis confirmed her special ceremony with one romantic Instagram picture. "'We are most alive when we're in love.' -John Updike," she wrote on social media Sunday evening while standing at the altar next to her husband. ————Congrats are in order for Viola Davis and Julius Tennon!The 50-year-old Emmy-winning How to Get Away With Murder star and the 62-year-old actor appear to have renewed their wedding vows Saturday night, a day before Valentine's Day and more than 12 years after they got married.While the couple has yet to officially confirm anything, Davis recently posted a photo of their 4-year-old daughter Genesis wearing a black and white striped top and pink tutu and lying down with her arms above her head, looking very excited."Mommy and Daddy are getting married again today!!!!!!!YAY!!!!" the actress wrote Saturday afternoon.
+
+Several of the couple's friends, including How to Get Away With Murder co-stars Karla Souza and Jack Falahee, shared photos as they traveled to the undisclosed venue. Many of the guests were given large white roses to match their white outfits.
+
+
+
+John Shearer/WireImage
+
+If that wasn't enough proof that something special went down, E! News spotted an Instagram of a guest getting picked up from the post-ceremony dance party. The picture has since been deleted. Hmmm. Davis married Tennon, who starred in movies such as Small Soldiers and Dazed and Confused, in 2003.Davis and Tennon exchanged vows again several years later, InStyle reported in December. The magazine said she planned on wearing a custom Carmen Marc Valvo dress for her recent vow renewal. When the couple first got married, the actress wore a dress from Express.In 2011, the couple adopted Genesis when she was a newborn. She is the pair's first child together. Tennon has two adult children from previous relationships.
+/n

@@ -1,0 +1,46 @@
+Selma Blair Taken to Hospital After Being Removed From Plane Following Reported Outburst Unfortunately, Selma Blair didn't have a smooth flight home. The actress was taken to a local hospital on Monday after being removed in a stretcher.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/774345/selma-blair-taken-to-hospital-after-being-removed-from-plane-following-reported-outburst');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016329/rs_634x1024-160429083453-634.mothers-daughters-selma-blair.ls.42916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Selma Blair");
+	var imageCaption = encodeURIComponent("Selma Blair");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Vivien Killilea/WireImage
+
+Unfortunately, Selma Blair didn't have a smooth flight home.The actress was taken to a local hospital on Monday after being removed in a stretcher from her Delta flight to Los Angeles for having a reported outburst mid-flight. "She was met by paramedics at LAX as soon as her plane arrived," a source tells People. "It looks like she had taken a combination of prescription medication with alcohol. We don't know what sort of prescription medications."Additionally, the Los Angeles Fire Department tells E! News that they responded to a call at "2:54 p.m. for an individual that was sick on a plane and transported the individual to a local hospital."TMZ, who first reported the story, alleges that the actress was enjoying a glass of wine in first class when she started to cry and talk about fears regarding an unidentified man. "He burns my private parts. He won't let me eat or drink," she reportedly stated. "He beats me. He's going to kill me."After nurses on the flight tended to Blair and checked her bags, the pilot reportedly called to state there was a passenger mixing medication with alcohol.E! News has reached out to Blair's rep for comment.
+
+Blair was on the flight with her 4-year-old son Arthur Saint, and the pair were returning from a Father's Day trip to Cancun, Mexico, where they met with her ex and Arthur's father, Jason Bleick.A source tells E! News Selma appeared really happy in Mexico and that it looked like a normal family vacation. "She wasn't there to party," the source added, noting that the exes and their son were seen playing on the beach and enjoying the spa.The trio stayed at the Hard Rock Hotel Rivera Maya where Blair indulged in a massage at the Rock Spa and relaxed with their hydrotherapy services. "Arthur was so happy to spend the weekend with his family, giving his mom lots of hugs and kisses on their beach getaway," an insider tells E! News."Selma and Jason got cozy in a cabana where they played with son, Arthur, and the family was spotted laughing, building sand castles and playing beach games. The actress had a relaxing and healthy weekend, where she worked out daily and spent time with her family."  
+
+—Additional reporting by Holly Passalaqua
+/n

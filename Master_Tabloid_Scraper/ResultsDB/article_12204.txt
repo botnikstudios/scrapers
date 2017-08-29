@@ -1,0 +1,52 @@
+leads, Disney's live-action Aladdin adaptation is one jump behind. Casting the beloved street rat and princess has proven to be challenging, as director Guy Ritchie recruited casting directors from around the globe to launch a massive, .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866267/live-action-aladdin-having-trouble-casting-its-leads-here-s-who-s-in-the-running');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016815/rs_634x1024-160915102738-634-Riz-Ahmed-the-night-of.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Riz Ahmed");
+	var imageCaption = encodeURIComponent("Riz Ahmed");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ethan Miller/Getty Image
+
+When it comes to casting its leads, Disney's live-action Aladdin adaptation is one jump behind.Casting the beloved street rat and princess has proven to be challenging, as director Guy Ritchie recruited casting directors from around the globe to launch a massive, worldwide search (via magic carpet?) for the lead roles of Aladdin and Jasmine. Approximately 2,000 actors have read for the parts, but the search may still require three wishes from a helpful genie.The role of Aladdin calls for a 20-something male who can sing and act, and the studio prefers someone of Middle Eastern or Indian descent. This has likely made the casting process more difficult, due to significant under-representation of race and ethnicity in Hollywood. According to PBS, a study of the top 100 films of 2014 found that only 5.3 percent of characters were portrayed by Asian actors, a smaller percentage of which being actors of Indian descent.
+
+
+
+Kevin Winter/Getty Images
+
+Among those initially considered for the lead role were Slumdog Millionaire's Dev Patel and The Night Of's Riz Ahmed, but it now appears that the film is moving toward casting a newcomer for the part. This has been successful for other recent Disney films, such as the casting of Daisy Ridley as Rey in Star Wars: The Force Awakens, which also came out of an extensive casting process.Of the newcomers, front-runners to potentially play Aladdin are currently Dutch actor Achraf Koutet, Canadian actor Mena Massoud and American actor George Kosturos, according to The Hollywood Reporter. Landing the role would be a huge break for any of the three relatively unknowns, though Massoud is set to star alongside John Krasinski in the upcoming TV series Jack Ryan.
+
+Casting the role of Jasmine ultimately depends on who lands the part of Aladdin, due to the necessary chemistry between the two characters. THR reports that among actresses being considered to play the princess are Naomi Scott, of Power Rangers, and Indian actress Tara Sutaria. 
+
+The role of Jafar has also yet to be cast, but Will Smith has been in talks to portray the Genie. The studio originally planned to begin production in July, but casting difficulties have pushed back filming until August.
+/n

@@ -1,0 +1,45 @@
+New Couple Alert? Jake Gyllenhaal and Ruth Wilson Spotted Arm in Arm on Dinner Date—See for Yourself! Is there something Jake Gyllenhaal's not telling us? The Nightcrawler actor (and birthday boy!) has been spotted all over New York Cit.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/608205/new-couple-alert-jake-gyllenhaal-and-ruth-wilson-spotted-arm-in-arm-on-dinner-date-see-for-yourself');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141119/rs_634x1024-141219140216-634-2jake-gyllenhaal-ruth.ls.121914.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jake Gyllenhaal, Ruth Wilson");
+	var imageCaption = encodeURIComponent("Jake Gyllenhaal, Ruth Wilson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Elder Ordonez/INFphoto.com
+
+Is there something Jake Gyllenhaal's not telling us?The Nightcrawler actor (and birthday boy!) has been spotted all over New York City these past few weeks with none other than The Affair's Ruth Wilson.The two have attended events together, been snapped in the pages of Vogue magazine, and have shared many meals together since the announcement that they're co-starring in the upcoming Broadway play, Constellations.Just last night, the good-looking duo grabbed a bite to eat at West Village hot spot Buvette and left the eatery locking arms.
+
+At one point in their post-meal stroll, Wilson put her arm over Gyllenhaal's shoulder and smiled at her dinner partner.A source tells E! News that things were getting pretty hot and heavy between the two, who were "kissing several times" throughout their meal.A separate source, however, says that these two are just friends and are spending more time together due to their exciting upcoming project.In their joint interview with the aforementioned fashion bible, the actors opened up about the intricacies of relationships both on and off the stage."It makes me think of all the permutations of relationships," he shared with the magazine about his decision to take on the future role and how he resonates with the character."Times when I've approached somebody and they haven't been interested, or someone's approached me and I haven't been interested, or maybe things felt really, really right but it still didn't work out—every incarnation possible. We've all had those moments."
+/n

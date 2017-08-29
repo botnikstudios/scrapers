@@ -1,0 +1,46 @@
+Sofia Vergara Dishes How She's Most Different From Joe Manganiello But despite any difference, the couple—who got married in November 2015—is very in love and very happy. The actress told E! News' Giuliana Rancic at the 2017 SAG Aw.../n
+With everything that makes them fit well together, Sofia Vergara can laugh about her differences with Joe Manganiello.The Modern Family actress chatted with E! News at the premiere of The Female Brain where she opened up about her relationship with her handsome hubby and how they're different."The cultural difference!" she told us. "I am Colombian and he's American-Italian. The cultural differences sometimes are really funny between us."Vergara laughed as she continued, "There's many differences. Physically, he's a lot stronger than me!"
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/861948/sofia-vergara-dishes-how-she-s-most-different-from-joe-manganiello');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017029/rs_634x1024-170129205357-634.Joe-Manganiello-Sofia-Vergara-SAG-Awards-Candids-ms.012917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joe Manganiello, Sofia Vergara, 2017 SAG Awards, Candids");
+	var imageCaption = encodeURIComponent("Joe Manganiello, Sofia Vergara, 2017 SAG Awards, Candids");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Neilson Barnard/Getty Images
+
+But despite any difference, the couple—who got married in November 2015—is very in love and very happy.The actress told E! News' Giuliana Rancic at the 2017 SAG Awards, "We feel like we're newlyweds." And when asked what Manganiello loves most about his wife, she replied with a giggle, "I think everything!"He would definitely agree.Earlier this year, the Magic Mike star told Cosmopolitan U.K., "Sofia and I have always put each other's well-being first, and that's how I knew she was the one."He's continued to prove those strong feelings with her time and time again. In fact, he one time wrote her a 40-page book!"I wrote her a book as a gift for our first anniversary," he recalled. "It was about how we met—as well as our courting—and was about 40 pages long."
+
+So, it came as no surprise when he noted, "I love my wife a lot."Can you say #CoupleGoals?!
+/n

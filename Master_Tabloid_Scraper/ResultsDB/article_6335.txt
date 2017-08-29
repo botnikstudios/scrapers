@@ -1,0 +1,108 @@
+plenty of times, and twist it and turn it anyway they want to. You used to be able to go out...it's all I've known. I've been here since I was 20." Hannah Jeter, in fact, used the site in February to post, "The Derek.../n
+For the 20 years he played baseball, did anyone have the world at his feet more than Derek Jeter?The New York Yankees shortstop gave his adoring fans what they wanted in the form of five World Series titles, earning him nicknames like "Captain Clutch" and "Mr. November." In turn, Jeter was gifted with fame, hundreds of millions of dollars, 14 trips to the MLB All-Star Game and more female attention than any one man might know what to do with.Throughout, despite being one of the biggest names in all of sports, let alone the official BMOC of the Big Apple, he somehow remained free of any major scandals or anything else that could have tarnished the Yanks' beloved No. 2—no failed drug tests, no arrests or legal troubles (well, there was a tax thing), no messy divorce, no cheating scandals.Of course, to have some of those things he would have to have been married in the first place. And Jeter, with utmost purpose, remained a bachelor during his playing days.
+
+Not that he was a monk for two decades. But through some masterly display of social wizardry, despite being a renowned playboy, he was an inoffensive playboy, someone who enjoyed the spoils of his good fortune but not in a way that got publicly out of hand or made him the object of female scorn. Basically, Jeter was the face of the phrase "women want him and men want to be him.""Don't get me wrong, it's not like I didn't go out and have fun," he told Esquire in 2011. "But there's been a lot of players that come to New York and get caught up in the lifestyle, and before you know it, they're sent away to another team because it affected their performance. My number one priority was on the field. I've had fun. It's not like I've never gone out; I've done a lot of things. But I've always kept sight of my number one priority.""He almost never gets photographed out, and think of all the high-profile girls he's dated," retired MLB player Jim Leyritz, who played for the Yankees until 1998, is quoted in Ian O'Connor's 2011 biography The Captain: The Journey of Derek Jeter. "None of them come back and say he's a lousy lover, he's not good in bed, he's cheap, he doesn't pay for this."That didn't stop anyone from writing about Jeter, though—and he was careful not to read any of it. "I was always scared that I'd see my name and then scroll to see what they're saying," he told The Hollywood Reporter in 2015. "And I didn't want to deal with that when I was playing. I'd tell my family and friends, 'If you read something or hear something, don't tell me about it.' I didn't want to read negativity."And ultimately his game plan—focus on work, play while you're playing but then get serious when the game is over, when there's time and less temptation—worked out perfectly. He and wife Hannah Jeter, the Sports Illustrated Swimsuit Issue cover model he married in July 2016, just welcomed a daughter, Bella Raine Jeter, their first child together.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874495/how-derek-jeter-went-from-major-player-to-married-dad-inside-the-settling-down-of-baseball-s-most-famous-bachelor');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017415/rs_634x1024-170515050949-634.Derek-Jeter-Hannah-Jeter-J1R-051517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Derek Jeter, Hannah Jeter");
+	var imageCaption = encodeURIComponent("Derek Jeter, Hannah Jeter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Al Bello/Getty Images
+
+Being an unimpeachable team player for the most storied baseball franchise in the world certainly helped his image over all. So did staying quiet.As the face of the Yankees he was called upon to give sound bites about the game every night, questions he fielded as deftly as line drives—a few words here, a few there, never one of the guys known for outbursts or controversial comments. He was all business, all the time. And while he was reluctant enough to talk about himself as a baseball player, he was prolifically silent when it came to his private life."You have to assume that everything you do is public knowledge," Jeter told Sports Illustrated on the eve of his retirement in 2014. "Everything. Because now everyone is a reporter. Everyone is a photographer. Someone can take a picture and make a story, which has happened plenty of times, and twist it and turn it anyway they want to. You used to be able to go out...it's all I've known. I've been here since I was 20."
+
+Jeter was drafted by the Yankees right out of high school in 1992 and made his major league debut on May 29, 1995—a decade before Facebook, Twitter and Instagram would rear their heads in succession, thereby forever changing what it's like to be a famous person, whether they add to the cacophony themselves or not.Jeter, for one, does not tweet. (Hannah has an account, but she hasn't posted since May.) However, at least partly inspired by how easily a person's message can get misconstrued when it's relayed through third parties, Jeter launched The Players' Tribune, an online forum for athletes to share their stories in their own words that has since become a popular place for them to break news as well. Kobe Bryant announced his plan to retire from the Lakers on the site, and Lamar Odomrecently penned a lengthy essay about his descent into drug abuse and his battle back from the abyss.
+
+
+
+Elsa/Getty Images
+
+Hannah Jeter, in fact, used the site in February to post, "The Derek I Know," an essay about the moment she realized her boyfriend was a really big deal.As a globe-trotting model herself since the age of 14, Hannah was familiar with the toll that a demanding schedule can take on a personal life. When a friend introduced her to Jeter while she was out to dinner with her mom in New York, she knew who the guy was but wasn't all caught up in the baseball thing. Luckily, she recalled, they met during the off-season and had a chance to spend real time together before he had to get back into game mode."And right from the start, I could tell that the timing of Derek's life and mine were aligned," she wrote, noting that despite being only in her early 20s, her job had caused her to grow up "really fast.""The truth is: Just as Derek had lived a whole life before he'd met me, I'd lived a whole life before I'd met Derek," Hannah said.
+
+
+
+Backgrid
+
+And that's good, because Derek Jeter had lived not just a whole life, but what a lot of men would arguably consider to be the life.When he was a fresh-faced Yankee just starting out in the 1990s, he dated Mariah Carey, who was more known for her mad octave range than anything else at the time, but was still an icon-in-the-making. She met the baseball player in 1997 at a charity gala when her marriage to Sony exec Tommy Mottola had already begun to unravel.Jeter's never been one to kiss and tell, but Carey has looked at the relationship fondly in the rear-view mirror, telling Larry King on CNN in 2002, "I think he's a great guy, I really do. And I really, really love his family. They really taught me something special, because coming from an interracial background, you know, you had the same type of background exactly."
+
+Asked why they didn't stay together, she replied, "It just didn't work out."But she did like dating someone who had the tendency to get mobbed as much as she did, depending on the setting."It's like if we were in something that was more his world, there would be people that came up to me, as well," Carey recalled. "But me and him, if we were in another type of situation or in another, you know, place where baseball isn't the thing they would come to me. And I welcomed somebody else getting the attention. I'm, like, 'whoa, good for you!', you know what I mean? And he's very close to his family; it's fantastic. You know, I loved to spend time with his mother and sister and father."Carey may have accepted the ever-present spotlight more than Jeter did, however; a Yankee official is quoted in The Captain saying, "She was much more boisterous than Derek wanted. He likes women in the background, and she was the opposite."Ultimately, she told Parade in 2005, "It was the wrong time. Our two worlds were just too much for that moment." They broke up in 1998.
+
+
+
+Linda Cataffo/NY Daily News Archive via Getty Images
+
+In 2000, the rumor was that Jeter spied the reigning Miss Universe, Lara Dutta, on Live With Regis & Kathie Lee and sent her some tickets to a Yankees game—but before she and her seat mate, Miss USA Lynnette Cole, got a chance to meet their benefactor after the game (during which Jeter hit a home run), Dutta got a headache and left."I've never seen her before," Jeter told the New York Daily News when questioned about the details, before promptly ending the interview. "That's it, I'm done."He got to know her at some point though, and he proceeded to wine and dine the beauty queen for almost a year before they parted ways.
+
+
+
+Alberto E. Rodriguez/WireImage
+
+The following year Jeter was linked to singer-actress Joy Enriquez—whom, legend has it, Alex Rodriguez had his eye on first when he unwittingly introduced her to his pal at the 2001 MLB All-Star Game."Obviously Derek is a great friend, and I have absolutely no reason to be upset about anything—that's crazy," A-Rod told the NY Daily News that August, giving them his "total blessing." Moreover, "I have a girlfriend, and I've had a girlfriend for a long time. I just want to get invited to the..." He thought better of it before saying, "I don't have anything to say about that." (The girlfriend he mentioned was presumably his future wife Cynthia Scurtis, whom he married in 2002. They divorced in 2008.)"They can write whatever they want," was all Jeter had to add to the conversation.Things were already weird from the outside looking in with those two, Rodriguez having already said in the April 2001 issue of Esquire that Jeter—not yet his teammate but also a superstar shortstop—was so successful because he'd been "blessed with great talent around him."
+
+"He's never had to lead," Rodriguez, then with the Texas Rangers, said. "He can just go and play and have fun. He hits second—that's totally different than third or fourth in a lineup. You go into New York, you wanna stop Bernie [Williams] and [Paul] O'Neill. You never say, 'Don't let Derek beat you.'"Jeter told The New York Times he planned to call his buddy in light of those remarks; at some point, whether before or after that chat, Rodriguez clarified, saying, "'How can I ever dog Derek Jeter? It's impossible. There is nothing to knock. He's a great defensive player. He's a great offensive player.He's one of the top three players in the game, for the greatest team of my era.''
+
+Rodriguez joined the Yankees in 2004 and they played together until Jeter retired. Sitting down for a joint interview with CNBC this past May to talk about their respective charities, they were asked if their friendship had recovered from A-Rod's more outspoken days, to which Jeter said, "You're bringing up stories from about 20 years ago, huh?" Rodriguez added, "Is this the History channel?"
+
+
+
+James Devaney/WireImage
+
+Meanwhile, though Jeter remained tight-lipped about his love life, he never suppressed his love of the New York Knicks, treating a parade of dates, including girlfriends Jordana Brewster and Vanessa Minillo, to courtside seats at Madison Square Garden. He reportedly was charmed by Brewster after seeing her in The Fast and the Furious and set out to meet her—which if true wouldn't have been the first time he had made it a reality after liking the look of a lady onscreen. Such is the Jeter life.They mutually parted ways in 2002, he dated Minillo the following year (publicly enough that they even made it onto a red carpet together) and then he was linked to Adriana Lima.New York Mets pitcher Matt Harvey, who dated Lima more recently and was said to have been heartbroken when she was out with ex Julian Edelman (reportedly enough so that he skipped a game—not one he was supposed to pitch—and got suspended), told Men's Journal in 2013, talking about Jeter, "That guy is the model. First off, let's just look at the women he's dated. Obviously, he goes out—he's meeting these girls somewhere—but you never hear about it. That's where I want to be."
+
+Jessica Alba was linked to Jeter in 2004, but he was a free agent by 2005, when he was spotted shortly after New Year's getting cozy with actress Stacy Lynn Spierer at the Waldorf Astoria hotel. When she told the NY Daily News that her boyfriend was involved in the Secret Santa Project with her (sports stars teamed up to give holiday presents to underprivileged kids), she was asked if that boyfriend was Jeter. "Oh, gosh," she said, reportedly getting flustered. "I don't know what to say. I don't know what I'm allowed to say."Jeter's privacy was legendarily important to him, so much so that friends said he would ask women he was interested in a variety of "what would you do in this situation?" questions as a test of their values. When he threw parties, he'd have guests check their cell phones and cameras at the door. And he also apparently liked to be the one to make the first move. "I'd see a supermodel at the top of her game try to get to Derek, and it never happened," R.D. Long, Jeter's roommate and teammate when he was in the minor leagues, said in The Captain. "Just how she tried to do it didn't work for him."
+
+
+
+Thornton/Green/INFGoff.com
+
+Though conflicting reports have her dating Justin Timberlake as early as January 2007, that's when Jessica Bielwas off basking in the sunshine in Puerto Rico while on vacation with Jeter during their brief fling.In 2008, however, Jeter started dating Minka Kelly, and they got serious enough that even those close to him were expecting him to pop the question to Esquire's Sexiest Woman Alive circa 2010 at some point.Asked by an Esquire writer for a March 2011 profile what he'd be doing later in the day, Jeter smiled and said, "I'm probably going to go home and watch a movie. I'm going to watch The Roommate. It's a new one. Just came out today. Go check it out." (The Roommate starred Kelly as a young woman being terrorized by her crazy roommate.)They went to Paris together, she sat in the stands at countless Yankee games and even rode on the 2009 World Series parade float and, like Mariah Carey all those years before, Kelly got to know Jeter's parents, Dot and Charles. She was sitting with them when her beau collected his 3,000th hit in 2011...barely a month before they broke up for good.
+
+
+
+Splash News
+
+Interestingly, in 2009 Kelly told Men's Health that she preferred a guy with some rough edges—and Jeter likely doesn't fancy himself the rough-edge type."A man should love his family, but I don't do well with guys who come from perfect families," she said. "He has to be a little complicated and broken. I can't relate to the perfectly home-bred boy. I want someone who has had pain in his life and learned from it."Moreover, Jeter is extremely close to his parents, even choosing to have the Yankees retire his No. 2 purposely on Mother's Day this year."I chose Mother's Day because I have a very special relationship, not only with my mother, but with my whole family," he explained to Newsday. "I chose Mother's Day and the first thing my dad said was, 'What are we going to do on Father's Day?' But my mom especially has been very supportive ever since I was younger, but not just playing baseball. It was with anything that me or my sister wanted to do where she was very supportive. So I thought it would be nice to have this special day on Mother's Day to honor her and all that she's meant not only to my career, but she helped shape who I am today."
+
+After he and Kelly split up in 2011, with a source telling E! News at the time that the breakup came as a surprise to her, Jeter stayed single for awhile—and at 37 he showed fresh life on the field, batting .411 through April 23, 2012, and finishing the season with the most hits (216) in the majors that year."I keep kidding him that it's like 1999 again—three hits every day. He's amazing," Rodriguez told reporters that April about his resurgent teammate. "He's playing like he's 25," added Yankees manager Joe Girardi.A new spring in his step, he put rumors of his imminent retirement to rest. But he was starting to think about life after baseball—never more so than when he met Hannah Davis.
+
+
+
+Joe Schildhorn/BFA/REX/Shutterstock
+
+As the future Mrs. Jeter would later say, the timing was just right, and Jeter proposed in October 2015, a year after he said goodbye to professional baseball after a prolific, Hall of Fame-ensuring career.Though they didn't shun the spotlight entirely, the two were like-minded about wanting their privacy. "I feel like I have to share every other part of my life," Davis told Maxim in early 2016. "It's that one part that's a little bit of a mystery to people, but that's the way we want it. The only way to protect it is not to talk about it."Asked what attracted her to Captain Clutch, she said, "Trying to impress you with material things? I think that's lame. I wanted someone whose family is a big, important part of their life."Checkmate.
+
+Jeter confirmed their engagement via The Players Tribune in November 2015 in the form of a reference to his "fiancée," whose name he never used, in a post about his relationship with the Italian Mastiff named Kane that Hannah had given him for Christmas the previous year. He had always been afraid of dogs, he wrote, ever since seeing Cujo as a kid.And sure enough, the heartfelt post also served as a metaphor about post-retirement life. "Being a 'dog owner' is still new to me," Jeter admitted. "A little challenge is probably good. I guess it's possible to learn new tricks."
+/n

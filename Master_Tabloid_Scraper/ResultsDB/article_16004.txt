@@ -1,0 +1,79 @@
+Tiger Loves Blondes! Woods & Maria Sharapova Spark Dating Rumors/n
+
+					var next_post_url = "http://radaronline.com/photos/blac-chyna-pregnant-weight-gain-silk-amber-rose-pics/";
+					var prev_post_url = "http://radaronline.com/photos/hillary-clinton-hitman-tells-all-cover-ups-crimes/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-10-21T12:01:28+00:00","caption":"Tiger Woods and Maria Sharapova looked quite cozy at the 20th anniversary celebration for Woods' foundation at the New York Public Library on Thursday night \u2014 could they be a couple?","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:40+00:00","caption":"Tiger Woods and Maria Sharapova were all smiles at the event.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:41+00:00","caption":"While talking together, the pair sparked rumors of a potential romance.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:43+00:00","caption":"But is Woods' cheater track record with blondes going to be a problem?","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:44+00:00","caption":"As Radar readers know, the 40-year-old split with girlfriend Lindsey Vonn in the spring of 2015 after three years of dating. According to Daily Mail Online, Woods' two-timing was what actually led to their demise after Vonn learned of a \"faceless, nameless woman\" he hooked up with.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:46+00:00","caption":"Before that, Tiger's former wife Elin Nordegren divorced him in 2010 after his multiple affairs were exposed.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T11:41:54+00:00","caption":"Just this week, Woods revealed what his current relationship with Nordegren is like in a tell-all interview, saying: \"It becomes two simple things, OK? We have Sam and we have Charlie. And we love them so much that we are going to whatever it takes to make that work. That's how it happened. she's been one of my best friends and I've talked to her about so many different things and she does the same thing with me back and forth. We communicate so much better now, it's incredible. I wish we would have done that earlier on, but it's been incredible to have a best friend like that.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-001.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:48+00:00","caption":"Meanwhile, Sharapova is no angel herself. As Radar previously reported, the tennis star was slapped with her own cheating scandal this year, after failing a drug test at the Australian Open.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-10-21T10:16:49+00:00","caption":"The test came back positive for a drug called mildronate, which Sharapova had been taking since 2006 for what she deemed as health issues.\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/10\/tiger-woods-maria-sharapova-dating-rumors-07.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Tiger Loves Blondes! Woods & Maria Sharapova Spark Dating Rumors
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9tiger-woods-maria-sharapova-dating-rumorsTiger Woods and Maria Sharapova looked quite cozy at the 20th anniversary celebration for Woods' foundation at the New York Public Library on Thursday night — could they be a couple?Photo credit: Getty Images2 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsTiger Woods and Maria Sharapova were all smiles at the event.Photo credit: Getty Images3 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsWhile talking together, the pair sparked rumors of a potential romance.Photo credit: Getty Images4 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsBut is Woods' cheater track record with blondes going to be a problem?Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsAs Radar readers know, the 40-year-old split with girlfriend Lindsey Vonn in the spring of 2015 after three years of dating. According to Daily Mail Online, Woods' two-timing was what actually led to their demise after Vonn learned of a "faceless, nameless woman" he hooked up with.Photo credit: Getty Images6 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsBefore that, Tiger's former wife Elin Nordegren divorced him in 2010 after his multiple affairs were exposed.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 936th Ryder Cup – Gala DinnerJust this week, Woods revealed what his current relationship with Nordegren is like in a tell-all interview, saying: "It becomes two simple things, OK? We have Sam and we have Charlie. And we love them so much that we are going to whatever it takes to make that work. That's how it happened. she's been one of my best friends and I've talked to her about so many different things and she does the same thing with me back and forth. We communicate so much better now, it's incredible. I wish we would have done that earlier on, but it's been incredible to have a best friend like that."Photo credit: Getty Images8 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsMeanwhile, Sharapova is no angel herself. As Radar previously reported, the tennis star was slapped with her own cheating scandal this year, after failing a drug test at the Australian Open.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Tiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsThe test came back positive for a drug called mildronate, which Sharapova had been taking since 2006 for what she deemed as health issues.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+tiger-woods-maria-sharapova-dating-rumorsTiger Woods and Maria Sharapova looked quite cozy at the 20th anniversary celebration for Woods' foundation at the New York Public Library on Thursday night — could they be a couple?Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsTiger Woods and Maria Sharapova were all smiles at the event.Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsWhile talking together, the pair sparked rumors of a potential romance.Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsBut is Woods' cheater track record with blondes going to be a problem?Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsAs Radar readers know, the 40-year-old split with girlfriend Lindsey Vonn in the spring of 2015 after three years of dating. According to Daily Mail Online, Woods' two-timing was what actually led to their demise after Vonn learned of a "faceless, nameless woman" he hooked up with.Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsBefore that, Tiger's former wife Elin Nordegren divorced him in 2010 after his multiple affairs were exposed.Photo credit: Getty Images36th Ryder Cup – Gala DinnerJust this week, Woods revealed what his current relationship with Nordegren is like in a tell-all interview, saying: "It becomes two simple things, OK? We have Sam and we have Charlie. And we love them so much that we are going to whatever it takes to make that work. That's how it happened. she's been one of my best friends and I've talked to her about so many different things and she does the same thing with me back and forth. We communicate so much better now, it's incredible. I wish we would have done that earlier on, but it's been incredible to have a best friend like that."Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsMeanwhile, Sharapova is no angel herself. As Radar previously reported, the tennis star was slapped with her own cheating scandal this year, after failing a drug test at the Australian Open.Photo credit: Getty ImagesTiger Woods Foundation’s 20th Anniversary Celebration at the New York Public Library – ArrivalsThe test came back positive for a drug called mildronate, which Sharapova had been taking since 2006 for what she deemed as health issues.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

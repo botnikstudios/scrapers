@@ -1,0 +1,46 @@
+UPDATE! Tony Awards 2016: The Full Winners List The 70th Annual Tony Awards are off to a star-powered start this evening in New York City. The ceremony comes at a somber time: Less than a day earlier, a gunman shot and killed 49 people at a .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/772132/tony-awards-2016-the-full-winner-s-list');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016512/rs_634x1024-160612174603-634.Renee-Elise-Goldsberry-tony-winner.tt.061216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Renee Elise Goldsberry, Tony Awards 2016");
+	var imageCaption = encodeURIComponent("Renee Elise Goldsberry, Tony Awards 2016");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Theo Wargo/Getty Images for Tony Awards Productions
+
+The 70th Annual Tony Awards are off to a star-powered start this evening in New York City.The ceremony comes at a somber time: Less than a day earlier, a gunman shot and killed 49 people at a a nightclub in Orlando, Florida. The Tony Awards are dedicated to the victims' loved ones."Our hearts are heavy for the unimaginable tragedy that happened last night in Orlando," producers said in a statement Sunday. "Our thoughts are with the families and friends of those affected. The Tony Awards dedicate tonight's ceremony to them."This year's show also marks the return of the Tonys being held at the Bacon Theatre three years after the event took place inside Radio City Music Hall.And with James Corden taking the stage as this evening's host, there's no doubt that there will be plenty of spontaneity, hilarity and singing numbers.Hamilton earned 16 nominations this year—the most received by any Broadway production in history—while Shuffle Along garnered 10 and She Loves Me nabbed eight nominations.Several of Hollywood and Broadway's famous faces are expected to present awards tonight including (but most certainly not limited to!): Jake Gyllenhaal, Claire Danes, Barbara Streisand, Keri Russell, Oprah Winfrey, Blair Underwood, James Earl Jones, Steve Martin, Lucy Liu, Neil Patrick Harris, Sean Hayes, Cate Blanchett, Nathan Lane, Carole King and Uzo Aduba.But without further ado, let's see who won big tonight at the 2016 Tony Awards:
+
+Tony Honors for Excellence: Joan Lader, Seth Gelblum, Sally Ann ParsonsTony Awards for Lifetime Achievement: Sheldon Harnick, Marshall W. MasonIsabelle Stevenson Award: Brian Stokes MitchellRegional Theatre Tony Award: Paper Mill PlayhouseFeatured Actress in a Musical: Renée Elise Goldsberry, HamiltonFeatured Actor in a Musical: Daveed Diggs, HamiltonBest Costume Design of a Play: Clint Ramos, EclipsedBest Costume Design of a Musical: Paul Tazewell, HamiltonBest Original Score: Lin-Manuel Miranda, HamiltonBest Direction of a Play: Ivo van Hove, A View from the BridgeBest Direction of a Musical: Thomas Kail, HamiltonBest Scenic Design of a Musical: David Rockwell, She Loves MeBest Scenic Design of a Play: David Zinn, The Humans Featured Actor in a Play: Reed Birney, The HumansBest Lighting Design of a Play: Natasha Katz, Long Day's Journey Into NightBest Lighting Design of a Musical: Howell Binkley, HamiltonLeading Actress in a Play: Jessica Lange, Long Day's Journey into NightLeading Actor in a Play: Frank Langella, The Father
+
+Best Orchestrations: Alex Lacamoire, Hamilton Best Book of a Musical: Lin-Manuel Miranda, HamiltonBest Revival of a Play: A View From the Bridge Best Play: The HumansBest Choreography: Andy Blankenbuehler, HamiltonBest Revival of a Musical: The Color PurpleBest Actor in a Musical: Leslie Odom Jr., Hamilton Best Actress in a Musical: Cynthia Erivo, The Color PurpleBest Musical: Hamilton 
+/n

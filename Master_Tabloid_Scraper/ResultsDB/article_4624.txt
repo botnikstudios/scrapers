@@ -1,0 +1,44 @@
+Outstanding Actress in a Drama Series, and to this we say: Hell to the yes. Taking the stage for her first win (and nomination), Davis, 50, quoted Harriet Tubman at the start of her emotional and powerful speech, saying, "In my mind, I .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/697670/viola-davis-makes-history-as-the-first-black-woman-to-win-best-drama-actress-at-the-2015-emmys-delivers-powerful-speech');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015820/rs_634x1024-150920180413-634.viola-davis.cm.92015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, Julius Tennon, Emmy Awards 2015");
+	var imageCaption = encodeURIComponent("Viola Davis, Julius Tennon, Emmy Awards 2015");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Shearer/WireImage
+
+It's about damn time.How to Get Away With Murder's Viola Davismade history at the 2015 Emmys when she became the first African-American woman to win the award for Outstanding Actress in a Drama Series, and to this we say: Hell to the yes.Taking the stage for her first win (and nomination), Davis, 50, quoted Harriet Tubman at the start of her emotional and powerful speech, saying, "In my mind, I see a line. And over that line, I see green fields and lovely flowers and beautiful white women with their arms stretched out to me over that line, but I can't seem to get there no how. I can't seem to get over that line.' That was Harriet Tubman in the 1800s."
+
+Davis continued, "And let me tell you something, the only thing  that chances women of color from anyone else is opportunity. You cannot win an Emmy for roles that are simply not there."She then went on to thank HTGAWM creator Pete Nowalk and executive producer Shonda Rhimes, calling them "people who have redefined what it means to be beautiful, to be sexy, to be a leading woman, to be black," before going on to recognize some of her peers, including fellow nominee, Empire's Taraji P. Henson, as well as Kerry Washington, Halle Berry, Nicole Beharie, Meagan Good and Gabrielle Union. "Thank you for taking us over that line," she said. In addition to Henson, Davis beat out Homeland's Claire Danes (Homeland), Orphan Black's Tatiana Maslany, Mad Men's Elisabeth Moss, and House of Card's Robin Wright to take home the historic win. Henson and Davis also made Emmy history with their nominations as it was the first time that two black women have earned an Emmy nomination in the same year in this category. And prior to Kerry Washington's 2013 nomination for Scandal, the last black woman to be nominated for Outstanding Lead Actress in a Drama Series was Cicely Tyson in 1995. (Tyson actually played Davis' mother on How To Get Away With Murder.)APP: Download the E! Online app to get the latest red carpet news on the go!
+/n

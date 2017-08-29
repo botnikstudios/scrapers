@@ -1,0 +1,46 @@
+attorney had filed to have Heard pay the actor's attorney fees. "It is a great day. All Amber wanted was a divorce and now she has it. In the words of Gerald Ford, 'Our long national nightmare is over,'" Heard's.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/822455/amber-heard-is-all-smiles-during-first-public-outing-since-finalizing-her-divorce-from-johnny-depp');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017016/rs_634x1024-170116072904-634.amber-heard.cm.11617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amber Heard");
+	var imageCaption = encodeURIComponent("Amber Heard");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Terma/SL/FAMEFLYNET PICTURES
+
+Amber Heard is smiling about something.The actress and some friends were spotted out in Los Angeles grabbing a bite to eat Sunday, and she couldn't have looked happier. This is the first time Heard has been seen out and about since she and Johnny Depp finalized their divorce Friday.Heard filed for divorce from Depp after 15 months of marriage in May 2016. In a hearing Friday where neither party attended, a judge signed off on the paperwork, making these two officially ex-husband and ex-wife. E! News also learned the judge denied a motion Depp's attorney had filed to have Heard pay the actor's attorney fees."It is a great day. All Amber wanted was a divorce and now she has it. In the words of Gerald Ford, 'Our long national nightmare is over,'" Heard's attorney shared with E! News.
+
+Meanwhile, Laura Wasser, Depp's attorney, told E! News: "We are all pleased to put this unpleasant chapter in Mr. Depp and his family's lives behind them. Having his request for entry of the dissolution judgment granted today made it a particularly lucky Friday the 13th."The former couple did not have a prenuptial agreement in place when they tied the knot in February 2015. Although they didn't have any children together, their road to splitsville was anything but smooth. Heard said in her original filing that throughout their entire relationship, she "endured excessive emotional verbal and physical abuse" from the actor, who repeatedly denied any wrongdoing. 
+
+Depp's rep would not respond to "salacious false stories, gossip, misinformation and lies about his personal life."Weeks later, Heard and Depp would come to a $7 million settlement outside of court. Depp wrote checks for some of the money to the ACLU and Children's Hospital of Los Angeles in Heard's name after she said she would be donating the money.
+/n

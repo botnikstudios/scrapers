@@ -1,0 +1,50 @@
+Adriana Lima Wears Her Alberta Ferretti Dress Backward Talk about making a dress your own! At Wednesday evening's BrazilFoundation Gala in Miami, Adriana Lima decided to give her Alberta Ferretti dress her own unique spin. The Brazilian.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/402810/adriana-lima-wears-her-alberta-ferretti-dress-backward');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013229/rs_293x473-130329105324-634.FerrettiDress.Lima.mh.032913.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Alberta Ferretti Dress, Adriana Lima");
+	var imageCaption = encodeURIComponent("Alberta Ferretti Dress, Adriana Lima");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Antonio de Moraes Barros Filho/WireImage
+
+Talk about making a dress your own!At Wednesday evening's BrazilFoundation Gala in Miami, Adriana Lima decided to give her Alberta Ferretti dress her own unique spin.The Brazilian beauty decided to wear her designer dress backward, literally turning her back on its high neckline in favor of its cleavage-baring cowl neck back. The crisp white gown already showed a bit of skin thanks to sexy sheer detailing along the legs and midriff, but the peekaboo panels apparently weren't enough for the gorgeous Victoria's Secret model.
+
+Hey, if we had a figure as fabulous as hers, we'd take every opportunity to flaunt it, too! Still, the spring 2012 design is just as gorgeous when worn the way Ferretti intended it to look. Jada Pinkett Smith pulled off the look beautifully at the Men in Black 3 premiere in Tokyo back in May 2012, and still managed to turn heads with the modest neckline.
+
+
+
+Kim Kyung Hoon / Reuters
+
+Lima isn't the first star to disregard a designer's vision. Angelina Jolie made headlines when she wore her blue Max Azria gown backward at the 2009 SAG Awards. Although, in Angie's case, she swapped a plunging neckline for a demure boatneck back. 
+/n

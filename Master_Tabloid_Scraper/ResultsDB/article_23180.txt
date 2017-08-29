@@ -1,0 +1,48 @@
+had something that I had prepared to say, and that thing went completely out the window," Jenkins recalls. "I've been saying that [co-writer] Tarell [Alvin McCraney] and I are that kid in the film, and that kid does not grow u.../n
+Now that some of the dust has settled, Damien Chazelle and Barry Jenkins are ready to talk about the Best Picture mistake at the 2017 Oscars.The La La Land and Moonlight directors opened up to Variety after the award show, each giving his own two cents on the incident in which La La Land was announced the Best Picture, only for La La Land producer Jordan Horowitz to run out and reveal PricewaterhouseCooper's error—Moonlight was actually the winner."It's messy, but it's kind of gorgeous," said Jenkins of the moment he and the rest of the world realized his movie, Moonlight, had won. "You have these two groups of people who came together for a second. There's a picture with me hugging Jordan and Adele [Romanski, producer of Moonlight] has her arm on his shoulder. That's what the moment was."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832973/damien-chazelle-and-barry-jenkins-reflect-on-oscars-best-picture-mistake-it-s-messy-but-it-s-kind-of-gorgeous');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201721/rs_634x820-170301071551-634.Variety-FB-030117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Damien Chazelle, Barry Jenkins, Variety");
+	var imageCaption = encodeURIComponent("Damien Chazelle, Barry Jenkins, Variety");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gavin Bond for Variety
+
+Chazelle was in disbelief at what happened before his eyes. "Everything looked so energized, I, at first thought there was some kind of prank going on," Chazelle added.But what added to the awkwardness was the fact that Chazelle and Jenkins are friends in real life, so award season pitting them against each other made for an interesting dynamic. Fortunately, they were able to reveal that there is truly no animosity between them."That's something Barry and I have talked about," Chazelle shared. "It's weird to be friendly with someone but to feel like there's a mano-a-mano thing, which I guess is the nature of the Oscars. So it was nice to explode that myth a little bit on a big stage." 
+
+Like many stars, Jenkins prepared a speech just in case Moonlight bested La La Land, the frontrunner throughout award season; however, when Faye Dunaway and Warren Beatty announced Chazelle's movie as the winner, Jenkins did away with it."I had something that I had prepared to say, and that thing went completely out the window," Jenkins recalls. "I've been saying that [co-writer] Tarell [Alvin McCraney] and I are that kid in the film, and that kid does not grow up to make a piece of art that gets eight Academy Award nominations. It's a dream I never allowed myself to have. When we were sitting there, and that dream of winning didn't come true, I took it off the table. But then I had to very quickly get back into that place.
+
+"And my first thought was to get to the stage to give Jordan a hug as quickly as possible."The rest, as they say, is history.
+/n

@@ -1,0 +1,44 @@
+managed to keep some personal details under wraps...until now, that is.  The star told Us Weekly she loves Barefoot Contessa, the cooking show hosted by Ina Garten on the Food Network. She and her red-headed best friend Abigail, who she sang.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/747327/here-s-why-taylor-swift-was-destined-to-rule-her-own-girl-squad');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016115/rs_634x944-160215160436-634.Taylor-Swift-Selena-Gomez-Candids-Grammy-Awards.ms.021516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Taylor Swift, Selena Gomez, 2016 Grammy Awards, Candids");
+	var imageCaption = encodeURIComponent("Taylor Swift, Selena Gomez, 2016 Grammy Awards, Candids");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images for NARAS
+
+Even after a decade of fame, there are still some things we're learning about Taylor Swift . In the ten years she's graced the public with standout tunes like "Bad Blood," the 26-year-old singer has been very clear about who she is personally. She loves cats, she's a staunch supporter of women, she's in love with her fans—the list goes on.Still, after all this time, the singer has managed to keep some personal details under wraps...until now, that is. The star told Us Weekly she loves Barefoot Contessa, the cooking show hosted by Ina Garten on the Food Network. She and her red-headed best friend Abigail, who she sang about in "Fifteen," like to speak in Napoleon Dynamite voices together. She can't watch Disney's Pocahontas without crying. Her two cats, Olivia and Meredith, actually have nicknames—Dibbles and MerBear. 
+
+While she's famous for the stunning and fiercely supportive girl squad that surrounds her today, Swift told the magazine she's been her friends' protecter since she was just a teenager. "When I was in high school, I used to give my friends Mace for their key chains so they could defend themselves if they needed to," she revealed. Talk about a sign of things to come!As for her own guardian, mom Andrea Swift, there is not a day that goes by that they don't pause for a chat. "I talk to my mom on the phone roughly three times a day," she shared.Arguably her most important fun fact? She has no intentions of squandering this momental time in her life. "I'm very aware that youth and fame don't last forever, so I make the most of this every day."
+/n

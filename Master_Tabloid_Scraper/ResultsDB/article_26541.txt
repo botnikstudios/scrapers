@@ -1,0 +1,48 @@
+Angelina Jolie Reacts to Shocking Report About Children's Auditions While Vanity Fair Stands by Story UPDATE on Aug. 3 at 2:55 p.m. PT: Following criticism and a request for a correction from Angelina Jolie's lawyer, Vanity Fair sa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/870201/angelina-jolie-reacts-to-shocking-report-about-children-s-auditions-for-her-new-film');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017626/rs_634x891-170726095911-634.angelina-jolie-vanity-fair-bells-palsy.72617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Angelina Jolie, Vanity Fair");
+	var imageCaption = encodeURIComponent("Angelina Jolie, Vanity Fair");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mert Alas and Marcus Piggott/Vanity Fair
+
+UPDATE on Aug. 3 at 2:55 p.m. PT: Following criticism and a request for a correction from Angelina Jolie's lawyer, Vanity Fair said Thursday that it stands by its story as published.Vanity Fair said the actress' lawyer had contacted them to remove the paragraph about the casting process and to publish a statement, part of which read, "The casting crew showed the children the camera and sound recording material, explaining to them that they were going to be asked to act out a part...The children were not tricked as some have suggested...all of the children auditioning were made aware of the fictional aspect of the exercise and were tended to at all times by relatives or guardians from NGOs...we apologize for any misunderstanding." The magazine said they wanted the statement to bear the title "Angelina Jolie Correction.""In response to these requests, V.F. reviewed the transcript and audiotape of [contributing editor Evgenia] Peretz's interview with Jolie for the story. Peretz had recorded it on two devices," Vanity Fair wrote, above what they said was a "transcript of the relevant section." "After reviewing the audiotape, V.F. stands by Peretz's story as published."_______________________________________________Angelina Jolie wants to set the record straight about the casting process for her new movie, which has been met with criticism and allegations of cruelty and abuse towards children.The Oscar winner recently gave an interview to Vanity Fair, which reported that in order to cast the lead child in her new Netflix film First They Killed My Father: A Daughter of Cambodia Remembers, Jolie sought kids who had experienced hardship and casting directors "set up a game, rather disturbing in its realism: they put money on the table and asked the child to think of something she needed the money for, and then to snatch it away. The director would pretend to catch the child, and the child would have to come up with a lie."The publication quoted Jolie as saying that Sareum Srey Moch, the girl chosen for the part, "was the only child that stared at the money for a very, very long time" and that "when she was forced to give it back, she became overwhelmed with emotion" as "when she was asked later what the money was for, she said her grandfather had died, and they didn't have enough money for a nice funeral."Jolie said in a statement to the Huffington Post this weekend "every measure was taken to ensure the safety, comfort and well-being of the children on the film starting from the auditions through production to the present" and that the audition "game" was rather an improvisation exercise based off a scene in the film.
+
+She also said real money was not used and that parents, guardians and non-governmental organization partners, as well as medical doctors, were present during both the auditions and the film-making process."I am upset that a pretend exercise in an improvisation, from an actual scene in the film, has been written about as if it was a real scenario," she said. "The suggestion that real money was taken from a child during an audition is false and upsetting. I would be outraged myself if this had happened."
+
+First They Killed My Father is based on a true story and marks the fourth directorial effort for Jolie, a mother of six and longtime Special Envoy to the United Nations High Commissioner for Refugees. The movie is set for release on Netflix in September.
+
+Originally published on Sunday, Jul 30 at 12:27 p.m. PT
+/n

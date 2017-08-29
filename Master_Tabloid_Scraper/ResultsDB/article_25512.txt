@@ -1,0 +1,50 @@
+EXCLUSIVE! Charo: Heather Morris' Casting on Dancing With the Stars "Pissed Me Off," But I'm Going to "Move My Ass" "I'm a performer, I love the audience and a fly with the music and you give me the gu.../n
+Dancing With the Stars season 24 is stacked—there's Olympic gymnast Simone Biles, pop stars Erika Jayne and Normani Kordei, Olympic figure skater Nancy Kerrigan and Glee star—and honest to goodness professional dancer—Heather Morris. But Charo's not worried."They are very good. Everybody has a big possibility of getting the trophy," Charo told E! News' Sibley Scoles alongside professional partner Keo Motsepe during a recent rehearsal visit. "And I said yesterday, that when, unfortunately, if we lost, no hard feelings. Everybody's invited to a paella, sangria and cuchi-cuchi at my place."
+
+While there may be no hard feelings should she lose, there still is a feeling of unfairness before the competition kicks off. There have been rumblings about behind-the-scenes griping regarding Morris' casting. Prior to joining Glee, Morris appeared on So You Think You Can Dance and toured with Beyoncé as a backup dancer."That pissed me off," Charo told us. "Because how can I prepare with a professional dancer? She's a professional, beautiful, trained dancer."Charo's strategy?  "To entertain."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/836518/charo-heather-morris-casting-on-dancing-with-the-stars-pissed-me-off-but-i-m-going-to-move-my-ass');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201721/rs_634x1024-170301064000-634.dwts-season-24-24.ch.030117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dancing With the Stars Season 24, DWTS");
+	var imageCaption = encodeURIComponent("Dancing With the Stars Season 24, DWTS");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABC
+
+"I'm a performer, I love the audience and a fly with the music and you give me the guitar and I'm telling you I'm on another planet," Charo said. "So how can the football player, the cowboy, Mr. T, myself compete with a [professional]? So I think this is not fair, but life is not fair. So, what I have to do is move my ass. That's the only thing."When the Dancing With the Stars cast was announced, Morris and her pro partner Maksim Chmerkovskiy didn't ignore the fact they had an advantage."I hope so," Chmerkovskiy told E! News at the DWTS cast announcement in early March. "I'm excited. No, why not? Listen, I'll take it.""Take it for what it's worth," Morris chimed in.
+
+"I'll take whatever I can get," Chmerkovskiy said. "It's a hard show. It's a difficult production. It's going to be non-stop, full-on."But Chmerkovskiy  isn't assuming they'll shoot to the top of the leader board and instantly win the competition. "To say that we just have this massive advantage, I think so, but I don't think we're the only ones that could pull off beautiful, beautiful numbers," he said. "I'm ready for us to be scrutinized a little different and judged a little different and rightfully so, we'll do our best."
+
+Watch the video up top for more from Charo on her competition.Dancing With the Stars premieres Monday, March 20 at 8 p.m. on ABC.
+/n

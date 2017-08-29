@@ -1,0 +1,44 @@
+the Cuban-American model and fourth child for the former Chicago Bulls star turned Charlotte Bobcats owner. He has three grown children with ex-wife Juanita Vanoy./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/491890/michael-jordan-and-wife-expecting-twin-girls');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013212/reg_634.jordan.cm.31213_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Yvette Prieto, Michael Jordan");
+	var imageCaption = encodeURIComponent("Yvette Prieto, Michael Jordan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Charley Gallay/Getty Images
+
+Michael Jordan is one lucky man.The legendary NBA player will be surrounded by beautiful ladies for a long time. E! News has confirmed that the celeb sports star is expecting identical twin girls in April with his wife, Yvette Prieto.The pair first confirmed that they were expanding their family in late November. This will be the first child for the Cuban-American model and fourth child for the former Chicago Bulls star turned Charlotte Bobcats owner. He has three grown children with ex-wife Juanita Vanoy.
+
+The former NBA star and the brunette beauty tied the knot in a lavish ceremony on Saturday, April 27 in Palm Beach, Fla., after five years of dating. The couple made it official in front of a whopping 500 guests, who arrived on tour buses, at the Episcopal church Bethesda-by-the Sea, according to People. The 50-year-old then invited another 1,500 friends to join in the celebrations at the Bears Club in Jupiter, Florida, not far from his 38,000-square-foot home.Can't wait to meet these beauties!
+/n

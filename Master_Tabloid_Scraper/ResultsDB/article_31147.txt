@@ -1,0 +1,48 @@
+released a statement on Facebook, writing, "I am devastated and heartbroken by this accident. My heartfelt condolences go out to the family and friends of Jerome Barson and I continue to keep them in my thoughts and prayers."/n
+Venus Williams has responded to the wrongful death lawsuit filed against her following a deadly car crash last month.E! News obtained the documents in which the tennis star denied responsibility for causing the death of 78-year-old Jerome Barson, who was riding passenger in the car with his wife, Linda Barson, when they collided with Williams' vehicle in the middle of an intersection in Palm Beach Gardens, Fla., on June 9.In the documents, Williams claimed that the injuries both Linda and Jerome suffered in the accident were caused by their failure to use a seatbelt and adequately maintain their vehicle (which Linda was driving).
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/869248/venus-williams-denies-responsibility-in-wrongful-death-lawsuit');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017530/rs_634x841-170630103114-634-venus-williams-accident-1b-063017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Venus Williams, Car Accident");
+	var imageCaption = encodeURIComponent("Venus Williams, Car Accident");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Barson Family
+
+Linda originally claimed that she suffered several broken bones—including a cracked sternum and a broken right arm—from the accident in her original filing against Williams. However, in her response, Williams claimed that Linda didn't sustain severe enough injuries to get money in damages, according to Florida law.Williams was driving her 2010 Toyota Sequoia SUV when she moved into the intersection where she collided with Linda and her 78-year-old husband in their 2016 Hyundai Accent.According to the accident reports, Linda told authorities she wasn't able to avoid crashing into Williams' SUV, while the athlete claimed that she entered the intersection during a green light but stopped in the middle due to traffic. She also said she did not see the Barsons' car when she crossed into the lanes.It was later revealed by Palm Beach Gardens police that Williams "lawfully" entered the intersection, according to footage from the accident.
+
+Barson was taken to a nearby ICU immediately after the accident. He died two weeks later, on June 22, after suffering from internal bleeding and organ damage.Williams broke her silence about his death when she released a statement on Facebook, writing, "I am devastated and heartbroken by this accident. My heartfelt condolences go out to the family and friends of Jerome Barson and I continue to keep them in my thoughts and prayers."
+
+After Jerome's family filed a wrongful death lawsuit against Williams, the tennis player's lawyers filed an emergency motion earlier this month to prevent Barson's lawyer from conducting an inspection of the Hyundai Accent and downloading its data out of concern that evidence could be destroyed or lost in the process of the inspection.
+/n

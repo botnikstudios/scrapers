@@ -1,0 +1,50 @@
+What Starring in Star Wars: The Last Jedi Means to Kelly Marie Tran All jokes aside, Tran also weighed in on her impending Star Wars superstardom. Does she think she's ready for the fame that comes with the role? "I don't know.../n
+During the Star Wars Celebration in Orlando last week, fans got their first glimpse of Kelly Marie Tran in her role as Rose, a maintenance worker who's part of the Resistance.The actress chatted with Erin Lim after The Last Jedi panel. Not only did E! News find out what little while lie she told her family to keep her casting a secret, but she also revealed who's been hounding everyone the most for Star Wars trivia.   Ever since Tran was cast in last year, her lips have been sealed. Because, when you're cast in a Star Wars film, secrecy is part of the deal.
+
+Although her family now knows about the role, that wasn't always the case. When she couldn't tell them the truth, Tran had to think of a good cover story."I lied to them and said I was doing an indie movie in Canada. I bought them maple syrup," the actress said. "I went all in."Tran also insisted that lying to her family wasn't the norm, laughing, "I'm a good kid and I never lie until now!"When it was finally time to take the lid off of the secret role, Tran made up for the cover story and called her family right away. The first people she told about the role were her parents and her sisters, "then some of my best friends from like middle school, girls I've known forever," she said. "The reaction is so insane because it's so unbelievable."
+
+But the people pestering her to spill those much-sought-after Star Wars secrets weren't her family or friends. Tran revealed that the top culprit for that title was actor Josh Gad, who just so happened to be moderating the panel."He was hounding everyone," she laughed.In fairness, Tran really had only positive things to say about how Gad did hosting the panel that day. She described him as "hilarious and "so naturally funny," adding, "I don't even know how he does it. I love him."Of course, Gad isn't the only one after those Star Wars secrets. So, how does Tran avoid spilling any classified information? The actress said it isn't hard to stay tight-lipped because any Star Wars info is "totally off-limits in my mind." Her solution is just to avoid the topic, and if anyone asks, talk about something else.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/843987/what-starring-in-star-wars-the-last-jedi-means-to-kelly-marie-tran');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017314/rs_634x955-170414112156-634.kelly-marie-tran.41417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kelly Marie Tran, Star Wars Celebration");
+	var imageCaption = encodeURIComponent("Kelly Marie Tran, Star Wars Celebration");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gerardo Mora/Getty Images for Disney
+
+All jokes aside, Tran also weighed in on her impending Star Wars superstardom. Does she think she's ready for the fame that comes with the role?"I don't know. How do you prepare for that?" she asked. "There's no book on that. Is there a book on that? Can you guys get me a book on that?"But one thing was for sure: Tran could tell that she was about to be part of something big and beloved."I feel all the love," she said. "I have to say that because everyone is so enthusiastic and excited to be here and to see the things that we get to share."
+
+This role is especially important to Tran for a reason that goes beyond the franchise itself. Playing Rose also gives her a chance to represent the Asian community in a major film series. In response to the diversity of the cast, Tran said, "It's incredible. It feels like a big responsibility."I very much take it seriously. It's something I've thought about a lot," she continued. "I'm just excited because I know, growing up, I wasn't able to see someone that necessarily looked like me, that was from where I was from, in a movie. I'm excited that kids will be able to see that."
+/n

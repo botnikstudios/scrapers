@@ -1,0 +1,45 @@
+daughter with a co-ed baby shower. Close to 80 guests including King Cairo and Scott Disick attended the shower planned by Eve Sarkisyan and hosted by Sylvia Karapetian. The party featured a belly dancer, photo booths and various games inclu.../n
+Remember when Blac Chyna said she wanted to gain "like 100 pounds" during this pregnancy? Well, she's given her fans an update on where's at, and confirmed that she is nowhere near that goal.Rob Kardashian's ladylove stepped on the scale today to share a photo to her Snapchat followers illustrating how much she weighs during this stage of her pregnancy. The number read 186.6 pounds, which is roughly 20 pounds more than the last time she revealed her weight, and approximately a 40-pound weight gain overall.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/801317/blac-chyna-reveals-her-current-pregnancy-weight-and-the-baby-s-due-date');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016911/rs_640x1139-161011153525-640.blac-chyna-snapchat.bn.101116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Blac Chyna, Snapchat");
+	var imageCaption = encodeURIComponent("Blac Chyna, Snapchat");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Along with her weight, Blac Chyna also revealed the due date and shared where we're at on the baby countdown. "Four weeks after Sunday she will be here," Chyna wrote on the photo with the due date, "Nov. 16."The couple recently celebrated the anticipated arrival of their daughter with a co-ed baby shower. Close to 80 guests including King Cairo and Scott Disick attended the shower planned by Eve Sarkisyan and hosted by Sylvia Karapetian.The party featured a belly dancer, photo booths and various games including bobbing for nipples and pin the sperm on the egg.Cocktails were available and named after the mom and father-to-be. As for food, Dip'd N Drip'd and Cakes by Ruben provided desserts after attendees enjoyed a buffet style menu consisting of seafood, meats and vegetables from Ladybug catering. 
+
+Unfortunately, their happy event was dampened by the news of Kim Kardashian being held at gunpoint and robbed in Paris."Everyone at the baby shower had turned off their phones, but a few people were checking every so often," a source told E! News. "One of the guests saw an alert about what had happened and told Rob."The pair were "very concerned," said a source, adding that Rob "started to make calls to his family to find out if everyone was OK."He tried calling Kim and mom Kris Jenner, and then he "grabbed Chyna and they started to make some calls together," the source added. While it was unclear who he eventually got a hold off, we're told they were relieved to hear Kim was unharmed."They were both extremely shaken up and upset by everything, but once they discovered that Kim wasn't hurt they calmed down," an insider told us. "It was a terrifying moment for the two of then. They were so worried about Kim."
+/n

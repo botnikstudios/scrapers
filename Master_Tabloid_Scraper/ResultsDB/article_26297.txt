@@ -1,0 +1,46 @@
+Jamie Lee Curtis Battles Dad Tony Even After Death Last week, we broke the news that Tony Curtis had written several wills excluding his daughter, Jamie Lee Curtis, from participating in his inheritance. When we asked Jamie Lee's public.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/207611/jamie-lee-curtis-battles-dad-tony-even-after-death');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080623/293.Curtis.Jamie.Lee.062308.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jamie Lee Curtis");
+	var imageCaption = encodeURIComponent("Jamie Lee Curtis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AP Photo/Gus Ruelas
+
+Last week, we broke the news that Tony Curtis had written several wills excluding his daughter, Jamie Lee Curtis, from participating in his inheritance. When we asked Jamie Lee's publicistf or comment, she snapped at us that the story was "no one's business." Many of you readers agreed.Oh, really? Have to ask, then: Why, Jamie Lee, have you used every talk show within reach to say, "flat-out," what a nonexistent dad Tony was if this story was so very personal?And since everybody's so convinced that this sad tale of family dysfunction, Hollywood-style, is nobody's business, guess you don't want any more details, huh?
+
+TWITTER: Follow @theawfultruth 
+
+"How odd [Jamie Lee] goes after [Tony]," replied a family friend, when told about the talk-show circuit the younger Curtis has participated in, particularly The Talk last week, where Jamie Lee said Tony "was not a father" to her. "Especially after the funeral, where she came off like a thoughtful daughter," the friend added.Puzzling moments with the Halloween and Freaky Friday star are nothing new, though, when it comes to behavior associated with her famous father, who was divorced from Curtis' mother, Janet Leigh. Jamie Lee was 3-years-old at the time of her parents' split."She was always out of the will, to my knowledge," dished the Curtis insider, "and [Jamie Lee] was never included in any of his plans—his other kids were. Also, Jamie never called. From time to time, the other [children] would, but Jamie Lee, never."What's the point? Going on shows like Joy Behar and complaining about the "fallout" (many decades after the fact) she suffered from her absent father gets more results—at least in the media. And isn't that where this discussion's being played out?Yep.Look, I agree with many readers; this is just a sad story, that much is clear. The dad took off, and the daughter's understandably bruised by it all. Let her be.But get off your sanctimonious thrones, people, and stop saying it's "nobody's" beejeezus—particularly you, Camp Jamie Lee, especially when one of you is saying your daughter dearest stuff to the media in the same breath.
+/n

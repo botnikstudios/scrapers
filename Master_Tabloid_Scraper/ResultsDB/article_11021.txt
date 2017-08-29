@@ -1,0 +1,46 @@
+America's Got Talent Winner Landau Eugene Murphy Jr. Arrested for Alleged Domestic Violence In a statement to E! News, Murphy said the woman was his girlfriend and claimed she attacked him with a golf club and knife after they got into .../n
+Landau Eugene Murphy Jr. has been arrested. The America's Got Talent winner was arrested Monday evening in his native West Virginia, according to multiple reports. According to the Charleston Gazette-Mail, the jazz singer was charged with domestic battery and domestic assault and was released from the Southwestern Regional Jail on a $3,500 bond. The charges stem from an alleged physical fight Murphy had with a woman at his home on Monday night, according to a criminal complaint obtained by E! News. As the complaint stated, Murphy and the woman had a verbal altercation and the woman claimed the singer hit her in the face with a golf club, slapped her in the face and hit her head on the concrete sidewalk. She later sought medical care for her injuries. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866384/america-s-got-talent-winner-landau-eugene-murphy-jr-arrested-for-alleged-domestic-violence');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017612/rs_634x1024-170712060149-634-LEMJ-MK071217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nick Cannon, Landau Eugene Murphy Jr.");
+	var imageCaption = encodeURIComponent("Nick Cannon, Landau Eugene Murphy Jr.");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Trae Patton/NBC/NBCU Photo Bank
+
+In a statement to E! News, Murphy said the woman was his girlfriend and claimed she attacked him with a golf club and knife after they got into a "heated argument." He alleged the woman invited friends and family over to their house and "trashed" it, inciting the argument. "In defending myself, she obtained some bruises and swelling on her face," he said in the statement. "I did not strike her." According to the complaint, Murphy and the woman have a 6-month-old child, who was in the house at the time of the incident. "I was raised to respect women, and if not provoked and feeling I was in danger, I would never have defended myself in this manner," he added in the statement. "I am very sorry for the way domestic incident was handled. I apologize to my fans everywhere and to the people of Logan County and West Virginia for this incident. It should never have happened."
+
+Murphy Jr. rose to fame six years ago as a 36-year-old car washer who went on to win the sixth season of America's Got Talent. (E! and NBC are both part of the NBCUniversal family.)
+/n

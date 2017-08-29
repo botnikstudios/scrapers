@@ -1,0 +1,46 @@
+Emma Stone Surpasses Jennifer Lawrence to Become 2017's Highest-Paid Actress Not only did Emma Stone land a Best Actress Oscar from her role in La La Land, it also nabbed her the top spot on Forbes' 2017 list of highest paid actres.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873921/emma-stone-surpasses-jennifer-lawrence-to-become-2017-s-highest-paid-actress');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016918/rs_690x1024-161018185436-634.Jennifer-Lawrence-Emma-Stone-NYC.ms.101816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Lawrence, Emma Stone");
+	var imageCaption = encodeURIComponent("Jennifer Lawrence, Emma Stone");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dave Allocca/Starpix/REX/Shutterstock
+
+Not only did Emma Stone land a Best Actress Oscar from her role in La La Land, it also nabbed her the top spot on Forbes' 2017 list of highest paid actresses!That's right! The 28-year-old finished at the top of the list after racking up $26 million in pre-tax money throughout Forbes' 12-month scoring period. This is no surprise considering La La Land's massive success, grossing around $445.3 million at the global box office.Stone surpassed actresses like Jennifer Aniston, who finished second on the list after making $25.5 million from her consistent movie roles as well as her many endorsements. Stone's gal-pal and former highest-paid actress Jennifer Lawrence finished in the third spot with $24 million—just a little over half of what she earned in 2016 ($46 million). 
+
+Melissa McCarthy landed the No.4 spot with $18 million, while Mila Kunis is named the fifth highest-paid actress with $15.5 million.All together, the top 10 highest-paid actresses brought in a combined $172.5 million between June 1, 2016, and June 1, 2017, before taxes. Just to put that in perspective, the top 10 highest-paid actors of 2016 (the 2017 list has yet to be revealed) raked in somewhere around $457 million. Dwayne "The Rock" Johnson finished at the top with $64.5 million—$40 million more than Stone made this year.
+
+Needless to say, the fight for gender equality and closing the wage gap continues in Hollywood.
+/n

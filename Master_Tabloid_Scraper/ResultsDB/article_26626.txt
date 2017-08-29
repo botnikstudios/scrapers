@@ -1,0 +1,54 @@
+Janet Jackson and Wissam Al Mana Split: A Timeline of Their Relationship July 2012: Janet and Wissam are spotted on a yacht in Sardinia, Italy. September 2012: Janet and Wissam attend the opening of Dylan's Candy Bar in Los Angeles. Oct.../n
+Janet Jackson's split from Qatari businessman Wissam Al Mana is as covert as their relationship.The two began dating in 2010 and wed in 2012. E! News recently learned they have called it quits, three months after the 50-year-old singer gave birth to their first child together, son Eissa. Both Janet and 42-year-old Wissam, who are notoriously private, have not commented.Janet, who had been married twice before, has rarely been seen in recent years and kept even more out of the spotlight since her marriage to Wissam and especially throughout her pregnancy. Both rarely attended public events since their wedding. They were most often photographed together before they got married, mainly at fashion shows in Paris, Milan and Moscow. She and Wissam have not been spotted together in months.Check out a timeline of their relationship.
+
+April 2010: Janet and Wissam Meet: The pop star meets Wissam, who co-runs the Al Mana Group, a conglomerate that operates real estate, automotive food, retail and other services and deals with brands such as Giorgio Armani, Dolce & Gabbana and other high-fashion designers, at a hotel opening in Dubai. They start seeing each other months later.September 2010: Janet and Wissam are spotted at a gym and at Roberto Cavalli's party in Paris.October 2010: Janet and Wissam sit front-row at the Lanvin and John Galliano fashion shows during Paris Fashion Week.November 2010: Wissam tells VMAN magazine, "I don't date Janet Jackson. She is my girlfriend; there is a difference. She is a very special and talented woman who never ceases to amaze me."November 2011: Janet tells Harper's Bazaar Arabia she and Wissam "have a deep bond, a deep connection."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/842329/janet-jackson-and-wissam-al-mana-split-a-timeline-of-their-relationship');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015330/rs_634x1024-150430044847-634.Janet-Jackson-JR-43015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Wissam Al Mana, Janet Jackson");
+	var imageCaption = encodeURIComponent("Wissam Al Mana, Janet Jackson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tullio M. Puglia/Getty Images for Giorgio Armani
+
+July 2012: Janet and Wissam are spotted on a yacht in Sardinia, Italy.September 2012: Janet and Wissam attend the opening of Dylan's Candy Bar in Los Angeles.October 2012: Janet and Wissam are spotted at the Kira Plastinina fashion show in Moscow.February 2013: Janet and Wissam announce in a statement that "the rumors regarding an extravagant wedding are simply not true," saying, "Last year we were married in a quiet, private, and beautiful ceremony."Also that month, Janet and Wissam attend Georgio Armani, Sergio Rossi, Roberto Cavalli and Versace fashion shows during Milan Fashion Week.March 2014: Janet and Wissam are the subjects of breakup rumors. A source tells E! News, "All the bliss that Janet experienced pre-marriage with Wissam and in the first couple of months is gone."November 2014: Janet makes a rare solo public appearance at Vogue Fashion Dubai Experience event in Dubai.
+
+
+
+Venturelli/WireImage
+
+April 2015: Janet and Wissam attend the Giorgio Armani 40th Anniversary Dinner Reception at Nobu in Milan, Italy.August 2015: Janet begins her Unbreakable world tour in Vancouver.October 2015: Janet and Wissam sit front-row at the Hermes Ready-to-Wear spring/summer 2016 show during Paris Fashion Week.December 2015: Janet announces she's postponing her tour because she has to undergo surgery.April 2016: Janet postpones her tour again, saying, "My husband and I are planning our family."May 2016: E! News learns Janet is pregnant.Days later, Janet releases her "Dammn Baby" music video.
+
+October 2016: Janet, pregnant with Eissa, and Wissam make a rare public appearance in London. The singer dresses head-to-toe in black, sporting an oversized hooded poncho sweater, a hijab and a full-length skirt.November 2016: Janet breaks her social media silence, writing, "Hey you guys.. It's been awhile.. but I'm still listening.. I feel your love and prayers.. Thank you.. and I'm doing well.. Al Hamdu lillah," which means "Praise be to God" in Arabic.January 2017: Janet gives birth to Eissa.Three weeks later, she is seen in public for the first time since her delivery, at a luxury baby boutique in London.April 8, 2017: It is revealed Janet and Wissam have called it quits.
+/n

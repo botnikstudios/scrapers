@@ -1,0 +1,49 @@
+the youngest Housewife ever? Point for her dogged investigation into Brooks Ayers' cancer claims, for which she was ultimately vindicated. Bravo 43. Eileen Davidson, RHOBH For a soap star who knows from drama, Eileen usually fails to de.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872741/where-does-tinsley-mortimer-rank-among-all-99-real-housewives');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201726/rs_634x1024-170306101300-634.tinsley-rhony-season-9.ch.030617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Real Housewives of New York City, RHONY");
+	var imageCaption = encodeURIComponent("Real Housewives of New York City, RHONY");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bravo
+
+When Sonja Morgan introduced the ladies of The Real Housewives of New York City to her new house guest—and their new co-star—Tinsley Mortimer, we never would've thought that the temporary roommates would spend much of season nine at each other's throats.But that's exactly what happened as Sonja attempted to (s)mother her house guest, who was returning to the Big Apple for good following a disastrous end to a relationship that involved Tinsley's arrest. Fights over whether Tinsley was acting grateful enough gave way to Page Six items echoing much of Sonja's same complaints, prompting an over-the-top season finale party complete with male models wearing shirts that read "Thank you, Sonja."
+
+Tinsley's inaugural season wasn't all Sonja struggles, all the time, however. She formed a close friendship with Carole Radziwill of all people, found love with her new pal's friend Scott, and who can forget when she opened up about her anal sex experience during a particularly eye-opening game of Truth or Dare in Vermont? Not us.Now that her first season is behind her and she begins pleading with Andy Cohen for the chance to return, it's time to consider where her performance ranks among her peers. All 98 of them. Did she outshine last season's one-and-done Jules Wainstein? And how does she stack up to legends of the franchise like Bethenny Frankel, Lisa Vanderpump and NeNe Leakes? Let's find out...
+
+What do you think about Tinsley's spot on the list? Too high? Too low? Or just right? Sound off in the comments below!
+
+The Real Housewives of New York City's three-part reunion special begins Wednesday, Aug. 16 at 9 p.m. on Bravo.(E! and Bravo are both part of the NBCUniversal family.)
+/n

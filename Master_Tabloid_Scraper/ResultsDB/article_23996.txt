@@ -1,0 +1,44 @@
+along with his fellow marshals, which included activist and best-selling writer Janet Mock, E!'s very own Ross Mathews. along with DOMA case attorney Roberta Kaplan. Apple CEO Tim Cook also joined the parade, marching alongside more tha.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/rich_kids_of_beverly_hills/news/556720/richkids-of-beverly-hills-star-ej-johnson-named-celebrity-grand-marshal-for-san-francisco-s-gay-pride-parade');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201463/rs_634x1024-140703093200-634.ej-johnson.ls.7314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("EJ Johnson");
+	var imageCaption = encodeURIComponent("EJ Johnson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bill Weaver
+
+EJ Johnson was chosen to be a Celebrity Grand Marshal in this year's San Francisco Gay Pride Parade and helped lead thousands of LGBT community members and supporters during the 44th Pride Celebration festivities that took place this past weekend.The #RichKids of Beverly Hills star took to the main stage along with his fellow marshals, which included activist and best-selling writer Janet Mock, E!'s very own Ross Mathews. along with DOMA case attorney Roberta Kaplan. Apple CEO Tim Cook also joined the parade, marching alongside more than 4,000 of his Apple employees.The theme for this year's event was "Color Our World With Pride" and featured nearly 300 exhibitors with over 20 stages. Other attendees and special guests included former Congressman Barney Frank, singer Debby Holiday and comedian Marga Gomez.
+
+"It was the absolute most participating as celebrity Grand Marshal in this past weekend's San Francisco Gay Pride Parade," EJ said. "I'm extremely humbled and honored to have been presented with such a unique opportunity. Having never been to San Francisco myself, I was amazed to find out that this year's festival attracted over a million people from around the world. Thank you San Francisco and the LGBT community for welcoming me with open arms! It was a blast!"Tune-in for an all-new season of #RichKids of Beverly Hills on Sunday, August 3 at 10/9c on E!
+/n

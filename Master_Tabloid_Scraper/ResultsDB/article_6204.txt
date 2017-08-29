@@ -1,0 +1,52 @@
+How to Use Olive Oil for Healthier Cooking, Plus Tips from Fig & Olive’s Chef Pascal Lorange For a better diet and healthier cooking in 2014, try incorporating olive oil into the mix. Our reader Jayda Boyce (@jayda_boyce) tweeted us that.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/501970/how-to-use-olive-oil-for-healthier-cooking-plus-tips-from-fig-olive-s-chef-pascal-lorange');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014021/rs_634x1024-140121142018-634.Chef-Pascal-Lorange-4-jmd-012114_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Chef Pascal Lorange, Fig & Olive");
+	var imageCaption = encodeURIComponent("Chef Pascal Lorange, Fig &amp; Olive");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Fig & Olive
+
+For a better diet and healthier cooking in 2014, try incorporating olive oil into the mix.Our reader Jayda Boyce (@jayda_boyce) tweeted us that one of her New Year's resolutions is to "eat better," while Megan James (@lynch2010) said one of her New Year's resolutions is to "cook more at home."A great way to do both is to use olive oil in your recipes.According to the Mayo Clinic, the fat found in olive oil—monounsaturated fatty acids (MUFAs)--is considered a healthy dietary fat, and may lower your risk of heart disease, lower your cholesterol, minimize blood clotting, and benefit insulin levels and blood sugar control.And the health benefits don't stop there.While it should be used in moderation (it's an oil and still high in calories), olive oil is full of polyphenols, according to CNN, which helps protects your cells from damage.Fig and Olive's executive chef Pascal Lorange swears by olive oil for healthier cooking—in fact all of the items on the West Hollywood, Calif. hot spot's menu are made with olive oil, instead of cream and butter (minus a couple of dessert items).
+
+
+
+Fig & Olive
+
+The famed chef who has cooked for the likes of President Barack Obama, President Bill Clinton, the Princess of Monaco, Julio Iglesisas and many more, said the cozy restaurant, known for its decadent dishes and celebrity following, wants to give its customers food that is fresh, tasty and health-conscious."We're doing something different, and the people that come like to be healthy," Chef Lorange told us. "We do healthy food. We don't use butter, we don't use cream, we just use olive oil and I pair that with each dish on the menu.""We have thirty different types of olive oil," he continued. "So, everything has different flavors. [We use olive oils] from around Spain, Italy, and the South of France, and in the winter, we have fresh olive oil from Australia. Every six months we have fresh olive oil. It's like wine."Focusing on cuisine from the French Riviera, Italy , Spain and the South France, Lorange said they change the seasonal menu three times a year here, "so people don't get bored."And he makes sure to use fresh, healthy ingredients for popular dishes like the Octopus Carpaccio, and the Farmer's Market menu he's currently crafting, which brings food directly from the farm to the table.Fig & Olive also has an "Olive Oil Guide," which includes tips on how to do an olive oil tasting at home; On Feb. 27, Lorange will conduct an education of olive oil and cooking class at the restaurant's Newport Beach, to show people how to eat well and healthy.The cozy restaurant's healthy cooking style has gained it quite the celebrity following, with Halle Berry coming in to dine "all the time," and Jennifer Lopez, Jessica Simpson, Lea Michele, Jennifer Aniston, Johnny Depp, Sharon Stone and many more stars flocking to the restaurant to get a taste of Lorange's latest yummy (and healthy) addition to the menu.
+
+The most popular dishes among celebs at the restaurant are the crostinis, Lorange said, which are topped with everything from figs to tomato and eggplant, to shrimp; The Chilean Sea Bass, which is marinated with mascarpone harissa olive oil emulsion and lemon thyme; The lamb chop, which comes smoked with Herbs de Provence, and the Octopus Carpaccio, which Lorange created last summer."People come here for the food, for the décor, for the ambiance, for the DJ on the weekend…just everything," he continued. "They come to taste olive oil, to have good service, and we treat each customer as if it's their own house."Speaking of olive oil, Lorange says the restaurant doesn't cover any protein with sauce, just olive oil."So, if you don't like olive oil, don't come in here," Lorange said with a laugh.
+
+"We use olive oil in the desserts too," he continued. "We do a green apple sorbet with green apple segments, grapefruit juice, mint, grapefruit segments and we finish with an olive oil from Spain and it's a very good combination. That's a great way to start the way to be healthy."To plan your own Fig and Olive style olive oil incorporated meals, Lorange recommends starting with something like zucchini Carpaccio, which is essentially razor thin sliced zucchini, shaved parmesan cheese, toasted pine nuts, lemon juice and a drizzle of olive oil.Also, Chicken Paillard, using a mix of brussel sprouts and pickled onions. Chef Lorange uses spinach, and a tapenade of red bell pepper and olive oil for that.Don't forget to keep tweeting your New Year's resolutions to @eonline with the hashtag #timetobelieve for the chance to have your tweet featured on E! Online. We'll be giving out more tips and tricks from experts in the coming weeks on how to make your resolutions stick!
+/n

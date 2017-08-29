@@ -1,0 +1,46 @@
+32-year-old wore her long thick locks down and finished the elegant formal look with Cassandra Goad "Temple of Heaven" earrings, an Anya Hindmarch "Maud" clutch and black Prada pumps. Prince William presented Dame Mirren,.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/511777/kate-middleton-and-queen-elizabeth-ii-welcome-helen-mirren-and-other-stars-to-buckingham-palace');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014117/rs_634x1024-140217143912-634-5helen-mirren-queen-.ls.21714_copy_2.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Catherine, Duchess of Cambridge, Kate Middleton");
+	var imageCaption = encodeURIComponent("Catherine, Duchess of Cambridge, Kate Middleton");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Yui Mok - WPA Pool/Getty Images
+
+Kate Middleton and Queen Elizabeth II welcomed an esteemed group of British film and stage stars, including Dame Helen Mirren (the other Queen) at Buckingham Palace on Monday evening.The event was a celebration of the Queen's sixty years as patron of the Royal Academy of Dramatic Art and the contribution that dramatic arts bring to national life.The Duchess of Cambridge looked radiant in a recycled Alexander McQueen wool crepe pleated red dress, a frock she first donned to the Thames Diamond Jubilee Pageant in 2012. The 32-year-old wore her long thick locks down and finished the elegant formal look with Cassandra Goad "Temple of Heaven" earrings, an Anya Hindmarch "Maud" clutch and black Prada pumps.
+
+Prince William presented Dame Mirren, who famously played his grandmother in  the 2006 biographical drama The Queen, with the BAFTA Fellowship on Sunday evening and joked that he should probably call her "Granny." Kate shared a giggle with the legendary actress and brought up this moment."My husband called you Granny last night," Prince George's mom told the 68-year-old star, per The Telegraph."Yes that was so sweet," Mirren replied.Mirren went on to won the Golden Globe, BAFTA, SAG and Oscar for her brilliant performance as the longtime monarch.
+
+"You're thinking 'it's the Queen, it's the Queen'," Mirren answered when asked if she still gets star-struck around the 87-year-old. "Of course, even more so I think because I feel self-conscious, you know."The Queen greeted a slew of celebrities in the White Drawing Room, including Mirren, Helena Bonham Carter, who portrayed the Queen's mother in The Queen Speech, Uma Thurman, Hugh Laurie, Joely Richardson, Gemma Arterton, Roger Moore, Steve McQueen, Harvey Weinstein, Ralph Fiennes, Angela Lansbury and Joan Collins, clad in a sparkling gold lamé jacket.
+/n

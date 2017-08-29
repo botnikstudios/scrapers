@@ -1,0 +1,98 @@
+Bedridden, 500 Lbs. and a Star: Gilbert Grape Actress Darlene Cates' Heartbreaking Weight Battle Amid Hollywood Success
+/n
+
+ 
+Darlene Cates, who starred as Johnny Depp and Leonardo DiCaprio‘s obese, housebound mother in 1993’s What’s Eating Gilbert Grape, died in her sleep on Sunday morning. She was 69.
+The actress will appear posthumously in the upcoming comedy Billboard, following a lifelong struggle with weight that once saw her balloon to 550 lbs.—  a struggle that actually launched her film career in the first place.
+Gilbert Grape author and screenwriter Peter Hedges discovered the Texas native after seeing a tape of her on a 1985 episode of Sally Jessy Raphael titled “Too Heavy to Leave Their House.” On the show, Cates spoke candidly about her battle with obesity and the pelvic infection that caused her to gain nearly 150 lbs. while she was bedridden for nearly two years, bringing her weight to over 500 lbs.
+Moviestore/REX/Shutterstock
+“When [director] Lasse [Hallström] saw the tape of Darlene, he started to cry, because she had the heart and the spirit of what the mother should feel like,” Hedges told EW in 2014. “She was almost a little girl trapped in this body. There was a sweetness to her.”
+After the seeing the show, Hedges reached out to Cates and offered her the role of Bonnie Grape.
+
+ 
+“No one could’ve been more surprised than I was because I was just a fat housewife in Forney, Texas, of all places,” said Cates, who subsequently auditioned at her home for Hallström and producers. “I was sort of skeptical, but when I started reading, Lasse threw his hands in the air and said, ‘Finally! Somebody that can act!’ ”
+Despite having no previous acting experience, she earned critical acclaim.
+According to the Dallas Morning News, Cates’ struggle with weight began when she had her first child (of three) at age 18 and her husband, who was in the Marines, traveled overseas. She turned to food for comfort, causing her weight to balloon out of control.
+
+ 
+In a 2004 PEOPLE story, Cates shared that she had her stomach stapled in 1981 when she weighed 410 lbs. Although she dropped 100 lbs. thanks to the surgery, the weight came back plus some, causing her to tip the scales at 550 lbs.
+“That thing that made you fat in the first place? They don’t cut that out during surgery,” she explained. “The pressures that caused you to seek solace in food are still there when you come home from the hospital.”
+Cates went on to appear in several TV shows including Picket Fences in 1994 and Touched by an Angel in 1996. She also had a small role in the 2001 film Wolf Girl.
+In 2012, Cates revealed to the Dallas Morning News that she had shed 250 lbs. — dropping from 575 lbs. to 331 — and hoped to get back into acting. However, she was again housebound due to several health scares that kept her in the hospital for nearly a year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-245eb915a4ff466ccfc8e3c3968901eb-59a5894351a69');
+				var iframe = document.getElementById('wpcom-iframe-245eb915a4ff466ccfc8e3c3968901eb-59a5894351a69');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-245eb915a4ff466ccfc8e3c3968901eb-59a5894351a69'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+ 
+She was ready for her return, though, and got a role in the 2014 short film Mother.
+The actress told the paper she hoped to play roles similar to the one that she is remembered best for today.
+“I can do moms real well,” Cates said. “I don’t have to delve very deep to find Mom in there.”
+/n

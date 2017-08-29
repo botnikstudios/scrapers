@@ -1,0 +1,45 @@
+Lizzie McGuire Lives! Hilary Duff Imagines What Her Beloved Disney Channel Character Is Doing in 2014 What ever happened to Lizzie McGuire? Hilary Duff has the answer! Well, she has an answer. The Disney Channel series' creator Terri Mi.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/601439/lizzie-mcguire-lives-hilary-duff-imagines-what-her-beloved-disney-channel-character-is-doing-in-2014');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014821/rs_634x839-140921133651-634.Lizzie-McGuire-Hilary-Duff.jl.092114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hilary Duff, Lizzie McGuire");
+	var imageCaption = encodeURIComponent("Hilary Duff, Lizzie McGuire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney
+
+What ever happened to Lizzie McGuire? Hilary Duff has the answer!Well, she has an answer. The Disney Channel series' creator Terri Minsky hasn't publicly revealed what envisioned for the TV character after the show ended in 2004, but Duff has her own ideas about what Lizzie might be up to today. "I don't think she'd be married to Gordo (Adam Lamberg). I don't know," the Younger actress, 27, recently told BuzzFeed. "I think she'd go off to college and potentially become a little cooler than she was, but still not bitchy at all. I think she's just the biggest-hearted girl ever.""Maybe she'd move to New York for a while, and her parents would probably follow her and rent an apartment secretly," the Younger star mused. "I think she's pretty smart. I can imagine her being on a path to something really special and great, but I feel like she'd still be working her way through the office grind and she'd probably constantly embarrass herself—mishaps in the office all the time."And, of course, "She'd probably still be wearing butterfly clips, bringing it back!"
+
+Like Lizzie, Duff is pretty accident-prone. "I'm extremely klutzy in real life. My bathroom constantly looks like a murder scene, because I get out of the bathtub and I've cut my legs, like, eight different times," she said. "I have scars on my hands because I was just cutting into an English muffin and basically, like, sliced the top of my finger off!" Even so, Duff insisted that she's much more coordinated than her alter-ego. "I'm much more in control of my body than she was, and not, like, physically awkward, you know?""I think I just move too quickly through things, and then don't pay attention," she added.Duff doesn't see her old co-stars too often, but Hollywood is a small town. "I remember one time I was plugging my meter outside, and I saw [Hallie Todd], who played my mom on the show, and I was like, 'Oh my God!' I cried on the street," she said. "We all, I think, hold each other in a really special place."No doubt Lizzie McGuire's fans do, too!
+/n

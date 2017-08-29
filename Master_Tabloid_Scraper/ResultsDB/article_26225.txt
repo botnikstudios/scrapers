@@ -1,0 +1,42 @@
+Comedy Connection (7 and 10:30 p.m.) in Chicopee, Mass. Finally, put this hellish year to bed once and for all as McHale does two shows at Boston’s Wilbur Theater (7 and 9:45 p.m.). Then go home and hit the sack./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/69603/mchale-brings-warmth-and-laughter-to-u-s-a');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20081023/293.mchale.joel2.lc.102308.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joel McHale");
+	var imageCaption = encodeURIComponent("Joel McHale");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+E! Networks
+
+Once again, national television personality Joel McHale takes to the road on a healing mission of laughter, offering the bonding of American humor—the best humor there is—to a country in troubled times. In other words, you may be out of work, but Joel isn’t.Catch him in his native state on Nov. 21 at the INB Performing Arts Center in Spokane, Wash., then pack your VW van with extra socks and bongs and follow the fun-time caravan to Seattle on Nov. 28 and 29 for two shows at the Moore Theatre.Come Dec. 5, Joel will be treading the boards at the Flint Center in Cupertino, Calif., then riding an airplane all the way to Reno, Nev., for a Dec. 27 experience at the Grand Sierra Resort and Casino.On Dec. 30, double up on the chuckles as Joel plays two shows at the Comedy Connection (7 and 10:30 p.m.) in Chicopee, Mass.Finally, put this hellish year to bed once and for all as McHale does two shows at Boston’s Wilbur Theater (7 and 9:45 p.m.). Then go home and hit the sack.
+/n

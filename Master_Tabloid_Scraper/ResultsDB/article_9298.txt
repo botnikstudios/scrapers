@@ -1,0 +1,90 @@
+Oxygen Examines Case of Ex-Cop Drew Peterson’s Still-Missing Fourth Wife 10 Years After Disappearance/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-2e40097b74a5145d18d6f7fe8b68c928-59a510d44747f');
+				var iframe = document.getElementById('wpcom-iframe-2e40097b74a5145d18d6f7fe8b68c928-59a510d44747f');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-2e40097b74a5145d18d6f7fe8b68c928-59a510d44747f'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+For 10 years, the fate and whereabouts of Stacy Peterson have remained unknown, even as her ex-cop husband sits in jail on two unrelated convictions — one for murdering a different wife and another for trying to kill the prosecutor who put him behind bars for that murder.
+Now the Oxygen network promises a fresh look at the mystery and at Drew Peterson, the disgraced, attention-seeking former police officer in Bollingbrook, Illinois, who has long maintained he had nothing to do with his bride’s 2007 disappearance.
+The two-hour special Snapped Notorious: Drew Peterson premieres August 25 at 9 p.m. ET/PT. An exclusive trailer is at the top of this post.
+The broadcast marks the 10th anniversary since Stacy, who was Drew’s fourth wife, went missing. He has alleged in court records and his public statements that the 25-year-old was cheating on him with another man and had run off with him.
+Stacy’s family members who never again heard from her have continued to suspect her husband, who has yet to face any criminal charges in the case.
+Drew PetersonM. Spencer Green/AP
+Subsequently, however, Drew went on trial twice for accusations of murder.
+He was sentenced in 2012 to 38 years in prison for the 2004 murder of his third wife, Kathleen Savio. And last year, Drew was convicted and sentenced to serve an additional 40 years after trying to hire a hit man in an attempt to kill the prosecutor who brought the charges against him for Savio’s killing.
+Drew’s son, Stephen, said earlier this year that his father “probably” killed both Savio and Stacy.
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+In court last year, fellow inmate Antonio Smith testified that Peterson had called Stacy “a dead woman” while discussing the case.
+Stephen, himself a former cop who was implicated in his father’s alleged misdeeds, said last February that he had no information about Stacy’s disappearance. Stephen was fired in 2011 as an officer after officials learned he had store Drew’s guns and checks totaling more than $200,000 after Stacy went missing.
+Stephen PetersonJohn Smierciak/Chicago Tribune/MCT/Getty
+After his marriage subsequently ended, Stephen moved into his father’s home and is the guardian of Drew and Stacy’s middle-school-aged son, he said.
+The Oxygen special includes interviews with Stephen, along with Stacy’s aunt; the former Village of Bollingbrook police chief; the Will County state’s attorney; Stacy’s sister-in-law; the couple’s pastor; a reporter who covered the case; and a former finance of Drew’s to reexamine Stacy’s story as her family continues to press for answers.
+Snapped: Notorius Drew Peterson premieres on Oxygen on August 25 at 9 p.m. ET/PT.
+/n

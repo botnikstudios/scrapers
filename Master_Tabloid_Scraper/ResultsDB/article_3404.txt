@@ -1,0 +1,54 @@
+Brandi Glanville and Scheana Marie Shay Bury the Hatchet Not even Eddie Cibrian can keep two Bravolebrities apart forever. After exchanging niceties during separate Watch What Happens Live appearances, Brandi Glanville and Scheana Marie Shay.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/828330/brandi-glanville-and-scheana-marie-shay-bury-the-hatchet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017110/rs_421x749-170210101110-634.scheana-marie-shay-brandi-glanville.21017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Scheana Marie Shay, Brandi Glanville");
+	var imageCaption = encodeURIComponent("Scheana Marie Shay, Brandi Glanville");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Snapchat
+
+Not even Eddie Cibrian can keep two Bravolebrities apart forever.After exchanging niceties during separate Watch What Happens Live appearances, Brandi Glanville and Scheana Marie Shay posed for a photo together at OK! Magazine's pre-Grammy party at Avalon Hollywood Thursday. Shay shared the picture via Snapchat without offering any context. Though their run-in was not planned, a source tells E! News they "had a nice moment.""Brandi and Scheana were hanging out throughout the night," another insider reveals. "They were hugging and putting on makeup together. They stayed the entire night and enjoyed JoJo's performance." Glanville came to the event with her boyfriend DJ Friese, and she met up with former Real Housewives of Beverly Hills cast member Carlton Gebbia at the star-studded event.
+
+Shay, meanwhile, partied with Vanderpump Rules co-stars Lala Kent, Ariana Madix and Tom Sandoval. "Scheana and Lala appeared on good terms," the insider says. "There was no drama."When Glanville appeared on Andy Cohen's late-night show three weeks ago, she paid the waitress a compliment. "Scheana's the only girl that I like this season on Vanderpump Rules," she said. "She seems like she's the only one that has the voice of reason. She's being normal."When Shay stopped by Cohen's studio earlier this week and he replayed Glanville's interview for her, she was admittedly taken aback. "My jaw dropped," the reality star confessed. "I was like, 'Rewind! Wait—she did say it.' Then I went to tweet her and I was like, 'I'm still blocked.'"
+
+
+
+StarTraks Photos
+
+Before Thursday's run-in, Glanville unblocked Shay only to discover that she had also been blocked. In an effort to make amends with Shay, the My Kitchen Rules star reached out to Cohen and asked the host to "tell her that I know how difficult divorce can be! Hang in there!"Shay responded by retweeting Glanville and adding several heart emojis.Things weren't always so amicable, of course. As Glanville's marriage to Cibrian was falling apart, she learned that he'd been seeing Shay on the side; Shay, for her part, maintained that she unknowingly dated Cibrian when he was married to Glanville and also seeing LeAnn Rimes.
+
+At their mutual friend Lisa Vanderpump's suggestion, Glanville and Shay decided to meet in a 2013 episode of The Real Housewives of Beverly Hills—which segued into the first-ever episode of Vanderpump Rules. "I just have so much I need to get off my chest with you," Shay said. "I'm shaking right now." But Glanville wasn't sympathetic. "I lost my family. I lost everything that I had. So, if anyone's going to cry here, it's not going to be you," she said. Later, Glanville sniped, "Look at where you are in your life. I'm in such a better place. I win. You know what I mean?"
+
+Glanville later blogged about the meeting for Bravo and explained how it ruined her friendship with Vanderpump. "Lisa asked me to have a sit down with the woman who was my husband's mistress for three years, throughout my entire second pregnancy...So, with great reluctance for my new 'good' friend, Lisa V., I threw myself on my sword and did it. It was hard. It was the first scene on Vanderpump Rules, the crossover. It was a onetime favor. Or it was supposed to be. You've all seen Lisa V. throwing that beautiful catered engagement party for that mistress at her house. Treating the mistress like family," she wrote at the time. "It happened a lot. A lot."If Glanville can bury the hatchet with Shay, perhaps there's still hope for her and Vanderpump.—Reporting by Beth Sobol and Mike Vulpo(E! and Bravo are both members of the NBCUniversal family.)
+/n

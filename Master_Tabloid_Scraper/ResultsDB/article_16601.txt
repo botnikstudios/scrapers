@@ -1,0 +1,54 @@
+In Honor of Betty White's 95th Birthday, Relive Her Best Roles in Movies and Television Happy birthday to Hollywood's golden girl! Betty Whitecelebrates her 95th birthday today, reaching yet another milestone in a decades-spanning .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/822315/in-honor-of-betty-white-s-95th-birthday-relive-her-best-roles-in-movies-and-television');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20161114/rs_634x1024-161214151452-634-betty-white-blue.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Betty White");
+	var imageCaption = encodeURIComponent("Betty White");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ Brian To/Getty Images for The Lifeline Program
+
+Happy birthday to Hollywood's golden girl!Betty Whitecelebrates her 95th birthday today, reaching yet another milestone in a decades-spanning career that is still just as active as ever. It's hard to believe it's been 55 years since the beloved actress made her feature film debut in Advise & Consent, a performance that led to breakout role after breakout role both in television and film. And yes, her time in the spotlight is so legendary that in 2013, the Guinness Book of World Records recognized Betty as having the longest TV career for any female entertainer. From The Mary Tyler Moore Show to The Golden Girls and every LOL-worthy game show appearance in between, it's nearly impossible to pick just one of Betty's roles as our favorite, and why should we have to? In honor of her special day, we picked seven of our favorite Betty White performances. Here's to so many more!
+
+The Mary Tyler Moore Show: Oh Sue Ann Nivens, how we love thee. White starred in the long-running 70s sitcom, winning back-to-back Emmys for her comedic chops that later led to her landing her own self-titled show on CBS.
+
+The Golden Girls: If Betty wasn't a household name by 1985, she certainly was after the classic sitcom following four widows-turned-roomies hit TV. Then 63, White starred opposite Bea Arthur, Estelle Getty and Rue McClanahan throughout The Golden Girls' seven-year run, and earned four Golden Globe nominations and one Emmy for the role. 
+
+Password: The birthday girl is known as the First Lady of Game Shows (FLOGS for short), and in 1983, Betty became the first woman to win a Daytime Emmy in the Outstanding Game Show Host category for Just Men! White went on to appear and host a handful of game shows well into the 2000s, and even met her hubby—TV personality Allen Ludden—on Password. 
+
+The Proposal: More modern moviegoers were introduced to the national treasure that is Betty when she starred opposite Sandra Bullock and Ryan Reynold in the 2008 rom-com. The actress was wildly hilarious as Grandma Annie, proving she still had it going on at 86-years-old. 
+
+Saturday Night Live: The powers-that-be granted the wish of more than 500,000 Facebook users who joined a group requesting White host SNL back in 2010, and boy did she deliver. At 88, Betty became the oldest person to host the sketch series, and during her opening monologue teased that she "didn't know what Facebook was, and now that I do know what it is, I have to say, it sounds like a huge waste of time." Never change, Betty. 
+
+Hot in Cleveland: In 2010, Betty returned to the small screen for TV Land's first scripted comedy co-starring Valerie Bertinelli. For five years, the actress wowed TV lovers by playing a Polish caretaker with a not-so-secret wild past.Wishing Betty her best year yet!
+/n

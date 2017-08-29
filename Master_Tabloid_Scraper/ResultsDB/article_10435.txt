@@ -1,0 +1,90 @@
+Jillian Michaels Claims She Was Scammed on Holiday Rentals in Facebook Post: 'This Stuff Is No Joke'
+/n
+
+Jillian Michaels is warning her followers to be wary of rental scams after she claimed she was taken advantage of “three times” by renters in the last six months.
+“You guys know I keep my social pretty straight forward,” she wrote in a lengthy post on Facebook, Saturday. “Fun memes, nutrition tips, fitness videos etc. But I feel compelled to ask you all to be VERY CAREFUL with any holiday rentals you book online.”
+One instance was a “simple scam on Airbnb” and the other incident occurred when the fitness instructor tried to rent a boat through another company, Michaels claimed.
+The boat – which looked “pristine” in online images – was “filthy,” had “no hot water,” no air conditioning when it was “not docked,” no WiFi and had sketchy electricity, alleged the 43-year-old in her post.
+Matthew Eisman/Getty Images
+In addition to renting a boat that was in “total disrepair,” the former Biggest Loser trainer also claimed that the situation turned aggressive when on the third day of their 12-day agreement, she was “extorted for money and things became so escalated” that she feared for her safety.
+Alongside the post, Michaels shared images of what she said was the boat.
+“Bottom line – this stuff is no joke,” she wrote. “You could lose a lot of money and that sucks, but in some instances there is real danger. Be so so careful when dealing with rentals.”
+The Yeah Baby! author and fitness guru also provided tips for protecting oneself when attempting to rent properties or vehicles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-f2949e6fe58b551f6f6d118234272cb1-59a515e8a63df');
+				var iframe = document.getElementById('wpcom-iframe-f2949e6fe58b551f6f6d118234272cb1-59a515e8a63df');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-f2949e6fe58b551f6f6d118234272cb1-59a515e8a63df'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+In the comments of her post, Michaels elaborated on “the issue we had with Airbnb,” explaining, “the place was’t real so they pulled a bait and switch last minute.”
+Airbnb responded with a statement to PEOPLE saying, “We have no tolerance for this type of behavior and upon learning of this incident, we permanently banned this host from our community and fully refunded our guest.” The rental site also adds that they have a team available 24/7 to help remediate issues like what Michaels encountered. “We strive to ensure every host and guest has a great experience on Airbnb, and our team works hard to make it right when things don’t go as planned,” the comment from the company continues.
+RELATED VIDEO: Jillian Michaels’ Summer Workout 1
+
+The fitness guru shares son Phoenix, 5, and daughter Lukensia, 7, with fiancée Heidi Rhoades.
+/n

@@ -1,0 +1,44 @@
+represents major studios and networks. "Today's vote reflects the ability of AFTRA members to recognize a solid contract when they see it," union president Roberta Reardon said in a statement, adding that the agreement, which .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/2808/aftra-takes-the-deal');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080528/205v.aftra.logo.052808.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("AFTRA Logo");
+	var imageCaption = encodeURIComponent("AFTRA Logo");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+aftra.org
+
+Well, some actors are squared away.Members of the 70,000-strong American Federation of TV and Radio Artists have voted 62.4 percent in favor of ratifying the contract its leaders cooked up in May with the Alliance of Motion Picture and TV Producers, which represents major studios and networks."Today's vote reflects the ability of AFTRA members to recognize a solid contract when they see it," union president Roberta Reardon said in a statement, adding that the agreement, which only involves a handful of prime-time shows, followed an "unprecedented disinformation campaign aimed at interfering with our ratification process."
+
+While the result was expected to be in favor of the new three-year deal, the pending vote had caused a schism among members of the still-talking Screen Actors Guild, some of whom—such as Tom Hanks and Alec Baldwin—signed an online petition urging AFTRA to go for it, while others—including Jack Nicholson and Holly Hunter—encouraged the smaller, less powerful union to hold fast with its mightier brethren.And still others—namely George Clooney—wanted the two to work together in favor of the little guy, aka working actors who barely command bus fare, let alone $20 million per project. About 44,000 of AFTRA's members also belong to SAG, which boasts nearly 120,000 members."Clearly many [SAG] members responded to our education and outreach campaign and voted against the inadequate AFTRA agreement," SAG President Alan Rosenberg said in a statement following the vote Tuesday."We knew AFTRA would appeal to its many AFTRA-only members, who are news people, sportscasters and DJs, to pass the tentative agreement covering acting jobs. In its materials, AFTRA focused that appeal on the importance of actor members' increased contributions to help fund its broadcast members' pension and health benefits."Meanwhile, SAG is still begrudgingly mulling over the latest deal proposed by the AMPTP, which executive director Doug Allen has said is not up to snuff when it comes to residuals from online content and DVDs—a major grievance that stuck in the Writers Guild of America's craw when it embarked on a 100-day strike.Both AFTRA's and SAG's previous deals expired on June 30. The smaller union opted to negotiate separately from SAG this year, prompting speculation that it was planning to quickly acquiesce to the studios' terms.The terms of the AFTRA deal reportedly mirror those arrived at between the AMPTP and the WGA and the Directors Guild of America, as well as the key points the alliance presented to SAG last week.The AMPTP, which has said it will not be discussing further changes to its proposal, announced Tuesday that an upcoming sit-down with SAG has been scheduled.
+/n

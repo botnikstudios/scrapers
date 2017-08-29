@@ -1,0 +1,46 @@
+The O.C.'s Benjamin McKenzie and Autumn Reeser Have a Mini Reunion They're all grown up and back in the O.C. It's been 10 years since we waved goodbye to the teens of the hit TV series, but, thanks to a children's fundrai.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/847277/the-o-c-s-benjamin-mckenzie-and-autumn-reeser-have-a-mini-reunion');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_634x1024-170501065846-634.Ben-McKenzie-Autumn-Reeser-JR-050117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben McKenzie, Autumn Reeser");
+	var imageCaption = encodeURIComponent("Ben McKenzie, Autumn Reeser");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Charley Gallay/Getty Images for Zimmer Children's Museum
+
+They're all grown up and back in the O.C.It's been 10 years since we waved goodbye to the teens of the hit TV series, but, thanks to a children's fundraiser, Ryan Benjamin McKenzie and Taylor Autumn Reeser reunited over the weekend and simultaneously proved no time has really passed at all.  The stars ran into each other at the Zimmer Children's Museum 'We All Play' Annual FUNraiser in Los Angeles and posed for photos together in casual daywear. While it definitely doesn't seem like it, times have changed for these famous faces, who have since added "parent" to their list of roles. While Reeser is mom to sons Finneus, 5, and Dashiell, 3, with ex-husband Jesse Warren, McKenzie welcomed his first child, daughter Frances, with fiancé Morena Baccarin last March. 
+
+This isn't the first O.C. reunion for McKenzie in recent years. He starred with O.C. alum Melinda Clarke, who had a recurring role in the second season of Gotham.The new dad wouldn't be opposed to another on-screen reunion with his signature O.C counterpart, Seth Adam Brody, either. "I saw Adam recently, and you know, I hope so," he told E! News' Kristin Dos Santos in 2015. "He's a great guy."
+
+It's never too late! 
+/n

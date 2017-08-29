@@ -1,0 +1,50 @@
+Helen Mirren's Top 5 Tips For Women Is the Only Thing You Need to Read Today If there's anyone who knows about living a good life it is Helen Mirren. She's won an Oscar, a Tony, four Emmys, three Golden Globes and was appointe.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/804519/helen-mirren-s-top-5-tips-for-women-is-the-only-thing-you-need-to-read-today');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016925/rs_634x1024-161025081230-634.Helen-Mirren-ELLE-Women-In-Hollywood-JR-102516.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Helen Mirren, ELLE Women In Hollywood ");
+	var imageCaption = encodeURIComponent("Helen Mirren, ELLE Women In Hollywood ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Frazer Harrison/Getty Images for ELLE
+
+If there's anyone who knows about living a good life it is Helen Mirren.She's won an Oscar, a Tony, four Emmys, three Golden Globes and was appointed a dame in 2003. She and her director husband Taylor Hackford have been married for almost 19 years. And let's not forget that she's absolutely gorgeous and equally as intelligent.The acting icon was honored last night with the Legend Award at Elle's Women In Hollywood gala at the Four Seasons in Beverly Hills.Mirren's acceptance speech included her top five tips for women and we think it's essential that we pass them on to you.Without further ado, here is Dame Helen in her own words.
+
+
+
+Neilson Barnard/Getty Images
+
+1. "Never drink alcohol unless you're celebrating something, upset about something or it's a day that ends in the letter y. And never drink when you're driving."2. "There are no rules about love, I don't believe—but don't be in a rush to get married. Honestly, I married Taylor much later in life and it's worked out just great. But give your partner the freedom and support to achieve their ambition. it's very important and that goes both ways for men and women."3. "At the blackjack table, always split aces, eights and nines. Believe me, it really improves the odds."4. "Connect with friends daily and I don't mean on Facebook. Better to have three great friends than 300 friends on social media—friends that you really talk to.'5. "And finally, ignore anyone who judges the way you look, especially if he or she is some anonymous miserable creep lurking on the internet or is a bloated small-headed dinosaury hand candidate for president."
+
+Elle Women in Hollywood, co-sponsored by L'Oréal Paris, Hearts on Fire Diamonds and Calvin Klein Collection, also honored Amy Adams, Kathy Bates, Felicity Jones, Anna Kendrick, Aja Naomi King, Lupita Nyong'o and Kristen Stewart."To make you proud that you chose to honor me tonight," Mirren also said, "I'm going be the nastiest of all nasty women."Amen!
+/n

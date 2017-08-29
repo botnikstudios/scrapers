@@ -1,0 +1,42 @@
+of the late Harvey Milk, the first openly gay man elected to public office in California. "Hang on, everybody," Jicktanner stated to his assistant Margie Dort and janitor Rick Sangster, who happened to be standing nearby. "Got.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/71536/local-editor-thrilled-with-got-milk-headline');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20081114/293.milk.penn.lr.111408.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Milk, Sean Penn");
+	var imageCaption = encodeURIComponent("Milk, Sean Penn");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Focus Features
+
+Lance Jicktanner, lifestyle and entertainment editor of the Daily Plevnarian in Plevna, Mo., emerged this morning from an intense, three-hour brainstorming session with what he called "the perfect freakin' headline" for the publication's review of the film Milk, the Sean Penn-starring biopic of the late Harvey Milk, the first openly gay man elected to public office in California."Hang on, everybody," Jicktanner stated to his assistant Margie Dort and janitor Rick Sangster, who happened to be standing nearby. "Got Milk? It's a play on the old milk ad. Let's see the New York Times beat that!" While a confused Sangster replied simply, "What?" Dort commended the headline, saying, "Gee, that's a good one, Lance," before returning to typing something.Jicktanner, who was sequestered with managing editor Ken Nagman, sports editor Dick Schicksteiner and copy aide Cheryl Legume, revealed they'd considered "Here's Milk," "How About Some Milk?," "A Glass of Milk" and "Milk—the Movie, Not the Drink." "We were spitballing like crazy, and finally Cheryl said, "Got Milk?" and that was it. Boom. Headline gold," explained a jubilant Jicktanner. "I've been in the business a long time, and I can tell you, a headline like this doesn't happen every day."
+/n

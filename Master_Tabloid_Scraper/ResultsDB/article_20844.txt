@@ -1,0 +1,84 @@
+What's Happening?! Norman Lear Says Jimmie Walker Dates Ann Coulter
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-0d80f94ad95c714073932a90bb3f50a7-59a55477e870b');
+				var iframe = document.getElementById('wpcom-iframe-0d80f94ad95c714073932a90bb3f50a7-59a55477e870b');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-0d80f94ad95c714073932a90bb3f50a7-59a55477e870b'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+A version of this story originally appeared on EW.com.
+Norman Lear has a pretty surprising claim about former Good Times star Jimmie Walker: the 94-year old says Walker dates conservative commentator Ann Coulter.
+Lear’s claim came during an interview with black-ish creator Kenya Barris for the Untold Stories issue of Entertainment Weekly (on newsstands now). Asked by Barris about casting Walker as J.J. on Good Times, Lear said he knew the “role could make him a star,” before discussing Walker’s personal life.
+“I love him; he’s a wonderful guy, but I’ll tell you something about him that’ll astound you: He dates Ann Coulter,” Lear said. The news surprised Barris, who then listened as Lear explained he and his wife had dinner with Coulter and Walker. Lear added that Coulter turned out to be “a dreamy, delicious, sweet person.”
+“J.J. dates Ann Coulter!” said Barris. “You couldn’t write that! That’s fantastic!”
+
+To read more Untold Stories, pick up the new issue of Entertainment Weekly on stands or right here right now. Don’t forget to subscribe for more exclusive interviews and photos, only in EW.
+
+Rumors that Walker and Coulter are together have persisted for years. In 2013, Coulter told HuffPost Live that Walker was the one “spreading that rumor” about their relationship and said they weren’t together. Coulter, however, confirmed the pair are close friends — but nothing more.
+/n

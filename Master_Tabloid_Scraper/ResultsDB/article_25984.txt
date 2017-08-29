@@ -1,0 +1,46 @@
+Former RHONJ's Amber Marchese and Husband Jim Sue Virgin America for False Imprisonment Following a drama-filled flight over the summer, former Real Housewives of New Jersey stars Jim and Amber Marchese have filed a lawsuit against the .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/804571/former-rhonj-s-amber-marchese-and-husband-jim-sue-virgin-america-for-false-imprisonment');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016320/rs_634x1024-160420072733-634.Jim-Marchese-Amber-Marchese-JR-042016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jim Marchese, Amber Marchese");
+	var imageCaption = encodeURIComponent("Jim Marchese, Amber Marchese");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mike Pont/Getty Images
+
+Following a drama-filled flight over the summer, former Real Housewives of New Jersey stars Jim and Amber Marchese have filed a lawsuit against the airline for false imprisonment.E! News has learned that the married duo is suing Virgin America for defamation after police escorted them off of an April 20th flight.The incident took place after a flight attendant claimed that Jim had choked his wife during a red-eye flight from Los Angeles to New Jersey.The Marcheses, who were on their way home after filming Marriage Boot Camp: Reality Stars for almost a month, claim that the incident that the flight attendant told police never actually took place.
+
+According to the court documents, Amber and Jim claim that they were engaging in "flirtatious" behavior and were not in the middle of a fight.Shortly after being pulled from the flight, Jim was arrested for domestic violence.At the time, the couple released a joint statement regarding the late-night plane ordeal:"The District Attorney's office as well as the City Attorney refused to press charges after reviewing the lack of evidence in the case against James Marchese. The false eyewitness reports caused LAPD to wrongfully arrest Mr. Marchese for felony abuse, with both District Attorney and City Attorney finding no merit in the allegations. James and Amber always vehemently contended the false report from the start."
+
+Jim also declared that he would be filing a civil action suit against the airlines for what he calls a "disgusting, hurtful defamatory act which caused the police to take such extreme action resulting in horrible rumors."Meanwhile, Jim tells E! News today that the entire incident is "absurd" and "doesn't make any sense.""We had spent two and a half weeks shooting [the show] which was so much fun and we had just finished a promotional photo shoot…We got on the plane and the next thing you know, my wife is in handcuffs and I'm being escorted off the flight."A Virgin America spokesperson tells E! News: "There is no merit to this lawsuit and Virgin America will defend the claims made against our Teammate."—Reporting by Beth Sobol and Holly Passalaqua
+/n

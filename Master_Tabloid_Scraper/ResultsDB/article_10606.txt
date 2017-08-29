@@ -1,0 +1,85 @@
+Brad Pitt Returns As the Depressing Weatherman and Offers Yet Another Hilariously Bleak Forecast
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-dfed7aa2f4ce6d8e237f95dea741bc6e-59a516bee1812');
+				var iframe = document.getElementById('wpcom-iframe-dfed7aa2f4ce6d8e237f95dea741bc6e-59a516bee1812');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-dfed7aa2f4ce6d8e237f95dea741bc6e-59a516bee1812'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+He’s back!
+Brad Pitt returned to The Jim Jefferies Show on Tuesday to give yet another hilariously bleak report as the weatherman.
+“Carbon dioxide is slowing turning our planet into an uninhabitable wasteland, and half the population doesn’t believe it,” he said.
+And while his message may have been a bit depressing, he delivered it with a big smile on his face.
+
+Jeffries then asked Pitt, 53, for his forecast, which turned out to be even more morbid.
+FROM COINAGE: The Top 5 Most Expensive Movies of All Time
+
+“The Lord saw the wickedness of man was great, and the Lord said, ‘I will destroy man, who I have created, from the face of the Earth.’ So don’t forget your sunscreen,” Pitt said with another grin.
+The actor previously appeared on the comedian’s new late night news program last week, where he joked there was “no future” in the wake of Donald Trump withdrawing from the Paris Accord.
+/n

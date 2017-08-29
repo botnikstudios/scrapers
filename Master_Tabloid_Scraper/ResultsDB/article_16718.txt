@@ -1,0 +1,137 @@
+Mullets, Braces, & Baby Fat – 15 Awkward Celebrity Throwback Photos/n
+
+					var next_post_url = "http://radaronline.com/photos/carrie-fisher-debbie-reynolds-funeral-photos-hearse-cemetery-billie-lourd-arrivals/";
+					var prev_post_url = "http://radaronline.com/photos/carrie-fisher-debbie-reynolds-funeral-cremated-pill/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-01-19T18:24:51+00:00","caption":"Everyone goes through\u00a0that\u00a0awkward phase even glamorous celebrities! From bad hair to buck teeth click through\u00a0these cringe-worthy celebrity throwback photos.\n\n","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:26+00:00","caption":"Dark lips and even darker roots! Renee Zellweger's original face seen here coiffed with some very big 80's bangs.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:28+00:00","caption":"Mullet madness! Believe it or not, that's a young Blake Shelton. Who would have known that Gwen Stefani would someday be kissing those chubby cheeks?","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:29+00:00","caption":"Where did her eyebrows go? Kendra Wilkinson went a little overboard with the eyebrow plucking in her high school days. They're pencil thin and penciled in!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:31+00:00","caption":"Jamie Foxx's shorts are so short they almost distract you from his Jheri Curl mullet.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:32+00:00","caption":"\n\nA bowl-cut and books, who needs anything more?\u00a0No one would have guessed that this toothy jack-o-lantern grin would someday become\u00a0Julia Robert's signature smile.\n\n","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:34+00:00","caption":"Brad Pitt suffered the same hair trend as Roberts but with better teeth.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:35+00:00","caption":"\n\nSinger and fashionista Jessica Simpson came a long way! It's hard to imagine that father and\u00a0former manager Joe Simpson ever signed off on this\u00a0baggy men's shirt,\u00a0mousey brown hair, and no-makeup look.\n\n","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:36+00:00","caption":"\n\nProm Date Impossible! Tom Cruise looks like a Saturday Night Fever reject dressed in a plaid suit with\u00a0a left tooth so big it probably required it's own tooth brush.\n\n","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:37+00:00","caption":"There's a reason Taylor Swift wears her hair straight these days...","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:44+00:00","caption":"Oh no! Justin\u00a0Bieber had the bowl-cut too! Hard to believe this baby face could cause so much havoc in Hollywood.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-13.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:45+00:00","caption":"From greasy to glam! Amber Heard upped her hair game in a major way\u00a0since junior high.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-14.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:39+00:00","caption":"This throwback photo of Katie Holmes proves that some people just never had an awkward phase.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:41+00:00","caption":"\n\nBelieve it or not but this is the now-gorgeous Rose Huntington-Whiteley!\n\n","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:42+00:00","caption":"Lose the bows! Nicole Scherzinger\u00a0practices\u00a0her pose\u00a0in front of a Christmas Tree.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-01-06T17:54:47+00:00","caption":"Theater Geek! Sandra Bullock\u00a0has always been dedicated to her craft, even if it meant wearing this man-repelling costume.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/01\/celebrity-awkward-photos-nerds-before-after-15.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Mullets, Braces, & Baby Fat – 15 Awkward Celebrity Throwback Photos
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 16 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 16celebrity-awkward-photos-nerds-before-afterEveryone goes through that awkward phase even glamorous celebrities! From bad hair to buck teeth click through these cringe-worthy celebrity throwback photos.
+
+Photo credit: Coleman-Rayner2 of 16Renee Zellweger Year Book photosDark lips and even darker roots! Renee Zellweger's original face seen here coiffed with some very big 80's bangs.Photo credit: Coleman-Rayner3 of 16Blake Shelton Never Before Seen School PhotosMullet madness! Believe it or not, that's a young Blake Shelton. Who would have known that Gwen Stefani would someday be kissing those chubby cheeks?Photo credit: Coleman-Rayner4 of 16Collects of Kendra WIlkinson from her high school yearbookWhere did her eyebrows go? Kendra Wilkinson went a little overboard with the eyebrow plucking in her high school days. They're pencil thin and penciled in!Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 16Jamie Foxx’s Family RiftJamie Foxx's shorts are so short they almost distract you from his Jheri Curl mullet.Photo credit: Coleman-Rayner6 of 16Unseen photos of Julia Roberts during her time attending Campbell High School in Smyrna, Georgia.
+
+A bowl-cut and books, who needs anything more? No one would have guessed that this toothy jack-o-lantern grin would someday become Julia Robert's signature smile.
+
+Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 16Brad PittBrad Pitt suffered the same hair trend as Roberts but with better teeth.Photo credit: Coleman-Rayner8 of 16Jessica Simpson Collect Photos
+
+Singer and fashionista Jessica Simpson came a long way! It's hard to imagine that father and former manager Joe Simpson ever signed off on this baggy men's shirt, mousey brown hair, and no-makeup look.
+
+Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 16Tom Cruise Childhood
+
+Prom Date Impossible! Tom Cruise looks like a Saturday Night Fever reject dressed in a plaid suit with a left tooth so big it probably required it's own tooth brush.
+
+Photo credit: Coleman-Rayner10 of 16celebrity-awkward-photos-nerds-before-after-09There's a reason Taylor Swift wears her hair straight these days...Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 16Justin Bieber retro packageOh no! Justin Bieber had the bowl-cut too! Hard to believe this baby face could cause so much havoc in Hollywood.Photo credit: Coleman-Rayner12 of 16Amber HeardFrom greasy to glam! Amber Heard upped her hair game in a major way since junior high.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 16Katie HolmesThis throwback photo of Katie Holmes proves that some people just never had an awkward phase.Photo credit: Coleman-Rayner14 of 16Rosie Huntington-Whiteley Childhood Photos
+
+Believe it or not but this is the now-gorgeous Rose Huntington-Whiteley!
+
+Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+15 of 16Nicole ScherzingerLose the bows! Nicole Scherzinger practices her pose in front of a Christmas Tree.Photo credit: Coleman-Rayner16 of 16Sandra Bullock High School packageTheater Geek! Sandra Bullock has always been dedicated to her craft, even if it meant wearing this man-repelling costume.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Coleman-Rayner 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-7'] = {"tag_id":"dfp-tag-mobile_box-7", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+celebrity-awkward-photos-nerds-before-afterEveryone goes through that awkward phase even glamorous celebrities! From bad hair to buck teeth click through these cringe-worthy celebrity throwback photos.
+
+Photo credit: Coleman-RaynerRenee Zellweger Year Book photosDark lips and even darker roots! Renee Zellweger's original face seen here coiffed with some very big 80's bangs.Photo credit: Coleman-RaynerBlake Shelton Never Before Seen School PhotosMullet madness! Believe it or not, that's a young Blake Shelton. Who would have known that Gwen Stefani would someday be kissing those chubby cheeks?Photo credit: Coleman-RaynerCollects of Kendra WIlkinson from her high school yearbookWhere did her eyebrows go? Kendra Wilkinson went a little overboard with the eyebrow plucking in her high school days. They're pencil thin and penciled in!Photo credit: Coleman-RaynerJamie Foxx’s Family RiftJamie Foxx's shorts are so short they almost distract you from his Jheri Curl mullet.Photo credit: Coleman-RaynerUnseen photos of Julia Roberts during her time attending Campbell High School in Smyrna, Georgia.
+
+A bowl-cut and books, who needs anything more? No one would have guessed that this toothy jack-o-lantern grin would someday become Julia Robert's signature smile.
+
+Photo credit: Coleman-RaynerBrad PittBrad Pitt suffered the same hair trend as Roberts but with better teeth.Photo credit: Coleman-RaynerJessica Simpson Collect Photos
+
+Singer and fashionista Jessica Simpson came a long way! It's hard to imagine that father and former manager Joe Simpson ever signed off on this baggy men's shirt, mousey brown hair, and no-makeup look.
+
+Photo credit: Coleman-RaynerTom Cruise Childhood
+
+Prom Date Impossible! Tom Cruise looks like a Saturday Night Fever reject dressed in a plaid suit with a left tooth so big it probably required it's own tooth brush.
+
+Photo credit: Coleman-Raynercelebrity-awkward-photos-nerds-before-after-09There's a reason Taylor Swift wears her hair straight these days...Photo credit: Coleman-RaynerJustin Bieber retro packageOh no! Justin Bieber had the bowl-cut too! Hard to believe this baby face could cause so much havoc in Hollywood.Photo credit: Coleman-RaynerAmber HeardFrom greasy to glam! Amber Heard upped her hair game in a major way since junior high.Photo credit: Coleman-RaynerKatie HolmesThis throwback photo of Katie Holmes proves that some people just never had an awkward phase.Photo credit: Coleman-RaynerRosie Huntington-Whiteley Childhood Photos
+
+Believe it or not but this is the now-gorgeous Rose Huntington-Whiteley!
+
+Photo credit: Coleman-RaynerNicole ScherzingerLose the bows! Nicole Scherzinger practices her pose in front of a Christmas Tree.Photo credit: Coleman-RaynerSandra Bullock High School packageTheater Geek! Sandra Bullock has always been dedicated to her craft, even if it meant wearing this man-repelling costume.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Coleman-Rayner 
+
+
+
+
+
+
+
+
+
+/n

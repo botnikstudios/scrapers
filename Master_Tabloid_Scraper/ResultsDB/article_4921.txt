@@ -1,0 +1,42 @@
+Chris Hardwick and Lydia Hearst Are Married Wedding bells are ringing for Chris Hardwick and Lydia Hearst! The comedian and his longtime girlfriend tied the knot on Saturday evening in front of their closest family and friends, a rep for the.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/788945/chris-hardwick-and-lydia-hearst-are-married');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151114/634.lydia-chris.cm.82216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Chris Hardwick, Lydia Hearst, Star Wars Premiere");
+	var imageCaption = encodeURIComponent("Chris Hardwick, Lydia Hearst, Star Wars Premiere");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Wedding bells are ringing for Chris Hardwick and Lydia Hearst!The comedian and his longtime girlfriend tied the knot on Saturday evening in front of their closest family and friends, a rep for the actor confirmed to E! News.Close to 450 guests watched the couple exchange vows during a Walking Dead-themed wedding in Pasadena, Calif. The bride wore a custom-designed Christian Siriano gown while Hardwick donned a custom Prada suit. Ahead of their nuptials, Hardwick couldn't contain his excitement, posting an adorable photo of the pair sharing a sweet smooch during their wedding rehearsals. A snapshot shared by Hearst confirmed the two would wed on August 20, complete with an H-squared graphic preceded by a cartoon drawing of the couple as zombies.After all, Chris isn't known by his fans as the Nerdist for nothing, right?!Chris and Lydia's special day wouldn't be complete without a philanthropic twist, as the couple opted to forgo the traditional wedding registry and instead asked their guests to donate to a number of charities. 
+/n

@@ -1,0 +1,46 @@
+EXCLUSIVE! Did Dorothy Wang Hook Up With Anyone in the Famously Single House? Since filming Famously Single, Dorothy says she still hasn't found a guy who's marriage material. "I'm looking for someone that is very driven,.../n
+Dorothy Wang is very happy she decided to rehab her relationship skills on the new season of E!'s Famously Single."Do I think the show worked for me? Yes, I think that the show worked for me," the #RichKids of Beverly Hills star tells E! News. "The show, people go on it for different reasons: people go on it o find love, some people go on it to help their dating habits and some people go on it to learn about themselves and to figure out what they want. Definitely the show has helped me."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/famously_single/news/861494/did-dorothy-wang-hook-up-with-anyone-in-the-famously-single-house');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017516/rs_634x1024-170616103822-634.2.Dorothy-Wang.ms.061617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dorothy Wang");
+	var imageCaption = encodeURIComponent("Dorothy Wang");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+JB Lacroix/WireImage
+
+Since filming Famously Single, Dorothy says she still hasn't found a guy who's marriage material."I'm looking for someone that is very driven, that kind of has their own thing going on," she dished. "[Someone] that is motivated, hard working but fun and can also kind of keep my interest."Fans already know that Dorothy's Famously Single cast mates Ronnie Magro-Ortiz and Malika Haqq became much more than friends during filming, but did Dorothy hook up with anyone in the Famously Single house? 
+
+Watch the clip to see her answer!
+/n

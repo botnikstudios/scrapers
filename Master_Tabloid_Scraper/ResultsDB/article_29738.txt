@@ -1,0 +1,44 @@
+UPDATE! Lil Wayne: Banned in Britain?! UPDATE: In a statement, the rapper's rep denies that he even applied to get into the U.K. "No visa was ever filed, nor were there any tour dates announced or tickets sold," the rep says. .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/235412/lil-wayne-banned-in-britain');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20100308/293.lil.wayne.lr.030810.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lil Wayne");
+	var imageCaption = encodeURIComponent("Lil Wayne");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ray Tamarra/Getty Images
+
+UPDATE: In a statement, the rapper's rep denies that he even applied to get into the U.K."No visa was ever filed, nor were there any tour dates announced or tickets sold," the rep says.  "Lil Wayne is currently headlining his I Am Still Music Tour across the  US and Canada with plans to extend the tour through  North America this summer. We hope to bring the  I Am Still Music Tour to the UK in the later half of the year."___________________________Weezy's bad raps have caught up with him.Lil Wayne has been forced to scrap a summer tour of   the U.K. after authorities there rejected his visa application due to   prior convictions he's racked up.Talk about more than a li'l problem.
+
+Per Stereoboard.com, the hip-hopster, whose real name is Dwayne Michael Carter Jr., initially confirmed one overseas date (which incidentally wasn't in the U.K., but a festival stop in Cork, Ireland); however, tickets were expected to go on sale for other major Britain-based festival appearances this Friday.But the trek was canceled when Lil Wayne's camp couldn't get the required work permits from the U.K. Border Agency due to his criminal record, the most recent conviction being his 2009 guilty plea to weapons charges that resulted in his serving eight months in a New York jail last year.Wayne also previously copped to drug charges in Arizona and got three years' probation after Border Police pulled over his tour bus and found marijuana, cocaine and ecstasy.It's been awhile since he took a trip across the pond.The MC last toured Britain in 2008 when he performed gigs in London and Leeds. He had hoped to return for another jaunt in 2009 but had to cancel it after experiencing severe migraines.His fans in the U.S. need not worry, however. Lil Wayne's next album, Tha Carter IV, drops May 13 and to support it, he's kicking off a North American leg tonight in Greensboro, N.C.
+/n

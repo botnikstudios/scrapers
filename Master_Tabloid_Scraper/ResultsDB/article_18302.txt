@@ -1,0 +1,78 @@
+ Pampered Pooches! Jennifer Aniston's Dogs Dolly & Sophie Spoiled With Spa Treatments.../n
+For Jennifer Aniston and Justin Theroux‘s wedding day, even the dogs had to look their best! RadarOnline.com can exclusively reveal that the Friends star’s spoiled pups, white shepherd mix Dolly and pit bull mix Sophie, received luxury treatments from traveling groomers Spa Dog on the Big Day.
+
+					var next_post_url = "http://radaronline.com/photos/jennifer-aniston-wedding-justin-theroux-photos-honeymoon-private-plane/";
+					var prev_post_url = "http://radaronline.com/photos/victorias-secret-angel-taylor-hill-launches-body-by-victoria-chicago/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2015-08-06T13:53:00+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-2-PP.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:19+00:00","caption":"According to a source, the pups were attended to by Spa Dog owner Steve Ogden just hours before the intimate ceremony at the couple's Bel-Air mansion on Wednesday.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:20+00:00","caption":"\"Jennifer is a regular client,\" an insider close to Spa Dog says. \"They are at her home all the time, and have a good relationship with the dogs.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:22+00:00","caption":"Spa Dog features upscale treatments normally reserved for A-list humans, including aromatherapy sessions, nail manicures, massages and haircuts.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:23+00:00","caption":"Top notch teeth! Spa Dog also provides dental care that leaves pups with minty breath.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:24+00:00","caption":"Sources say Ogden and his assistant had no idea they were preparing the pooches for a wedding! \"They thought it was just a normal visit,\" an insider says.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:27+00:00","caption":"For Spa Dog, save up! The minimum service call is $90.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-06T13:04:30+00:00","caption":"\"Men come and go but there really is no relationship like the one you have with a dog,\" Aniston has said. Hopefully, hubby Theroux is here to stay!","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/jennifer-aniston-justin-theroux-wedding-dogs-7.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Pampered Pooches! Jennifer Aniston’s Dogs Dolly & Sophie Spoiled With Spa Treatments On Wedding Day: All The Details
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8jennifer-aniston-justin-theroux-wedding-dogs-2-PPPhoto credit: A2 of 8*EXCLUSIVE* Jennifer Aniston and Justin Theroux take the dog for a walkAccording to a source, the pups were attended to by Spa Dog owner Steve Ogden just hours before the intimate ceremony at the couple's Bel-Air mansion on Wednesday.Photo credit: A3 of 8*EXCLUSIVE* Jennifer Aniston and Justin Theroux take the dog for a walk"Jennifer is a regular client," an insider close to Spa Dog says. "They are at her home all the time, and have a good relationship with the dogs."Photo credit: A4 of 8Justin Theroux films a scene with a dog on the set of ‘The Leftovers’ **USA, Canada, Australia ONLY**Spa Dog features upscale treatments normally reserved for A-list humans, including aromatherapy sessions, nail manicures, massages and haircuts.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8Jennifer Aniston and Rhys Ifans shoot a dog walking scene for ‘Squirrels to the Nuts’ in Washington Heights, ManhattanTop notch teeth! Spa Dog also provides dental care that leaves pups with minty breath.Photo credit: S6 of 8EXCLUSIVE: Justin Theroux comes to visit Jennifer Aniston in Wilmington, NC with a dog.Sources say Ogden and his assistant had no idea they were preparing the pooches for a wedding! "They thought it was just a normal visit," an insider says.Photo credit: S 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8“Marley & Me” Press ConferenceFor Spa Dog, save up! The minimum service call is $90.Photo credit: G8 of 8EXCLUSIVE: Jen Aniston Takes Dogs On Beachwalk"Men come and go but there really is no relationship like the one you have with a dog," Aniston has said. Hopefully, hubby Theroux is here to stay!Photo credit: F 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+jennifer-aniston-justin-theroux-wedding-dogs-2-PPPhoto credit: A*EXCLUSIVE* Jennifer Aniston and Justin Theroux take the dog for a walkAccording to a source, the pups were attended to by Spa Dog owner Steve Ogden just hours before the intimate ceremony at the couple's Bel-Air mansion on Wednesday.Photo credit: A*EXCLUSIVE* Jennifer Aniston and Justin Theroux take the dog for a walk"Jennifer is a regular client," an insider close to Spa Dog says. "They are at her home all the time, and have a good relationship with the dogs."Photo credit: AJustin Theroux films a scene with a dog on the set of ‘The Leftovers’ **USA, Canada, Australia ONLY**Spa Dog features upscale treatments normally reserved for A-list humans, including aromatherapy sessions, nail manicures, massages and haircuts.Photo credit: SJennifer Aniston and Rhys Ifans shoot a dog walking scene for ‘Squirrels to the Nuts’ in Washington Heights, ManhattanTop notch teeth! Spa Dog also provides dental care that leaves pups with minty breath.Photo credit: SEXCLUSIVE: Justin Theroux comes to visit Jennifer Aniston in Wilmington, NC with a dog.Sources say Ogden and his assistant had no idea they were preparing the pooches for a wedding! "They thought it was just a normal visit," an insider says.Photo credit: S“Marley & Me” Press ConferenceFor Spa Dog, save up! The minimum service call is $90.Photo credit: GEXCLUSIVE: Jen Aniston Takes Dogs On Beachwalk"Men come and go but there really is no relationship like the one you have with a dog," Aniston has said. Hopefully, hubby Theroux is here to stay!Photo credit: F 
+
+
+
+
+
+
+
+
+
+/n

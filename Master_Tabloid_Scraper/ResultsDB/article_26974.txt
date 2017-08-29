@@ -1,0 +1,47 @@
+Patricia Arquette Still Shocked at the Backlash Surrounding Her Gender Equality Oscars Speech: ''I Don’t Think They Understood'' Patricia Arquette knows her Oscars' speech was a bit unique. Sure, she thanked the Boyh.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/632060/patricia-arquette-still-shocked-at-the-backlash-surrounding-her-gender-equality-oscars-speech-i-don-t-think-they-understood');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015122/rs_634x1024-150222210103-634-patricia-arquette-oscar-winner.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patricia Arquette, 2015 Academy Awards, Winner");
+	var imageCaption = encodeURIComponent("Patricia Arquette, 2015 Academy Awards, Winner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Patricia Arquette knows her Oscars' speech was a bit unique.Sure, she thanked the Boyhood cast, her family and a few important friends. But the moment that got everyone talking during her big moment was when she demanded equal rights for women."To every woman who gave birth, to every taxpayer and citizen of this nation, we have fought for everybody else's equal rights," Arquette explained to the star-studded audience. "It is our time to have wage equality once and for all and equal rights for women in the United States of America!"While Meryl Streep, Jennifer Lopez, Lena Dunham and other Hollywood stars couldn't help but applaud, others weren't so pleased.
+
+"It did surprise me," Arquette told Time when asked about the negative response she received after her big night. "I don't think people really understood what I meant by that. I don't think they understand what I was talking about, exactly."She added, "This is a huge discrimination issue affecting women across America. It affects whole lives—the impact of this."As she gears up for her new role on CSI: Cyber, Arquette also admits that she had no trouble getting equal pay to her counterparts. However, the majority of females are being "discriminated" against today.
+
+"What I was talking about is the other 52 percent, and how it doesn't make sense why they're being discriminated [against] because of their gender," she explained. "They're taking the same student loans but taking years to pay it back, making half a million to a million dollars less over a lifetime. That's money they're not putting into Social Security, or using to pay for college or childcare."As for all the support she has received, Arquette is grateful and hopes it can bring about change sooner rather than later."It's inexcusable that we go around the world and talk about equal rights for women in other countries when we don't have equal rights for women in America," she told reporters backstage after her win. "It's time for us. It's time for women. Equal means equal." 
+/n

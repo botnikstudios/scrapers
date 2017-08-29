@@ -1,0 +1,50 @@
+earlier today, Kim revealed who was behind the see-through ivory look she wore to a Mario Testino photograph exhibit in Manhattan last night: A Veronique Leroy top, Donna Karen skirt, Tom Ford heels and a Bottega Veneta clutch. "Weeerrr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/482941/kim-kardashian-brings-the-cleavage-to-kanye-west-s-new-york-concert-in-sheer-black-top');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131019/rs_634x1024-131119181621-634.kim-kanye.cm.111913.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kim Kardashian, Kanye West ");
+	var imageCaption = encodeURIComponent("Kim Kardashian, Kanye West ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI 
+
+Kim Kardashian has had quite the busy, heavily photographed day.A few hours after taking baby North on the 5-month-old's first trip to iconic New York City department store Bergdorf Goodman, the E! star headed out with fiancé Kanye West to Brooklyn's Barclays Center, the latest stop on the Yeezus Tour.And considering how eager the paparazzi were to snap any and all pics of her and North after their shopping trip, Kim can't have been surprised to see the swarm of shutterbugs waiting for her and Kanye tonight.Either way, she was dressed for the spotlight in her now-signature black bra top with a sheer, long-sleeve overlay and slim-fitting black pencil skirt. Kim completed this particular look with a black overcoat, tights and peep-toe, lace-up ankle boots. As she did earlier today, she wore her hair in a ponytail.
+
+The photographers also got a full-frontal view of the 15-carat diamond ring that Kanye popped the question with last month.But while the look showed off plenty of Kim's cleavage, as did the plunging tuxedo jacket she wore to Bergdorf's under a camel-colored mohair coat, neither was a match for the bare skin on display in Kanye's "Bound 2" video, which premiered on The Ellen DeGeneres Show earlier today.Skin is in, however, especially when peeped through nylon, mesh, lace and other perforated apparel!
+
+
+
+Splash News
+
+Also earlier today, Kim revealed who was behind the see-through ivory look she wore to a Mario Testino photograph exhibit in Manhattan last night: A Veronique Leroy top, Donna Karen skirt, Tom Ford heels and a Bottega Veneta clutch."Weeerrrrrrkkkkk! Honey I ain't mad at you!!@kimkardashian no one does it better! #Stunt #Fuego," sister Khloé Kardashian Odom cheered on the ensemble via Instagram.Before taking New York once again, Kim went to Kanye's show in Philadelphia on Saturday and made the trip up to Cambridge, Mass., with him on Sunday for his talk at Harvard.
+/n

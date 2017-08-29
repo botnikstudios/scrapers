@@ -1,0 +1,46 @@
+Gwen Stefani Throws Son Zuma a Magical Harry Potter-Themed 9th Birthday Party Now that's an awesome mom! Gwen Stefani threw her son Zuma an early ninth birthday party Sunday; It was Harry Potter-themed and it looked just magical. As see.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873212/gwen-stefani-throws-son-zuma-a-magical-harry-potter-themed-9th-birthday-party');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201747/rs_634x1024-170507111151-634.gwen-stefani.cm.5717.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Gwen Stefani");
+	var imageCaption = encodeURIComponent("Gwen Stefani");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Vasquez-Max Lopes / BACKGRID
+
+Now that's an awesome mom!Gwen Stefani threw her son Zuma an early ninth birthday party Sunday; It was Harry Potter-themed and it looked just magical.As seen in videos and photos posted on his mother's Instagram Stories feed, the house bash included life-size cut-outs of Harry Potter, Severus Snape and Draco Malfoy, flags containing the emblems of the four Hogwarts houses as well as bunches of balloons with their respective colors, a fake "Platform 9¾," a colorful fruit display—that included an owl made out of a pineapple and melons and a three-tiered Hansen's Cake bearing Hogwarts' symbol and a Sorting Hat topper. Gwen also filmed Zuma, who like Harry Potter, wears glasses, looking excited as he took in the sights.And there was so much room for activities! A water slide was set up in the backyard.
+
+Zuma, who turns 9 later this month, is Gwen's middle child with ex-husband Gavin Rossdale. The two are also parents to sons Kingston, 11, and Apollo, 3.
+
+Happy birthday, Zuma!
+/n

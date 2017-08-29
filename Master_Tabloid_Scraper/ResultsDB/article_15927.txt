@@ -1,0 +1,77 @@
+Is Charlie OK? Sheen Emerges After Six Weeks!/n
+
+					var next_post_url = "http://radaronline.com/photos/prince-dead-tell-all-book-details/";
+					var prev_post_url = "http://radaronline.com/photos/prince-dead-last-concert-atlanta/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-04-22T14:20:49+00:00","caption":"Charlie Sheen spent the day with his daughters with Denise Richards on April 21 after not being photographed in public for six weeks. Check out the gallery of his daddy day.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:02+00:00","caption":"Photographed in public for the first time in six weeks, Sheen was with his two daughters, Sam, 12, and Lola, 10, at their mother Denise Richards's Malibu home on April 21, 2016. A source close to Sheen insisted he has been dropping them off at school nearly every day for months, and that he has hardly been hiding from the public.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:04+00:00","caption":"As Radar reported, the HIV-positive actor is currently under investigation for felony violation of criminal threats for the rant where he threatened to kill his ex-fianc\u00e9e Brett Rossi.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:06+00:00","caption":"Radar exclusively reported that Sheen went to court in March to reduce the $55,000 per month child support payments to the girls' mother, Richards.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:07+00:00","caption":"Sheen's relationship with his daughters hit a low point after Richards submitted court documents with letters they had written to him. Richards claimed he sent a very disturbing text message to the girls, which allegedly said, \"Tell mom to go eat pork and die\u2026yure mom is a loser\u2026c u all in the f**king gutter.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:09+00:00","caption":"Sam wrote to her father in the documents, \"I don't understand why you are so angry. It hurts my feelings that you won't even let me open some gifts, unless its at your house,\" she wrote. \"I am scared to tell you how I feel because I am afraid of how you are gonna react. Why isn't Mom allowed at your house anymore? She is always nice to you and she is always there for you.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:11+00:00","caption":"Sheen told the court that he was in dire financial straits, claiming, \"My income has changed significantly since the agreement for child support was entered into in 2011.\" Court documents state that Sheen's monthly expenses are more than $105,911 per month, including $13,487 for mortgage, $25,000 for healthcare costs not paid by insurance, $11,500 for children's education, and $26,497 for life and accidental insurance.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-04-21T20:21:13+00:00","caption":"Sheen looked like a doting father with his two daughters. What do you think about his efforts to lower his child support payments? Sound off in comments below.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/04\/charlie-sheen-denise-ricahards-daughters-sam-lola-01.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Is Charlie OK? Sheen Emerges After Six Weeks!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8charlie-sheen-denise-ricahards-daughters-sam-lola-ppCharlie Sheen spent the day with his daughters with Denise Richards on April 21 after not being photographed in public for six weeks. Check out the gallery of his daddy day.Photo credit: AKM-GSI2 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersPhotographed in public for the first time in six weeks, Sheen was with his two daughters, Sam, 12, and Lola, 10, at their mother Denise Richards's Malibu home on April 21, 2016. A source close to Sheen insisted he has been dropping them off at school nearly every day for months, and that he has hardly been hiding from the public.Photo credit: AKM-GSI3 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersAs Radar reported, the HIV-positive actor is currently under investigation for felony violation of criminal threats for the rant where he threatened to kill his ex-fiancée Brett Rossi.Photo credit: AKM-GSI4 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersRadar exclusively reported that Sheen went to court in March to reduce the $55,000 per month child support payments to the girls' mother, Richards.Photo credit: AKM-GSI 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSheen's relationship with his daughters hit a low point after Richards submitted court documents with letters they had written to him. Richards claimed he sent a very disturbing text message to the girls, which allegedly said, "Tell mom to go eat pork and die…yure mom is a loser…c u all in the f**king gutter."Photo credit: AKM-GSI6 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSam wrote to her father in the documents, "I don't understand why you are so angry. It hurts my feelings that you won't even let me open some gifts, unless its at your house," she wrote. "I am scared to tell you how I feel because I am afraid of how you are gonna react. Why isn't Mom allowed at your house anymore? She is always nice to you and she is always there for you."Photo credit: AKM-GSI 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSheen told the court that he was in dire financial straits, claiming, "My income has changed significantly since the agreement for child support was entered into in 2011." Court documents state that Sheen's monthly expenses are more than $105,911 per month, including $13,487 for mortgage, $25,000 for healthcare costs not paid by insurance, $11,500 for children's education, and $26,497 for life and accidental insurance.Photo credit: AKM-GSI8 of 8*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSheen looked like a doting father with his two daughters. What do you think about his efforts to lower his child support payments? Sound off in comments below.Photo credit: AKM-GSI 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+charlie-sheen-denise-ricahards-daughters-sam-lola-ppCharlie Sheen spent the day with his daughters with Denise Richards on April 21 after not being photographed in public for six weeks. Check out the gallery of his daddy day.Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersPhotographed in public for the first time in six weeks, Sheen was with his two daughters, Sam, 12, and Lola, 10, at their mother Denise Richards's Malibu home on April 21, 2016. A source close to Sheen insisted he has been dropping them off at school nearly every day for months, and that he has hardly been hiding from the public.Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersAs Radar reported, the HIV-positive actor is currently under investigation for felony violation of criminal threats for the rant where he threatened to kill his ex-fiancée Brett Rossi.Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersRadar exclusively reported that Sheen went to court in March to reduce the $55,000 per month child support payments to the girls' mother, Richards.Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSheen's relationship with his daughters hit a low point after Richards submitted court documents with letters they had written to him. Richards claimed he sent a very disturbing text message to the girls, which allegedly said, "Tell mom to go eat pork and die…yure mom is a loser…c u all in the f**king gutter."Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSam wrote to her father in the documents, "I don't understand why you are so angry. It hurts my feelings that you won't even let me open some gifts, unless its at your house," she wrote. "I am scared to tell you how I feel because I am afraid of how you are gonna react. Why isn't Mom allowed at your house anymore? She is always nice to you and she is always there for you."Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSheen told the court that he was in dire financial straits, claiming, "My income has changed significantly since the agreement for child support was entered into in 2011." Court documents state that Sheen's monthly expenses are more than $105,911 per month, including $13,487 for mortgage, $25,000 for healthcare costs not paid by insurance, $11,500 for children's education, and $26,497 for life and accidental insurance.Photo credit: AKM-GSI*EXCLUSIVE* A healthy looking Charlie Sheen spends time with his daughtersSheen looked like a doting father with his two daughters. What do you think about his efforts to lower his child support payments? Sound off in comments below.Photo credit: AKM-GSI 
+
+
+
+
+
+
+
+
+
+/n

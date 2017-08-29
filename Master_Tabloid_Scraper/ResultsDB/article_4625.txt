@@ -1,0 +1,44 @@
+EXCLUSIVE! First Look Photo: Lindsay Hartley Is Smallville's Newest Badass Babe! DC baddie Mad Harriet is headed to Smallville, and she's never looked hotter! Soap star Lindsay Hartley (who also happens to be Smallville stud Justin.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/207929/first-look-photo-lindsay-hartley-is-smallville-s-newest-badass-babe');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2010927/293.smallville.lc.102710.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Smallville, Lindsay Hartley");
+	var imageCaption = encodeURIComponent("Smallville, Lindsay Hartley");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jack Rowand/The CW
+
+DC baddie Mad Harriet is headed to Smallville, and she's never looked hotter!Soap star Lindsay Hartley (who also happens to be Smallville stud Justin Hartley's real-life wife) pops up on the CW hit Nov. 12, and we've got your exclusive first look at the gorgeous gal donning Harriet's seriously scary claws...
+
+Lindsay's character answers to Smallville villainess Granny Goodness, and being the good little minion she is, Harriet makes it her mission take Clark down. Sounds fun, right?The only downside to her guest spot is that longtime fans of Justin and Lindsay won't get that onscreen Passions reunion they're hoping for (we know you're out there!), since she'll only interact with Tom Welling and Cassidy Freeman. Just not her hubby.Buzz surrounding this episode is already huge, and not just because of the Mr. and Mrs. Hartley doubleheader. "Abandoned" also marks the debut of Lois Lane's mom Ella, played by Teri Hatcher—who was, of course, TV's Lois Lane in the 1990s. We're told that the arrival of Ella is an emotional roller-coaster ride, so brace yourselves for another hour of Smallville magic.Catch Smallville Fridays at 8 p.m. on the CW, and don't miss Lindsay's guest spot in "Abandoned" Nov. 12!
+/n

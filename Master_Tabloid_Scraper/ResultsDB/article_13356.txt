@@ -1,0 +1,51 @@
+The Bachelorette's Rachel Lindsay and Bryan Abasolo Head to Miami for ''Grandma's Approval'' Talk about a high-pressure hometown date! After spending time together as a couple in Texas to be with her fam earlier.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874627/the-bachelorette-s-rachel-lindsay-and-bryan-abasolo-head-to-miami-for-grandma-s-approval');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017719/rs_634x1024-170819195529-634.rachel-lindsay-bryan-999.cm.81917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rachel Lindsay, Bryan Abasolo");
+	var imageCaption = encodeURIComponent("Rachel Lindsay, Bryan Abasolo");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AM/Splash News
+
+
+Talk about a high-pressure hometown date!After spending time together as a couple in Texas to be with her fam earlier this week, newly engaged Bachelorette star Rachel Lindsay hit up Miami with fiancé Bryan Abasolo to get in some quality time with his family, specifically meeting the chiropractor's discerning grandmother. Yesterday, Bryan posted the adorable photo on his Instagram of his two loves meeting at the Anacapri Italian Kitchen. Along with the sweet image of the trio, the reality star wrote the caption, "Grandma's approval is always important...of course she passed the test w/ flying colors #Miami #familytime #grandmaslove." Looks like Rachel was a hit!Earlier today, the two were also caught canoodling and showing off their fit forms at the Y100 Mack-a-Pooloza party at the Fontainebleau Hotel.
+
+
+
+Instagram
+
+On Thursday, Rachel posted a PDA-filled Instagram photo of the twosome in Florida and wrote, "Made it to Miami with mi amor #miaminights #familytime."The pair have been posting up a storm since the Bachelorette finale, and it appears as there's nothing low-key about this high-profile duo's relationship.The reality stars, who currently live in different cities, have stated they aren't sure where they are planning to live permanently, but that they're considering Los Angeles, Dallas (Rachel's hometown) or Miami (Bryan's hometown).Earlier in the week, Bryan was the one who was put to the test when he got to to know Rachel's big (and we mean big!) family deep in the heart of Dallas, Texas. The twosome had an engagement bash with Rachel's extended family and even hit up a Rangers game while there. The lovebirds looked like they had some big fun in the big T!
+
+Previously, E! News caught up with the newly (publicly) engaged couple the day after the after the Bachelorette finale aired and it seemed like everything was going just great so far for the "on cloud 9" couple."It feels so good," Rachel told E! News' Zuri Hall. "Light." "Liberating," Bryan added.As for when they're going to tie the knot?"We are waiting, but we are thinking," Rachel explained to E! News about the wedding plans. "I personally would like a winter wedding next year." Rachel also said that she's handing off the plans to somebody else. "I got my guy, so I'll have a planner do everything else," she said. Check out the couple's post-Bachelorette romance...
+/n

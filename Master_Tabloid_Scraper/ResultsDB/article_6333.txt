@@ -1,0 +1,48 @@
+Derek and Hannah Jeter Welcome Daughter Bella Raine While their daughter was just born, they already have plans for how they want to raise her—and all of their future kids. "Derek and I will want our children to understand that the live.../n
+There's a brand new Yankee fan in the world!Derek Jeter and Hannah Jeter have welcomed their first child together. The Sports Illustrated Swimsuit model gave birth to a baby girl named Bella Raine Jeter on August 17, according to an announcement from The Players' Tribune, the website the baseball player founded. The first-time parents announced they were expecting back in February. "Now, pregnant with our first child, Derek and I are looking to the future," the model wrote in a poignant message on The Players' Tribune at the time. "He already has a name in mind—he's set on it. (We'll see.) He'll say when he calls me during the day: 'So, how are you and so-and-so doing?' 'That's not the name yet, sweetie.' Whatever her name is, I know she'll run circles around him."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/859846/derek-and-hannah-jeter-welcome-daughter-bella-raine');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017113/rs_634x845-170213065415-Derek-Jeter.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Derek Jeter, Baby, Pregnancy, Hannah Davis, Hannah Jeter");
+	var imageCaption = encodeURIComponent("Derek Jeter, Baby, Pregnancy, Hannah Davis, Hannah Jeter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+The Players' Tribune
+
+While their daughter was just born, they already have plans for how they want to raise her—and all of their future kids. "Derek and I will want our children to understand that the lives they've been given are so fortunate, in so many ways. We'll want them to learn to help others, and to care for others, and to give back to the world. We'll let them know that they are strong and smart, and that they can do anything they put their minds to. I hope they'll be honest like their father. I hope they'll be stubborn like me. I hope that they know what they want and won't settle for less," she wrote in the post. "And if they want to play baseball, well, we're gonna have a little talk first." As for what kind of parents they will be to their little ones, the Project Runway: Junior host expects she'll be somewhat stern. "I think I'll be strict because my parents were relatively strict with me," she told E! News. "You just want them to get through high school and get them on the right path."
+
+Meanwhile, their daughter came not too long after their first wedding anniversary in July—the perfect gift for the retired New York Yankees shortstop, who has been hoping to become a father for years. While he recently admitted he feels unprepared and nervous about the new role, he welcomes fatherhood with excitement. "I look forward to having a family. I just don't think personally I would have been able to juggle family and my career at the same time...I have the utmost respect for these guys that are able to do it—you know, missing their kids' birthdays and not being able to see them play tee ball or summer ball and missing a lot of time," a then-single Jeter told Brian Williams days before he played his final game on the team. "So, it's another reason why I feel as though now's the time. I mean, I want to have a family. Who knows when it's gonna be? But I look forward to it."
+
+That day has arrived, Derek! Congratulations to the new mom and dad. 
+/n

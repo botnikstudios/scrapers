@@ -1,0 +1,52 @@
+Sophie Turner Says Game of Thrones Was Her ''Sex Education'' In the interview, Sophie also talked about how social media has negatively affected her and what she does to be healthy now. She says, "It’s written into c.../n
+Game of Thrones may have taught that us all that a Lannister always pays his debts, but HBO's epic series also taught the show's young stars a thing or two about the birds and the bees...Sophie Turner, the 21-year-old who has played Sansa Stark on GoT since 2011, sat down with the Sunday Times and talked about how she got some seriously adult info when she was in her early teens."The first time I found out about oral sex was reading the Game of Thrones script. I was 13. I said, 'Wow! People do that? That's fascinating,'" she joked. "I guess that was my sex education. Being on Game of Thrones."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864599/sophie-turner-says-game-of-thrones-was-her-sexual-education');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_634x1024-170501160721-634-met-gala-2017-arrivals-sophie-turner.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sophie Turner, 2017 Met Gala Arrivals");
+	var imageCaption = encodeURIComponent("Sophie Turner, 2017 Met Gala Arrivals");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Fisher/REX/Shutterstock
+
+In the interview, Sophie also talked about how social media has negatively affected her and what she does to be healthy now.She says, "It’s written into contracts that in order to promote projects, you have to have social media. So it would be torturous, because I would have to post images. And the social media team at my agency would be like, 'You have to post every day to keep those followers!' It was mad. And I would do it. And then I’d obsess over it after I read the first negative comment."The star also says that it began to take a toll on who she was. "I only really notice it in hindsight, but prior to social media and all of that, I was an extrovert. I was always the bubbliest girl in the room. But as soon as that started, I withdrew," confesses the actress. "I would rather stay in and do nothing than go out and see my friends. Because it just affects me so much—what I look like, having to make all that effort and then not being good enough."
+
+
+
+Malibu Joe/ / BACKGRID
+
+The actress also discusses the controversy she found herself in 2015, after her character on the show was raped by Ramsey Bolton on her wedding night. The brutal scene provoked a great deal of outrage at the time that Sophie was unprepared for."Sexual assault wasn’t something that had affected me or anybody I knew, so I was pretty blasé about the whole thing," she says. "Naively so. And then I shot the scene, and in the aftermath there was this huge uproar that we would depict something like that on television. My first response was like, maybe we shouldn’t have put that on screen at all."But she also says that the hot-button issue made her take stock of her own feelings on the matter, and she realized the critics were wrong. "The more we talk about sexual assault the better, and screw the people who are saying we shouldn’t be putting this on TV and screw the people who are saying they’re going to boycott the show because of it. This sort of thing used to happen and it continues to happen now, and if we treat it as such a taboo and precious subject, then how are people going to have the strength to come out and feel comfortable saying that this has happened to them?"Sophie says it was a turning point for her: "One of the things I always struggled with growing up was just regurgitating other people’s opinions. Just saying what my mum would say, or the people around me. But this was the one thing I kind of computed on my own."
+
+The Barely Lethal actress also says that having a boyfriend, a famous one at that too, has been illuminating. While not mentioning boyfriend Joe Jonas, whom she's been photographed with many times, by name, she did say, "I'm in a relationship, but it’s a very private relationship.""I’m happier than I’ve been in a very long time," she says. "I very much isolated myself for a while and forgot what was fun. Going out with friends, going out to eat, not really having a care. And people I’ve met recently in my life have drawn me out of that. It really helps you own those insecurities. The things I tortured myself about before, I can forget about."Game of Thrones returns Sunday, July 16 on HBO.
+/n

@@ -1,0 +1,49 @@
+rounded up Kate's very best second pregnancy looks (not to mention her rainbow-streak of maternity coats), which included a sexy lace-sleeve dress by Beulah London, a hot pink Mulberry coat (one of her favorite recycled looks, it seems).../n
+We already knew Kate Middleton's second-time-around maternity style was very, very chic, but the global effects of her pregnancy appearances are even more astounding.The "Kate effect" was a game-changer for maternity brand Seraphine: The brand's profits have reportedly quadrupled since Kate began wearing pieces from the line, and their global presence has also grown astronomically, too.E! News caught up with Seraphine Founder and Managing Director Cecile Reinaud to get the scoop on how Kate's pregnancy style has changed the way women shop for maternity clothing and why she thinks the Kate effect is still in full force. (It's worth nothing that Jessica Alba, Kate Winslet, Angelina Jolie and Gwen Stefani all stepped out in Seraphine during their pregnancies, but Kate, as Reinaud said, is the one who made the line a household name in America.)
+
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/648683/how-kate-middleton-s-second-pregnancy-changed-the-maternity-style-game-in-a-big-way-watch-now');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015321/rs_634x1024-150421141243-634-kate-middleton-duchess-catherine-fashion.ls.42115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Middleton, Duchess Catherine");
+	var imageCaption = encodeURIComponent("Kate Middleton, Duchess Catherine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Geoff Pugh-Pool/Getty Images; Mark Cuthbert/UK Press via Getty Images
+
+"[Kate has] to look a little bit classic because of the royal guidelines, but at the same time she likes to show her figure and look a little bit sexy and we really to try to that achieve at Seraphine—that blend of all these aspects while staying on trend," Reinaud said of the brand's appeal to the soon-to-be mommy of two. And Kate's sexier pregnancy looks didn't sell any less quickly (a just-above-the-knee ASOS frock reportedly sold out in minutes after she was spotting wearing it.)Two of her most memorable looks from this maternity go-around have been the pale blue frock coat she wore at the end of January and a stunning tweed coatdress, which she wore at the start of her New York  weekend abroad in December—a look that also, well, nearly caused the Internet (or at least Seraphine's homepage) to break. ICYMI: That burgundy tweed arrival look heralded a two month-long waiting list. ("People were very happy to wait for it for eight weeks," Reinaud added.)Kate still loves her Seraphine florals: The duchess was spotted at the start of her second pregnancy wearing a flower-printed frock that she had worn on one of her first outings after the birth of Prince George. Her initial appearance in the dress made for a month-long waitlist.
+
+And who can forget the sweet cinched number she wore for her first official family photo with Prince George and Prince William. The fuchsia Seraphine maternity frock sold out in just two—yes, two!—hours."Kate loved it so much she bought in four colors," Reinaud revealed, suggesting that the duchess has likely worn the look during her second pregnancy too.As for how the duchess' maternity style has evolved since her first pregnancy, Reinaud thinks it's a matter of how boldly she's wearing her chic maternity looks."I think she's been adventurous and kind of trying to follow more trends. She came out sooner in maternity-wear than [with] her first pregnancy," she said. "She's shown quite sexy looks, a little shorter hemline, bare arms, things that she doesn't always do when she's not pregnant."
+
+We've also rounded up Kate's very best second pregnancy looks (not to mention her rainbow-streak of maternity coats), which included a sexy lace-sleeve dress by Beulah London, a hot pink Mulberry coat (one of her favorite recycled looks, it seems), a pale pink Alexander McQueen coat and a spotted Hobbs coatdress."So much traffic goes on the website of the brands that she wears, so we have to prepare for that," Reinaud told us about the possibility of Kate wearing Seraphine for her first post-baby reveal.Seraphine's main shop, meanwhile, is only a hop and skip away from Kensington Palace, which is why Kate never has to come to the store to shop: All of her handpicked Seraphine looks are sent directly to the palace."Customers who absolutely love her style, this huge following she has, come to us [and] adopt the brand like a new baby," Reinaud said.
+/n

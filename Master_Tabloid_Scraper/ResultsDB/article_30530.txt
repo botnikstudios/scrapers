@@ -1,0 +1,48 @@
+Samantha Orley Swarovski Award for Accessory Design: Paul Andrew Geoffrey Beene Lifetime Achievement Award: Norma Kamali The Media Award in Honor of Eugenia Sheppard: Imran Amed, editor in chief of The Business of Fashion The Founder's .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/770610/cfda-fashion-awards-2016-the-full-winners-list');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201656/rs_634x1024-160606195909-634.Joel-McHale-CFDA.ms.060616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Joel McHale, 2016 CFDA Fashion Awards");
+	var imageCaption = encodeURIComponent("Joel McHale, 2016 CFDA Fashion Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Theo Wargo/Getty Images
+
+The CFDA Awards may not be televised this year, but don't worry, we got you covered.The Council of Fashion Designers of America Awards (otherwise known as the Academy Awards of the fashion world) took place tonight at Hammerstein Ballroom in New York City for the first time, and although fans of the annual event were not able to witness all of it's high-fashion beauty on the small screen, we're here to give you all the details on who took home an award.As previously noted, these awards highlight individuals who have shaped American fashion "from all areas of the industry and related arts," the Council of Fashion Designers of America's site explains, "with awards being given for design excellence in womenswear, menswear, and accessories as well as extraordinary accomplishments in journalism, creative vision, and lifetime achievement."Tonight's ceremony was led by funnyman Joel McHale, who served as the host for the show. The choice to have McHale host the CFDA Awards initially confused some, since he's not necessarily known for being a fan of fashion, but Steven Kolb, chief executive of the CFDA, said having someone "outside of the fashion industry" would "keep the night lively, topical and unexpected."Sounds about right.
+
+
+
+CFDA/Swarovski
+
+As for the tributes and trophies—the late David Bowie was posthumously given the Board of Directors' Tribute, while Gucci's Alessandro Michele was honored with the International Award. Donna Karan will receive the Founder's Award in Honor of Eleanor Lambert and Norma Kamali was given the Geoffrey Beene Lifetime Achievement Award.Plus, there was a surprise appearance by none other than Beyoncé, who was honored with the Fashion Icon Award! But that's not all.Here's the full list of winners from the 2016 CFDA Awards:Fashion Icon Award: BeyoncéWomenswear Designer of the Year: Marc JacobsMenswear Designer of the Year: Thom BrowneAccessories Designer of the Year: Mansur Gavriel: Rachel Mansur and Floriana GavrielSwarovski Award for Womenswear: Brandon MaxwellSwarovski Award for Menswear: Orley: Alex Orley, Matthew Orley, Samantha OrleySwarovski Award for Accessory Design: Paul AndrewGeoffrey Beene Lifetime Achievement Award: Norma KamaliThe Media Award in Honor of Eugenia Sheppard: Imran Amed, editor in chief of The Business of FashionThe Founder's Award in Honor of Eleanor Lambert: Donna KaranInternational Award: Gucci: Alessandro MicheleBoard of Directors' Tribute Award: David Bowie
+/n

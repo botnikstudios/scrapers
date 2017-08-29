@@ -1,0 +1,46 @@
+imagen de las marcas más poderosas del mundo. De esta forma Brown también pasa a formar parte del catálogo de talentos de la agencia, junto a colegas de alta categoría como Julianne Moore, Liv Tyler y su coestrella, Winona Ryder./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/e_news/news/829075/omg-millie-bobby-brown-planea-convertirse-en-la-proxima-gigi-hadid');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201708/rs_634x1024-170108204354-634.Millie-Bobby-Brown-Golden-Globes.ms.010817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Millie Bobby Brown, 2017 Golden Globes, Candids");
+	var imageCaption = encodeURIComponent("Millie Bobby Brown, 2017 Golden Globes, Candids");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+REX/Shutterstock
+
+La estrella de Stranger Things quiere conquistarlo todo.
+
+Millie Bobby Brown ha sido toda un revelación, y es que desde que debutó en la TV como Eleven, en la famosa serie de los hermanos Duffer, el mundo entero no se cansa de admirar su talento.E! NEWS > OMG! ¡Tienes que ver el nuevo look de Eleven para la segunda temporada de Stranger Things! (+ Foto)Con tan solo doce años de edad, Brown ya ha demostrado que es una excelente actriz, pero también se destaca con honores dentro de la industria del modelaje, donde se ha sumergido en repetidas ocasiones protagonizando algunas portadas de revista y también campañas publicitarias.Millie recientemente trabajó en su primera campaña para Calvin Klein junto a Raf Simons, y además viajó a París para compartir con Nicolas Ghesquière de Louis Vuitton.E! NEWS > Lo único mejor que el teaser de Stranger Things 2 es la reacción de los chicos de Stranger Things al verlo (+ Video)
+
+Pero estos no son proyectos que ella se tome a la ligera, ya que esta semana se pudo confirmar que la estrella infantil oficializó su rol como modelo tras firmar un contrato oficial con IMG Models, la misma agencia que representa a chicas tan top como Karlie Kloss, Joan Smalls, Ashley Graham y a Gigi y Bella Hadid.AMAMOS LAS PELIS > ¡Por fin! El divino encanto de Millie Bobby Brown llegará a la gran pantalla.Y aunque Millie aún está muy joven para tomar las paseras más importantes del globo, no se extrañen cuando la vean siendo imagen de las marcas más poderosas del mundo.De esta forma Brown también pasa a formar parte del catálogo de talentos de la agencia, junto a colegas de alta categoría como Julianne Moore, Liv Tyler y su coestrella, Winona Ryder.
+/n

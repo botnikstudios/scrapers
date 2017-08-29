@@ -1,0 +1,96 @@
+WATCH: TV Reporter Covering Hurricane Harvey Helps Save Submerged Truck Driver’s Life/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e4efa8d318aaad840f31d7d6478bbf02-59a5180f3f89c');
+				var iframe = document.getElementById('wpcom-iframe-e4efa8d318aaad840f31d7d6478bbf02-59a5180f3f89c');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e4efa8d318aaad840f31d7d6478bbf02-59a5180f3f89c'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+As waters rose in Houston as a result of Hurricane Harvey, TV reporter Brandi Smith and her cameraman were reporting in the field when fellow employees back at KHOU 11 News headquarters evacuated to escape a flood on Sunday. The pair became the only team left on-air, but despite the challenging circumstances still came to the rescue of a stranded truck driver whose cab was nearly covered by water.
+“The lights are going on this truck and the windshield wipers are going, and as we get a little closer it does look like there is someone inside,” Smith said in a video report showing the tractor-trailer stuck on flooded Beltway 8 in North Houston. “There is movement inside of this truck!”
+According to reports, Hurricane Harvey has caused five deaths and 12 injuries across Texas and Louisiana since it made landfall on Friday. Almost 13 million people are under a flood watch and many have had to abandon vehicles to escape the dangerous waters.
+When Smith noticed a man sitting in the cab of the truck, she urged him to resist climbing from the window of his 18-wheeler into the 10-foot-high water that continued to rise.
+“Can you get to the top of your vehicle? Can you get to the top of your truck? Do not climb into the water!” Smith yelled.
+Smith then noticed a passing Harris County Sheriff’s Office truck towing a boat. When she flagged down the deputies, they told her they were on their way to another rescue and had no idea there was a stranded truck driver below.
+
+One of the officials told Smith that the man was in the same location where another driver had died during floods in April 2016.
+“We had to dive for him because he passed away and went underwater,” the deputy said.
+The officials quickly went to work, lowering their boat into the water in a matter of minutes.
+“Sir, they’re putting the boat in just now! They are on their way!” Smith yelled to the driver.
+The deputies placed a life preserver over the man after pulling him from the passenger-side window and into the boat. Viewers watching KHOU weren’t able to see the rescue as Smith had already been knocked off the air due to the evacuations.
+
+
+Water pouring in the front door of channel 11 on Sunday morning. #khou11 #Houston pic.twitter.com/X5kDrCpdXN
+— The Bishop (@BillBishopKHOU) August 27, 2017
+
+“I cannot imagine how terrifying it would be to be in that place right now. Put yourself in that place: your car is filling with water. Help is on the way, he is incredibly lucky,” Smith told viewers in a video she later posted to Facebook.
+RELATED VIDEO: ‘Life-Threatening Flooding’ What to Know About Hurricane Harvey
+
+The truck driver, named Robert, greeted Smith when he made it to higher ground.
+“I just thank God that you guys were right here to get me and put me back on land safely,” Robert told Smith. “I appreciate you.”
+/n

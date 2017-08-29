@@ -1,0 +1,46 @@
+Amy Smart Reveals Daughter Flora Arrived Via Surrogate "After Years of Fertility Struggles" "It is with great attitude and pleasure to welcome our little girl Flora to the world," the new mom wrote alongside the picture o.../n
+Congratulations are in order!Actress Amy Smart revealed on Instagram Monday that she and husband Carter Oosterhouse welcomed their daughter Flora via surrogate. The Just Friends star shared an adorable photo of her baby on the social media platform and wrote an emotional caption dedicated to the couple's "loving" surrogate."One month ago today, Dec. 26th our amazing beautiful daughter came into this world," Smart wrote. "Feeling so grateful to have her in my arms... after years of fertility struggles I give thanks today to our kind, loving surrogate for carrying her."The couple first announced their daughter's arrival on social media right before the New Year. The news came as a surprise as they didn't reveal they had any plans to start a family. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/823961/amy-smart-reveals-daughter-flora-arrived-via-surrogate-after-years-of-fertility-struggles');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017024/rs_634x697-170124033950-634.Amy-Smart-FB-012417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amy Smart");
+	var imageCaption = encodeURIComponent("Amy Smart");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+"It is with great attitude and pleasure to welcome our little girl Flora to the world," the new mom wrote alongside the picture of herself and her hubby, 40, holding Flora in what appeared to be a hospital bed.
+
+Smart and Oosterhouse got married in 2011 in an intimate ceremony in Michigan. They began dating in 2010 and got engaged five months later.
+/n

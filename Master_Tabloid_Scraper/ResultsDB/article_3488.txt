@@ -1,0 +1,52 @@
+Meg Ryan, Tom Hanks, Meryl Streep Attend Nora Ephron Memorial Service It was a star-studded sendoff for Nora Ephron. Celebrity mourners including Meg Ryan, Tom Hanks, Sally Field, Meryl Streep, Steve Martin, Bette Midler, Martin Short, Larry.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/328749/meg-ryan-tom-hanks-meryl-streep-attend-nora-ephron-memorial-service');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201269/reg_634.meg.cm.7912.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Meg Ryan");
+	var imageCaption = encodeURIComponent("Meg Ryan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ilya S. Savenok/Getty Images
+
+It was a star-studded sendoff for Nora Ephron.Celebrity mourners including Meg Ryan, Tom Hanks, Sally Field, Meryl Streep, Steve Martin, Bette Midler, Martin Short, Larry David and Jon Hamm turned up this morning for a memorial service at New York City to pay their last respects to the acclaimed journalist-turned-Oscar-nominated filmmaker.
+
+The service was held at Lincoln Center's Alice Tully Hall and per the New York Daily News, friends and family entered the hall to the tune of Jimmy Durante's version of "As Time Goes By" and Frank Sinatra's "I've Got the World on a String" among other Ephron favorites. According to The Hollywood Reporter, they shared poignant anecdotes about Ephron's life even as they remained still in shock over her relatively sudden death.The legendary writer-director, perhaps best known for the classic romantic comedies When Harry Met Sally and Sleepless in Seattle, died on June 26 of complications from Leukemia. Her passing at the age of 71 caught much of Hollywood by surprise as she kept her illness a secret save a small circle of family and friends."She pulled a fast one on us," Streep, who starred in Ephron's Heartburn and Julie and Julia, quipped from the dais in a moving remembrance. "I feel so privileged to speak, but I'm also pissed off."She later added: "Sometimes, you have to wait until your friend leaves the room to say how great she is."
+
+
+
+Ilya S. Savenok/Getty Images
+
+And that they did. The affair was a tearful celebration of the wit, wisdom and laughs Ephron left behind in noted articles, bestselling books and hit movies that made her not only beloved, but also a feminist pioneer who routinely shattered the glass ceiling of industries dominated by boys clubs.Oscar and Tony-winning director Mike Nichols was among several quick to note how meticulous Nora was when it came to her work, including planning the details of her own memorial right down to the time it was supposed to last (47 minutes).
+
+Other noted speakers included Rosie O'Donnell, who read a humorous monologue from Ephron's play Love, Loss & What I Wore, along with Ephron's sister, Delia Ephron and sons, Max and Jacob. Additionally, writer Amy Laura Ephron, Nora's sister, recently posted on Facebook: "I just want to thank everyone for their kind wishes, thoughts, prayers...and love."Other guests included fellow helmers Steven Spielberg, Martin Scorsese and Rob Reiner; actors Lauren Bacall, Alan Alda, Annette Benning, Martha Stewart and Al Franken; and media figures like Tom Brokaw, Tina Brown, Diane Sawyer, Charlie Rose and Barbara Walters.—Additional reporting by Baker Machado
+/n

@@ -1,0 +1,46 @@
+Bill Cosby's Sexual Assault Retrial Delayed Until 2018 It was also agreed upon by the judge and Cosby's lawyers that members of the new jury can be selected locally from Montgomery County, as opposed to Pittsburgh.  Just yesterday,.../n
+Bill Cosby has a new start date for his sexual assault retrial. Judge Steven O'Neill granted the comedian and his new legal representatives' request to postpone the trial in order to have more time to prepare. The tentative start date was pushed back until mid-March or early April of 2018, months after the retrial was set to begin on Nov. 6 of this year."To ask someone to review the voluminous record over 18 months—now 20 months in this case—simply cannot be done," O'Neill said from the bench during today's pre-trial hearing in Norristown, Penn. Cosby's first trial ended in a mistrial after the jury announced it was deadlocked and unable to reach a verdict following 52 hours of deliberations over five days. It was later that revealed that two of the 12 jurors refused to convict the 80-year-old celebrity on three counts of felony aggravated indecent assault. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875155/bill-cosby-s-sexual-assault-retrial-delayed-until-2018');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017513/rs_634x1024-170613165437-634.Bill-Cosby-Court.2.ms.061317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Bill Cosby, Court");
+	var imageCaption = encodeURIComponent("Bill Cosby, Court");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gilbert Carrasquillo/WireImage
+
+It was also agreed upon by the judge and Cosby's lawyers that members of the new jury can be selected locally from Montgomery County, as opposed to Pittsburgh. Just yesterday, Cosby announced his decision to hire a different team of high-powered attorneys, including Thomas Mesereau, who famously represented Michael Jacksonduring his child molestation case in 2005. (Jackson was acquitted on all charges.) The Cosby Show star pled not guilty to three counts of aggravated indecent assault after being accused of drugging and sexually assaulting Andrea Constand at his Philadelphia home in 2004. Constand was the first more than 50 women to bring allegations of sexual misconduct against Cosby over the years. Hers' are the only ones to have resulted in criminal charges. Cosby maintained his innocence throughout the trial.After District Attorney Kevin Steele expressed his intentions to retry Cosby, he praised Constand for her bravery and implied her cooperation moving forward.
+
+"She is a positive person and has kept all of us going while waiting for the jury to come back," he said. "She will continue to cooperate with us and I look forward to her getting a verdict in this case."
+/n

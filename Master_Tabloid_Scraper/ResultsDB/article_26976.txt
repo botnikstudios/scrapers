@@ -1,0 +1,52 @@
+Oops! Patricia Arquette Forgets to Button Her Pants, Exposes Underwear—See the Pic Well, this is an interesting look... Patricia Arquette stepped out in Beverly Hills, Calif. on Thursday, where the Oscar winner was photographed sporting a bi.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/630669/oops-patricia-arquette-forgets-to-button-her-pants-exposes-underwear-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015127/rs_634x1024-150227162004-634-patricia-arquette-wardrobe-malfunction.ls.22715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patricia Arquette");
+	var imageCaption = encodeURIComponent("Patricia Arquette");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+W Blanco/AKM-GSI
+
+Well, this is an interesting look...Patricia Arquette stepped out in Beverly Hills, Calif. on Thursday, where the Oscar winner was photographed sporting a bizarre ensemble, wearing unbuttoned jeans that practically fell off her backside. The actress was joined by her 12-year-old daughter, Harlow, who appeared unfazed by her mother's look. Thankfully, the Medium beauty had a strategically placed sweater tied around her waist to keep her booty from being fully exposed, but the cover-up did little to conceal her underwear, which was completely visible thanks to her low-slung pants. (Seriously, we adore Patricia Arquette, but we have no idea what's going on here.)
+
+
+
+
+Jason Merritt/Getty Images
+
+The wardrobe malfunction—which seems to be intentional—comes less than one week after the 46-year-old star took home the Best Supporting Actress award for her role in the Richard Linklater-film Boyhood. During her acceptance speech, the mother of two got Meryl Streep and Jennifer Lopez on their feet when she called for wage equality for women. "To every woman who gave birth to every taxpayer and citizen of this nation, we have fought for everybody else's equal rights," Arquette said. "It is our time to have wage equality once and for all and equal rights for women in the United States of America!"She later elaborated on her thoughts backstage saying, "It's time for all the women in America and all the men that love women, and all the gay people, and all the people of color that we've all fought for to fight for us now." Following the aforementioned comment, Arquette received backlash, although she later took to Twitter to defend herself. 
+
+PHOTOS: Patricia Arquette's best looks
+/n

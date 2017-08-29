@@ -1,0 +1,50 @@
+Oprah Winfrey's Father Vernon Winfrey Files for Divorce Amid Allegations of Infidelity, Gun Threats Oprah Winfrey's father seems to have had an "aha!" moment of his own. Vernon Winfrey has filed for divorce from his wife .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/356901/oprah-winfrey-s-father-vernon-winfrey-files-for-divorce-amid-allegations-of-infidelity-gun-threats');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012924/reg_634.winfrey.ls.102412_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Vernon Winfrey, Oprah Winfre");
+	var imageCaption = encodeURIComponent("Vernon Winfrey, Oprah Winfre");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Adriane Jaeckle/Getty Images
+
+Oprah Winfrey's father seems to have had an "aha!" moment of his own.Vernon Winfrey has filed for divorce from his wife of 11 years, Barbara Winfrey, a former teacher, raising juicy accusations of extramarital affairs and an explosive tiff involving a gun.In court documents filed in Franklin, Tenn., last June that have now surfaced, Vernon, 79, cites irreconcilable difference as the cause of the split and accuses Barbara of "inappropriate martial conduct."
+
+View the court documents
+
+His wife, however, isn't letting him off the hook so easily.In a counter complaint, Barbara, 64, accuses her husband, who works as a barber, of chasing her with a gun and threatening to pull the trigger during a heated argument.
+
+Oprah's Favorite Things returning as OWN special
+
+She also claims that Vernon is "guilty of more than one adulterous relationship"—an allegation that he cops to, at least partially: In his response to her complaint, Vernon admits that he had a relationship with one woman that lasted "less than a week" but denies he's had any other affairs or that he threatened her with a gun.Barbara also alleges that Vernon is in cahoots with Oprah to shut her out of her share of their marital assets, claiming that the two "conspired" to force her to leave their home, which is allegedly listed under Oprah's name.She is seeking alimony, as well payment for the attorney fees.
+/n

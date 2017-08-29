@@ -1,0 +1,102 @@
+Tragic Tale: Inside Glen Campbell's Most EXPLOSIVE Family Feuds/n
+
+					var next_post_url = "http://radaronline.com/photos/holly-bobo-murder-skull-bullet-hole-trial/";
+					var prev_post_url = "http://radaronline.com/photos/pregnant-heidi-montag-spencer-pratt-babymoon-hawaii/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-09T18:17:17+00:00","caption":"Glen Campbell suffered years of torment and family feuds in the years leading up to his death. From his money-hungry children fighting over his fortune to elder abuse claims made against his most recent wife, the \"Rhinestone Cowboy\" hitmaker's last days were filled mostly with darkness. Click through RadarOnline.com's gallery for more.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:48+00:00","caption":"As Radar readers know, Campbell died at the age of 81 on Tuesday at 10 AM in Nashville. The \"Rhinestone Cowboy\" hitmaker passed away after a long battle with Alzheimer's. He was in a treatment facility for Alzheimer's patients at the time of his death .","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:49+00:00","caption":"Like many celebrity spawns Campbell's eight money-hungry kids often fought over their ailing father's $50 million fortune. In June 2016, The Globe exclusively revealed a shocking lawsuit in which two of his children, Kelli Campbell and Wesley Kane Campbell, claim their father's business manager, Stanley B. Schneider, and Lawrence J. Turner, head of the Campbell Trust, were refusing to pay them at least $2,500 from their famous father's estate.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:50+00:00","caption":"Like many celebrity spawns Campbell's eight money-hungry kids often fought over their ailing father's $50 million fortune. In June 2016, The Globe exclusively revealed a shocking lawsuit in which two of his children, Kelli Campbell and Wesley Kane Campbell, claim their father's business manager, Stanley B. Schneider, and Lawrence J. Turner, head of the Campbell Trust, were refusing to pay them at least $2,500 from their famous father's estate. \n ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:51+00:00","caption":"Kelli and Welsey's mom, Billie Jean Campbell, who also had son Travis, now 51, with the singer, was awarded half of all the community assets, including musical compositions and recordings, when she and Glen divorced in 1975.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:52+00:00","caption":"The two adult children then sued because they say they have not received money in a \"significant period of time.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:53+00:00","caption":"In another explosive family feud, Campbell's other son, Travis and his sister, Debby Campbell-Cloyd (Glen's daughter with first wife Diane Kirk) were in the middle of a heated battle with the star's fourth and most recent wife, Kim just last year. They alleged she's keeping Glen \"secluded from the rest of the family\" and is barring relatives \"from participating in his care and\/or treatment.\" They also claimed Kim was mishandling his fortune.\n","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:54+00:00","caption":"Son Travis told National Enquirer that his stepmother Kim, who wed Glen in 1982, is at the target of an FBI probe over her alleged financial negligence. \"We have turned over information to authorities, the FBI and district attorney in two different states to prove that she's mismanaging his finances. We need to find out some things about what she's doing with the cash. Kim's lawyer claimed Travis' claims were entirely false. Kim claimed she was unaware of any type of investigation. \"In the conservatorship lawsuit, an independent guardian investigated and found no impropriety, no elder abuse and no compromise to Glen's health or safety.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:55+00:00","caption":"The children managed to get Tennessee Gov. Bill Haslam to sign a law allowing family members to visit dementia patients even if it's against the wishes of the patient's legal guardian.\n ","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:56+00:00","caption":"But lawsuits over the country legend's cash was only the tip of the iceberg. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:57+00:00","caption":"In court docs Travis, 49, and Debby, 58, claimed Kim was not providing their then 78-year-old father with toiletries and clothing and failed to visit him on a regular basis.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:58+00:00","caption":"Travis and half-sister Debby filed a lawsuit in 2015 alleging Kim was \"secluding\" him and asked the courts to step in. \"We had not seen Dad for almost eight months,\" Travis said, adding that he found out only through media reports that his father was living in a nursing home. \"We only wanted a judge to appoint an outside third party as a financial conservator - and Kim spun to the press that we wanted money, which could not be further from the truth.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:41:59+00:00","caption":"The suit also outlines how several of Glen's children were not on his approved visitors' list - but Kim and Glen's children together, Cal, Shannon and Ashley, all had ample access. \"All she had to do is let us see Dad, just like her kids,\" Travis told The National Enquirer. \"They can go in and out anytime they want.\" ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-09T17:42:00+00:00","caption":"Campbell passed away on August 8, 2017. He is survived by his wife, Kim, and eight warring children.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/country-singer-glen-campbell-elder-abuse-family-feud13.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Tragic Tale: Inside Glen Campbell’s Most EXPLOSIVE Family Feuds
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 14 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 14Glen Campbell suffered years of torment and family feuds in the years leading up to his death. From his money-hungry children fighting over his fortune to elder abuse claims made against his most recent wife, the "Rhinestone Cowboy" hitmaker's last days were filled mostly with darkness. Click through RadarOnline.com's gallery for more.Photo credit: Getty Images2 of 14As Radar readers know, Campbell died at the age of 81 on Tuesday at 10 AM in Nashville. The "Rhinestone Cowboy" hitmaker passed away after a long battle with Alzheimer's. He was in a treatment facility for Alzheimer's patients at the time of his death .Photo credit: Getty Images3 of 14Like many celebrity spawns Campbell's eight money-hungry kids often fought over their ailing father's $50 million fortune. In June 2016, The Globe exclusively revealed a shocking lawsuit in which two of his children, Kelli Campbell and Wesley Kane Campbell, claim their father's business manager, Stanley B. Schneider, and Lawrence J. Turner, head of the Campbell Trust, were refusing to pay them at least $2,500 from their famous father's estate.Photo credit: Getty Images4 of 14Like many celebrity spawns Campbell's eight money-hungry kids often fought over their ailing father's $50 million fortune. In June 2016, The Globe exclusively revealed a shocking lawsuit in which two of his children, Kelli Campbell and Wesley Kane Campbell, claim their father's business manager, Stanley B. Schneider, and Lawrence J. Turner, head of the Campbell Trust, were refusing to pay them at least $2,500 from their famous father's estate. 
+ Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 14Kelli and Welsey's mom, Billie Jean Campbell, who also had son Travis, now 51, with the singer, was awarded half of all the community assets, including musical compositions and recordings, when she and Glen divorced in 1975.Photo credit: Getty Images6 of 14The two adult children then sued because they say they have not received money in a "significant period of time." 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 14In another explosive family feud, Campbell's other son, Travis and his sister, Debby Campbell-Cloyd (Glen's daughter with first wife Diane Kirk) were in the middle of a heated battle with the star's fourth and most recent wife, Kim just last year. They alleged she's keeping Glen "secluded from the rest of the family" and is barring relatives "from participating in his care and/or treatment." They also claimed Kim was mishandling his fortune.
+Photo credit: Getty Images8 of 14Son Travis told National Enquirer that his stepmother Kim, who wed Glen in 1982, is at the target of an FBI probe over her alleged financial negligence. "We have turned over information to authorities, the FBI and district attorney in two different states to prove that she's mismanaging his finances. We need to find out some things about what she's doing with the cash. Kim's lawyer claimed Travis' claims were entirely false. Kim claimed she was unaware of any type of investigation. "In the conservatorship lawsuit, an independent guardian investigated and found no impropriety, no elder abuse and no compromise to Glen's health or safety."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 14The children managed to get Tennessee Gov. Bill Haslam to sign a law allowing family members to visit dementia patients even if it's against the wishes of the patient's legal guardian.
+ Photo credit: Getty Images10 of 14But lawsuits over the country legend's cash was only the tip of the iceberg. Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 14In court docs Travis, 49, and Debby, 58, claimed Kim was not providing their then 78-year-old father with toiletries and clothing and failed to visit him on a regular basis.Photo credit: Getty Images12 of 14Travis and half-sister Debby filed a lawsuit in 2015 alleging Kim was "secluding" him and asked the courts to step in. "We had not seen Dad for almost eight months," Travis said, adding that he found out only through media reports that his father was living in a nursing home. "We only wanted a judge to appoint an outside third party as a financial conservator - and Kim spun to the press that we wanted money, which could not be further from the truth."Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 14The suit also outlines how several of Glen's children were not on his approved visitors' list - but Kim and Glen's children together, Cal, Shannon and Ashley, all had ample access. "All she had to do is let us see Dad, just like her kids," Travis told The National Enquirer. "They can go in and out anytime they want." Photo credit: Getty Images14 of 14Campbell passed away on August 8, 2017. He is survived by his wife, Kim, and eight warring children.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Glen Campbell suffered years of torment and family feuds in the years leading up to his death. From his money-hungry children fighting over his fortune to elder abuse claims made against his most recent wife, the "Rhinestone Cowboy" hitmaker's last days were filled mostly with darkness. Click through RadarOnline.com's gallery for more.Photo credit: Getty ImagesAs Radar readers know, Campbell died at the age of 81 on Tuesday at 10 AM in Nashville. The "Rhinestone Cowboy" hitmaker passed away after a long battle with Alzheimer's. He was in a treatment facility for Alzheimer's patients at the time of his death .Photo credit: Getty ImagesLike many celebrity spawns Campbell's eight money-hungry kids often fought over their ailing father's $50 million fortune. In June 2016, The Globe exclusively revealed a shocking lawsuit in which two of his children, Kelli Campbell and Wesley Kane Campbell, claim their father's business manager, Stanley B. Schneider, and Lawrence J. Turner, head of the Campbell Trust, were refusing to pay them at least $2,500 from their famous father's estate.Photo credit: Getty ImagesLike many celebrity spawns Campbell's eight money-hungry kids often fought over their ailing father's $50 million fortune. In June 2016, The Globe exclusively revealed a shocking lawsuit in which two of his children, Kelli Campbell and Wesley Kane Campbell, claim their father's business manager, Stanley B. Schneider, and Lawrence J. Turner, head of the Campbell Trust, were refusing to pay them at least $2,500 from their famous father's estate. 
+ Photo credit: Getty ImagesKelli and Welsey's mom, Billie Jean Campbell, who also had son Travis, now 51, with the singer, was awarded half of all the community assets, including musical compositions and recordings, when she and Glen divorced in 1975.Photo credit: Getty ImagesThe two adult children then sued because they say they have not received money in a "significant period of time."In another explosive family feud, Campbell's other son, Travis and his sister, Debby Campbell-Cloyd (Glen's daughter with first wife Diane Kirk) were in the middle of a heated battle with the star's fourth and most recent wife, Kim just last year. They alleged she's keeping Glen "secluded from the rest of the family" and is barring relatives "from participating in his care and/or treatment." They also claimed Kim was mishandling his fortune.
+Photo credit: Getty ImagesSon Travis told National Enquirer that his stepmother Kim, who wed Glen in 1982, is at the target of an FBI probe over her alleged financial negligence. "We have turned over information to authorities, the FBI and district attorney in two different states to prove that she's mismanaging his finances. We need to find out some things about what she's doing with the cash. Kim's lawyer claimed Travis' claims were entirely false. Kim claimed she was unaware of any type of investigation. "In the conservatorship lawsuit, an independent guardian investigated and found no impropriety, no elder abuse and no compromise to Glen's health or safety."Photo credit: Getty ImagesThe children managed to get Tennessee Gov. Bill Haslam to sign a law allowing family members to visit dementia patients even if it's against the wishes of the patient's legal guardian.
+ Photo credit: Getty ImagesBut lawsuits over the country legend's cash was only the tip of the iceberg. Photo credit: Getty ImagesIn court docs Travis, 49, and Debby, 58, claimed Kim was not providing their then 78-year-old father with toiletries and clothing and failed to visit him on a regular basis.Photo credit: Getty ImagesTravis and half-sister Debby filed a lawsuit in 2015 alleging Kim was "secluding" him and asked the courts to step in. "We had not seen Dad for almost eight months," Travis said, adding that he found out only through media reports that his father was living in a nursing home. "We only wanted a judge to appoint an outside third party as a financial conservator - and Kim spun to the press that we wanted money, which could not be further from the truth."Photo credit: Getty ImagesThe suit also outlines how several of Glen's children were not on his approved visitors' list - but Kim and Glen's children together, Cal, Shannon and Ashley, all had ample access. "All she had to do is let us see Dad, just like her kids," Travis told The National Enquirer. "They can go in and out anytime they want." Photo credit: Getty ImagesCampbell passed away on August 8, 2017. He is survived by his wife, Kim, and eight warring children.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: Getty Images 
+
+
+
+
+
+
+
+
+
+/n

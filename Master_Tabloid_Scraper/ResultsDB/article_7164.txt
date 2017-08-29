@@ -1,0 +1,55 @@
+Amal Clooney Glitters in Green During Date Night With George Clooney Mom and dad are out on the town.  It seems George Clooney and Amal Clooney had another date night in Lake Como. According to recent snaps of the new parents to twins, the O.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874803/amal-clooney-glitters-in-green-during-date-night-with-george-clooney');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017721/rs_634x1024-170821090929-634.George-Clooney-Amal-Clooney-Date-JR-082117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("George Clooney, Amal Clooney");
+	var imageCaption = encodeURIComponent("George Clooney, Amal Clooney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+MEGA
+
+
+
+
+
+
+Mom and dad are out on the town. It seems George Clooney and Amal Clooney had another date night in Lake Como. According to recent snaps of the new parents to twins, the Oscar winner and his renowned barrister leading lady stepped out last night at Harry's Bar in Cernobbio. While the actor sported a simple button-down shirt and jeans, the human rights attorney glittered in an embellished emerald green maxi dress designed by Stella McCartneywith sheer panelling at the legs. In one of her most glamorous ensembles to date, the mother of two accessorized with hoop earrings, a coordinating architectural cuff and a gold clutch. Needless to say, all eyes were on Mrs. Clooney. According to a source, the pair was in a "happy" and "loving" mood as they exited around 11:30 p.m with friends and a mild amount of security. 
+
+
+
+MEGA
+
+As August winds down, the mom and dad of Alexander and Ella Clooney are enjoying every last bit of their Italian summer. "Amal is not working, and they both have the summer off and are enjoying Lake Como," one insider told E! News in July. "They are very happy to be in Italy." While the A-list couple is soaking up their days with their 2-month-old babies, George and Amal make sure to save a few hours just as husband and wife. "They are very hands-on parents, but they also have some help," another source explained. "They also value their adult time and want to make sure that they are able to slip away for adult dinners and other things that they enjoy. With the help of their baby nurse, they are able to do that frequently."
+
+What better way to spend that free time than by getting all gussied up and hitting the town? After all, when in Rome Lake Como...
+/n

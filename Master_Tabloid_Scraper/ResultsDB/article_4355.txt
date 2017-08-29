@@ -1,0 +1,46 @@
+gonna be pissed. Ace is out, 3-2. Jeff Probst is rather impressed, for once, by Fang's wiliness. And now it's Kota's turn at Tribal Council, where Susie Smith is likely to be on the chopping block, having been not what we woul.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/66529/survivor-doubles-down');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20081030/293.survivor.gabon.103008.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Survivor: Gabon");
+	var imageCaption = encodeURIComponent("Survivor: Gabon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Monty Brinton/CBS
+
+Surprises abounded on Thursday's episode of Survivor: Gabon, which featured a double elimination—one earned, one not—and twists galore as far as immunity, alliances, physical prowess and other game-playing necessities were concerned.Ten castaways are left and...could that be a crack in Kota's armor? And what's with all those sly smiles?Here's how it went down:
+
+Dan Kay's paranoia is starting to grate on Kota leader Marcus Lehman's nerves. Which means handsome Dan is starting to look like a liability. "There's nothing I can do to save him from himself at this point," Marcus rationalizes.Reward challenge: Aw, Fang is looking so small... Anyway, three members from each tribe toss a breakable ball back and forth while a member of the other tribe tries to smash their ball to the ground. Fang needs to break a five-challenge losing streak, so…this reward would really mean a lot.First point: Kota, as Randy Bailey clobbers Fang's ball. Second point: Kota, as Bob Crowley, after a few hard falls, finally smashes it home. Third point: Fang, because—yeah, Sugar Kiper doesn't catch Ace Gordon's flimsy toss.Yikes, this is getting serious. Fang wins a helicopter ride and a picnic—meats, cheeses, veggies, bread, OJ and what looks like wine or champagne—in some other idyllic part of Gabon.Sugar's off to spend Day 20 on Exile Island, where she can only hope her fellow Fang people aren't screwing her over behind her back.Matty Whitmore points out that Sugar really dropped the ball—quite literally—in this last challenge and, in fact, has done pretty much jack for them since day one. He tells Ace, the guy Sugar's sweet on, that he, Crystal Cox and Kenny Hoang are willing to vote for her at Tribal Council so that Ace doesn't have to be the bad betrayal guy. Ace keeps insisting that Sugar possessing the Immunity Idol means just as much for him and Matty.Whatever. Crystal thinks Ace is the devil.While picnicking in paradise, the members of Kota are treated to "real letters!" from family members back home. Bob sobs in happy hysteria. Dan can't believe that his dad, who never writes or shows excitement about anything, penned him a letter. This part is very sweet.Immunity Challenge: Both tribes have to give someone the boot tonight but everyone has a shot at individual immunity, depending on who can stand on a big rolling log the longest without falling into the water.First round: Ace beats Dan. Charlie Herschel beats Crystal (Ace likes that). Marcus beats Matty. Randy beats Susie. Sugar beats Kenny. Whistlin' Bob beats Corinne Kaplan (oh yeah, Kota has someone named Corinne on it).Second round: Ace beats Charlie, barely, as Ace hits the water just a second afterward. Marcus beats Randy. Sugar beats log-rolling champion Bob—again, just barely.Third round: Marcus outlasts Sugar and then Ace, winning immunity—as if Mr. Indestructible needed it. In the most amusing twist, Marcus gets to bestow immunity upon a member of Fang. And he picks Sugar.So, all previous points about her unhelpful presence (although she definitely stepped up when she was fighting for her own life in this challenge—maybe 'cause she hates everyone else?) are moot for the time being. Get ready for all sorts of doody-slinging between Crystal and Ace.Sure enough, Ace wants Crystal out, so Kenny tries to rally Sugar to his side in order to save the surly Olympic champ. Meaning, Sugar would have to vote along with him and Crystal, and cast a ballot for Ace. Oh, but now Ace is playing with Sugar's hair, so that'll never happen.Sugar sure relishes being finagled with, doesn't she? And why not? She's absolutely dripping with immunity, having already captured her own Idol while in exile.Fang's Tribal Council: Crystal apparently spilled some rice at some point and went without her share for that meal. But Matty still seems pretty ticked off about it, and Crystal remains angry that Ace accepted her no answer when he asked if she wanted some food anyway. Well, we know who she's voting for.
+
+Oh boy, Matty's gonna be pissed. Ace is out, 3-2. Jeff Probst is rather impressed, for once, by Fang's wiliness.And now it's Kota's turn at Tribal Council, where Susie Smith is likely to be on the chopping block, having been not what we would call a productive member of the team. And she's the "worse kind of nuts" as far as Randy and Corinne are concerned. But then again, Marcus thinks Dan is a bumbling idiot. Meanwhile, Susie is trying desperately to throw Corrine under the bus.And Dan's out, 4-3. Well played, Susie...well played.Well, we're surprised that Ace is out already. Are you? And how much longer can Susie possibly last? Big mistake on Kota's part—or brilliant strategery all around? Do share!
+/n

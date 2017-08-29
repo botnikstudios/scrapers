@@ -1,0 +1,48 @@
+Emily Blunt Looks Super-Slim and Fit in a Red Dress Just 10 Weeks After Giving Birth to Daughter Hazel Emily Blunt is back to her pre-baby body and then some! Over the weekend, the 31-year-old actress attended the wedding of Brian Baumgarter.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/536263/emily-blunt-looks-super-slim-and-fit-in-a-red-dress-just-10-weeks-after-giving-birth-to-daughter-hazel');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014328/rs_600x1324-140428111111-634.emily-blunt.cm.42814.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Emily Blunt");
+	var imageCaption = encodeURIComponent("Emily Blunt");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FameFlynet
+
+Emily Blunt is back to her pre-baby body and then some!Over the weekend, the 31-year-old actress attended the wedding of Brian Baumgarter looking super slim just about 10 weeks after giving birth to her and John Krasinski's daughter Hazel.Dressed in a slim-fitting red Roland Mouret Danaus dress, Blunt appeared to be in insanely good shape and flaunting her flat tummy while arriving to the ceremony at the Wilshire Country Club. Blunt paired her chic dress with nude heels and a purse. She looked gorgeous with light makeup on her face and her blond hair down.
+
+
+
+Premiere/Dmac/FAMEFLYNET PICTURES
+
+Meanwhile, Blunt's man looked dapper in a gray suit.Also in attendance during Baumgartner's wedding on Saturday were Krasinski's other Office costars Angela Kinsey, Jenna Fischer and Oscar Nuñez. They watched Baumgartner marry his longtime love Celeste Ackelson in the backyeard of his L.A. home before heading to the country club to party.Blunt and Krasinksi welcomed their first child together back in February. Clearly, Blunt has been doing something right when it comes to shaping up post-pregnancy.Lookin' good!
+/n

@@ -1,0 +1,46 @@
+Angelina Jolie Speaks at UN Office in Geneva as She Continues to Focus on Activism Amid Divorce "As a citizen, I find myself looking out on a global environment that seems more troubling and uncertain than at any time in my lifetime. I .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/836328/angelina-jolie-speaks-at-un-office-in-geneva-as-she-continues-to-focus-on-activism-amid-divorce');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017215/rs_634x1024-170315110502-634.Angelina-Jolie-Switzerland-JR-031517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Angelina Jolie");
+	var imageCaption = encodeURIComponent("Angelina Jolie");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Harold Cunningham/Getty Images
+
+"As a citizen, I find myself looking out on a global environment that seems more troubling and uncertain than at any time in my lifetime. I imagine many of you may feel the same," Jolie said. "We are grappling with a level of conflict and insecurity that seems to exceed our will and capabilities: with more refugees than ever before, and new wars erupting on top of existing conflicts, some already lasting decades.""We see a rising tide of nationalism, masquerading as patriotism, and the re-emergence of policies encouraging fear and hatred of others, " she said. "We see some politicians elected partly on the basis of dismissing international institutions and agreements, as if our countries have not benefited from cooperation, but actually been harmed by it. We hear some leaders talking as if some of our proudest achievements are in fact our biggest liabilities—whether it is the tradition of successfully integrating refugees into our societies, or the institutions and treaties we have built rooted in laws and human rights." 
+
+Jolie, known for her recent work helping Syrian refugees, said she believes "anyone committed to human rights is an internationalist.""If governments and leaders are not keeping that flame of internationalism alive today, then we as citizens must," she said. "We have to challenge the idea that the strongest leaders are those most willing to dismiss human rights on the grounds of national interest. The strongest leaders are those who are capable of pursuing both."
+
+Last month, Jolie penned a The New York Times Op-Ed  titled "Refugee Policy Should Be Based on Facts, Not Fear." The piece was posted days after President Donald Trump issued an executive order to temporarily stop citizens of seven countries, whose populations are mostly Muslim, from entering the United States and also suspend entry of Syrian refugees in a bid to "protect the American people from terrorist attacks by foreign nationals."Following chaos at airports and a court battle, the temporary travel ban was suspended. Trump recently issued a revised order, which is also currently being challenged by courts.
+/n

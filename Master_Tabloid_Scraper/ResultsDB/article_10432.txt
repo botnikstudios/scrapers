@@ -1,0 +1,88 @@
+Still a Rockstar! Pink to Receive the Michael Jackson Video Vanguard Award at the 2017 MTV VMAs
+/n
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-6bb17f1b69170c04abb5fc02c917db80-59a515e7af36b');
+				var iframe = document.getElementById('wpcom-iframe-6bb17f1b69170c04abb5fc02c917db80-59a515e7af36b');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-6bb17f1b69170c04abb5fc02c917db80-59a515e7af36b'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+
+
+Get ready to “Raise Your Glass” to Pink!
+MTV will recognize the superstar at the 2017 Video Music Awards by presenting her with the Michael Jackson Video Vanguard Award. The accolade pays tribute to her 17-year long career as a performer and trailblazing impact on music, pop culture, fashion and philanthropy.
+In addition to being on hand to receive MTV’s highest honor, Pink, 37, will perform her new single “What About Us,” from her forthcoming sixth album, Beautiful Trauma, live during the ceremony at the Forum in Inglewood, California.
+Since her debut in 2000, the singer has racked up a number of memorable moments on the VMAs stage. She has won six awards at the big show, including the coveted Video of the Year award for “Lady Marmalade,” and shocked audiences in 2009 with her gravity-defying acrobatic performance of “Sober.”
+ Joseph Okpako/WireImage
+As a Video Vanguard recipient, Pink will follow in the footsteps of past honorees including Madonna, Britney Spears, Beyoncé, Kanye West and — most recently — Rihanna.
+FROM PEN: Learn The Process Behind Time Selecting The 100 Most Influential People
+
+Also set to perform at the awards this year is Miley Cyrus, Ed Sheeran, Fifth Harmony, Lorde, the Weeknd, Thirty Seconds to Mars and Shawn Mendes. Katy Perry will take the stage as host.
+The 2017 MTV Video Music Awards will air Sunday, Aug. 27 at 8:00 p.m. ET/PT.
+/n

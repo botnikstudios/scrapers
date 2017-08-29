@@ -1,0 +1,44 @@
+Así reaccionaron las celebridades luego de las nominaciones a los Oscar 2017 La mayoría en Hollywood amaneció con una gran noticia./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/824000/asi-reaccionaron-las-celebridades-luego-de-las-nominaciones-a-los-oscar-2017');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017018/rs_634x1024-170118100718-634.Viola-Davis-JR-011817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis");
+	var imageCaption = encodeURIComponent("Viola Davis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Daniel Zuchnik/WireImage
+
+La mayoría en Hollywood amaneció con una gran noticia.
+
+Puede que en Los Ángeles haya sido casi la madrugada cuando se dieron a conocer los nominados a los Oscar 2017 pero qué mejor que despertar con una noticia así.Algunas de las actrices y actores elegidos para competir en los premios más importantes dieron sus impresiones tras enterarse de la buena nueva.ALFOMBRA ROJA > Lista de nominados a los Oscar 2017 ¡Los mayores premios del cine ya tienen a sus elegidos!Sin duda que el 26 de febrero, bajo la conducción de Jimmy Kimmel, tendremos una gran ceremonia donde no faltarán los nombres más influyentes del momento.Mientras que Emma Stone y Natalie Portman recibieron nominaciones a Mejor Actriz, Ryan Gosling y Casey Affleck son los favoritos a Mejor Actor.Viola Davis acerca de ser nominada a Mejor Actriz de Reparto: "Gracias Academia por reconocer este importante y extraordinario film y mi trabajo en él. ¡Gracias Denzel!"Mykelti Williamson por Fences (Mejor Película): Gracias a la Academia por este importante e histórico reconocimiento. El reconocimiento global de Fences y el legado de August Wilson son un honor incomparable. Felicitaciones por los honores muy bien merecidos a Denzel y Viola. Estoy muy orgulloso de ustedes".Vigo Mortensen, por mejor Actor: "Estoy emocionado poruqe Captain Fantastic haya quedado incluida entre las nominadas este año. Nuestro film tiene corazón y cerebro. Entretiene, inspira, anima la comunicación honesta. Estoy extremadamente orgulloso de representar la historia de Matt Ross".E! NEWS > No creerás todo lo que cobrará Jimmy Kimmel por ser el host de los OscarLin-Manuel Miranda, por mejor Canción original: "Gracias a la Academia. Muchas gracias por este honor. He pesado gran parte de mi infancia memorizando los monólogos de Billy Crystal, por lo que esto es loco. Felicitaciones a todos los increíbles nominados. Y felicitaciones a los niños viendo la transmisión este año, cantando sus canciones favoritas".Nicole Kidman, Mejor Actriz de Reparto por Lion: "Quiero agradecer a la Academia por todo el reconocimiento que le han dado a este sentido film. Pero, más importante, quiero agradecerle a la familia Bierley por ponerse en una posición tan vulnerable y compartir la historia con el mundo. Gracias a Garth Davis por poner su corazón en esto".Jeff Bridges, mejor actor de reparto por Hell or High Water: "Me desperté esta mañana en la hermosa Solano Beach, luego de tocar un lindo show en Belly Up con mi banda Abiders y me entero de que fui nominado por mi performance en Hell or High Water. ¡Qué emoción! Especialmente para una película tan cercana a mi corazón".ALFOMBRA ROJA > Ellos fueron nominados al los Razzie Awards y se destacan como lo peor del cine en 2017
+/n

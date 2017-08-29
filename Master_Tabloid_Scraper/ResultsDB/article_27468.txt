@@ -1,0 +1,92 @@
+ Chris Brown, Nick Young & More! 10 Baby Mama Bombshells That Blindsided Hollywood!.../n
+
+					var next_post_url = "http://radaronline.com/photos/rob-kardashian-blac-chyna-breakup-clause-kris-jenner-cant-fire-pregnant-star-reality-show-contract-filming/";
+					var prev_post_url = "http://radaronline.com/photos/sex-tapes-lies-more-vanderpump-rules-dirtiest-secrets-exposed/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-07-25T13:34:49+00:00","caption":"Some stars like to do the down and dirty behind their significant other's back! Click through these slides for the latest on Hollywood's baby mama drama!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:03+00:00","caption":"Nick Young, 31, was engaged to Iggy Azalea, 26, but that didn't stop him from hooking up with his ex! Keonna Green is currently pregnant with their second child \u2014 making Nick Jr., 4, a big brother any day now!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:03+00:00","caption":"Green revealed that they rekindled their romance last September, and she tried telling Azalea about the affair. Now that she's pregnant, they stopped hooking up \u2014 and Azalea dumped him.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:04+00:00","caption":"Chris Brown, 27, and Karrueche Tran, 28, finally ended their on-again-off-again relationship when Nia Guzman confirmed they had a child, Royalty together in 2015.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:05+00:00","caption":"Tran revealed Brown's baby mama drama in a now-deleted tweet at the time.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:06+00:00","caption":"RadarOnline.com broke the news that Owen Wilson, 47, knocked up Caroline Lindqvist while she was still married ! Lindqvist \u2014 who was Wilson's personal trainer \u2014 filed for divorce after finding out he was her baby boy's father.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:06+00:00","caption":"Eddie Murphy, 55, adamantly denied fathering 41-year-old Mel B's daughter Angel. A court-ordered DNA test confirmed his paternity in 2007.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:07+00:00","caption":"Kevin Federline, 38, left his pregnant girlfriend Shar Jackson, 39, for Britney Spears, 34, in July 2004. Jackson gave birth to Kaleb later that year.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:08+00:00","caption":"Sarah Chapman gave birth to her daughter Chance in 2006 \u2014 just five months before 46-year-old Diddy's girlfriend Kimberly Porter gave birth to their twins, D'Lila Star and Jessie James! Diddy took legal responsibility for Chance a year later.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:09+00:00","caption":"Clint Eastwood, 86, had a secret love child, Kimber, 52, with Roxanne Tunis while he married to Margaret Johnson.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:10+00:00","caption":"Dwayne Wade, 34, and Aja Metoyer conceived their son Xavier Zechariah Wade, 2, while he was on a break from now-wife Gabrielle Union, 43.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:11+00:00","caption":"Ludacris, 38, fathered Cai Bella Bridges with Tamika Fuller in 2013 while dating Eudoxie Mbouguiengue. Mbouguiengue and Ludacris later got engaged \u2014 and tied the knot \u2014 in the same day. She gave birth to their daughter Cadence in June 2015.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:12+00:00","caption":"Arnold Schwarzenegger, 68, kept his baby mama bombshell a secret for over 14 years! He fathered Joseph Baena, 18, with Mildred Baena while he was married to Maria Shriver, 60.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-07-25T12:13:13+00:00","caption":"At the time Joseph was conceived, Shriver was pregnant with Schwarzenegger's son, Christopher. The couple split in 2011 when Shriver found out about his love child.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/07\/baby-mama-scandals-nick-young-chris-brown-arnold-schwarzenegger-13.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Chris Brown, Nick Young & More! 10 Baby Mama Bombshells That Blindsided Hollywood!
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 14 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 14baby-mama-scandals-nick-young-chris-brown-arnold-schwarzeneggerSome stars like to do the down and dirty behind their significant other's back! Click through these slides for the latest on Hollywood's baby mama drama!Photo credit: Splash News2 of 14A+E Networks “Shining A Light” ConcertNick Young, 31, was engaged to Iggy Azalea, 26, but that didn't stop him from hooking up with his ex! Keonna Green is currently pregnant with their second child — making Nick Jr., 4, a big brother any day now!Photo credit: Getty Images3 of 14Nickelodeon Kids’ Choice Sports Awards 2015 – ArrivalsGreen revealed that they rekindled their romance last September, and she tried telling Azalea about the affair. Now that she's pregnant, they stopped hooking up — and Azalea dumped him.Photo credit: Getty Images4 of 142015 Billboard Music Awards – ArrivalsChris Brown, 27, and Karrueche Tran, 28, finally ended their on-again-off-again relationship when Nia Guzman confirmed they had a child, Royalty together in 2015.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 14Power 105.1’s Powerhouse 2014 – BackstageTran revealed Brown's baby mama drama in a now-deleted tweet at the time.Photo credit: Getty Images6 of 14*EXCLUSIVE* Owen Wilson takes a little one on one time shopping with his son RobertRadarOnline.com broke the news that Owen Wilson, 47, knocked up Caroline Lindqvist while she was still married ! Lindqvist — who was Wilson's personal trainer — filed for divorce after finding out he was her baby boy's father.Photo credit: AKM-GSI 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 14Spike TV’s “Eddie Murphy: One Night Only” – ShowEddie Murphy, 55, adamantly denied fathering 41-year-old Mel B's daughter Angel. A court-ordered DNA test confirmed his paternity in 2007.Photo credit: Getty Images8 of 14Kevin Federline Makes Ed Hardy Instore AppearanceKevin Federline, 38, left his pregnant girlfriend Shar Jackson, 39, for Britney Spears, 34, in July 2004. Jackson gave birth to Kaleb later that year.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 14“Killing Them Softly” Premiere – 65th Annual Cannes Film FestivalSarah Chapman gave birth to her daughter Chance in 2006 — just five months before 46-year-old Diddy's girlfriend Kimberly Porter gave birth to their twins, D'Lila Star and Jessie James! Diddy took legal responsibility for Chance a year later.Photo credit: Getty Images10 of 142013 Tribeca Film Festival – Tribeca Talks: Director”s Series: Clint EastwoodClint Eastwood, 86, had a secret love child, Kimber, 52, with Roxanne Tunis while he married to Margaret Johnson.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 142014 NBA Finals – Game ThreeDwayne Wade, 34, and Aja Metoyer conceived their son Xavier Zechariah Wade, 2, while he was on a break from now-wife Gabrielle Union, 43.Photo credit: Getty Images12 of 14Premiere Of Warner Bros. Pictures’ “New Year’s Eve” – ArrivalsLudacris, 38, fathered Cai Bella Bridges with Tamika Fuller in 2013 while dating Eudoxie Mbouguiengue. Mbouguiengue and Ludacris later got engaged — and tied the knot — in the same day. She gave birth to their daughter Cadence in June 2015.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 142014 Winter TCA Tour – Day 8Arnold Schwarzenegger, 68, kept his baby mama bombshell a secret for over 14 years! He fathered Joseph Baena, 18, with Mildred Baena while he was married to Maria Shriver, 60.Photo credit: Getty Images14 of 14EXCLUSIVE: Joseph Baena picks up some water from a local store in MalibuAt the time Joseph was conceived, Shriver was pregnant with Schwarzenegger's son, Christopher. The couple split in 2011 when Shriver found out about his love child.Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+baby-mama-scandals-nick-young-chris-brown-arnold-schwarzeneggerSome stars like to do the down and dirty behind their significant other's back! Click through these slides for the latest on Hollywood's baby mama drama!Photo credit: Splash NewsA+E Networks “Shining A Light” ConcertNick Young, 31, was engaged to Iggy Azalea, 26, but that didn't stop him from hooking up with his ex! Keonna Green is currently pregnant with their second child — making Nick Jr., 4, a big brother any day now!Photo credit: Getty ImagesNickelodeon Kids’ Choice Sports Awards 2015 – ArrivalsGreen revealed that they rekindled their romance last September, and she tried telling Azalea about the affair. Now that she's pregnant, they stopped hooking up — and Azalea dumped him.Photo credit: Getty Images2015 Billboard Music Awards – ArrivalsChris Brown, 27, and Karrueche Tran, 28, finally ended their on-again-off-again relationship when Nia Guzman confirmed they had a child, Royalty together in 2015.Photo credit: Getty ImagesPower 105.1’s Powerhouse 2014 – BackstageTran revealed Brown's baby mama drama in a now-deleted tweet at the time.Photo credit: Getty Images*EXCLUSIVE* Owen Wilson takes a little one on one time shopping with his son RobertRadarOnline.com broke the news that Owen Wilson, 47, knocked up Caroline Lindqvist while she was still married ! Lindqvist — who was Wilson's personal trainer — filed for divorce after finding out he was her baby boy's father.Photo credit: AKM-GSISpike TV’s “Eddie Murphy: One Night Only” – ShowEddie Murphy, 55, adamantly denied fathering 41-year-old Mel B's daughter Angel. A court-ordered DNA test confirmed his paternity in 2007.Photo credit: Getty ImagesKevin Federline Makes Ed Hardy Instore AppearanceKevin Federline, 38, left his pregnant girlfriend Shar Jackson, 39, for Britney Spears, 34, in July 2004. Jackson gave birth to Kaleb later that year.Photo credit: Getty Images“Killing Them Softly” Premiere – 65th Annual Cannes Film FestivalSarah Chapman gave birth to her daughter Chance in 2006 — just five months before 46-year-old Diddy's girlfriend Kimberly Porter gave birth to their twins, D'Lila Star and Jessie James! Diddy took legal responsibility for Chance a year later.Photo credit: Getty Images2013 Tribeca Film Festival – Tribeca Talks: Director”s Series: Clint EastwoodClint Eastwood, 86, had a secret love child, Kimber, 52, with Roxanne Tunis while he married to Margaret Johnson.Photo credit: Getty Images2014 NBA Finals – Game ThreeDwayne Wade, 34, and Aja Metoyer conceived their son Xavier Zechariah Wade, 2, while he was on a break from now-wife Gabrielle Union, 43.Photo credit: Getty ImagesPremiere Of Warner Bros. Pictures’ “New Year’s Eve” – ArrivalsLudacris, 38, fathered Cai Bella Bridges with Tamika Fuller in 2013 while dating Eudoxie Mbouguiengue. Mbouguiengue and Ludacris later got engaged — and tied the knot — in the same day. She gave birth to their daughter Cadence in June 2015.Photo credit: Getty Images2014 Winter TCA Tour – Day 8Arnold Schwarzenegger, 68, kept his baby mama bombshell a secret for over 14 years! He fathered Joseph Baena, 18, with Mildred Baena while he was married to Maria Shriver, 60.Photo credit: Getty ImagesEXCLUSIVE: Joseph Baena picks up some water from a local store in MalibuAt the time Joseph was conceived, Shriver was pregnant with Schwarzenegger's son, Christopher. The couple split in 2011 when Shriver found out about his love child.Photo credit: Splash News 
+
+
+
+
+
+
+
+
+
+/n

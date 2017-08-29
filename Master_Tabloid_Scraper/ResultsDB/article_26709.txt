@@ -1,0 +1,52 @@
+Pamela Anderson Debuts Toned-Down Look: "I Don't Know If I Really Ever Felt Beautiful" The blond and busty former Playboy pinup has a soft and sensitive heart.  At a recent event for haircare line Obliphica Professional, Pamela Anderson opened up abo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/408977/pamela-anderson-debuts-toned-down-look-i-don-t-know-if-i-really-ever-felt-beautiful');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013317/rs_293x473-130417095425-634.PamelaAnderson.mh.041713.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Pamela Anderson");
+	var imageCaption = encodeURIComponent("Pamela Anderson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+James Devaney/WireImage
+
+The blond and busty former Playboy pinup has a soft and sensitive heart. At a recent event for haircare line Obliphica Professional, Pamela Anderson opened up about her self-image and how she came to undergo a makeunder. "I don't know if I ever really felt beautiful," she told BuzzFeed in an exclusive interview. "I always feel like I don't—I don't, really." The 45-year-old actress explained that her over-the-top appearance was already rooted during her early days on Baywatch—where even producers were trying to tone it down. 
+
+NEWS: Pamela Anderson selling Malibu home for $7.75 million—take a look inside!
+
+"They were insisting that I didn't wear eyelashes, but I said, 'I have my look, this is what I'm comfortable in,'" she said of her days on the show. "Sometimes my eyelashes would roll up onto the beach and that's all that would be left of me. But I was determined to be glamorous. Oh, I loved it, I LOVED it."But the buxom babe, who listed Sophia Loren, Dita Von Teese and Marilyn Monroe among her style muses, admits it's due time to "tone down" her look.At a recent photoshoot with Mario Testino, the Peruvian photographer wiped off all her makeup and pulled her hair into a simple ponytail. While Pam is unsure about the dramatic transformation, she remains cautiously optimistic, saying "I think it's time...you know, you grow up and you change your look."
+
+NEWS: Pamela Anderson owes over $370,000 in 2012 taxes
+
+The former Dancing With the Stars contestant certainly flipped a new look on us all this time: A slimmed-down Pam arrived on the red carpet in a black three-quarter-length jersey dress and peep-toe nude pumps. "I think I'm in charge of toning down my look or not," she said in the same interview, and indicated her hair and outfit: "I feel like as I'm getting older, this is my version of toned down. I like it."If you like it, we like it. 
+
+PHOTOS: Check out these other beachworthy bods! 
+/n

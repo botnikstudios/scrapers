@@ -1,0 +1,52 @@
+EXCLUSIVE! Amanda Stanton Pleased With How Bachelor in Paradise Addresses Scandal on TV: "We Answered Questions" Amanda, a mother of two, had competed on The Bachelor season 20 before being cast on Bachelor in Paradise season three.../n
+Bachelor in Paradise star Amanda Stanton is pleased with the way producers handled the scandal that shut down production and says that viewers' questions about it will be answered on the show.Filming of the ABC dating reality show was halted temporarily in June amid two producers' complaints that a hook-up between cast members Corinne Olympios and DeMario Jackson may not have been consensual. The studio eventually cleared the show of any misconduct. An intimate encounter between Corinne and DeMario is shown on the series, as seen in a recent sneak peek video, as is footage of them speaking to producers after the shut-down."Everyone knows the situation with the pause in filming and I think that they handled it really well and the way they show it—I think they turned something kinda crazy into a good situation," Amanda told E! News exclusively. "We talk about it. And then after the break, it's just normal Paradise stuff. Back to the normal thing and it's pretty wild this season.""I think it was good with the way that we addressed it," Amanda continued. "We answered questions, we talk about everything so I think it will answer everyone's questions and everyone will be able to move on from it."The reality star made her comments at GBK & Pilot Pen's Pre-Teen Choice Awards family carnival this weekend.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873182/amanda-stanton-pleased-with-how-bachelor-in-paradise-addresses-scandal-on-tv-we-answered-questions');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017714/rs_634x1024-170814083149-634-amanda-stanton-mv-81417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amanda Stanton ");
+	var imageCaption = encodeURIComponent("Amanda Stanton ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Carell Augustus
+
+Amanda, a mother of two, had competed on The Bachelor season 20 before being cast on Bachelor in Paradise season three, which also aired last year. She ended the latter show engaged to Josh Murray. They broke up this past March."When I decided to do the show again, I said if I'm going to do it, I'm going to do it completely differently than what I did last time because that obviously didn't work out very well for me," she told E! News. "So I just had a totally different approach going into it. I went in not wanting to rush anything, wanting to take my time and wanting to get to know everybody. I think last year, I just rushed into a relationship so quickly and it was like, game over. So I handled it very differently."Last month, Amanda and new Bachelor in Paradise season four co-star Robby Hayes sparked romance rumors last month when they were photographed spending time together in Los Angeles.They were spotted walking and holding hands, dining at a restaurant, watching a Los Angeles Dodgers baseball game with co-stars and celebrating cast member Raven Gates' birthday at a wine bar. A source told E! News at the time that "Robby and Amanda have been spending a lot of time together" and "are very affectionate towards each other." 
+
+
+
+Splash News
+
+"We were out in a group but Robby and I were alone for an hour and we somehow got photos taken of us," Amanda told E! News."He's very sweet and he's a really nice guy," she said, adding, "There are a lot of good guys in Paradise this season. You guys will see. Honestly, everyone is really, really nice. But he's really sweet."Co-star Vinny Ventiera had weighed in on the Amanda-Robby romance rumors, telling People, "In that situation, anybody would do anything for some Instagram followers.""This actually made me LOL," Amanda tweeted in response. "May I suggest that some people speak about things they have no idea about to get attention..."
+
+"In the Bachelor family, I'm used to everybody just being so supportive of everybody all the time so it was kind of hard to see somebody kind of talking behind my back," Amanda told E! News. "Especially someone like Vinny who, to be honest, he was on my season last season, but I haven't really talked to him very much. We don't know each other very well. He's not somebody I'm close with and I wouldn't say anything bad about him even now. But I think we should all be supportive of each other in the Bachelor family."Bachelor in Paradise season four premieres Monday on ABC at 8 p.m. ET.
+/n

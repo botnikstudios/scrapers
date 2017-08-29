@@ -1,0 +1,48 @@
+below Frazer Harrison/Getty Images Melissa Benoist The Supergirl star was looking super cool in black at the award show. Frazer Harrison/Getty Images Lonnie Chavis This Is Us star is too-cute on the blue carpet. Frazer Harrison.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873261/why-miley-cyrus-skipped-the-2017-teen-choice-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013712/rs_634x1024-130812143143-634.MileyCyrus.TnnChceWrds.8.11.13.JMD.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Miley Cyrus, Teen Choice Awards");
+	var imageCaption = encodeURIComponent("Miley Cyrus, Teen Choice Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Merritt/Getty Images
+
+Miley Cyrus was a no-show at the 2017 Teen Choice Awards in L.A Sunday.The 24-year-old pop star had been confirmed to appear onstage to accept the show's highest honor, the Ultimate Choice Award, for her involvement in the annual event for over a decade. Cyrus was also nominated in four categories: Choice Female Artist, Choice Song: Female Artist ("Malibu"), Choice Summer Female Artist, Choice Summer Song ("Malibu") and Choice Summer Female Artist. But the singer, who has a remarkable 18 wins under her belt, lost all four awards.Cyrus' absence was felt throughout UCLA's Galen Center."I know," presenter Victoria Justice told the audience. "It's a bummer."(Winners included Ariana Grande, Beauty and the Beast, Ed Sheeran, Fifth Harmony, Finding Dory, Guardians of the Galaxy Vol. 2, Riverdale, The Vampire Diaries and Wonder Woman.)So, why did Cyrus cancel at the last minute?
+
+"To my dearest fans & all of those watching @teenchoicefox ! I want to say thank you from the very bottom of my heart for presenting me with #TheUltimateChoiceAward!" she wrote on Instagram. "I am beyond bummed I couldn't make it to the show as I had every intention of being there to accept and celebrate this honor! I created an unrealistic schedule for myself."With her apology out of the way, Cyrus was finally ready to make her big announcement. "I've been tryin to keep the secret but I can't hide it any longer!" she told her 70.8 million followers.
+
+"My new single / music video #YoungerNow will be dropping this Friday, Aug 18th & I am sooooooo EXCITED to share it with all of you! I hope to always make people smile and shine light thru my work!" the "Malibu" singer announced. "I look forward to making music for the rest of my life and I'm thankful everyday for those who listen! I am sending so much love and peace into the world right now because THATS what we need most! Love Love & more LOVE!"Cyrus also shared the artwork for "Younger Now" with her followers. In May, she opened up to Billboard about her latest project. "This record is a reflection of the fact that yes, I don't give a f--k, but right now is not a time to not give a f--k about people," Cyrus said. "I'm giving the world a hug and saying, 'Hey, look. We're good. I love you.' And I hope you can say you love me back."See which celebrities did attend the 2017 Teen Choice Awards below:
+
+And for exclusive red carpet interviews from the event, watch E! News tonight at 7 and 11.
+/n

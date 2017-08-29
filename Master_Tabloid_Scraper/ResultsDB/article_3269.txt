@@ -1,0 +1,44 @@
+Katherine Heigl's Husband Is Convinced She Dated John Mayer Years later, after they'd both found fame, "We met up at one of his concerts. Just friends! Just friends!" the actress said. "Josh and I were probably datin.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/829620/katherine-heigl-s-husband-is-convinced-she-dated-john-mayer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017115/rs_634x845-170215053112-634.katherine-heigl-the-late-late-show.21517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Katherine Heigl, The Late Late Show");
+	var imageCaption = encodeURIComponent("Katherine Heigl, The Late Late Show");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Terence Patrick/CBS
+
+Years later, after they'd both found fame, "We met up at one of his concerts. Just friends! Just friends!" the actress said. "Josh and I were probably dating about a month, and it was unclear where the relationship was going; I like clarity. I didn't know if he was as serious about me as I was about him. I had run into John, who was in town making a record or something. We were just hanging out, having drinks, having dinners—as friends! Totally just friends! He wasn't interested in me that way. He would talk to me about other hot girls and stuff; it was friends."By this point, James Corden began to question if she was telling the truth. "It's getting to the point now you're saying 'friends' so much I'm starting to think you slept with him," he joked. Heigl laughed and admitted he's not the only one: "Josh to this day doesn't quite believe me.""Anyway," she added, "that's a whole 'nother argument for another time."
+
+Mayer had quite a reputation at the time, and he would go on to date Jennifer Aniston, Jennifer Love Hewitt, Minka Kelly, Katy Perry, Jessica Simpson and Taylor Swift  in the years to come. Knowing that, Heigl said she used her friendship with the "Love on the Weekend" singer "to put a fire under Josh. I was like, 'If this isn't exclusive and you're dating other people, that's fine, but I'm going to continue seeing John. You know John Mayer, right? You know his work?"Heigl's plan worked: Kelley proposed in June 2006. The actress and the singer tied the knot in Park City, Utah, the following year, and they later adopted two daughters: Naleigh Mi-Eun and Adalaide Marie Hope. Heigl gave birth to a baby boy, Joshua Bishop Kelley, Jr., eight weeks ago.
+/n

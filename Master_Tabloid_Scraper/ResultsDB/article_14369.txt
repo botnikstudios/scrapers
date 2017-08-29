@@ -1,0 +1,48 @@
+Why Anne Hathaway Thinks ''Mommy Guilt Is Invented Nonsense'' "Hollywood is not a place of equality. I don't say that with anger or judgment; it's a statistical fact," she told Elle. "And even tho.../n
+As expected, motherhood has changed Anne Hathaway in many ways, including how she'll choose to focus her time and energy over then next few years.Starring on the April cover of Elle magazine, the actress opened up about her beliefs when it comes to paid parental leave."I can't believe we don't already have it," she admitted. "When [my son] Johnny [Rosebanks Shulman] was a week old and I was holding him and I was in the ninth level of ecstasy, I just all of a sudden thought, 'Mommy guilt is invented nonsense.'"She further explained, "We're encouraged to judge each other, but we should be turning our focus to the people and institutions who should be supporting us and currently aren't."
+
+She feels just as strongly about the lack of equality in Hollywood, too.In fact, when she signed on for the female-driven Ocean's Eight, it was because she knew it would help toward that change.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/835899/why-anne-hathaway-thinks-mommy-guilt-is-invented-nonsense');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017214/rs_634x788-170314080200-634.Anne-Hathaway-Elle-Mag-Kf.31417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Anne Hathaway, Elle Magazine");
+	var imageCaption = encodeURIComponent("Anne Hathaway, Elle Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Terry Tsiolis for Elle Magazine
+
+"Hollywood is not a place of equality. I don't say that with anger or judgment; it's a statistical fact," she told Elle. "And even though I've been in some female-centric films, I've never been in a film like this. It just kind of makes you aware of the ways you sort of unconsciously change yourself to fit certain scenarios."She continued, "It's not better or worse...or right or wrong, but there are certain things you understand about one another because of experiences you have in common…it's probably easy for men to take that for granted. Just being on a set where I'm the one who possesses that ease is really something. It's a nice alternative narrative."And speaking of feeling at ease, one person that's helped her gain a sense of comfort in the world is her husband, Adam Shulman. 
+
+"He changed my ability to be in the world comfortably," she confessed. "I think the accepted narrative now is that we, as women, don't need anybody. But I need my husband. His unique and specific love has changed me."
+/n

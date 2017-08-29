@@ -1,0 +1,44 @@
+Archie Panjabi on Her The Good Wife Exit and a Spinoff Return—Will the Boots Get Zipped Up Again? Archie Panjabi left the world of the The Good Wife behind in season six, and to her, it was exactly the right time. "In terms of anything .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/784859/archie-panjabi-on-her-the-good-wife-exit-and-a-spinoff-return-will-the-boots-get-zipped-up-again');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015114/rs_634x1024-151204145715-634-archie-panjabi-march-of-dimes-120415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Archie Panjabi ");
+	var imageCaption = encodeURIComponent("Archie Panjabi ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Joe Scarnici/Getty Images for March Of Dimes
+
+Archie Panjabi left the world of the The Good Wife behind in season six, and to her, it was exactly the right time."In terms of anything that happened on The Good Wife, I think it's only respectful for it to stay on The Good Wife," Panjabi told reporters at the 2016 TCA Summer Press Tour when asked about the season six finale in which her final scene with Julianna Margulies was done via green screen and caused controversy among fans. "It was time for me for many reasons to unzip the boots and step into another show." Panjabi went over to the UK and appeared Power Monkeys and Shetland. In the US she did a guest spot on Brooklyn Nine-Nine and is now part of the Blindspot cast opposite Jaimie Alexander.The actress shot to fame with her portrayal of private investigator Kalinda Sharma. She won an Emmy for her work after the show's first season and the admiration of legions of fans with her zip-up boots. The Good Wife ended after its seventh season in 2016, but shortly after it wrapped up CBS announced Christine Baranski and Cush Jumbo would be headlining a spinoff set one year after the events of the series finale. The untitled spinoff will air on CBS All Access, the network's streaming platform.Will Panjabi return to the world of The Good Wife on the spinoff?
+
+"Truthfully, I haven't even thought about that at that juncture," Panjabi told press after the panel. "So, I can't answer that. Who knows?"If she were asked, Panjabi said she's unsure if she would return to the bat-wielding character. "I don't know, to tell you the truth. Like I said, when I unzipped the boots, I knew it was the right time, so I don't know. I'd have to sit and think about that," she said.But if you're still missing Panjabi (and those infamous boots), you'll want to check out her mysterious Blindspot character."I can tell you for those of you who miss the boots," Panjabi said. "I do wear a pair of knee high boots on Blindspot."Blindspot premieres Wednesday, Sept. 14 at 10 p.m. on NBC.—Reporting by Billy Nilles
+/n

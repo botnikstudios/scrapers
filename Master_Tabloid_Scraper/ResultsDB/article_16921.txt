@@ -1,0 +1,46 @@
+Ina Garten Reveals Why She and Husband Jeffrey Never Had Children Ina Garten and her husband, Jeffrey, are one of the most beloved couples on TV, and while they've given viewers the gift of food and fun, some have wondered why they opte.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844835/ina-garten-reveals-why-she-and-husband-jeffrey-never-had-children');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017320/rs_634x1024-170420071507-634-InaGarten-JeffreyGarten-MK042017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ina Garten, Jeffrey Garten ");
+	var imageCaption = encodeURIComponent("Ina Garten, Jeffrey Garten ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Taylor Hill/Getty Images
+
+Ina Garten and her husband, Jeffrey, are one of the most beloved couples on TV, and while they've given viewers the gift of food and fun, some have wondered why they opted not to have children.Now they're finally getting an answer.The Food Network star opens up on a new episode of the Katie Couric Podcast airing Thursday, per People, about her and Jeffrey's mutual decision to remain a twosome instead of something larger. "We decided not to have children," Ina explains. "I really appreciate that other people do and we will always have friends that have children that we are close to but it was a choice I made very early."
+
+"I really felt, I feel, that I would have never been able to have the life I've had," she continues. "So it's a choice and that was the choice I made."When Couric brought up that couples sometimes feel judged for not transitioning into parenthood, Ina admitted she "never" felt that way."I never felt that people did," she says. "I think the one thing that we miss is a lot of people's friends are the parents of their kids' friends. So we never had that connection with other people that I see, that network. But no I never felt judged by it—maybe people did but I didn't notice."
+
+Ina and Jeffrey tied the knot in 1968. She shared the secret to her long-lasting marriage: respect. "The secret is that you just take care of each other and admire each other and support each other and you get that back," she reveals."If Jeffrey and I disagree on something" Ina adds, "he always agrees with me!"That certainly makes things easier!
+/n

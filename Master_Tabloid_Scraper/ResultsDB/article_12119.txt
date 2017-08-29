@@ -1,0 +1,64 @@
+The Coolest and Most Expensive Items From Patrick Swayze's Estate Auction Beloved actor and dancer Patrick Swayze's estate items are hitting the auction block in Los Angeles on April 28—and fans should be on the ready. Personal ite.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844322/the-coolest-and-most-expensive-items-from-patrick-swayze-s-estate-auction');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131021/rs_634x1024-131121181356-634.patrick-swayze.cm.112113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patrick Swayze ");
+	var imageCaption = encodeURIComponent("Patrick Swayze ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ron Galella/Getty Images
+
+Beloved actor and dancer Patrick Swayze's estate items are hitting the auction block in Los Angeles on April 28—and fans should be on the ready. Personal items once belonging to the actor, who passed away in 2009 at the age of 57, range from awesome to rare to just plain bizarre.But with a collection like this, a few lucky film buffs and Swayze fans are likely to have the time of their lives at the auction this month—that is, if you have a chunk of change to spare.The items to be auctioned include the leather jacket Swayze wore in his iconic role in Dirty Dancing, the Hawaiian shirt his character wears early on in Ghost, and some dashing Civil War-era capes from Swayze's time starring in the popular mini-series North and South. We weigh in on the priciest and most interesting pieces up for bid below. 
+
+1. Patrick's DeLoreanThat's right&mdashlPatrick Swayze had a personal 1981 DeLorean DMC-12 Coupe in his possession. The cars were only made from 1981 to 1983, but are most famous for being the face of the time-machine which Marty McFly travels through time in the Back to the Future movies. With the bid estimate between $30,000 – $40,000, and the current online bid already past $32,000, there's a strong chance this iconic machine is going to be a top-earner. Although a flux capacitor is not included, at least that price tag includes a cassette-playing stereo.
+
+2. Patrick's SurfboardIf you are in the market for some totally righteous water sports gear, look no further. The actual surfboard that was custom made for Swayze's use while filming the cult favorite Point Break is hitting the auction block. The movie famously co-starred Keanu Reeves as an undercover FBI agent trying to bust a gang of surfers for bank robbery. And who played the rebellious kingpin of the whole surfing gang?Well, Patrick immortalized the iconic Bodhi right on this very surfboard. With the estimate for bids ranging between $4,000 – $6,000, online bids are already up to $10,000.
+
+3. Patrick's Ghost MemorabiliaFor an estimated price of $2,000 – $4,000, you can wear the same maroon shirt and grey sneakers that Patrick donned for his role haunting Demi Moore and Whoopi Goldberg in the 1990 sleeper hit Ghost. Disclaimer: he wasn't wearing this outfit for the famous pottery scene (he was wearing decidedly less for that), but this is still a pretty amazing find, especially considering that this film is now a classic. Just looking at that shirt makes us want to reunite estranged lovers.
+
+4. Patrick's Dirty Dancing Memorabilia Nobody puts baby in a corner, but we might have to take a timeout of our own to get over this cool find. Patrick was wearing this very jacket when he spoke many of the often-quoted lines from the 1980's favorite Dirty Dancing. Patrick starred as Johnny Castle alongside Jennifer Grey as Baby Houseman as they swayed to both 1960's tunes and 1980's hits. Although bidding was estimated at $4,000 – $6,000, online bidding has already hitched up the price past $12,000.
+
+5. Patrick's Gift From Demi MooreIf you buy this key chain, you will be able to hold in your hands the very keepsake that Demi Moore gave to Patrick while they were filming Ghost.  And, most appropriately, it's even shaped like a little goblin. Probably the most touching part of this piece is the message which is engraved on the back: "To Patrick, Ghost, July-Dec 1989, Love Demi". We're not crying, you're crying. And, oh yeah, the asking price? The estimate is between $1,000 – $2,000.
+
+6. Patrick's Saturday Night Live ScriptsThis lot is a collection of scripts for the October 27, 1990 episode of SNL which Patrick hosted. Sure, there's many duplicates of different papers in the lot (including revised scripts, an SNL weekly schedule, promo script sheets, and even a few packets with Swayze's name on them), so what Swayze actually used is up for debate, but there's no denying that anything to do with his historical SNL appearance is priceless. This lot is hitting the auction block pretty quietly, as if anyone could forget the famous (and hilarious) Chippendales skit that Patrick performed on SNL with Chris Farley, which has since become iconic. The estimate for this lot is between $600 – $800, but is worth much more in comedy gold.
+
+7. Patrick's North and South GearAt one point, North and South was the Game of Thrones of television. Feuding families, countries at war… okay, maybe a few less dragons, but the Civil War mini-series was also an early staple in Swayze's career. Swayze's dashing character, Orry Main, often wore this blue cape in the series. The show's guest stars are also incredible, including the likes of Gene Kelly, Johnny Cash, Elizabeth Taylor, and Robert Carradine. If you can drop the estimate bid price of $600 – $800, you can have a cooler Civil War reenactment costume than all of your friends.
+
+8. Patrick's Ford King Ranch Pickup TruckIf you're in the market for transportation and a DeLorean isn't really your style, your next option might be Patrick Swayze's personal King Ranch pickup truck. Here's the thing, though. There's a super touching story behind his car. The listing says that, "On the morning of Patrick Swayze's 53rd birthday in 2005, his wife parked this truck right outside their kitchen window where he got his first cup of coffee. He grinned, and knew it was his right away. He loved everything about it, dubbing it ‘The Cowboy Cadillac.' It was his daily driver." So, anyways. If you can handle the emotions, and if you can afford the estimate bid of $8,000 – $12,000, bid away.
+
+9. Patrick's Harley Davidson Motorcycle Your final transport option from Patrick's estate is somewhere between the everyday pickup truck and the ostentatious DeLorean: a nice, kickass Harley Davidson driven by Mr. Swayze himself. Sure, the bid estimate is between $8,000 – $10,000. And so what if the current bid is already up to $7,500? There are probably very few things on this earth that are actually this cool. Did we mention the bike boasts a fiery red paint job? Again, we say: incredibly cool.
+
+10. Patrick's Gold Pocket Watch This last item might be a little more delicate than the rest of the items, but don't  let it fool you. Maybe it has less of a cinematic history, but it's sure worth something. Patrick's Patek Philippe pocket watch is made of 18K yellow gold, circa 1915, and is estimated to sell for $8,000 – $10,000. It also goes to show the huge range in the types of things that are up for auction in the Swayze estate.
+
+Other interesting items that are up for sale include African drums and spears, a range of rustic furniture, western horse sculptures, a variety of horse saddles, neck ties, cowboy boots, decorative pieces, and other personal items, all of which are up for auction at Julien's Live. Bid online or head to the auction in person in LA on April 28.
+/n

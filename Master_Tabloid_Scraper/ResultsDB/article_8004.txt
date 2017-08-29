@@ -1,0 +1,42 @@
+Ranking Christina Aguilera's Live Duets, From Ariana Grande to Fred Durst It's no secret that Christina Aguilera has powerhouse vocals, and while her solo performances are always amazing, sometimes her duets go one step further and.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/767766/ranking-christina-aguilera-s-live-duets-from-ariana-grande-to-fred-durst');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016412/rs_634x1024-160512085347-634-christina-aguilera-rebels-with-a-cause-051116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Christina Aguilera");
+	var imageCaption = encodeURIComponent("Christina Aguilera");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Benjamin Shmikler/ABImages
+
+It's no secret that Christina Aguilera has powerhouse vocals, and while her solo performances are always amazing, sometimes her duets go one step further and truly take performances to the next level.Ariana Grande and Christina performed "Dangerous Woman" on The Voice Tuesday, where both songstresses brought everything they had to offer—belting, dancing and a genuinely great show. Christina's rendition got us thinking a couple of things: 1) It's time for the "Beautiful" singer to stage her comeback and release a new album and 2) All of her other great live duets.Christina has teamed up with plenty of A-listers before and obviously will again, but we decided to look back at some of her more iconic ones and rank them.
+/n

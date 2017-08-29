@@ -1,0 +1,44 @@
+Sienna Miller Time in Sherwood Forest Sienna Miller is reporting for maiden duty. The British starlet says that she has signed on to play Maid Marian in the upcoming Ridley Scott film Nottingham, a fractured take on the classic tale of phila.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/2117/sienna-miller-time-in-sherwood-forest');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080226/293.miller.sienna.022608.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sienna Miller");
+	var imageCaption = encodeURIComponent("Sienna Miller");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jeff Vespa/WireImage.com
+
+Sienna Miller is reporting for maiden duty.The British starlet says that she has signed on to play Maid Marian in the upcoming Ridley Scott film Nottingham, a fractured take on the classic tale of philanthropic swashbuckler Robin Hood and his band of Merry Men.
+
+In Scott and screenwriter Brian Helgeland's version, Russell Crowe, who has been attached to the project for more than a year, will play the historically wretched Sheriff of Nottingham as a good guy investigating a series of crimes committed by Robin and his cohorts."It's happening. I just found out. It's the most exciting news in the world," Miller told the BBC."It's ridiculous," she added, calling the chance to work with Crowe and Scott "as good as it gets.""But there's this looming actors' strike, so it's not 100 percent sure that it's going to be made, but it's looking pretty certain."Scott just finished directing Crowe for the fourth time in the CIA thriller Body of Lies.
+/n

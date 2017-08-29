@@ -1,0 +1,77 @@
+Chanel West Coast Host The Release Of Her New Mixtape "Waves" Presented By Weedmaps/n
+
+					var next_post_url = "http://radaronline.com/photos/josh-duggar-cheating-anna-duggar-sex-scandal-extreme-religion-ubringing-secrets/";
+					var prev_post_url = "http://radaronline.com/photos/tv-reporter-shooting-alison-parker-photos-virginia-boyfriend-chris-hurst-vester-flanagan/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2015-08-26T14:24:45+00:00","caption":"Chanel West Coast and Mara Teigen attend Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:47+00:00","caption":"Chanel West Coast attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:48+00:00","caption":"Mara Teigen attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:49+00:00","caption":"&nbsp;Jacob Cunningham and Alex Leon of Weedmaps, Chanel West Coast and Jonathan Jones of Weedmaps attend Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:50+00:00","caption":"Shay Maria attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:51+00:00","caption":"Paul Pratt attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:52+00:00","caption":"DJ Kittie performs at Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.&nbsp;","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2015-08-26T14:24:54+00:00","caption":"Lady Victoria Harvey attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2015\/08\/chanel-west-release-mixtape-waves-weedmaps-7.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Chanel West Coast Host The Release Of Her New Mixtape “Waves” Presented By Weedmaps
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8chanel-west-release-mixtape-waves-weedmaps-6Chanel West Coast and Mara Teigen attend Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 2 of 8chanel-west-release-mixtape-waves-weedmaps-5Chanel West Coast attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 3 of 8chanel-west-release-mixtape-waves-weedmaps-4Mara Teigen attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 4 of 8chanel-west-release-mixtape-waves-weedmaps-3 Jacob Cunningham and Alex Leon of Weedmaps, Chanel West Coast and Jonathan Jones of Weedmaps attend Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8chanel-west-release-mixtape-waves-weedmaps-2Shay Maria attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 6 of 8chanel-west-release-mixtape-waves-weedmaps-1Paul Pratt attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California.  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8chanel-west-release-mixtape-waves-weedmaps-0DJ Kittie performs at Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 8 of 8chanel-west-release-mixtape-waves-weedmaps-7Lady Victoria Harvey attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+chanel-west-release-mixtape-waves-weedmaps-6Chanel West Coast and Mara Teigen attend Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-5Chanel West Coast attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-4Mara Teigen attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-3 Jacob Cunningham and Alex Leon of Weedmaps, Chanel West Coast and Jonathan Jones of Weedmaps attend Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-2Shay Maria attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-1Paul Pratt attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-0DJ Kittie performs at Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. chanel-west-release-mixtape-waves-weedmaps-7Lady Victoria Harvey attends Weedmaps Presents A Special Performance By Chanel West Coast at The Roosevelt Hotel on August 25, 2015 in Hollywood, California. 
+
+
+
+
+
+
+
+
+
+/n

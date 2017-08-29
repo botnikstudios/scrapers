@@ -1,0 +1,46 @@
+Smallville Bosses Spill: Allison Mack's Return Is "Badass"! She's ba-ack! And if we're to believe the brilliant brains behind Smallville (which we do, of course!), Allison Mack's triumphant return to the CW seri.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/212004/smallville-bosses-spill-allison-mack-s-return-is-badass');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201094/293.smallville.lc.100410.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Justin Hartley, Allison Mack, Smallville");
+	var imageCaption = encodeURIComponent("Justin Hartley, Allison Mack, Smallville");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jack Rowand/The CW
+
+She's ba-ack!And if we're to believe the brilliant brains behind Smallville (which we do, of course!), Allison Mack's triumphant return to the CW series will not disappoint (that means you, "Chlollie" fans). Here's what the big bosses told us...
+
+"Chloe's return is actually really fun because she comes back badass," show runner Brian Peterson says with a laugh.Wait, badass like with supernatural powers, or badass like Chloe is just an all around awesome chick?!"She already went though her supernatural moment seasons ago," Brian assures us, "so she comes back as  very true to the character that she is, as a very strong person but still  very much Chloe.""She doesn't need anything supernatural to make her  badass," adds fellow Smallville braintrust Kelly Souders.Don't worry, Smallville shippers, there are some goodies ahead for you, too—besides that amazing Clois engagement we revealed yesterday!"There's a lot of Chlollie relationship threads that need to be figured out  because she did leave pretty abruptly," Brian tells us.Um, those are sexy, lovey-dovey threads, right? "Yes, Chlollie fans will be happy," Kelly tells us. "There's some undeniable chemistry between  the two of them, so no matter what problems they may have, it's hard for them to  keep their hands off each other." Win.Alison turns up on Smallville in episode 12—one of the handful of episodes she'll take part in during the final season.
+
+And there are other returns to look forward to, like this Friday's resurfacing of Aquaman (Alan Richman)."What's fun is the episode has two sides to it," says Brian. "One is the return of Aquaman and  what's really exciting is he comes back with his wife Mera. We have this storyline with the heroes, with Oliver and A.C.  and with Clark and Mera. But there's also the relationship aspect as Lois  tries to find her way in Clark's life and sees  Aquaman with his own wife."Hey, anytime we've got Lois thinking about becoming Mrs. Kent and Chloe coming back for a sexy rendezvous with Oliver, we are good. You?
+/n

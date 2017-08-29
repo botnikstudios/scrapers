@@ -1,0 +1,52 @@
+afectado su personalidad. Al mismo tiempo que escapa de la cárcel, pierde sus pantalones y se divierte de lo lindo con una botella en mano, alguien irá tras sus pasos para cobrar venganza. Ese alguien será Salazar (Bardem). No sabemos si Pen.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/833362/-mira-a-johnny-depp-sin-pantalones-en-el-nuevo-adelanto-de-piratas-del-caribe-los-hombres-muertos-no-cuentan-cuentos');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201722/rs_634x939-170302063846-634.Pirates-Poster-FB-030217.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Pirates of the Caribbean: Dead Men Tell No Tales, Johnny Depp, Poster");
+	var imageCaption = encodeURIComponent("Pirates of the Caribbean: Dead Men Tell No Tales, Johnny Depp, Poster");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Walt Disney Studios
+
+¿Listos para una nueva aventura marina?
+
+Uno de los estrenos más esperados de este verano es Piratas del Caribe: Los hombres muertos no cuentan cuentos, y no sólo por el regreso de algunos miembros del elenco original, como Orlando Bloom, o por la participación del español Javier Bardem, sino por la presencia de Johnny Depp, quien nunca deja de meterse en problemas, al menos cuando interpreta al Capitán Jack Sparrow.E! NEWS > Logan, Piratas del Caribe y más: Todos los tráilers que se estrenaron durante el Super Bowl (+ Videos)En el más reciente trailer, lanzado en exclusiva durante el show de Ellen DeGeneres, el ganador del Oscar, Bardem, da vida al Capitán Salazar, el nuevo temible enemigo de Sparrow. Ambos se enfrentarán por el tesoro mítico de Poseidón.
+
+
+
+AP Photo/Matt Sayles
+
+Como es tradición, el capitán más ocurrente y etílico de la franquicia de Disney luce como si los años no hubieran pasado por él o afectado su personalidad.Al mismo tiempo que escapa de la cárcel, pierde sus pantalones y se divierte de lo lindo con una botella en mano, alguien irá tras sus pasos para cobrar venganza. Ese alguien será Salazar (Bardem).No sabemos si Penélope Cruz retomará su personaje de Angélica para apoyar a su esposo de la vida real en esta venganza, pero sí que al ser la quinta y última película de la franquicia, Piratas del Caribe: Los hombres muertos no cuentan cuentos podría convertirse en el amuleto de la suerte que la carrera de Depp ha buscado urgentemente.E! NEWS > ¿Por qué Johnny Depp es el actor menos rentable de Hollywood? ¡Aquí tienes la respuesta!
+
+Recordemos que la anterior película de la franquicia se vio opacada por el escandaloso divorcio del actor con Amber Heard. Éste podría ser un borrón y cuenta nueva en su carrera.Muchos han dicho que Depp no es un gancho en taquilas y que debería retirarse, pero no todos piensan igual.E! NEWS > Amber Heard Vs. Johnny Depp: Un nuevo y duro round en el divorcio complica al actor."Creo que Johnny ha invertido mucho tiempo construyendo su carrera, y mucha gente ha salido en su defensa después de lo sucedido. Así que dudo mucho que el pasado lo lastime", compartió Ashley Cullins, reportera de The Hollywood Reporter con E! News"(Johnny) ha estado involucrado en el proyecto sobre H.G .Wells, en la película de El Hombre Invisible; preparándose para la secuela de Gnomeo y Julieta. En fin, no creo que mucha gente siga hablando del desastroso divorcio con Amber Heard" afirma Cullins.
+/n

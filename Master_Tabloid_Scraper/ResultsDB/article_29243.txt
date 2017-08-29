@@ -1,0 +1,48 @@
+Reign Scoop: Adelaide Kane Previews a "Big Rift" in Mary and Francis' Marriage—Who's Coming Between Them? Who says married couples are boring?! In a surprising move no one saw coming, Reign decided to have Mary (Adelaide .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/530473/reign-scoop-adelaide-kane-previews-a-big-rift-in-mary-and-francis-marriage-who-s-coming-between-them');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014310/rs_634x1024-140410083542-634.reign-.ls.41014.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Reign");
+	var imageCaption = encodeURIComponent("Reign");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ben Mark Holzberg/The CW 
+
+Who says married couples are boring?!In a surprising move no one saw coming, Reign decided to have Mary (Adelaide Kane) and Francis (Toby Regbo) marry midway through the first season, refusing to play slow and steady with their storylines. And guess what? The bold decision paid off as their marriage has provided even more juicy drama than their will-they-or-won't-they tension prior to the wedding.We chatted with Reign's leading lady Adelaide Kane about tonight's all-new episode of the CW drama, all of the threats to their marriage, including Mary's "residual feelings" for Bash (Torrance Coombs), Francis' half-brother and her former fiancée, and the arrival of two new family members...
+
+In the most recent episode, viewers were blindsided when King Henry forced Bash and Kenna (Caitlin Stasey) to get married, as a shell-shocked Mary and Francis watched. So how will Mary deal with the quickie marriage of her former flame and her BFF?"I think it was very unsettling for Mary. I think she fully didn't expect him to marry, honestly, or she expected not having to deal with seeing him around the castle day to day and certainly not see him get married to one of her best friends," Kane explains. "I think future interactions between Mary and Bash will cause tension between Mary and Francis, and between Kenna and Bash, as Kenna and Bash try to make this new marriage that has been sort of unwillingly thrust upon them work, and then there's the old rivalry and jealousy between Francis and Sebastian."And the jealousy might be warranted, as Kane reveals Mary will "always have some residual feelings for Sebastian."
+
+But the French Court's hottest Bastard may be the least of the royal couple's problems as Kane previews, "Sebastian isn't the only threat to her marriage that crops up in the next couple of episodes.Her main focus at the moment is trying to get pregnant, trying to have an heir," Kane continues. "In addition to that, there's still the ever-present threat of the Darkness, of the English, and then we sort of introduce the threat of civil war as well as the season goes on, not just in Scotland, but in France that she has to deal with. She's juggling a lot of plates." And Mary will also be juggling two new men: Her uncle, the Duke of Guise (Gil Darnell), and her brother, James (Joe Doyle), who will appear later this season to stir up some family drama when they both urge her to return to Scotland, impacting her relationship with Francis.
+
+"He sort of arrives with some bad news about some unrest in Scotland and tries to convince Mary to come home to Scotland to deal with it herself," Kane previews of James' appearance. "Francis becomes somewhat suspicious of his motives and suspects sort of a plot behind his eagerness to get Mary away from French Court. He ends up having a really large altercation with Mary and ends up pulling some really incredible shit on her that causes some serious strain and a big rift in their marriage."As for her uncle, Kane teases, " He arrives with some really terrible news about my mother and Scotland and I have to make some pretty hard decisions and sort of work out a deal to salvage the situation, and Mary and Francis end up being torn between putting their own countries first or acting as a team and saving their marriage."Reign airs tonight at 9 p.m. on the CW.—Reporting by Leanne Aguilera
+/n

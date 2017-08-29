@@ -1,0 +1,46 @@
+EXCLUSIVE! Courtney B. Vance and Angela Bassett Define #RelationshipGoals at 2016 Emmys It was Bassett, however, showing her support for her husband's work that really made us swoon. "I count it a blessing that we had an opportunit.../n
+Before Courtney B. Vance gave wife Angela Bassett the ultimate tribute when he won the Emmy for Outstanding Lead Actor in a Limited Series or Movie for his performance as Johnnie Cochran in The People v. O.J. Simpson at the 2016 Emmys, he and Bassett proved they're the best couple.E! News' Giuliana Rancic caught up with Vance and Bassett on the red carpet where Vance opened up about his award-winning role. "People are crazy. People want to know more. They want an epilogue," Vance joked. "They want another episode!"But it was becoming Cochran that Vance felt to be the most difficult part of his job. "I think trying to figure out how to get in," he explained to G. "He was such a huge, well-known person. How do you jump into Tina Turner? How do you jump into Ray Charles? That's the difficulty."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/795885/courtney-b-vance-and-angela-bassett-define-relationshipgoals-at-2016-emmys');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016818/rs_634x1024-160918164923-634.Courtney-B.-Vance-Angela-Bassett-2016-Emmy-Awards.kg.091816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Courtney B. Vance, Angela Bassett, 2016 Emmy Awards, Couples");
+	var imageCaption = encodeURIComponent("Courtney B. Vance, Angela Bassett, 2016 Emmy Awards, Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Photo by Steve Granitz/WireImage
+
+It was Bassett, however, showing her support for her husband's work that really made us swoon. "I count it a blessing that we had an opportunity to spend a little bit of time in [Cochran's] company and feel his energy, his aura, his spirit all over you, and he was bigger than life," Bassett said of Cochran. "He was full of passion. He was full of love and love for humanity as well, and I think you captured it."Aww!"I just look at you, and I'm just very, very proud," Bassett added. 
+
+When Vance accepted his Emmy later that night, he returned the favor and gushed about his talented wife. "To the woman who rocks my chain. Angela Evelyn Bassett, this one is for you girl!" he said during his acceptance speech.He didn't stop there, either. Before the Emmys, Vance shared a picture of his wife slaying the red carpet and tweeted, "Who's hotter at the@Emmys tonite? The sun, or my wife @ImAngelaBassett?#alreadywonwhenshesaidyes."
+/n

@@ -1,0 +1,47 @@
+Is That You, Lila Grace? Kate Moss Hits the Paddington Movie Premiere With Her Look-Alike Daughter—See the Pic! This mother and daughter look so much alike that we're tempted to call them a sister act. Kate Moss made a red carpet appear.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/600802/is-that-you-lila-grace-kate-moss-hits-the-paddington-movie-premiere-with-her-look-alike-daughter-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141024/rs_634x1024-141124123004-634-kate-moss-lila-grace-paddington-premiere.jw.112414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kate Moss,  Lila Grace, Paddington Premiere");
+	var imageCaption = encodeURIComponent("Kate Moss,  Lila Grace, Paddington Premiere");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mark Cuthbert/UK Press via Getty Images
+
+This mother and daughter look so much alike that we're tempted to call them a sister act.Kate Moss made a red carpet appearance on Nov. 23 at the London premiere of the new film Paddington with her daughter Lila Grace, 12, and one of Lila's friends in tow. This marks the first time that Moss has attended a red carpet premiere with Lila, who really, really looks like her mom. (Lila's father is Moss' ex-boyfriend Jefferson Hack.)Kate's mini-me wore plaid pants, a cropped tee, layered jackets and Ash wedge sneakers (so punk chic). Her hair was pulled back into a ponytail (all the better for us to glimpse the strong resemblance to mom). Kate made a casual but stylish appearance in all-black—sporting skinnies, leather boots and a well-tailored peacoat.
+
+And it looks like the premiere's rainy weather didn't get the group down: Lila Grace and Kate were all smiles in front of the cameras as Kate propped up a bubble umbrella to shield the girls from getting wet.Kate and Lila bring to mind another mother-daughter pair that made us do a major double take: Cindy Crawford and her 13-year-old daughter, Kaia Gerber. Last month, Kaia took to Instagram with photos that showed her posing in her mom's old designer duds.While Kaia has flexed her modeling genes with a campaign for Young Versace, Lila Grace has yet to formally enter the fashion world. But with those looks, we imagine it might only be a matter of time.
+
+PHOTOS: See celebs' early modeling photos
+/n

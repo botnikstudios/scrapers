@@ -1,0 +1,46 @@
+Dolly Parton Celebrates Her 50th Wedding Anniversary to Carl Dean With Glamorous Vow Renewal Ceremony Dolly Parton and Carl Dean are ready to celebrate their love! As Memorial Day weekend came to a close Monday evening, the country singer and her hus.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/768883/dolly-parton-celebrates-her-50th-wedding-anniversary-to-carl-dean-with-glamorous-vow-renewal-ceremony');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201633/rs_634x1024-160403153625-634.Dolly-Parton-ACM-tt-040316-.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Dolly Parton, ACM 2016");
+	var imageCaption = encodeURIComponent("Dolly Parton, ACM 2016");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+David Becker/Getty Images
+
+Dolly Parton and Carl Dean are ready to celebrate their love!As Memorial Day weekend came to a close Monday evening, the country singer and her husband marked their 50th wedding anniversary by renewing their vows in a special Nashville ceremony.Dolly's creative director and clothing designer Steve Summers helped designed her dress while Carl opted for a classic suit."How many people can say they've been married 50 years? We've made it this long, we need to do it again," Dolly joked to Rolling Stone days before the anniversary. "I've always wanted a big beautiful dress, the whole thing."Dolly also hinted to the publication that she will be receiving a new ring and photos from the big day will be released to help benefit Imagination Library."If I had it to do all over, I'd do it all over again, and we did," says Dolly Parton of marrying her husband. "I'm dragging him kicking and screaming into the next 50 years. Wish us luck. In all honesty, the only way I was able to get Carl to do any of this in the first place was that it was a great opportunity for us to raise money for some very worthy causes."
+
+Before the couple's milestone hit this weekend, fans got to look back at the pair's lasting relationship including where it all began.According to Dolly's official website, the twosome met outside the Wishy Washy Laundromat in Nashville on the first day she moved to the famous music city. Two years after that special day, the couple married in a simple, private ceremony with only a preacher and his wife in attendance."Nearly every aspect of Dolly and Carl's personalities compliment one another. While one would think Dolly would be the most entertaining of the two, she often says that it's Carl's unique sense of humor which keeps her laughing," the site stated. "Given Dolly's larger-than-life outlook on everything, it makes perfect sense that her one-and-only would be equally as special in every way."
+
+Fans will be able to celebrate the anniversary beginning July 1 when Dolly's wedding dress and Carl's suit will be put on display at Dolly's Chasing Rainbows Museum at Dollywood."He's always been supportive. He's like a brother and a father and a friend and a husband and a lover – all of those things to me," Dolly recently shared with People when asked about her husband. " I think he's kind of proud that we've been in it this long!"Congratulations to the couple on their milestone.
+/n

@@ -1,0 +1,87 @@
+Viola Davis Shares Personal Stories During Rape Treatment Center Foundation Event/n
+
+					var next_post_url = "http://radaronline.com/photos/rhoc-kelly-dodd-birthday-party-vicki-gunvalson-gretchen-rossi-lizzie-rovsek-photos/";
+					var prev_post_url = "http://radaronline.com/photos/blac-chyna-rob-kardashian-fighting-photos-rehab-before-baby-no-unsupervised-time-breakup/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-09-29T22:00:22+00:00","caption":"Hollywood stars, producers, studio heads, the Police Chief and Mayor of Los Angeles all came out to support The Rape Center Foundation at the home of billionaire Ron Burkle in Beverly Hills, Ca. Click through the gallery for photos of Viola Davis and the other honorees and supporters at the annual fundraiser.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:23:28+00:00","caption":"Oscar nominated actor Viola Davis was honored at The Rape Foundation\u2019s Annual Brunch at a private estate in Beverly Hills on September 25, 2016. She explained her dedication to the organization and recalled her sister\u2019s attack as a child and the devastation it left for her family. \u201cMy sister Danielle was 8 years old when she was on roller skates and went down to the corner store at 1 o'clock in the afternoon and was sexually assaulted in the aisles. She told my mom right away \u2013 my mom ran down to the store. The store owner's response was: 'He does that to all the little girls.' My mom flagged down the police, and the perpetrator did pay. He paid. He was fined $10 a month. It's over for him, but I'd like to redefine survivor.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-27.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:17:57+00:00","caption":"Former Paramount Studio head Sherry Lansing stood with TRC founder Gail Abarbanel.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:17:58+00:00","caption":"Mayor Eric Garcetti and Los Angeles Chief of Police Charlie Beck attended the event.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:00+00:00","caption":"Philanthropist Cheryl Saban was honored for her inspiration leadership and extraordinary impact on helping the organization raise the millions needed to function annually as well as open the new facility.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:02+00:00","caption":"David Schwimmer \u00a0was the MC for the event and joked with the crowd before telling them about his long-standing relationship with TRC in his opening speech. \u201cThe debates are on Monday,\u201d he said.\u00a0\u201cI\u2019m Team Aniston.\u201d Fresh off his portrayal of Robert Kardashian in The People Vs. O.J. Simpson he also joked to the crowd about playing a Kardashian. \u201cI gained 20 pounds in my booty, I haven\u2019t lost the weight yet,\u201d he said. His comedic introduction was followed by his heartfelt explanation for supporting the worthwhile cause.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-26.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:04+00:00","caption":"Vampire Diaries star Nina Dobrev was stunning in her white flowered dress as she supported the foundation.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:07+00:00","caption":"TR Knight and Patrick Leahy attended the event.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:09+00:00","caption":"The cast from How To Get Away With Murder attended the event and supported Davis as she was honored by the organization.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:10+00:00","caption":"Anna Lynne McCord wore all white to the event.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:14+00:00","caption":"Bones actress Tamara Taylor attended the event.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:16+00:00","caption":"Private Practice star KaDee Strickland was a guest at the star-studded brunch.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-29T21:18:23+00:00","caption":"HTGAWM star Alfred Enoch supported his co-star Davis when she received the honor by TRC Foundation.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/viola-davis-david-schwimmer-rape-foundation-annual-brunch-17.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Viola Davis Shares Personal Stories During Rape Treatment Center Foundation Event
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 13 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 13viola-davis-david-schwimmer-rape-foundation-annual-brunch-ppHollywood stars, producers, studio heads, the Police Chief and Mayor of Los Angeles all came out to support The Rape Center Foundation at the home of billionaire Ron Burkle in Beverly Hills, Ca. Click through the gallery for photos of Viola Davis and the other honorees and supporters at the annual fundraiser.2 of 13viola-davis-david-schwimmer-rape-foundation-annual-brunch-27Oscar nominated actor Viola Davis was honored at The Rape Foundation’s Annual Brunch at a private estate in Beverly Hills on September 25, 2016. She explained her dedication to the organization and recalled her sister’s attack as a child and the devastation it left for her family. “My sister Danielle was 8 years old when she was on roller skates and went down to the corner store at 1 o'clock in the afternoon and was sexually assaulted in the aisles. She told my mom right away – my mom ran down to the store. The store owner's response was: 'He does that to all the little girls.' My mom flagged down the police, and the perpetrator did pay. He paid. He was fined $10 a month. It's over for him, but I'd like to redefine survivor."3 of 13The Rape Foundation’s Annual BrunchFormer Paramount Studio head Sherry Lansing stood with TRC founder Gail Abarbanel.4 of 13The Rape Foundation’s Annual BrunchMayor Eric Garcetti and Los Angeles Chief of Police Charlie Beck attended the event. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 13The Rape Foundation’s Annual BrunchPhilanthropist Cheryl Saban was honored for her inspiration leadership and extraordinary impact on helping the organization raise the millions needed to function annually as well as open the new facility.6 of 13The Rape Foundation’s Annual BrunchDavid Schwimmer  was the MC for the event and joked with the crowd before telling them about his long-standing relationship with TRC in his opening speech. “The debates are on Monday,” he said. “I’m Team Aniston.” Fresh off his portrayal of Robert Kardashian in The People Vs. O.J. Simpson he also joked to the crowd about playing a Kardashian. “I gained 20 pounds in my booty, I haven’t lost the weight yet,” he said. His comedic introduction was followed by his heartfelt explanation for supporting the worthwhile cause. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 13The Rape Foundation’s Annual BrunchVampire Diaries star Nina Dobrev was stunning in her white flowered dress as she supported the foundation.8 of 13The Rape Foundation’s Annual BrunchTR Knight and Patrick Leahy attended the event. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 13The Rape Foundation’s Annual BrunchThe cast from How To Get Away With Murder attended the event and supported Davis as she was honored by the organization.10 of 13The Rape Foundation’s Annual BrunchAnna Lynne McCord wore all white to the event. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 13The Rape Foundation’s Annual BrunchBones actress Tamara Taylor attended the event.12 of 13The Rape Foundation’s Annual BrunchPrivate Practice star KaDee Strickland was a guest at the star-studded brunch. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 13The Rape Foundation’s Annual BrunchHTGAWM star Alfred Enoch supported his co-star Davis when she received the honor by TRC Foundation. 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+viola-davis-david-schwimmer-rape-foundation-annual-brunch-ppHollywood stars, producers, studio heads, the Police Chief and Mayor of Los Angeles all came out to support The Rape Center Foundation at the home of billionaire Ron Burkle in Beverly Hills, Ca. Click through the gallery for photos of Viola Davis and the other honorees and supporters at the annual fundraiser.viola-davis-david-schwimmer-rape-foundation-annual-brunch-27Oscar nominated actor Viola Davis was honored at The Rape Foundation’s Annual Brunch at a private estate in Beverly Hills on September 25, 2016. She explained her dedication to the organization and recalled her sister’s attack as a child and the devastation it left for her family. “My sister Danielle was 8 years old when she was on roller skates and went down to the corner store at 1 o'clock in the afternoon and was sexually assaulted in the aisles. She told my mom right away – my mom ran down to the store. The store owner's response was: 'He does that to all the little girls.' My mom flagged down the police, and the perpetrator did pay. He paid. He was fined $10 a month. It's over for him, but I'd like to redefine survivor."The Rape Foundation’s Annual BrunchFormer Paramount Studio head Sherry Lansing stood with TRC founder Gail Abarbanel.The Rape Foundation’s Annual BrunchMayor Eric Garcetti and Los Angeles Chief of Police Charlie Beck attended the event.The Rape Foundation’s Annual BrunchPhilanthropist Cheryl Saban was honored for her inspiration leadership and extraordinary impact on helping the organization raise the millions needed to function annually as well as open the new facility.The Rape Foundation’s Annual BrunchDavid Schwimmer  was the MC for the event and joked with the crowd before telling them about his long-standing relationship with TRC in his opening speech. “The debates are on Monday,” he said. “I’m Team Aniston.” Fresh off his portrayal of Robert Kardashian in The People Vs. O.J. Simpson he also joked to the crowd about playing a Kardashian. “I gained 20 pounds in my booty, I haven’t lost the weight yet,” he said. His comedic introduction was followed by his heartfelt explanation for supporting the worthwhile cause.The Rape Foundation’s Annual BrunchVampire Diaries star Nina Dobrev was stunning in her white flowered dress as she supported the foundation.The Rape Foundation’s Annual BrunchTR Knight and Patrick Leahy attended the event.The Rape Foundation’s Annual BrunchThe cast from How To Get Away With Murder attended the event and supported Davis as she was honored by the organization.The Rape Foundation’s Annual BrunchAnna Lynne McCord wore all white to the event.The Rape Foundation’s Annual BrunchBones actress Tamara Taylor attended the event.The Rape Foundation’s Annual BrunchPrivate Practice star KaDee Strickland was a guest at the star-studded brunch.The Rape Foundation’s Annual BrunchHTGAWM star Alfred Enoch supported his co-star Davis when she received the honor by TRC Foundation. 
+
+
+
+
+
+
+
+
+
+/n

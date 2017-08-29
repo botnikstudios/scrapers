@@ -1,0 +1,42 @@
+Deadliest Catch is fighting for his life. Phil Harris remains hospitalized in Alaska after suffering a stroke Friday while offloading his vessel, the Cornelia Marie. "Captain Phil is resting comfortably and is in the care of excellent d.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/165088/deadliest-catch-s-captain-phil-suffers-stroke');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20100201/293.deadlistcatch.harris.phil.lc.020110.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Phil Harris, Deadliest Catch");
+	var imageCaption = encodeURIComponent("Phil Harris, Deadliest Catch");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Discovery Channel
+
+One of the death-defying crab-boat captains of Deadliest Catch is fighting for his life.Phil Harris remains hospitalized in Alaska after suffering a stroke Friday while offloading his vessel, the Cornelia Marie."Captain Phil is resting comfortably and is in the care of excellent doctors and nurses," reads an update on the Discovery Channel show's website.Harris has been a fixture on the reality show since its debut. His health became a major storyline during the 2008 season, when he was sidelined after a blod clot passed through his lungs. Doctors said the pulmonary embolism could have killed him.Harris has skippered the Cornelia Marie for nearly two decades, with sons Josh and Jake serving as deckhands in recent years.Both are with Harris in the hospital, according to the network, and they "thank everyone for their heartfelt thoughts and prayers."(Originally published Feb. 1, 2010, at 2:21 p.m. PT)
+/n

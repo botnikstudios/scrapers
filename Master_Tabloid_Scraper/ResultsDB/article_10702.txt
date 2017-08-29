@@ -1,0 +1,46 @@
+Jim Carrey Releases Powerful Statement After Late Girlfriend Cathriona White's Husband Files Wrongful Death Lawsuit Jim Carrey is not going to fight this wrongful death lawsuit quietly. A new lawsuit filed by the husband of Carrey'.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/796107/jim-carrey-releases-powerful-statement-after-late-girlfriend-cathriona-white-s-husband-files-wrongful-death-lawsuit');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015829/rs_634x754-150929163151-634-jim-carrey-cathriona-white.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jim Carrey, Cathriona White");
+	var imageCaption = encodeURIComponent("Jim Carrey, Cathriona White");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+MaxNY/FAMEFLYNET PICTURES 
+
+Jim Carrey is not going to fight this wrongful death lawsuit quietly.A new lawsuit filed by the husband of Carrey's late girlfriend, Mark Burton, claims the comedian illegally obtained prescription drugs for Cathriona White, and instead of tackling this legal battle behind closed doors, Carrey has decided to release a statement to highlight what he calls "the evil in this world.""What a terrible shame. It would be easy for me to get in a back room with this man's lawyer and make this go away, but there are some moments in life when you have to stand up and defend your honor against the evil in this world," Carrey's statement, which was obtained by E! News, began."I will not tolerate this heartless attempt to exploit me or the woman I loved. Cat's troubles were born long before I met her and sadly her tragic end was beyond anyone's control. I really hope that some day soon people will stop trying to profit from this and let her rest in peace."
+
+According to the suit, White, who committed suicide last September, was allegedly receiving prescription drugs from Carrey, who used the "bogus name" Arthur King to obtain the illicit drugs.Burton, who was separated from White during the time of her death, is suing for wrongful death and violation of the drug dealer liability act. Burton claims Carrey gave her the drugs "despite the fact that he knew full well that Ms. White was ill equipped to ingest and manage highly addictive prescription drugs outside the care of a licensed physician; was prone to depression; and had previously attempted to take her own life," according to court documents obtained by E! News.So what does this mean for Carrey? Legal expert Troy Slaten tells E! News that the big issue for the actor here is "one of money. Even if Jim Carrey loses this lawsuit, he does not face any jail time arising out of this civil litigation. Because the courts are so backlogged in the county of Los Angeles, it takes at least three years for a civil lawsuit to proceed to a jury trial."Slaten continues, "To prevail in this civil wrongful death lawsuit, the plaintiff must prove that Jim Carrey was the 'proximate cause' of this woman's death...In order for the police to investigate Jim Carrey on this matter, they have to believe that, one, a crime occurred and, two, Carrey likely committed the crime."After the police fully investigate a case, they present it to the district attorney with a recommendation. It's up to the district attorney to decide whether and what kind of criminal charges are to be filed."—Reporting by Holly Passalaqua
+
+If you or someone you know needs help, please call the National Suicide Prevention Lifeline at 1-800-273-TALK (8255).
+/n

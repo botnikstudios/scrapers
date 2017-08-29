@@ -1,0 +1,46 @@
+Beauty Police: Krysten Ritter Hits the Red Carpet in an Elvira Wig (We’re Hoping It’s a Wig) Full Disclosure—Krysten Ritter was attending the "Los Angeles Haunted Hayride" opening night in this photo but we swear she wasn't pa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/470004/beauty-police-krysten-ritter-hits-the-red-carpet-in-an-elvira-wig-we-re-hoping-it-s-a-wig');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013914/rs_634x1024-131014123946-634.krysten-ritter-haunted-hayride-beauty.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Krysten Ritter");
+	var imageCaption = encodeURIComponent("Krysten Ritter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Imeh Akpanudosen/Getty Images
+
+Full Disclosure—Krysten Ritter was attending the "Los Angeles Haunted Hayride" opening night in this photo but we swear she wasn't part of the show.  Listen, we know she naturally has very dark hair but we would bet our Marc Jacobs makeup collection that she colors it that saturated black.  We have nothing against the color of her jet-black tresses, but come on, that hairstyle is a bit harsh, no?  It's just so big and wig-like and we can't help but draw comparisons to Elvira: Mistress of the Dark. You have to admit she could at least star as Elvira's daughter.We do love her creamy alabaster skin and how that cherry lip stain makes her lips look "just bitten." We would have definitely put her in different eye makeup though. The black liquid liner is way too severe against her pale skin, especially with that pile of black hair.She's also wearing a pink eye shadow, which just makes her look a little sickly.  It's hard to pull off pink or red eye shadow when your skin is that light. Just look at Rooney Mara. Does she ever look like the picture of health when she wears that red eye makeup? We think not.
+
+Beauty Bailout: If Krysten is going to insist on making her dark hair even blacker, then she needs to bring back the whimsical blunt bangs and loose waves. This just isn't working for a 31-year-old woman who isn't in costume.As for the makeup, we obviously wouldn't change a thing about her creamy skin except maybe just add the tiniest bit of peach blush to make her look less like a cadaver (did we just say that out loud?). We would have lightly swept her cheeks with a light peach powder blush like NYX Cosmetics Powder Blush in Peach. We would have loved to play up the green in Krysten's eyes with a matching green eyeliner.  After priming her upper eye area, we would have covered her entire upper eye area with a creamy or neutral eye shadow.  Then, we would have used SEPHORA COLLECTION Retractable Waterproof Eyeliner in Shimmering Jade to line her upper lash line, making the line thicker as it got towards the outer corners.Next, just to add a little fun, we would wing the eyeliner out towards her eyebrows. We would complete the eyes with 2-3 coats of a volume-building mascara.
+
+To get Krysten's just bitten lips, make sure you start by exfoliating lips with a sugar scrub or your toothbrush. (Not only will exfoliating ensure your lip color goes on evenly but it actually plumps your lips too!)You want to apply a tinted lip treatment to get Krysten's look. Otherwise, you risk dropping too much pigment, making the lips way too dramatic.  Our favorite is Fresh Sugar Cherry Tinted Lip Treatment SPF 15, which hydrates and protects lips, but definitely gives that "just bitten" juiciness.We're going to feel like total jerks if we find out Krysten wore her hair like this because she's actually trying out for a role as a Goth porn star.  But if that's not the case, then quite frankly we're a little scared for the neighborhood children.If you're a beauty addict, Janna will be your enabler. Just an occasional user? She'll be your bad influence. Visit her blog at mybeautybinge.com and indulge!
+/n

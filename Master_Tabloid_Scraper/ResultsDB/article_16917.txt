@@ -1,0 +1,96 @@
+WATCH: Luann D’Agostino Reveals the ‘Final Straw’ That Led Her to Tell Tom ‘I Can’t Do This Anymore’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-a098c6fd2a4c478de3e0a90ff9d0d68f-59a53bd006d87');
+				var iframe = document.getElementById('wpcom-iframe-a098c6fd2a4c478de3e0a90ff9d0d68f-59a53bd006d87');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-a098c6fd2a4c478de3e0a90ff9d0d68f-59a53bd006d87'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Luann D’Agostino is opening up to the Bravo cameras for the first time about her impending divorce from husband Tom D’Agostino and the “final straw” that led to their breakup.
+The 52-year-old Real Housewives of New York City star is sitting down with host Andy Cohen for a special “One-On-One” episode of Watch What Happens Live, airing Sept. 6 — and PEOPLE’s got the exclusive first look of their chat.
+Taped from the former countess’ house in Sag Harbor, New York, the candid backyard conversation will have Luann opening up about the final days of her marriage — including the red flags she ignored, the rumors that questioned Tom’s loyalty, and what ultimately caused their separation.
+Andy Cohen and Luann D’AgostinoBravo
+It’s a far cry from the way fans last saw Luann on Bravo, as she gushed about their love on the RHONY season 9 reunion (which was taped just three weeks before Luann announced their split).
+Though the couple were only wed for seven months, their whirlwind romance had a lifetime of headlines attached to it fueled by rumors of Tom’s indiscretions — which were often brought up to Luann by her fellow New York City Housewives as the RHONY camera rolled.
+As fans saw on the show, Tom, 50, had been a bachelor up until marrying Luann and appeared to struggle with letting that go. Between being caught by a friend of costar Bethenny Frankel’s kissing a mysterious blonde at The Regency Hotel the day before his engagement party to his numerous “hot mic” moments while flirting with his ex girlfriends (including a scene in which he referred to his married self as a “dog with a collar”), Luann was married to a man who on the surface looked like he didn’t really want to be married.
+Tom and Luann D’AgostinoRobin Marchant/Getty
+Those rumors eventually split them apart, Luann tells Cohen on the special.
+“It was the weekend before the reunion [aired], basically,” she says, when asked if there was one things that led to their split. “Tom went out and he called up an old girlfriend and they met up with a group of people. And I didn’t know about it — I found out about it the next day in the press.
+“That for me was like, the final straw,” she continues. “I was like, ‘I can’t do this anymore.’ ”
+Elsewhere in the episode she also opens up about a public argument the two had at Le Bilboquet restaurant in July, which reportedly got so bad that Luann slapped Tom.
+“I didn’t slap him,” she tells Cohen, clearing up the rumors. “What I did was grab his face. It was in the heat of the moment and I was hurt about something. I wanted his attention and I grabbed his face. It wasn’t really a slap.”
+Luann D’AgostinoBravo
+FROM PEN: Highlights from Luann de Lesseps & Tom D’Agostino Jr.’s Wedding
+
+On Aug. 3, Luann announced on Twitter that she and Tom — tweeting, “It’s with great sadness that Tom & I agreed to divorce. We care for each other very much, hope you respect our privacy during this sad time!”
+Days later, she denied allegations that Tom had been unfaithful.
+“I do not think Tom cheated on me, definitely not,” Luann told Page Six on Aug. 3 when asked the reasons for their divorce. “God knows he’s got himself in some trouble in the past, but I don’t believe that continued [while we were married].”
+”It was impossible, we were having problems and we tried really hard to fix things, and we finally came to the conclusion it was just not going to work,” she continued. “It was a tough decision and we are both very sad about it. But the truth is we just weren’t getting along.”
+The Real Housewives of New York City reunion concludes Wednesday (8 p.m. ET) on Bravo.
+Watch What Happens Live One-On-One with Luann airs Sept. 6 (at 11 p.m. ET).
+/n

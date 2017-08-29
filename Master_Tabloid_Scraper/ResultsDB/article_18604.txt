@@ -1,0 +1,44 @@
+Stanley Tucci and Felicity Blunt Celebrate Marriage With Formal Wedding Ceremony Stanley Tucci and Felicity Blunt have been married for almost two months now, but they still decided to throw a formal ceremony this weekend. The newlyweds walk.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/350047/stanley-tucci-and-felicity-blunt-celebrate-marriage-with-formal-wedding-ceremony');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201278/reg_634.StanleyTucci.FelicityBlunt.jc.0312.jpeg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Stanley Tucci, Felicity Blunt");
+	var imageCaption = encodeURIComponent("Stanley Tucci, Felicity Blunt");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+Stanley Tucci and Felicity Blunt have been married for almost two months now, but they still decided to throw a formal ceremony this weekend.The newlyweds walked the aisle Saturday at Middle Temple Hall in London with Steve Buscemi as best man and the bride's sister, actress Emily Blunt, as bridesmaid, E! News confirms.
+
+Felicity wore a Nanette Lepore wedding gown, while Tucci donned a Hugo Boss tux.Guests included Emily Blunt's husband and The Office star John Krazinski, Meryl Streep, Patricia Clarkson, Julianne Moore, Colin Firth and Kenneth Cole. The reception was held at L'Anima restaurant and included a wedding cake was made of wheels of cheese. That's something new.Tucci was previously married to Kate, mother of his three children, who died in 2009 from breast cancer.  —Reporting by Marcus Mulick
+/n

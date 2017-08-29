@@ -1,0 +1,52 @@
+Farrah Abraham Rocks Completely Sheer Jumpsuit for Night Out in Las Vegas It appears Farrah is putting her drama with her on-again, off-again boyfriend in the past, especially since just weeks ago E! News learned she served Saran with a ceas.../n
+Farrah Abraham just dared to bare. The Teen Mom OG star left little to the imagination as she stepped out Friday evening for an appearance at Crazy Horse III's VIP Black Door Key Party in Las Vegas, wearing a nearly see-through jumpsuit and nude pumps. Abraham walked the red carpet in the black lace number, which hugged every inch of her curves and exposed her backside. The 26-year-old went for a dramatic makeup look while also debuting a brand new 'do, one she referred to as "revenge hair" following her split from Simon Saran. She teased the transformation on Instagram, going from her typically platinum blond waves to a bombshell red color. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871643/farrah-abraham-rocks-completely-sheer-jumpsuit-for-night-out-in-las-vegas');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201775/rs_634x1024-170805074918-634.farrah-abraham.cm.8527.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Farrah Abraham");
+	var imageCaption = encodeURIComponent("Farrah Abraham");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bryan Steffy/WireImage
+
+It appears Farrah is putting her drama with her on-again, off-again boyfriend in the past, especially since just weeks ago E! News learned she served Saran with a cease and desist letter.Simon spoke to E! News exclusively about the latest speed bump in their rollercoaster relationship: "I don't need drama in my life at this point. She can say what she wants, but we all know who the real one is and who the fraud is."He continued, "I have no hard feelings against Farrah. We are just from two different worlds. She likes the fake life, I want what's real. I wish the best for her and much success in all of her future endeavors."Meanwhile, Farrah's rep said she "has no time to feed into negative situations." 
+
+
+
+Bryan Steffy/WireImage
+
+"I'm so happy I've separated myself and won't be harassed or stalked by him further," Abraham added. Earlier this summer, the mom to 8-year-old Sophia Abraham set the record straight one last time about her often unpredictable relationship status. "I am not engaged," she revealed. "That's why I am single.""Simon and I are cordial," Farrah then offered. "We are friends—or trying to be. If it doesn't work out to be friends in the future I am happy I tried to be friends with an ex."Red carpet revenge? Check!
+
+Teen Mom OG airs Monday nights at 9 p.m. on MTV.
+/n

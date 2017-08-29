@@ -1,0 +1,48 @@
+BREAKING! George Clooney Is a Dad! Amal Clooney Gives Birth to Twins Alexander and Ella In his first interview confirming Amal's pregnancy, George opened up about first-time fatherhood: "We are really happy and really excited. It&#.../n
+George Clooney and Amal Clooney have officially become parents!E! News can confirm the human rights lawyer gave birth to twins, one son and one daughter."This morning Amal and George welcomed Ella and Alexander Clooney into their lives," a rep tells E! News in a statement. "Ella, Alexander and Amal are all healthy, happy and doing fine. George is sedated and should recover in a few days."News of the couple's pregnancy broke in early February thanks to Julie Chen, who confirmed on The Talk that George and Amal were set to expand their family. Shortly after, the A-list actor's proud mom revealed the sexes of her son and daughter-in-law's little ones. "It will be one of each! Yes, a boy and a girl. That's what I've been told," Nina Clooney gushed to Vogue.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/849436/george-clooney-is-a-dad-amal-clooney-gives-birth-to-twins-alexander-and-ella');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017124/rs_634x1024-170224113657-634-george-clooney-amal-pregnant-paris-cesar-awards-022417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("George Clooney, Amal Clooney");
+	var imageCaption = encodeURIComponent("George Clooney, Amal Clooney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ABACA/INSTARimages.com
+
+In his first interview confirming Amal's pregnancy, George opened up about first-time fatherhood: "We are really happy and really excited. It's going to be an adventure," he shared with French program Rencontres de Cinema.  "We've sort of embraced it all…with arms wide open."The 56-year-old echoed a similar sentiment when chatting exclusively with E! News' Marc Malkin back in March. When asked if he'd ever been happier in his life, Clooney told us, "Can you believe it?! Yeah, even happier. I didn't know that we'd have kids. I was very happy that we were going to get married and then [a pregnancy] seemed like the next step."Meanwhile, Amal, 39, didn't scale back on professional endeavors throughout her road to babies, stepping out on multiple occasions (in oh-so stylish maternity wear, no less) for official engagements and while supporting her hubby on the red carpet.
+
+Amal even hosted a surprise birthday bash in London for George in early May, which was attended by close friends like Cindy Crawfordand Rande Gerber. The birthday celebration came as the Clooneys anticipated their twins' arrivals. "Amal is due any day now. They're just waiting at this point," an insider told E! News at the time. "Technically her due date is [in June], but they expect the twins to come early. It's just a waiting game now."
+
+And now that the waiting game has officially come to an end, we can expect the family of four to stay in the U.K. for now. According to a source, the tentative plan is to have George and Amal live and nest in their London home for the first few years of their bundle of joys' lives.Congratulations, you two!
+/n

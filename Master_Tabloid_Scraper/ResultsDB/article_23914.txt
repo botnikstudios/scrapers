@@ -1,0 +1,138 @@
+Catfish's Nev Schulman and Laura Perlongo Welcome Daughter Cleo James
+/n
+Nev Schulman is officially a dad!
+The Catfish star and his fiancée Laura Perlongo welcomed their first child, a girl, on Friday, Oct. 21, the couple announced on Instagram.
+“I don’t remember this photo being taken or anything about the last 24 hours but bb girl has finally arrived. Completely enamored with 6lb 10oz Cleo James born this morning at 6:01. She’s everything,” Perlongo captioned a family photo taken shortly after the birth.
+For his part, Schulman took to Instagram to share a snap of him doing skin-to-skin with his newborn daughter. “Best. Thing. Ever. Cleo James arrived at 6:01am weighing 6lbs 10oz. Shout out to my baby mama @el_peego for delivering this bundle of joy,” he wrote.
+
+
+
+
+
+ Best. Thing. Ever. Cleo James arrived at 6:01am weighing 6lbs 10oz. Shout out to my baby mama @el_peego for delivering this bundle of joy.
+A post shared by Nev Schulman (@nevschulman) on Oct 21, 2016 at 11:59am PDT
+
+
+
+
+
+
+
+ i don't remember this photo being taken or anything about the last 24 hours but bb girl has finally arrived. Completely enamored with 6lb 10oz Cleo James born this morning at 6:01. She's everything.
+A post shared by Laura Perlongo Schulman (@el_peego) on Oct 21, 2016 at 11:52am PDT
+
+
+
+
+
+
+
+ 😍😍😍
+A post shared by Nev Schulman (@nevschulman) on Oct 24, 2016 at 2:05pm PDT
+
+
+Schulman and Perlongo first announced that they were expecting in May on social media.
+“Words [can’t] capture the excitement and joy I feel about becoming a father,” Schulman, 32, announced in an Instagram post at the time. “I am so in love with you Laura and thank you for giving me this incredible gift. You inspire and excite me every day.”
+
+
+
+
+
+ IT'S A GIRL! 👶🏼 No words can capture the excitement and joy I feel about becoming a father. I am so in love with you @el_peego and thank you for giving me this incredible gift. You inspire and excite me every day. Big thanks to @arnold_daniel for his beautiful photos and @attndotcom for publishing our story. link in bio 😍
+A post shared by Nev Schulman (@nevschulman) on May 11, 2016 at 10:18am PDT
+
+
+Want all the latest pregnancy and birth announcements, plus celebrity mom blogs? Click here to get those and more in the PEOPLE Babies newsletter.
+Perlongo made headlines (and turned a fair number of heads) when she walked the red carpet alongside Schulman at the MTV VMAs in a belly-baring ensemble that featured a silver body chain, an opened olive-colored jacket, and little else.
+“If you told me I was going to feel this great at eight months pregnant, I would’ve been like, ‘No way,’ ” Perlongo told PEOPLE at the event.
+“I’m just so happy to be the guy on the red carpet with the pregnant lady who is killing it, just looking incredible,” Schulman added at the award show. “She was already beautiful and now she’s, like, times-10 beautiful.”
+NEW YORK, NY – AUGUST 28: Laura Perlongo and producer Nev Schulman attend the 2016 MTV Video Music Awards at Madison Square Garden on August 28, 2016 in New York City. (Photo by Jeff Kravitz/FilmMagic)
+
+And the couple hasn’t been hiding Perlongo’s bare belly since their big red carpet moment.
+In the days leading up to their baby girl’s birth, Schulman and Perlongo both shared tummy-baring photos on Instagram, with the filmmaker showing the mom-to-be lounging in a tub with an island set up on her bump.
+
+
+
+
+
+ baby's due any day now! totally obsessed with this woman but definitely going to miss this adorable baby bump. @el_peego #wcw
+A post shared by Nev Schulman (@nevschulman) on Oct 12, 2016 at 11:02am PDT
+
+
+The freelance copywriter in turn shared a photo of her belly at a pumpkin patch in Warwick, New York.
+Of course, flashing Perlongo’s belly isn’t the only thing the couple has been up to. They also created an ad to draw attention to the need for paid parental leave in the United States.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-6f483815e6234dcf00513736ca4e29c0-59a569e3ed3de');
+				var iframe = document.getElementById('wpcom-iframe-6f483815e6234dcf00513736ca4e29c0-59a569e3ed3de');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-6f483815e6234dcf00513736ca4e29c0-59a569e3ed3de'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“Globally, moms get an average of 106 days of paid leave for a new baby, while dads only get an average of seven,” Schulman says in the video.
+Perlongo calls these statistics “totally sexist” because “it’s basically saying that taking care of a baby is a woman’s job.”
+/n

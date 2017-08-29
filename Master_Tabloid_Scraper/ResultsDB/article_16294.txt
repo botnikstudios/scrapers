@@ -1,0 +1,44 @@
+about—Naomi Campbell! The 44-year-old supermodel certainly lives up to her title as one of the mag's New Royals on her cover, shot by famed photographers Inez Van Lamsweerde and Vinoodh Matadin. With voluminous hair, dramatic eyes, unde.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/581056/naomi-campbell-s-w-magazine-cover-is-disarming-is-it-the-pose-or-a-photoshop-fail');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014819/rs_634x824-140919130916-634.naomi-campbell-w-magazine.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Naomi Campbell, W Magazine ");
+	var imageCaption = encodeURIComponent("Naomi Campbell, W Magazine ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Inez and Vinoodh/W Magazine
+
+W magazine released five covers for its October issue: Charlotte Casiraghi, Cara Delevingne, Ellen Page, Kristen Wiig, and, the one everyone's up in arms about—Naomi Campbell!The 44-year-old supermodel certainly lives up to her title as one of the mag's New Royals on her cover, shot by famed photographers Inez Van Lamsweerde and Vinoodh Matadin. With voluminous hair, dramatic eyes, understated jewelry, a plunging neckline and the most perfect pout, everything about her seems (not surprisingly) perfectly in place.Except, if you look a second longer, you notice: Where did Naomi's arms go?! Did Kate Moss' BFF lose limbs thanks to a Photoshop fail, or, as AdWeek noted, is Naomi simply posing in such a way with her arms behind her back that we can't see them?
+
+You be the judge. FWIW, Naomi isn't too concerned about Photoshop. "When I started, they didn't have it. It wasn't then existing," she said during an appearance on The Wendy Williams Show. "And now we're on to digital. I mean, basically, I do the picture out of trust with the photographer. I'm not one of the type of models that looks at the screen to see what do I look like, do I love the picture? It's not up to me. I base my relationship on my guys that I work with, on the photographers that choose me to work for publication on trust.""And if I feel the picture's good between us, I'm cool, I don't need to look at it," she explained. "I wait till it comes out in the magazine. It is not in my hands how it comes out. Because otherwise I'd never leave the shoot. I mean you have to have some type of trust, you can't be like, trying to control. You want the artistry of what they bring to the table."
+/n

@@ -1,0 +1,46 @@
+Amy Schumer Photobombs a Couple's Wedding Photos In 2015, Schumer and Judd Apatow, who directed her in the film Trainwreck, crashed an Irish wedding party at a Dublin pub. Also in 2015, while jogging around Central Park in New York City.../n
+Amy Schumer is the ultimate wedding photobomber!The actress and comedienne made a surprise appearance during couple Jasmin Pereira and Jon Bates's wedding photo shoot near Harry's Bar in London's Mayfair neighborhood Thursday. The two had just exchanged vows at the Mayfair Library.Schumer, who was  on her way to meet designer pal Stella McCartney, then allowed the couple to take more wedding pics near her silver Mercedes parked nearby. The bride broke down the chance encounter to E! News: "Amy was just lovely," she shared, explaining, "She got out of her car and asked for a pic with us. She congratulated us and she let us take some photos by her car!""After we had finished taking photos, she offered us a lift to our reception, as we were hailing a cab," the bride continued. "She said, 'Go take it for a spin!' We declined but appreciated the offer. All the guests were really impressed and thought it was hilarious. Weddings can be a boring stuffy affair but Amy added a bit of excitement and a laugh."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864342/amy-schumer-photobombs-a-couple-s-wedding-photos');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017530/rs_634x1024-170630090946-634.Amy-Schumer-Jasmin-Pereira-Jon-Bates-JR-063017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amy Schumer, Jasmin Pereira, Jon Bates");
+	var imageCaption = encodeURIComponent("Amy Schumer, Jasmin Pereira, Jon Bates");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Christine Wehrmeier/REX/Shutterstock
+
+In 2015, Schumer and Judd Apatow, who directed her in the film Trainwreck, crashed an Irish wedding party at a Dublin pub.Also in 2015, while jogging around Central Park in New York City, Schumer crashed couple Joseph Turnage and Brandon Moore's engagement photo shoot. The photographer, Alisha Siegel, said she then exclaimed, "Oh my god! Are you taking engagement photos? Let me get in one!""I thought it was a little weird but I said yes anyways," Siegel said. "She took off her sunglasses, we snapped a quick pic, and right after she says, 'You guys know I'm like reeeeeeal famous.' I take another look...it hit me that it was Amy Schumer!"
+
+After an unpleasant encounter with an aggressive fan in 2016, Schumer declared she would no longer take photos with people, later clarifying, "I'll still take pictures with nice people when I choose to if it's a good time for that. But I don't owe you anything. So don't take if I say no."
+/n

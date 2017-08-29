@@ -1,0 +1,42 @@
+2006, as well as obstruction of justice when he attempted to bribe the landlord into rescinding his story. Fielder-Civil logged 12 months in Britain's Edmund Hill Prison before being released to a rehab facility in Surrey on Nov. 5. Win.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/70318/winehouse-s-hubby-loses-appeal-losing-amy');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20071106/293.winehouse.civil.110607.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Blake Fielder-Civil, Amy Winehouse");
+	var imageCaption = encodeURIComponent("Blake Fielder-Civil, Amy Winehouse");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Mazur/WireImage.com
+
+UPDATE: In a statement, Winehouse's rep is disputing the veracity of the News of the World report about the demise of the couple's relationship, saying, "Those recent reports are not direct quotes from Amy."___________________________Even a pair of judges find Blake Fielder-Civil unappealing.The husband of crooner Amy Winehouse challenged his 27-month jail sentence, but was denied by two appeal court judges in London this morning.Fielder-Civil, 26, was sentenced for assaulting a pub landlord while drunk and high on cocaine in 2006, as well as obstruction of justice when he attempted to bribe the landlord into rescinding his story. Fielder-Civil logged 12 months in Britain's Edmund Hill Prison before being released to a rehab facility in Surrey on Nov. 5.Winehouse's "Blake Incarcerated" appeared in court and, following the verdict, said, "I am disappointed but not really surprised."Also not surprising, the Grammy winner has supposedly admitted to the U.K. tab News of the World that that her marriage to the jailbird is over.Which means the countdown to her next breakdown has just begun.(Originally published Nov. 24, 2008 at 8:10 a.m. PT.)
+/n

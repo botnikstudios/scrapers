@@ -1,0 +1,45 @@
+Lil Wayne Victim of Swatting After Gunshots Reported at Miami Home, Rapper Tweets About ''Prank Kall'' Close call! Lil Wayne is safe and sound after reports of a shooting at his waterfront Miami home. The local police dep.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/634710/lil-wayne-victim-of-swatting-after-gunshots-reported-at-miami-home-rapper-tweets-about-prank-kall');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015211/rs_634x1024-150311154153-634-lil-wayne.ls.31115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lil Wayne");
+	var imageCaption = encodeURIComponent("Lil Wayne");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Prince Williams/FilmMagic
+
+Close call!Lil Wayne is safe and sound after reports of a shooting at his waterfront Miami home.The local police department took to Twitter to clear the air, explaining that no one was injured and that the incident appeared to be a "swatting call."After authorities broke "down the perimeter" of Wayne's home, they discovered that everything was fine and saw no signs of foul play."Unfortunately this appears to be a swatting call. No victims/no injuries/no subject," the Miami Beach Police Department posted."MBPD handles all calls of this nature in a serious manner. In this case it appears to have been a hoax @LiLWaynes home."
+
+The rapper also hopped on social media to calm his fans' nerves and let them know that everything was alright at his home."Prank kall mane," he wrote. Phew...This isn't the first time that Wayne has been the victim of a scary hoax.Back in 2013, multiple media outlets reported that he had died after suffering a seizure.It turns out that he was hospitalized for the seizure, but later explained that he was "more than good.""I just wanna say thanks to y'all for all your prayers and concerns and all that," said Wayne. "I swear to God I felt that love when I was laid up in that motherf--ker hospital bed. I want all of y'all to know that I'm good…more than good." 
+/n

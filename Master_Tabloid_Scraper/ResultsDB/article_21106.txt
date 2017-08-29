@@ -1,0 +1,44 @@
+Susan Sarandon's New York Apartment Burglarized—Find Out What Was Stolen Susan Sarandon might want to change the locks! An intruder broke in to the Thelma & Louise star's Manhattan apartment over the weekend and made off with a.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/565822/susan-sarandon-s-new-york-apartment-burglarized-find-out-what-was-stolen');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014112/rs_634x1024-140212154755-634.susan-sarandon-aarp-021214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Susan Sarandon");
+	var imageCaption = encodeURIComponent("Susan Sarandon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy: Vince Bucci/Invision for AARP Media/AP Images
+
+Susan Sarandon might want to change the locks!An intruder broke in to the Thelma & Louise star's Manhattan apartment over the weekend and made off with a camera, laptop and jewelry, E! News can confirm. According to a New York Police Department spokesperson, the intruder broke in to Sarandon's apartment between the hours of 9 p.m. Saturday night and 3 a.m. Monday morning.The intruder "entered through the terrace door," according to police, who are still searching for a suspect in the burglary. Fortunately, no one was home at the time of the incident.
+
+An NYPD spokesperson told E! News Monday that at this time the value of property taken is still unknown.Sources told the New York Post that Sarandon's 22-year-old son Miles left the apartment around 8 p.m. Saturday and returned home at about 4 a.m. "to find the home in disarray." According to the Post's report, the burglar used a ladder to hop from the roof next door to the top of Sarandon's nine-story building and then entered her lower-floor apartment through an open terrace door.Sources said Sarandon was out of town at the time of the burglary.
+/n

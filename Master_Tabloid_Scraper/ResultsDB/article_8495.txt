@@ -1,0 +1,50 @@
+Charlie Hunnam's Workout Secret: ''I Try to Make Love as Often as I Can'' Charlie Hunnamdoesn't limit his sweat sessions solely to the gym.  The Sons of Anarchy alum appears on the cover of Men's Health mag.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/834717/charlie-hunnam-s-workout-secret-i-try-to-make-love-as-often-as-i-can');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201728/rs_634x862-170308133924-634.charlie-hunnam.cm.3817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Charlie Hunnam, Men's Health");
+	var imageCaption = encodeURIComponent("Charlie Hunnam, Men's Health");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Brian Higbee for Men?s Health
+
+Charlie Hunnamdoesn't limit his sweat sessions solely to the gym. The Sons of Anarchy alum appears on the cover of Men's Health magazine's April issue, where he reveals the secret to maintaining his incredible physique is sex. And lots of it. Hunnam shared he's interested in "having a high fitness level across the board," pointing to running, swimming, hiking and jiu-jitsu as some of his workout go-to's. The British actor then admitted, "I try to do it all. I also try to make love as often as I can. That's an important part of fitness."Our hearts aren't beating any faster. Yours are!"There's no reason you can't be active at 70. I want to run up mountains at that age," he continued. 
+
+
+
+Brian Higbee for Men?s Health
+
+Unfortunately, Charlie isn't one of Hollywood's most eligible bachelors. He's been dating girlfriend Morgana McNeils for more than a decade, and after releasing a video asking his female fans to stop cyber bullying the jewelry designer last year, he explained to Men's Health that working out keeps his anger at bay."The way I grew up, if you want to talk s--t, talk s--t to someone's face and be prepared to fight," Hunnam, 36, said.He continued, "We are supposed to be very active animals. It's our DNA. Sweating is how I change my oil every day. I just feel happier, more positive, energized, and disciplined if I work out."
+
+"I train a lot every day because I'm f--king crazy," Charlie added. Yeah, crazy hot!
+/n

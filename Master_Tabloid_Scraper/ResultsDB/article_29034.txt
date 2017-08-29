@@ -1,0 +1,48 @@
+on the 2014 CMA Awards red carpet—and it's not just her pregnancy glow. The CMA Awards co-host took to the carpet in an embroidered, cream-colored Lorena Sarbu dress featuring a high-low hem, sweetheart neckline and sheer overlay. And w.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/595211/pregnant-carrie-underwood-flaunts-bump-in-gorgeous-beaded-gown-at-the-2014-cma-awards-take-a-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014105/rs_634x1024-141105154215-634-carrie-underwood-cma-awards-2014.jw.110514.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carrie Underwood, CMA Style, 2014");
+	var imageCaption = encodeURIComponent("Carrie Underwood, CMA Style, 2014");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Larry Busacca/Getty Images
+
+Carrie Underwood looks stunning on the 2014 CMA Awards red carpet—and it's not just her pregnancy glow.The CMA Awards co-host took to the carpet in an embroidered, cream-colored Lorena Sarbu dress featuring a high-low hem, sweetheart neckline and sheer overlay. And with the loose, flowing fit, the singer is keeping her teeny bump under wraps—for now.Underwood kept her accessories simple, wearing drop earrings, a silver ring and nude cap-toed pumps. As for her golden locks? The singer swept her hair into a sweet over-the-shoulder ‘do.This is the seventh time that Underwood and Brad Paisley are hosting country music's biggest night together.
+
+Carrie revealed that she is due next spring during an appearance on The View on Oct. 27. The mom-to-be has been keeping fit with core-strengthening workouts that include light cardio and easy-to-fit-in exercises like walks around the neighborhood. Underwood maintains a mostly vegan diet, and has been relying on beans, veggies and lots of water to keep healthy and energetic during the start of her pregnancy.That's not to say that Carrie won't indulge when the craving calls for it: Soon after revealing her pregnancy news, the country crooner was seen at a Whole Foods in Nashville picking up Ben & Jerry's vanilla ice cream.Carrie announced her pregnancy on Instagram in a cute photo with her pups—one sporting an "I'm going to be a big brother" shirt and the other wearing a top with "I'm going to be a big sister" emblazoned on the back. So sweet!
+
+NEWS: How Carrie Underwood will be dressing her baby bump at the 2014 CMAs
+
+As far as what the expectant singer will be wearing during the actual CMA Awards telecast, we know that there will be plenty of lust-worthy looks for her to choose from."I definitely have outfit ADD, like I can't stay in the same one. We'll see, we're figuring that out in within the next couple days," Underwood told Seth Meyers during an appearance alongside Paisley last week.With a chic string of early pregnancy looks already on our radar, we can't wait to see what Carrie (and that growing bump!) will sport on stage. 
+/n

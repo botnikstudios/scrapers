@@ -1,0 +1,60 @@
+Eva Longoria, Ryan Lochte and More: Five Reasons to Watch the 2012 ALMA Awards! The stars were sweating on the red carpet in Pasadena, Calif., as they braved nearly 100-degree weather to attend the 2012 NCLR ALMA Awards Sunday at the Pasaden.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/346354/eva-longoria-ryan-lochte-and-more-five-reasons-to-watch-the-2012-alma-awards');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012816/reg_634.george.eva.ls.91612_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("George Lopez, Eva Longoria");
+	var imageCaption = encodeURIComponent("George Lopez, Eva Longoria");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images for NCLR
+
+The stars were sweating on the red carpet in Pasadena, Calif., as they braved nearly 100-degree weather to attend the 2012 NCLR ALMA Awards Sunday at the Pasadena Civic Auditorium.Eva Longoria and George Lopez hosted the star-studded affair and the longtime friends brought their funny spirit the to the awards which honored outstanding Latino artistic achievements in television, film and music.  Jake Gyllenhaal, Michael Peña, Zoe Saldana, America Ferrera, Christina Aguilera and Ryan Lochte were just a few of the many celebs who came out in support of the Latino community. Nicole Richie, Ana Ortiz, Dania Ramirez, Rodrigo Santoro and Wilmer Valderamma were also in attendance to celebrate the achievements of top Latino performers.
+
+Unfortunately, you will have to wait another week to watch the spectacular show (the awards will air Friday 8 p.m. ET on NBC), but until then, here are five reasons you should definitely be tuning in to the ALMA awards!1. George Lopez and Eva Longoria Are Hilarious Hosts: You know a show's bound to be good when you've got George and Eva to banter back and forth and tonight was no exception as the twosome brought their A-game to the ALMA stage. "There is not one empty chair and if there was, Clint Eastwood would be talking about it," Eva (who recently spoke at the DNC) quipped at the shows opening. George Lopez also made a point to embarrass Ryan Lochte in front of the crowd, "You're mom is Cuban?" he asked the Olympic stud from the stage. "Now the swimming makes sense." Cue some serious laughs from the crowd and—dare we say—a blush from our buddy Ry.
+
+
+
+Chris Haston/NBC
+
+2. Eva Longoria's Outfit Changes: Eva stuns in just about anything she wears but the beautiful brunette really shined at the ALMA awards with a record 11 (!) outfit changes. One minute she was wearing a fitted black gown with an updo and the next she's donning a bright red dress with her hair down and straight. "It's really fun," Eva told E! News on the red carpet. "Not only do we get to celebrate Latinos in television and in film, but in fashion as well." The stunning star also told E! News that producing the ALMA awards was one of her "biggest accomplishments."      
+
+3. It's Not All About the Actors and Musicians: It's also about the Olympians! And there were a handful of our favorite Latino medal winners at the show where they were honored by NBC anchor Natalie Morales in a special Olympic tribute. Brenda Villa, Jessica Steffens, Danell Leyva, Marlen Esparza, Leo Manzano and, of course, Ryan Lochte all took the stage while proudly wearing their medals. "The most important thing is that you're representing your country and God. It's definitely a blessing," Marlen said in the pressroom after the show. Mexican-born Leo Manzano also share the same proud sentiment, "We [my family] moved to the U.S. when I was four, grew up pretty poor, so becoming an Olympian and a silver medalist is a dream come true."
+
+4. Flo Rida and Roselyn Sanchez Light Up the Stage: Roselyn brought some serious Latino spice to the stage when she stepped out to perform the hit "I Cry" with Flo Rida. Donning a short silver sparkly dress, Roselyn belted out the lyrics as Flo Rida killed it beside her. "The performance is going to be crazy," Flo told E! News on the carpet. "The other night I was watching Rush Hour and I saw Roselyn Sanchez and I was like 'I wouldn't mind meeting her' and little did I know I was going to perform with her onstage!" Other performances included Martina McBride and Luis Fonsi, which made for a high energy show.
+
+
+
+Chris Haston/NBC
+
+5. Christina Aguilera Receives a Special Achievement Award: Although the diva arrived just before the show was set to begin, her mere presence was definitely one of the biggest highlights. Dressed in a fitted black dress with lace cutouts that highlighted her killer curves, Christina took the stage (rocking pink and purple tips in her hair) to accept a special achievement award after an impressive video tribute honoring both her incredible career and her work in philanthropy played on stage. "I share this award with all my fellow fans who are using their voice for good," she said with pride. Oh, and did we mention she received a standing ovation from the entire theater? Werk, Christina!Don't forget to tune in Friday, Sept. 21 when the entire show is broadcast on NBC at 8 p.m. ET / 5 p.m. PT!(E! and NBC are both part of the NBCUniversal family.)
+/n

@@ -1,0 +1,50 @@
+James Bond Star Sir Roger Moore Dead at 89 Sir Roger Moore has died.  The 89-year-old star, famous for his longtime portrayal of James Bond, passed away Tuesday, as confirmed by his three children in a statement.  "With the heaviest of .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/856354/james-bond-star-sir-roger-moore-dead-at-89');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017423/rs_634x1024-170523064537-634-RogerMoore-MK052317.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sir Roger Moore");
+	var imageCaption = encodeURIComponent("Sir Roger Moore");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Phillip Massey/Getty Images
+
+Sir Roger Moore has died. The 89-year-old star, famous for his longtime portrayal of James Bond, passed away Tuesday, as confirmed by his three children in a statement. "With the heaviest of hearts, we must share the awful news that our father, Sir Roger Moore, passed away today," a tweet from the actor's account read. "We are all devastated."According to the statement, Moore died in Switzerland following a "short but brave" battle with cancer. "The love with which he was surrounded in his final days was so great it cannot be quantified in words alone," his kids wrote. 
+
+
+
+MGM/United Artist
+
+The actor rose to fame first on television with roles in Ivanhoe, The Alaskans, The Saint and the James Garner-led series, Maverick. Following his TV commitments, the opportunity finally opened up for him to play James Bond on the silver screen first in Live and Let Die, followed by The Man With the Golden Gun, The Spy Who Loved Me, Moonraker, For Your Eyes Only, Octopussy and A View to a Kill. In total, he spent 12 years as Bond before retiring from the role in 1985. In addition to his film work, Moore also served as a UNICEF Goodwill Ambassador and was knighted by Queen Elizabeth II in 2003. He married four times, first to Doorn van Steyn followed by Dorothy Squires, Luisa Mattioli and Kristina Tholstrup. He and Mattioli welcomed three children together, Deborah Moore, Geoffrey Moore and Christian Moore. The star was also stepfather to Tholstrup's late daughter, Christina Knudsen, who passed away from cancer in 2016.
+
+"We know our own love and admiration will be magnified many times over, across the word, by people who knew him for his films, his television shows and his passionate work for UNICEF which he considered to be his greatest achievement," his two sons and daughter continued in the statement. "Thank you Pops for being you, and for being so very special to so many people."Per his children, the actor will be honored with a private funeral in Monaco. Moore is survived by his wife and three children.
+/n

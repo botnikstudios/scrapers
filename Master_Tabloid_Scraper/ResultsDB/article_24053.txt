@@ -1,0 +1,44 @@
+Cobie Smulders Breaks Her Leg, Drops Out of HBO's Anita Hill Movie Cobie Smulders took the expression, "break a leg," a little too literally! E! News confirms that the How I Met Your Mother alum has broken her leg and needed t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/674673/cobie-smulders-breaks-her-leg-drops-out-of-hbo-s-anita-hill-movie');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201569/rs_634x1024-150709131239-634.Cobie-Smulders-NYC.ms.070915.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Cobie Smulders");
+	var imageCaption = encodeURIComponent("Cobie Smulders");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Andrew H. Walker/Getty Images
+
+Cobie Smulders took the expression, "break a leg," a little too literally!E! News confirms that the How I Met Your Mother alum has broken her leg and needed to pull out of HBO's highly anticipated Anita Hill movie. Starring Kerry Washington, Grace Gummer and Dylan Baker, Confirmation will have to find a new actress to replace Smulders. She was set to begin filming either this week or last.The biopic follows the story of Hill, the attorney who sued Supreme Court nominee Clarence Thomas for sexual harassment in 1991. Hill was one of Thomas' aides at the Department of Education and the Equal Employment Opportunity Commission. Upon suing him she was called upon to testify against him during the hearings.
+
+Smulders was cast to play Harriet Grant, but no replacement has been announced.Washington Instagrammed the first official pic from the upcoming movie, revealing herself in costume standing at podium during what looks to be a press conference. She captioned the pic, "Dear @HBO, Thank you for the profound opportunity of getting to inhabit Anita Hill and help tell this story! Yours truly, k-Dub (aka super excited Exec Producer)."Although Smulders is down and out for now, she has previously gushed about how lucky she is to have such a great support system from her family, which includes husband Tarran Killam and their two children."I'm very lucky where I have a great career and a huge support system and not every woman has that," she told Bustle in an interview.Thankfully she has her family to help take care of her while she's recuperating from her injury!Us Weekly was the first to report the news of Smulders' broken leg. 
+/n

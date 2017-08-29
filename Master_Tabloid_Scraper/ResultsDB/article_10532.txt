@@ -1,0 +1,44 @@
+Valerie Bertinelli "Felt So Much Shame" Over Weight Gain: "It Started to Panic Me" Valerie Bertinelli knows firsthand how much pressure Hollywood puts on women to look a certain way. But when the Hot in Cleveland star gained a few pounds after a brok.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/528535/valerie-bertinelli-felt-so-much-shame-over-weight-gain-it-started-to-panic-me');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201434/rs_634x1024-140404093258-634.Valerie-Bertinelli-black.ls.4414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Valerie Bertinelli");
+	var imageCaption = encodeURIComponent("Valerie Bertinelli");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+GoldenEye /London Entertainment/Splash
+
+Valerie Bertinelli knows firsthand how much pressure Hollywood puts on women to look a certain way.But when the Hot in Cleveland star gained a few pounds after a broken foot left her unable to exercise, she found that she actually started to feel embarrassed about her weight.The 53-year-old former Jenny Craig spokeswoman talked about her experience on CBS' The Talk Wednesday, asking the co-hosts, "Why do I feel so much shame? Because the cameras are on me? Because the paparazzi can't wait to get a picture of me looking like I've gained a few pounds?"
+
+"It's like, we have to take the shame out of it," she said.  Valerie admitted her fluctuating weight didn't sit well with her either. "It started to panic me," she said. "And then I thought, ‘Well, wait a minute. This is my body. I'm almost 54. I broke my foot, I haven't been able to move.'"She's now "back in the gym and ready to go," but she doesn't want to forget how badly she felt over a few extra pounds. "We all need to give each other a break, especially women," she said. "Let's leave each other alone."
+/n

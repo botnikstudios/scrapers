@@ -1,0 +1,168 @@
+Was Jenelle Evans 'Set Up'? Teen Mom Star Spars with Mom Barbara over How She Lost Custody of Son
+/n
+
+ 
+Teen Mom 2 fans are well aware of Jenelle Evans‘ difficult relationship with her mother, Barbara Evans, which began long before MTV audiences came to know them from 2011’s 16 and Pregnant. But the 25-year-old reality star is now making an explosive claim about one moments that may have permanently fractured her relationship with Barbara, 64, in her new memoir, Read Between the Lines: From the Diary of a Teenage Mom.
+Jenelle found out she was pregnant with her son Jace, now 7, when she was just 16. Her adjustment changing her partying lifestyle was chronicled on MTV’s 16 and Pregnant, including Barbara’s frustrations while helping her young daughter raise an infant.
+But in Read Between the Lines, Jenelle alleges her mother uncharacteristically urged her to go out with friends one night — a moment she now says she “should have been suspicious” about.
+Jenelle claims she returned home the next morning to find Child Protective Services waiting for her, and she now believes Barbara tipped them off in a move to claim custody of Jace.
+“My mother had set me up and I had fallen hard for it,” writes Jenelle.
+Keith Johnson/Bauer-Griffin/GC 
+PEOPLE reached out to Barbara, who calls the allegations “a lie” and says she gave her daughter time “to step up” and take care of her son.
+“I gave Jenelle nine months to step up,” she says. “Nine months, and then when she bought her first car she was gone. She was gone, she was never home.” On one occasion, Barbara even says, “I begged her, ‘Please, please come home. … She didn’t even call me back. Never. She was out every single night. I did not set her up on that.”
+Back when Jenelle was a teen, tensions escalated when CPS threatened to place Jace in foster care if she did not sign over custody to Barbara, according to the memoir (and confirmed by Barbara).
+“I felt like a frightened animal backed into a corner,” she writes. “I didn’t know what to do. I didn’t want to give over custody of my son, but I didn’t want to risk losing him forever to a strange family.”
+In order to do “what I thought was the right thing,” she signed over custody to Barbara and vowed she “would get him back and would be a great single mom.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-4ffa064bb300a3f9f9c2d7cbe456008c-59a53337cfe58');
+				var iframe = document.getElementById('wpcom-iframe-4ffa064bb300a3f9f9c2d7cbe456008c-59a53337cfe58');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-4ffa064bb300a3f9f9c2d7cbe456008c-59a53337cfe58'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Amid what Jenelle describe as a years-long, “nightmarish battle,” Barbara tells PEOPLE she did call Child Protective Services to intervene.
+“She was supposed to do family therapy and she never made the meeting,” says Barbara. “She was supposed to meet with [the Department of Family Services], and DFS told me, ‘If you don’t take Jace, Barbara, he’s going into the system.’ ”
+“I said, ‘Oh no, he’s not going. I’ll take him.’ [Jenelle] wasn’t around, she was never around,” she continued. “She never took care of that baby.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-84a1dd10e76432c6aa385802907fde19-59a53337d002b');
+				var iframe = document.getElementById('wpcom-iframe-84a1dd10e76432c6aa385802907fde19-59a53337d002b');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-84a1dd10e76432c6aa385802907fde19-59a53337d002b'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+It remains to be seen what will become of Jenelle’s relationship with her mother in the long term, but they recently reached an agreement that allows her greater access to Jace.
+“Barbara and Jenelle settled on a custody schedule that allows them to share time with Jace,” Jenelle’s attorney Heather D. Kaemmer told PEOPLE. “The new Order grants Jenelle specific periods of time with Jace so that Barbara no longer has the authority to determine if and when Jenelle can spend time with her son.”
+Still, Jenelle has doubts about the chance she will ever fully reconcile with her mother.
+“She’s still kind of bent out of shape because I still have resentment towards her for still keeping my son and we still butt heads,” she shared in July. “I think our relationship’s lost. I don’t ever think there’s really coming back at any point in time.”
+Read Between the Lines: From the Diary of a Teenage Mom is out now, and Teen Mom 2 airs Mondays (9 p.m. ET) on MTV.
+/n

@@ -1,0 +1,44 @@
+One Direction's Liam Payne Says He Didn't Bash Kim Kardashian, Isn't Dating Leona Lewis True Directioners know not to believe the nonsense. Still, One Direction's Liam Payne took to Twitter Monday to clear up rumors surro.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/365930/one-direction-s-liam-payne-says-he-didn-t-bash-kim-kardashian-isn-t-dating-leona-lewis');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20121026/reg_634.liam.ls.112612.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Liam Payne, Kim Kardashian, Leona Lewis");
+	var imageCaption = encodeURIComponent("Liam Payne, Kim Kardashian, Leona Lewis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Barcroft Media/Startraksphoto.com; Jason Merritt/Getty Images; George Pimentel/WireImage
+
+True Directioners know not to believe the nonsense.Still, One Direction's Liam Payne took to Twitter Monday to clear up rumors surrounding his alleged Kim Kardashian diss, Leona Lewis romance and—most troublingly—purported career as a solo artist.
+
+"Okay bored of constant news articles...," the 19-year-old musician wrote. "I'm not dating Leona ... My YouTube channel isn't for a solo career and I didn't insult Kim k...Pow!"Pow, indeed. Like Niall Horan, Zayn Malik, Harry Styles, Louis Tomlinson and the rest of 1D Nation, we're just glad Liam has no plans to leave the group!
+/n

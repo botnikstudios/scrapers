@@ -1,0 +1,81 @@
+Sin City! Farrah Abraham And Frenchy Morgan Flaunt Bikini Bodies In Las Vegas/n
+
+					var next_post_url = "http://radaronline.com/photos/teen-mom-farrah-abraham-flaunts-body-and-new-flame-hair-in-las-vegas/";
+					var prev_post_url = "http://radaronline.com/photos/tori-spelling-and-dean-mcdermott-attend-red-carpet-during-financial-hard-times/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-06T14:17:51+00:00","caption":"Farrah Abraham and Frenchy Morgan showed off their surgically enhanced bikini bodies in Las Vegas. RadarOnline.com has all the details \u2013 click through the images.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas09erweaw.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:06+00:00","caption":"Abraham, 26, sported a 'Baywatch' style red swimsuit to show off her body and highlight her new flame hair.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas08BGUS_944138_053.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:07+00:00","caption":"The reality star's suit was cut high at the back to display her ample derriere.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas07BGUS_944138_049.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:08+00:00","caption":"Pal Morgan, 25, was on hand to apply some sunscreen to her glamorous friend's shapely behind.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas06BGUS_944138_048.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:09+00:00","caption":"She herself wore a skimpy pink bikini to compliment her blonde hair with colorful tips.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas05BGUS_944138_022.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:10+00:00","caption":"Abraham returned the favor by putting cream on her friend to make sure that she did not burn in the blazing sun.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas04BGUS_944138_014.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:11+00:00","caption":"The two women were all smiles at the pool and they got plenty of admiring looks from fellow party-goers.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas03BGUS_944138_012.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:12+00:00","caption":"Abraham is currently single after splitting with boyfriend Simon Saran.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas02BGUS_944138_008.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-06T13:53:13+00:00","caption":"Celebrity Big Brother alum Morgan has been taking advice from Abraham about how to boost her career.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/farrah-abraham-and-frenchy-morgan-flaunt-their-bikini-bodies-in-las-vegas01BGUS_944138_003.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Sin City! Farrah Abraham And Frenchy Morgan Flaunt Bikini Bodies In Las Vegas
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9Farrah Abraham and Frenchy Morgan showed off their surgically enhanced bikini bodies in Las Vegas. RadarOnline.com has all the details – click through the images.Photo credit: BACKGRID2 of 9Abraham, 26, sported a 'Baywatch' style red swimsuit to show off her body and highlight her new flame hair.Photo credit: BACKGRID3 of 9The reality star's suit was cut high at the back to display her ample derriere.Photo credit: BACKGRID4 of 9Pal Morgan, 25, was on hand to apply some sunscreen to her glamorous friend's shapely behind.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9She herself wore a skimpy pink bikini to compliment her blonde hair with colorful tips.Photo credit: BACKGRID6 of 9Abraham returned the favor by putting cream on her friend to make sure that she did not burn in the blazing sun.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9The two women were all smiles at the pool and they got plenty of admiring looks from fellow party-goers.Photo credit: BACKGRID8 of 9Abraham is currently single after splitting with boyfriend Simon Saran.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Celebrity Big Brother alum Morgan has been taking advice from Abraham about how to boost her career.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Farrah Abraham and Frenchy Morgan showed off their surgically enhanced bikini bodies in Las Vegas. RadarOnline.com has all the details – click through the images.Photo credit: BACKGRIDAbraham, 26, sported a 'Baywatch' style red swimsuit to show off her body and highlight her new flame hair.Photo credit: BACKGRIDThe reality star's suit was cut high at the back to display her ample derriere.Photo credit: BACKGRIDPal Morgan, 25, was on hand to apply some sunscreen to her glamorous friend's shapely behind.Photo credit: BACKGRIDShe herself wore a skimpy pink bikini to compliment her blonde hair with colorful tips.Photo credit: BACKGRIDAbraham returned the favor by putting cream on her friend to make sure that she did not burn in the blazing sun.Photo credit: BACKGRIDThe two women were all smiles at the pool and they got plenty of admiring looks from fellow party-goers.Photo credit: BACKGRIDAbraham is currently single after splitting with boyfriend Simon Saran.Photo credit: BACKGRIDCelebrity Big Brother alum Morgan has been taking advice from Abraham about how to boost her career.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+
+
+
+
+
+
+
+
+/n

@@ -1,0 +1,48 @@
+Dance Moms Stars React to Abby Lee Miller's Prison Sentence Kamryn Beck also took to her Instagram story to share a black and white photo with Miller. She drew a red heart over the pic and captioned it, "Don't believe everythi.../n
+It's been a rough day in the Dance Moms world.Abby Lee Miller—who appeared on the Lifetime network's reality series—was sentenced to one year and one day in prison followed by two years of supervised release for fraud.The sentencing comes two years after the 50-year-old dance instructor was initially indicted on 20 charges of bankruptcy fraud, concealment of bankruptcy assets and false bankruptcy declarations after the FBI, IRS and postal inspectors conducted an investigation.
+
+She allegedly hid more than $755,000 in other bank accounts—income that reportedly stemmed from appearances on the show in 2012 and 2013. Many of Miller's Dance Moms co-stars have shared messages and delivered statements regarding her sentencing:
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/849582/dance-moms-stars-react-to-abby-lee-miller-s-prison-sentence');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201749/rs_634x1127-170509115504-634-Kamryn-Beck-Instagram-Abby-Lee-Miller-Kf.5917.png');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kamryn Beck, Abby Lee Miller, Dance Moms");
+	var imageCaption = encodeURIComponent("Kamryn Beck, Abby Lee Miller, Dance Moms");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Kamryn Beck also took to her Instagram story to share a black and white photo with Miller. She drew a red heart over the pic and captioned it, "Don't believe everything you see on t.v. You'll be in my prayers @therealabbylee. love you."Meanwhile, Miller filed for bankruptcy in 2010. However, according to the Pittsburgh-Post Gazette, she withheld information that she had obtained a contract for Dance Moms when filing the reorganization plan. It was not until Judge Thomas Agresti reportedly spotted the choreographer on the reality series that he canceled a hearing to discharge her bankruptcy case and requested she disclose any contracts.In June 2016, E! News confirmed Miller pleaded guilty to concealing bankruptcy assets as well as one count of not reporting an international monetary transaction. Earlier this year, she also announced she would be leaving the longtime TV series. 
+
+During her sentencing on Tuesday, she told the court, "I am very sorry for what I've done. My name has been dragged through the mud."
+/n

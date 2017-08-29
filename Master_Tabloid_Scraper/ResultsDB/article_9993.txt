@@ -1,0 +1,44 @@
+Luann de Lesseps Reveals What Pushed Her to File for Divorce From Tom D'Agostino in First Look at Andy Cohen Sit-Down "It was the weekend before the reunion, basically. Tom went out and he called up an old girlfriend, and they met .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876343/luann-de-lesseps-reveals-what-pushed-her-to-file-for-divorce-from-tom-d-agostino-in-first-look-at-andy-cohen-sit-down');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201773/rs_634x1024-170803133410-634-lLuann-de-Lesseps-Tom-DAgostino.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Luann de Lesseps, Tom D'Agostino");
+	var imageCaption = encodeURIComponent("Luann de Lesseps, Tom D'Agostino");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bruce Glikas/FilmMagic
+
+"It was the weekend before the reunion, basically. Tom went out and he called up an old girlfriend, and they met up with a group of people—and I didn't know about it," she tells Andy when he inquires whether there was any one thing that prompted her to file. "I found out about it the next day in the press. So that, for me, was like the final straw. I was like, 'I can't do this anymore.'"She also opens up about the alleged slap across the face she delivered to her then-husband back in July when the pair were dining at Le Bilbouquet in NYC, telling Andy that it didn't all go down as reported. "I didn't slap him. What I did was grab his face," she clarifies. "It was in the heat of the moment, you know? I was hurt about something, so I wanted his attention. So I grabbed his face. It wasn't really a slap."
+
+Aside from the above revelations, Luann will also open up about the red flags that she ignored on the road to the wedding (and boy, were there plenty!), as well as the rumors that questioned Tom's loyalty. Watch What Happens Live One-on-One with Luann de Lesseps airs Wednesday, Sept. 6 at 11 p.m. on Bravo. Before then, don't miss the conclusion to the RHONY season nine reunion airing Wednesday, Aug. 30 at 8 p.m.(E! and Bravo are both part of the NBCUniversal family.)
+/n

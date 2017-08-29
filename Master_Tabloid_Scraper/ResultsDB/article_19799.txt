@@ -1,0 +1,44 @@
+Wyclef Jean Handcuffed in Los Angeles, Claims LAPD Have Wrong Man Wyclef Jean was in handcuffs this morning.  The three-time Grammy winner took to social media early Tuesday with videos of himself being held on the street in Los Angeles. As .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/837511/wyclef-jean-handcuffed-in-los-angeles-claims-lapd-have-wrong-man');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017221/rs_634x1024-170321054023-634.Wyclef-Jean-JR-032117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Wyclef Jean");
+	var imageCaption = encodeURIComponent("Wyclef Jean");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ilya S. Savenok/Getty Images
+
+Wyclef Jean was in handcuffs this morning. The three-time Grammy winner took to social media early Tuesday with videos of himself being held on the street in Los Angeles. As police stood next to him, the musician said in front of a nearby camera, "The police have handcuffs on me. They just took off my Haitian bandana. That's whats going on right now with Wyclef in L.A. right now. The L.A.P.D. have me in cuffs for absolutely nothing." The video was shared on social media. The star said he was working in the studio before he was handcuffed and did not know why he was being detained. 
+
+According to the West Hollywood sheriff,  a robbery occurred in the area and a description of the suspect matched Jean down to a bandana he was wearing and the car he was in. He was also in the car with a female driver, just like the reported suspect.  The Sheriff confirmed to E! News that police detained the rapper in the field and released him on the scene without charges upon further investigation. Authorities did not bring him to the police station. Meanwhile, the actual suspect was located and arrested four blocks away. Police recovered a gun and the victim's property on the suspect as he was apprehended. 
+/n

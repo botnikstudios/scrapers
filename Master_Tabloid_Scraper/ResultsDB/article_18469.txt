@@ -1,0 +1,54 @@
+perfectly stealable souls, but they can't help but get sidetracked when they discover all of 2015's new technology. Facebook! Twitter! Cell phones! Winifred even sets herself up with a Snapchat account and kills a solid few hours p.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/711781/enough-with-the-rumors-already-we-wrote-the-plot-for-the-hocus-pocus-sequel');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013922/rs_634x708-131022055003-634-hocuspocus-jc.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hocus Pocus, Thora Birch, Bette Midler, Sarah Jessica Parker, Kathy Najimy");
+	var imageCaption = encodeURIComponent("Hocus Pocus, Thora Birch, Bette Midler, Sarah Jessica Parker, Kathy Najimy");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+ Walt Disney Pictures
+
+Another day, another rumor. But this time, we're taking matters into our own hands. The whispers of a possible Hocus Pocus sequel have been swirling around the Internet for as long as we can remember. They've picked up steam even more this month, thanks in part to tomorrow's Very Important Holiday, but also because of statements from the cast. Sarah Jessica Parker told BuzzFeed that she would absolutely be down for a reunion, and Bette Midler tweeted this telling remark. 
+
+We open on Max and Allison on Halloween morning. They're now married and the parents of two children (Max. Jr. and Allison Jr.), because this is the Disney Channel and all teen romances turn into stable and healthy marriages. They still live in Salem because, again, Disney, and everyone is perfectly happy residing in their hometowns for decades on end, no matter how traumatizing their early years were.Max and Allison have long since put their troubled past behind them, vowing to never speak of the Sanderson Sisters or the horrors they inflicted ever again. More importantly, they have shunned the rituals of Halloween, forbidding their family from celebrating and their children from dressing up or decorating.
+
+As can be expected, the children have questioned this Halloween grinchy-ness, but have dutifully followed their parents' wishes...until now. Max Jr. and Allison Jr. are old enough to sass back, and decide they are sick and tired of being deprived of this annual holiday so beloved by the other children and townspeople of Salem.They decide to take matters into their own hands, creating their costumes in secret and hatching an evil plan to sneak out of the house for trick-or-treating. But first they go snooping through THE FORBIDDEN ATTIC.
+
+The attic is just as ominous as it sounds, which is exactly why two precocious pre-teens feel the urge to break in. There, in addition to long-forgotten pumpkins and cobweb decorations, they find The Book of Spells, a long-lost relic from a fateful All Hallows Eve many moons ago. Funnily enough, they also come across an intriguing black candle. They give it a light because...why not? (And it's not as though anyone would've destroyed the candle or anything...)And what should happen upon the lighting of the candle but the return of the Sanderson Sisters! They rise up from the disintegrated ashes they were, to become the three crazy witches we once knew and loved, with only minimally perceptible signs of aging (it's been 20 years for Pete's sake).
+
+The witches are even more unfamiliar with today's world than they were with the Salem of 1993. They set out to pilfer the village looking for delicious trick-or-treaters with perfectly stealable souls, but they can't help but get sidetracked when they discover all of 2015's new technology. Facebook! Twitter! Cell phones! Winifred even sets herself up with a Snapchat account and kills a solid few hours posting story after story of her witchy dance routines. Can ya blame her?
+
+Snapping aside, it's time to get down to business. Luckily for the Sandersons, all the parents of Salem are so preoccupied by texting and scrolling through Instagram that they are unable to keep a close watch on their children, thus allowing Winnie, Mary and Sarah to lure away all the town virgins without even having to hypnotize the adults first. Modern technology!
+
+Max and Allison (Senior) finally get wind of their children's Halloween betrayal. They take a beat to give them a stern but educational speech on the value of following the rules (cough...Disney...cough) and then they get down to business. The parents use the spellbook to summon their old comrades Thackery and Emily Binx back from beyond the grave, and they put their (dead and un-dead) heads together to form a plot to take down the sisters once and for all.Will they succeed? You'll have to tune in to find out! But we do know they'll be plenty of tricks...and treats.
+/n

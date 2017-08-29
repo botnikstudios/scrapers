@@ -1,0 +1,45 @@
+ "Before the wedding in France with the kids, Brad and I were already married in California," she explained in the Jan. 10 edition of the Corriere della Sera via Us Weekly. "As Americans, we couldn't marry legally in Fran.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/613019/angelina-jolie-reveals-she-and-brad-pitt-were-already-married-before-their-secret-french-wedding');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141017/rs_634x1024-141117110032-634.Angelina-Jolie-BradPitt-JR-111714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Angelina Jolie, Brad Pitt");
+	var imageCaption = encodeURIComponent("Angelina Jolie, Brad Pitt");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+KHAP/GG/AKM-GSI
+
+Angelina Jolie and Brad Pitt did what?!According to a recent interview with the Italian magazine Io Donna, the award-winning star admitted that she and her husband were actually married before their secret nuptials on Aug. 23."Before the wedding in France with the kids, Brad and I were already married in California," she explained in the Jan. 10 edition of the Corriere della Sera via Us Weekly."As Americans, we couldn't marry legally in France."The Unbroken director also shared how the wedding really went down, which presumably took place in California."One day I said to Brad, 'Let's meet up at 4:30 p.m.?' I called a justice of the peace and we signed the documents." And the rest, as they say, is history!
+
+Later on, the Mr. & Mrs. Smith co-stars exchanged vows inside an ancient stone chapel at Château Miraval, the Jolie-Pitt family's estate in Correns, France.Their 20 guests, which included Jolie's brother James Haven, hummed the traditional processional tune "Here Comes the Bride" as the brunette beauty made her entrance.The groom kept up with tradition and didn't get a glimpse of his bride's Atelier Versace gown until she walked down the aisle with their eldest sons, Maddox and Pax.The A-list actors' complementary wedding bands were designed by Robert Procop and carried by ring bearers Shiloh, 8, and Knox, 6. At one point in the ceremony, guests laughed when a ring was dropped.Sounds like a day that the Jolie-Pitt family won't soon forget!
+/n

@@ -1,0 +1,83 @@
+Katy Perry Reveals Why She Cut Off All Her Hair and the Trick She Used to Go to the Bathroom in Her Met Gala Gown
+/n
+Katy Perry has had a dramatic few months. Not only is she in the midst of teasing her forthcoming album and North American tour, releasing two singles from it already, but she also kicked off May by hosting the biggest fashion event of the year, the Met Gala, arriving in a very over-the-top, custom Maison Martin Margiela gown and headpiece, and recently buzzed off the majority of her bleach blonde hair. A decision which, as she revealed on The Ellen Show on Tuesday, wasn’t entirely for purely aesthetic reasons. She also revealed her number one trick to using the bathroom while wearing some of her more eccentric outfits and it’s, uh, interesting to say the least.
+While the pop star’s latest do is right on-trend with a number of other A-list ladies like Kristen Stewart and Zoë Kravitz who also recently shaved off their strands, Perry admitted that the cut had more to do with hair damage than wanting a particular hairstyle. The talk show host joked, “It’s a little beyond the Ellen,” referring to her own signature look, “you went to Ellen and past it.” To which Perry quipped, “It’s like a little Ellen, a little Alfalfa.” But all joking aside, the singer explained, “I did it about a month and some change ago…I don’t know if you’ve ever dyed your hair blonde, and too blonde, sometimes your hair falls out when you go too blonde. So, this is the way I handled it.” But while at first the partially buzzed look was simply a move to save her remaining locks, she’s now grown to love the look as people have told her that, “Now you can really see the beauty of your face.”
+RELATED PHOTOS: Hillary Clinton Models Katy Perry’s ‘Hillary Clinton’ Shoe Design (Lucite Heel and All)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-e42bfea0075acadac4c5749a31666bcc-59a561760e559');
+				var iframe = document.getElementById('wpcom-iframe-e42bfea0075acadac4c5749a31666bcc-59a561760e559');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-e42bfea0075acadac4c5749a31666bcc-59a561760e559'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+As for that major Met Gala entrance she made a couple of weeks ago, Ellen had a few questions that desperately needed answering. Number one, how hard was it to use the restroom once you’re ensconced in that much fabric? Katy gamely replied, “There was a lot of self-control, practice, and GoGirls. You know those little contraptions where you then get to urinate standing up?”
+FROM PEN: Amandla Stenberg’s Best Beauty Lesson Is One We All Need to Follow
+
+While the host confessed she wasn’t familiar with the product, the “Roar” singer enthused, “I’ve used them in several music videos because I always find myself in this predicament where I have a very extravagant, lavish, unrealistic, unpractical costume on. That’s just me, I guess.” While that particular piece of info might have some fans crying TMI, anyone who’s found themselves strapped into a particularly complicated ensemble might consider the revelation of this contraption a total “Teenage Dream.”
+What do you think of Katy’s blonde buzz cut? Have you ever used a GoGirl? Sound off below!
+/n

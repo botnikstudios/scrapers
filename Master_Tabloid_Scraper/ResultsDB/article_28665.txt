@@ -1,0 +1,62 @@
+Favorite Moments Well, we feel old. Today marks 17 years since the Parent Trap remake was released! Back in 1998, adorable redheaded identical twins Hallie Parker and Annie James, played by Lindsay Lohan, took over our movie screens! The two.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/681301/it-s-been-17-years-since-lindsay-lohan-s-the-parent-trap-was-released-see-our-8-favorite-moments');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015629/rs_634x938-150729132637-Parent-Trap-poster-lohan.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("The Parent Trap");
+	var imageCaption = encodeURIComponent("The Parent Trap");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney Enterprises
+
+Well, we feel old.Today marks 17 years since the Parent Trap remake was released! Back in 1998, adorable redheaded identical twins Hallie Parker and Annie James, played by Lindsay Lohan, took over our movie screens!The two girls met as strangers at summer camp, but then realize something extraordinary: They are in fact twins that were separated at birth due to their parent's divorce. The dynamic duo then devises a special plan to get their parents back together!Here are 8 of our favorite moments from the adorable flick!
+
+1. The Photo That Changed Everything: When the puzzle pieces fit.Hallie: So if your mom is my mom, and my dad is your dad...and we're both born on October 11th, then you and I are...like...sisters.Annie: Sisters? Hallie, we're like twins!Hallie: Oh my god!Annie: Oh my god!
+
+2. Chop, Chop: Once the twins devised their plan to switch spots, they had to resemble one another so their mom and dad wouldn't know the difference. Bring out the scissors for this hilarious scene! Annie tells Hallie as she begins cutting, "Don't shut your eyes!" to which, Hallie responds, "OK, sorry. Got a little nervous!" Then Annie reminds her, "You're nervous? An 11-year-old is cutting my hair!"
+
+3. Beauty Is Pain: We have to be honest, we haven't looked at an apple the same way since this scene. Annie thought the transformation was complete when her hair was chopped, but not so fast! As Hallie looked in the mirror, she realized they missed an important detail that needed to be copied in order for Hallie to truly look like Annie: She needed to pierce her ears. Despite refusing at first, all it took was an apple, a needle and a heavy ounce of courage for Annie to also have pierced ears.
+
+4. Heavenly Combination: Hello, Oreos and peanut butter! Our taste buds thank you, Parent Trap, for introducing us to this genius treat. Not sure if our hips thank you as much as our taste buds, but that's beside the point. We loved when the adorable "twins" chatted and snacked together on their camp bunk beds.
+
+5. #HandshakeGoals: Does anyone remember trying to recreate this handshake? Or, better yet attempt to create your own with the same Parent Trap style?
+
+6. "I've Always Wanted a Big Sister": When Nick (Dennis Quaid) told Annie—who was pretending to be Hallie—that he needed to sit down and talk about his girlfriend Meredith (Elaine Hendrix), Annie had the most brilliant response! Nick told her, "OK, honey...I want to know what you think about making Meredith part of the family." Annie said she thought it was "a brilliant idea" and that it was "a dream come true." The sassy 11-year-old declared, "You're gonna adopt Meredith. That is so sweet, Dad!"
+
+7. Lions, Tigers and Bears, Oh My! Meredith was not too amused with the twins stealing Nick's attention. All hell broke loose when they went camping together. Meredith was cast out on the lake on her inflatable mattress, almost swallowed a lizard and was fooled into hitting sticks together to avoid mountain lions. The "memorable trip" resulted in Meredith giving Nick the ultimatum, to choose the girls or her. Luckily in the girl's favor, he chose his daughters!
+
+8. Storybook Ending: The last scene might be our favorite, proving you have to fight for the one you love. In the Parent Trap's case, Nick and Elizabeth (Natasha Richardson) just needed some reminding of that from their adorable daughters, and they lived happily ever after.
+
+It's hard to believe it's been 17 years since the flick came about! What was your favorite moment?
+
+See which of Lindsay's flicks made our list of Top 9 Most Epic Movie Breakups
+/n

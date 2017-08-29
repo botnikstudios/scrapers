@@ -1,0 +1,44 @@
+Does This Photo Prove Amelia Earhart Survived Her Final Flight? A newly unearthed photograph suggests there may be a different final chapter to Amelia Earhart's story. The famed pilot, who mysteriously disappeared during her attempted f.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864965/does-this-photo-prove-amelia-earheart-survived-her-final-flight');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201765/rs_634x1024-170705065743-634-AmeliaEarhart-MK070517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amelia Earhart");
+	var imageCaption = encodeURIComponent("Amelia Earhart");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Bettmann Collection / Getty Images 
+
+A newly unearthed photograph suggests there may be a different final chapter to Amelia Earhart's story.The famed pilot, who mysteriously disappeared during her attempted flight around the world in 1937, is a subject of a photograph recently discovered in the National Archives by History investigators.While the cause of her disappearance and her whereabouts leading up to her death have been long theorized and speculated, this picture may be the proof many have been waiting for to support conclusions beyond a plane crash.
+
+Many theories suggest Earhart and Noonan were taken prisoners by the Japanese and brought to Saipan, however little is known still about how they died and, according to Today, the Japanese military have denied possessing any documents or evidence of Earhart in Japanese custody. Amelia Earhart: The Lost Evidence, a History special, explores the possibilities linked to this new photograph and will premiere Sunday night.(E! and NBC are both part of the NBCUniversal family.)
+/n

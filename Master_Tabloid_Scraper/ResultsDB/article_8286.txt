@@ -1,0 +1,83 @@
+Louis Tomlinson Claims He's 'Not Sure' If He Flipped A Photographer Onto His Back/n
+
+					var next_post_url = "http://radaronline.com/photos/prince-harry-meghan-markle-engaged-proposal-plans-birthday/";
+					var prev_post_url = "http://radaronline.com/photos/paula-patton-robin-thicke-custody-son-julian-birthday-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-03-11T14:33:41+00:00","caption":"Even though RadarOnline.com obtained exclusive footage that showed Louis Tomlinson's beatdown with a photographer, it's still not enough proof for the singer to take the blame.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-airport-brawl-cops-statement-one-direction-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-11T12:47:38+00:00","caption":"\"I may have taken him down, I'm not sure, but I remember, we both fell to the floor,\" Tomlinson told police hours after his arrest on March 3 at the Los Angeles International Airport.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-attacking-paparazzi-airport-13.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-11T12:47:39+00:00","caption":"However, Radar's eyewitness caught a very telling account of what really happened \u2014 on camera!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-attacking-paparazzi-airport-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-11T12:47:40+00:00","caption":"&nbsp;\n\nThe shocking footage shows the 25-year-old star aggressively approaching the photographer, Karl Larssen, who refused to stop snapping photos of the singer and his on-off again girlfriend, Eleanor Calder. Larssen claimed Tomlinson \"lifted my leg and then he hit me and I hit my own head,\" adding, \"I was so disoriented and I heard everyone screaming.\"","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-attacking-paparazzi-airport-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-11T12:47:48+00:00","caption":"As Radar readers know, Tomlinson allegedly struck a second victim, Ana Becerra Herrera, who got into a fight with Calder for filming Tomlinson's fight. Herrera plans to press charges against him for \"socking\" her in the eye, leaving her with a bloody injury.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-attacking-paparazzi-airport-16.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-11T12:47:49+00:00","caption":"Since the throwdown, the 25-year-old singer has remained on lockdown inside his home as he comes to terms that he may face jail time for the meltdown. He's set to appear in court on March 29.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-attacking-paparazzi-airport-18.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-11T12:47:53+00:00","caption":"Do you think Tomlinson will fess up? Tell us your thoughts below!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/louis-tomlinson-arrested-attacking-paparazzi-airport-21.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Louis Tomlinson Claims He’s ‘Not Sure’ If He Flipped A Photographer Onto His Back
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Even though RadarOnline.com obtained exclusive footage that showed Louis Tomlinson's beatdown with a photographer, it's still not enough proof for the singer to take the blame.Photo credit: Coleman-Rayner2 of 8According to the police report obtained by The Sun, the One Direction singer told cops he doesn't remember specific details about the altercation.Photo credit: Coleman-Rayner3 of 8"I may have taken him down, I'm not sure, but I remember, we both fell to the floor," Tomlinson told police hours after his arrest on March 3 at the Los Angeles International Airport.Photo credit: Coleman-Rayner 4 of 8However, Radar's eyewitness caught a very telling account of what really happened — on camera!Photo credit: Coleman-Rayner  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8 
+
+The shocking footage shows the 25-year-old star aggressively approaching the photographer, Karl Larssen, who refused to stop snapping photos of the singer and his on-off again girlfriend, Eleanor Calder. Larssen claimed Tomlinson "lifted my leg and then he hit me and I hit my own head," adding, "I was so disoriented and I heard everyone screaming."Photo credit: Coleman-Rayner 6 of 8As Radar readers know, Tomlinson allegedly struck a second victim, Ana Becerra Herrera, who got into a fight with Calder for filming Tomlinson's fight. Herrera plans to press charges against him for "socking" her in the eye, leaving her with a bloody injury.Photo credit: Coleman-Rayner  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8Since the throwdown, the 25-year-old singer has remained on lockdown inside his home as he comes to terms that he may face jail time for the meltdown. He's set to appear in court on March 29.Photo credit: Coleman-Rayner 8 of 8Do you think Tomlinson will fess up? Tell us your thoughts below!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Coleman-Rayner  
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Even though RadarOnline.com obtained exclusive footage that showed Louis Tomlinson's beatdown with a photographer, it's still not enough proof for the singer to take the blame.Photo credit: Coleman-RaynerAccording to the police report obtained by The Sun, the One Direction singer told cops he doesn't remember specific details about the altercation.Photo credit: Coleman-Rayner"I may have taken him down, I'm not sure, but I remember, we both fell to the floor," Tomlinson told police hours after his arrest on March 3 at the Los Angeles International Airport.Photo credit: Coleman-Rayner However, Radar's eyewitness caught a very telling account of what really happened — on camera!Photo credit: Coleman-Rayner  
+
+The shocking footage shows the 25-year-old star aggressively approaching the photographer, Karl Larssen, who refused to stop snapping photos of the singer and his on-off again girlfriend, Eleanor Calder. Larssen claimed Tomlinson "lifted my leg and then he hit me and I hit my own head," adding, "I was so disoriented and I heard everyone screaming."Photo credit: Coleman-Rayner As Radar readers know, Tomlinson allegedly struck a second victim, Ana Becerra Herrera, who got into a fight with Calder for filming Tomlinson's fight. Herrera plans to press charges against him for "socking" her in the eye, leaving her with a bloody injury.Photo credit: Coleman-Rayner Since the throwdown, the 25-year-old singer has remained on lockdown inside his home as he comes to terms that he may face jail time for the meltdown. He's set to appear in court on March 29.Photo credit: Coleman-Rayner Do you think Tomlinson will fess up? Tell us your thoughts below!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Coleman-Rayner  
+
+
+
+
+
+
+
+
+
+/n

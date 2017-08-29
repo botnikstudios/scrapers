@@ -1,0 +1,84 @@
+Rosario Dawson Finds Cousin Dead in Her L.A. Home
+/n
+
+ 
+Rosario Dawson‘s cousin has died after the actress found her unresponsive, PEOPLE has confirmed.
+The actress walked downstairs in her Venice home on Thursday where she discovered her 26-year-old cousin Vaneza Ines Vasquez unconscious.
+Dawson reportedly called the paramedics immediately, but they were unable to revive her on the scene. Vasquez was transported to the hospital, where she was later pronounced dead.
+A toxicology report is still pending and the autopsy has been deferred, according to Chief Coroner Ed Winter, who said it’s too soon to say whether she died of natural causes. Vasquez had been suffering from migraines and hypertension.
+Vasquez was working for Dawson at the time of her death.
+Vasquez’s mother, Lisa Centeno paid tribute to her daughter on Facebook.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-c446fd58768bdbcbc02938d86a7b6b71-59a4ef048d8fd');
+				var iframe = document.getElementById('wpcom-iframe-c446fd58768bdbcbc02938d86a7b6b71-59a4ef048d8fd');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-c446fd58768bdbcbc02938d86a7b6b71-59a4ef048d8fd'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+“Vaneza, my sweet, sweet beautiful baby – your passing has left me destroyed forever but I know you are at peace in Paradise. I love you, my alpha child,” she wrote.
+/n

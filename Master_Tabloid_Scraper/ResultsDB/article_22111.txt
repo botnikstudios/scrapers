@@ -1,0 +1,48 @@
+Manchester by the Sea Director Kenneth Lonergan Pens Letter to His Alma Mater's Newspaper in Defense of Casey Affleck Kenneth Lonergan is standing up for his star.  In a letter to the editor of his alma mater Wesleyan University's .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/834050/manchester-by-the-sea-director-kenneth-lonergan-pens-letter-to-his-alma-mater-s-newspaper-in-defense-of-casey-affleck');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201726/rs_634x1024-170306072020-634-CaseyAffleck-KennethLonergan-MK030617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Casey Affleck, Kenneth Lonergan");
+	var imageCaption = encodeURIComponent("Casey Affleck, Kenneth Lonergan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+John Lamparski/WireImage
+
+Kenneth Lonergan is standing up for his star. In a letter to the editor of his alma mater Wesleyan University's newspaper, The Wesleyan Argus, the Manchester by the Sea director penned a passionate response to a student's recent op-ed.Connor Aberle, an assistant opinion editor for the paper and a member of the university's class of 2019, wrote a piece claiming the university was "complicit" in Casey Affleck's success by "endorsing" his director. In the school's praising of Lonergan and his Oscar win for Best Original Screenplay, Aberle argued the school should also acknowledge his relationship with the film's main actor, Affleck, who was accused of sexual harassment by two I'm Still Here co-workers in 2010 lawsuits. The actor vehemently denied the claims and the lawsuits were ultimately settled.
+
+"Wesleyan University has an obligation to reject sexual violence of all kinds," the student wrote. "Therefore, it cannot claim credit for Lonergan's success without also recognizing his role in promoting Casey Affleck's career. Wesleyan must either be cautious in its alumni praise, or it must admit to its students that it cares only about building the Wesleyan University brand rather than social justice or the well-being of the Wesleyan community."Lonergan fired back at the article with one of his own titled, "How Connor Aberle and The Argus are Complicit in Slandering." "Connor Aberle's article about myself, Casey, Affleck and Wesleyan's supposed complicity in condoning sexual misconduct – and worse – by tauting me as a Wesleyan alumn after I won an Oscar last week is such a tangle of illogic, misinformation and flat-out slander that only the author's presumed youth can possibly excuse his deeply offensive display of ignorance, and warped PC-fueled sense of indignation," Lonergan began.
+
+The director questioned Aberle's knowledge of Affleck's background, pointing out that the results of the lawsuits were reached privately. "He writes as if Casey Affleck were actually guilty of a crime. In fact, it was alleged 7 years ago, in a civil lawsuit for breach of contract, that Casey sexually harrased two women formerly in his employ. Casey denounced the allegations as being totally fabricated. Like most civil suits, this one was settled out of court by mutual consent on undisclosed terms," the Oscar winner explained. "In other words nothing was proved or disproved. So how does Mr Aberle dare to write as if he knows who was telling the truth and who was not?"
+
+"Somebody as interested in actual as opposed to merely vocalized social justice as Mr Aberle presumably is, should unwind his tangled, immoral chain of reasoning and start over at the fundamental precept that an allegation is not an indictment. Nor can it be treated as such by any ethical person living in a democratic society supposedly based on the rule of law," Lonergan concluded. I do hope that Mr Aberle is capable of taking a much harder look at the merits of his own arguments before he decides to air his views in public again."
+/n

@@ -1,0 +1,84 @@
+'I Love You Like a Big Ole Dog!!!': Viola Davis Shared the Sweetest Anniversary Tribute to Her Husband
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-8e6942e0a7e757801a515f673abf8d20-59a50004d7c99');
+				var iframe = document.getElementById('wpcom-iframe-8e6942e0a7e757801a515f673abf8d20-59a50004d7c99');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-8e6942e0a7e757801a515f673abf8d20-59a50004d7c99'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Fourteen years ago, actress Viola Davis walked down the aisle to say “I do,” and on Friday she made it clear that the flame is still going strong.
+To commemorate this milestone, the How to Get Away with Murder star, 51, tweeted a photo from her 2016 vow renewal to actor Julius Tennon. She is emphatic about how he changed her life for the better, making it “sweeter” and “richer.”
+“I love you like a big ole dog!!!” she says in the post.
+Davis and Tennon, 63, tied the knot in 2003, and expanded their family eight years later when they adopted their daughter, Genesis.
+FROM PEN: Viola Davis Shares New Details of Her Incredible Journey From Poverty to Oscar Gold
+
+It is no wonder the couple made it to their ivory anniversary, though — as Davis previously told PEOPLE, the couple seems to have the secret to marriage all figured out.
+“It’s about the everyday,” she shared. “Every day is like a date.”
+How to Get Away with Murder returns to ABC this fall.
+/n

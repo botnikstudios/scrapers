@@ -1,0 +1,46 @@
+Anne Hathaway: I Had to "Pretend" I Was Happy When I Won an Oscar She continued, "It's an obvious thing, you win an Oscar and you're supposed to be happy. I didn't feel that way. I felt wrong that I was standing.../n
+When it comes to Anne Hathaway, not all that glitters is gold. The Colossal actress recently opened up to The Guardian about her very own gold Oscar statuette, which she won in 2013 for Les Misérables. During her acceptance speech Hathaway joyfully squealed "It came true!," but as her latest comments indicate, the career-peaking moment wasn't the dream she really dreamed after all. "I felt very uncomfortable. I kind of lost my mind doing that movie and it hadn't come back yet," Hathaway admitted of her intense role as a destitute sex worker. "Then I had to stand up in front of people and feel something I don't feel which is uncomplicated happiness."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/803701/anne-hathaway-i-had-to-pretend-i-was-happy-when-i-won-an-oscar');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013124/634.anne.cm.22413_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("2013 Oscars Show, Anne Hathaway");
+	var imageCaption = encodeURIComponent("2013 Oscars Show, Anne Hathaway");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Winter/Getty Images
+
+She continued, "It's an obvious thing, you win an Oscar and you're supposed to be happy. I didn't feel that way. I felt wrong that I was standing there in a gown that cost more than some people are going to see in their lifetime, and winning an award for portraying pain that still felt very much a part of our collective experience as human beings."Critics questioned the 33-year-old movie's stars sincerity and overall public persona during Les Mis' press tour, an aspect of the 2013 awards season Hathaway can't seem to shake. "I tried to pretend that I was happy and I got called out on it, big time. That's the truth and that's what happened. It sucks. But what you learn from it is that you only feel like you can die from embarrassment, you don't actually die," she added.
+
+Save for a few choice projects, Anne has purposely dimmed her own spotlight, instead choosing to focus on life as a mom. Seven months ago the brunette beauty became a first time parent with hubby Adam Shulman as they welcomed a baby boy named Jonathan Rosebanks Shulman. And as Anne puts it, "[In 25 years] I'm just going to be staring in awe at my son. I'm a mum for the rest of my life." 
+/n

@@ -1,0 +1,47 @@
+housewife, after previously serving as the woman's husband's mistress. The Color Purple also focuses on Celie's attempt to reunite with her sister, Nettie.   While several American Idol alumni have appeared on the Great White .../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/613017/jennifer-hudson-to-make-broadway-debut-in-the-color-purple-will-be-3rd-american-idol-alum-to-star-in-musical');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014823/rs_634x1024-140923102618-634.jennifer-hudson-jhud-launch-party-092314.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jennifer Hudson");
+	var imageCaption = encodeURIComponent("Jennifer Hudson");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Cindy Ord/Getty Images for Gilt City
+
+Jennifer Hudson, an Oscar and Grammy winner, is set to make her debut in a Broadway show, The Color Purple, and is following in the footsteps of two fellow former American Idol contestants—who both competed against her during the same year!The 33-year-old, who came in seventh place during the third season of the show in 2004, will play Shug Avery in a revival of the musical that is set to premiere this fall and is co-produced by Oprah Winfrey, who starred in a 1985 film adaptation, organizers said in a statement to E! News on Friday.The story is set between 1909 and 1949 in the American South. Hudson's character is a sultry blues singer who gets involved in a romantic relationship with main character Celie, an abused housewife, after previously serving as the woman's husband's mistress. The Color Purple also focuses on Celie's attempt to reunite with her sister, Nettie.  While several American Idol alumni have appeared on the Great White Way over the years, Hudson, an R&B singer, will be the third to star in a national production of The Color Purple and the second to perform in the Tony-winning musical on a Broadway stage. The show is based on Alice Walker's Pulitzer Prize-winning 1982 novel by the same name.The Broadway musical debuted in 2005 and ran until 2008. During the final year of its run, American Idol season 3 winner Fantasia Barrino played Celie, which marked her Broadway debut. LaToya London, who came in fourth place on American Idol during Hudson and Barrino's season, played Nettie during a 2007 national tour of The Color Purple, which featured Destiny's Child singer Michelle Williams as Shug.
+
+In 2006, veteran stage performer LaChanze, who played one of the Muses in Disney's 1997 movie Hercules, won a Tony for her portrayal of Celia in The Color Purple in the original Broadway production. The musical received nine other nominations, including Best Musical, which it lost to Jersey Boys.The film adaptation of The Color Purple a drama, was directed by Steven Spielberg. Margaret Avery played Hudson's character, while Danny Glover played her husband and Whoopi Goldberg portrayed Celia. Winfrey made her film debut as Sophia, Celia's stepson's wife. Hudson sang "I'm Here," one of Celie's songs in The Color Purple, during a tribute to Winfrey at the Kennedy Center Honors ceremony in Washington, D.C. in 2010.The movie was nominated for 11 Oscars, including Best Picture, which it lost to Out of Africa.
+
+Hudson won an Oscar for her performance as Effie White, a singer in the girl group The Dreamettes, in the 2006 musical film Dreamgirls, which also starred Beyoncéand Jamie Foxx. In 2005, the actor's manager told USA Today that in addition to Hudson, Barrino and London had also auditioned for roles as members of The Dreamettes. Barrino had tried out for the part of Effie."I remember calling Jennifer. She picked up the phone and I said, 'Heifer, you took my part!''' Barrino joked in a 2007 interview with Entertainment Weekly.Hudson also won a Grammy Award for her 2008 self-titled debut album. She has also been nominated for three more, including Best Compilation Soundtrack Album for a Motion Picture, Television or Other Visual Media for the Dreamgirls motion picture soundtrack and the song "I'm His Only Woman," which featured Barrino.Both singers performed at the Tony Awards last year. Hudson sang "Neverland" from the musical Finding Neverland, co-written by former Take That singer Gary Barlow, while Barrino, Gladys Knight and Patti LaBelle performed with the company of the musical After Midnight.—Reporting by Marc Malkin
+/n

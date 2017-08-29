@@ -1,0 +1,54 @@
+Morena Baccarin's Baby Bump Spotted on the Set of Gotham With Benjamin McKenzie—See the Pic! We spy with our little eyes...a baby bump! Morena Baccarin was seen on the set of Gotham alongside new beau Benjamin McKenzie in a single pose .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/699893/morena-baccarin-s-baby-bump-spotted-on-the-set-of-gotham-with-benjamin-mckenzie-see-the-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015825/rs_634x1024-150925042403-634-Morena-Baccarin-Ben-McKenzie-BTS-Gotham-Baby-Bump-JR-92515.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Morena Baccarin, Ben McKenzie");
+	var imageCaption = encodeURIComponent("Morena Baccarin, Ben McKenzie");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jose Perez / Splash News
+
+We spy with our little eyes...a baby bump!Morena Baccarin was seen on the set of Gotham alongside new beau Benjamin McKenzie in a single pose that visibly confirmed what E! had learned Thursday—Baccarin is indeed expecting. Just set your eyes on that adorable visible baby bump! While the actress' new curves could have been easily camouflaged underneath that cream trench coat, Baccarin's arm placement gave it all away. After they were spotted posing together on the 2015 Emmy's red carpet on Sept. 20, E! confirmed earlier this week that the pair had transformed their on-screen chemistry into a real-life romance.Baccarin and McKenzie have starred together on FOX's television series, Gotham, since the start of this year. However, the 36-year-old Brazilian beauty was married to ex-husband Austin Chick until he filed for divorce in July, citing irreconcilable differences. Just three months later and here we are. The former couple had one child together, 2-year-old son, Julius Setta Chick, for whom they share joint custody. Although, Julius will reside mainly with Baccarin in New York City, according to a recent ruling by a judge Thursday. 
+
+
+
+Steve Granitz/WireImage
+
+In retrospect, you can even notice the beginnings of a baby bump in some side shots of the former Homeland star in the sexy Reem Acra crimson gown with sheer lace detailing that Baccarin sported on the 2015 Emmy red carpet.The empire waist should have been our first tip. 
+
+READ: Co-stars who became parents
+
+While the couple has still not publicly commented on their relationship or first child together, 37-year-old McKenzie was all smiles during an interview on Late Night With Seth Meyers, dishing on Gotham's second season, which premiered Sept. 21. When asked why he thinks comic book fans have been very pleased with the new show, McKenzie had one simple answer: "Me."Perhaps his elevated confidence is a result of the love in the air?Unfortunately, McKenzie didn't reveal anything to Meyers regarding his leading lady or their upcoming role as parents. Still, we wonder if the show will mimic real life—will Baccarin's character, Dr. Leslie Thompkins, get pregnant with McKenzie's character, Commissioner James Gordon? Unfortunately, we're only one episode into the new season, so we'll just have to remain glued to the television at all times. 
+
+(E! and NBC are both members of the NBCUniversal family.)
+/n

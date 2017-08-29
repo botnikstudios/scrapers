@@ -1,0 +1,48 @@
+Jewel Says Men Have Hit on Her Since She Was 8 Years Old: "They Were Sharks That Could Smell Blood" It's not all roses in Hollywood.  Jewel has had a chart-topping, multi-decade career, but it hasn't been entirely joyful..../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/694985/jewel-says-men-have-hit-on-her-since-she-was-8-years-old-they-were-sharks-that-could-smell-blood');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015811/rs_634x1024-150911125538-634-jewel-headshot.ls91115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jewel");
+	var imageCaption = encodeURIComponent("Jewel");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Benson/Getty Images for Starwood Preferred Guest
+
+It's not all roses in Hollywood. Jewel has had a chart-topping, multi-decade career, but it hasn't been entirely joyful. In a new interview with The Hollywood Reporter, the Grammy-nominated singer describes a much darker side to the music industry rarely discussed: sexual harassment. Jewel revealed she has been dealing with the taboo topic for decades—starting while she was just in elementary school. "I've had men hitting on me, sadly, since I was really young," she said. "At 8, I had men putting dimes in my hands saying, 'Call me. It'd be so great to f--- when you're older.' And just horrible stuff."
+
+The unwanted attention escalated as she matured, particularly during her early years as a struggling musician performing in coffee shops and bars in San Diego. Her boss at the time expected her to have sex with him and, when she refused, she was fired. Unable to afford rent, she kept house in her car, sleeping in it when she wasn't writing new music or performing. Still, the pane glass windows couldn't defend her from an endless line of preying men. "I've never been more propositioned by businessmen in my life. It was almost like they were sharks that could smell blood, like of vulnerability," said Jewel. "I'd go back to my car, writing songs, and men would literally come up and proposition me. They would be like, 'Hey, do you need rent money?' you know and things like that. It was pretty wild. I never took anybody up on it, but it was interesting to see this side of men that basically would prey on somebody vulnerable."Jewel also admitted that she often witnessed men find success with their tactics on her peers."I saw what women would give up for a compliment," she said. "I felt men were willing to take advantage if they saw something vulnerable."
+
+Unfortunately, the singer had to dim her personality as a defense mechanism, especially when she finally signed with Atlantic Records at 18. "I learned to keep my energy to myself, where there's nothing about me that seemed approachable. And as men did approach me, I got very good at handling men in a way that sort of didn't anger them. ... and at the same time using wit and usually humor to defuse the situation and to inform them, 'P.S. Not available that way.'"While the opportunities for exploitation were always present, Jewel never budged."I never slept my way to the top, ever. There was never one time I've ever compromised anything. I was always willing to walk away."
+
+Watch this flashback video of Jewel sharing her holiday plans.
+/n

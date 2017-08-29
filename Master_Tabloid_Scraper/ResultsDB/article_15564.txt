@@ -1,0 +1,44 @@
+Barbara Walters to Have Heart Surgery Good thing Barbara Walters is lightening her workload. She can use the rest. The veteran journalist announced to her fellow View crew this morning that she intends to go under the knife later this week t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/180257/barbara-walters-to-have-heart-surgery');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20080711/293.walters.barbara.071108.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Barbara Walters");
+	var imageCaption = encodeURIComponent("Barbara Walters");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Steve Granitz/WireImage.com
+
+Good thing Barbara Walters is lightening her workload. She can use the rest.The veteran journalist announced to her fellow View crew this morning that she intends to go under the knife later this week to have a faulty heart valve replaced."Lot of people have done this and I have known about this condition for a while now. My doctors and I have decided that this is the best time to do the surgery," said Walters. "And since the summer is coming up, I can take a nice vacation. Earlier this morning I told my wonderful and supportive pals here. And you kept it a secret until this very minute."
+
+Back in February, the 80-year-old ABC News legend pulled the plug on her annual Oscar special, saying it was time to move on.But once her ticker's up to it, she'll be back on The View. Walters said today that a full recovery is expected to take anywhere from one to three months.Whoopi Goldberg then asked if Walters was scared."Nobody wants to have this kind of surgery," Walters replied. "It's not elective, like getting your face lifted. But its an operation that's done so often and I have very good doctors and the support and love of my daughter. I'm glad it's going to be over with. It's going to be taken care of."Glad to hear.
+/n

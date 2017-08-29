@@ -1,0 +1,45 @@
+Sara Gilbert and Her Growing Baby Bump Step Out in L.A.—See the Cute Pregnancy Pic Sara Gilbert's baby bump is getting bigger and bigger! The pregnant 39-year-old star, who is expecting her first child with wife Linda Perry, stepped out.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/619133/sara-gilbert-and-her-growing-baby-bump-step-out-in-l-a-see-the-cute-pregnancy-pic');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015027/rs_634x1024-150127143429-634.Sara-Gilbert-Pregnant-LA.ms.012715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sara Gilbert ");
+	var imageCaption = encodeURIComponent("Sara Gilbert ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Vladimir Labissiere/Splash News
+
+Sara Gilbert's baby bump is getting bigger and bigger!The pregnant 39-year-old star, who is expecting her first child with wife Linda Perry, stepped out in Los Angeles today with her biggest belly yet (naturally). The Talk co-host went casual in black sneakers, black sweatpants and a black top the hugged her tummy with sunglasses. Gilbert looked comfy and cozy while running errands around town.Gilbert has been out and about a lot recently with her growing bump. Last month, she and Perry enjoyed a winter family getaway to Sun Valley, Idaho. The couple also had Gilbert's son Levi, 10, and daughter Sawyer, 7, from her previous relationship with producer Allison Adler in tow during the family trip.
+
+And earlier this month, Gilbert was snapped out in L.A. looking casual and cool once again.Gilbert revealed that she and Perry are expecting their first child together back in September on The Talk. After uttering the words "I'm pregnant," her talk show co-stars Sheryl Underwood, Sharon Osbourne, Aisha Taylor and Julie Chen erupted with excited cheers and squeals.Gilbert also said at the time that she was "really tired" in the earlier stages of her pregnancy before adding, "I feel good, I feel really good!"
+/n

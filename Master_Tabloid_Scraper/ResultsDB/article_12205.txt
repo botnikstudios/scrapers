@@ -1,0 +1,44 @@
+Madonna Settles Child Custody Battle With Guy Ritchie The drama seeped into her professional life, as a March 2016 performance saw Madonna become overcome with emotion while dedicating"La Vie en Rose" to her then-estranged son.  &q.../n
+Madonna can finally close the chapter on the custody battle that pinned her and ex-husband Guy Ritchie against each other. E! News can confirm that after nine months of fighting over their 16-year-old son Rocco Ritchie, the two have come to an agreement. The details surrounding the stipulations have not been released. It is unclear which parent Rocco will live with. The legal turmoil spans back to December 2015, when Rocco refused to return to the United States despite a court order that said the teenager would return to his mother in New York after being with his director father in London. In the months that followed, Madonna seemingly pleaded with her eldest son for a reconciliation via multiple social media tributes. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/792803/madonna-settles-child-custody-battle-with-guy-ritchie');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014221/rs_634x1024-140321100235-634.Madonna-Guy-Richie-Divorce.jl.032114_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Guy Ritchie, Madonna, Divorce");
+	var imageCaption = encodeURIComponent("Guy Ritchie, Madonna, Divorce");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Dave M. Benett/Getty Images
+
+The drama seeped into her professional life, as a March 2016 performance saw Madonna become overcome with emotion while dedicating"La Vie en Rose" to her then-estranged son. "That is my son, who I mentioned earlier. He is actually 15 and it's true, there is no love stronger than a mother for her son," she told the crowd. "And, if I talk about him too much, I might cry. But I would like to dedicate this song to him. It's a love song for a man, but I know he'll be one, one day. I hope he hears this somewhere and knows how much I miss him."Much has been made of the case's very public nature, with a judge urging the A-list exes to work together to amicably settle the custody dispute for the sake of their son. "For all the media coverage, comment and analysis, this is a case born out of circumstances that arise for countless separated parents the world over," the judge said. Earlier in March, a New York Supreme Court judged urged the same thing, adding they should also stop putting pressure on their young son.Madonna and Ritchie divorced in 2008 and also have another son, David Banda, 10. Madge is also mother to two other children, Lourdes Leon, 19, and Mercy James, 9. Ritchie is now married to Jacqui Ainsley, with whom he has three children. E! News has reached out to both Madonna and Ritchie for comment. Following news of the settlement, the pop icon took to social media twice, writing alongside snapshots from a photo shoot, "Because sometimes soccer Mom's need to be a [bitch]" as well as, "And be treated like a [queen]."
+/n

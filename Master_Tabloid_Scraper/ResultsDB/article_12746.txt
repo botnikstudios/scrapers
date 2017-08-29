@@ -1,0 +1,46 @@
+EXCLUSIVE! Inside Floyd Mayweather's Extravagant Birthday Party Featuring Bengal Tigers and Justin Bieber That was one knockout of a party.  In celebration of his 40th birthday, world champion boxer Floyd Mayweather threw himself a bash.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/832011/inside-floyd-mayweather-s-extravagant-birthday-party-featuring-bengal-tigers-and-justin-bieber');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017126/rs_634x1024-170226110026-634.floyd-mayweather.cm.22617.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Floyd Mayweather");
+	var imageCaption = encodeURIComponent("Floyd Mayweather");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+TIBRINA HOBSON/AFP/Getty Images
+
+That was one knockout of a party. In celebration of his 40th birthday, world champion boxer Floyd Mayweather threw himself a bash as big as his career Saturday night in Los Angeles. Located in a ballroom downtown, the athlete welcomed celebrity guests like Bobby Brown, Justin Bieber and Mariah Carey into a star-studded room decorated with disco balls and crystal chandeliers. Dressed to impress, Mayweather donned a black sequin blazer with black pants, a black shirt and dark aviators. "He was smiling and enjoying all the attention," a source told E! News. 
+
+There was no denying who the party was for as Mayweather's face was everywhere. At the entrance to the party, guests were greeted by a money tree covered with hanging fake $100 bills with his face on them while larger portraits of the birthday boy hung on the walls. The larger-than-life boxer had an equally packed guest list. While the room was meant to only accommodate 300 people, upwards of 1,300 attendees crowded into the ballroom. In addition to an open bar, guests enjoyed hamburger sliders and mini BBQ chicken sandwiches. 
+
+"The cake took about 72 hours to make. It had to be transported in two pieces because it was too tall to fit in my SUV," Bree Miller of Bree's Cakes told E! News. "It had over 12 feet of swarovski crystals on it... and it was loaded with over a hundred personal photos ranging from childhood to now showcasing the 40 years of Floyd."  Cheers to 40 more—and then some!—Reporting by Holly Passalaqua 
+/n

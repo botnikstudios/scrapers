@@ -1,0 +1,44 @@
+Rachel Roy Gets Custody of Kids and a Restraining Order Against Damon Dash—All the Details Rachel Roy and Damon Dash's custody battle has been finalized, but it doesn't look good for the former Roc-a-Fella Records business partner..../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/648585/rachel-roy-gets-custody-of-kids-and-a-restraining-order-against-damon-dash-all-the-details');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015321/rs_634x1024-150421074954-634.Damon-Dash-Rachel-Roy.jl.042115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Damon Dash, Rachel Roy");
+	var imageCaption = encodeURIComponent("Damon Dash, Rachel Roy");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Hal Horowitz/WireImage
+
+Rachel Roy and Damon Dash's custody battle has been finalized, but it doesn't look good for the former Roc-a-Fella Records business partner.Dash has lost sole and physical custody of his two daughters, 15-year-old Ava Dash and 6-year-old Tallulah Dash, to ex-wife Roy, according to court documents obtained by E! News. The fashion designer also successfully obtained a three-year restraining order against her ex, which also includes an order of protection for her daughters.He won't be completely isolated from his kids, as the court has granted him supervised visits. But Jay-Z's former business partner probably didn't find out about the ruling until later because he didn't show up to the ruling.Roy filed for divorce from Dash in 2009 after about four years of marriage. Since then, Roy has found herself in some hot water after she reportedly was the cause of the now-infamous 2014 Met Gala elevator brawl between Jay Z and Solange Knowles.
+
+"At the gala, Rachel was being flirtatious with Jay," a source exclusively revealed to E! News. "Once everyone was at the Boom Boom Room for the after-party, her flirtations were elevated.""Beyoncé approached Rachel to let her know the behavior was disrespectful and she wanted her out of their lives for good," the insider continued. "Solange came over to have her sister's back, and things got heated with her and Rachel. Jay said some disrespectful things to Beyoncé and Solange as the confrontation was going down. That's why all hell broke loose in the elevator and why Beyoncé just stood back and let Solange hit Jay."The famous family ultimately released a statement in the aftermath, and Solange returned to her "normal" life in New Orleans, being a mom and taking her kids to school. 
+/n

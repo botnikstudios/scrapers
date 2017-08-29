@@ -1,0 +1,96 @@
+Natalee Holloway’s Dad Sets Up Undercover Sting: ‘We Need to Find Out What’s the Truth and What’s Not the Truth’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-d16934b1a70c2287eca19986c517f793-59a4ffa63eaa3');
+				var iframe = document.getElementById('wpcom-iframe-d16934b1a70c2287eca19986c517f793-59a4ffa63eaa3');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-d16934b1a70c2287eca19986c517f793-59a4ffa63eaa3'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Dave Holloway has been down this road before.
+Countless tips and informants over the past 12 years have teased him with clues about what happened to his daughter, Natalee, who vanished in 2005 in Aruba while on a graduation trip with high school classmates from Mountain Brook, Alabama.
+Holloway recently revealed that his latest, private 18-month investigation uncovered what have been identified as human skeletal remains on the island. He now awaits DNA testing to learn if those remains might be a match for Natalee.
+The second episode of the six-part Oxygen series The Disappearance of Natalee Holloway, which aired Saturday, revealed yet another twist in his path to reach that point.
+Holloway’s current investigation began with a phone call from a man named Gabriel, who told Holloway’s investigator, T.J. Ward, that he’d befriended a second man who claimed to have been involved in removing Natalee’s body from an isolated grave at the request of longtime suspect Joran van Der Sloot and cremating it.
+The second episode of the Oxygen series followed Holloway and Ward as they set up a sting in a New Orleans hotel room in an effort to document that story.
+Their goal: With Gabriel’s help, get the second man, John Ludwig, to confess on hidden camera what he’d told Gabriel earlier — that Ludwig accepted $1,500 from van der Sloot to dig up Natalee’s body from the Aruban national forest and take it to a crematory, so that her ashes could be scattered at sea.
+RELATED VIDEO: Skeletal Remains Found in Natalee Holloway Case Confirmed as of ‘Caucasian’ Descent
+
+The big revelation of the episode: “It was never in the national forest,” Ludwig tells Gabriel, changing his account and leaving Ward and Holloway with questions about the story’s credibility.
+Instead, Ludwig says, Natalee’s body was buried near a house in a cul du sac not far from Ludwig’s aunt’s home on the island.
+Said Ward on the show, during a debrief of the sting’s first hours: “We need to find out what’s the truth and what’s not the truth.”
+• Want to keep up with the latest crime coverage? Click here to get breaking crime news, ongoing trial coverage and details of intriguing unsolved cases in the True Crime Newsletter.
+During promotion for the series, Holloway and Ward have since indicated that the remains they located came from a site behind a house. At the same time, Aruban authorities who also investigated a site brought to their attention by Holloway and Ward tell PEOPLE that no human remains were found there.
+The sting shown unfolding on Feb. 13, 2017, takes place in New Orleans because Louisiana is a so-called “one-party state,” meaning that federal law permits recording of conversations with the consent of just one of the parties present. Gabriel, who worked undercover with Holloway and Ward, agreed to be taped on hidden camera and audio while trying to get Ludwig to repeat his story.
+At the time Gabriel and Ludwig were roommates in Tampa, Florida, although Gabriel says on-camera that he has come to fear Ludwig.
+“He is not a person that you want to be around, ‘cause he’s not mentally stable,” Gabriel says.
+Ludwig is lured to accompany Gabriel to New Orleans by what Ward describes as the promise of “a fun, free vacation with all expenses paid.”
+In the series’ debut, Gabriel said Ludwig was a friend of van der Sloot’s in Aruba, and that van der Sloot — who allegedly said he gave Natalee GHB, a date-rape drug, and she later choked on her own vomit — enlisted Ludwig’s assistance when it appeared that someone was getting close to finding her buried body.
+Van der Sloot is known to be one of the last people seen with Natalee on the night she vanished after leaving a popular island bar. He has told several shifting accounts of his role while also denying he had anything to do with her presumed death, and he has never been formally prosecuted by Aruba authorities in the case.
+He currently is serving 28 years in a Peruvian prison for the unrelated 2010 murder of Stephany Flores, on the fifth anniversary of Natalee’s May 30, 2005 disappearance.
+The Disappearance of Natalee Holloway airs on Saturday (7 p.m. and 9 p.m. ET) on Oxygen.
+/n

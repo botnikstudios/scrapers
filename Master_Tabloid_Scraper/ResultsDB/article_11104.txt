@@ -1,0 +1,48 @@
+Wreck It Ralph Sequel Gets a Title: Ralph Breaks the Internet Plot details have yet to be revealed. "To take these characters we love and have them enter the enormous world of the internet has given us so much to explore," Moore to.../n
+So this is what the future of gaming looks like!At CinemaCon in Las Vegas Tuesday, Dave Hollis, head of distribution for The Walt Disney Studios, revealed the Wreck It Ralph sequel's title: Ralph Breaks the Internet: Wreck-It Ralph 2. Hollis also told attendees that Jane Lynch and Jack McBrayer will be reprising their roles from the 2012 movie. John C. Reilly and Sarah Silverman have been set to return as Wreck-It Ralph and Vanellope von Schweetz, respectively, since the follow-up film was announced in June 2016. Directors Phil Johnston and Rich Moore are also returning, as is producer Clark Spencer.If the title seems too long, Moore tweeted, "You can just call it Ralph for short, if you want."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/839529/wreck-it-ralph-sequel-gets-a-title-ralph-breaks-the-internet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017229/rs_641x749-170329035259-1024.wreck-it-ralph-2-ralph-breaks-the-internet.32917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ralph Breaks the Internet: Wreck-It Ralph 2");
+	var imageCaption = encodeURIComponent("Ralph Breaks the Internet: Wreck-It Ralph 2");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Walt Disney Studios
+
+Plot details have yet to be revealed. "To take these characters we love and have them enter the enormous world of the internet has given us so much to explore," Moore told E! News in a statement Tuesday. "Our production team has been hard at work designing a world that takes something we all think we know—the internet—but shows it in a whole new, imaginative way.""We're so excited to be working with Ralph, Vanellope von Schweetz, Fix-It Felix and Sergeant Calhoun again, and we have new characters we look forward to unveiling," said Johnston, who also wrote the screenplay. "At the center of this film, as in the first one, is the relationship between Ralph and Vanellope, two once-outcasts, who in each other, found true friendship."Ralph Breaks the Internet: Wreck-It Ralph 2 hits theaters on March 9, 2018.
+
+Just before Tuesday's announcement, Moore shared a teaser with his Twitter followers:
+
+The first Wreck-It Ralph movie earned $470 million at the worldwide box office and received Academy Award and Golden Globe nominations for Best Animated Feature. When the sequel was announced in June 2016, Reilly shared his excitement via a statement to E! News. "Ralph is a character very near and dear to my heart. I'm really looking forward to playing the big lug again. Making the first Wreck-It Ralph was one of the most special experiences I've ever had and I'm really looking forward to bringing him back to life. So many kids I've met all over the world are excited to see him again, too," the 51-year-old actor said. "They tell me all the time!""The world of the internet is the perfect place to send Ralph and Vanellope," Johnston told E! News last year. "The scope and scale are so vast and the possibilities for comedy are endless."
+/n

@@ -1,0 +1,48 @@
+Lydia Hearst Poses in Sexy Black Lingerie for Stripped-Down Maxim Spread Va-va-voom! Lydia Hearst is stripping way down for the pages of Maxim magazine. In the new and super-racy photo spread, the 29-year-old model and The Face coach shows l.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/523317/lydia-hearst-poses-in-sexy-black-lingerie-for-stripped-down-maxim-spread');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014220/rs_634x951-140320093513-634-Lydia-Hearst-MAXIM-april-2014.ls.32014.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lydia Hearst, Maxim Magazine");
+	var imageCaption = encodeURIComponent("Lydia Hearst, Maxim Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Harper Smith/Maxim
+
+Va-va-voom!Lydia Hearst is stripping way down for the pages of Maxim magazine.In the new and super-racy photo spread, the 29-year-old model and The Face coach shows lots of skin in only black undies and matching black bra. For the lingerie shoot, Hearst shows off her super-toned abs, thin frame and ample cleavage while posing in a black leather chair with her long hair over one shoulder.In a second shot, Hearst goes topless under a white coat with bright red panties.
+
+
+
+Harper Smith/Maxim
+
+In a third pic, Hearst lies on the ground in red-hot lingerie that features black accents.Along with the sexy Maxim spread, Hearst also opened up about the worst pickup line she's ever gotten from a guy: "I lost my number. Can I have yours?"Hearst, the great-granddaughter of publishing tycoon William Randolph Hearst, also dished that her spirit animal is a bear and that she could kick any guy's ass at...beer pong!
+/n

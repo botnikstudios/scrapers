@@ -1,0 +1,45 @@
+Watch Taylor Swift Get Serenaded by Aretha Franklin for Her Birthday! Let's just say it's going to be pretty tough for Taylor Swift to top this next year. During today's Billboard Women in Music luncheon, the soon-to-be birthd.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/606176/watch-taylor-swift-get-serenaded-by-aretha-franklin-for-her-birthday');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20141112/rs_634x1024-141212123244-634.Taylor-Swift-JR-121214.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Taylor Swift");
+	var imageCaption = encodeURIComponent("Taylor Swift");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Raymond Hall/GC Images
+
+Let's just say it's going to be pretty tough for Taylor Swift  to top this next year.During today's Billboard Women in Music luncheon, the soon-to-be birthday girl was on hand to accept her big honor and got one very special surprise.While on stage with a panel of songstresses, none other than Aretha Franklin began singing "Happy Birthday" to the "Blank Space" crooner.T.Swift took to Twitter shortly after the once-in-a-lifetime moment and wrote, "Aretha Franklin just sang 'Happy Birthday' to me and it will take me decades to recover. #goals"
+
+She continued on a more serious note, "Events like this where we have the most powerful people in music all gathered in one room, events like this give me hope that the right conversations will start to take place, and I invite you all to join in the conversation. The greatest moment of the year for me was when my fans went out and proved that if you provide them with a bold statement and pour your life into an album, they'll buy it." And while her birthday may not be until tomorrow, it's already been a whirlwind week for the Grammy nominee.Just last night, she was joined by some of her favorite gal pals, Cara Delevingne and Jamie King, for a late night dinner at Almanac in the West Village.Happy almost birthday! 
+/n

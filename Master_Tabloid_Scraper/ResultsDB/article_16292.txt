@@ -1,0 +1,46 @@
+January issue. The fashionista enlisted the help of some of her closest couture confidants for the special issue, including Nick Knight, Steven Klein and Inez and Vinoodh. "This issue of V is about all of these people coming together to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/718849/lady-gaga-named-guest-editor-of-v-magazine-s-january-issue');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151024/rs_634x865-151124072019-634.Lady-Gaga-V-Magazine.jl.112415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Lady Gaga, V Magazine");
+	var imageCaption = encodeURIComponent("Lady Gaga, V Magazine");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Inez & Vinoodh/V Magazine
+
+Lady Gaga is starting 2016 with a bang!The American Horror Story: Hotel star has been given the honor of being the cover girl and guest editor for V Magazine's January issue.The fashionista enlisted the help of some of her closest couture confidants for the special issue, including Nick Knight, Steven Klein and Inez and Vinoodh."This issue of V is about all of these people coming together to express a passion for art and fashion, to really 'go there' to make a great statement and to change things," Gaga told the fashion mag.
+
+"I feel like we all share an appetite for living a life of passion and creativity…it's like we all found our immortality through art and fashion…we share that deep spiritual place. These are people who have kept and protected me over the years, because they wanted me to survive…that's part of the message of this issue: we have to carry each other through the decades and take care of one another and honor each other's work."The New York native added, "I am saying thank you to all these people for everything they've given me...I want to make sure the world knows who they are…it's a guard of people…I call them my fashion guard!!"
+
+Stephen Gan, the Editor in Chief of V Magazine, explained why choosing Gaga for the magazine's cover and guest editor was a no-brainer."She's part musician, part notorious style setter, and part opinionated editor with strong convictions. Over the past six years of knowing each other, Lady Gaga and I often talk about her editing an issue of V, after all, she had been on the cover four times."He added, "She is gathering together true talents and all those who have inspired her about art and fashion…her closest collaborators…for what I hope will be a surprising and groundbreaking Spring Preview issue."The V99 Spring Preview Issue with Lady Gaga will be available in January 2016.
+/n

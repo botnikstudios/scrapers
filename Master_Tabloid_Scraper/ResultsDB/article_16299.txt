@@ -1,0 +1,50 @@
+David Beckham are absolutely stunning together on the December/January cover of Vogue Paris. The gorgeous couple struck a tender pose for photographers Inez van Lamsweerde and Vinoodh Matadin and the results were so gorge that the magaz.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/486110/victoria-beckham-guest-edits-christmas-issue-of-vogue-paris-shares-cover-with-hubby-david');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131029/rs_293x381-131129100334-634.French-Vogue-Beckham-David-Victoria.jl.112913.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Victoria Beckham, David Beckham, Vogue France");
+	var imageCaption = encodeURIComponent("Victoria Beckham, David Beckham, Vogue France");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Inez & Vinoodh/Vogue France
+
+Avert your eyes if you don't want to feel guilty about overindulging on Thanksgiving!Victoria and David Beckham are absolutely stunning together on the December/January cover of Vogue Paris. The gorgeous couple struck a tender pose for photographers Inez van Lamsweerde and Vinoodh Matadin and the results were so gorge that the magazine made two special covers for the issue.And Beckham isn't just the cover model.She also served as the December issue's guest editor of the esteemed magazine, which gives the mother-of-four's fans a sneak peek into her glamorous life, from behind-the-scenes at her Spring/Summer fashion show to tea time with her chic friends Marc Jacobs and Valentino Garavani. 
+
+
+
+Inez & Vinoodh/Vogue France
+
+Of course, her gorgeous hubby was at her side the entire time she worked on the issue, the magazine notes. "Being asked to be the guest editor of the Christmas issue of Vogue Paris this year was an incredible honor," Beckham said in a statement."Working with Emmanuelle Alt and her team was both exciting and inspiring and I am so proud of what we have created."And because it's the Christmas issue, Beckham, 39, will share personal holiday memories, including family photos and some of her children's drawings.
+
+Beckham showed off the cover photos to fans on Twitter, adding that she had "so much fun" guest editing the issue. In a recent interview with Vogue, Beckham revealed she is hoping to add a line of children's clothing to her impressive empire. "'At some point I would love to do that, but having kids there's so much to do," she said. "Working and having four kids is tough, but I will get there. There's a lot of things to do, but if you organize yourself in the right way you can get it all done," she explained to the glossy."
+/n

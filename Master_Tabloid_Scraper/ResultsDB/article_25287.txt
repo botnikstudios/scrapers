@@ -1,0 +1,131 @@
+Go Behind the Scenes with Dustin Lynch and Claire Holt on the ‘Raw, Stripped Down’ Video for ‘Small Town Boy’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-0d693977f5ef8c9ff138756e62eb791d-59a572863442d');
+				var iframe = document.getElementById('wpcom-iframe-0d693977f5ef8c9ff138756e62eb791d-59a572863442d');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-0d693977f5ef8c9ff138756e62eb791d-59a572863442d'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+The boots and hat don’t have to make a cowboy.
+Dustin Lynch set his usual look aside for the music video for his new single “Small Town Boy.” The singer says the clip is “as personal as you could get” about a man falling in love with a woman who could have any guy she wants — but chooses him.
+“That was really my first video where I was without it,” the country crooner, 32, tells PEOPLE about ditching his wardrobe staples for the day — though he admits it’s pretty normal in his personal life. “I wear a cowboy hat [when I perform] but I either throw a baseball cap on or go without when I get off stage, so I’m pretty comfortable out of the spotlight without it.”
+
+In a behind-the-scenes video shared exclusively with PEOPLE, Lynch takes his fans on a long walk through the project at the “coolest freaking place I’ve ever been in my life” — El Matador State Beach in Malibu, California.
+“This video is different for me from previous videos because it’s pretty raw and stripped down,” he says in the clip. “It’s just a moment — an intimate moment between Claire and [me] the entire time.”
+
+
+
+
+
+ My happy place. Excited for everyone to see the video! #smalltownboy @dustinlynchmusic
+A post shared by Claire Holt (@claireholt) on Apr 11, 2017 at 11:23am PDT
+
+
+Claire, it turns out, is Claire Holt — Lynch cast the former The Vampire Diaries/Originals actress to fall in love with for the day.
+“We were looking for my love interest to take the video to the next level,” Lynch says about casting Holt, 29, for the shoot. “Through mutual friendships we connected, and I was shocked that she was so into the song and how big a country fan [she is].”
+“We had a great connection,” he tells PEOPLE regarding their on-set chemistry. “We actually met on set and within five minutes we were filming and having to portray that connection on camera.”
+
+
+
+
+
+ Catch the #SmallTownBoy video premiere RIGHT NOW on @vevo … featuring the beautiful  @claireholt
+A post shared by Dustin Lynch (@dustinlynchmusic) on Jun 9, 2017 at 7:28pm PDT
+
+
+While Holt got to experience her love for country music first-hand during the shoot she coined “romantic and beautiful,” Lynch learned a thing or two about acting just by being in her presence.
+“Well, I blame her,” Lynch jokes about his acting skills. “She made it look easy. I was just following her lead, so hats off to her.”
+Lynch gave fans a real treat during the nightly stadium concerts in Nashville during CMA Fest earlier this month, when he debuted the video for “Small Town Boy” on the big screens surrounding the stage just before his performance of the single.
+FROM COINAGE: The Most Expensive Stadiums Built in the U.S.
+
+“I was right there on the field with everybody else watching it!” Lynch says about watching his dream play out before his eyes. “I was hiding in a tent on the 50-yard line when they debuted it, so I was peeking my head out so I could see.”
+
+
+
+
+
+ #CMTawards rippin envelops and reading names tonight. Stay tuned
+A post shared by Dustin Lynch (@dustinlynchmusic) on Jun 7, 2017 at 3:13pm PDT
+
+
+As native of Tullahoma—just over an hour south of Nashville—Lynch’s sights have always been set on taking the stage at a venue he frequented often before fame.
+“It was a stadium that I had dreamed of playing at for years and to get to go in there and debut a video—and then perform after…” he recalls. “I’ve been going to CMA Fest for several years as a fan, watching the stadium show from the upper level down to the floor — I’ve been in every seat you could be in and had every vantage point in the stadium.”
+And though it feels like forever since Lynch released Where It’s At in 2014, he tells PEOPLE he “is really, really close” to being done with his new record.
+
+
+
+
+
+ Rockin' my grey @wolverine boots inside to match the grey skies outside #mywolverines #ambassador
+A post shared by Dustin Lynch (@dustinlynchmusic) on Apr 6, 2017 at 1:02pm PDT
+
+
+“We have one more song to finish it up! The tough part is going to be narrowing it down,” he says about his third album, which he hopes to announce later this summer. “We have more than we can put on. I would be happy with every song on this album being released as a single!”
+And with a string of No. 1 hits, including his “Seein’ Red,” Lynch can proudly say he’s “gone about this album’s recording process in a whole different way.”
+“I’ve made music with new people, I’ve made music in different ways,” he explains. “The subject matter’s gonna raise some eyebrows, so it’s gonna be fun to see how that goes, too!”
+/n

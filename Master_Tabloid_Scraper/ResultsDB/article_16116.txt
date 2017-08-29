@@ -1,0 +1,44 @@
+Garner! Garner will star opposite Oscar winner Susan Sarandon, who we previously revealed would be taking on the role of Marilyn's mentally ill mother, Gladys Baker. Based on The New York Times best-seller The Secret Life of Marilyn Mon.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/592329/meet-your-new-marilyn-monroe-lifetime-casts-the-lead-role-in-marilyn-miniseries');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014927/rs_634x1024-141027161000-634-kelli-garner-marilyn-monroe.ls.102714.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kelli Garner");
+	var imageCaption = encodeURIComponent("Kelli Garner");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Allen Berezovsky/WireImage
+
+Are you ready to get up close and personal with Marilyn Monroe?Lifetime just cast the lead role in the network's upcoming four-hour miniseries Marilyn, and E! News has confirmed that the latest woman set to take on the blond bombshell is Pan Am star Kelli Garner!Garner will star opposite Oscar winner Susan Sarandon, who we previously revealed would be taking on the role of Marilyn's mentally ill mother, Gladys Baker.Based on The New York Times best-seller The Secret Life of Marilyn Monroe by J. Randy Taraborrelli, Marilyn will reveal for the first time what the iconic superstar succeeded in hiding from an all-too-invasive world. 
+
+The miniseries will show how Marilyn lived a life in the spotlight while simultaneously fighting a battle against the mother of all demons, which she inherited from her mother Gladys, a troubled woman "whom she loves, hates and wants desperately to save."Garner is hardly the first woman to portray Marilyn Monroe. Most recently, Megan Hilty, Uma Thurman and Katharine McPhee all played different iterations of her on NBC's musical theater series Smash. Marilyn will premiere in 2015 on Lifetime.The Hollywood Reporter first reported this casting news.
+/n

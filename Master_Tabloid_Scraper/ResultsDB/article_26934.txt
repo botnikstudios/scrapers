@@ -1,0 +1,79 @@
+Fractured Funeral! Alexis Arquette's Family At War Over Memorial Plans/n
+
+					var next_post_url = "http://radaronline.com/photos/angelina-jolie-divorce-brad-pitt-kids-photos-shiloh-park-uncle-james-haven-zahara-vivienne-knox/";
+					var prev_post_url = "http://radaronline.com/photos/celebs-backstage-creations-suite-emmy-awards/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2016-09-21T16:47:35+00:00","caption":"Alexis Arquette is not yet resting in peace! More than a week after her death, RadarOnline.com has exclusively learned that the Arquette family \u2014 which includes award-winning actors Patricia, David, and Rosanna Arquette\u00a0\u2014 are STILL at war over her burial plans! Click through 7 heartbreaking photos to find out where the funeral will take place, who was invited and who was told NOT to come!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:17+00:00","caption":"\"The Arquette family fought so hard for several decades to keep Alexis's AIDS diagnosis a secret from the world, which is what Alexis wanted,\" a family insider said.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:18+00:00","caption":"However, Radar exclusively revealed the news, which was confirmed in the star's death certificate this week.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:20+00:00","caption":"Following Alexis's death, Patricia, 48, David, 48, and Rosanna Arquette, 57, united together at a funeral home to plan the burial of their youngest sibling. Although they family has presented a united front in public, the insider said, \"It is quite a different story behind the scenes.\"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:21+00:00","caption":"\"The Arquette family is more divided than ever before over this,\" the source told Radar, adding, \"Since Alexis's death, Patricia has practically gone into hiding, and so has her brother, David. The Arquettes are private people anyways and this just sent them over the edge.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:22+00:00","caption":"\"As a result, they decided that her Alexis will be buried in the family plot at Hollywood Forever cemetery in the next coming days, but ONLY family will be allowed to attend. Even her closest friends are not invited to attend, which has made some upset,\" said the source.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:23+00:00","caption":"As Radar reported, NONE of Alexis's family members came to her memorial party on Sunday, which was hosted by her lifelong friend, Sham Ibrahim at an L.A. bar. Meanwhile, \"The Arquettes are feuding over things like who gets her artwork, her records and her furniture even,\" said the source.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2016-09-21T14:57:23+00:00","caption":"Do you think that Alexis Arquette would want her friends shut out of her funeral? Tell us your thoughts below.\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2016\/09\/Alexis-Arquette-Funeral-Plans-Cemetary-07.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Fractured Funeral! Alexis Arquette’s Family At War Over Memorial Plans
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8Alexis-Arquette-Funeral-Plans-Cemetary-ppAlexis Arquette is not yet resting in peace! More than a week after her death, RadarOnline.com has exclusively learned that the Arquette family — which includes award-winning actors Patricia, David, and Rosanna Arquette — are STILL at war over her burial plans! Click through 7 heartbreaking photos to find out where the funeral will take place, who was invited and who was told NOT to come!Photo credit: Getty Images/Splash News2 of 8Alexis Arquette hangs out at the Villa Lounge"The Arquette family fought so hard for several decades to keep Alexis's AIDS diagnosis a secret from the world, which is what Alexis wanted," a family insider said.Photo credit: Splash News3 of 8Indian Film Festival Of Los Angeles Opening Night Gala “Sold” – ArrivalsHowever, Radar exclusively revealed the news, which was confirmed in the star's death certificate this week.Photo credit: Getty Images4 of 8EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY** David Arquette is spotted in Los Angeles for the first time since the death of his sister Alexis Arquette.Following Alexis's death, Patricia, 48, David, 48, and Rosanna Arquette, 57, united together at a funeral home to plan the burial of their youngest sibling. Although they family has presented a united front in public, the insider said, "It is quite a different story behind the scenes."Photo credit: Splash News 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8EXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY** David Arquette is spotted in Los Angeles for the first time since the death of his sister Alexis Arquette."The Arquette family is more divided than ever before over this," the source told Radar, adding, "Since Alexis's death, Patricia has practically gone into hiding, and so has her brother, David. The Arquettes are private people anyways and this just sent them over the edge."Photo credit: Splash News6 of 8Screening Of Heroica Films’ “Equal Means Equal” – Red Carpet"As a result, they decided that her Alexis will be buried in the family plot at Hollywood Forever cemetery in the next coming days, but ONLY family will be allowed to attend. Even her closest friends are not invited to attend, which has made some upset," said the source.Photo credit: Getty Images 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8EXCLUSIVE: Memorial party for Alexis Arquette in Hollywood on September 18As Radar reported, NONE of Alexis's family members came to her memorial party on Sunday, which was hosted by her lifelong friend, Sham Ibrahim at an L.A. bar. Meanwhile, "The Arquettes are feuding over things like who gets her artwork, her records and her furniture even," said the source.Photo credit: Splash News8 of 8OmniPeace Launch Party Hosted by Courteney CoxDo you think that Alexis Arquette would want her friends shut out of her funeral? Tell us your thoughts below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Alexis-Arquette-Funeral-Plans-Cemetary-ppAlexis Arquette is not yet resting in peace! More than a week after her death, RadarOnline.com has exclusively learned that the Arquette family — which includes award-winning actors Patricia, David, and Rosanna Arquette — are STILL at war over her burial plans! Click through 7 heartbreaking photos to find out where the funeral will take place, who was invited and who was told NOT to come!Photo credit: Getty Images/Splash NewsAlexis Arquette hangs out at the Villa Lounge"The Arquette family fought so hard for several decades to keep Alexis's AIDS diagnosis a secret from the world, which is what Alexis wanted," a family insider said.Photo credit: Splash NewsIndian Film Festival Of Los Angeles Opening Night Gala “Sold” – ArrivalsHowever, Radar exclusively revealed the news, which was confirmed in the star's death certificate this week.Photo credit: Getty ImagesEXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY** David Arquette is spotted in Los Angeles for the first time since the death of his sister Alexis Arquette.Following Alexis's death, Patricia, 48, David, 48, and Rosanna Arquette, 57, united together at a funeral home to plan the burial of their youngest sibling. Although they family has presented a united front in public, the insider said, "It is quite a different story behind the scenes."Photo credit: Splash NewsEXCLUSIVE: **PREMIUM EXCLUSIVE RATES APPLY** David Arquette is spotted in Los Angeles for the first time since the death of his sister Alexis Arquette."The Arquette family is more divided than ever before over this," the source told Radar, adding, "Since Alexis's death, Patricia has practically gone into hiding, and so has her brother, David. The Arquettes are private people anyways and this just sent them over the edge."Photo credit: Splash NewsScreening Of Heroica Films’ “Equal Means Equal” – Red Carpet"As a result, they decided that her Alexis will be buried in the family plot at Hollywood Forever cemetery in the next coming days, but ONLY family will be allowed to attend. Even her closest friends are not invited to attend, which has made some upset," said the source.Photo credit: Getty ImagesEXCLUSIVE: Memorial party for Alexis Arquette in Hollywood on September 18As Radar reported, NONE of Alexis's family members came to her memorial party on Sunday, which was hosted by her lifelong friend, Sham Ibrahim at an L.A. bar. Meanwhile, "The Arquettes are feuding over things like who gets her artwork, her records and her furniture even," said the source.Photo credit: Splash NewsOmniPeace Launch Party Hosted by Courteney CoxDo you think that Alexis Arquette would want her friends shut out of her funeral? Tell us your thoughts below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night. 
+
+
+
+
+
+
+
+
+
+/n

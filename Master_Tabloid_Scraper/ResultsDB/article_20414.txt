@@ -1,0 +1,47 @@
+Claire. "Lois Griffin… I don't really have an explanation for…I like her voice." Riiiight... When Graham asked Eddie about the actor's affinity for Maid Marian from Robin Hood ("she's a fox"), however, Anna.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/608391/so-anna-kendrick-and-eddie-redmayne-used-to-have-a-thing-for-animated-animals-and-liam-neeson-had-the-hots-for-a-cartoon-too');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016104/rs_768x1024-161104092241-634.Beauty-and-the-Beast.1.ms.110416.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Beauty and the Beast, Emma Watson, Dan Stevens");
+	var imageCaption = encodeURIComponent("Beauty and the Beast, Emma Watson, Dan Stevens");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney
+
+It seems animation is the quickest way to a star's young heart. Emma Watson, for example, unapologetically revealed recently that she's been harboring a secret crush on her Beauty and the Beast non-human counterpart. "There's something a bit sad about when he transforms," she told Yahoo! "You're like a bit...oh...okay you were quite nice before. He is hot. The Beast is hot."She's not alone in crushing on childhood characters. Her Harry Potter co-star Rupert Grint recalled the moment he first saw his own cartoon dream girl as a kid. "I liked Bo Peep in Toy Story….Lois Griffin, Family Guy….I think it was probably two different parts of my life. Toy Story was when I was a lot younger and Bo Peep is quite… wholesome in a kind of quite traditional way, I suppose," he explained to Marie Claire. "Lois Griffin… I don't really have an explanation for…I like her voice."
+
+Riiiight...When Graham asked Eddie about the actor's affinity for Maid Marian from Robin Hood ("she's a fox"), however, Anna had to agree."I had that, too!" she exclaimed, though she was referring to the titular—and equally foxy—hero . "In Eddie's defense, they draw them really sexy! Because Robin Hood was quite sexy."
+
+Graham also outed Liam Neeson as a Wilma Flintstone fan and quizzed cyclist Bradley Wiggins about his animated amour—and it turns out Bradley and Eddie liked the same Thundercats character!(Originally published December 19, 2014 at 6:56 p.m. PST)
+/n

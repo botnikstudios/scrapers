@@ -1,0 +1,58 @@
+The best thing for both of them was to say goodbye and move on," a source told E! News, noting the duo's "different goals." Article continues below Milton Ventura/Broadimage David Lucado Newly single Britney stepped .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866307/inside-britney-spears-romantic-history-how-the-pop-icon-fell-in-love-with-the-no-drama-life-after-all-that-chaos');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201741/rs_634x793-170501064831-634.jayden-federline-britney-spears-jamie-lynn-spears-preston-federline.5117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("2017 Radio Disney Music Awards, Britney Spears, Sean Preston, Jayden James, Jamie Lynn Spears");
+	var imageCaption = encodeURIComponent("2017 Radio Disney Music Awards, Britney Spears, Sean Preston, Jayden James, Jamie Lynn Spears");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Disney Channel/Image Group LA
+
+The names might start to sound familiar, but you'd be hard-pressed to pick most of Britney Spears' boyfriends out of a lineup.With a few very key exceptions, of course.But over the course of her now almost 20 years of superstardom, the pop princess has never dated like a diva—unless you count the fact that she invariably ensures, whether purposely or not, that her career isn't going to have to meet anyone else's half way. When she feels like going to Hawaii or watching her sons' soccer games or running out to the market, or if she needs a date to a red carpet event—whomever she's dating usually looks more than happy to be that guy.She didn't get to that low-key place overnight, though.
+
+
+
+AKM-GSI
+
+Her earliest days of having a public private life were about as under the microscope as it gets while she dated 'N Sync frontman Justin Timberlake, a young-Hollywood coupling for the ages. And then she had some high-profile fun—and even higher-profile scandals—en route to having her two children and devoting herself to their well-being.So the spate of generally nonfamous (or not yet famous) fellows in her life since her divorce makes sense. She's got her priorities: (1) Mom (2) Entertainer (3) Keep fans engaged (4) Stay healthy (5) Maybe be someone's girlfriend, if it feels right.Not that Spears doesn't want love in her life or doesn't enjoy having a mate. She seems to appreciate companionship very much, hence her interest in men who don't have to be away for months at a time on their own tour or while off shooting a movie.
+
+
+
+Vince Bucci/Getty Images
+
+Often times dating a person of equal renown can be just what the relationship doctor ordered (paging J.Lo and A-Rod, for instance), but for someone who craves stability and harmony as Spears does—a place in life she didn't arrive at easily—that particular game may not be for her. Last summer, while she was between relationships, she told James Corden during "Carpool Karaoke," "I might not ever go to men again, ever do the whole men thing again, or get married. I'm just done with men." Well, not entirely done..."I may French kiss someone," she corrected herself, "but I'm not going to marry anyone, no."Famous last words. But at 35, Spears has plenty of time to change her mind, and while her particular road has led her to here, who knows what the future holds? In the meantime, let's take a moment to revisit the past:
+
+And there have been others, from the idlest of rumors and sightings to guys who've kissed (if even that) and told in order to inject themselves into Britney Spears' world for a hot second.Because it really is Britney's world, and anyone who has gotten close enough to the pop icon to spend real time with her has seen up close just how devoted she is to her family and fans—and they've learned that, if they screw up, Spears will show them the door.
+
+Asked if she was still a hopeless romantic last summer, she told Australia's Rove & Sam Show, "Unfortunately, I am. I've been through horrible relationships, but unfortunately I still believe in love."And you know, I think you should protect your heart and stuff like that. But yeah, I'm a hopeless romantic and I believe in love."Even now, all it'll take is one to prove her right.
+/n

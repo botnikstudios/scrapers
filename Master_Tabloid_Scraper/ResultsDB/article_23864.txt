@@ -1,0 +1,50 @@
+Jewel Reveals How She Coped During Divorce From Ty Murray: ''Why Didn't I Just Get Drunk and Have Meaningless Sex?'' Fans were shocked when Jewel announced in July 2014 that she and Ty Murray are divorcing after six .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/695705/jewel-reveals-how-she-coped-during-divorce-from-ty-murray-why-didn-t-i-just-get-drunk-and-have-meaningless-sex');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015811/rs_634x1024-150911125538-634-jewel-headshot.ls91115.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jewel");
+	var imageCaption = encodeURIComponent("Jewel");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Robert Benson/Getty Images for Starwood Preferred Guest
+
+Fans were shocked when Jewel announced in July 2014 that she and Ty Murray are divorcing after six years of marriage and 16 years together. Since their split, the two have remained committed to co-parenting son Kase and they've even maintained an amicable relationship—but the four-time Grammy winner worked hard to get to a place of self-acceptance, throwing herself into her memoir and her new music in the wake of her shocking breakup.   "The birth of my son really inspired me to make sure I'm the kind of woman I want my son to know, and looking at the places I've been stagnant, looking for things that were lost and reclaiming them. The process of making this record and writing this book really helped facilitate that for me," the singer told Time of her album Picking Up the Pieces, which hit airwaves on Friday and is reminiscent of her 1995 debut album Pieces of You. 
+
+READ: More on Jewel and Ty Murray's divorce
+
+The longtime singer-songwriter says both the book and her new album were therapeutic, and she used those creative outlets as a coping mechanism during her heartbreak.  "It's funny, most people go through a divorce and are like, why didn't I just get drunk and have meaningless sex?" she jokes. "And I write a memoir and a heartbreaking record, peel off every scab I've ever healed and stick my finger in them and write about it. That's how I dealt with it. But I think it was the best thing I could have done." While several of the songs on Picking Up the Pieces were written when Jewel was 17 or 18, the musician said the meaning hasn't changed and has simply evolved. 
+
+READ: Jewel said men have hit on her since she was 8 years old
+
+PHOTOS: Musicians performing live on stage
+/n

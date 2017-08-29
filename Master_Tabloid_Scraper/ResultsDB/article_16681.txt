@@ -1,0 +1,46 @@
+EXCLUSIVE! Here's Proof That Maddie Ziegler and Millie Bobby Brown Are Totally BFFs "We're very excited. We're best friends," said Brown, who plays Eleven on Netflix's hit Stranger Things. The "It" gir.../n
+There's a new squad in town!In a matter of minutes, Maddie Ziegler and Millie Bobby Brown became our favorite celeb BFFs.The young stars (Brown's 13 years old and Ziegler's 14 years old) hit the blue carpet together last night at the 2017 Teen Choice Awards and the self-proclaimed best buds caught up with E! News' Sibley Scoles—and dished about their friendship. Oh and btw: these two looked like they were having the time of their lives before, during and after the fun-filled show.During the chat, the gal pals couldn't stop giggling and gushing over their girls' night before, even admitting that they'd primped together on Saturday night to get ready for the big event. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873421/here-s-proof-that-maddie-ziegler-and-millie-bobby-brown-are-totally-bffs');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017714/rs_634x1024-170814135428-634.millie-maddie.cm.81417.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent(" Millie Bobby Brown, Maddie Ziegler, Teen Choice Awards 2017");
+	var imageCaption = encodeURIComponent(" Millie Bobby Brown, Maddie Ziegler, Teen Choice Awards 2017");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Kevin Mazur/Fox/Getty Images
+
+"We're very excited. We're best friends," said Brown, who plays Eleven on Netflix's hit Stranger Things. The "It" girl made sure to let her quirk shine, donning a sunny yellow dress by Kenzo and shoes by Pierre Hardy.When asked if they got ready together, the former Dance Moms star, who was decked out in a matching Zac Posen ensemble, said they didn't, but admitted, "We FaceTimed like three times while getting ready..."Brown added, "And we painted each other's toenails last night!"When Scoles asked the newly Emmy nominated Brown if she'd picked out what she was wearing to the 69th Primetime Emmy Awards on Sept. 17—the actress bashfully admitted, "I don't know what I am wearing yet, but hopefully it'll be great."
+
+As for last night's awards, Brown was nominated for Choice Breakout TV Star and Stranger Things was nominated for Choice Breakout TV Show and Choice Sci-Fi/Fantasy TV Show.Ziegler was nominated for Choice Dancer and won.After her big win, she took to Instagram and thanked fans, "I can't thank you guys enough for voting me as your choice dancer for the 2nd time!! I love you all so so much and i'm so thankful for everyone."
+/n

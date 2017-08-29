@@ -1,0 +1,46 @@
+EXCLUSIVE! David Beckham's Scarred Face and Rotten Teeth: Charlie Hunnam Explains the Real Reason Behind the Gruesome New Look "It's in my contract that I must be the most beautiful person on screen," Hunnam joked with me.../n
+We really never thought that David Beckham could ever look, well, ugly.But he certainly doesn't look like his usually hot self in director Guy Ritchie's upcoming action adventure King Arthur: Legend of the Sword.Beckham showed off his look for the movie the other day on Instagram—a photo reveals he underwent a gruesome makeunder that includes a horribly scarred face and rotten teeth. "Rough day at the office," the caption reads, in part.The movie's star Charlie Hunnam says he's to blame for destroying Beckham's legendary good looks.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/839946/david-beckham-s-scarred-face-and-rotten-teeth-charlie-hunnam-explains-the-real-reason-behind-the-gruesome-new-look');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017230/rs_634x1024-170330071448-634-DavidBeckham-CinemaCon-MK033017.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("David Beckham");
+	var imageCaption = encodeURIComponent("David Beckham");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+davidbeckham / Instagram 
+
+"It's in my contract that I must be the most beautiful person on screen," Hunnam joked with me yesterday while promoting the movie at CinemaCon. "So I said, 'David Beckham ain't waltzing up here with those baby blues and those chiseled cheekbones. Throw a scar on him or I'll be in my trailer!'"LOL.Hunnam confessed that Ritchie thought he could keep Beckham's appearance in the film a big secret. "There was this wildly optimistic feeling that maybe we would be able to keep it under wraps that Beckham was in the film."
+
+The original plan, Hunnam explained, was "we'd play half the scene and Beckham would be all scarred up and maybe you wouldn't realize it was him and then he would turn around and it would be the big reveal."King Arthur: Legend of the Sword will be in theaters on May 12.And don't forget to watch E! News tonight at 7 p.m. and 11 p.m. for even more exclusive scoop and red carpet interviews from CinemaCon.
+/n

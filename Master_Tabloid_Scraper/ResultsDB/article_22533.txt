@@ -1,0 +1,62 @@
+Why Are We Not Friends With #RichKids of Beverly Hills' Roxy Sowlaty?! #RichKids of Beverly Hills star Roxy Sowlaty is adorable, funny and has a great sense of style. Can you imagine spending a day shopping on Rodeo Drive with her? Or laying on the b.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/rich_kids_of_beverly_hills/news/562887/why-are-we-not-friends-with-richkids-of-beverly-hills-roxy-sowlaty');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014621/rs_634x1024-140721114609-634.rk6.cm.72114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("#RichKids of Beverly Hills Cast");
+	var imageCaption = encodeURIComponent("#RichKids of Beverly Hills Cast");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Matthias Vriens-McGrath/E!
+
+#RichKids of Beverly Hills star Roxy Sowlaty is adorable, funny and has a great sense of style.Can you imagine spending a day shopping on Rodeo Drive with her? Or laying on the beach working on your tans and taking selfies for Instagram?There are literally a thousand reasons why we wish we could be friends with Roxy, but we'll narrow it down for you.
+
+She wants to sparkle all the time! And makes sure she has the life-altering outfit she needs to ring in each New Year.
+
+She buys her own shoes.  Well ok, her parents started cutting her off and shoes were the first things to go. But hey, shoes are expensive!
+
+She calls it like it is. There's no messing around with Roxy!
+
+She can be really deep at times.
+
+She has the cutest puppy on earth, Lychee Lou, who lives just as fancy as Roxy.
+
+She's gorgeous whether its in Beverly Hills, China or Hawaii. She's a total beach babe!
+
+But, she still totally indulges on amazing sushi, and of course the once in awhile ice cream binge.
+
+And finally, she has amazing friends!  (There's totally room for us in this picture)
+
+Tune-in to the season premiere of #RichKids of Beverly Hills on Sunday, August 3 at 10/9c on E!
+
+PHOTOS: See cute throwback pics of the #RichKids!
+/n

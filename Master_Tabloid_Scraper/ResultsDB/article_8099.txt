@@ -1,0 +1,96 @@
+'It's A Rental!' Karen's 'Friends' Have Major Questions About Her New Home/n
+
+					var next_post_url = "http://radaronline.com/photos/bikini-clad-larsa-pippen-turns-camera-on-paparazzi/";
+					var prev_post_url = "http://radaronline.com/photos/glenn-close-beach-body-70/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-07-03T11:06:42+00:00","caption":"On the season finale of the Real Housewives of Potomac, the cast continued to count each other's money and meddle in each other's romantic lives, even as their own beds lay cold and empty in modest rental homes.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:44+00:00","caption":"Defensive about losing her title as Potomac Grand Dame, Karen Huger continued to lash out at the ladies at Charrisse Jackson Jordan's champagne room party. She called Ashley Darby an idiot.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:45+00:00","caption":"Karen announced that she's having an \"exotic\" themed party at her new home, and that not EVERYBODY will be invited. ","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:46+00:00","caption":"Robyn Dixon told Juan that her therapist encouraged her to date other people, AND that the men were all over her in Bermuda. Be that as it may, she insisted she wanted to focus on fixing their relationship. Juan said he was on board.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:47+00:00","caption":"Gizelle Bryant finally broke up with her \"boyfriend\" Kevin.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:48+00:00","caption":"Monique Samuels moved into her Potomac house, and had her cast mates over for a surprisingly peaceful viewing.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:49+00:00","caption":"The ladies went shopping for outfits for Karen's party, which she switched from an \"exotic\" to an Indian and\/or African theme. She also graciously invited Ashley to attend, despite their friction.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:50+00:00","caption":"Karen presented Ray with the photos from her naughty shoot as a 20th wedding anniversary gift. He wanted to know what happened to her clothes.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:51+00:00","caption":"The day of the party, Gizelle and Charrisse did not even set foot in the door before insulting Karen's party decor. Once inside, they set upon Karen's guests, demanding to know why she had moved so quickly, and why she had moved into a gigantic home instead of downsizing as they thought she would.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-09.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:52+00:00","caption":"Monique thought it was a good idea to show up in a Native American head dress and face paint. Nobody else seemed to agree.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:53+00:00","caption":"Karen and her husband toasted to 20 years of marriage with some truly over-the-top PDA. Gizelle said what many people were thinking: \"I don't ever want to see that again.\"","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-11.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:54+00:00","caption":"Karen broke down in tears when she heard a recording of her mother (who suffers from dementia) wishing her a happy anniversary.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-12.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:56+00:00","caption":"Charrisse is no longer communicating with Eddie, but IS renovating the rest of her home. ","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-13.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-03T11:06:57+00:00","caption":"Gizelle is now dating a retired basketball player she met at the gym.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/rhop-episode-12-recap-14.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+‘It’s A Rental!’ Karen’s ‘Friends’ Have Major Questions About Her New Home
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 14 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 14On the season finale of the Real Housewives of Potomac, the cast continued to count each other's money and meddle in each other's romantic lives, even as their own beds lay cold and empty in modest rental homes.Photo credit: Bravo2 of 14Defensive about losing her title as Potomac Grand Dame, Karen Huger continued to lash out at the ladies at Charrisse Jackson Jordan's champagne room party. She called Ashley Darby an idiot.Photo credit: Bravo3 of 14Karen announced that she's having an "exotic" themed party at her new home, and that not EVERYBODY will be invited. Photo credit: Bravo4 of 14Robyn Dixon told Juan that her therapist encouraged her to date other people, AND that the men were all over her in Bermuda. Be that as it may, she insisted she wanted to focus on fixing their relationship. Juan said he was on board.Photo credit: Bravo 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 14Gizelle Bryant finally broke up with her "boyfriend" Kevin.Photo credit: Bravo6 of 14Monique Samuels moved into her Potomac house, and had her cast mates over for a surprisingly peaceful viewing.Photo credit: Bravo 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 14The ladies went shopping for outfits for Karen's party, which she switched from an "exotic" to an Indian and/or African theme. She also graciously invited Ashley to attend, despite their friction.Photo credit: Bravo8 of 14Karen presented Ray with the photos from her naughty shoot as a 20th wedding anniversary gift. He wanted to know what happened to her clothes.Photo credit: Bravo 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 14The day of the party, Gizelle and Charrisse did not even set foot in the door before insulting Karen's party decor. Once inside, they set upon Karen's guests, demanding to know why she had moved so quickly, and why she had moved into a gigantic home instead of downsizing as they thought she would.Photo credit: Bravo10 of 14Monique thought it was a good idea to show up in a Native American head dress and face paint. Nobody else seemed to agree.Photo credit: Bravo 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 14Karen and her husband toasted to 20 years of marriage with some truly over-the-top PDA. Gizelle said what many people were thinking: "I don't ever want to see that again."Photo credit: Bravo12 of 14Karen broke down in tears when she heard a recording of her mother (who suffers from dementia) wishing her a happy anniversary.Photo credit: Bravo 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 14Charrisse is no longer communicating with Eddie, but IS renovating the rest of her home. Photo credit: Bravo14 of 14Gizelle is now dating a retired basketball player she met at the gym.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Bravo 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+On the season finale of the Real Housewives of Potomac, the cast continued to count each other's money and meddle in each other's romantic lives, even as their own beds lay cold and empty in modest rental homes.Photo credit: BravoDefensive about losing her title as Potomac Grand Dame, Karen Huger continued to lash out at the ladies at Charrisse Jackson Jordan's champagne room party. She called Ashley Darby an idiot.Photo credit: BravoKaren announced that she's having an "exotic" themed party at her new home, and that not EVERYBODY will be invited. Photo credit: BravoRobyn Dixon told Juan that her therapist encouraged her to date other people, AND that the men were all over her in Bermuda. Be that as it may, she insisted she wanted to focus on fixing their relationship. Juan said he was on board.Photo credit: BravoGizelle Bryant finally broke up with her "boyfriend" Kevin.Photo credit: BravoMonique Samuels moved into her Potomac house, and had her cast mates over for a surprisingly peaceful viewing.Photo credit: BravoThe ladies went shopping for outfits for Karen's party, which she switched from an "exotic" to an Indian and/or African theme. She also graciously invited Ashley to attend, despite their friction.Photo credit: BravoKaren presented Ray with the photos from her naughty shoot as a 20th wedding anniversary gift. He wanted to know what happened to her clothes.Photo credit: BravoThe day of the party, Gizelle and Charrisse did not even set foot in the door before insulting Karen's party decor. Once inside, they set upon Karen's guests, demanding to know why she had moved so quickly, and why she had moved into a gigantic home instead of downsizing as they thought she would.Photo credit: BravoMonique thought it was a good idea to show up in a Native American head dress and face paint. Nobody else seemed to agree.Photo credit: BravoKaren and her husband toasted to 20 years of marriage with some truly over-the-top PDA. Gizelle said what many people were thinking: "I don't ever want to see that again."Photo credit: BravoKaren broke down in tears when she heard a recording of her mother (who suffers from dementia) wishing her a happy anniversary.Photo credit: BravoCharrisse is no longer communicating with Eddie, but IS renovating the rest of her home. Photo credit: BravoGizelle is now dating a retired basketball player she met at the gym.
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: Bravo 
+
+
+
+
+
+
+
+
+
+/n

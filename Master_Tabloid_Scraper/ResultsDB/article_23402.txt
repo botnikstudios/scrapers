@@ -1,0 +1,44 @@
+EXCLUSIVE! Olivia Wilde & Jason Sudeikis Leave Baby Otis Home for 2016 Golden Globes Date Night Olivia Wilde and Jason Sudeikis are enjoying a parents-only date night on the 2016 Golden Globes red carpet while their son Otis is home with.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/729791/olivia-wilde-jason-sudeikis-leave-baby-otis-home-for-2016-golden-globes-date-night');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016010/rs_634x1024-160110160753-634-olivia-wilde-jason-sudeikis-Golden-Globe-Awards.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Olivia Wilde, Jason Sudeikis, Golden Globe Awards Couples");
+	var imageCaption = encodeURIComponent("Olivia Wilde, Jason Sudeikis, Golden Globe Awards Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jordan Strauss/Invision/AP
+
+Olivia Wilde and Jason Sudeikis are enjoying a parents-only date night on the 2016 Golden Globes red carpet while their son Otis is home with a babysitter.The engaged couple stopped by to chat with E!'s Ryan Seacrest Sunday before the Globes, where Wilde will be presenting during the award show.The last time the stars stopped to chat with Seacrest, Wilde was expecting the couple's first child together."So pregnant," Wilde told Seacrest. "I was 6 months pregnant."Their son Otis Alexander was born in April, which means Wilde & Sudeikis had to find someone to watch after their little one for the night.
+
+"We're paying someone right now, even though we're here," Sudeikis said. "A babysitter. We didn't have to do that last time.""Yeah, last time we brought the kid," added Wilde.So, what's the going rate for nanny duties for a celeb couple in Los Angeles?Wilde admitted she's willing to pay quite a fee while a sitter stays home with her baby boy."I would give anything," said Wilde. "An arm and a leg and a kidney and a lung."Wilde, who will star in the upcoming HBO series Vinyl, isn't too strict when it comes to babysitters, though.Instead of leaving pizza money behind for the evening, Wilde's choice is a bit more... wild."We just leave a bottle with some Jack Daniel's, and you know, just hope it goes well," she quipped.Sounds like the hilarious couple will have an awesome post-Globes party.
+/n

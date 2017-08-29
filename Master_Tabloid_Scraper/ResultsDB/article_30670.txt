@@ -1,0 +1,48 @@
+BREAKING! Roger Ailes, Former Fox News CEO, Dead at 77 The Ohio native spent decades in broadcast news, working his way up from producing for a local talk show to CEO of Fox News and chairman of Fox Television Stations Group. He worked as an.../n
+Roger Ailes has passed away. The former Fox News chairman and CEO died Thursday morning, his wife Elizabeth Ailes confirmed in a statement to NBC News. He was 77 years old, just recently celebrating his birthday on Monday. "I am profoundly sad and heartbroken to report that my husband, Roger Ailes, passed away this morning," Elizabeth said in the statement. "Roger was a loving husband to me, to his son Zachary, and a loyal friend to many.""He was also a patriot, profoundly grateful to live in a country that gave him so much opportunity to work hard, to rise—and to give back," she continued. "During a career that stretched over more than five decades, his work in entertainment, in politics, and in news affected the lives of many millions. And so even as we mourn his death, we celebrate his life."
+
+"Those who wish to join us in that celebration are encouraged to consider making a donation to the Marine Corps-Law Enforcement Foundation. This terrific organization generously provides scholarships to children who lose a parent serving in the United State Marine Corps or any Federal Law Enforcement Agency. Finally, at this time of sorrow and grief we ask you to respect our privacy," she concluded. The cause of his death has not yet been revealed.  
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/853862/former-fox-news-ceo-roger-ailes-dead-at-77');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017418/rs_634x953-170518055039-634.Roger-Ailes-J1R-051817.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Roger Ailes");
+	var imageCaption = encodeURIComponent("Roger Ailes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Andrew Toth/Getty Images
+
+The Ohio native spent decades in broadcast news, working his way up from producing for a local talk show to CEO of Fox News and chairman of Fox Television Stations Group. He worked as an executive for the news network from its founding in 1996 until his resignation in July 2016 following allegations of sexual harassment from several women and a corresponding lawsuit from former Fox host, Gretchen Carlson. The lawsuit was later settled for a reported $20 million. In addition to formerly serving as president of CNBC in the early 1990s, he also had a background in political consulting and worked on the campaigns of former Republican presidents like Ronald Reagan and George H.W. Bush. "A brilliant broadcaster, Roger played a huge role in shaping Americas media over the last thirty years," Rupert Murdoch, acting CEO of Fox News, said in a statement. "He will be remembered by the many people on both sides of the camera that he discovered, nurtured and promoted." 
+
+The Drudge Report was first to report the news of his death. 
+/n

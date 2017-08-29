@@ -1,0 +1,44 @@
+herself seemingly approved, too, tweeting Jenny back six tongue emojis. Another top Miley-themed ensemble that cannot go unmentioned is that worn by Lottie the Pug, the stunning Wisconsin dog who dressed as the wrecking ball itself.  Werk! O.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/476245/jenny-mccarthy-dresses-as-miley-cyrus-tongue-for-halloween-craved-sledgehammers-all-day');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013931/rs_634x1024-131031103757-634.Jenny-MCarthy-Miley-Cyrus-Tongue.jl.103113.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jenny McCarthy, Halloween");
+	var imageCaption = encodeURIComponent("Jenny McCarthy, Halloween");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Twitter
+
+There will be thousands—if not millions—of people dressing up as Miley Cyrus this Halloween, but Jenny McCarthy's costume might just take the cake (and lick it, too).As you can see, the View cohost was Miley's infamous, often-out-of-mouth tongue! On Thursday, Oct. 31, she tweeted an awesome selfie (so meta!) while wearing the gigantic ensemble, writing, "Yes indeed I am Miley's tongue. I craved sledgehammers all day."Well done with the "Wrecking Ball" reference, Ms. McCarthy. Miley herself seemingly approved, too, tweeting Jenny back six tongue emojis.
+
+Another top Miley-themed ensemble that cannot go unmentioned is that worn by Lottie the Pug, the stunning Wisconsin dog who dressed as the wrecking ball itself.  Werk!Of course, the real Miley had a pretty awesome Halloween costume, too. On Wednesday, the 20-year-old singer dressed up as Lil' Kim at the 1999 MTV VMAs—getting everything right from the purple wig to the well-placed nipple pasty.So, if you're planning on painting the town red in a twerktastic teddy bear onesie tonight, up the ante with something more than just a foam finger. As y'all can see, creativity is key!
+/n

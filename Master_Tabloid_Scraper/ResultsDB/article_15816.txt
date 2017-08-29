@@ -1,0 +1,42 @@
+Mexico Hilariously Celebrates Leo's Oscar Win With DiCaprio Masks and Bears While Leonardo DiCapriocelebrated at the Vanity Fair party for his Best Actor win at the 2016 Oscars, his fans in Mexico were having quite a celebration of thei.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/744581/mexico-hilariously-celebrates-leo-s-oscar-win-with-dicaprio-masks-and-bears');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016129/rs_634x1024-160229092349-634-leonardo-dicaprio-vanity-fair-oscar-party.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leonardo DiCaprio, Vanity Fair Oscars Party");
+	var imageCaption = encodeURIComponent("Leonardo DiCaprio, Vanity Fair Oscars Party");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Pascal Le Segretain/Getty Image
+
+While Leonardo DiCapriocelebrated at the Vanity Fair party for his Best Actor win at the 2016 Oscars, his fans in Mexico were having quite a celebration of their own!Mexico won big on Oscars night, Mexicans Alejandro González Iñárritu and Emmanuel Lubezki broke records and took home gold. Oddly enough, however, the biggest celebration was for DiCaprio. Several hundred fans gathered at Mexico City's Angel of Independence monument to celebrate The Revenant star's highly anticipated win. The celebration included signs with the 41-year-old actor's name and chants of "Leo, hermano, ya eres Mexicano" (Leo, brother, you're Mexican now). Best of all, fans had masks with DiCaprio's face and plastic gold awards. They even had an acceptance speech from a fake Leo.
+/n

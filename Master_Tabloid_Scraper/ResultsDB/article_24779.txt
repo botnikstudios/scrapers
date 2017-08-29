@@ -1,0 +1,56 @@
+(and yet shockingly chameleonic) face in every single one. He casts Malkovich as everyone from Albert Einstein and Alfred Hitchcock to the woman in Dorothea Lange's most famous work, "Migrant Mother" and both of the little gir.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/582423/artist-takes-being-john-malkovich-idea-to-the-extreme-puts-actor-s-face-in-iconic-portraits-the-results-will-blow-your-mind');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014824/rs_634x844-140924133804-634.malkovich2.cm.92414.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("John Malkovich, Art");
+	var imageCaption = encodeURIComponent("John Malkovich, Art");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Sandro Miller Courtesy of Catherine Edelman Gallery Chicago
+
+Fifteen years after Spike Jonze pondered what would happen if people were given a chance to view the world through the eyes of John Malkovich in the cult-classic Being John Malkovich, another artist has wondered, What if everyone were Malkovich?And the results are rather hypnotic to look at.Photographer Sandro Miller, who's also a friend of the actor, has recreated a number of iconic portraits using Malkovich's famous (and yet shockingly chameleonic) face in every single one. He casts Malkovich as everyone from Albert Einstein and Alfred Hitchcock to the woman in Dorothea Lange's most famous work, "Migrant Mother" and both of the little girls in Diane Arbus' "Identical Twins."
+
+
+
+Sandro Miller Courtesy of Catherine Edelman Gallery Chicago
+
+Whoever realized that Malkovich was a dead ringer for the likes of Che Guevara and Marilyn Monroeas well?!Well, the point is that he most certainly isn't, and yet the actor who most recently played pirate Blackbeard in the TV series Crossbones slips seamlessly into these pictures."For me, John is a beautiful, clean canvas ready for paint. He is extremely open minded, never fearful and always willing to go to places most actors of his caliber would avoid," Miller explained in a press release ahead of his exhibit for "Malkovich, Malkovich, Malkovich: Homage to Photographic Masters," showing Nov. 7 until Jan. 31 at the Catherine Edelman Gallery in Chicago.
+
+Miller added: "His willingness to play dress up, and become the subject of some of the most iconic images from history, is a true gift."Malkovich will also be divulging what Malkovich thinks of the whole thing in an exclusive interview with France's 7-Post and the Liberation newspaper.
+
+
+
+Sandro Miller Courtesy of Catherine Edelman Gallery Chicago
+
+"My biggest fear was that people wouldn't take this project seriously. I didn't want these to be a parody," Miller also said. "I was serious about paying homage to these photographers and photographs that changed my perspective on photography. These images inspired me throughout my career and developed me into the photographer I am today...This is my way of saying thank you to the masters that created these amazing images."And a tip of the hat to Malkovich.
+/n

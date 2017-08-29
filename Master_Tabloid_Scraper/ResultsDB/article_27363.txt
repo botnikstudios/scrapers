@@ -1,0 +1,44 @@
+Max Greenfield's Wife Tess Sanchez Is Pregnant! New Girl Star Expecting Baby No. 2 Max Greenfield has a new girl, or boy, on the way! E! News has learned that the actor's wife Tess Sanchez is pregnant with her second child. The duo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/650861/max-greenfield-s-wife-is-tess-sanchez-pregnant-new-girl-star-expecting-baby-no-2');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015327/rs_634x1024-150427154958-634-Max-Greenfield-tess.ls.42715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tess Sanchez, Max Greenfield");
+	var imageCaption = encodeURIComponent("Tess Sanchez, Max Greenfield");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tibrina Hobson/WireImage
+
+Max Greenfield has a new girl, or boy, on the way!E! News has learned that the actor's wife Tess Sanchez is pregnant with her second child.The duo, who have been married for almost seven years, are already parents to a daughter named Lilly.During a recent interview with ABC News, the proud papa gushed about his little one and admitted that she's not quite aware of the fact that her dad is a bone fide star.Greenfield also couldn't help but praise his wife for taking care of things at home while he's off filming the hit Fox series.
+
+"She's the best, man. She keeps a lot of it grounded," he shared. "You come home, you're like, 'Whatever, let's go hang out!"But when it comes to little Lilly, she's still too young to know exactly who's doing what."I don't know that she fully gets it. She knows that I'm on a TV show, she'll be like, 'Daddy, you play Schmidt.' There's a big part of me that's very proud of it and goes, 'Daddy's really happy.' But there's another part, that's like, 'Just stay away from that as long as you can.' But she seems unfazed by it."And now he's got another little one on the way to teach all the ins and outs of Hollywood!Congratulations to Max and Tess!Us Weekly was the first to report the news.
+/n

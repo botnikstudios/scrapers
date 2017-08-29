@@ -1,0 +1,44 @@
+Guy Pearce and Carice van Houten Welcome Son Monte Guy Pearce and Carice van Houten have welcomed their first child together. The 48-year-old Iron Man 3 actor and the 39-year-old Game of Thrones actress announced the news via Twitter Monday..../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/790719/guy-pearce-and-carice-van-houten-welcome-son-monte');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016729/rs_634x854-160829085813-634.carice-van-houten.cm.82916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Carice Van Houten, Guy Pearce");
+	var imageCaption = encodeURIComponent("Carice Van Houten, Guy Pearce");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FAMEFLYNET PICTURES
+
+Guy Pearce and Carice van Houten have welcomed their first child together.The 48-year-old Iron Man 3 actor and the 39-year-old Game of Thrones actress announced the news via Twitter Monday. "A cute little package arrived and told us his name's Monte Pearce," Guy tweeted. "We think we're gonna keep him. Placenta smoothie anyone? @caricevhouten." Carice retweeted Guy and added nine emojis, including a baby, a red heart and a martini glass.Other details were not immediately availableE! News confirmed the actors were expecting a baby in March. At the time, Carice—who plays a witch named Melisandre on Game of Thrones—tried to get ahead of the inevitable tauning on Twitter. "Ok. I'm ready for your shadowbaby jokes," she wrote. Guy retweeted her, adding, "Nothing like the prospect of a shadowbaby to change your mind about becoming a Father !!"
+
+In mid-July, Carice stood in front of a mirror and snapped a picture of her growing baby bump. "Almost don't fit the mirror anymore," the actress told her Twitter followers. In response, Guy retweeted her and joked, "Wait, did I do this? How did that happen? Oh, now I remember......"Though they share a similar sense of humor, Guy and Carice met on the set of a much more serious movie: Brimstone, a Western thriller co-starring Dakota Fanning and Kit Harington. As it happens, the movie's director, Martin Koolhoven, congratulated the two co-stars on Monte's arrival via Twitter Monday. In fact, he even gave the newborn a nickname: "Brimbaby!!"
+/n

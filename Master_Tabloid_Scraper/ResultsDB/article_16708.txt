@@ -1,0 +1,81 @@
+Bumping Along! Rosie Huntington-Whiteley Gets A Check-Up/n
+
+					var next_post_url = "http://radaronline.com/photos/kim-kardashian-kanye-west-divorce-separated-leaves-town/";
+					var prev_post_url = "http://radaronline.com/photos/angelina-jolie-kids-out-with-dad-jon-voight-pics/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-05-13T18:22:37+00:00","caption":"Rosie Huntington-Whiteley sported a big baby bump as she visited her doctor for a pregnancy check-up on Thursday in Santa Monica, Calif. The British model, who is expecting her first child with fianc\u00e9 Jason Statham, arrived solo for the appointment. Click through Radar's gallery for more.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-pp-.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:24+00:00","caption":"Huntington-Whiteley wore a black form fitting maternity dress as she went by herself to a doctor's visit at Providence Saint Johns' Health Center. The day before, her actor boyfriend Statham went with her to the same place, the Daily Mail reported.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-6.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:26+00:00","caption":"The Victoria's Secret stunner, 30, is years younger than Furious 7 star Statham, 49. The two announced their engagement in Jan. 2016.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-5.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:27+00:00","caption":"Huntington-Whiteley sported a diamond engagement ring from Statham at the Golden Globe Awards last year. On May 11, while she went to her doctor's appointment, Statham hung out with his father Barry in Malibu.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-4.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:28+00:00","caption":"Due date approaching! Huntington-Whiteley had no problem flaunting her baby bump in a tight dress. She's in the glow of pregnancy and has also been photographed around Malibu as she awaits the happy arrival.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-3.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:29+00:00","caption":"The supermodel was spotted tenderly cradling her stomach as she left her car.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-2.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:30+00:00","caption":"Last year, the photogenic lovers were seen showing some skin on vacation. While Huntington-Whiteley rocked a bikini, tough guy Statham showed off shirtless.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:31+00:00","caption":"For her doctor's visit, eyewitnesses noticed despite being hugely pregnant, the model still wore heels. She sported lace-up wedges on her feet.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-0.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-05-13T14:04:32+00:00","caption":"Like many models on the runway, Rosie has had nip slips in the past. Now that she's pregnant, she keeps her front covered up!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/05\/rosie-huntington-whiteley-pregnant-jason-statham-pics-7.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Bumping Along! Rosie Huntington-Whiteley Gets A Check-Up
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9Rosie Huntington-Whiteley sported a big baby bump as she visited her doctor for a pregnancy check-up on Thursday in Santa Monica, Calif. The British model, who is expecting her first child with fiancé Jason Statham, arrived solo for the appointment. Click through Radar's gallery for more.Photo credit: BACKGRID2 of 9Huntington-Whiteley wore a black form fitting maternity dress as she went by herself to a doctor's visit at Providence Saint Johns' Health Center. The day before, her actor boyfriend Statham went with her to the same place, the Daily Mail reported.Photo credit: BACKGRID3 of 9The Victoria's Secret stunner, 30, is years younger than Furious 7 star Statham, 49. The two announced their engagement in Jan. 2016.Photo credit: BACKGRID4 of 9Huntington-Whiteley sported a diamond engagement ring from Statham at the Golden Globe Awards last year. On May 11, while she went to her doctor's appointment, Statham hung out with his father Barry in Malibu.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9Due date approaching! Huntington-Whiteley had no problem flaunting her baby bump in a tight dress. She's in the glow of pregnancy and has also been photographed around Malibu as she awaits the happy arrival.Photo credit: BACKGRID6 of 9The supermodel was spotted tenderly cradling her stomach as she left her car.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Last year, the photogenic lovers were seen showing some skin on vacation. While Huntington-Whiteley rocked a bikini, tough guy Statham showed off shirtless.Photo credit: BACKGRID8 of 9For her doctor's visit, eyewitnesses noticed despite being hugely pregnant, the model still wore heels. She sported lace-up wedges on her feet.Photo credit: BACKGRID 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9Like many models on the runway, Rosie has had nip slips in the past. Now that she's pregnant, she keeps her front covered up!
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Rosie Huntington-Whiteley sported a big baby bump as she visited her doctor for a pregnancy check-up on Thursday in Santa Monica, Calif. The British model, who is expecting her first child with fiancé Jason Statham, arrived solo for the appointment. Click through Radar's gallery for more.Photo credit: BACKGRIDHuntington-Whiteley wore a black form fitting maternity dress as she went by herself to a doctor's visit at Providence Saint Johns' Health Center. The day before, her actor boyfriend Statham went with her to the same place, the Daily Mail reported.Photo credit: BACKGRIDThe Victoria's Secret stunner, 30, is years younger than Furious 7 star Statham, 49. The two announced their engagement in Jan. 2016.Photo credit: BACKGRIDHuntington-Whiteley sported a diamond engagement ring from Statham at the Golden Globe Awards last year. On May 11, while she went to her doctor's appointment, Statham hung out with his father Barry in Malibu.Photo credit: BACKGRIDDue date approaching! Huntington-Whiteley had no problem flaunting her baby bump in a tight dress. She's in the glow of pregnancy and has also been photographed around Malibu as she awaits the happy arrival.Photo credit: BACKGRIDThe supermodel was spotted tenderly cradling her stomach as she left her car.Photo credit: BACKGRIDLast year, the photogenic lovers were seen showing some skin on vacation. While Huntington-Whiteley rocked a bikini, tough guy Statham showed off shirtless.Photo credit: BACKGRIDFor her doctor's visit, eyewitnesses noticed despite being hugely pregnant, the model still wore heels. She sported lace-up wedges on her feet.Photo credit: BACKGRIDLike many models on the runway, Rosie has had nip slips in the past. Now that she's pregnant, she keeps her front covered up!
+
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: BACKGRID 
+
+
+
+
+
+
+
+
+
+/n

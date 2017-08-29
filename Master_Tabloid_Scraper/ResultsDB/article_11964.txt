@@ -1,0 +1,58 @@
+Jennifer Lawrence Talks Passengers Reaction, Dating Darren Aronofsky and the Movie She's Making With Amy Schumer When asked about the critical reception to her 2016 blockbuster with Chris Pratt, the actress revealed one thing she wish s.../n
+Jennifer Lawrence covered it all. As Vogue's September 2017 cover girl, the Oscar winner sat down with the magazine to dish on life so far—and it seems no subject was off limits. From her private romance with her Mother! director Darren Aronofsky to Passengers' poor critical reception, the worldwide star was her usual open book self as she addressed the topics one by one. Unlike the characters she morphed into for the magazine's photoshoot (shot by the acclaimed Annie Leibovitz), Lawrence was entirely herself.  
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/872369/jennifer-lawrence-talks-passengers-reaction-dating-darren-aronofsky-and-the-movie-she-s-making-with-amy-schumer');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201779/rs_634x799-170809055704-634_AnnieLeibovitz_MK080917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("VOGUE, September Issue, Jennifer Lawrence");
+	var imageCaption = encodeURIComponent("VOGUE, September Issue, Jennifer Lawrence");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Annie Leibovitz / Vogue
+
+When asked about the critical reception to her 2016 blockbuster with Chris Pratt, the actress revealed one thing she wish she had done in hindsight before taking the role in Passengers. Lawrence agreed with others who thought the film should have started with her character waking up, instead of Pratt's. "I'm disappointed in myself that I didn't spot it," she told the magazine. "I thought the script was beautiful—it was this tainted, complicated love story. It definitely wasn't a failure. I'm not embarrassed by it by any means. There was just stuff that I wished I'd looked into deeper before jumping on."
+
+
+
+John Currin / Vogue
+
+Live and learn, as they say. At just 26, Lawrence has already become all too familiar with the negative side effects of fame, including the endless lack of privacy. When the star was videotaped dancing in a club in Vienna last spring, the Internet swirled with allegations that she had been drunk and dancing in her bra. She took the scandal by the horns and issued a statement, clearing up the fact that no, she was not in her bra, and that she "had a blast" and would not be apologizing."My biggest fear from that whole thing was that people were going to think that I was trying to be sexy," she told the magazine. "Also, it looked like I had taken my shirt off. I was in a crop top. I did not take off my shirt. I'm on the phone with my lawyers, and everybody's like, 'Is there anything we need to know before it comes out?' And I'm like, 'No, it's all there.'"
+
+
+
+Inez and Vinoodh / Vogue
+
+Lawrence's love life is a different story. When it comes to romance, she has been known to keep her romances out of the spotlight as much as possible, including her current relationship with  Aronofsky. As Lawrence told Vogue, they started seeing each other after Mother! wrapped and, while the typically outspoken star keeps the details about her man to a minimum, she does have many compliments to pay him. "When I saw the movie, I was reminded all over again how brilliant he is," she said of her beau, adding that he is an "amazing father." As for how the two tell for each other, Lawrence cryptically said she had "energy" for him. "I normally don't like Harvard people, because they can't go two minutes without mentioning that they went to Harvard...He's not like that," she noted. "I've been in relationships before where I am just confused. And I'm never confused with him."
+
+Fans are equally intrigued about her friendship with Amy Schumer and the secret film they're working on together. While there's still not a lot confirmed about their joint project, Lawrence does say they have been meeting with directors. As she said of the plot, it's about "dysfunctional twins. But it's sad. Then funny." The September 125th Anniversary Collector's Edition issue is out on national newsstands on August 22 and available to order on Amazon. 
+/n

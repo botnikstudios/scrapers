@@ -1,0 +1,46 @@
+times overall, including twice to Alene Akins, making Southwick one of seven women he's swapped vows with. (Technically, his marriage to wife no. 2, Freda Miller, ended in annullment rather than divorce, but you get the gist). Southwick.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/176455/larry-king-ditches-marriage-no-8');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2010314/293.king.southwick.lc.041410.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Larry King, Shawn Southwick");
+	var imageCaption = encodeURIComponent("Larry King, Shawn Southwick");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paul Morigi/Getty Images
+
+Maybe Larry King is just getting too old for this...stuff.The 76-year-old talk show host signed his seventh batch of divorce papers today, this time to unhook himself from wife Shawn Southwick after nearly 13 years of marriage. He cites wanderlust irreconcilable differences as the reason for the split.King has been married eight times overall, including twice to Alene Akins, making Southwick one of seven women he's swapped vows with. (Technically, his marriage to wife no. 2, Freda Miller, ended in annullment rather than divorce, but you get the gist). Southwick was married three times before tying the knot with King.They have two sons together, Chance, 11, and Cannon, 9. King, who's still spry enough to be thrown off the Little League field for arguing, is asking for joint custody of the kids."He's going to try and make this divorce amicable," King's attorney, Dennis Wasser, tells E! News. "His only real interest is the  welfare of his two children."Southwick, meanwhile, has a different idea of what's best for the boys.
+
+In her own divorce petition, filed moments after King's, Southwick, 50, asks for primary physical custody of Chance and Cannon, plus spousal and child support. She also is claiming that the Beverly Hills home they shared is her separate property (i.e., not community property to be split between them).King asked in his petition that Southwick not be awarded spousal support.
+
+King married Southwick from a hospital bed in 1997 while he was  recovering from surgery to clear a blocked blood vessel.
+/n

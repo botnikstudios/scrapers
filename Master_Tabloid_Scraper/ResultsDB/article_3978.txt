@@ -1,0 +1,44 @@
+Nancy Kerrigan's Brother Goes Home Over the objections of prosecutors, Nancy Kerrigan's brother has been allowed to post bail, leave police custody and return to the Massachusetts home of their mother, Brenda. "He's no lo.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/168631/nancy-kerrigan-s-brother-goes-home');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20100224/293.kerrigan.nancy.mark.lc.022410.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Nancy Kerrigan, Mark Kerrigan");
+	var imageCaption = encodeURIComponent("Nancy Kerrigan, Mark Kerrigan");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paul Morigi/Getty Images for Edge Health; AP Photo/Pool, Ted Fitzgerald
+
+Over the objections of prosecutors, Nancy Kerrigan's brother has been allowed to post bail, leave police custody and return to the Massachusetts home of their mother, Brenda."He's no longer in our custody," Michael Hartigan, spokesman for the Middlesex Sheriff's Office, tells E! News.Mark Kerrigan, who's facing assault and possibly even manslaughter charges in the death of his father, Daniel, was sprung after he completed a psychiatric evaluation and his family posted the requisite $10,000 bond. Per the terms of his release, he must wear a GPS monitoring device, refrain from drinking and submit to random drug and alcohol testing.
+
+The 45-year-old plumber must remain confined for the most part to the family abode—aka, the scene of the alleged crime—until his next court date. He is allowed to travel locally but must obtain the court's permission to go further distances.Mark Kerrigan, who has a history of violence and mental illness, was arrested Jan. 25 for assaulting his father. The state medical examiner subsequently found that the incident triggered a heart attack, killing Daniel Kerrigan. The death was labeled a homicide and the D.A. is weighing whether to file more charges.The family released a statement noting Daniel Kerrigan had a preexisting heart condition and died of natural causes.In a brief statement issued today following his release, the Kerrigans said they are "delighted to have Mark back with them" and "ask that you respect their privacy as they welcome Mark home."Earlier this month, Nancy Kerrigan opened up about her father's tragic death, calling the last several weeks "the most difficult of my life." Mark Kerrigan's Boston-based attorney, Janice Bassil, could not be reached for comment.
+/n

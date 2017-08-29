@@ -1,0 +1,99 @@
+Live with Kelly Favorite Richard Curtis Lands Guest Hosting Gig on Fox: 'It's Very Humbling'
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-59f8491dd066838fedae32a533ddddfb-59a578ffddd2f');
+				var iframe = document.getElementById('wpcom-iframe-59f8491dd066838fedae32a533ddddfb-59a578ffddd2f');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-59f8491dd066838fedae32a533ddddfb-59a578ffddd2f'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+There’s no stopping this train!
+Live‘s favorite high school teacher, Richard Curtis, is back on air and he couldn’t be more excited. The Souderton Area High School teacher was asked to join FOX 29’s Alex Holley and Karen Hepp on the set of Good Day Philadelphia all week long.
+“Fox reached out about Teacher Appreciation week and the next thing I know they say, ‘I think it would be awesome for you to come and host with Mike, Alex and Karen,” Curtis tells PEOPLE. “It’s always very humbling when someone says, ‘We like you and want you to come onto an already awesome show and be awesome at it.’ ”
+Of course, Curtis says he couldn’t have taken the gig (on a school week) without the support of his school district.
+“I have the most supportive school district behind me and the most supportive staff and students,” he says. “After it was announced on TV that I got the job, I walked into a round of applause from the students. I started tearing up right in front of them.”
+“My principal and superintendent, even those guys, I told them and they were like, ‘Why are you wasting our time with this? You know how we feel!’ I just love them. Everyone is excited for me to get back in there and have a little bit of fun with it. It just makes me feel so good that so many people are so supportive.”
+Curtis, who became a morning favorite, began his guest-hosting gigs after winning a social media contest to co-host Live for one day in early October. He was so good that Kelly Ripa and the Live producers decided to have him back on multiple occasions (Ryan Seacrest went on to secure the gig) — though Curtis nailed the job each time.
+“The kids finally see that the big picture is there. As a broadcast teacher, I’m constantly pushing them to spread their wings and contact as many people as they can,” he says of his students. “I think this opportunity put a little meat and power behind what I’ve been saying for so long and that’s to be yourself and to go out and be a great person. People will respond to that.”
+ 
+
+
+
+
+
+ What a WEEK! What a CREW! A huge THANKYOU to #fox29goodday for having me sit in to cohost, it was a blast!! Thanks everyone who tweeted, and messaged all the positivity it makes me feel awesome!! Until next time guys! 😎💯👔🎥 @fox29philly #gooddayphiladelphia @mikejerrick @alexholleytv @karenfox29 @sueseriofox29 @bobkellyfox29
+A post shared by Richard Curtis (@mrrichcurtis) on May 19, 2017 at 7:53am PDT
+
+
+So, is the broadcast teacher ready to leave the classroom for good?
+FROM PEN: Ryan Seacrest Admits He Was Insecure About How Good the Other Live Candidates Were
+
+“I’ve been so swept up in this whole process that it’s been tough to not think about — if something did come along, would I take it or not?” he admits. “I just keep coming back to the point of I really do honestly, truly love my job here and it’s going to take something big or something very, very worthwhile to leave this place. I just have so much love for these kids. The absolute right job would have to come along.”
+And things are starting to come along.
+“I’ve had a lot of really good talks and kick butt meetings,” Curtis continues. “The summertime is going to be made sure that when I have that time off I can really get after some stuff. I am really hoping some things kick into motion.”
+/n

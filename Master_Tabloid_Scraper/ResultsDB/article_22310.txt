@@ -1,0 +1,144 @@
+Sandals, $40 Miu Miu Suede Sandals, $950 Kendall and Kylie Emily Tall Gladiator Sandal, $150 Free People Sun Seeker Tall Gladiator Sandal, $104 Scutz Jeanette Leather Stiletto Heel, $180 If comfort and style had a baby, it would look like Ka.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/755197/lace-up-sandals-shoes-you-can-live-in-all-summer-long');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016231/rs_634x1024-160331092813-634.Rosie-Huntington-Whiteley-LA.jl.033116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("ESC: Rosie Huntington-Whiteley, Sandals ");
+	var imageCaption = encodeURIComponent("ESC: Rosie Huntington-Whiteley, Sandals ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+EVGA / AKM-GSI
+
+Laces out!Whether you're looking to complement an already glamorous outfit or need an elevated component for a casual outfit, lace up sandals are the ultimate choice. Their strappy, skin-baring ways only mean great things for your legs (hello, gorgeous elongation!) and their versatility makes dubbing them summer's It-shoe a no-brainer. Dressier occasions call for thin straps and thick straps are for everything in between—it's that simple. Rosie Huntington-Whiteley. The woman knows how to brunch in style—just look at her chunky-heeled Aquazzura sandals! If you know you're going to be on your feet all day, like she most likely did, and you still need to look presentable, the thicker the heel, the better. It's the only way you can guarantee your feet won't be blue by the time you take them off. A white tee and some boyfriend jeans later (maybe you tie a denim shirt around your waist) and you've got yourself an ideal outfit for little to no effort.
+
+
+
+
+Dolce Vita ‘Lyndon' Lace-Up Sandal, $150
+
+
+
+
+Zara High Heel Leather Lace-Up Sandals, $70
+
+
+
+
+Aquazzura Tulum Fringed Studded Suede Sandals, $895
+
+
+
+
+Coconuts By Matisse ‘Copa' Sandal, $80
+
+
+
+
+Topshop Dance Lace Up Sandal, $48
+
+
+
+
+Sam Edelman Yardley Lace-Up Sandal, $120
+
+
+
+Pierre Suu/Getty Images
+
+Now, working the laces up your calf, like Kelly Rowland, says something completely different. No matter what you choose to wear them with, there's a certain something that comes attached. Want instant sex appeal? Rock a major heel. Looking to add a splash of sport to your outfit? Go with flats. Whatever heel height you go with, make sure you show a little more leg than normal. Mini skirts and jean shorts should be your summer uniform.
+
+
+
+
+Jeffrey Campbell Olympus Leather Gladiator Sandal, $220
+
+
+
+
+Forever 21 Lace-Up Heeled Sandals, $40
+
+
+
+
+Miu Miu Suede Sandals, $950
+
+
+
+
+Kendall and Kylie Emily Tall Gladiator Sandal, $150
+
+
+
+
+Free People Sun Seeker Tall Gladiator Sandal, $104
+
+
+
+
+Scutz Jeanette Leather Stiletto Heel, $180
+
+
+
+Splash News
+
+If comfort and style had a baby, it would look like Kate Bosworth's flat lace-up sandals. They'll instantly upgrade even the schleppiest of outfits (yes, even your favorite baggy sweatshirt) and they're incredibly easy to slip on. Pro tip: Keep a pair by your front door. They're so much cuter than your just-running-out-for-a-sec flip flops.
+
+
+
+
+Loeffler Randall Saskia Pom Pom Lace Up Sandal, $250
+
+
+
+
+Steve Madden Sweetyy, $80
+
+
+
+
+Alexander Wang Patricia Sandal, $550
+
+
+
+
+Vince Niva Leather Lace-Up Flat Gladiator Sandal, $295
+
+
+
+
+H&M Sandals, $25
+
+
+
+
+Forever 21 Tasseled Lace-Up Sandals, $25
+/n

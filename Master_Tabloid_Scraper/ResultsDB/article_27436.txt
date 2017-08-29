@@ -1,0 +1,44 @@
+Will Smith Still Thinks Janet Hubert Is "Brilliant" Even After Fresh Prince of Bel Air Star Slammed Jada Pinkett Smith If you're expecting Will Smith to say some not-so-nice things about Janet Hubert, it's not going to ha.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/738601/will-smith-still-thinks-janet-hubert-is-brilliant-even-after-fresh-prince-of-bel-air-star-slammed-jada-pinkett-smith');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016021/rs_634x1024-160121045234-634.Will-Smith-Jada-Pinkett-Smith-Janet-Hubert-JR-012116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Will Smith, Jada Pinkett Smith, Janet Hubert");
+	var imageCaption = encodeURIComponent("Will Smith, Jada Pinkett Smith, Janet Hubert");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Gabe Ginsberg/WireImage, Paul Drinkwater/NBCU Photo Bank
+
+If you're expecting Will Smith to say some not-so-nice things about Janet Hubert, it's not going to happen.Well, at least it didn't happen this week when the actor sat down for an interview with BBC Radio 1Xtra.After bringing up the Oscars' controversy, host A.Dot had to ask about Will's Fresh Prince of Bel Air co-star. "Who was the best Aunt Viv?" the radio jock asked. "The First Aunt Viv or Second Aunt Viv?""Listen I think that both of the Aunt Vivs were really, really fantastic. I think when you make a show, anytime you make a change, it's going to be excruciating and painful," Will explained. "I think that Janet Hubert brought a really powerful dignity to the show."When A.Dot followed up asking if Will still likes her, he didn't hesitate with his answer.
+
+While not everyone may agree with Will and Jada's decision to boycott the Oscars, the Hollywood couple is sticking by their beliefs. In fact, the actor only reiterated his thoughts on the lack of diversity in Hollywood this week."It's so far not about me. It's not about us going to a show or not. For me, it's a much bigger social issue. I'm recognizing a pattern of the narrowing of the imagery that the narrowing of tolerance in America," he shared during Monday's interview. "For the last 18 months that I've been watching the news and experiencing the things that are going on in my country, my concern is that Hollywood is reflecting a regressive trend."He continued, "Hollywood is supposed to lead. Hollywood is supposed to be the most diverse and the most inclusive, all of the voices of so many different types of people and so many different stories and I think that it's an absolute necessity that Hollywood lead and I'm just concerned that I'm seeing Hollywood slipping and making us slide." 
+/n

@@ -1,0 +1,48 @@
+EXCLUSIVE! Inside George and Amal Clooney's Blissful Lives as Parents: ''They're Happier Than They've Ever Been'' Not to mention, George and Amal have a never-ending list of friends who love visiting and he.../n
+George Clooney and Amal Clooney are loving parenthood.The couple welcomed their twins, Alexander and Ella Clooney, into the world on June 6 and have been soaking up the baby bliss ever since.A source told E! News, "Everything is going great with the babies. [George and Amal] are happier than they have ever been and really enjoying being parents...They are truly in love and just want to be with the babies and not do much else."Fortunately, they get to do just that!"Amal is not working, and they both have the summer off and are enjoying Lake Como," our insider added. "They are very happy to be in Italy." 
+
+Even though they're both home, they do have a lot of help from friends and family, too."Amal's mother helps out a lot and can't get enough [of the babies]," the source said. "If she doesn't see them for a few days, she is dying to come back."They also have a baby nurse who assists them at night. We're told the nurse comes to help "with feedings and teaching them about newborns and schedules. Especially with twins, there is a lot of structure and planning to be done and they are grateful for the help."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/866533/inside-george-and-amal-clooney-s-blissful-lives-as-parents-they-re-happier-than-they-ve-ever-been');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017611/rs_745x1024-170711174338-634.George-Clooney-Amal-Clooney-Lake-Como.ms.071117.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("George Clooney, Amal Clooney");
+	var imageCaption = encodeURIComponent("George Clooney, Amal Clooney");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ciao Pix/BACKGRID
+
+Not to mention, George and Amal have a never-ending list of friends who love visiting and helping out."They have had a lot of friends visit and Amal's family is often around," the source said "There is always someone who can give a helping hand. That's given George and Amal an opportunity to be together and have some one-on-one time, too."In fact, the couple was just spotted out to dinner with pals at a restaurant near Lake Como earlier this week.Meanwhile, George and Amal have gone to great lengths to protect the privacy of their newborn babies and their family. Not only have temporary laws been put into place to restrict unwelcomed guests from coming near their home, there are also traffic restrictions on the street and the lake.  
+
+A source in Italy also told us, "Before George and Amal arrived, there were new cameras and motion lights installed all over the property and at the boathouse. They had security checking everything out to make sure everything was working and functioning properly."Needless to say, it's a safe and happy home life for the family of four!
+/n

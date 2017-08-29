@@ -1,0 +1,44 @@
+hotness!) There's not much in common between these two looks besides their shade, making it tricky to tell who looks best. It's almost like The Age of Adeline star and budding singer are two versions of the same 'ralls loving .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/fashion_police/news/548926/fashion-face-off-blake-lively-vs-rumer-willis-in-all-black-overalls');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201456/rs_634x1024-140606104936-634.overalls.cm.6614.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Blake Lively, Rumer Willis");
+	var imageCaption = encodeURIComponent("Blake Lively, Rumer Willis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+INFphoto.com, Splash News
+
+It's official: Overalls are back in action and we could not be more thrilled (we typed while wearing a distressed denim set of our own.) If Blake Lively and Rumer Willis are any indication, the 2.0 version of this '90s staple will include slimmer legs and both straps buckled (raise your hand if you spent all of middle school rocking some one-strap hanging hotness!)There's not much in common between these two looks besides their shade, making it tricky to tell who looks best. It's almost like The Age of Adeline star and budding singer are two versions of the same 'ralls loving girl!
+
+Mrs. Ryan Reynolds is definitely wearing the more formal version of the look...if "formal" and "farmer" can be combined into the same style. Her Rag & Bone set are a great fit and we love the black-and-white theme, but given the old timey shoes, Blake kind of looks like a mime who moved to the country.Bruce and Demi's daughter, on the other hand, takes the traditional denim design and shifts it by color alone. Her tight grey T-shirt, side sling bag and half-tied combat boots are all a blast from the right part of the past.So is it the original take or the classic shape? Nostalgia is making us vote for Rumer. What's your take?
+/n

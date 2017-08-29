@@ -1,0 +1,60 @@
+This Is Us' Milo Ventimiglia on Bringing in Sylvester Stallone and the "Smallest" Relief in Jack's Death Reveal It may hurt, but it's nice that people care. "Very true. If people are not caring about Jack dying .../n
+Fans will finally get an answer to what happens to This Is Us' Jack Pearson when season two premieres in September. For Milo Ventimiglia, the man behind Jack on the NBC drama, that's a bit of a relief."In the smallest way, yes. Only because I feel like people want to know and because I am the character and Dan is writing the character, he and I are the ones that get hammered the most. But I also feel that there may not be the complete satisfaction just because the event that happens—the event of him dying. It's too soon in his life," Ventimiglia told press after the This Is Us 2017 TCA summer press tour panel. "It's too soon and young in the character's that he impacts and I think it's just something that matter what, there's no way around it hurting. It's going to hurt."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/871248/this-is-us-milo-ventimiglia-on-bringing-in-sylvester-stallone-and-the-smallest-relief-in-jack-s-death-reveal');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201771/rs_595x749-170801162618-1024-this-is-us-s02-poster.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("This Is Us, Season 2, Key Art, Poster");
+	var imageCaption = encodeURIComponent("This Is Us, Season 2, Key Art, Poster");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NBC
+
+It may hurt, but it's nice that people care."Very true. If people are not caring about Jack dying then yeah, maybe they should go back to Game of Thrones or something," he said.The other big news about season two of This Is Us is the big guest star Ventimiglia helped land: Sylvester Stallone, his costar from 2006's Rocky Balboa."Like Dan said, there's a movie star, a movie idol that Justin's character was going to be working with. When I heard about what the episode was going to be and everything, they just kind of looked at me and said, ‘Yeah, someone like Sly.' And I'm like, ‘Cool!' And they go, ‘You think he'd do it?' and I went, ‘I don't know.' And they just kept looking at me and I'm like, ‘Oh, you want me to call him.'"
+
+And called him he did."I did Balboa a long time ago and I hadn't seen Sly as often…But every time I saw him, "Hey, kid. How you doing? What's going on? Call me anytime." That's how he always was and is with me, so I felt comfortable reaching out to him," Ventimiglia said.
+
+"He always reaffirmed call me if you need anything. I basically called and said here's something that might be fun and I'm sorry that you and I aren't going to get a lot of screentime together, but I want you to know how much this impacts my character," Ventimiglia continued. "If you imagine that Sylvester Stallone is Kevin's movie idol, it's got to come from somewhere. Maybe that was his dad's movie idol? Maybe dad goes through some tough times and always goes back to that underdog story of the first Rocky, so I think seeing the parallels and all that."Creator Dan Fogelman said the movie Justin Hartley's character Kevin is working on with Stallone is a "very fancy film."
+
+"And it's a war film, so Stallone is basically coming in as himself in the show, but playing a character in the film who's kind of this mentor figure who starts bringing up some stuff for Justin's character involving Jack and his relationship with his own father," Fogelman teased.Other guest stars include Debra Jo Rupp and Dan Lauria.As for Jack's story, we pick up the day after Rebecca and Jack's big season one finale.
+
+"We find them in that immediate fractured moment…It's the day after the big argument and they have a long, uneven, unpaved road to get back to being better," Ventimiglia teased. "Some hurtful things were said, some things you never want to bring into the relationship, but the intensity of that fight is always going to cool off, but what doesn't go away is the hurt and the pain and what these people who have been together for 20 years have experienced."
+
+
+
+Frederick M. Brown/Getty Images
+
+The relationship problems are a very big part of Jack's journey this year."Jack has—for all Jack's perfection, or perceived perfection, I think what we're going to see a lot of this year is Jack's imperfection. Not that we're going to see Jack acting poorly or being poorly, but we're going to address the things that have impacted his life to where he puts on this amazing man quality, but really just buries everything else because he does not want it anywhere near his family, anywhere near his wife, anywhere near his kids," he said. "Before his death he's in his 50s, an early 50s man who has experienced life. Hell, at 40 I've seen a thing or two, so I couldn't even imagine in 50s in the era he was living as well."
+
+This Is Us premieres Tuesday, Sept. 26 at 9 p.m. on NBC.(E! and NBC are both part of the NBCUniversal family.)
+/n

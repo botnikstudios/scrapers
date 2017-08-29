@@ -1,0 +1,79 @@
+ George & Amal Step Out In Matching Sporty Outfits For Couples' Tennis In Lake Como.../n
+
+					var next_post_url = "http://radaronline.com/photos/alaskan-bush-people-ami-brown-cancer-family-location-beverly-hills-hotel-photos/";
+					var prev_post_url = "http://radaronline.com/photos/blac-chyna-boobs-sheer-dress-tao/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-08-22T08:53:01+00:00","caption":"In another adorable day date, George Clooney and wife Amal Clooney stepped out of their gorgeous Lake Como vacation house in sweet sporty outfits to play paddle tennis with friends, RadarOline.com has learned. The pair looked lovely in their casual yet elegant sportswear as they enjoyed a sunny morning in the beautiful town.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:02+00:00","caption":"George, 56, wore an all-blue ensemble paired with white running sneakers as he joined his pals and wife for a day on the court.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:05+00:00","caption":"Amal, 39, looked flawless in a white and yellow outfit and black visor. She looked stylish in a long braid and scrunched up white socks for her sporty outing.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:07+00:00","caption":"The duo was joined by another couple and greeted by a guard when entering the tennis property. The actor showed off his toned legs while walking to the court, and Amal looked slim as ever just weeks after giving birth to her twins Ella and Alexander.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:08+00:00","caption":"The famous couple stayed close to one another while on their stroll around town.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:09+00:00","caption":"Followed by their pals, they looked as content and relaxed as can be.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:11+00:00","caption":"They even held hands on their jog home!","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-10.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-08-22T08:53:10+00:00","caption":"What do you think of Amal and George's latest sweet date? Do you think they're living it up in Como? Let us know in the comments below.\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/08\/George-Clooney-Amal-Paddle-Tennis-Date-09.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+George & Amal Step Out In Matching Sporty Outfits For Couples’ Tennis In Lake Como
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 8 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 8In another adorable day date, George Clooney and wife Amal Clooney stepped out of their gorgeous Lake Como vacation house in sweet sporty outfits to play paddle tennis with friends, RadarOline.com has learned. The pair looked lovely in their casual yet elegant sportswear as they enjoyed a sunny morning in the beautiful town.Photo credit: MEGA2 of 8George, 56, wore an all-blue ensemble paired with white running sneakers as he joined his pals and wife for a day on the court.Photo credit: MEGA3 of 8Amal, 39, looked flawless in a white and yellow outfit and black visor. She looked stylish in a long braid and scrunched up white socks for her sporty outing.Photo credit: MEGA4 of 8The duo was joined by another couple and greeted by a guard when entering the tennis property. The actor showed off his toned legs while walking to the court, and Amal looked slim as ever just weeks after giving birth to her twins Ella and Alexander.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 8The famous couple stayed close to one another while on their stroll around town.Photo credit: MEGA6 of 8Followed by their pals, they looked as content and relaxed as can be.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 8They even held hands on their jog home!Photo credit: MEGA8 of 8What do you think of Amal and George's latest sweet date? Do you think they're living it up in Como? Let us know in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: MEGA 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+In another adorable day date, George Clooney and wife Amal Clooney stepped out of their gorgeous Lake Como vacation house in sweet sporty outfits to play paddle tennis with friends, RadarOline.com has learned. The pair looked lovely in their casual yet elegant sportswear as they enjoyed a sunny morning in the beautiful town.Photo credit: MEGAGeorge, 56, wore an all-blue ensemble paired with white running sneakers as he joined his pals and wife for a day on the court.Photo credit: MEGAAmal, 39, looked flawless in a white and yellow outfit and black visor. She looked stylish in a long braid and scrunched up white socks for her sporty outing.Photo credit: MEGAThe duo was joined by another couple and greeted by a guard when entering the tennis property. The actor showed off his toned legs while walking to the court, and Amal looked slim as ever just weeks after giving birth to her twins Ella and Alexander.Photo credit: MEGAThe famous couple stayed close to one another while on their stroll around town.Photo credit: MEGAFollowed by their pals, they looked as content and relaxed as can be.Photo credit: MEGAThey even held hands on their jog home!Photo credit: MEGAWhat do you think of Amal and George's latest sweet date? Do you think they're living it up in Como? Let us know in the comments below.
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.Photo credit: MEGA 
+
+
+
+
+
+
+
+
+
+/n

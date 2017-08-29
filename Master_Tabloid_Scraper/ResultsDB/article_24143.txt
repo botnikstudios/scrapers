@@ -1,0 +1,54 @@
+Rockefeller Center Christmas Tree Lighting Is a Smash Hit Thanks to Mariah Carey, Jewel, Mary J. Blige & More The most wonderful time of the year kicked off with a fluorish in New York City tonight. Mariah Carey, Jewel, Leona Lewis, Mary.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/487628/rockefeller-center-christmas-tree-lighting-is-a-smash-hit-thanks-to-mariah-carey-jewel-mary-j-blige-more');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013114/rs_634x1024-131204181555-634.mariah-carey.cm.12413.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Christmas in Rockefeller Center, Mariah Carey");
+	var imageCaption = encodeURIComponent("Christmas in Rockefeller Center, Mariah Carey");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Giovanni Rufino/NBC
+
+The most wonderful time of the year kicked off with a fluorish in New York City tonight.Mariah Carey, Jewel, Leona Lewis, Mary J. Blige and the Goo Goo Dolls helped get the yuletide party started at the annual lighting of the Rockefeller Center Christmas Tree, one of the Big Apple's most beloved traditions.Today hosts Matt Lauer, Savannah Guthrie, Al Roker and Natalie Morales cohosted the accompanying NBC special, Christmas at Rockefeller Center. They dedicated the broadcast to Today audio and lighting technician Jim Lovell, who was one of four people killed Sunday when a commuter train derailed in the Bronx.
+
+
+
+Stephen Lovekin/Getty Images
+
+But while the tunes were merry and the celebrity wattage high, the real star of the show was the 76-foot, 12-ton Norway Spruce decked out with 45,000 glittering LED lights, the 80th tree to stand tall outside the real-life 30 Rock since the first tree-lighting ritual in 1933.Topping the center of attention is a 9 1/2-foot-wide Swarovski star.
+
+Tens of thousands of people, including gobs of out-of-towners among the native New Yorkers, braved the cold to see the tree and get a glimpse of the entertainment, which in addition to the A-list pop stars included the Radio City Music Hall Rockettes.Carey wore a Mrs. Claus-inspired red gown with furry white sleeves during the pretape rehearsal, but changed into a slinky, silver-studded white gown for the main show. 
+
+Jewel's nude and gold cocktail dress looked a bit as if she had raided the tinsel store beforehand—but in a good, festive way—and Mary J.'s curve-hugging, full-length gown was studded with snowflake-reminiscent metallic appliqués.Tis the season!
+
+Outgoing New York City Mayor Michael Bloomberg did the switch-flipping honors for the last time before handing over the proverbial keys to the castle to Bill de Blasio.The tree will remain up until Jan. 7, after which it will be donated to Habitat for Humanity for lumber.
+/n

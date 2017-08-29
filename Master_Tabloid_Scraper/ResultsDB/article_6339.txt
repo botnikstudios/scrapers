@@ -1,0 +1,48 @@
+Hannah Jeter Is Pregnant! Model Expecting Baby Girl With Derek Jeter "I look forward to having a family. I just don't think personally I would have been able to juggle family and my career at the same time...I have the utmost respe.../n
+Derek Jeter and Hannah Jeter are about to hit parenthood out of the park. The former Sports Illustrated Swimsuit cover girl is expecting the couple's first child, the 26-year-old model announced on The Players' Tribune Monday, recalling how she fell in love with the athlete without knowing about his famous baseball career at first. "Now, pregnant with our first child, Derek and I are looking to the future," the model wrote. "He already has a name in mind—he's set on it. (We'll see.) He'll say when he calls me during the day: 'So, how are you and so-and-so doing?' 'That's not the name yet, sweetie.' Whatever her name is, I know she'll run circles around him."While they prepare for this little one to arrive, the mom-to-be is looking to the future with several kids in mind. "Derek and I will want our children to understand that the lives they've been given are so fortunate, in so many ways. We'll want them to learn to help others, and to care for others, and to give back to the world. We'll let them know that they are strong and smart, and that they can do anything they put their minds to. I hope they'll be honest like their father. I hope they'll be stubborn like me. I hope that they know what they want and won't settle for less," she continued. "And if they want to play baseball, well, we're gonna have a little talk first." 
+
+She and the retired New York Yankees shortstop married in July 2016 after dating for three years. "They are extremely excited and in love!" a source told E! News. "They can't wait to spend their lives together."Now, they are fulfilling another lifetime wish to start a family—something the athlete has been looking forward to since before he finished his iconic baseball career in 2014. 
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/828328/hannah-jeter-is-pregnant-model-expecting-baby-girl-with-derek-jeter');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017113/rs_634x845-170213065415-Derek-Jeter.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Derek Jeter, Baby, Pregnancy, Hannah Davis, Hannah Jeter");
+	var imageCaption = encodeURIComponent("Derek Jeter, Baby, Pregnancy, Hannah Davis, Hannah Jeter");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+The Players' Tribune
+
+"I look forward to having a family. I just don't think personally I would have been able to juggle family and my career at the same time...I have the utmost respect for these guys that are able to do it—you know, missing their kids' birthdays and not being able to see them play tee ball or summer ball and missing a lot of time," a then-single Jeter told Brian Williams days before he played his final game on the team. "So, it's another reason why I feel as though now's the time. I mean, I want to have a family. Who knows when it's gonna be? But I look forward to it."Just three years later, the star athlete is now a married man with his first child on the way. As for his 26-year-old right-hand woman, Davis wanted a partner that valued family above all else. 
+
+"Trying to impress you with material things? I think that's lame," the Project Runway: Junior host previously told Maxim. "I wanted someone whose family is a big, important part of their life."Congratulations to the mom and dad-to-be on their home run news!
+/n

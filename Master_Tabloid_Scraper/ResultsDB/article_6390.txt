@@ -1,0 +1,46 @@
+Jane Lynch to Host People's Choice Awards 2016 Sue Sylvester is back—just kidding. Glee alum Jane Lynch is returning to the stage, though, as the host of the 2016 People's Choice Awards. The People's Choice Awards and CBS anno.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/710617/jane-lynch-to-host-people-s-choice-awards-2016');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015726/rs_634x1024-150826090113-634.Jane-Lynch-US-Open.jl.082615.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jane Lynch");
+	var imageCaption = encodeURIComponent("Jane Lynch");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mike Coppola/Getty Images for Tommy Hilfiger
+
+Sue Sylvester is back—just kidding.Glee alum Jane Lynch is returning to the stage, though, as the host of the 2016 People's Choice Awards. The People's Choice Awards and CBS announced the big news Tuesday."As a people myself, I'm thrilled to take on hosting duties of the only awards show that celebrates the choice of the people!" said Lynch in a statement.Lynch proved her hosting chops back in 2011 at the Emmys, and since 2013, she's continued to do so as the host of NBC's Hollywood Game Night. Her acting skills have earned her four People's Choice Award nominations in the past, too—including a win for Favorite TV Comedy Actress in 2011.
+
+Don't think that Lynch is giving up acting in favor of hosting now that Glee is over, though—she currently stars in Angel From Hell, an upcoming CBS comedy set to premiere in February 2016.In Angel From Hell, lynch plays a not-so-holy, substance-addicted woman claiming to Maggie Lawson's character's guardian angel. "I love what a mess she is and that she has no shame around her alcoholism or the fact that she lives in her car," said Lynch during the Television Critics Association summer press tour, per The Hollywood Reporter.
+
+Lynch noted that while "there's an element of spirituality" to the show, "It's first and foremost a comedy. It will always be funny."We'll be watching, and we'll also be watching Lynch host the 2016 People's Choice Awards airing Jan. 6, 2016 on CBS.Take a look back at Lynch preparing for the 2011 Emmys in the video below.
+/n

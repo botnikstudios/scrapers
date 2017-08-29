@@ -1,0 +1,46 @@
+Memoriam" video. Take a look back at some of Rhonda's finer moments—like the time Anika (Grace Gealey) pushed her down the stairs and when Rhonda murdered Vernon (Malik Yoba)—in the special video celebration of her TV life./n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/796831/empire-pays-tribute-to-season-3-premiere-casualty');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016822/rs_634x1024-160922064919-634.empire-season-3.ch.092216.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Empire");
+	var imageCaption = encodeURIComponent("Empire");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Fox
+
+To quote the great Sarah McLachlan, "Weep not for the memories," Empire fans. In the season three premiere—SPOILER ALERT—Rhonda Lyon (Kaitlyn Doubleday) fell to her death as husband Andre (Trai Byers) looked on. It was very dramatic.But, fear not, she's still around. Rhonda is kicking it as a ghost. Yep.To mark her passing, Fox released the below "In Memoriam" video. Take a look back at some of Rhonda's finer moments—like the time Anika (Grace Gealey) pushed her down the stairs and when Rhonda murdered Vernon (Malik Yoba)—in the special video celebration of her TV life.
+
+However, "it's an important part of Andre's story and his psyche and it really tells the story of his state of mind," she said. "And we were excited by it, not just because we didn't want to let go of Kaitlin, but because it felt very, very real and right to us."
+
+Empire airs Wednesdays, 9 p.m. on Fox.
+/n

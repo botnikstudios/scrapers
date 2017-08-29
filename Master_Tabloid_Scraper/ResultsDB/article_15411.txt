@@ -1,0 +1,46 @@
+EXCLUSIVE! Sophia Bush Weighs In on a One Tree Hill Reunion Sophia Bush has been longtime fan of Birchbox. The online service sends subscribers samples of makeup and beauty products every month. "They pick things based on your hair type.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/813101/sophia-bush-weighs-in-on-a-one-tree-hill-reunion');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016416/rs_634x1024-160516083309-634.Sophia-Bush-NBCUNIVERSAL-2016-UPFRONT-PRESENTATION-JR-051616.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sophia Bush, NBCUNIVERSAL 2016 UPFRONT PRESENTATION");
+	var imageCaption = encodeURIComponent("Sophia Bush, NBCUNIVERSAL 2016 UPFRONT PRESENTATION");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Evan Agostini/Invision/AP
+
+Sophia Bush has been longtime fan of Birchbox.The online service sends subscribers samples of makeup and beauty products every month. "They pick things based on your hair type, your skin type, the color preferences that you have," the Chicago P.D. star tells me. "They kind of cut through the white noise. I've gotten so many of my favorite products through them."And now she's collaborating with Birchbox by hosting its holiday promotion that features a chance to win free subscriptions and a grand prize for the next 12 days. (Click here to get the full details).Birchbox wasn't the only thing we chatted about. Read on to find out what Sophia had to say about last-minute holiday shopping, finding out Santa Claus wasn't real and the possibility of a One Tree Hill reunion.
+
+Do you have all of your holiday shopping done already?Not totally, but I'm getting there. I try not to be a last-minute person.What do you want for Christmas this year?What do I want for Christmas? World peace.I knew that you were going to say that.We're in very strange, trying times and I think that that's also part of the reason that getting to work with my friends at Birchbox this holiday season felt so fun. God, what a nice time to just shower people with presents and have these packages show up at their front doors.Now, let me ask you a sad question: When you did you find out that Santa Claus wasn't real?You know what's so funny? I really think that it was probably so devastating for me that I blocked it out because really I have no idea. I was probably 7 or 8, but it could've been earlier.
+
+I have ask you about One Tree Hill. You're going to be at a One Tree Hill convention in May. So is there any talk of an actual reunion or reboot?I don't know how I could cut myself in half to make that happen because I shoot Chicago P.D. for 10 months out of the year. I guess if the stars align for all of the producers who have other jobs to do another job and then miraculously 15 people could manage to be free for a special, that would be cool. I just don't know how we would ever make it work, but it's certainly flattering that people want us to.Where would Brooke be today?I think still running companies. I think she absolutely would have been a leader in the tech market and would have an incredible app. Brook's app would be great. Maybe we should make it anyway.
+/n

@@ -1,0 +1,50 @@
+Veronica Mars Movie Romance Scoop: Find Out Who Veronica Is Dating! Ten years later and Veronica Mars' love life is still worth investigating! Veronica Mars star Kristen Bell was spotted filming the highly-anticipated Kickstarter-funded.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/434511/veronica-mars-movie-romance-scoop-find-out-who-veronica-is-dating');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013527/rs_293x473-130627115429-634.mars.cm.62713_copy.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Kristen Bell, Chris Lowell ");
+	var imageCaption = encodeURIComponent("Kristen Bell, Chris Lowell ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+AKM-GSI
+
+Ten years later and Veronica Mars' love life is still worth investigating!Veronica Mars star Kristen Bell was spotted filming the highly-anticipated Kickstarter-funded movie in Los Angeles on Wednesday, and she wasn't alone!In fact, she was holding hands with one of her many male suitors from the original series: Chris Lowell, aka Piz, Veronica's adorkable college BF, who she was still dating when the series was canceled. Go on, Logan (Jason Dohring) fans: Punch your pillows, blast some Boyz II Men, we'll wait!
+
+READ: Ken Marino is set to return as Vinnie Van Lowe for the movie!
+
+Of course, fans of Rob Thomas' beloved series are sure to have strong feelings about these photos, as Logan and Veronica are arguably one of TV's most beloved couples, while Piz was a polarizing addition in season three. (We loved him, just saying!) And yes, Lowell is well aware of some fans' dislike for his character.At Veronica Mars' panel at the ATX Television Festival in Austin, Tex., Lowell talked about calling Bell after the Kickstarter campaign began. "‘What the hell? Where was my phone call for this Kickstarter campaign?' Kristen was like, ‘No one likes Piz,'" Lowell joked. Still, Lowell has remained fond of the character. "I think I wrote back saying, ‘I've never stopped playing Piz. I still refer to myself as Piz,'" Lowell explained of receiving an e-mail from Thomas asking if he'd be interested in reprising the role.
+
+VIDEO: Max Greenfield "excited" to return as Deputy Leo!
+
+Though Thomas has remained tight-lipped when it comes to spoilers aside from the fact that it takes place at Neptune High's ten-year reunion, he spilled to us, "The important thing to know is that Veronica left Neptune and quit her work as a P.I. shortly after our final episode aired. This movie will be about Veronica returning to her roots."Returning to those roots, of course, means a slew of fan favorites returning to cross paths with the snarky blonde. Stars confirmed to appear in the film include Dohring, as Veronica's on-and-off-again suitor Logan (one of TV's most iconic bad boys, duh-doy!), Enrico Colantoni as Veronica's father Keith, Percy Daggs III as her BFF Wallace, Ryan Hansen as Dick, Tina Majorino as Mac,  Francis Capra as Weevil, Max Greenfield as Deputy Leo, and Ken Marino as Vinnie Van Lowe.2014, please get here sooner?
+/n

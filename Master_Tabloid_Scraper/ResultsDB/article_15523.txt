@@ -1,0 +1,84 @@
+Rage, Violence & Abandonment: Inside Jenelle Evans’ Sick, Sad Childhood/n
+
+					var next_post_url = "http://radaronline.com/photos/hugh-jackman-shirtless-abs-shower/";
+					var prev_post_url = "http://radaronline.com/photos/christina-el-moussa-divorce-tarek-el-moussa-party-younger-girls-country-concert/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-07-28T12:15:20+00:00","caption":"Before Jenelle Evans had the family she always wanted with fianc\u00e9 David Eason, she lived in a household from hell! From her mother\u2019s verbal abuse to her brother\u2019s \"outbursts of rage,\" go inside the Teen Mom 2 star\u2019s sick childhood.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-pp1.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:04:58+00:00","caption":"In the reality star\u2019s tell-all book\u00a0Read Between The Lines: Diary Of a Teen Mom, she explained how her family was far from perfect. \u201cWe never had fun vacations or cozy holidays,\u201d she wrote. \u201cThere wasn\u2019t a gathering that didn\u2019t end in a screaming match.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:04:59+00:00","caption":"She revealed that she had a good relationship with her father until he abandoned the family. \u201cI was daddy\u2019s little girl,\u201d she penned. \u201cI love and admired him. I still do in some small way. Without warning everything changed, and my dad cut himself out of my life. Even now, as a grown woman, we don\u2019t talk. Maybe one day that will change. Maybe one day we can find one another, get to know each other, and he can finally be my father.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:00+00:00","caption":"Evans has an older sister named Ashleigh and an older brother named Colin, with whom she does not have a relationship with today. \u201cI have no memories of my older sister comforting me in times of trouble or my older brother sticking up for me,\u201d she wrote. \u201cAshleigh is older than both of us, and she made sure we remembered it. She was snobby and b****y, and had no time for either Colin or me. I only wanted to hang out with my cool older sister, but no. Between her words and actions, she pushed me away as hard as she could.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:01+00:00","caption":"She revealed that her sister was a very \u201cstressed-out kid.\u201d \u201cShe fought with everyone in her life, friends and family,\u201d she wrote. \u201cAfter she repeated the fifth grade, Ashleigh slid deeper into a dark place. She went through a Goth phase, with all black clothes and stuff like that. She also dabbled in witchcraft and other weird stuff.\u201d When she grew up, she married a marine and had a child. When they divorced, she had a second child with her ex-husband\u2019s best friend.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:02+00:00","caption":"She explained that while she did get along with Colin growing up, he \u201coften had outbursts of rage.\u201d \u201cIt took some time for me to realize those outbursts were more than just a phase he was going through,\u201d she wrote. \u201cHe had some serious problems going on inside of his head.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:03+00:00","caption":"In July of 2000, he accidentally set the family's house on fire. \u201cColin had started a fire in the attic and it was quickly spreading to the rest of the house,\u201d she wrote. \u201cHe set a toy car alight, then tossed it onto his bed, which then caught the entire attic on fire. This was a nine-year-old boy deliberately setting fire to his toys. God only knows how long the fire was burning before he finally came and told us what he had done.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:04+00:00","caption":"She continued that Colin ended up in a \u201cspecial group home\u201d in Texas for nearly two years. \u201cI don\u2019t blame my mother for sending him away,\u201d she wrote. \u201cIt is a hard decision, yet I would\u2019ve done the same. He still lives in a special group home. Turns out, not only does Colin have the family issue of anxiety, he is also developmentally challenged.\u201d","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:05+00:00","caption":"With her father and brother away, she explained how her mother Barbara cracked down on her \u201ctwice as hard.\u201d \u201cMy mother developed into a harsher, colder version of herself,\u201d she wrote. \u201cAfter dad left, she began to scrutinize everything we did.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-08.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-07-28T12:05:06+00:00","caption":"Does Evans\u2019 dark childhood surprise you? Tell us in the comments!\n\nWe pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/07\/jenelle-evans-sick-childhood-violence-abandonment-teen-mom-09.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Rage, Violence & Abandonment: Inside Jenelle Evans’ Sick, Sad Childhood
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 10 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 10Before Jenelle Evans had the family she always wanted with fiancé David Eason, she lived in a household from hell! From her mother’s verbal abuse to her brother’s "outbursts of rage," go inside the Teen Mom 2 star’s sick childhood.2 of 10In the reality star’s tell-all book Read Between The Lines: Diary Of a Teen Mom, she explained how her family was far from perfect. “We never had fun vacations or cozy holidays,” she wrote. “There wasn’t a gathering that didn’t end in a screaming match.”3 of 10She revealed that she had a good relationship with her father until he abandoned the family. “I was daddy’s little girl,” she penned. “I love and admired him. I still do in some small way. Without warning everything changed, and my dad cut himself out of my life. Even now, as a grown woman, we don’t talk. Maybe one day that will change. Maybe one day we can find one another, get to know each other, and he can finally be my father.”4 of 10Evans has an older sister named Ashleigh and an older brother named Colin, with whom she does not have a relationship with today. “I have no memories of my older sister comforting me in times of trouble or my older brother sticking up for me,” she wrote. “Ashleigh is older than both of us, and she made sure we remembered it. She was snobby and b****y, and had no time for either Colin or me. I only wanted to hang out with my cool older sister, but no. Between her words and actions, she pushed me away as hard as she could.” 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 10She revealed that her sister was a very “stressed-out kid.” “She fought with everyone in her life, friends and family,” she wrote. “After she repeated the fifth grade, Ashleigh slid deeper into a dark place. She went through a Goth phase, with all black clothes and stuff like that. She also dabbled in witchcraft and other weird stuff.” When she grew up, she married a marine and had a child. When they divorced, she had a second child with her ex-husband’s best friend.6 of 10She explained that while she did get along with Colin growing up, he “often had outbursts of rage.” “It took some time for me to realize those outbursts were more than just a phase he was going through,” she wrote. “He had some serious problems going on inside of his head.” 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 10In July of 2000, he accidentally set the family's house on fire. “Colin had started a fire in the attic and it was quickly spreading to the rest of the house,” she wrote. “He set a toy car alight, then tossed it onto his bed, which then caught the entire attic on fire. This was a nine-year-old boy deliberately setting fire to his toys. God only knows how long the fire was burning before he finally came and told us what he had done.”8 of 10She continued that Colin ended up in a “special group home” in Texas for nearly two years. “I don’t blame my mother for sending him away,” she wrote. “It is a hard decision, yet I would’ve done the same. He still lives in a special group home. Turns out, not only does Colin have the family issue of anxiety, he is also developmentally challenged.” 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 10With her father and brother away, she explained how her mother Barbara cracked down on her “twice as hard.” “My mother developed into a harsher, colder version of herself,” she wrote. “After dad left, she began to scrutinize everything we did.”10 of 10Does Evans’ dark childhood surprise you? Tell us in the comments!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+ 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Before Jenelle Evans had the family she always wanted with fiancé David Eason, she lived in a household from hell! From her mother’s verbal abuse to her brother’s "outbursts of rage," go inside the Teen Mom 2 star’s sick childhood.In the reality star’s tell-all book Read Between The Lines: Diary Of a Teen Mom, she explained how her family was far from perfect. “We never had fun vacations or cozy holidays,” she wrote. “There wasn’t a gathering that didn’t end in a screaming match.”She revealed that she had a good relationship with her father until he abandoned the family. “I was daddy’s little girl,” she penned. “I love and admired him. I still do in some small way. Without warning everything changed, and my dad cut himself out of my life. Even now, as a grown woman, we don’t talk. Maybe one day that will change. Maybe one day we can find one another, get to know each other, and he can finally be my father.”Evans has an older sister named Ashleigh and an older brother named Colin, with whom she does not have a relationship with today. “I have no memories of my older sister comforting me in times of trouble or my older brother sticking up for me,” she wrote. “Ashleigh is older than both of us, and she made sure we remembered it. She was snobby and b****y, and had no time for either Colin or me. I only wanted to hang out with my cool older sister, but no. Between her words and actions, she pushed me away as hard as she could.”She revealed that her sister was a very “stressed-out kid.” “She fought with everyone in her life, friends and family,” she wrote. “After she repeated the fifth grade, Ashleigh slid deeper into a dark place. She went through a Goth phase, with all black clothes and stuff like that. She also dabbled in witchcraft and other weird stuff.” When she grew up, she married a marine and had a child. When they divorced, she had a second child with her ex-husband’s best friend.She explained that while she did get along with Colin growing up, he “often had outbursts of rage.” “It took some time for me to realize those outbursts were more than just a phase he was going through,” she wrote. “He had some serious problems going on inside of his head.”In July of 2000, he accidentally set the family's house on fire. “Colin had started a fire in the attic and it was quickly spreading to the rest of the house,” she wrote. “He set a toy car alight, then tossed it onto his bed, which then caught the entire attic on fire. This was a nine-year-old boy deliberately setting fire to his toys. God only knows how long the fire was burning before he finally came and told us what he had done.”She continued that Colin ended up in a “special group home” in Texas for nearly two years. “I don’t blame my mother for sending him away,” she wrote. “It is a hard decision, yet I would’ve done the same. He still lives in a special group home. Turns out, not only does Colin have the family issue of anxiety, he is also developmentally challenged.”With her father and brother away, she explained how her mother Barbara cracked down on her “twice as hard.” “My mother developed into a harsher, colder version of herself,” she wrote. “After dad left, she began to scrutinize everything we did.”Does Evans’ dark childhood surprise you? Tell us in the comments!
+We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at (866) ON-RADAR (667-2327) any time, day or night. 
+
+
+
+
+
+
+
+
+
+/n

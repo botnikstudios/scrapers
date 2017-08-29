@@ -1,0 +1,108 @@
+ See Ya, Stepmom! Oprah Winfrey Sells Her Dad’s Home For $1.2 Million After Evicting.../n
+Oprah doesn’t waste any time! Just a few months after she won a court battle to evict her stepmom Barbara Winfrey out of the Tennessee home she once shared with Oprah’s father Vernon in Tennessee, RadarOnline.com has learned exclusively that Oprah has already offloaded the house. The media mogul recently sold the mansion for $1.2 million — and Radar has all the inside photos.
+
+					var next_post_url = "http://radaronline.com/photos/kendra-wilkinson-dad-eric-nudist-photos/";
+					var prev_post_url = "http://radaronline.com/photos/devoted-delinquents-joe-giudice-stops-at-the-post-office-sending-love-letters-to-jailbird-teresa/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":"","image":[{"@type":"ImageObject","datePublished":"2014-12-23T14:59:32+00:00","caption":"","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-PP.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:39+00:00","caption":"Over the summer, Barbara Winfrey reluctantly moved out of the Franklin, Tenn. home she shared with husband Vernon Winfrey for 14 years. Oprah had offered to gift her the home \"free and clear,&rdquo; or to sell it and split the profits, but Barbara wouldn&rsquo;t accept the terms of the proposed deals.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-1.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:22+00:00","caption":"After a bitter 18-month legal battle, Barbara was evicted from the stately mansion located just 30 minutes outside Nashville.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-20.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:24+00:00","caption":"Oprah reportedly &ldquo;gifted&rdquo; the property to her 81-year-old father, but maintained financial control of the home. When she sold it on November 10, she recouped $1.2 million.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-19.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:25+00:00","caption":"This was just one of the many impressive homes on her real estate roster, including a 15,000 square foot duplex in Chicago, Illinois; a farmhouse in Kula, Hawaii; a vacation home in Antigua; and a ski villa in Telluride, Colorado. But the million-dollar Tennessee home pales in comparison to her $52 million Montecito, California estate, which she nicknamed &ldquo;The Promised Land.&rdquo;","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-18.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:25+00:00","caption":"After Barbara moved out, Vernon let her keep the furniture. She claimed they had spent &ldquo;hundreds of thousands&rdquo; to decorate the house.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-17.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:31+00:00","caption":"Barbara sold some of the antique furniture in an online auction, bringing in nearly $30,000.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-16.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:31+00:00","caption":"The proceeds \u201chelped her financially,\u201da source close to her said.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-15.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:32+00:00","caption":"&ldquo;This has been my home for 14 years,&rdquo; a disappointed Barbara told The Daily Mail when she moved out.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-14.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:32+00:00","caption":"Oprah has love for other family members, like her long lost half sister, who Oprah lavished with a $500,000 home.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-13.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:33+00:00","caption":"Barbara is now living with a relative to help conserve money and make ends meet, according to a source.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-12.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:33+00:00","caption":"&ldquo;She&rsquo;s been in good spirits even though it all didn&rsquo;t turn out quite the way she wanted,&rdquo; a source close to Barbara told Radar.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-11.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:34+00:00","caption":"Divorce depositions reveal that Vernon Winfrey has been receiving financial support from his daughter for years, with her giving him millions to stay afloat -- even $1 million during his marriage to Barbara.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-10.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:35+00:00","caption":"The stately home comes with five bedrooms and five bathrooms.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-9.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:35+00:00","caption":"There are a whopping 20 rooms, with one aptly named the \u201cmother-in-law quarters.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-8.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:36+00:00","caption":"The 6,600 square foot home is surrounded by lush woodlands.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-7.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:36+00:00","caption":"Other fancy features include five fireplaces and walls of windows.","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-6.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:37+00:00","caption":"It also boasts a library, billiards room, bar and wine cellar.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-5.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:37+00:00","caption":"The wooded grounds offered the media titan plenty of privacy when she visited.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-4.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:38+00:00","caption":"Their nasty divorce proceedings also detailed ugly secrets in their marriage, including claims that Barbara reportedly imposed a three-year sex ban on Oprah&rsquo;s father after she saw a video of him having sex with a prostitute in his barber shop.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-3.png?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2014-12-23T14:41:38+00:00","caption":"But Oprah didn&rsquo;t take everything in the three-car garage. Barbara reportedly got to keep her Mercedes, a gift from the generous journalist 11 years ago.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2014\/12\/oprah-sells-tennessee-home-2.png?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+See Ya, Stepmom! Oprah Winfrey Sells Her Dad’s Home For $1.2 Million After Evicting His Ex
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 21 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 21Photo credit: B2 of 21oprah-sells-tennessee-home-1Over the summer, Barbara Winfrey reluctantly moved out of the Franklin, Tenn. home she shared with husband Vernon Winfrey for 14 years. Oprah had offered to gift her the home "free and clear,” or to sell it and split the profits, but Barbara wouldn’t accept the terms of the proposed deals.Photo credit: B3 of 21oprah-sells-tennessee-home-20After a bitter 18-month legal battle, Barbara was evicted from the stately mansion located just 30 minutes outside Nashville.Photo credit: B4 of 21oprah-sells-tennessee-home-19Oprah reportedly “gifted” the property to her 81-year-old father, but maintained financial control of the home. When she sold it on November 10, she recouped $1.2 million.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 21oprah-sells-tennessee-home-18This was just one of the many impressive homes on her real estate roster, including a 15,000 square foot duplex in Chicago, Illinois; a farmhouse in Kula, Hawaii; a vacation home in Antigua; and a ski villa in Telluride, Colorado. But the million-dollar Tennessee home pales in comparison to her $52 million Montecito, California estate, which she nicknamed “The Promised Land.”Photo credit: B6 of 21oprah-sells-tennessee-home-17After Barbara moved out, Vernon let her keep the furniture. She claimed they had spent “hundreds of thousands” to decorate the house.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 21oprah-sells-tennessee-home-16Barbara sold some of the antique furniture in an online auction, bringing in nearly $30,000.Photo credit: B8 of 21oprah-sells-tennessee-home-15The proceeds “helped her financially,”a source close to her said.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 21oprah-sells-tennessee-home-14“This has been my home for 14 years,” a disappointed Barbara told The Daily Mail when she moved out.Photo credit: B10 of 21oprah-sells-tennessee-home-13Oprah has love for other family members, like her long lost half sister, who Oprah lavished with a $500,000 home.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-4'] = {"tag_id":"dfp-tag-mobile_box-4", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+11 of 21oprah-sells-tennessee-home-12Barbara is now living with a relative to help conserve money and make ends meet, according to a source.Photo credit: B12 of 21oprah-sells-tennessee-home-11“She’s been in good spirits even though it all didn’t turn out quite the way she wanted,” a source close to Barbara told Radar.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-5'] = {"tag_id":"dfp-tag-mobile_box-5", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+13 of 21oprah-sells-tennessee-home-10Divorce depositions reveal that Vernon Winfrey has been receiving financial support from his daughter for years, with her giving him millions to stay afloat -- even $1 million during his marriage to Barbara.Photo credit: B14 of 21oprah-sells-tennessee-home-9The stately home comes with five bedrooms and five bathrooms.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-6'] = {"tag_id":"dfp-tag-mobile_box-6", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+15 of 21oprah-sells-tennessee-home-8There are a whopping 20 rooms, with one aptly named the “mother-in-law quarters.”Photo credit: B16 of 21oprah-sells-tennessee-home-7The 6,600 square foot home is surrounded by lush woodlands.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-7'] = {"tag_id":"dfp-tag-mobile_box-7", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+17 of 21oprah-sells-tennessee-home-6Other fancy features include five fireplaces and walls of windows.Photo credit: B18 of 21oprah-sells-tennessee-home-5It also boasts a library, billiards room, bar and wine cellar.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-8'] = {"tag_id":"dfp-tag-mobile_box-8", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+19 of 21oprah-sells-tennessee-home-4The wooded grounds offered the media titan plenty of privacy when she visited.Photo credit: B20 of 21oprah-sells-tennessee-home-3Their nasty divorce proceedings also detailed ugly secrets in their marriage, including claims that Barbara reportedly imposed a three-year sex ban on Oprah’s father after she saw a video of him having sex with a prostitute in his barber shop.Photo credit: B 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-9'] = {"tag_id":"dfp-tag-mobile_box-9", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+21 of 21oprah-sells-tennessee-home-2But Oprah didn’t take everything in the three-car garage. Barbara reportedly got to keep her Mercedes, a gift from the generous journalist 11 years ago.Photo credit: B 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Photo credit: Boprah-sells-tennessee-home-1Over the summer, Barbara Winfrey reluctantly moved out of the Franklin, Tenn. home she shared with husband Vernon Winfrey for 14 years. Oprah had offered to gift her the home "free and clear,” or to sell it and split the profits, but Barbara wouldn’t accept the terms of the proposed deals.Photo credit: Boprah-sells-tennessee-home-20After a bitter 18-month legal battle, Barbara was evicted from the stately mansion located just 30 minutes outside Nashville.Photo credit: Boprah-sells-tennessee-home-19Oprah reportedly “gifted” the property to her 81-year-old father, but maintained financial control of the home. When she sold it on November 10, she recouped $1.2 million.Photo credit: Boprah-sells-tennessee-home-18This was just one of the many impressive homes on her real estate roster, including a 15,000 square foot duplex in Chicago, Illinois; a farmhouse in Kula, Hawaii; a vacation home in Antigua; and a ski villa in Telluride, Colorado. But the million-dollar Tennessee home pales in comparison to her $52 million Montecito, California estate, which she nicknamed “The Promised Land.”Photo credit: Boprah-sells-tennessee-home-17After Barbara moved out, Vernon let her keep the furniture. She claimed they had spent “hundreds of thousands” to decorate the house.Photo credit: Boprah-sells-tennessee-home-16Barbara sold some of the antique furniture in an online auction, bringing in nearly $30,000.Photo credit: Boprah-sells-tennessee-home-15The proceeds “helped her financially,”a source close to her said.Photo credit: Boprah-sells-tennessee-home-14“This has been my home for 14 years,” a disappointed Barbara told The Daily Mail when she moved out.Photo credit: Boprah-sells-tennessee-home-13Oprah has love for other family members, like her long lost half sister, who Oprah lavished with a $500,000 home.Photo credit: Boprah-sells-tennessee-home-12Barbara is now living with a relative to help conserve money and make ends meet, according to a source.Photo credit: Boprah-sells-tennessee-home-11“She’s been in good spirits even though it all didn’t turn out quite the way she wanted,” a source close to Barbara told Radar.Photo credit: Boprah-sells-tennessee-home-10Divorce depositions reveal that Vernon Winfrey has been receiving financial support from his daughter for years, with her giving him millions to stay afloat -- even $1 million during his marriage to Barbara.Photo credit: Boprah-sells-tennessee-home-9The stately home comes with five bedrooms and five bathrooms.Photo credit: Boprah-sells-tennessee-home-8There are a whopping 20 rooms, with one aptly named the “mother-in-law quarters.”Photo credit: Boprah-sells-tennessee-home-7The 6,600 square foot home is surrounded by lush woodlands.Photo credit: Boprah-sells-tennessee-home-6Other fancy features include five fireplaces and walls of windows.Photo credit: Boprah-sells-tennessee-home-5It also boasts a library, billiards room, bar and wine cellar.Photo credit: Boprah-sells-tennessee-home-4The wooded grounds offered the media titan plenty of privacy when she visited.Photo credit: Boprah-sells-tennessee-home-3Their nasty divorce proceedings also detailed ugly secrets in their marriage, including claims that Barbara reportedly imposed a three-year sex ban on Oprah’s father after she saw a video of him having sex with a prostitute in his barber shop.Photo credit: Boprah-sells-tennessee-home-2But Oprah didn’t take everything in the three-car garage. Barbara reportedly got to keep her Mercedes, a gift from the generous journalist 11 years ago.Photo credit: B 
+
+
+
+
+
+
+
+
+
+/n

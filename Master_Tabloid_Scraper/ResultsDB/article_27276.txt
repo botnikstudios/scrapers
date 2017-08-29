@@ -1,0 +1,44 @@
+would be, but we were hoping we were wrong. We weren't sure who we wanted to see dead instead, but we were definitely hoping it wouldn't be Captain Irving. Unfortunately, that's exactly who it was. After learning from Abraham&.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/602482/sleepy-hollow-mid-season-finale-nooooooo-don-t-kill-spoiler');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014111/rs_634x1024-141201174816-634.Sleepy-Hollow-Tom-Mison-Nicole-Beharie.ms.120114.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sleepy Hollow, Tom Mison, Nicole Beharie ");
+	var imageCaption = encodeURIComponent("Sleepy Hollow, Tom Mison, Nicole Beharie ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Brownie Harris/FOX
+
+Uh, rude, Sleepy Hollow!When we heard someone was dying tonight, we had a feeling we knew who it would be, but we were hoping we were wrong. We weren't sure who we wanted to see dead instead, but we were definitely hoping it wouldn't be Captain Irving.Unfortunately, that's exactly who it was. After learning from Abraham/Headless that wielding the Sword of Methuselah would cause a person to lose their soul, the gang determined that the only person who could safely wield it was the guy whose soul already belonged to a jerkface named Henry/Jeremy/War.  Irving was obviously not totally psyched about this plan, but he went along with it anyway, and he totally rocked that magical sword. He killed a bunch of undead revolutionary soldiers and then put the sword right through the Horseman of War after Henry sent his armor off into the battle. However, the Horseman had managed to stab him first, and Katrina and Ichabod could not save him.It was very upsetting, and it was made all the more upsetting by Abbie's completely devastated reaction. We'd really like to be sure that Irving will magically be saved when the show returns, but we aren't holding our breaths. 
+
+Irving's death meant that someone else would have to use the sword to kill Moloch, so it was time for everyone to take turns. While Abbie, Ichabod, Katrina, and Jenny decided who would sacrifice themselves for the good of all mankind first, Moloch was asking Henry to do the same by delaying his parents and their friends, despite the fact that he no longer has his armor.Sad Puppy Henry tried to refuse being sent off to his possible death by yet another parent, but he did it anyway, and easily managed to wrangle the sword away from Ichabod when Ichabod couldn't kill his son. Luckily, it goes both ways, and Henry couldn't bring himself to kill his father, either. Moloch first asked him to kill Katrina, but Ichabod asked to be killed in her place. Henry might have done it, until Moloch revealed that he didn't care one bit about Henry."You are nothing but what I made you," the big bad roared, and Henry went on in his usual way about the story of Isaac and Abraham before promptly turning and putting the sword right through Moloch. And then it ended.So now we're left with Irving dead, Moloch dead, everyone tied up, Ichabod and Katrina's marriage in shambles, and Henry waving a giant magical sword around. Was that a somewhat happy ending? It is hard to tell with this show.One thing is definitely for sure: If Ichabod doesn't get a motorcycle by the end of this series, we will be starting a petition.Now if you'll excuse us, we're going to see how Orlando Jones is doing on Twitter. 
+/n

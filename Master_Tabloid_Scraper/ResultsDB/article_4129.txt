@@ -1,0 +1,87 @@
+Hayden Panettiere on Battling Postpartum Depression: ‘I Think I’m a Better Mom Because of It’/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-77083d7c9fba8fc4361940d9e83c8904-59a4f3f57d7bd');
+				var iframe = document.getElementById('wpcom-iframe-77083d7c9fba8fc4361940d9e83c8904-59a4f3f57d7bd');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-77083d7c9fba8fc4361940d9e83c8904-59a4f3f57d7bd'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Hayden Panettiere says her battle with postpartum depression has helped her value her relationship with daughter Kaya even more.
+During an appearance on Good Morning America Thursday, the Nashville star candidly addressed receiving treatment for the condition, which she has been outspoken about since before and after first seeking professional help in October 2015.
+“It takes you a while, and you feel off, you don’t feel like yourself,” she said of realizing she was struggling with PPD. “But, women are so resilient and that’s the incredible thing about them.”
+She added, “I think I’m all the stronger for it. And I think I’m a better mom because of it because you never take that connection for granted.”
+Panettiere, 27, shares Kaya, 2, with fiancé Wladimir Klitschko.
+Lately, Panettiere told GMA‘s Lara Spencer she’s been “feeling fabulous.”
+“I’m so glad to be back playing Juliet, everything that she’s been through is like a hazard sign in the road. She made me stronger,” she explained of returning to playing her Nashville character, Juliet, for the show’s 5th season, which will now air on CMT.
+In the series, Juliet also dealt with postpartum depression – a shared experience that “absolutely helped” Panettiere.
+“I think it helped me identify what was going on,” she said. “And to let women know that it’s okay to ask for help and that it’s okay to have a moment of weakness, and it doesn’t make you a bad person, doesn’t make you a bad mother. It makes you a very strong, resilient woman.”
+RELATED VIDEO: Hayden Panettiere Squashes Relationship Troubles to Rest With Tweet
+
+Panettiere revealed that she’d recently spent time with Kaya in Austria – where the toddler has already learned how to ski.
+“She’s skiing! The kid has no fear,” laughed Panettiere. “She would go straight into a wall if you let her.”
+/n

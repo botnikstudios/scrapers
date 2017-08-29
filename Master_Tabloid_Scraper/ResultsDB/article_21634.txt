@@ -1,0 +1,44 @@
+Sally Jessy Raphael "Hated" Doing the Last Few Years of Her Talk Show Sally Jessy Raphael has some regrets about the way her long-running syndicated talk show, Sally, ended. Now 81, Raphael appears on Oprah Winfrey's show, Opr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/805508/sally-jessy-raphael-hated-doing-the-last-few-years-of-her-talk-show');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016928/rs_634x1024-161028111129-634.Sally-Jesse-Raphael-JR-102816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sally Jesse Raphael");
+	var imageCaption = encodeURIComponent("Sally Jesse Raphael");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jim Lord/Getty Images
+
+Sally Jessy Raphael has some regrets about the way her long-running syndicated talk show, Sally, ended.Now 81, Raphael appears on Oprah Winfrey's show, Oprah: Where Are They Now?, and talks about how she would have changed the direction in which the show went prior to its 2002 cancellation. With other talk shows like Jerry Springer's and Maury Povich's coming up in the ratings due to their shock value, producers on Sally chose to cover those types of stories instead of hard news and human interest ones."The last years of doing those Maury Povich/Jerry Spring shows? I hated them," she says. "I was betrayed by some of the producers into doing that. Come to think of it, I should have fought harder for what I knew what right—what I knew that I didn't want to do."
+
+She maintains that she didn't know they were going off the air. "I'm sure there are some who think that I knew all along. I did not. I would not," she confesses.In hindsight, Raphael admits she would change how she handled the situation. "I would have said to them 'I don't know' instead of 'Yes, it's a go,'" she revealed.Oprah: Where Are They Now? airs Saturdays at 10 p.m. ET on OWN.
+/n

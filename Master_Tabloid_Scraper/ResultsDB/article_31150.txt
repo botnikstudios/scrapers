@@ -1,0 +1,46 @@
+according to a police report released Thursday and obtained by E! News.  The collision occurred on June 9 in Palm Beach Gardens, Fla., though 78-year-old Jerome Barson died two weeks later after being taken to the ICU with head trauma. The v.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/864152/venus-williams-involved-in-deadly-car-crash-that-killed-78-year-old-man');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017529/rs_634x1024-170629123124-634.Venus-Williams-TEnnis-Paris.ms.062917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Venus Williams, Tennis");
+	var imageCaption = encodeURIComponent("Venus Williams, Tennis");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jean Catuffe/Getty Images
+
+Venus Williams was involved in a recent car accident that left one man dead, according to a police report released Thursday and obtained by E! News. The collision occurred on June 9 in Palm Beach Gardens, Fla., though 78-year-old Jerome Barson died two weeks later after being taken to the ICU with head trauma. The victim's wife (who suffered broken bones and other injuries) was behind the wheel and approaching an intersection when the tennis pro's 2010 Toyota Sequoia SUV moved into the intersection at the same time.The driver of the 2016 Hyundai Accent told authorities there wasn't enough time to stop her car from colliding with the side of Williams' vehicle. Meanwhile, the sports star claimed that she entered the intersection on a green light, but because of traffic, she slowed her car down and thus could not clear the intersection. Additionally, Williams said she did not see the Barsons' car when she crossed into the lanes.Witnesses told investigators that Venus ran a red light.In a statement, her attorney, Malcolm Cunningham, told E! News, "Ms. Williams entered the intersection on a green light. The police report estimates that Ms. Williams was traveling at 5 miles per hour when Mrs. Barson crashed into her. Authorities did not issue Ms. Williams with any citations or traffic violations. This is an unfortunate accident and Venus expresses her deepest condolences to the family who lost a loved one."Williams would later speak out on Facebook writing, "I am devastated and heartbroken by this accident. My heartfelt condolences go out to the family and friends of Jerome Barson and I continue to keep them in my thoughts and prayers."
+
+According to the police report, there was no evidence Venus was under the influence of alcohol or drugs, nor was she possibly distracted by an electronic device. Serena Williams' older sister, 37, is currently being held responsible for the accident, with a portion of the report stating, "[Venus] is at fault for violating the right of way of [the other driver]."Palm Beach Gardens Maj. Paul Rogers told ABC News that the incident remains under investigation. She has not been cited or charged.The all-star athlete has yet to comment on the incident, but her attorney released a statement to ABC News expressing "her deepest condolences to the family who lost a loved one."The famous siblings famously share an 8,500-square-foot mansion in an exclusive gated community situated in the South Florida city where the accident took place. In 2015, Serena reportedly purchased a $2.5 million home in the same area as well as a $4.125 million estate in neighboring Jupiter. 
+
+Venus holds seven Grand Slam titles, four Olympic gold medals and is currently ranked the No. 11 women's singles player in the world. She is expected to compete at Wimbledon next week.E! News has reached out for comment. TMZ was first to report the story.
+/n

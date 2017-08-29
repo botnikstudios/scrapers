@@ -1,0 +1,80 @@
+Cecily Strong Fends Off 'Feminist' Suitors on SNL
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-674a5292e3e48e618716bfce7a5cde9a-59a558916a020');
+				var iframe = document.getElementById('wpcom-iframe-674a5292e3e48e618716bfce7a5cde9a-59a558916a020');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-674a5292e3e48e618716bfce7a5cde9a-59a558916a020'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+Men posing as feminists have feelings, too — ones that are easily bruised, judging by a new Saturday Night Live digital short.
+The clip, titled “Girl at a Bar,” sees a foursome of potential suitors clamoring for a woman’s affections while touting their pro-woman beliefs as a means to seal the deal.
+“Would you maybe want to hang out some time? Yeah, like a date,” one of the men, who’s rocking a “The Future is Female” tee, asks. When Strong’s character declines, his demeanor quickly changes as he screams, “I’m wearing this shirt and you won’t even let me nut!?”
+Watch the clip above, and read our recap of the episode — hosted by Hidden Figures‘ Octavia Spencer — here.
+This article originally appeared on Ew.com
+/n

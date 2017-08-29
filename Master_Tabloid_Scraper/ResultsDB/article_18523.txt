@@ -1,0 +1,42 @@
+some grief when she signed her own name.  I don't know why the red flag wasn't that Britney Spears' real name is most likely Britney Spears and not Leroy Johnson, but good for the cashier.  I'm more concerned about the fa.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/chelsea_lately/news/163901/body-guard-your-wallet');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20091106/293.spears.britney.lr.110609.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Britney Spears");
+	var imageCaption = encodeURIComponent("Britney Spears");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Oceanic Media Group/Getty images
+
+Britney Spears recently used her bodyguard's credit card to purchase a couple of pairs of boots.  Apparently her conservatorship has a budget limit, and when Britney walked into the Steve Madden store, I guess she'd already reached that limit.  So Britney paid with her bodyguard's credit card, then the really-on-top-of-it cashier gave her some grief when she signed her own name. I don't know why the red flag wasn't that Britney Spears' real name is most likely Britney Spears and not Leroy Johnson, but good for the cashier.  I'm more concerned about the fact that Britney Spears is being protected by a man that she's able to pick pocket.
+/n

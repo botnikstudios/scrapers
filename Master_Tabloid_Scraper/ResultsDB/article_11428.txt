@@ -1,0 +1,46 @@
+Ben Affleck and Lindsay Shookus Take Their Relationship to New York City The coffee run comes only hours after E! News reported that he'd be dropping out of Netflix's Triple Frontier "to take some time to focus on his wellness.../n
+It's a grab-and-go lifestyle when you're a part of the most buzzed about couple in the biz!Ben Affleck and his new girlfriend, Saturday Night Live producer Lindsay Shookus, had all eyes on them when they grabbed some iced coffees to go at Starbucks near Central Park in New York City on Wednesday. Previously the two have been spotted out and about in Los Angeles, where Ben lives. This is the first time they've been seen together as a couple in the City That Never Sleeps.A source tells E! News that the duo were talking and walking happily together on the bustling streets of the Big Apple around 2:30 p.m. The two were outfitted in casual ensembles with Ben, donning a low-key t-shirt and jeans. Lindsay opted for a cut-out, patterned mini-dress and white sneakers.While they've yet to make an official red carpet appearance since first going public on July 6, the pair are certainly not hiding their love from the world.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867944/ben-affleck-and-lindsay-shookus-take-their-relationship-to-new-york-city');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017619/rs_634x1024-170719121415-634.Ben-Affleck-Lindsay-Shookus-NYC-JR-071917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben Affleck, Lindsay Shookus");
+	var imageCaption = encodeURIComponent("Ben Affleck, Lindsay Shookus");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+TheMegaAgency.com
+
+The coffee run comes only hours after E! News reported that he'd be dropping out of Netflix's Triple Frontier "to take some time to focus on his wellness and his family."In keeping with his statement, The Batman actor seemed to be enjoying his summer afternoon, A source previously told E! News that the two, who met years ago during one of Ben's stints on SNL, are taking their time. "It's a new relationship. They are taking things slow," an insider said. "Lindsay is very happy. She's at a good place in her life."
+
+Back in April of this year, Jennifer Garner and Ben filed for divorce nearly two years after they announced that they were separating following 10 years of marriage.According to court documents, the exes filed for joint legal and physical custody of their three children, Violet, Seraphina and Samuel.A source at the time told E! News that the two "were co-parenting" and that the "most important thing in all of this are their kids."Both Ben and Jen have publicly praised one another since announcing that they were splitting.Meanwhile, Lindsay split with her husband Kevin Miller, who was a former SNL producer and current supervising producer of Late Night With Seth Meyers, in 2014. The ex flames share a 4-year-old daughter together. 
+/n

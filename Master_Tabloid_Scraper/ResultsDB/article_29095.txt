@@ -1,0 +1,46 @@
+Aaron Rodgers Rebounds From Olivia Munn With a Soccer Player—But His Focus Is on Something Else As the source described, the pair chatted and appeared to have a great time together as they enjoyed a full meal and drinks. While it seemed like.../n
+After his three-year romance with Olivia Munn fizzled out, it seems Aaron Rodgers has a new flame.The Green Bay Packers quarterback was spotted dining out in the Big Apple at The East Pole with soccer player Marie Margolius on Sunday night, just a few months after calling it quits with the Hollywood star in April. According to a source, the 33-year-old football pro and Harvard soccer alum "were definitely on a date." "They sat in a booth together," the insider noted. "No one bothered them while they were eating and it seemed like many didn't know who they were."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/873947/aaron-rodgers-rebounds-from-olivia-munn-with-a-soccer-player-but-his-focus-is-on-something-else');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016128/rs_634x1024-160228162835-634.Aaron-Rodgers-Olivia-Munn-Academy-Awards-Arrivals-ms.022816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("2016 Oscars, Academy Awards, Arrivals, Aaron Rodgers, Olivia Munn, Couples");
+	var imageCaption = encodeURIComponent("2016 Oscars, Academy Awards, Arrivals, Aaron Rodgers, Olivia Munn, Couples");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jordan Strauss/Invision/AP
+
+As the source described, the pair chatted and appeared to have a great time together as they enjoyed a full meal and drinks. While it seemed like Rodgers was into Margolius, it did seem like one of their first few dates and they didn't kiss or hold hands, the insider added. However, as they headed out, he placed his hand on her back. According to Page Six, which first reported the story, they later took a stroll down the street. While this may be a potential romance in progress, a second source said the football player is indeed dating, but is single and does not have an official girlfriend. "He is getting ready for football season, so that's really his focus," the source added. His low-key dating life is a shift from the high-profile relationship he was in with the X-Men actress not too long ago. As a source told E! News at the time of the split, he and Munn were "just on two different pages in life."
+
+"It was Olivia that called the break," the insider continued, adding that the breakup had been hard on both of them. While the insider didn't shoot down the possibility of them rekindling their romance at some point, it appears Rodgers has already jumped back into the dating pool. 
+/n

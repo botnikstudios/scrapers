@@ -1,0 +1,46 @@
+Jesse Williams Reveals His Objections to Aryn Drake-Lee's Declaration Amid Custody Battle Jesse Williams is fighting back after his estranged wife asked for full custody of their two children. In court documents obtained by E! News, the Grey's Anatom.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/875782/jesse-williams-reveals-his-objections-to-aryn-drake-lee-s-declaration-amid-custody-battle');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017724/rs_634x1024-170824172341-634.JesseWIlliams.jmd-062715.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jesse Williams, Aryn Drakelee-Williams");
+	var imageCaption = encodeURIComponent("Jesse Williams, Aryn Drakelee-Williams");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Stefanie Keenan/WireImage
+
+Jesse Williams is fighting back after his estranged wife asked for full custody of their two children.In court documents obtained by E! News, the Grey's Anatomy star and his legal team called Aryn Drake-Lee's declaration "riddled with fabrications, misstatements and mischaracterizations.""Despite Aryn's claims throughout her Declaration, I am equally capable of caring for [our two kids]," Jesse wrote in documents. "I have always played a constant and significant role in their lives. I have been to their medical appointments, school events and extracurricular activities."As for Aryn's allegations that Jesse has been absent due to his "busy and unpredictable work schedule as a celebrity," Jesse argues that his career doesn't marginalize himself as a parent.
+
+"I am in my 9th year on Grey's Anatomy," he wrote. "The structure and demands of my work schedule are the same as they were when we were married and when decided to have our wonderful children. Working full time did not keep me from being a doting parent then and it should not now."After Jesse's latest court filing, Aryn's attorney spoke out and defended her client."It is a shame that Mr. Williams chose to place the children and his family's transition in the public domain," Jill Hersh said in a statement to E! News. "Aryn has been working tirelessly to maintain Mr. Williams' bond with their children and it is important to remember that his one-sided allegations are made with a specific goal in mind. The judge is fully informed on both sides and will be making the final decision."
+
+As for Jesse, he alleges in court documents that his ex "refuses to communicate with me about the children." If this keeps up, the actor argues that their kids could be affected."Aryn is unilaterally parenting our children without any input from me," he alleged. "Her marginalizing of me as their father is deeply disconcerting."
+/n

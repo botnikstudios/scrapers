@@ -1,0 +1,50 @@
+Ivanka Trump Announces She Will Not Promote Her Upcoming Book Citing Ethics Concerns Don't expect to see Ivanka Trump promoting her forthcoming book in the coming weeks. As the First Daughter of the United States continues to serve as an assistant to.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/844991/ivanka-trump-announces-she-will-not-promote-her-upcoming-book-citing-ethics-concerns');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016109/rs_634x1024-161109143050-634.Ivanka-Trump-Instagram-2.kg.110916.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ivanka Trump, Instagram");
+	var imageCaption = encodeURIComponent("Ivanka Trump, Instagram");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Instagram
+
+Don't expect to see Ivanka Trump promoting her forthcoming book in the coming weeks.As the First Daughter of the United States continues to serve as an assistant to President Donald Trump, the author released a statement about her upcoming project."In light of government ethics rules, I want to be clear that this book is a personal project. I wrote it at a different time in my life, from the perspective of an executive and an entrepreneur, and the manuscript was completed before the election last November," Ivanka wrote in a Facebook post Thursday afternoon. "Out of an abundance of caution and to avoid the appearance of using my official role to promote the book, I will not publicize the book through a promotional tour or media appearances.""I am extremely proud of this book and grateful to the many people who lent their voices and shared their stories in its pages," she continued.Proceeds from the book titled Women Who Work: Rewriting the Rules for Success are expected to benefit the National Urban League and Boys & Girls Clubs of America.
+
+
+
+Amazon
+
+In addition, Ivanka has established the Ivanka M. Trump Charitable Fund, which will receive the unpaid portion of her advance and future royalties received from the book."Empowering women has been central to my mission throughout my career, and with my book, Women Who Work, I hope to do just that," Ivanka shared when explaining the book's mission. "The book equips readers with the best advice, tips and skills I've learned over the years from many incredible people, on subjects including identifying opportunities, leading teams, starting companies, managing work and family, and building cultures where multidimensional women can thrive—now and in the future.""Like many other professional women, I have juggled the demands that come with growing my family and building my businesses, and I realize that I am more fortunate than most," she added.
+
+Today's announcement comes after Ivanka was included in this year's Time 100 list. Wendi Murdoch wrote a tribute to the First Daughter who has been a close friend for 12 years."We met as neighbors in New York City and quickly grew close," she wrote. "As modern working moms, we have faced many of the same challenges and joys, and she has become a trusted counsel in my life.""Ivanka continues to earn my respect and admiration for how she has chosen to use her new visibility," Wendi added. "I am deeply impressed by her courage to leave behind life as she knew it and move her young family to Washington to pursue positive change."
+/n

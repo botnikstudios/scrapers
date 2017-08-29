@@ -1,0 +1,62 @@
+is and because she's 21, she is of legal age to do what she wants. No report was filed. Two Florida parents—who are going by the names Angelo and Theresa—say they are going through something similar.  Their daughter met Kelly at a conce.../n
+Several parents have come forward claiming singer R. Kelly is holding their daughters against their will in an alleged "cult"-like atmosphere.Buzzfeed News reported the story, which focuses on one specific set of Georgia-native parents by the names J. and Tim who claim they haven't seen their 21-year-old daughter in months after she started living with Robert "R." Kelly to focus on her music career. (BuzzFeed News said they verified the parents' and daughter's identities and full names in public records, but is withholding the alleged victim's full name and her parents' last name to protect their privacy).According to the report, Kelly met the teenage Georgia singer backstage at an Indio, Calif., concert in 2015 (when she was 19). From there, he began inviting her to more shows and promised to help her with her singing career. She continued spending time with him after she moved away to college and eventually moved in with him, leaving school all together, her parents explained.
+
+J. told Buzzfeed that around the same time she decided to stop going to school, her daughter began forwarding her calls to voicemail and would only text occasionally. At one point. Kelly even got on the phone himself to tell J. and Tim that their daughter was OK, denying anything was wrong.Eventually, they lost almost all contact with her. She texted them on Christmas and texted J. on Mother's Day, but the parents say the last time they saw her was on Dec. 1, 2016. "It was as if she was brainwashed. [She] looked like a prisoner — it was horrible," J. told Buzzfeed News. "I hugged her and hugged her. But she just kept saying she's in love and [Kelly] is the one who cares for her. I don't know what to do. I hope that if I get her back, I can get her treatment for victims of cults. They can reprogram her. But I wish I could have stopped it from happening."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/867295/worried-parents-claim-r-kelly-is-holding-their-young-daughters-in-a-cult-against-their-will-report');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20131024/rs_634x1024-131124165100-634.R-Kelly-AMA-jmd-112313.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("R. Kelly, American Music Awards");
+	var imageCaption = encodeURIComponent("R. Kelly, American Music Awards");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason Kempin/Getty Images
+
+The Georgia singer's former college roommate also spoke with Buzzfeed News. Using the initials T.S., she recalled details about what her former roommate told her regarding her relationship with Kelly.T.S. said Kelly took her roommate's cell phone away and replaced it with a new one, giving her the instructions that she could only use it to contact him. T.S. claimed the singer needed to obtain Kelly's permission to use the cell phone to communicate with anyone else.T.S. alleged that Kelly forced the Georgia singer to cut her hair and dye it blonde. She also recalled an incident the Georgia singer told her in which Kelly publicly spanked her as punishment after she laughed at another man's joke.Needless to say, J. and Tim have attempted to get the police involved on multiple occasions. They've even attempted to file a missing persons report. However, since they know where she is and because she's 21, she is of legal age to do what she wants. No report was filed.
+
+According to Buzzfeed News, police have done several well-fare checks on the Georgia singer who continues to tell officials that she's "fine and did not want to be bothered with her parents." Law enforcement has also been unable to find any evidence of wrongdoing.Therefore, J. and Tim said they decided to speak out in order to help bring their daughter home as well as help any other women involved in the situation."It's not about my daughter, per se. It's about all the girls," Tim told Buzzfeed News. "It's about my daughter, and I understand that. But the abuse that my daughter is actually enduring, nobody should go through."
+
+
+
+Jason Kempin/Getty Images
+
+Two Florida parents—who are going by the names Angelo and Theresa—say they are going through something similar. Their daughter met Kelly at a concert when she was 17-years-old and a high school senior. At 18, she decided to move in with him, and they've since lost all communication with her."I have not talked to my daughter in more than a year," Theresa told the publication, noting that she's left texts and voicemail messages that have not yet received a response. "We've had deaths in the family, birthdays, and I haven't heard from her and she hasn't been here for any of it. I didn't even hear from her on Mother's Day. All I want to do is bring her home."
+
+Three other sources—Cheryl Mack, Kitti Jones and Asante McGee—all claimed to have once been part of Kelly's "inner circle," telling Buzzfeed News that the singer manipulates these women into believing he's in love with them. Therefore, he coerces them to fall to for him in return and follow his every rule.Mack, Jones and McGree claim that six women live in properties rented by Kelly across Chicago and Atlanta suburbs. They say he controls every aspect of their lives: from what they eat to how they dress to even when they shower, sleep and use the bathroom. The women allege he also forces the girls to participate in sexual acts, which he films.They claim Kelly calls the women "babies," and they are required to call him "Daddy" and must ask his permission to leave the Chicago recording studio or their assigned rooms in the "guest house."
+
+Mack—who worked as Kelly's personal assistant for over a year in 2013—said women in Kelly's "entourage" initially think they're going to live with Kelly and have "a lavish lifestyle." She continued, "No. You have to ask for food. You have to ask to go use the bathroom. … [Kelly] is a master at mind control. ... He is a puppet master."She also explained that Kelly almost always tells the women to dress in jogging suits because "he doesn't want their figures to be exposed; he doesn't want them to look appealing." She claimed that when other men are in the same room, Kelly "would make the girls turn around and face the wall in their jogging suits because he doesn't want them to be looked at by anyone else."Mack and Jones both alleged that if any of the women broke the "rules," they were punished either physically or verbally.McGee said she never saw Kelly physically hurt or hit anyone, but she also claimed he's running a "cult" and manipulated her emotionally and sexually.
+
+"R. Kelly is the sweetest person you will ever want to meet," McGee told Buzzfeed News. "But Robert is the devil."Kelly's lawyer, Linda Mensche, responded to Buzzfeed News' report telling E! News, "Mr. Robert Kelly is both alarmed and disturbed at the recent revelations attributed to him. Mr. Kelly unequivocally denies such allegations and will work diligently and forcibly to pursue his accusers and clear his name."Mensche also told Buzzfeed News, "We can only wonder why folks would persist in defaming a great artist who loves his fans, works 24/7, and takes care of all of the people in his life. He works hard to become the best person and artist he can be."
+
+She continued, "It is interesting that stories and tales debunked many years ago turn up when his goal is to stop the violence; put down the guns; and embrace peace and love. I suppose that is the price of fame. Like all of us, Mr. Kelly deserves a personal life. Please respect that."E! News also reached out to Atlanta and Chicago police officials who both said no victims have come forward  and information is limited.
+/n

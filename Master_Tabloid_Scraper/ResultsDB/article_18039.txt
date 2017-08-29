@@ -1,0 +1,42 @@
+night on #TheThankfulTour! The folks at New Rising Star were TURNED alllllllll the way up!!! Sooooo much love to Camisha Rivers for doing my hair and Sylvia Smith for my makeup!! Jason Bolin surprised me! This fun outfit is by Lollipop Bouti.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/718951/destiny-s-child-singer-michelle-williams-disses-fan-for-negative-facebook-comment');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015522/rs_634x1024-150622092913-634.Michelle-Williams-Yellow-Dress.jl.062215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Michelle Williams");
+	var imageCaption = encodeURIComponent("Michelle Williams");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Earl Gibson III/Getty Images
+
+Celebrities face criticism on the daily. Some choose to ignore it, and some choose to fire back. In the case of Michelle Williams and the negative Facebook commenter, she decided to pop off.The former Destiny's Child singer didn't hold back when faced with a less-than-nice comment on a recent social media post. Sharing two body shots showing off her electric outfit, Williams wrote, "Fun times in Birmingham, AL last night on #TheThankfulTour! The folks at New Rising Star were TURNED alllllllll the way up!!! Sooooo much love to Camisha Rivers for doing my hair and Sylvia Smith for my makeup!! Jason Bolin surprised me! This fun outfit is by Lollipop Boutique in New Jersey!!!"A fan decided to highlight Williams' figure and commented below the pics with, "Wtf happen to her she got Skinty." That's when Michelle opted to go in on the Facebook user.
+/n

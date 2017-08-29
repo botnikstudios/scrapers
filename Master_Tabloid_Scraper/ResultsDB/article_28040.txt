@@ -1,0 +1,48 @@
+Gordon Ramsay's Children Won't Inherit His Fortune Celebrity chef Gordon Ramsay, known for his gruff commentary and, um, colorful language, has made a career out of his unforgettable presence and expert culinary know-how. His starr.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/842511/gordon-ramsay-s-children-won-t-inherit-his-fortune');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016513/rs_634x1024-160613064116-634.Gordon-Ramsay-Tana-Ramsay-JR-061316.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Gordon Ramsay, Tana Ramsay");
+	var imageCaption = encodeURIComponent("Gordon Ramsay, Tana Ramsay");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Paul A. Hebert/Invision/AP
+
+Celebrity chef Gordon Ramsay, known for his gruff commentary and, um, colorful language, has made a career out of his unforgettable presence and expert culinary know-how. His starring roles on reality TV on shows like Hell's Kitchen and MasterChef have served him well, and that goes for the economic front as well.Last year, Forbes included Gordon on its list of the highest-earning celebrities in the world, earning $54 million in 2016.Gordon, who is a happily married father of four, recently spoke to The Telegraph about his fortune, where it might go and whether his kids will ever see a cent. As predicted, Gordon was blunt as ever.
+
+"It's definitely not going to them," he said, referring to his kids. "And that's not in a mean way; it's to not spoil them."However, he and his wife, Tana Ramsey, a former school teacher, did agree on one exception."The only thing I've agreed with Tana is they get a 25 per cent deposit on a flat, but not the whole flat," said Gordon.The reality TV personality might be able to afford big investments, like flying first class, but for his kids, traveling is just as miserable as it is for the rest of us. Why? Gordon said they haven't earned the luxury yet.
+
+"They don't sit with us in first class," said Gordon. "They haven't worked anywhere near hard enough to afford that. At that age, at that size, you're telling me they need to sit in first class? No, they do not. We're really strict on that."If his story about flying with his kids is any indication, it sounds like the Ramsay children are going to have to make their own way, no matter what their dad has earned. The star went on to describe why he believes it's best for the kids to stay away from the money.
+
+"I turn left with Tana and they turn right and I say to the chief stewardess, 'Make sure those little f--kers don't come anywhere near us; I want to sleep on this plane.' I worked my f--king arse off to sit that close to the pilot and you appreciate it more when you've grafted for it."His tough nature is no surprise to anyone who's seen him on TV, but ultimately, Gordon brings this gruffness back to what it can teach his children."I've never been really turned on about the money," he said. "That's not my number one objective, and that's reflected in the way the kids are brought up."
+/n

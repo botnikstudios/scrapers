@@ -1,0 +1,75 @@
+Inside Serena Williams and Alexis Ohanian's Unique World: How the Couple Are Getting Ready for Baby & Making It Work Long Distance "On social media you press the wrong button and…30 minutes later I missed four calls and I'm like, 'That's weird,'" Wil.../n
+
+
+
+
+
+Serena Williams has been in the spotlight since she was 16 years old.The tennis champion, who has dominated her sport for the better part of two decades, came of age in the public eye, going from teen phenom with a head full of beads giggling on the court alongside her sister Venus Williamsto style taste-maker, businesswoman and record-smashing winner of 23 Grand Slam singles titles. But while her training regimen and vacations and fashion projects have been on display for all the world to see, she really sneaked the whole falling-in-love milestone right under everyone's nose, only indicating how serious her relationship with Reddit co-founder Alexis Ohanian had become when she announced her engagement in December. (She shared via Reddit, reminiscent of how Miranda Kerr made her engagement to Snapchat co-founder Evan Spiegel public via his platform, complete with personalized bitmoji.)When the Australian Open got underway in January, Williams told reporters that she was trying not to think too much about being engaged."It's almost a little unreal right now," she said, "because I haven't taken it in. I'm being rather selfish and focused on my career. It happened right in the middle of pre-season. I was doing training, cardio, all kinds of stuff. Now I'm on the road, already back at work. I don't want to get too happy because I want to stay focused."
+
+Call Williams surprised when she found out she was pregnant right before Australia, too—another life-altering event (she took six home pregnancy tests, just to be sure) that, like her engagement, didn't prevent her from winning the championship at what would be her last tournament until after the baby comes. (She insists for now that she'll return to the game next January.)We didn't find out that she was pregnant until April when she posted a baby bump pic—but the fact that she almost immediately deleted it indicated that she may not have been ready to share the news when she did.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/874837/inside-serena-williams-and-alexis-ohanian-s-unique-world-how-the-couple-are-getting-ready-for-baby-making-it-work-long-distance');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017319/rs_634x1128-170419083404-634-serena-williams-baby-bump-041917.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Serena Williams, Baby Bump, Pregnant");
+	var imageCaption = encodeURIComponent("Serena Williams, Baby Bump, Pregnant");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Snapchat / Serena Williams
+
+"On social media you press the wrong button and…30 minutes later I missed four calls and I'm like, 'That's weird,'" Williams admitted to having a slippery Snapchat thumb. "I have this thing where I've been checking my status and taking pictures every week to see how far along I'm getting. I've been so good about it, but this was the one time it slipped."And even though her fiancé helped create a site where oversharing and posting every little thought and theory that comes to mind is the norm, he appears to be on Williams' wavelength when it comes to keeping his own personal life super private—which is usually something you want to do when you're young and worth millions of dollars, and everyone wants a piece of you.The entrepreneur and angel investor has been a prominent philanthropist and is politically engaged, particularly as an outspoken advocate for net neutrality, but his public dating history is two-people-long, including Williams. Which, in this day and age, when every woman a guy's spotted with (and vice versa) earns her a slot in the maybe-they-dated timeline, is remarkable.
+
+In 2013 he had been dating Sabriya Stukes, then a PhD student in microbiology, for two years. A Financial Times profile of him from that September points out a typewriter in his condo that he used to "write love notes to his girlfriend." (He bought the typewriter on eBay from a seller who supplies such items to hipsters.) Ohanian recalled to Vanity Fair being just out of a five-year relationship when he met Williams.
+
+Serena dated Common for over a year till that ended in 2010 (two weeks after the rapper told Ellen DeGeneres, "I definitely want to get married. I would love to get married and have kids") and the sight of him supporting her at an event last November triggered speculation about a rekindling (which is a testament to how private she was keeping her relationship with Ohanian). She was also memorably linked to Drake, along with every woman Drake knows, but it turns out she had already met Ohanian when that rumor made the rounds in August 2015. Before meeting Ohanian, however, she dated her coach, Patrick Mouratoglou, for part of the five years they've been working together—a romance she never acknowledged till she talked to Vogue this summer."Once we got over that little hump of weirdness, it was fine," she told the magazine. "Fortunately I'm really good friends with most everyone I've ever dated. I don't like bad blood."
+
+
+
+Annie Leibovitz exclusively for Vanity Fair
+
+Ohanian and Williams met by the pool at the Cavalieri hotel in Rome where they both staying in May 2015, the sports star at first a little annoyed by the really tall guy (Ohanian is 6-foot-5) who grabbed a table uncomfortably close to hers to eat breakfast. He admitted recently to Vanity Fair—in the issue that features Serena in all her naked pregnant glory on the cover—that he was a little hungover from drinks the night before with friends, including Kristen Wiig, who was in town shooting Zoolander 2.Serena and her pals even tried to get Ohanian to move, telling him they'd seen a rat near his table. She remembered him saying, "'I'm from Brooklyn. I see rats all the time.'"Call Williams intrigued. They got to chatting, Ohanian at first "98 percent sure" that he was talking to the Serena Williams because he had never watched tennis nor knew much about the pro circuit. (But that's fine, because she had no idea who he was at all, nor did she know what Reddit was or that she was talking to the guy whose official raison d'être is to make the world "suck less".) Someone in her entourage invited Ohanian to watch her match that day at the Italian Open—she lost, but then he was invited to join her dinner party that night. Their official first date was a ripped-from-a-rom-com day of strolling around Paris when he accepted her invitation to see her play at the French Open later that month.
+
+No bad-luck-charm alert there—Williams won the whole tournament. In December, Ohanian planned a surprise trip to Rome so he could propose to her at the hotel where they first met. Really annoyed at first by the change of plans because it was interfering with her schedule, Williams told VF she realized what was going on during the plane ride to Italy. "I knew it was coming," she recalled. "I was like, 'Serena, you're 35, you're ready. This is what you want.'"Though it might have seemed like a random pairing at first, Williams and Ohanian have plenty in common: they're both from big families (he's one of six siblings, she's one of her mom's five daughters), they're both incredibly successful at their chosen fields, they're both committed to giving back and their interests aren't limited to tech and tennis. They each have new-found appreciation for what the other does, with Ohanian schooling himself in tennis and Williams recently joining the board of Silicon Valley-based SurveyMonkey.They've also both weathered personal hardship and family tragedies: Ohanian's mother was diagnosed with brain cancer in 2005, hours after the family dog was put down and a few months after his girlfriend at the time attempted suicide by jumping out a window in Germany, where she was studying abroad (she was in a coma for awhile but eventually recovered). His mom, Anka, died in 2008. Williams' half-sister Yetunde Price was shot to death in Compton, Calif., in 2003, not far from the courts where Serena and Venus practiced as children. In 2011, Serena developed a life-threatening pulmonary embolism, a complication from foot surgery after she cut her foot on a piece of glass, and was sidelined for months.
+
+"There were some dark months there, like living in the middle of an interminable fog," Ohanian wrote on his personal blog in 2010, talking about selling Reddit, which was originally based in Boston, in 2006 while trying to spend as much time as possible with his mother. "Upon reflection, I was probably suffering from depression for most of that startup. If you happened to meet me during that time, you probably wouldn't have known it."He told Vogue recently, "For both of us, we learned at a young age the pain of loss, and I think for both of us, this helped make us who we are."Alexis and Serena are also said to complement each other—him being the more calm of the two, while she's the one who gets more outwardly fired up—in the areas where they don't align."He's extremely smart but not a know-it-all. He's curious about what he doesn't know," Williams told Vogue this summer. "Being a Jehovah's Witness is important to me, but I've never really practiced it and have been wanting to get into it. Alexis didn't grow up going to any church, but he's really receptive and even takes the lead. He puts my needs first."
+
+
+
+Evan Agostini/Invision/AP
+
+The required long-distance aspect of their relationship apparently didn't faze them. Williams has been based in Palm Beach Gardens, Fla., for years. Ohanian, who was born in Brooklyn, grew up in Maryland, near Washington, D.C., graduated from the University of Virginia, founded Reddit in 2005 with his college roommate Steve Huffman, sold it to Condé Nast in 2006 for a reported bargain-basement price of $10 million to $15 million, and in 2011 purchased a converted warehouse loft in Brooklyn Heights for $1.2 million, where he lived with his cat, Karma.
+
+The truly modern couple are not finding out the sex of their baby before it's born, either, though they have their guesses."Obviously, [Serena] won the Australian Open while pregnant and she remarked that she feels like it has to be a little girl, because everything that little baby went through and handled like a champ, only a woman could be strong enough to take on," Ohanian said on Jimmy Kimmel Live earlier this month."I was very lucky to be raised by a very strong, amazing mother—and she's got a good point. This is our first child," he said. "If anything, it's really just reinforced how just amazing and strong and powerful and awesome women we are, and how useless we are during this whole thing. Because it's like, 'I can make you a grilled cheese. Does this help?' We are worthless!"Not to be discounted is Ohanian's trek to the grocery store Friday night for his fiancée's impossibly healthy cravings for asparagus, artichokes and zucchini.When they're not in the same time zone, Ohanian says that he starts off every day FaceTiming Serena at 6 a.m., when it's 9 a.m. for her on the East Coast, and calls her at 7 p.m. his time "to tuck her in." He told Inc. recently, "I try to make sure I'm the first and last person she talks to every day."
+
+The soon-to-be doting dad is planning to take six weeks of paternity leave from Reddit, which is now estimated to be worth $4 billion."I felt like a door had been opened to a person who made me want to be my best self," Ohanian described falling for Williams to Vanity Fair. "I find myself just wanting to be better by simply being around her because of the standard she holds."Williams, meanwhile, is expanding her horizons too. According to the VF article, she FaceTimed her beau to wish him a happy birthday in April 2016—a big deal because, as a Jehovah's Witness, she doesn't celebrate birthdays.But she and Ohanian are celebrating baby—they babymooned in Mexico in April, and jetted to Monaco in May to watch the Monaco Grand Prix. Last month a '50s-themed baby shower with Venus and pals such as Kelly Rowland and Eva Longoriapresumably added to the treasure trove of paraphernalia she's acquired since claiming a few months ago that she hadn't started the getting-ready process yet.The fiercely independent Williams has been easing into her next chapter at her own pace, admitting to VF in May, "I don't know what to do with a baby. I have nothing... I've done absolutely nothing for the baby room." About her still primarily long-distance relationship, she joked, "I'm trying to enjoy the little freedom I have left."Ohanian, meanwhile, told The Cut in June that he's been combing Reddit for parenting hacks and both he and Williams had caved and downloaded the What to Expect app."What am I looking forward to? I'm looking forward to this being my greatest creation," he said. He was proud of his career achievements, of course, "but this is everything. This is family."
+/n

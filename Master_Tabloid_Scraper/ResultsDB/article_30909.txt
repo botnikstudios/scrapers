@@ -1,0 +1,44 @@
+Aretha Franklin Cancels Concerts "Due to Doctors' Orders" Aretha Franklin will be sitting out for a couple of concerts. The iconic songstress canceled her Friday concert at the Wolf Trap National Park for the Performing Arts i.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/789404/aretha-franklin-cancels-concerts-due-to-doctors-orders');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20151130/rs_634x1024-151230044209-634.Aretha-Franklin-Kennedy-Center-Honors-JR-123015.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Aretha Franklin");
+	var imageCaption = encodeURIComponent("Aretha Franklin");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+JEFFREY R. STAAB/CBS /Landov  
+
+Aretha Franklin will be sitting out for a couple of concerts.The iconic songstress canceled her Friday concert at the Wolf Trap National Park for the Performing Arts in Virginia "due to doctors' orders," according to a statement. Unfortunately, it probably won't be the only one she will be backing out of in the near future. "I will have to cancel a few concerts for the next month or so," the statement continued.Ticket holders will be refunded the cost of their tickets, but there wasn't any mention of rescheduled dates. One of the events she has canceled was her appearance at Radio City Music Hall's "Tony Bennett Celebrates 90" concert. Other gigs in St. Louis and Detroit have also been canceled, but for now it seems she'll be returning to the stage on November 11 for a concert in Minnesota.
+
+This isn't the first time Franklin has canceled concerts. Back in March, the "Natural Woman" singer called off two Florida concerts "due to lack of band personnel." She also called off an Oklahoma performance six months prior because she didn't want to make the trek after having recently crossed the country to the West Coast. "After such a long, 4,200-mile drive to the West Coast in July, I'm not prepared to drive as far west so soon again," she said at the time. "I am so sorry to have to disappoint my fans there, but I will reschedule."But the most recent cancelations are the first time the legendary diva has cited health reasons since August 2015.
+/n

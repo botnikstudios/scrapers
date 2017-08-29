@@ -1,0 +1,42 @@
+Ewan Flying High With Amelia Ewan McGregor is headed for the wild blue yonder. The Star Wars star has come aboard Fox Searchlight's Amelia, a biopic starring Hilary Swank as the legendary aviator. According to Variety, the 37-year-old a.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/1342/ewan-flying-high-with-amelia');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20070126/293.mcgregor.ewan.012607.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ewan McGregor");
+	var imageCaption = encodeURIComponent("Ewan McGregor");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Nick Harvery/WireImage.com
+
+Ewan McGregor is headed for the wild blue yonder.The Star Wars star has come aboard Fox Searchlight's Amelia, a biopic starring Hilary Swank as the legendary aviator.According to Variety, the 37-year-old actor will play the father of famed author Gore Vidal, Gene Vidal, with whom Earhart had a passionate affair while married to publisher George Putnam. Richard Gere has been cast as Putnam, while Virginia Madsen will play Putnam's first wife, Dorothy Binney Putnam.Amelia is being helmed by Mira Nair (The Namesake) from a script by Ron Bass, who won an Oscar for writing Rain Man.Earhart, the first woman to fly solo across the Atlantic, disappeared over the Pacific Ocean and was declared dead after a courageous 1937 attempt to circumnavigate the globe.McGregor is about to wrap the comedy-drama I Love You, Philip Morris, opposite Jim Carrey.He'll then have a brief window to shoot his role for Amelia, which is currently filming in Toronto, before beginning work next month on Angels and Demons, Ron Howard's highly anticipated prequel to The Da Vinci Code.
+/n

@@ -1,0 +1,50 @@
+Amanda Seyfried and Thomas Sadosky Step Out After Pregnancy Reveal Amanda Seyfried bundled up her baby bump in New York City Thursday. Despite the unusually warm 55-degree temperature, the actress wore a wool coat as she and Thomas Sadoski l.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/812951/amanda-seyfried-and-thomas-sadosky-step-out-after-pregnancy-reveal');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016111/rs_634x792-161201072912-634.Amanda-Seyfried-Thomas-Sadoski-JR-120116.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amanda Seyfried, Thomas Sadoski");
+	var imageCaption = encodeURIComponent("Amanda Seyfried, Thomas Sadoski");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mr. Snappy/AKM-GSI
+
+Amanda Seyfried bundled up her baby bump in New York City Thursday.Despite the unusually warm 55-degree temperature, the actress wore a wool coat as she and Thomas Sadoski left their apartment around 10 a.m. The outing marked the first time they've been seen together since Seyfried's rep told E! News the actress is pregnant and due next year. With her dog Finn in tow, the 30-year-old mom-to-be grabbed coffee, ignoring the paparazzi's questions regarding her due date and what she and Sadosky plan to name their firstborn child.In the past, Seyfried has been vocal about her desire to become a mother. Now that she's actually expecting, a source says, "Amanda is very excited and happy! She's feeling really good."In an interview earlier this week with Refinery 29, the mama-to-be revealed that her sense of smell has changed since becoming pregnant."I swear to god I can smell the TV. There's this static-y, metal-y scent. Do you know what I'm talking about?"She added, "The only thing I can't tolerate is body odor. Normally it's fine—I know it'll pass or I can leave the room—but I cannot tolerate it anymore. I have a hard time with that."
+
+
+
+Mr. Snappy/AKM-GSI
+
+Seyfried and Sadosky began dating earlier this year after meeting on the set of The Last Word, scheduled for released on March 10, 2017. Having a baby on the way has only brought the couple closer. "Amanda and her fiancé are so cute and happy together," a source tells E! News.For Seyfried, the next few months will undoubtedly be a dream come true."Children: That's where it's at, right? For me. But it's different for everybody," the actress told E! News in June 2015. "I'd like to have one in the next four or five years. And the second one can happen between 35 and 40. Or I can adopt...It's fine. I definitely want to a couple kids."
+
+It's unlikely that Seyfried will share too many pregnancy updates via her Instagram or Twitter accounts. While it "always feels good to have more followers," she told WWD Tuesday that it can feel hollow. "Then again, for some people it's mindless entertainment—and we need that, too." The power of social media can be overwhelming, she added. "As long as you're promoting something that means something to you, I think you can continue to have integrity in your social media. Social media is a tough one; I want to pay attention but not too much attention."
+/n

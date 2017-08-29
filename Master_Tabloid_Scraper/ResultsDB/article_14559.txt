@@ -1,0 +1,44 @@
+Rachel Zoe, Lela Rose and Stacey Bendet Design Gift Wrap for a Good Cause It's every fashionista's dream come true—holiday gift wrap created by some of the hottest designers! One Kings Lane has teamed up with style superstars like .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/363231/rachel-zoe-lela-rose-and-stacey-bendet-design-gift-wrap-for-a-good-cause');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20121013/reg_634.paper.zoe.ls.111312.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Rachel Zoe, One Kings Lane Wrapping Paper");
+	var imageCaption = encodeURIComponent("Rachel Zoe, One Kings Lane Wrapping Paper");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+One Kings Lane; David Livingston/Getty Images
+
+It's every fashionista's dream come true—holiday gift wrap created by some of the hottest designers!One Kings Lane has teamed up with style superstars like Rachel Zoe, Lela Rose (whose celeb fans include Eva Mendes, Cameron Diaz, Lauren Conrad and Mandy Moore) and Stacy Bendet of alice + olivia (loved by Taylor Swift , Kate Hudson and January Jones) to create a stunning, 21-piece line of holiday wrapping paper.As if this news alone wasn't enough to get us in the gift-giving spirit (for what it's worth: it totally was!), the proceeds of this super-chic wrapping paper are all going to charity!Rachel Zoe, whose series kicked off today is donating the proceeds of her gorgeous gift wrap to Save the Children.
+
+The other designers and their chosen charities are listed below:Charlotte Moss (interior designer), Bone Marrow FoundationSimon Doonan (creative ambassador for Barneys New York), Lower East Side Girl's ClubLela Rose (fashion designer), Edible SchoolyardRachel Roy (fashion designer and founder of RACHEL Rachel Roy), OrphanAidAfrica: Oafrica.orgStacey Bendet (founder and designer of alice + olivia), Girls Who CodeKatie Lee (chef and author), Feeding AmericaThe limited-edition collection is being sold exclusively online by One King's Lane and will be available through mid-December.
+/n

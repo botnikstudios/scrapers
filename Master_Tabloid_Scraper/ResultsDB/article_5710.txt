@@ -1,0 +1,66 @@
+EXCLUSIVE! Amanda Bynes 5 Years Later: Inside Her Struggle to Reboot Her Life After Her Public Meltdown So many outrageous events happen in the world of celebrity. Fights, feuds, arrests, hookups, breakups, screw-ups. It's hard to get t.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/848317/amanda-bynes-5-years-later-inside-her-struggle-to-reboot-her-life-after-her-public-meltdown');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017114/rs_634x1024-170214155427-634-amanda-bynes-dec-14-2016.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Amanda Bynes");
+	var imageCaption = encodeURIComponent("Amanda Bynes");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+JLM / Splash News
+
+So many outrageous events happen in the world of celebrity. Fights, feuds, arrests, hookups, breakups, screw-ups. It's hard to get too shocked these days.But every so often a celebrity's downfall is actually shocking, so much so that it becomes the stuff of Hollywood lore. And right there in the annals of epic celebrity meltdowns – sharing real estate with the likes of Britney Spears, Lindsay Lohan, Chris Brown and Michael Jackson—sits Amanda Bynes. Five years after she slipped through the grip of the young Hollywood vise and lost her way, E! News has learned that she's still trying—with varying degrees of success amid lingering questions about her public conduct—to rebuild her life.On the heels of child stardom and with a string of good-girl movie roles to her name, in 2012 the former Nickelodeon princess began a very public descent into an all-too-familiar-looking form of Hollywood Hell.
+
+It began with a series of driving violations—a DUI, two alleged hit-and-run incidents, numerous tickets—that ultimately resulted in her license being suspended. But while the actress, whose once hot career had cooled after she co-starred with Emma Stone in the 2010 comedy Easy A, wasn't the first starlet to take her troubles out on the road, she was among the first to give the public a front-row seat to her unraveling while oversharing in real time on Twitter, her tweets only getting more disturbing and concerning as she went along.
+
+Among the most provocative was the infamous "I want @drake to murder my vagina" tweet, as well as a message sent Rihanna's way: "Chris Brown beat you because you're not pretty enough." There was also a series of tweets in which she attacked various celebrities, including Miley Cyrus, Jay-Z and Chrissy Teigen, for being "ugly." She repeatedly attacked her own appearance as well, and her account became a must-follow for all the wrong reasons.Meanwhile, Bynes had moved from Los Angeles to New York, and in May 2013—at the height of the tweet storm—she was arrested for reckless endangerment, tampering with evidence and marijuana possession after allegedly tossing a bong out of a Manhattan apartment window. (She later tweeted she'd smoked cigarettes but never owned a bong in her life; the following year the case was dismissed after she agreed to go to counseling and stay out of trouble).
+
+Bynes then returned to L.A., and in July she started a fire in her parents' neighbor's driveway that resulted in her own pants catching on fire. She was subsequently placed on an involuntary psychiatric hold in a nearby hospital; a conservatorship, handing legal control of her affairs over to her mother, Lynne Bynes, soon followed.That dramatic turn of events marked the start of Bynes struggle to bounce back and rebuild her life. But though she has made definite progress since, her troubles were far from over at the time.
+
+Bynes, having sworn off acting, eventually deleted her bizarre tweets and in January 2014 she enrolled at California's Fashion Institute of Design and Merchandising, finally following through with her tweeted intent of producing her own clothing line. She also got her license back that April; then in September 2014 she was arrested on suspicion of DUI. (The City Attorney's Office later declined to file charges.)She was re-hospitalized and, in October 2014, she tweeted that she had been diagnosed as bipolar with manic depressive disorder but was "fine" because she was taking medication and seeing a psychiatrist.By 2015, she was doing yoga, reconnecting with her family and "trying to live a more balanced life," a source told E! News at the time.
+
+
+
+LUIS JR RODRIGO/RAMEY
+
+After taking time off from school, she was back at FIDM by October 2015.In April 2016, when she turned 30, her attorney Tamar Arminak told E! News that Bynes was "doing great. She is happy and healthy and excited about the future."The last time Bynes gave a direct update about what was going on in her life was in August 2016 (we did find out in February that she was neither pregnant nor engaged), when she tweeted, "I'm really appreciative of all that FIDM is giving me. I've been in school learning about the fashion business so I don't have time to tweet."The clothing line has yet to materialize, but amid new rumors that she was expelled from the O.C. campus, sources tell E! News that Bynes has just been studying at FIDM's downtown L.A. location instead. We're told she's still pursuing her associate's degree and has enjoyed sketch classes.
+
+
+
+Malibu Joe/ / AKM-GSI
+
+A student at the school tells E! News that Bynes was seen on the FIDM grounds in L.A. just last week, her blond hair dyed brown and looking "frizzy." "She's always alone when I see her and she's not friendly," the student said.But a source who is close to Bynes has an explanation as to why the onetime sitcom and movie scene-stealer might appear aloof to other students, telling E! News: "To the extent that Amanda's isolated [at school], it's a product of being a former child star…I have no doubt that she's isolated from other students. I don't think for a single second that she's hanging out in the quad with all those other bubblegum girls. But she loves going to FIDM, she loves it. She's making amazing progress." The source also insists Bynes was not booted off the O.C. campus for her behavior, but rather just transferred to the L.A. campus.Paparazzi last snapped a brunette Bynes in December, looking healthy and put together while out to lunch in West Hollywood, with what looked like an iced tea or coffee in hand. 
+
+Her most recent tweet came on April 23, a photo of Bynes (her hair long and light blond) smiling with an unidentified girlfriend beside a floral arrangement, and the message, "Stopping to smell the flowers on a gorgeous Sunday."Bynes' tweeted garnered a slew of supportive replies, such as "You were always amazing. Wish you the best!," "I'm so happy to see you doing better" and "Miss you Queen!"There was also a vote for a reality show.
+
+Days beforehand, Page Six reported that TV producers were trying to get in touch with Bynes, hoping to work with the talented actress "in a healthy and positive way" for a possible return to Nickelodeon.And obviously she has plenty of fans who still think she's all that.But whether she has any interest in revisiting her acting days or not, if history is any indicator, the now 31-year-old Bynes is at least in a much better place than she was five years ago. Not having much time to tweet tends to be a promising sign.—With reporting by Alessandra Mortellaro and Alli Rosenbloom
+/n

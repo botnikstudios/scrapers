@@ -1,0 +1,46 @@
+EXCLUSIVE! Sandra Bullock's Life After Jesse James Split Was "Really Tough," but Bryan Randall Is "Perfect" Our source says the Oscar winner's decision to live a more private life played a big role in getting to.../n
+Sandra Bullock is living her best life in every way.The Ocean's 8 star has a full lineup of movies in the work, a happy family and a blossoming relationship with boyfriend Bryan Randall, but a source tells E! News exclusively that it wasn't the easiest of emotional journeys to get where she is today."Life after Jesse [James] was really tough. She was embarrassed by what he did and in ways blamed herself at the time (she knows now it wasn't her at all)," the insider tells E! News. "She did consider Jesse a father to Louis, so that was one of the hardest parts of breaking up. Jesse was there for her through the whole adoption process. She now knows she is much better off and everything happens for a reason."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/836249/sandra-bullock-s-life-after-jesse-james-split-was-really-tough-but-bryan-randall-is-perfect');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015106/rs_634x1024-151106095434-634-2sandra-bullock-bryan-randall-coffee.ls.111615.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Sandra Bullock, Bryan Randall");
+	var imageCaption = encodeURIComponent("Sandra Bullock, Bryan Randall");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+FameFlynet/AKM-GSI
+
+Our source says the Oscar winner's decision to live a more private life played a big role in getting to a place where she could open up to another man after James cheated on her."She is an independent mom and also found a great man that loves her and her kids unconditionally. Her children are her life and always have been her top priority," the insider explains. "She lived just for her child Louis for a while and stayed away from dating to focus on herself and Louis. It took Sandy some time to actually open up to a man, trust and love again."
+
+Now, Bullock is at the "top of her game at work" and "more in love now" than she has ever been with Bryan," the insider adds. "Her life is more private as well. She has let go of what happened in the past and has moved on to the future."While busy schedules can sometimes be tough, the happy couple has seemingly figured it all out."They are perfect," the source says. "They have been both working so it was hard for them to see each other as often as they normally do, but while Sandra works Bryan helps out with the kids. He is like the kids' dad. He is a great guy and makes Sandra really happy."
+/n

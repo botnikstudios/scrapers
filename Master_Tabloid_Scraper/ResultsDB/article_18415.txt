@@ -1,0 +1,46 @@
+EXCLUSIVE! Weeds' Mary-Louise Parker Spills on a Nancy-Celia Lovefest Weeds is back and better than ever. (Babies, undying love confessions and manipedis with drug lords, hello?) The Showtime megahit returned last Monday with the start .../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/128862/weeds-mary-louise-parker-spills-on-a-nancy-celia-lovefest');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/20090611/293.louiseparker.mary.lc.061109.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Mary-Louise Parker");
+	var imageCaption = encodeURIComponent("Mary-Louise Parker");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Jason LaVeris/Getty Images
+
+Weeds is back and better than ever. (Babies, undying love confessions and manipedis with drug lords, hello?)The Showtime megahit returned last Monday with the start of what promises to be an explosive fifth season, and as promised, we're here with part two of our exclusive interview with the one and only Weeds vixen, Ms. Mary-Louise Parker.This time we're bringing you all of the scoop you can handle on season five's ginormous guest stars and that little lady stuck on the wrong side of the border...What is her name again?Oh, that's right...
+
+La Cucaracha Celia: Despite her seemingly perilous situation, Nancy's best frenemy is going to be OK. Mary-Louise reassures fans of Celia's (Elizabeth Perkins) safety, saying, "Celia's like a cockroach; you can't stamp her out." Amazing. Just ignore the flirtation between everyone's favorite screwup and her Mexican captor. "It doesn't really go anywhere," says MLP. As for Perkins, the star could not be more complimentary: "I think she's a genius, and I don't throw that word around. She is one of the best actresses I've ever worked with in my whole life," boasts Mary-Louise. "I couldn't have drawn up and invented a better costar. I just wish I had more scenes with her." So do we! Any chance for a Nancy-Celia filled extravaganza? "We're always asking for more scenes, but they always seem to have different ideas for us." We'll keep our fingers crossed.Medicinal Marijuana Mishap? It's too soon to tell what's going to happen with Silas and Doug's plan to open a medical marijuana dispensary, but we can only imagine if Doug (Kevin Nealon) is involved it's bound to be a doozy. So is Nancy going to want in on the new pot venture? Mary-Louise says nay. "I don't think so. In general, she dreams bigger than that. It's too safe and simple for her. [Her] things are generally more dangerous and have higher risk to them." It's good to know that even impending motherhood won't change our beloved Nance. This sentiment was reinforced when MLP told us, "She's not going to turn into a housewife. I don't think she'll be satisfied staying at home gardening."
+
+The Long-Lost Sister: Why is the incomparable Jennifer Jason Leigh only in two episodes of Weeds? Why?! One thing's for sure—Mary-Louise is all for the thesp coming back on board. "We're a tight group and have been together for so long, but she could just step in and it would be like she'd always been here." So there's hope for more of that wonderfully painful "sister love"? "Jill's the kind of character who should just always be there. I really liked doing those scenes with her. She's a cool person, and everyone likes her. It's just refreshing to be around. I wish she had more, but they said she might come back, which I'm hoping for."Busiest Lady Around Town: We caught MLP just as she was about to jet off to Paris, and now we have some scoop on yet another project she has in the works. (Does she ever have time to sleep?) This time around Mary-Louise chatted about the upcoming flick in which she costars with a Tinseltown legend and our favorite preggo receptionist/saleswoman, Jenna Fischer. "I'm in the movie called Solitary Man with Michael Douglas. It was nice to work with him. He's not too shabby, and he's a perfect gentleman." No release date for this one yet, so we'll keep you posted.
+/n

@@ -1,0 +1,48 @@
+Timeline of a Trainwreck: The Edward Furlong Edition He used to be known as the young innocent John Connor on the run from a big bad robot in 1991's T2. But these days Edward Furlong isn't doing the hero act, at least offscreen. Th.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/220430/timeline-of-a-trainwreck-the-edward-furlong-edition');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2011011/293.furlong.lc.011111.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Edward Furlong");
+	var imageCaption = encodeURIComponent("Edward Furlong");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Courtesy of SPE; Inc. / Eric Charbonneau
+
+He used to be known as the young innocent John Connor on the run from a big bad robot in 1991's T2. But these days Edward Furlong isn't doing the hero act, at least offscreen.The 33-year-old actor can't get out of his own way. In what should be a big week, with a comeback-worthy part in Green Hornet, turned into another mess as he was jailed for violating a restraining order taken out by his estranged wife.Here's a look at how Furlong's unfortunate history of douchebaggery has overshadowed a once promising big-screen career:
+
+RELATED: The real curse of the child star
+
+April 2001: After tearing up the Hollywood club scene with the likes of party girls Natasha Lyonne and Paris Hilton, Furlong, then 23, ends up hospitalized for a suspected drug overdose.September 2001: The Tinseltown bad boy gets busted twice in West Hollywood in a span of four hours, first for driving without a license and then for DUI after getting into a car accident. The end result? Various stints in and out of rehab to treat his addictions.September 2004: After acting in a series of straight-to-DVD flicks, the substance-abuse problem returned with a vengeance—or should we say claw. The troubled thesp is arrested in Florence, Ky., after police say he yanked some live lobsters out of a store's display case, apparently just for kicks. It didn't help that he was slurring his words. He's booked for misdemeanor public intoxication.2005-2006: Furlong is able to keep himself relevant when he popped up for a five-episode guest arc on CSI: NY.April 2006: Furlong marries Rachel Kneeland, an actress who goes by the name of Rachel Bella. Five months later, they welcomed a son, Ethan.July 2009: The relationship eventually sours and Kneeland files for divorce, citing irreconcilable differences. Unfortunately, the split isn't an amicable one. September 2009: Kneeland restrains Furlong after he allegedly punches her in a drug-fueled frenzy. He lands in "lockdown" at a Los  Angeles mental ward as a result.August 2010: His soon-to-be-ex gets another temporary restraining order requiring the former child star to stay at least 100 yards away from him. That after Furlong leaves vicious Mel Gibson-like messages on her voice mail threatening to hire people to beat her "with chains and bats" as well as rough up her new boyfriend. He also vows to withhold all financial support.November 2010: Furlong pleads no contest and receives probation for violating the court order stemming from his behavior three months earlier.. Things seemed to be back on track for the Terminator 2 star, particularly since he lands a small but pivotal part in The Green Hornet opposite Seth Rogen.Which bring us to this week.Jan. 11, 2011: After walking the red carpet at Hornet's premiere the night before, Furlong turns up for a progress report on his probation to find prosecutors with the L.A. City Attorney's Office informing the judge that he has breached the court's keepaway yet again by coming within 50 yards of Kneeland. As a result, the judge throws Furlong in the clink and he's released after posting bail a short time later.Jan. 12, 2011: The next day, appearing in family court, Furlong tells another judge that he's fallen behind in child support payments and that he's flat broke after giving 10 percent cuts of his earnings respectively to his lawyer, publicist and manager. Regardless, Kneeland asks the court to increase the amount Furlong must pay in spousal and child support.Jan. 13, 2011: According the Hollywood Reporter, Furlong scraps a trip to Mexico to promote the indie drama, This Is Not a Movie, in which he stars.Let's just hope the next entry in the timeline is a happier one.
+
+PHOTOS: Bitter Matrimony
+/n

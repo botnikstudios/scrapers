@@ -1,0 +1,43 @@
+Crossroads, Thelma & Louise & More: 15 Road Trip Movies That Will Make You Want to Travel With Your BFF Summer is in full swing and it's the perfect time to travel with your best friends! On the upcoming E! show Botched By Natur.../n
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/shows/botched_by_nature/news/779222/crossroads-thelma-louise-more-15-road-trip-movies-that-will-make-you-want-to-travel-with-your-bff');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016218/rs_634x951-160318070547-634.crossroads-poster.31816.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Crossroads");
+	var imageCaption = encodeURIComponent("Crossroads");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+MTV Films/Zomba Films
+
+Summer is in full swing and it's the perfect time to travel with your best friends!On the upcoming E! show Botched By Nature, doctors and best friends Paul Nassif and Terry Dubrow are hitting the road together to find and help treat patients around the U.S.So in celebration of the show's August premiere, we're bringing you a list of the best BFF adventure movies of all time.From Crossroads to Thelma & Louise, we're bringing you the films that will totally make you want to jump on a plane or in your car and travel the world with your BFFs!Take a look at the gallery to see all of the movies and get ready to go on an adventure!
+/n

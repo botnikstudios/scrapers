@@ -1,0 +1,48 @@
+Pregnant Hannah Jeter Returns for 2017 Sports Illustrated Swimsuit Issue After her hot feature as the 2015 Sports Illustrated Swimsuit Issue cover model, Hannah Jeter (previously Hannah Davis) is wowing us again, not only with her second cov.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/829094/pregnant-hannah-jeter-returns-for-2017-sports-illustrated-swimsuit-issue');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017113/rs_683x1024-170213142935-634-hannah-david-jeter-sports-illustrated.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Hannah Jeter, Hannah Davis, Sport Illustrated");
+	var imageCaption = encodeURIComponent("Hannah Jeter, Hannah Davis, Sport Illustrated");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Ruven Afanador/Sports Illustrated
+
+After her hot feature as the 2015 Sports Illustrated Swimsuit Issue cover model, Hannah Jeter (previously Hannah Davis) is wowing us again, not only with her second cover appearance, but also because she's going to be a mom!This is Jeter's fifth appearance in the legendary swimsuit issue, but it will be her first time as a mom-to-be.The 26-year-old model is expecting her first child with hubby and Major League Baseball legend Derek Jeter. The two tied the knot in Napa Valley last July and are ready to start a family.
+
+The swimsuit cover shoot, which took place in Mexico, features Hannah's hot beach bod and was shot just weeks after she learned that she was eating for two.Born and raised in the U.S. Virgin Islands, Jeter is an old pro turning heads at the beach. Don't believe us? Check out this sultry sneak peek of this year's issue.From what we've gathered so far, the 2017 issue (shot by Ruven Afanador) is taking inspiration from the beachside bliss where it was shot in Mexico.
+
+But every suit has two things in common: a playful boho style and, of course, the fact that it looks like Hannah was made to wear it.Our fave goodies leading up to the release of the newest issue include two extra-hot pics of Hannah at the shoot.
+
+In the first photo, she lounges in a warm-hued tie-dye bikini on an artfully illustrated bench. The second photo shows Hannah beachside and wearing a flirty smile in a bronze-sequined bikini.  We're sure this shoot is going to be to die for.The Sports Illustrated Swimsuit Issue 2017 hits newsstands this week. A perfect way to heat up a cold February, don't you think?
+/n

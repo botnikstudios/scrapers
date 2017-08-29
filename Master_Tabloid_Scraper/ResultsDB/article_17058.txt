@@ -1,0 +1,45 @@
+Goodbye Delia's! An Ode to the Catalog Items We Loved so Dearly Yesterday was a dark, dark day in our nation's history: Venerable teen store Delia's sold its last spaghetti strap tank top. Never again will young girls feel the.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/635003/goodbye-delia-s-an-ode-to-the-catalog-items-we-loved-so-dearly');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015212/rs_571x749-150312115704-560.Delias-Catalogue-Shuts.jl.031215.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Delia's");
+	var imageCaption = encodeURIComponent("Delia's");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+
+Yesterday was a dark, dark day in our nation's history: Venerable teen store Delia's sold its last spaghetti strap tank top.Never again will young girls feel the joy of rushing home to check the mailbox for the latest catalog. Never again will they be able to decorate their bedrooms with a headache-inducing theme of moons and stars, palm trees, or hot pink zebra stripes. Never again will they sit alone in front of the mirror, rubbing on glitter sticks until they develop a full-body rash. 
+
+It's truly heartbreaking to imagine a world without Delia's (or, rather, dELiA*s). But, that is our new reality. The company shuttered yesterday, after a long period of financial hardship. According to a report last year by CNN Money, Delia's planned on filing for bankruptcy as well as liquidating its entire stock (both brick-and-mortar stores and the catalog), and now it's finally happened. Dedicated fans were given the opportunity to cash in on the folding by scooping up the remaining products for basically 100% off, but those of us who were slower on hearing the news will have to take solace simply in memories. In light of these tragic events, we'd like to take a moment to look back on a few of our favorite forgotton items from the now-defunct brand. 
+
+The Inflatable Chair: The inflatable chair meant a lot of things to us. It meant never having to worry about spills. It meant being able to deflate our chairs and carry them with us wherever we went. It meant being able to buy "furniture" for less than the price of a pair of socks. But mostly, it meant always having a pair of squeaky, sticky arms to welcome us home.The Graphic Tee: These were the single greatest form of self-expression available to a 13-year-old. Do you want everyone at school to know that you heart Hanson? Do you want your parents to know that you choose pugs not drugs? Do you want to pretend that you're with the band? Put it on a graphic tee.The Spaghetti Strap Tank: What better way to dress scandalously, while still making it past your parents' scrutiny, than the spaghetti strap tank. They were flattering on no one, but we loved them just the same. Roll-On Body Glitter: This was the makeup that turned middle school classrooms into 1970s discos. You could roll it here, you could roll it there, you could roll it everywhere! But mostly you could roll it all over your arms, chest, and face, until even the slightest reflection of light caused blindness in whoever was standing across from you.The Tiny Knapsack: Only a tween could find a use for a knapsack so tiny it fit literally nothing, and slung so low it doubled as a buttcrack coverup. Goodbye, tiny knapsack full of big dreams, we'll miss you most of all.
+/n

@@ -1,0 +1,44 @@
+competition in the pregnancy style department from Zoe Saldana and Rachel Bilson, we've got nothing but high fashion hopes for the new mom-to-be. The Age of Adeline star has never been shy about wanting a big family, saying back in 2012.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/587798/blake-lively-s-pregnancy-announcement-look-sells-out');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2014910/rs_634x1024-141010125040-634.blake-lively-preserve-baby.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Blake Lively, Preserve, Baby Bump");
+	var imageCaption = encodeURIComponent("Blake Lively, Preserve, Baby Bump");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Couresty: Eric Lively/preserve.us
+
+To all those who want to snag Blake Lively's pregnancy style, we have this to say: You snooze, you lose!Just a week after announcing her first pregnancy with a sweet baby bump pic via Preserve, Blake's Sam & Lavi maternity ensemble has already sold out. But really, we can't say we're that surprised—Blake's always been a fashion trailblazer.The star radiates in her latest pregnancy pic, flashing a big smile as she cradles her burgeoning bump. While 27-year-old's orchid-print Lyna blouse is completely sold out, the black-and-white Seren maxi skirt she wears is still available in a few select sizes. But act fast, people, we doubt it will stay on the shelves for long!
+
+The former Gossip Girl star is no stranger to hitting a fashion home run. Just this summer, the star lit up the Cannes red carpet in some of her most jaw-dropping outfits we've seen yet, and she kept her winning fashion streak going strong into the fall. And while she's got some tough competition in the pregnancy style department from Zoe Saldana and Rachel Bilson, we've got nothing but high fashion hopes for the new mom-to-be.The Age of Adeline star has never been shy about wanting a big family, saying back in 2012: "I've always wanted a big family. Oh, I'd love 30 [children] if I could." She got candid again about pregnancy back in August, admitting: "If I could spit out a litter of kids, I would." This will be the first child for Blake and hubby Ryan Reynolds, who tied the knot back in September 2011.  
+/n

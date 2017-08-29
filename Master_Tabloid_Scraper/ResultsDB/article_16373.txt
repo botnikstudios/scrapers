@@ -1,0 +1,93 @@
+Idaho Community Rallies to Help Man with Facial Tumor Who was Denied Disability
+/n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		( function() {
+			var func = function() {
+				var iframe_form = document.getElementById('wpcom-iframe-form-fac5cde0d5f2fac761fa5fa0a8c169c5-59a53851c3108');
+				var iframe = document.getElementById('wpcom-iframe-fac5cde0d5f2fac761fa5fa0a8c169c5-59a53851c3108');
+				if ( iframe_form && iframe ) {
+					iframe_form.submit();
+					iframe.onload = function() {
+						iframe.contentWindow.postMessage( {
+							'msg_type': 'poll_size',
+							'frame_id': 'wpcom-iframe-fac5cde0d5f2fac761fa5fa0a8c169c5-59a53851c3108'
+						}, window.location.protocol + '//wpcomwidgets.com' );
+					}
+				}
+
+				// Autosize iframe
+				var funcSizeResponse = function( e ) {
+					var origin = document.createElement( 'a' );
+					origin.href = e.origin;
+
+					// Verify message origin
+					if ( 'wpcomwidgets.com' !== origin.host )
+						return;
+
+					// Verify message is in a format we expect
+					if ( 'object' !== typeof e.data || undefined === e.data.msg_type )
+						return;
+
+					switch ( e.data.msg_type ) {
+						case 'poll_size:response':
+							var iframe = document.getElementById( e.data._request.frame_id );
+
+							if ( iframe && '' === iframe.width )
+								iframe.width = '100%';
+							if ( iframe && '' === iframe.height )
+								iframe.height = parseInt( e.data.height );
+
+							return;
+						default:
+							return;
+					}
+				}
+
+				if ( 'function' === typeof window.addEventListener ) {
+					window.addEventListener( 'message', funcSizeResponse, false );
+				} else if ( 'function' === typeof window.attachEvent ) {
+					window.attachEvent( 'onmessage', funcSizeResponse );
+				}
+			}
+			if (document.readyState === 'complete') { func.apply(); /* compat for infinite scroll */ }
+			else if ( document.addEventListener ) { document.addEventListener( 'DOMContentLoaded', func, false ); }
+			else if ( document.attachEvent ) { document.attachEvent( 'onreadystatechange', func ); }
+		} )();
+		
+An Idaho man may finally be be able to have a huge tumor removed from his face thanks to an outpouring of support from his community and beyond.
+Lucas McCulley, 22, was born with a benign lymphangioma tumor on his face, according to local outlet KTVB.
+After undergoing 24 surgeries before age 10 — the last one nearly killing him when he bled out on the operating table — McCulley, of Napa, said doctors opted to refrain from operating on him again until the tumor stopped growing.
+When McCulley turned 18, doctors told him the tumor was, in fact, operable — but he was uninsured. Now, he’s been denied disability, which would have included health care coverage under Medicaid.
+“I’m in pain from the moment I wake up and right until I go to sleep,” McCulley told KTVB. “That’s the problem, you can’t prove pain, anybody can say they are in a bunch of pain but can’t prove it. They said that my vision is fine, I’m good enough to go work in the back of a place.”
+Paul Boehlke/KTVB-TV/AP
+McCulley has turned to GoFundMe to help raise funds, writing that he wants to “actually live my life properly.”
+“I don’t really mind the whole being different part because everyone is different in their own way, it’s kind of a unique part of me it has made me who I am,” McCulley says. “It would still be something that is so brand new to me, and make my life a lot better in every aspect of the day, just so I don’t have to worry about it, I don’t have to wake up hurting or anything like that and just be normal.”
+He added, “Both my mom and my dad it’s their life goal to see that taken care of and to see it gone and the burden off me.”
+Luckily, in under 24 hours after KTVB first shared McCulley’s story, the GoFundMe raised over $42,000.
+RELATED VIDEO: Woman Has “Inoperable” Brain Tumor Removed
+
+ 
+In response, McCulley told the outlet, “Thank you to everybody, you can’t really say enough words because everyone came up there and has helped me get up to where I am right now.”
+McCulley said that he plans to contact his doctor this week to discuss next options, and said he will share regular updates with the donors who made it possible.
+And now, McCulley is one step closer to being able to pursue his dream: joining the military.
+He told KTVB, “I should be able to live a normal life, do what I want to do because I have always wanted to join the Army.”
+McCulley did not immediately respond to PEOPLE’s request for comment.
+/n

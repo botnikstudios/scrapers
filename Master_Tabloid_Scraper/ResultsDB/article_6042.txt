@@ -1,0 +1,72 @@
+ADN FASHIONISTA: Ruth Negga Ruth Negga le da energía a cada Alfombra Roja que camina. Ruth Negga tiene años en el mundo de la actuación, pero es en los últimos dos cuando la hemos visto brillar con más fuerza, ¡y su llegada a las alfombras r.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/821675/adn-fashionista-ruth-negga');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016117/rs_634x1024-161207094226-634-ruth-negga-loving-ls.12716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ruth Negga");
+	var imageCaption = encodeURIComponent("Ruth Negga");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Alban Wyters/Sipa via AP Images
+
+Ruth Negga le da energía a cada Alfombra Roja que camina.
+
+Glamour
+
+
+
+ BG017/Bauer-Griffin/GC Images
+
+Ruth Negga tiene años en el mundo de la actuación, pero es en los últimos dos cuando la hemos visto brillar con más fuerza, ¡y su llegada a las alfombras rojas ha sido todo un refrescamiento!Con su cabello cortísimo, lleno de ondas y maquillaje delineado, esta chica siempre lleva prendas de cortes súper elegantes que nos recuerdan otras épocas. Elije faldas por debajo de la rudilla, pretinas a la cintura sobre cualquier tendencia, lo que nos hace sospechar que ha encontrado su zona cómoda y la explota, ¡pero nunca nos aburre! Siempre le da guiños divertidos a sus looks.Por ejemplo, este abrigo de leopardo sobre unos clásicos stilletos y una falda pistacho es el toque perfecto para demostrar que Ruth es adicta al riesgo fashionista. Su técnica es unir varias piezas "seguras" con una que nos desconcierte.E! NEWS > Mira la lista de nominados a los BAFTA donde también arrasó La La Land (+ Fotos)
+
+Casual
+
+
+
+AKM-GSI
+
+En su estilo de calle es bastante particular, sigue la onda que les mencionaba como de mediados del siglo pasado, ¡y sin embargo se ve muy actual! A Ruth le lucen geniales los labios rojos y los aprovecha con frecuencia.Ella rompe con todos los estereotipos de las It girls del momento -aunque es súper IT-, junto a su estilista Karla Welch ha sabido encontrar un look muy personal y con eso es que ha arrasado. Verla de camisa blanca, pantalón de talle alto, abrigo largo y mary-janes es muy común, ¡y muy ella!E! NEWS > Las 7 parejas más hot del cine
+
+Impresionante
+
+
+
+Jordan Strauss/Invision/AP
+
+Cuando llega el momento de la Alfombra Roja, ¡su única constante es el cambio! A Ruth la hemos visto con estampados florales, un aire gótico, y con todo el romanticismo de una ninfa. Así también se pasea por las marcas, sin preferencia por ninguna y con mucha variedad: Marc Jacobs, Louis Vuitton, Valentino, Erdem. Algunas legendarias y otras jóvenes, ella es una chica que se toma libertades. 
+
+
+
+Frazer Harrison/Getty Images
+
+Un vivo ejemplo de lo que les comento, son estos dos looks, ¡ambos con menos de una semana de separación! En la primera es una diosa con un Valentino translucido, ¡y en la segunda una futurista poderosa de Louis Vuitton! Siempre se supera.E! NEWS > Las 12 peores traducciones al español de legendarios títulos de películas (+ Fotos)Yo estoy ansiosa por seguirla viendo en las alfombras de la temporada, ¡así que no se despeguen! Soy @MicaelaDelPrado
+/n

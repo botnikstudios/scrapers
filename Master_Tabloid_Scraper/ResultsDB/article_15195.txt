@@ -1,0 +1,46 @@
+Marion Cotillard Steps Out for the First Time After Her Pregnancy Announcement "Many years ago, I met the man of my life, father of our son and of the baby we are expecting," she wrote in the post, regarding Canet. "He is my l.../n
+Marion Cotillard reemerged for the first time since announcing her pregnancy, stepping out for the Christian Dior show at Paris Fashion Week.The actress—who is expecting a little one with partner Guillaume Canet—looked chic in an over-sized blouse with a printed slip underneath, accessorizing with a pair of black and red high heels, a black clutch and chunky white earrings. She wore her hair in a low ponytail with a wine-colored lipstick that made her blue eyes pop.Though we couldn't exactly her bump due to the oversized blouse, the 41-year-old took to Instagram last week and confirmed she's expecting while denying rumors she had an affair with her Allied co-star Brad Pitt.
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/799291/marion-cotillard-steps-out-for-the-first-time-after-her-pregnancy-announcement');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/201693/rs_634x1024-161003080909-634.marion-cotillard.cm.10316.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Marion Cotillard");
+	var imageCaption = encodeURIComponent("Marion Cotillard");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Vanni Bassetti/Getty Images for Dior
+
+"Many years ago, I met the man of my life, father of our son and of the baby we are expecting," she wrote in the post, regarding Canet. "He is my love, my best friend, the only one that I need."She added, "This crafted conversation isn't distressing. And to all the media and the haters who are quick to pass judgment, I sincerely wish you a swift recovery. Finally, I do very much wish that Angelina [Jolie] and Brad, both whom I deeply respect, will find peace in this very tumultuous moment."Following Pitt and Jolie's split, rumors began swirling that the actor and Cotillard had been involved in an affair. Reports even surfaced that Jolie hired a private investigator to spy on him on set, which led her to believe he'd been unfaithful with Cotillard.
+
+However, a source told E! News the rumors were not true, and shortly after, Cotillard shut them down herself with the Instagram post."This is going to be my first and only reaction to the whirlwind news that broke 24 hours ago and that I was swept up into," she said in the post. "I am not used to commenting on things like this nor taking them seriously but as this situation is spiraling and affecting people I love, I have to speak up."
+/n

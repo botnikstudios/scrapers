@@ -1,0 +1,46 @@
+Viola Davis Dishes on How She Plans to Relax During the Holidays: I'll Celebrate in the Hot Tub With a Glass of Prosecco The 51-year-old added, "A really good meal, and hanging out with my husband and daughter. That's always t.../n
+Viola Davis is gearing up for one heck of an award season. The actress stars opposite Denzel Washington in Fences, a performance that's quickly gaining critical acclaim within Hollywood's inner circles. Davis took home the Best Supporting Actress honor at the 22nd Annual Critics' Choice Awards earlier this month, and she stands to win the same award at the 2017 Golden Globes come early January. So how will the talented star kick back during the holiday season? Viola spoke to E! News' Zuri Hall about her plans to catch up on some much-need R&R, and let's just say it sounds like a pretty great time. "I celebrate with the Jacuzzi and a glass of Prosecco, of course," she shared, adding, "And the dark chocolate, I have some Godiva chocolate at home."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/816977/viola-davis-dishes-on-how-she-plans-to-relax-during-the-holidays-i-ll-celebrate-in-the-hot-tub-with-a-glass-of-prosecco');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015228/rs_634x1024-150328142400-634.ViolaD-jmd-032815.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Viola Davis, Genesis Tennon");
+	var imageCaption = encodeURIComponent("Viola Davis, Genesis Tennon");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tommaso Boddi/Getty Images for GBK Productions
+
+The 51-year-old added, "A really good meal, and hanging out with my husband and daughter. That's always the best." Aww!Davis and hubby Julius Tennon share daughter Genesis, 6, together. As for what presents the little girl is hoping to open come Christmas morning, Viola expressed that she's a little hesitant for what Santa Claus might have in store. "[Genesis wants] a skateboard," Davis explained. "I said, ‘Who's going to ride that skateboard?' But she wants a skateboard. She may get the skateboard and a helmet and some knee pads—and a prayer circle," the cautious mama joked. Watch the rest of our entire with Viola above for her take on whether or not she'll take part in a mother-daughter skateboarding lesson!
+
+Fences hits theaters Dec. 25. 
+/n

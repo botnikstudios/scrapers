@@ -1,0 +1,46 @@
+Patrick Stewart a mis du temps avant d'apprendre qu'il n'était pas circoncis Il semblerait que Sir Patrick Stewart soit intact. L'acteur britannique de 76 ans a révélé dans le Graham Norton Show qu'il pensait être ci.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/831626/patrick-stewart-a-mis-du-temps-avant-d-apprendre-qu-il-n-etait-pas-circoncis');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017123/rs_634x780-170223080818-634.Patrick-Stewart-JR-022317.gif');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Patrick Stewart");
+	var imageCaption = encodeURIComponent("Patrick Stewart");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Isabel Infantes/PA Images via Getty Images
+
+Il semblerait que Sir Patrick Stewart soit intact.L'acteur britannique de 76 ans a révélé dans le Graham Norton Show qu'il pensait être circoncis jusqu'à ce qu'il apprenne qu'il avait encore tous ses attributs. "Un soir avec ma femme [Sunny Ozell], on parlait de choses et d'autres et j'ai mentionné ma circoncision et elle m'a dit : « Tu n'es pas circoncis. » Et moi : « Qu'est-ce que tu veux dire ? C'est ridicule, je le saurais. Ma mère m'a dit toute ma vie que c'était la mode à l'époque. »"Patrick Stewart ne croyait pas sa femme, mais a profité d'un rendez-vous chez le médecin pour être fixé.
+
+"Je devais aller voir mon docteur le lendemain pour un check-up, donc pendant qu'il auscultait la région en question, j'ai dit : « Au fait, ma femme et moi, nous avons eu un petit désaccord, je suis bien circoncis, pas vrai ? » Il a regardé de plus près et a dit : « Non ! Je suis juif et je sais faire la différence ! »"Si l'acteur confirmé n'a pas précisé quand la discussion avec son docteur avait eu lieu, il a admis qu'il regrettait d'avoir divulgué une information aussi personnelle. "Oh non, mes petits-enfants vont voir ça !", s'est-il exclamé.
+
+Le vétéran de Star Trek était dans le talk-show britannique aux côtés de Sir Ian McKellan, Hugh Jackman, ainsi que du chanteur James Blunt. Pendant l'émission, Patrick Stewart a également confirmé que sa présence dans Logan, le dernier épisode en date de la franchise X-Men, serait sa dernière. Il joue Professor X dans la saga. Hugh Jackman a également déclaré que Logan serait la dernière fois qu'il interpréterait Wolverine."La semaine dernière, on était assis côte à côte à une projection du film à Berlin et à la fin du film, quand ça devient très émouvant, j'ai remarqué que Hugh a séché une larme, avant que j'en fasse de même, et pendant le générique de fin, il m'a tenu la main et j'ai commencé à pleurer et à sangloter", a déclaré Patrick Stewart. "Pendant le générique, je me suis dit que si c'était la fin, ce serait la meilleure et la plus belle manière de dire « au revoir, goodbye, adiós »."
+/n

@@ -1,0 +1,48 @@
+Ben Affleck and Jennifer Garner Baptize Son Samuel in West Virginia Time to celebrate! Ben Affleck and Jennifer Garner baptized their son Samuel over the weekend in Garner's hometown of Charleston, W. Va. But that wasn't the only m.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/435589/ben-affleck-and-jennifer-garner-baptize-son-samuel-in-west-virginia-hometown');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2013218/reg_634.Affleck.Garner.mh.031813.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Ben Affleck, Jennifer Garner ");
+	var imageCaption = encodeURIComponent("Ben Affleck, Jennifer Garner ");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+RAMEY PHOTO
+
+Time to celebrate!Ben Affleck and Jennifer Garner baptized their son Samuel over the weekend in Garner's hometown of Charleston, W. Va.But that wasn't the only milestone they shared. Garner and Affleck also celebrated their eighth wedding anniversary on Saturday night, People reports. The baptism took place at Garner's family church, Christ Church United Methodist on Sunday. The 16-month-old lad was joined by both parents and his sisters, Violet, 7, and Seraphina, 4.According to an eyewitness, "Violet was very well-behaved" throughout the ceremony while Seraphina "was running around, and Ben had to keep getting up to run after [her]."
+
+The couple were able to get some alone time for the big anniversary dinner the night prior luckily. Garner and Affleck noshed on beer, pizza and salad at the local pizza parlor Pies & Pints.The restaurant's owner, Rob Lindeman, told People that the A-list couple aren't strangers to his pizza joint."Ben and Jen like to come in when they're in town," he said. "They're just really solid people. They seemed like they were having a great time."After dinner, they headed to Ellen's Homemade Ice Cream for a little treat.
+
+According to a source, the father of three gave the employees working at the time a generous tip, "like $100 each."In May, Affleck appeared on Saturday Night Live with his wife and the two touched upon his much talked-about Oscar speech, in which he referred to his marriage to her as "work.""Some uncharitable souls on the Internet took that to mean our marriage is some kind of manual labor," Affleck went on. "That's not it. You define what's important to you by what you dedicate your time to." Garner walked on stage to join her hubby and said, "It's a way we talk privately about how committed we are to our marriage."
+
+"I'm not sure why you had to share it live to a billion people," saying she would've called their marriage "a gift" in the speech.After joking back and forth for a bit, Affleck told Garner, "I want to tell you how I wish I had ended that speech: I couldn't do any of the things I do without you, without your support. You're my angel, my life, my world."Awww…Happy anniversary you two! There's much to celebrate!
+/n

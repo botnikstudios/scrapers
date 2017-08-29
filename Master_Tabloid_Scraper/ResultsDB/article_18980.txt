@@ -1,0 +1,77 @@
+Daddy Date! Rehabbed Ben Affleck Treats Daughter Violet To Ice Cream/n
+
+					var next_post_url = "http://radaronline.com/photos/london-terrorist-attack-khalid-masood-apartment-pics/";
+					var prev_post_url = "http://radaronline.com/photos/needs-text-president-donald-trump-catches-russia-white-house-spy/";
+					 
+{"@context":"http:\/\/schema.org","@type":"ImageGallery","description":null,"image":[{"@type":"ImageObject","datePublished":"2017-03-24T09:08:15+00:00","caption":"Ben Affleck is on full-time daddy duty while Jennifer Garner films a new movie alongside Josh Duhamel in Atlanta \u2014 see photos of Affleck's father-daughter date.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-pp.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:16+00:00","caption":"Too cute! The actor treated Violet, 11, to some ice cream in Brentwood, Calif. on Thursday.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-01.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:17+00:00","caption":"The father of three has been doing quite a lot with his children since his rehab release, as Radar spotted him taking them to church and school on several occasions over the last two weeks.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-02.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:19+00:00","caption":"As Radar reported, Affleck was so determined to focus on his recovery in rehab, he kept his treatment a secret for weeks!","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-03.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:20+00:00","caption":"The actor recently completed rehab at a California facility. Before he announced the news publicly, very few outside of his inner circle were aware of his decision.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-04.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:21+00:00","caption":"In fact, an insider told Radar, \u201cHe was actually in rehab at the time of the Oscars! He got a pass out for that night to attend the awards.\u201d","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-05.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:22+00:00","caption":"Affleck revealed the details of his secret journey in a searingly honest Facebook post on March 14. \"I have completed treatment for alcohol addiction; something I\u2019ve dealt with in the past and will continue to confront,\u201d he wrote in \u00a0the shocking post. \u201cI want to live life to the fullest and be the best father I can be.\u201d","url":"http:\/\/i1.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-06.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:23+00:00","caption":"\"I want my kids to know there is no shame in getting help when you need it, and to be a source of strength for anyone out there who needs help but is afraid to take the first step,\" he continued. \"I\u2019m lucky to have the love of my family and friends, including my co-parent, Jen [Garner], who has supported me and cared for our kids as I\u2019ve done the work I set out to do. This was the first of many steps being taken towards a positive recovery.\" Affleck attended rehab at least once before: As a 28-year-old, he checked into Malibu-based Promises.","url":"http:\/\/i0.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-07.jpg?resize=700%2C700","width":"700","height":"700"},{"@type":"ImageObject","datePublished":"2017-03-24T09:08:24+00:00","caption":"The Batman Vs. Superman star split from Garner in 2015. They are reportedly working to save their marriage.\u00a0We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.","url":"http:\/\/i2.wp.com\/radaronline.com\/wp-content\/uploads\/2017\/03\/ben-affleck-rehab-kids-ice-cream-08.jpg?resize=700%2C700","width":"700","height":"700"}]}
+
+
+
+
+
+
+
+
+
+Daddy Date! Rehabbed Ben Affleck Treats Daughter Violet To Ice Cream
+
+
+
+
+
+
+
+
+ 1 
+							of
+							 9 
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 9Ben Affleck is on full-time daddy duty while Jennifer Garner films a new movie alongside Josh Duhamel in Atlanta — see photos of Affleck's father-daughter date.Photo credit: FameFlynet2 of 9Too cute! The actor treated Violet, 11, to some ice cream in Brentwood, Calif. on Thursday.Photo credit: FameFlynet3 of 9The father of three has been doing quite a lot with his children since his rehab release, as Radar spotted him taking them to church and school on several occasions over the last two weeks.Photo credit: FameFlynet4 of 9As Radar reported, Affleck was so determined to focus on his recovery in rehab, he kept his treatment a secret for weeks!Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-1'] = {"tag_id":"dfp-tag-mobile_box-1", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+5 of 9The actor recently completed rehab at a California facility. Before he announced the news publicly, very few outside of his inner circle were aware of his decision.Photo credit: FameFlynet6 of 9In fact, an insider told Radar, “He was actually in rehab at the time of the Oscars! He got a pass out for that night to attend the awards.”Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-2'] = {"tag_id":"dfp-tag-mobile_box-2", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+7 of 9Affleck revealed the details of his secret journey in a searingly honest Facebook post on March 14. "I have completed treatment for alcohol addiction; something I’ve dealt with in the past and will continue to confront,” he wrote in  the shocking post. “I want to live life to the fullest and be the best father I can be.”Photo credit: FameFlynet8 of 9"I want my kids to know there is no shame in getting help when you need it, and to be a source of strength for anyone out there who needs help but is afraid to take the first step," he continued. "I’m lucky to have the love of my family and friends, including my co-parent, Jen [Garner], who has supported me and cared for our kids as I’ve done the work I set out to do. This was the first of many steps being taken towards a positive recovery." Affleck attended rehab at least once before: As a 28-year-old, he checked into Malibu-based Promises.Photo credit: FameFlynet 
+											if(inMobileViewPort) {
+												lazyLoadSlots['dfp-tag-mobile_box-3'] = {"tag_id":"dfp-tag-mobile_box-3", "sizes": [[300, 251], [300, 250]], "correlator" : true};
+											}
+										
+9 of 9The Batman Vs. Superman star split from Garner in 2015. They are reportedly working to save their marriage. We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+Share this:Click to share on Twitter (Opens in new window)Share on Facebook (Opens in new window) 
+
+
+Ben Affleck is on full-time daddy duty while Jennifer Garner films a new movie alongside Josh Duhamel in Atlanta — see photos of Affleck's father-daughter date.Photo credit: FameFlynetToo cute! The actor treated Violet, 11, to some ice cream in Brentwood, Calif. on Thursday.Photo credit: FameFlynetThe father of three has been doing quite a lot with his children since his rehab release, as Radar spotted him taking them to church and school on several occasions over the last two weeks.Photo credit: FameFlynetAs Radar reported, Affleck was so determined to focus on his recovery in rehab, he kept his treatment a secret for weeks!Photo credit: FameFlynetThe actor recently completed rehab at a California facility. Before he announced the news publicly, very few outside of his inner circle were aware of his decision.Photo credit: FameFlynetIn fact, an insider told Radar, “He was actually in rehab at the time of the Oscars! He got a pass out for that night to attend the awards.”Photo credit: FameFlynetAffleck revealed the details of his secret journey in a searingly honest Facebook post on March 14. "I have completed treatment for alcohol addiction; something I’ve dealt with in the past and will continue to confront,” he wrote in  the shocking post. “I want to live life to the fullest and be the best father I can be.”Photo credit: FameFlynet"I want my kids to know there is no shame in getting help when you need it, and to be a source of strength for anyone out there who needs help but is afraid to take the first step," he continued. "I’m lucky to have the love of my family and friends, including my co-parent, Jen [Garner], who has supported me and cared for our kids as I’ve done the work I set out to do. This was the first of many steps being taken towards a positive recovery." Affleck attended rehab at least once before: As a 28-year-old, he checked into Malibu-based Promises.Photo credit: FameFlynetThe Batman Vs. Superman star split from Garner in 2015. They are reportedly working to save their marriage. We pay for juicy info! Do you have a story for RadarOnline.com? Email us at tips@radaronline.com, or call us at 800-344-9598 any time, day or night.Photo credit: FameFlynet 
+
+
+
+
+
+
+
+
+
+/n

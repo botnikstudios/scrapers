@@ -1,0 +1,44 @@
+Princess Estelle of Sweden Steals Everyone's Attention During Crown Princess Victoria's Birthday Celebration Well, look who we have here! The Swedish royal family celebrated Crown Princess Victoria earlier today, in honor of her 38.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/676183/princess-estelle-of-sweden-steals-everyone-s-attention-during-crown-princess-victoria-s-birthday-celebration');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2015614/rs_634x1024-150714142739-634.princess-estelle.cm.71415.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Princess Estelle of Sweden");
+	var imageCaption = encodeURIComponent("Princess Estelle of Sweden");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Mark Cuthbert/UK Press via Getty Images
+
+Well, look who we have here!The Swedish royal family celebrated Crown Princess Victoria earlier today, in honor of her 38th birthday, and all eyes were on none other than Princess Estelle—and for good reason!The precious little 3-year-old was spotted prancing about in her fanciest summertime attire alongside her father, Prince Daniel of Sweden, Duke of Västergötland, and of course, her mother (the lady of the hour!).The royal outing took place at the family's estate dubbed Solliden Palace—how regal!—which is situated on the island of Oland.But back to the attention grabber at hand, the little princess herself!Estelle traipsed around the grounds of Solliden dressed in a baby blue-and-white dress, white tights and matching shoes, an ivory cardigan and a colorful beaded necklace.
+
+And despite being royalty, the toddler saw no problem with toting around her own umbrella for the rainy afternoon celebrations—albeit, a matching umbrella, of course.Estelle hammed it up for the cameras—chasing around the family dog and flashing an ear-to-ear grin for those who cheered on—all while her parents maintained picture-perfect smiles and waved to the photographers.King Carl Gustav and Queen Silvia also joined in on the familial fun Tuesday, and posed alongside the rambunctious 3-year-old as she did her best to stay still for a short period of time—after all, a photo opp is no match for a princess!It looks like Prince George may have just found a perfect playdate!
+/n

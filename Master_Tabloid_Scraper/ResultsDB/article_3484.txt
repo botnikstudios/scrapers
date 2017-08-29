@@ -1,0 +1,46 @@
+Tom Hanks to Make Broadway Debut in Nora Ephron's Lucky Guy Tom Hanks is taking his acting talent from the silver screen to the stage. The two-time Academy Award winning actor is slated to make his Broadway debut in Lucky Guy, a new pla.../n
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/353325/tom-hanks-to-make-broadway-debut-in-nora-ephron-s-lucky-guy');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2012911/reg_634.hanks.ephron.mh.101112.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Tom Hanks, Nora Ephron");
+	var imageCaption = encodeURIComponent("Tom Hanks, Nora Ephron");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Tonya Wise/AdMedia/SIPA USA; AP Photo/Charles Sykes
+
+Tom Hanks is taking his acting talent from the silver screen to the stage.The two-time Academy Award winning actor is slated to make his Broadway debut in Lucky Guy, a new play by the late three-time Academy Award nominee Nora Ephron. It will be directed by two-time Tony Award winner George C. Wolfe.Lucky Guy follows the career highs and lows of controversial NYC tabloid reporter Mike McAlary throughout his time as a journalist in the 1980s. McAlary's reporting won him the Pulitzer Prize in 1998 for his coverage on the police brutalization of Abner Louima.
+
+This isn't the first time Hanks and Ephron have partnered on a project. The two have multiple career connections that date back to the '90s, as Tom starred in Nora's 1993 hit, Sleepless in Seattle, as well as her film, You've Got Mail, in 1998.The play will mark Hanks first stage performance since 1979, when he performed with the Riverside Shakespeare Company in New York.Lucky Guy begins previews March 1 at the Broadhurst Theatre in NYC, with the official opening night set for April 1, 2013.
+
+See more stars on stage!
+/n
