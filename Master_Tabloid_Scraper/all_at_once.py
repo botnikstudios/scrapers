@@ -7,9 +7,9 @@ Created on Sun Aug 27 21:13:57 2017
 
 import tabloid_scrapers
 
-search_term = "taylor nolan"
-days_ago = 2
-results_loc = './Results/taylor_nolan'
+search_term = "game of thrones"
+days_ago = 5
+results_loc = './Results/Game_of_Thrones'
 
 try:
     tabloid_scrapers.RadarScraper(search_term, days_ago,results_loc)
