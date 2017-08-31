@@ -1,0 +1,46 @@
+
+Leonardo DiCaprio is using his Hollywood status for good.As thousands of residents across Southeastern Texas and Southwestern Louisiana continue to be affected by Hurricane Harvey, several familiar faces are stepping up and making a difference for strangers in need.Earlier today, United Way Worldwide announced the United Way Harvey Recovery Fund that "will distribute 100 percent of donations for recovery in the affected areas, community by community, in the months and years ahead."E! News can confirm that the inaugural donation to the newly established fund was from the Leonardo DiCaprio Foundation, which made a $1 million contribution."We are incredibly grateful for the generosity of Leonardo DiCaprio and his foundation," United Way Worldwide President and CEO Brian Gallagher said in a statement. "Responding to Hurricane Harvey requires the best of all of us–and that's what this gift represents."
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876950/leonardo-dicaprio-foundation-donates-1-million-to-support-victims-of-hurricane-harvey');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2016917/rs_634x1024-161017174555-634.Leonardo-DiCaprio-Premiere-Paris.ms.101716.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Leonardo DiCaprio");
+	var imageCaption = encodeURIComponent("Leonardo DiCaprio");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+Marc Piasecki/Getty Images
+
+He continued, "United Way's Harvey Recovery Fund will provide much-needed help for the communities along the Gulf Coast where lives have been changed forever."Leonardo isn't the first celebrity to step up in a big way to help thousands of residents displaced by flooding and other damages. Earlier this week, Sandra Bullock flexed her star power and pledged $1 million to help victims. Kim Kardashian and her family donated $500,000 to the American Red Cross.
+
+Kevin Hart also launched his own Hurricane Harvey Relief Challenge that encourages stars to give $25,000 to assist Texas residents."Just crossed the 1 million dollar mark," the actor shared on Instagram Wednesday afternoon. "This is an example of love & support. Thank you all for your generosity."To donate to the Red Cross' Hurricane Harvey relief fund, click here.Other organizations—including Coalition for the Homeless, Houston Food Bank, Houston SPCA, Salvation Army and Save the Children—are also accepting donations for relief efforts.
+/n

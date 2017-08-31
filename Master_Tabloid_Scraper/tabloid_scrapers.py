@@ -674,6 +674,7 @@ def OKScraper(search_term, days_ago, results_loc):
     import time
     from dateutil import parser
     import os
+    import re
     
 
     # Take out any punctuation marks from name and convert to lowercase
@@ -745,18 +746,18 @@ def OKScraper(search_term, days_ago, results_loc):
     # Write results to a CSV.
     #results_loc = os.getcwd() + "/Results/"
     file_base = results_loc + "/OKMagazine_" + search_term.lower().replace(" ", "_") + "_" + time.strftime("%d_%m_%y")
-    for item in range(0, len(fetched_headlines)):
+    for item in range(0, len(link_indices)):
         # Find out what our file number should be
         file_num = item            
         f = open(file_base + '_headline_' + str(file_num) + ".txt","w")
-        f.write("%s/n" % fetched_headlines[item])
+        f.write("%s/n" % fetched_headlines[link_indices[item]])
         f.close()
 
-    for item in range(0, len(fetched_stories)):
+    for item in range(0, len(link_indices)):
         # Find out what our file number should be
         file_num = item            
         f = open(file_base + '_article_' + str(file_num) + ".txt","w")
-        f.write("%s/n" % fetched_stories[item])
+        f.write("%s/n" % fetched_stories[link_indices[item]])
         f.close()
 
 
