@@ -334,12 +334,13 @@ def PeopleScraper(search_term, days_ago,results_loc):
         else:
             timestamp_tmp = time_children[0].get_text()
             timestamp_stripped = re.findall(' on (.*?) at', timestamp_tmp)
-            timestamp_stripped = timestamp_stripped[0]
-    
-            timestamp_stripped = timestamp_stripped.encode('utf-8', errors='ignore')
-            timestamp_stripped = timestamp_stripped.translate(None, string.punctuation)
-            timestamp.append(datetime.strptime(timestamp_stripped, "%B %d %Y"))
-        
+            if timestamp_stripped:
+                timestamp_stripped = timestamp_stripped[0]
+                timestamp_stripped = timestamp_stripped.encode('utf-8', errors='ignore')
+                timestamp_stripped = timestamp_stripped.translate(None, string.punctuation)
+                timestamp.append(datetime.strptime(timestamp_stripped, "%B %d %Y"))
+            else:
+                timestamp.append(datetime.today())
         article_link_children = article_tags.find_all('a')
         article_link_tmp = article_link_children[0]
         article_link.append(article_link_tmp['href'].encode('utf-8',errors='ignore'))
@@ -350,7 +351,7 @@ def PeopleScraper(search_term, days_ago,results_loc):
     link_indices = [i for i, x in enumerate(is_recent) if x]
     
     for i in range(0,len(link_indices)):
-        page_result_link = article_link[i]
+        page_result_link = article_link[link_indices[i]]
         page_result = requests.get(page_result_link)
         res_soup = BeautifulSoup(page_result.content, 'html.parser')
         story_tag = res_soup.find_all(class_="article-body__inner")
