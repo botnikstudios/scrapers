@@ -1,0 +1,50 @@
+
+
+
+
+.article_pinterest{background: url('/resources/images/pinterest/pinterest.png');height:51px;width:51px;}
+.article_pinterest:hover{cursor:pointer;background:url('/resources/images/pinterest/pinterest_hover.png');height:51px;width:51px;}
+
+ 
+	var edition = 'us';
+	var encodedShareURL = encodeURI('http://www.eonline.com/news/876994/chloe-green-denies-engagement-to-hot-felon-jeremy-meeks');
+	var imgSrc =  encodeURIComponent('http://akns-images.eonline.com/eol_images/Entire_Site/2017615/rs_634x973-170715081407-634.jeremy-meeks-chloe-green.cm.71517.jpg');
+	var articleTitle = encodeURIComponent(jQuery(".entry_container .sub-headline").text());
+	var imageTitle = encodeURIComponent("Jeremy Meeks, Chloe Green");
+	var imageCaption = encodeURIComponent("Jeremy Meeks, Chloe Green");
+
+	var titleJoin;
+			
+	function sharePinterest(){
+	   	if (articleTitle.length > 1 && imageTitle.length > 1) {
+			if (edition == 'de') {
+				titleJoin = '%20%2D%20';
+			} else if (edition == 'fr') {
+				titleJoin = '%20de%20';
+			} else {
+				titleJoin = '%20from%20';
+			}
+		} else {
+			titleJoin = "";
+		}
+		window.open('http://pinterest.com/pin/create/button/?url=' +  encodedShareURL + '&media=' + imgSrc + '&description=' + articleTitle + '%0A%0A' + imageCaption,  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=253,width=750');
+	}
+	
+	jQuery(".article_pinterest").click(function(){
+				sharePinterest();
+		});
+	
+
+
+NS / Splash News
+
+Chloe Green and Jeremy Meeks are heating up—but they're not heading down the aisle. On the heels of a curios Instagram Story video of the two canoodling—in which the fashion heiress was sporting a sparkler—claims swirled that the two were engaged after a whirlwind affair. However, Green has since set the rumors straight. "Chloe is not engaged," her representative told The Daily Mail simply. 
+
+
+
+jmeeksofficial / Instagram
+
+The couple has had quite the scandalous beginning considering Meeks was still married when he was spotted making out with the Topshop heiress on a yacht near Turkey in early July. It wasn't long before the viral photos caught the attention of Melissa Meeks, his wife, who thought the father of her children was out of the country for a modeling job.As Melissa told The Daily Mail, "I know it takes two to tango but she knew he was married. To me, that's unforgivable. My whole world has been torn apart by this. What do I tell our children? My heart is broken." 
+
+However, she also took major issue with her husband and insisted they will be divorcing. As she continued, "Of course I'm angry at her. What she did is unforgivable. And I'm angry at him too. What they did destroyed my entire world."Jeremy, now a model, initially rose to fame in 2014 after his mug shot, taken after his arrest for felony gun possession, went viral. However, the personal controversy doesn't seem to bother the new duo—they've since been spotted out together on several occasions and were not holding back the PDA. As Green captioned a since-deleted Instagram photo of her with Meeks and his manager, "Just the Beginning...We appreciate all the love and the hate." 
+/n
