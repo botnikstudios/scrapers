@@ -7,9 +7,9 @@ Created on Sun Aug 27 21:13:57 2017
 
 import tabloid_scrapers
 
-search_term = "swift"
+search_term = "taylor swift"
 days_ago = 15
-results_loc = './Results/onion-swift'
+results_loc = './Results/onion-swift2'
 
 #tabloid_scrapers.RadarScraper(search_term, days_ago,results_loc)
 
