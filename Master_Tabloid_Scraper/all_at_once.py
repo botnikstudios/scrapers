@@ -7,9 +7,11 @@ Created on Sun Aug 27 21:13:57 2017
 
 import tabloid_scrapers
 
-search_term = "game of thrones"
-days_ago = 5
-results_loc = './Results/Game_of_Thrones'
+search_term = "swift"
+days_ago = 15
+results_loc = './Results/onion-swift'
+
+#tabloid_scrapers.RadarScraper(search_term, days_ago,results_loc)
 
 try:
     tabloid_scrapers.RadarScraper(search_term, days_ago,results_loc)
