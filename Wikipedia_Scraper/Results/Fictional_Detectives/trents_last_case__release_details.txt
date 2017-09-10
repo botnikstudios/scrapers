@@ -1,0 +1,4 @@
+1913, UK, Nelson (ISBN NA), Pub date 1913, Hardback (1st edition)
+1917, UK, Nelson (ISBN NA), Pub date 1917, Hardcover (4th edition)
+2005, US, Kessinger Publishing, ISBN 1-84637-709-9, Pub date October 31, 2005, Paperback
+2005, US, Echo Library, ISBN 978-1-84637-709-9, October 2005, Paperback

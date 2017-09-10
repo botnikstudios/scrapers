@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import string
 
 # What is the page base?
-page_name = "https://en.wikipedia.org/wiki/Aaron_Carter"
+page_name = "https://en.wikipedia.org/wiki/List_of_people_who_were_beheaded"
 
 page = requests.get(page_name)
 soup = BeautifulSoup(page.content, 'html.parser')

@@ -1,0 +1,1 @@
+A dark grey cell indicates the character was not in the film.
