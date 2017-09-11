@@ -60,13 +60,13 @@ for j in range(0, len(links)):
     
     
     
-    for i in range(0, len(header_tags)-1):
+    for i in range(0, len(header_tags)):
         head_tag = head_tag.find_next('h2')
         head_text = head_tag.get_text().encode('utf-8', errors='ignore').replace('[edit]', '')
         head_text_formatted = head_text.replace(" ", "_").lower()
         
         # If this isn't references, navigation, see also...
-        nonolist = ['navigation_menu','references','see_also']
+        nonolist = ['navigation_menu','references','see_also','notes','further_reading','citations','footnotes','external_links']
         
         
         if not (head_text_formatted in nonolist):
