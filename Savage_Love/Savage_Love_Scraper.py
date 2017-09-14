@@ -17,7 +17,7 @@ import time
 link_list = []
 
 # Loop over every page on Dan Savage's archive
-for page_num in range(10,61):
+for page_num in range(14,61):
     page_link = "https://www.thestranger.com/archive/savage-love?page=" + str(page_num)
     page = requests.get(page_link)
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -31,7 +31,7 @@ for page_num in range(10,61):
         link_list.append(link_tmp)
     
 # Now, go to each page and extract the text, then save to a text file
-counter = 475
+counter = 667
 for index in range (0, len(link_list)):
     link = link_list[index]
     page = requests.get("https://thestranger.com" + link)
