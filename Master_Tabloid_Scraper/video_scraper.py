@@ -29,15 +29,44 @@ def display_all_videos(driver):
 
 # Creates a list of tuples (video_title, video_link) of all 
 # videos displayed on page 
-def video_list(driver):
-    soup = BeautifulSoup(driver.page_source, 'html.parser')
-    videos = soup.find_all("ytd-playlist-panel-video-renderer")
-    video_links = []
-    for vid in range(0, len(videos)):
-        a = videos[vid]
-        b = a.find_all('a')
-        video_links.append(b[0]["href"])
+def video_list(url,driver):
+    if 'list=' in url:
+        eq = url.rfind('=') + 1
+        cPL = url[eq:]        
+    else:
+        print('Incorrect Playlist.')
+        exit(1)
+    tmp_mat = re.compile(r'watch\?v=\S+?list=' + cPL)
+    video_links = re.findall(tmp_mat, driver.page_source)
+    video_links[:] = [link for link in video_links if any(sub in link for sub in ['index'])]
+    video_links = set(video_links)
     return video_links
+    
+    #soup = BeautifulSoup(driver.page_source, 'html.parser')
+#    videos = soup.find_all("ytd-playlist-panel-video-renderer")
+#    video_links = []
+#    
+#    # How many videos are in the playlist?
+#    num_tag = soup.find_all(class_='iv-card-meta-info')
+#    num_str = re.findall(r'\d+',num_tag[0].get_text())
+#    num_vid = int(num_str[0])
+#    counter = 0
+#    while counter < num_vid:
+#        for vid in range(0, len(videos)):
+#            a = videos[vid]
+#            b = a.find_all('a')
+#            video_links.append(b[0]["href"])
+#        # Refresh the list of videos
+#        display_all_videos(driver)
+#        soup = BeautifulSoup(driver.page_source, 'html.parser')
+#        videos = soup.find_all("ytd-playlist-panel-video-renderer")
+#        print(video_links)
+#        counter += len(videos)
+
+            
+            
+    
+
 
 # Clicks on CC(Closed Caption) button in YouTube video
 def enable_subtitles(driver):
@@ -75,8 +104,9 @@ def scrape_subtitles(subtitle_link):
 
     # Remove tags (<*>), \n, and unecessary whitespace 
     s = re.sub(r'<.+?>', '', soup.prettify())   
-    s = re.sub(r'\n', '', s)                    
-    s = re.sub( '\s+', ' ', s ).strip()         
+    s = s.strip()
+    s = re.sub(r'\n', ' ', s)                    
+    s = re.sub( '\s+', ' ', s )       
     return s
 
 def main(argv):
@@ -92,8 +122,8 @@ def main(argv):
     
     
     display_all_videos(driver)
-    video_links = video_list(driver)
-
+    video_links = video_list(argv, driver)
+    counter = 0
     # Visit video's page and enable 'CC' to scrape the subtitles and 
     # save subtitles to '.txt' file. 
     for v in video_links:
@@ -106,7 +136,12 @@ def main(argv):
             subtitles = scrape_subtitles(link)
         except:
             subtitles = "No Closed Caption"
-        create_file(v[0],v[1],subtitles)
+        f = open("subtitles_" + str(counter) + ".txt", "wb")
+        f.write(subtitles.encode('utf-8'))
+        f.close()
+        counter += 1
 
-if __name__ == "__main__":
-    main(sys.argv)
+#if __name__ == "__main__":
+#    main(sys.argv)
+
+# Links:

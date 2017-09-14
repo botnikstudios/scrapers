@@ -20,7 +20,7 @@ date_list = [base - timedelta(days=x) for x in range(0, numdays)]
 #         'libra':'7','scorpio':'8','sagittarius':'9','capricorn':'10','aquarius':'11','pisces':'12'}
 hlist = ['aries','taurus','gemini','cancer','leo','virgo','libra','scorpio',\
          'sagittarius','capricorn','aquarius','pisces']
-for h in range(0,len(hlist)):
+for h in range(7,len(hlist)):
     corpus = []
     for i in range(0,len(date_list)):
         d = date_list[i]
