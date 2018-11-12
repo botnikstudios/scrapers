@@ -5,43 +5,61 @@ Created on Sat Jun 30 16:59:23 2018
 @author: andro
 """
 
+from selenium import webdriver
+import time
 from bs4 import BeautifulSoup
 import requests
-import string
-import os
-import time
-import re
+import unicodedata
 
+# You need to have a copy of chromedriver on your local machine. If you are using windows,
+# it should be an .exe if you are on Windows, I think no executable extension if you are Mac/Linux
+# The path to the driver goes here.
+driver = webdriver.Chrome(executable_path='.\chromedriver.exe')
+driver.implicitly_wait(30) # Good scraping practice
 
+# Put in the link for the infinite scroll page where you will be scraping from
+base_url = "https://www.womenshealthmag.com/workouts/" 
+verificationErrors = []
+accept_next_alert = True
 
-search_term = "fitness"
+driver.get(base_url)
+# Set the upper limit on how many pages you will scroll through
+max_scroll = 15
+for i in range(1,max_scroll):
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(4) # Sleep 4 seconds between scrolls so you don't get booted
+html_source = driver.page_source # Grab the HTML on the page currently
+data = html_source.encode('utf-8') 
+        
 
-# Take out any punctuation marks from name and convert to lowercase
-translator = str.maketrans('', '', string.punctuation)
+####### Now that you've collected the HTML from the infinite scroll page, you can 
+# collect links from it and scrape from those links. In this example, I am scraping fitness
+# articles from womens health magazine. The links to these articles are displayed as 
+# cards on an infinite scroll page. Now, I want to collect all the links, go to
+# the articles, and scrape the body of the text.
+soup = BeautifulSoup(data, 'html.parser')
 
-search_term = search_term.translate(translator)
-search_term = search_term.lower()
+# This is the tag that accompanies fitness article links. You will likely need to change it
+# if you are scraping a different site.
+all_links = soup.find_all(class_="full-item-title item-title")
+all_articles = []
 
-# Format search term for the URL formula
-search_term_formatted = search_term.replace(" ", "+")
+for link in all_links:
+    goto = link['href']
+    page_result = requests.get('https://www.womenshealthmag.com' + goto)
+    res_soup = BeautifulSoup(page_result.content.decode('utf-8','ignore'), 'html.parser')
 
+    # Get the body of the text
+    all_text = res_soup.find_all(class_='body-text')
+    txt = ""
+    for block in all_text:
+        tmp_txt = block.get_text()
+        new_str = unicodedata.normalize("NFKD", tmp_txt)
+        txt = txt + new_str
+    all_articles.append(txt)
 
-save_link = []
-
-
-page_link = 'https://www.womenshealthmag.com/search/?q=' + search_term_formatted
-page = requests.get(page_link)
-soup = BeautifulSoup(page.content, 'html.parser')
-all_links = soup.find_all('a')
-
-for i in range(1,15):
-	# Go to every page and get the list of links
-	page_link = 'http://allrecipes.com/search/results/?wt=' + search_term_formatted + '&page=' + str(i)
-	page = requests.get(page_link)
-	soup = BeautifulSoup(page.content, 'html.parser')
-	all_links = soup.find_all('a')
-	for link in all_links:
-		if link.find_all(class_="simple-item-image item-image"):
-			save_link.append(link["href"])
-            
-save_link = [ x for x in save_link if "http://allrecipes.com" in x ]
+# Save all the articles you collected in a .txt file 
+f = open("womenshealth_fitness_articles.txt","w")
+for item in all_articles:
+  f.write(str(item.encode('latin1', errors='ignore')))  
+f.close()
