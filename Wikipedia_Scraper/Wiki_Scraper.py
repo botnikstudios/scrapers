@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import string
 
 # What is the page base?
-page_name = "https://en.wikipedia.org/wiki/List_of_people_who_were_beheaded"
+page_name = "https://en.wikipedia.org/wiki/List_of_city_nicknames_and_slogans_in_Canada"
 
 page = requests.get(page_name)
 soup = BeautifulSoup(page.content, 'html.parser')
@@ -20,8 +20,8 @@ header_tags = soup.find_all("h2")
 head_tag = soup.h2 # This is always contents
 
 page_title = soup.h1.get_text().encode('utf-8', errors='ignore')
-page_title= page_title.translate(None, string.punctuation).lower()
-page_title_formatted = page_title.replace(" ", "_")
+#page_title= page_title.translate(None, string.punctuation).lower()
+page_title_formatted = "Canada_Nicknames" #page_title.replace(" ", "_")
 
 # Remove that it says wikipedia
 
@@ -29,8 +29,9 @@ page_title_formatted = page_title.replace(" ", "_")
 
 for i in range(0, len(header_tags)-1):
     head_tag = head_tag.find_next('h2')
-    head_text = head_tag.get_text().encode('utf-8', errors='ignore').replace('[edit]', '')
-    head_text_formatted = head_text.replace(" ", "_").lower()
+    head_text = head_tag.get_text().encode('utf-8', errors='ignore') #.replace('[edit]', '')
+    #head_text_formatted = head_text.replace(" ", "_").lower()
+    head_text_formatted = "Nicknames"
     
     
     # Get the text below that header and save it as a corpus.

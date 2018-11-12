@@ -8,7 +8,7 @@ Created on Wed Aug 30 12:15:50 2017
 
 import time
 from bs4 import BeautifulSoup
-from urllib2 import urlopen
+from urllib.request import urlopen
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
@@ -134,16 +134,17 @@ def main(argv):
             enable_subtitles(driver)
             link = subtitles_link(driver)
             subtitles = scrape_subtitles(link)
+            f = open("./makeup/subtitles_" + str(counter) + ".txt", "wb")
+            f.write(subtitles.encode('utf-8'))
+            f.close()
+            counter += 1
         except:
             subtitles = "No Closed Caption"
-        f = open("./RR/subtitles_" + str(counter) + ".txt", "wb")
-        f.write(subtitles.encode('utf-8'))
-        f.close()
-        counter += 1
+        
 
 #if __name__ == "__main__":
 #    main(sys.argv)
 
-main('https://www.youtube.com/watch?v=fj-4buNeBX4&list=PLLCfOQcUWZboNhAV6nzjZ2PWros0i5trn')
+main('https://www.youtube.com/playlist?list=PLlz_UsT807P5DZCI2RKEnOHP2aH-bXzMY')
 
 # Links:

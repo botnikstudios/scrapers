@@ -18,5 +18,5 @@ def clean(target, destination, regex):
 		f.write(target)
 
 
-if __name__ == "__main__":
-	clean(sys.argv[1], sys.argv[2], sys.argv[3])
+#if __name__ == "__main__":
+#	clean(sys.argv[1], sys.argv[2], sys.argv[3])
